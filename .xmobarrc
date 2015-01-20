@@ -1,0 +1,28 @@
+Config { font = "-*-Fixed-Bold-R-Normal-*-13-*-*-*-*-*-*-*"
+       , bgColor = "black"
+       , fgColor = "grey"
+       , position = TopW L 90
+       , commands = [ Run Weather "EDDS" ["-t"," <tempC>°C","-L","15","-H","28","--normal","green","--high","red","--low","lightblue"] 36000
+                    , Run Cpu ["-L","3","-H","50","--normal","green","--high","red"] 10
+                    , Run Memory ["-t","Mem: <usedratio>%"] 10
+                    , Run Swap [] 10
+                    , Run Date "%a,%_d.%b %H:%M:%S" "date" 10
+                    , Run StdinReader
+                    , Run CommandReader "/home/jgoerzen/.xmonad/ledmon" "LED"
+                    , Run BatteryP ["BAT0"]
+                                   [ "-t", "power supply <acstatus> <leftbar> <left>% <watts>/<timeleft>" 
+                                   , "--"
+                                   , "-O", "charging"
+                                   , "-i", "on"
+                                   , "-o", "off"
+                                   , "-l", "red"
+                                   , "-h", "green"
+                                   , "-p", "blue"
+                                   ]
+                                   300
+                    , Run Wireless "wlan0" [ "-t", "wifi: <qualitybar> <essid>"] 200
+                    ]
+       , sepChar = "%"
+       , alignSep = "}{"
+       , template = "%StdinReader% }{%cpu% %memory% * %swap% | %battery% | %wlan0wi%    <fc=#ee9a00>%date%</fc> | %EDDS%"
+       }

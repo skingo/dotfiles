@@ -1,0 +1,4 @@
+function pd
+	popd
+
+end

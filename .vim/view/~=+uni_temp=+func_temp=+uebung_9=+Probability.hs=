@@ -1,0 +1,187 @@
+let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0
+argglobal
+setlocal keymap=
+setlocal noarabic
+setlocal noautoindent
+setlocal nobinary
+setlocal bufhidden=
+setlocal buflisted
+setlocal buftype=
+setlocal nocindent
+setlocal cinkeys=0{,0},0),:,0#,!^F,o,O,e
+setlocal cinoptions=
+setlocal cinwords=if,else,while,do,for,switch
+setlocal colorcolumn=
+setlocal comments=s1fl:{-,mb:-,ex:-},:--
+setlocal commentstring=--\ %s
+setlocal complete=.,w,b,u,t,i
+setlocal concealcursor=
+setlocal conceallevel=0
+setlocal completefunc=neocomplcache#complete#auto_complete
+setlocal nocopyindent
+setlocal cryptmethod=
+setlocal nocursorbind
+setlocal cursorcolumn
+setlocal cursorline
+setlocal define=
+setlocal dictionary=
+setlocal nodiff
+setlocal equalprg=
+setlocal errorformat=%-Z\ %#,%W%f:%l:%c:\ Warning:\ %m,%E%f:%l:%c:\ %m,%E%>%f:%l:%c:,%+C\ \ %#%m,%W%>%f:%l:%c:,%+C\ \ %#%tarning:\ %m,
+setlocal expandtab
+if &filetype != 'haskell'
+setlocal filetype=haskell
+endif
+setlocal foldcolumn=0
+setlocal foldenable
+setlocal foldexpr=0
+setlocal foldignore=#
+setlocal foldlevel=0
+setlocal foldmarker={{{,}}}
+setlocal foldmethod=manual
+setlocal foldminlines=1
+setlocal foldnestmax=20
+setlocal foldtext=HaskellFoldText()
+setlocal formatexpr=
+setlocal formatoptions=croql
+setlocal formatlistpat=^\\s*\\d\\+[\\]:.)}\\t\ ]\\s*
+setlocal grepprg=
+setlocal iminsert=0
+setlocal imsearch=0
+setlocal include=^import\\s*\\(qualified\\)\\?\\s*
+setlocal includeexpr=substitute(v:fname,'\\.','/','g').'.'
+setlocal indentexpr=GetHaskellIndent()
+setlocal indentkeys=!^F,o,O
+setlocal noinfercase
+setlocal iskeyword=@,48-57,_,192-255
+setlocal keywordprg=
+setlocal nolinebreak
+setlocal nolisp
+setlocal nolist
+setlocal makeprg=ghc\ \ -e\ :q\ %
+setlocal matchpairs=(:),{:},[:]
+setlocal modeline
+setlocal modifiable
+setlocal nrformats=octal,hex
+setlocal number
+setlocal numberwidth=4
+setlocal omnifunc=GHC_CompleteImports
+setlocal path=
+setlocal nopreserveindent
+setlocal nopreviewwindow
+setlocal quoteescape=\\
+setlocal noreadonly
+setlocal norelativenumber
+setlocal norightleft
+setlocal rightleftcmd=search
+setlocal noscrollbind
+setlocal shiftwidth=4
+setlocal noshortname
+setlocal nosmartindent
+setlocal softtabstop=0
+setlocal nospell
+setlocal spellcapcheck=[.?!]\\_[\\])'\"\	\ ]\\+
+setlocal spellfile=
+setlocal spelllang=en
+setlocal statusline=
+setlocal suffixesadd=hs,lhs,hsc
+setlocal swapfile
+setlocal synmaxcol=3000
+if &syntax != 'haskell'
+setlocal syntax=haskell
+endif
+setlocal tabstop=4
+setlocal tags=
+setlocal textwidth=0
+setlocal thesaurus=
+setlocal noundofile
+setlocal nowinfixheight
+setlocal nowinfixwidth
+setlocal wrap
+setlocal wrapmargin=0
+silent! normal! zE
+1,1fold
+1,1fold
+4,6fold
+12,13fold
+12,13fold
+18,20fold
+18,20fold
+22,22fold
+24,32fold
+34,34fold
+34,34fold
+36,37fold
+36,37fold
+39,39fold
+41,53fold
+41,53fold
+58,58fold
+55,64fold
+66,75fold
+78,78fold
+78,78fold
+80,85fold
+89,89fold
+87,89fold
+93,93fold
+91,95fold
+97,98fold
+97,100fold
+105,196fold
+1
+normal! zo
+1
+normal! zc
+12
+normal! zo
+12
+normal! zc
+18
+normal! zo
+18
+normal! zc
+34
+normal! zo
+34
+normal! zc
+36
+normal! zo
+36
+normal! zc
+41
+normal! zo
+41
+normal! zc
+55
+normal! zo
+55
+normal! zc
+78
+normal! zo
+78
+normal! zc
+87
+normal! zo
+87
+normal! zc
+91
+normal! zo
+91
+normal! zc
+97
+normal! zo
+97
+normal! zc
+105
+normal! zo
+let s:l = 192 - ((32 * winheight(0) + 18) / 37)
+if s:l < 1 | let s:l = 1 | endif
+exe s:l
+normal! zt
+192
+normal! 063|
+lcd ~/uni_temp/func_temp/uebung_9
+let &so = s:so_save | let &siso = s:siso_save
+doautoall SessionLoadPost
+" vim: set ft=vim :

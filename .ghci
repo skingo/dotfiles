@@ -1,0 +1,4 @@
+:def hoogle \x -> return $ ":!hoogle \"" ++ x ++ "\""
+:def doc \x -> return $ ":!hoogle --info \"" ++ x ++ "\""
+:set editor vim
+:set prompt "GHCi: %s> "

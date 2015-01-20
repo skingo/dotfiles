@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/home/skinge/uni_temp/ids_temp/uebung_6/test_samir/subfolder'
+let g:netrw_dirhist_2='/home/skinge/uni_temp/func_temp/uebung_8'
+let g:netrw_dirhist_3='/home/skinge/foo'
+let g:netrw_dirhist_4='/home/skinge/foo/foobar'

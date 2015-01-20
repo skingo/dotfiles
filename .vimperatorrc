@@ -1,0 +1,29 @@
+
+" numbers displayed in tab bar
+set tabnumbers
+
+" faster scrolling
+noremap j 5j
+noremap k 5k
+" even faster scrolling
+noremap J <C-d>
+noremap K <C-u>
+
+" open in new tab
+:map F ;t
+" open in new tab in background
+:map h ;b
+
+" navigate a tab left or right
+:map <C-H> gT
+:map <C-L> gt
+:map <C-Left> gT
+:map <C-Right> gt
+:map <C-Space> <C-D>
+:map <C-S-Space> <C-U>
+:map <Leader>t <C-V><S-A-D>
+" exit insert mode (useful in facebook messages, where <Esc> closes window)
+:imap <C-G> <C-[>
+
+
+
