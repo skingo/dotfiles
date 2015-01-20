@@ -1,3 +1,5 @@
 
 fish/fish_history
 .vim/view/**
+.vimperator/info/default/history-command
+.vimperator/info/default/history-search
