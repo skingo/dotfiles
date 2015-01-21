@@ -1,3 +1,4 @@
 function top
-	pushd $top
+    pushd $top
+    tmux rename-window "top"
 end

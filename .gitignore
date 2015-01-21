@@ -1,8 +1,11 @@
 
 fish/fish_history
 .vim/view/**
+
+# omit all files of .vimperator or only useless ones (if there are useful ones?)
 .vimperator/info/default/history-command
 .vimperator/info/default/history-search
+.vimperator/info/default/local-marks
 
 # these cannot be committed (b/c they are repos themselves?)
 .vim/bundle/vim-abolish/

@@ -7,4 +7,5 @@ function param
     else
        pushd {$param}uebung_{$argv}
     end
+    tmux rename-window "param"
 end
