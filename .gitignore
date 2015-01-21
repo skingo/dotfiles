@@ -3,3 +3,8 @@ fish/fish_history
 .vim/view/**
 .vimperator/info/default/history-command
 .vimperator/info/default/history-search
+
+# these cannot be committed (b/c they are repos themselves?)
+.vim/bundle/vim-abolish/
+.vim/bundle/vim-hoogle/
+.vim/bundle/vim-multiple-cursors/
