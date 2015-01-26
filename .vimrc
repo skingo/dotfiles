@@ -1,5 +1,7 @@
 " avoid function key problems when using tmux -----------{{{
-set term=xterm
+if !has("gui_running")
+    set term=xterm
+endif
 "}}}
 
 " typo --------------------------------{{{
@@ -18,35 +20,40 @@ syntax enable
 " opens new split on right/bottom instead of left/top
 set splitbelow
 set splitright
-set nocp "keine vi-Kompatibilitaet
+set nocompatible "keine vi-Kompatibilitaet
 " search treats capital letters as capital, small case as either small or capital
+set ignorecase
 set smartcase
+set smarttab
 set expandtab
 set mouse=nvi "Maus aktiv in normal, visual und insert-mode, alternativ: a fuer all
 set number "Zeilennummerierung
 set ruler "Positionsanzeige
 set scrolloff=2 "scrollt schon 2 Zeilen vor oberem/unterem Rand
+set sidescrolloff=5
 set foldmethod=syntax
 " folds are displayed on margin of width 'foldcolumn'
 set foldcolumn=4
 "set nofoldenable "Faltung beim Start deaktiviert
 set cmdheight=2 "setzt Kommandozeile auf Hoehe 2
 set cursorline "zeigt Cursorposition o
-set hls "highlightet gesuchte Wort
-set is "inkrementell waehrend dem Tippen suchen
+set hlsearch "highlightet gesuchte Wort
+set incsearch "inkrementell waehrend dem Tippen suchen
 set backspace=indent,eol,start "maechtigeres Backspacing
 set laststatus=2 "zeigt Statusleiste immer an
 set showmatch "Klammern hervorheben
-set mat=2 "2 zehntel Sekunden blinken
+set matchtime=2 "2 zehntel Sekunden blinken
 set tabstop=4
+set showcmd
 set background=dark
+set wildmenu
 set shiftwidth=4 " sets width for shifting with << or >>
 set cursorcolumn "set highlighting of cursor column
-highlight CursorColumn ctermbg=Blue  "and change highlight color
+"and change highlight color
+highlight CursorColumn ctermbg=Green 
 " }}}
 
 "" airline settings -------------------------{{{
-"set laststatus=2
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts=1
 "let g:airline_left_sep = ''
@@ -154,6 +161,10 @@ onoremap il] :<c-u>normal! F]vi[<cr>
 " moved to ~/.vim/plugin/grep-operator.vim with additional functionality
 "nnoremap <leader>g :silent execute "grep! -R " . shellescape(expand("<cWORD>")) . " ."<cr>:copen<cr>:redraw!<CR>
 
+" make minibufexpl appear on top instead of bottom (bottom is induced by splitbelow option)
+let g:miniBufExplBRSplit=0
+nnoremap <F8> :MBEToggle<CR>:MBEFocus<CR>
+
 nnoremap <Leader>vv :!clear<CR>
 " redraw screen
 nnoremap <Leader>red :redraw!<CR>
@@ -224,7 +235,9 @@ if has("gui_running")
     " GUI is running or is about to start.
     " Maximize gvim window.
     set lines=55 columns=180
-    colorscheme koehler
+    "colorscheme koehler
+    colorscheme solarized
+    set guifont=Liberation\ Mono\ for\ Powerline\ 10
 endif
 " }}}
 
