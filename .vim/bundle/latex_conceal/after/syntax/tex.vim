@@ -1,6 +1,5 @@
 
 " copied from 'references' (to avoid lag while editing)
-" " copied from 'references' (to avoid lag while editing)
 syn match texMathSymbol '\\oplus\>' contained conceal cchar=⊕
 syn match texMathSymbol '\\ominus\>' contained conceal cchar=⊖
 syn match texMathSymbol '\\otimes\>' contained conceal cchar=⊗
@@ -30,6 +29,11 @@ syn match texMathSymbol '\\iff\>' contained conceal cchar=⇔
 
 syn match texMathSymbol '\\land\>' contained conceal cchar=∧
 syn match texMathSymbol '\\lor\>' contained conceal cchar=∨
+
+syn match texMathSymbol '\\left\\lvert\>' contained conceal cchar=|
+syn match texMathSymbol '\\right\\rvert\>' contained conceal cchar=|
+syn match texMathSymbol '\\lvert\>' contained conceal cchar=|
+syn match texMathSymbol '\\rvert\>' contained conceal cchar=|
 
 " my own contributions:
 

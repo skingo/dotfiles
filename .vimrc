@@ -71,11 +71,18 @@ colorscheme solarized
 let g:solarized_termcolors = 256
 " }}}
 
-"" NerdCommenter alternative for tex, currently not working ----------{{{
+"" NerdCommenter cutomization ----------{{{
+let g:NERDCustomDelimiters = {
+    \ 'fish': { 'left' : '#' },
+    \ 'tex': { 'left': '%', 'leftAlt': '\\begin{comment}\r', 'rightAlt': '\r\\end{comment}' },
+    \ 'haskell': { 'leftAlt': '{-','rightAlt': '-}', 'left': '-- ', 'right': '' },
+\ }
 "" make comment env alternate comment for nerdcommenter in tex
 "let g:NERDCustomDelimiters = {
-            "\ 'tex': { 'left': '%', 'leftAlt': '\\begin{comment}\n', 'rightAlt': '\\end{comment}' }
             "\ }
+"let g:NERDCustomDelimiters
+" sexily comment out whole paragraph
+nnoremap <leader>cp vip:call NERDComment("x", "Sexy")<CR>
 "" }}}
 
 "" Tabularize script for tables, not working -------------------------{{{
@@ -160,6 +167,11 @@ onoremap il] :<c-u>normal! F]vi[<cr>
 " grep for word under cursor in current dir
 " moved to ~/.vim/plugin/grep-operator.vim with additional functionality
 "nnoremap <leader>g :silent execute "grep! -R " . shellescape(expand("<cWORD>")) . " ."<cr>:copen<cr>:redraw!<CR>
+
+let g:bufferline_echo=0
+
+" patterns not expanded by wildcards
+set wildignore=*.o,*.pdf,*.exe,*.png
 
 " make minibufexpl appear on top instead of bottom (bottom is induced by splitbelow option)
 let g:miniBufExplBRSplit=0
@@ -254,15 +266,6 @@ if exists(":Tabularize")
     vnoremap <Leader>w, :Tabularize /,\zs<CR>
     vnoremap <Leader>w, :Tabularize /,\zs<CR>
 endif
-" }}}
-
-" NERDcomment customization -------------{{{
-"let NERD_haskell_alt_style=1 " for some reason, doesn't work, workaround:
-let g:NERDCustomDelimiters = {
-    \ 'haskell': { 'leftAlt': '{-','rightAlt': '-}', 'left': '-- ', 'right': '' },
-    \ }
-" sexily comment out whole paragraph
-nnoremap <leader>cp vip:call NERDComment("x", "Sexy")<CR>
 " }}}
 
 " NERDtree customization ----------------{{{

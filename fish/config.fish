@@ -9,7 +9,7 @@ set info3 {$ws}/info_3-tutorium/
 set leist {$ws}/leistungsbewertung/
 set top {$ws}/topologie/
 set param {$ws}/parametrisierte_algorithmen/parametrisierte_algorithmen/
-set kompl {$ws}/komplexitaetstheorie/komplexit-tstheorie_seminar/
+set kompl {$ws}/komplexitaetstheorie/komplexitaetstheorie_poster/
 
 set krypt {$ws}/kryptologie/
 set -x PYTHONSTARTUP ~/.pythonrc 
@@ -25,4 +25,4 @@ function fish_user_key_bindings
 end
 
 # start tmux session (-2 is used for color support for vim solarized (though it does not seem to help))
-tmux -2
+tmux

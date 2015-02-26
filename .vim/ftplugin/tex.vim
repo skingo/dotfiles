@@ -44,7 +44,11 @@ call IMAP('`E', '\exists ', 'tex')
 call IMAP('`A', '\forall ', 'tex')
 call IMAP('=>', '\implies ', 'tex')
 call IMAP('<=>', '\iff ', 'tex')
+call IMAP('->', '\to ', 'tex')
+call IMAP('-->', '\mapsto ', 'tex')
+call IMAP('<->', '\leftrightarrow ', 'tex')
 
+call IMAP('||', '\left\lvert <++> \right\rvert <++>', 'tex')
 
 " use german quotation marks instead of english ones:
 "let g:Tex_SmartQuoteOpen = ",,"

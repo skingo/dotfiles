@@ -1,0 +1,16 @@
+.bashrc
+fish/*
+.ghci
+.git
+.muttatorrc
+.pentadactylrc
+.tmux.conf
+.tmuxline
+.vim/*
+.vimperator
+.vimperatorrc
+.vimrc
+.xmobarrc
+.xmonad
+.gitignore
+.gitadd

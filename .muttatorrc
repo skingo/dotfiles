@@ -1,0 +1,7 @@
+"1.2 (created: 2013/10/13 18:08:56)
+
+map <C-l> gt
+map <C-h> gT
+source! /home/skinge/.muttatorrc.local
+
+" vim: set ft=muttator:
