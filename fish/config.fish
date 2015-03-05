@@ -11,6 +11,8 @@ set top {$ws}/topologie/
 set param {$ws}/parametrisierte_algorithmen/parametrisierte_algorithmen/
 set kompl {$ws}/komplexitaetstheorie/komplexitaetstheorie_poster/
 
+set toprint {$HOME}/Desktop/toprint/
+
 set krypt {$ws}/kryptologie/
 set -x PYTHONSTARTUP ~/.pythonrc 
 set -gx PATH {$HOME}/.cabal/bin $PATH

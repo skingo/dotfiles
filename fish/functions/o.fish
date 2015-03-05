@@ -1,3 +1,3 @@
 function o --description 'open file'
-    open $argv
+	open $argv
 end

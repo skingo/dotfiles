@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.fish set filetype=fish
+set noexpandtab

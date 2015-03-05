@@ -1,3 +1,3 @@
 function logout-gnome
-	gnome-session-quit 
+	gnome-session-quit
 end

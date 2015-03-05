@@ -1,3 +1,3 @@
 function r
-	ranger
+	ranger $argv
 end
