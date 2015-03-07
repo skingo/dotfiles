@@ -1,0 +1,6 @@
+- cmd: efiejf
+   when: 1425759560
+- cmd: bar
+   when: 1425759594
+   paths:
+    - bar

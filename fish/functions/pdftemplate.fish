@@ -15,6 +15,18 @@ function pdftemplate
 			cp {$HOME}/Desktop/pdf_template/long_content.tex .
 		else if [ $argv[1] = 'pic' ]
 			cp {$HOME}/Desktop/pdf_template/picture.tex .
+        else if [ $argv[1] = 'int' ]
+            echo "interactive mode"
+            echo "use long content files? (y/n)"
+            read answ
+            if [ $answ = 'y' ]
+                cp {$HOME}/Desktop/pdf_template/long_content.tex .
+                echo "using long content files"
+            else if [ $answ != 'n' ]
+                echo "TODO: repeat"
+            else
+                echo "using long content files"
+            end
 		end
 	else if [ (count $argv) != 0 ]
 		echo 'only \'long\' and \'pic\' allowed as parameters'

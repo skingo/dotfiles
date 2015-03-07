@@ -5,5 +5,4 @@ function monon
 	gsettings set org.gnome.desktop.session idle-delay 0
 	gsettings list-recursively org.gnome.desktop.session | grep 'idle'
 	echo "monitor dimming disabled";
-
 end

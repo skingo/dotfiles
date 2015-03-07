@@ -21,8 +21,11 @@ inoremap <S-Tab> <BS><BS>
 
 nnoremap <silent> <Leader>no mX/xxfoobarxx<CR>`X:nohlsearch
 
-" `w makes \omega instead of \wedge
-call IMAP('`w', '\omega', 'tex')
+"----------------------------------------
+" macros that overwrite plugin          "
+" defaults need to be stored in         "
+" $vimdir/after/ftplugin/tex_macros.vim "
+"----------------------------------------
 
 " get item easily
 call IMAP('II', '\item <++>', 'tex')
@@ -30,16 +33,8 @@ call IMAP('II', '\item <++>', 'tex')
 " easy align* environment
 call IMAP('EAG', "\\begin{align*}\n<++>\n\\end{align*}", 'tex')
 
-" change section commands to use starred version
-call IMAP('SSE', '\section*{<++>}', 'tex')
-call IMAP('SSS', '\subsection*{<++>}', 'tex')
-call IMAP('SS2', '\subsubsection*{<++>}', 'tex')
-
 call IMAP('~~', '\approx ', 'tex')
 call IMAP('`°', '^\circ ', 'tex')
-call IMAP('`0', '\emptyset ', 'tex')
-call IMAP('`(', '\subseteq ', 'tex')
-call IMAP('`)', '\supseteq ', 'tex')
 call IMAP('`E', '\exists ', 'tex')
 call IMAP('`A', '\forall ', 'tex')
 call IMAP('=>', '\implies ', 'tex')

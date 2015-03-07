@@ -1,8 +1,7 @@
 set EDITOR vim
-set -x ws $HOME/uni/ws_14-15/
-set -x ss $HOME/uni/ss_14/
-set fp {$ss}/func_prog/
-set ids {$ss}/ids/
+set uni /home/skinge/uni
+set -x ws {$uni}/ws_14-15
+set -x ss {$uni}/ss_15
 set epc_v {$ws}/enterprise_computing_vl/
 set epc_p {$ws}/enterprise_computing_praktikum/enterprise-computing/
 set info3 {$ws}/info_3-tutorium/
@@ -10,6 +9,7 @@ set leist {$ws}/leistungsbewertung/
 set top {$ws}/topologie/
 set param {$ws}/parametrisierte_algorithmen/parametrisierte_algorithmen/
 set kompl {$ws}/komplexitaetstheorie/komplexitaetstheorie_poster/
+set mpc {$ss}/massively_parallel_computing/
 
 set toprint {$HOME}/Desktop/toprint/
 
