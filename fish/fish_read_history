@@ -4,3 +4,31 @@
    when: 1425759594
    paths:
     - bar
+- cmd: C
+   when: 1425761579
+- cmd: toprint
+   when: 1425761587
+- cmd: foo
+   when: 1425780372
+   paths:
+    - foo
+- cmd: baz
+   when: 1425780447
+- cmd: foobar
+   when: 1425780520
+   paths:
+    - foobar
+- cmd: baz
+   when: 1425780522
+- cmd: baz
+   when: 1425843080
+- cmd: foobar
+   when: 1425843095
+   paths:
+    - foobar
+- cmd: fe
+   when: 1425843380
+- cmd: baaaar
+   when: 1425843395
+- cmd: ls
+   when: 1426515741

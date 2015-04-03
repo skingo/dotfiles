@@ -1,4 +1,4 @@
-set EDITOR vim
+set -x EDITOR vim
 set uni /home/skinge/uni
 set -x ws {$uni}/ws_14-15
 set -x ss {$uni}/ss_15
@@ -14,7 +14,7 @@ set mpc {$ss}/massively_parallel_computing/
 set toprint {$HOME}/Desktop/toprint/
 
 set krypt {$ws}/kryptologie/
-set -x PYTHONSTARTUP ~/.pythonrc 
+set -x PYTHONSTARTUP ~/.pythonrc
 set -gx PATH {$HOME}/.cabal/bin $PATH
 #set -x TERM "screen-256color-bce"
 
@@ -27,4 +27,6 @@ function fish_user_key_bindings
 end
 
 # start tmux session (-2 is used for color support for vim solarized (though it does not seem to help))
-tmux
+#tmux
+# opens tmux and creates session 1 if it does not exists, else it copies session 1
+if begin; tmux has-session -t 1; end; tmux new-session -t 1; else; tmux new-session -s 1; end

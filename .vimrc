@@ -1,6 +1,13 @@
+" leader mapped to , -------------{{{
+" see if this is useful
+let mapleader=','
+" to go backwards when using f, F, t, T
+nnoremap <C-Q> ,
+"}}}
+
 " avoid function key problems when using tmux -----------{{{
 if !has("gui_running")
-    set term=xterm
+  set term=xterm
 endif
 "}}}
 
@@ -14,43 +21,56 @@ command! QA qa
 
 " settings ----------------------------{{{
 " enable pathogen
-execute pathogen#infect()
-filetype indent on
-syntax enable
-" opens new split on right/bottom instead of left/top
-set splitbelow
-set splitright
-set nocompatible "keine vi-Kompatibilitaet
-" search treats capital letters as capital, small case as either small or capital
-set ignorecase
-set smartcase
-set smarttab
-set expandtab
-set mouse=nvi "Maus aktiv in normal, visual und insert-mode, alternativ: a fuer all
-set number "Zeilennummerierung
-set ruler "Positionsanzeige
-set scrolloff=2 "scrollt schon 2 Zeilen vor oberem/unterem Rand
-set sidescrolloff=5
-set foldmethod=syntax
-" folds are displayed on margin of width 'foldcolumn'
-set foldcolumn=4
-"set nofoldenable "Faltung beim Start deaktiviert
-set cmdheight=2 "setzt Kommandozeile auf Hoehe 2
-set cursorline "zeigt Cursorposition o
-set hlsearch "highlightet gesuchte Wort
-set incsearch "inkrementell waehrend dem Tippen suchen
-set backspace=indent,eol,start "maechtigeres Backspacing
-set laststatus=2 "zeigt Statusleiste immer an
-set showmatch "Klammern hervorheben
-set matchtime=2 "2 zehntel Sekunden blinken
-set tabstop=4
-set showcmd
-set background=dark
-set wildmenu
-set shiftwidth=4 " sets width for shifting with << or >>
-set cursorcolumn "set highlighting of cursor column
-"and change highlight color
-highlight CursorColumn ctermbg=Green 
+if !exists("g:colors_set")
+  execute pathogen#infect()
+  filetype indent on
+  syntax enable
+  " opens new split on right/bottom instead of left/top
+  set splitbelow
+  set splitright
+  set nocompatible "keine vi-Kompatibilitaet
+  " search treats capital letters as capital, small case as either small or capital
+  set ignorecase
+  set smartcase
+  set smarttab
+  set expandtab
+  set mouse=nvi "Maus aktiv in normal, visual und insert-mode, alternativ: a fuer all
+  set number "Zeilennummerierung
+  set ruler "Positionsanzeige
+  set scrolloff=2 "scrollt schon 2 Zeilen vor oberem/unterem Rand
+  set sidescrolloff=5
+  set foldmethod=syntax
+  " folds are displayed on margin of width 'foldcolumn'
+  set foldcolumn=4
+  "set nofoldenable "Faltung beim Start deaktiviert
+  set cmdheight=2 "setzt Kommandozeile auf Hoehe 2
+  set cursorline "zeigt Cursorposition o
+  set hlsearch "highlightet gesuchte Wort
+  set incsearch "inkrementell waehrend dem Tippen suchen
+  set backspace=indent,eol,start "maechtigeres Backspacing
+  set laststatus=2 "zeigt Statusleiste immer an
+  set showmatch "Klammern hervorheben
+  set matchtime=2 "2 zehntel Sekunden blinken
+  set tabstop=4
+  set showcmd
+  set background=dark
+  set wildmenu
+  set shiftwidth=4 " sets width for shifting with << or >>
+  set cursorcolumn "set highlighting of cursor column
+  "and change highlight color
+  "highlight CursorColumn ctermbg=Green
+endif
+" }}}
+
+" settings for solarized colorscheme (do not move before "settings") ----{{{
+let g:colors_set = 1
+let g:solarized_termtrans = 1
+set t_Co=256 " either t_Co = 256 = g:solarized_termcolors or both set to 16 (default for solarized_termcolors)
+"set t_Co=16
+"set t_Co=-2
+set t_ut=
+colorscheme solarized
+"let g:solarized_termcolors = 256
 " }}}
 
 "" airline settings -------------------------{{{
@@ -60,16 +80,6 @@ let g:airline_powerline_fonts=1
 "let g:airline_left_sep='▶'
 "let g:airline_right_sep='◀'
 "" }}}
-
-" settings for solarized colorscheme (do not move before "settings") ----{{{
-let g:solarized_termtrans = 1
-set t_Co=256 " either t_Co = 256 = g:solarized_termcolors or both set to 16 (default for solarized_termcolors)
-"set t_Co=16
-"set t_Co=-2
-set t_ut=
-colorscheme solarized
-let g:solarized_termcolors = 256
-" }}}
 
 "" NerdCommenter cutomization ----------{{{
 let g:NERDCustomDelimiters = {
@@ -168,6 +178,20 @@ onoremap il] :<c-u>normal! F]vi[<cr>
 " moved to ~/.vim/plugin/grep-operator.vim with additional functionality
 "nnoremap <leader>g :silent execute "grep! -R " . shellescape(expand("<cWORD>")) . " ."<cr>:copen<cr>:redraw!<CR>
 
+
+" cool shortcut for fast global search
+nnoremap <leader>/ :%s//g<Left><Left>
+
+" use ctrl j and k to scroll through command history (mind that q: is a good
+" option too)
+cnoremap <C-K> <Up>
+cnoremap <C-J> <Down>
+cnoremap <C-L> <Right>
+cnoremap <C-H> <Left>
+
+" use . in normal mode (does this not work normally?)
+vnoremap . :normal! .<CR>
+
 let g:bufferline_echo=0
 
 " patterns not expanded by wildcards
@@ -211,15 +235,28 @@ vnoremap <C-C> "+y
 "nnoremap <C-P> "+P
 "vnoremap <C-P> "+P
 
-"change tabs
-"noremap <C-H> gT
-"noremap <C-L> gt
-" change splits instead
-nnoremap <C-H> :wincmd h<CR>
-nnoremap <C-L> :wincmd l<CR>
-nnoremap <C-F> :wincmd j<CR>
-nnoremap <C-K> :wincmd k<CR>
-nnoremap <C-P> :wincmd _ <bar> wincmd <bar><CR>
+""change tabs
+""noremap <C-H> gT
+""noremap <C-L> gt
+"" change splits instead
+"nnoremap <C-H> :wincmd h<CR>
+"nnoremap <C-L> :wincmd l<CR>
+"" no more clash with latex IMAP_JumpForward, since other mapping was set in
+"" plugin/imaps.vim
+""nnoremap <C-F> :wincmd j<CR>
+"nnoremap <C-J> :wincmd j<CR>
+"nnoremap <C-K> :wincmd k<CR>
+"nnoremap <C-P> :wincmd _ <bar> wincmd <bar><CR>
+
+let g:tmux_navigator_no_mappings = 1
+nnoremap <silent> <C-H> :TmuxNavigateLeft<CR>
+nnoremap <silent> <C-L> :TmuxNavigateRight<CR>
+nnoremap <silent> <C-K> :TmuxNavigateUp<CR>
+nnoremap <silent> <C-J> :TmuxNavigateDown<CR>
+inoremap <silent> <C-H> <Esc>:TmuxNavigateLeft<CR>
+inoremap <silent> <C-L> <Esc>:TmuxNavigateRight<CR>
+inoremap <silent> <C-K> <Esc>:TmuxNavigateUp<CR>
+inoremap <silent> <C-J> <Esc>:TmuxNavigateDown<CR>
 
 " ctrl k switches splitted windows
 " nnoremap <C-K> :wincmd w<CR>
@@ -281,6 +318,14 @@ augroup haskell
 augroup END
 " }}}
 
+" tslime config------------------{{{
+vmap <C-C><C-C> <Plug>SendSelectionToTmux
+" does not work this way, needs fixing:
+"vmap <C-C><C-x> <Plug>SendSelectionToTmux :call SendToTmux("\r")<CR>
+nmap <C-C><C-C> <Plug>NormalModeSendToTmux
+nmap <C-C>r <Plug>SetTmuxVars
+" }}}
+
 " function to set cwd to filepath ----{{{
 function! SetCwd()
     execute "cd " . expand('%:p:h')
@@ -295,7 +340,7 @@ while c <= 'z'
     let c = nr2char(1+char2nr(c))
 endw
 set timeout ttimeoutlen=50
-noremap <m-h> <Left>
+noremap <m-h> <g>
 noremap <m-l> <Right>
 " }}}
 
@@ -333,11 +378,12 @@ function! MakeViewCheck()
         " help files should be skipped
         return 0
     endif
-    if expand('%:p:h:h') == '/home/skinge/.vim' || expand('%:p:h:h:h') == '/home/skinge/.vim' || expand('%') == '.vimrc'
+    "if expand('%:p:h:h') == '/home/skinge/.vim' || expand('%:p:h:h:h') == '/home/skinge/.vim' || expand('%:t') == '.vimrc'
+    if expand('%:t') == '.vimrc'
         " so should vim files
         return 0
     endif
-    if &filetype == 'gitcommit'
+    if &filetype == 'gitcommit' || &filetype == 'nerdtree'
         " git commit messages should also be skipped
         return 0
     endif
@@ -363,7 +409,7 @@ filetype plugin on
 
 " IMPORTANT: win32 users will need to have 'shellslash' set so that latex
 " can be called correctly.
-set shellslash
+"set shellslash
 
 " IMPORTANT: grep will sometimes skip displaying the file name if you
 " search in a singe file. This will confuse Latex-Suite. Set your grep
@@ -434,7 +480,7 @@ inoremap <expr><C-e> neocomplcache#cancel_popup()
 "inoremap <expr><Space> pumvisible() ? neocomplcache#close_popup() : "\<Space>"
 
 " For cursor moving in insert mode(Not recommended)
-"inoremap <expr><Left> neocomplcache#close_popup() . "\<Left>"
+"inoremap <expr><g> neocomplcache#close_popup() . "\<Left>"
 "inoremap <expr><Right> neocomplcache#close_popup() . "\<Right>"
 "inoremap <expr><Up> neocomplcache#close_popup() . "\<Up>"
 "inoremap <expr><Down> neocomplcache#close_popup() . "\<Down>"

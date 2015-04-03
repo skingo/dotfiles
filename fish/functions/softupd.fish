@@ -1,5 +1,4 @@
 function softupd
 	sudo apt-get update
-sudo apt-get upgrade
-
+	and sudo apt-get upgrade
 end
