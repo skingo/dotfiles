@@ -26,6 +26,7 @@ noremap <Leader>t <C-V><S-A-D>
 inoremap <C-G> <C-[>
 nnoremap <C-G> <silent> <NOP>
 
+" navigate in commandline using Control and h,j,k,l
 cnoremap <C-H> <Left>
 cnoremap <C-L> <Right>
 cnoremap <C-J> <Down>
