@@ -391,6 +391,10 @@ function! MakeViewCheck()
         " File is in skip list
         return 0
     endif
+    if expand('%:p') == '/home/skinge/.xmonad/xmonad.hs' || expand('%:p') == '/home/skinge/dotfiles/.xmonad/xmonad.hs'
+        " we are in a xmonad config file
+        return 0
+    endif
     return 1
 endfunction
 augroup vimrcAutoView

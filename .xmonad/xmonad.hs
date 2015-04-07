@@ -14,8 +14,10 @@ import XMonad.Util.Dzen
 
 import qualified XMonad.Prompt as P
 import XMonad.Prompt.Workspace
+import XMonad.Prompt.Shell
+import XMonad.Prompt.XMonad
 
-import XMonad.Layout.NoBorders -- used for smartBorders
+import XMonad.Layout.NoBorders
 import XMonad.Layout.PerWorkspace (onWorkspace,PerWorkspace)
 import XMonad.Layout.Grid
 import XMonad.Layout.Spiral
@@ -29,12 +31,33 @@ import XMonad.Actions.CycleWS -- used for nextWS etc
 import XMonad.Actions.Volume
 import XMonad.Actions.TopicSpace
 
+--  import Data.Monoid -- needed for Data.Monoid.Endo type
 import System.IO
 import Graphics.X11.ExtraTypes.XF86
---  import Data.Monoid -- needed for Data.Monoid.Endo type
 import qualified Data.Map as M
+import Text.Printf (printf)
+import Data.List (isPrefixOf)
 
 --  import XMonad.Config.Gnome
+
+------------------------------ basic config ------------------------------------
+
+myTerminal :: String
+myTerminal = "gnome-terminal"
+
+myShell :: String
+myShell = "fish"
+
+-- taken over by topics...
+--  -- set up workspaces
+--  myWorkspaces :: [String]
+--  myWorkspaces = ["1:web","2:term", "3:mail", "4:tex"] ++ map show [5..8::Integer] ++ ["9:video"]
+
+modm :: KeyMask
+modm =
+    mod4Mask
+
+------------------------------ dzen utils --------------------------------------
 
 -- display volume outputs using dzen
 displayVolume :: Double -> X ()
@@ -71,12 +94,12 @@ displayStringLine s w h = dzenConfig (timeout 1 >=> centered) s
             >=> addArgs ["-fg", "#80c0ff"]
             >=> addArgs ["-fg", "#000040"]
 
---  -- set up workspaces
---  myWorkspaces :: [String]
---  myWorkspaces = ["1:web","2:term", "3:mail", "4:tex"] ++ map show [5..8::Integer] ++ ["9:video"]
+-------------------------- handle volume ---------------------------------------
 
 speakersOn :: X ()
 speakersOn = spawn "amixer -D pulse sset Master on"
+
+-------------------------- manage hook -----------------------------------------
 
 {-
  - to find out class of a window, use xprop in terminal and click respective window
@@ -90,11 +113,15 @@ myManageHooks = composeAll [
     , manageHook defaultConfig
     ]
 
+--------------------------- log hook (mainly for xmobar) -----------------------
+
 myLogHook :: Handle -> X ()
 myLogHook xmproc = dynamicLogWithPP xmobarPP
             { ppOutput = hPutStrLn xmproc
             , ppTitle  = xmobarColor "green" "" . shorten 60
             }
+
+---------------------------- layout hook ---------------------------------------
 
 {-
  - layout specification
@@ -120,6 +147,8 @@ myLayoutHook :: PerWorkspace Myvid Mydef Window
 myLayoutHook = onWorkspace "movie:6" myVideoLayout -- $ (dollar sign is needed if this is extended, uncommented due to linter...)
                 myDefaultLayout
 
+----------------------------- key maps -----------------------------------------
+
 additionalKeyMaps :: [((ButtonMask, KeySym), X ())]
 additionalKeyMaps =
        -- enables audio keys
@@ -134,43 +163,49 @@ additionalKeyMaps =
                                          raiseVolume 4 >>=
                                          displayVolume)
        -- set volume to full
-       , ((mod4Mask , xF86XK_AudioRaiseVolume), setVolume 100 >>
+       , ((modm , xF86XK_AudioRaiseVolume), setVolume 100 >>
                                                 return 100 >>=
                                                 displayVolume)
 
        -- win - shift - f4 used for shutdown
-       --  , ((mod4Mask .|. shiftMask, xK_F4), spawn "sudo shutdown -P now")
-       , ((mod4Mask .|. shiftMask, xK_F4), spawn "sudo poweroff")
-       , ((mod4Mask .|. shiftMask, xK_i),  spawn "sudo poweroff")
+       --  , ((modm .|. shiftMask, xK_F4), spawn "sudo shutdown -P now")
+       , ((modm .|. shiftMask, xK_F4), spawn "sudo poweroff")
+       , ((modm .|. shiftMask, xK_i),  spawn "sudo poweroff")
 
        -- decide if laptop screen may go off after timeout
-       , ((mod4Mask, xK_d),                spawn "xset -dpms; xset s off" >>
+       , ((modm, xK_d),                spawn "xset -dpms; xset s off" >>
                                            displayStringLine "screen timeout turned off" 850 66)
-       , ((mod4Mask .|. shiftMask, xK_d),  spawn "xset +dpms; xset s on" >>
+       , ((modm .|. shiftMask, xK_d),  spawn "xset +dpms; xset s on" >>
                                            displayStringLine "screen timeout turned on" 830 66)
 
-       , ((mod4Mask, xK_f),               spawn "firefox")
-       , ((mod4Mask .|. shiftMask, xK_t), spawn "thunderbird")
+       , ((modm, xK_f),               spawn "firefox")
+       , ((modm .|. shiftMask, xK_t), spawn "thunderbird")
 
        -- change dmenu font and make case insensitive
-       , ((mod4Mask, xK_p), spawn "dmenu_run -i -fn '10x20'")
+       , ((modm, xK_p), spawn "dmenu_run -i -fn '10x20'")
 
        -- cycle through workspaces:
-       , ((mod4Mask .|. shiftMask, xK_l),  shiftToNext >>
+       , ((modm .|. shiftMask, xK_l),  shiftToNext >>
                                            nextWS)
-       , ((mod4Mask .|. shiftMask, xK_h),  shiftToPrev >>
+       , ((modm .|. shiftMask, xK_h),  shiftToPrev >>
                                            prevWS)
-       , ((mod4Mask .|. controlMask, xK_l ), sendMessage Expand)
-       , ((mod4Mask .|. controlMask, xK_h ), sendMessage Shrink)
-       , ((mod4Mask , xK_l                ), nextWS)
-       , ((mod4Mask , xK_h                ), prevWS)
-       , ((mod4Mask, xK_a                 ), currentTopicAction myTopicConfig)
-       , ((mod4Mask, xK_g                 ), promptedGoto)
-       , ((mod4Mask .|. shiftMask, xK_g   ), promptedShift)
+       , ((modm .|. controlMask, xK_l ), sendMessage Expand)
+       , ((modm .|. controlMask, xK_h ), sendMessage Shrink)
+       , ((modm , xK_l                ), nextWS)
+       , ((modm , xK_h                ), prevWS)
+       , ((modm, xK_a                 ), currentTopicAction myTopicConfig)
+       , ((modm, xK_g                 ), promptedGoto)
+       , ((modm .|. shiftMask, xK_g   ), promptedShift)
+       , ((modm, xK_w                 ), muxPrompt myXPConfig)
+       , ((modm .|. shiftMask, xK_w   ), shellPrompt myXPConfig)
+       , ((modm .|. controlMask, xK_w ), xmonadPrompt myXPConfig)
+       --  , ((modm, xK_w                 ), spawn $ myTerminal ++ " -e 'mux logik'")
        ]
 
+------------------------- config  for various prompts --------------------------
+
 myXPConfig :: P.XPConfig
-myXPConfig = P.defaultXPConfig
+myXPConfig = P.greenXPConfig -- or P.amberXPConfig or P.defaultXPConfig
             {
               P.position = P.Top
             , P.height = 25
@@ -178,11 +213,20 @@ myXPConfig = P.defaultXPConfig
             , P.font="10x20"
             }
 
-spawnShell :: X ()
-spawnShell = currentTopicDir myTopicConfig >>= spawnShellIn
+--  spawnShell :: X ()
+--  spawnShell = currentTopicDir myTopicConfig >>= spawnShellIn
 
 spawnShellIn :: Dir -> X ()
-spawnShellIn dir = spawn $ "cd " ++ dir ++ "; or gnome-terminal"
+spawnShellIn dir = spawn $ "cd " ++ dir ++ "; or " ++ myTerminal
+
+spawnShellWith :: String -> X ()
+spawnShellWith what = spawn (myTerminal ++ printf " -e '%s'" what)
+ 
+spawnShell :: X ()
+spawnShell = spawnShellWith myShell
+
+spawnMuxShell :: String -> X ()
+spawnMuxShell template = spawnShellWith $ "mux " ++ template
 
 -- switch to given topic, perform its action
 goto :: Topic -> X ()
@@ -195,6 +239,28 @@ promptedGoto = workspacePrompt myXPConfig goto
 -- prompt and shift window to selected topic
 promptedShift :: X ()
 promptedShift = workspacePrompt myXPConfig $ windows . W.shift
+
+-- prompt for mux shell to open
+promptedMuxShell :: P.XPConfig -> X ()
+promptedMuxShell = muxPrompt
+
+---------------- prompt used for promptedMuxShell ------------------------------
+
+data Mux = Mux
+
+instance P.XPrompt Mux where
+        showXPrompt Mux     = "Mux Template: "
+        --  completionToCommand _ = escape
+
+muxPrompt :: P.XPConfig -> X ()
+muxPrompt c = do
+        let templates = ["logik", "xmonad"]
+        P.mkXPrompt Mux c (getMuxCompletion templates) spawnMuxShell
+
+getMuxCompletion :: [String] -> String -> IO [String]
+getMuxCompletion ss s = return $ filter (isPrefixOf s) ss
+
+----------------------- topics setup -------------------------------------------
 
 -- The list of all topics/workspaces of your xmonad configuration.
 -- The order is important, new topics must be inserted
@@ -217,18 +283,19 @@ myTopicConfig = defaultTopicConfig
     , defaultTopicAction = const $ spawnShell >*> 3
     , defaultTopic = "web"
     , topicActions = M.fromList
-        [ ("mail:3",       spawn "thunderbird")
+        [ ("mail:3",      spawn "thunderbird")
         --  [ ("xmonad",   spawnShellIn ".xmonad")
         --  , ("mail",       spawn "thunderbird")
         --  , ("dashboard",  sendMessage )
-        , ("web:1",        spawn "firefox")
-        , ("music:7",      spawn "nightingale")
-        , ("term:2",      spawn "gnome-terminal")
+        , ("web:1",       spawn "firefox")
+        , ("music:7",     spawn "nightingale")
+        , ("xmonad:9",    spawnMuxShell "xmonad")
+        , ("term:2",      spawn myTerminal)
         ]
     }
 
 
-
+-- =========================== the MAIN monad ==================================
 
 main :: IO()
 main = do
@@ -238,7 +305,7 @@ main = do
        { borderWidth = 4 -- window borders more visible
        --  , workspaces = myWorkspaces
        , workspaces = myTopics
-       , terminal = "gnome-terminal"
+       , terminal = myTerminal
        , modMask = mod4Mask -- use win key instead of alt as modifier
        , manageHook  = myManageHooks
        , layoutHook  = myLayoutHook
@@ -255,8 +322,7 @@ main = do
 --  main = xmonad gnomeConfig
 
 
-
-
+------------------------- appendix ---------------------------------------------
 
 -- old stuff used for audio keys
        {-
