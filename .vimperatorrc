@@ -26,5 +26,10 @@ noremap <Leader>t <C-V><S-A-D>
 inoremap <C-G> <C-[>
 nnoremap <C-G> <silent> <NOP>
 
+cnoremap <C-H> <Left>
+cnoremap <C-L> <Right>
+cnoremap <C-J> <Down>
+cnoremap <C-K> <Up>
+
 
 
