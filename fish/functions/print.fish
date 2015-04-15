@@ -20,7 +20,10 @@ function print
 		end
 		# print from 'toprint' folder?
 		if [ $argv[2] = 'toprint' ]
-			lpr -P $printer $argv[3..(count $argv)] {$toprint}*
+			if [ (count $argv) -ge 3 ]
+				set args argv[3..(count $argv)]
+			end
+			lpr -P $printer $args {$toprint}*
 		end
 			lpr -P $printer $argv[2..(count $argv)]
 	end

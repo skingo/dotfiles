@@ -10,6 +10,7 @@ set top {$ws}/topologie/
 set param {$ws}/parametrisierte_algorithmen/parametrisierte_algorithmen/
 set kompl {$ws}/komplexitaetstheorie/komplexitaetstheorie_poster/
 set mpc {$ss}/massively_parallel_computing/
+set algeo {$ss}/algebraische_geometrie/
 
 set toprint {$HOME}/Desktop/toprint/
 
@@ -18,6 +19,8 @@ set -x PYTHONSTARTUP ~/.pythonrc
 set -gx PATH {$HOME}/.cabal/bin $PATH
 #set -x TERM "screen-256color-bce"
 
+# get xdg-open working again
+set -x GNOME_DESKTOP_SESSION_ID 42
 
 . /home/skinge/.config/fish/vi-mode.fish
 

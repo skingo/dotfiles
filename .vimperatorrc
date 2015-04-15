@@ -32,5 +32,12 @@ cnoremap <C-L> <Right>
 cnoremap <C-J> <Down>
 cnoremap <C-K> <Up>
 
+" the same goes for insert mode
+inoremap <C-H> <Left>
+inoremap <C-L> <Right>
+inoremap <C-J> <Down>
+inoremap <C-K> <Up>
+
+
 
 

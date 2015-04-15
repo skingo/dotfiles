@@ -21,9 +21,6 @@ let g:syntastic_quiet_messages = {"regex": 'Use either ``\|possible unwanted spa
 
 let g:Tex_ViewRuleComplete_pdf = 'xdg-open $*.pdf >/dev/null 2>&1 &'
 
-" "untab" two spaces
-inoremap <S-Tab> <BS><BS>
-
 " highlighting sometimes)
 nnoremap <silent> <leader>no :execute ":silent! normal! mX/xx[f]oobarxx\r`X"<CR>
 "nnoremap <silent> <Leader>no mX/xxfoobarxx<CR>`X:nohlsearch
