@@ -1,7 +1,7 @@
 function print
 	if [ (count $argv) = 0 ]
 		echo "no printer and/or file specified"
-		echo "printers include C for Sand_C111 and B for Sand_B033"
+		echo "printers include C for Sand_C111, B for Sand_B033 and M for Morgenstelle_N03"
 		echo "toprint in the second argument can be used to print from 'toprint' directory"
 	else
 		# is printer shorthand used?
@@ -9,6 +9,8 @@ function print
 			set printer 'Sand_C111'
 		else if [ $argv[1] = 'B' ]
 			set printer 'Sand_B033'
+		else if [ $argv[1] = 'M' ]
+			set printer 'Morgenstelle_N03'
 		else if [ $argv[1] = 'int' ]
 			read -p  "echo 'enter printer '" printer
 			if [ (count $argv) = 1 ]

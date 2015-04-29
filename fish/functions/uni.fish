@@ -1,3 +1,4 @@
 function uni
-	pushd $uni
+	
+pushd $HOME/uni/ss_15/
 end

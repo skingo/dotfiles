@@ -1,3 +1,6 @@
 function version
-	cat /etc/*-release
+	
+	lsb_release -d
+	lsb_release -r
+	lsb_release -c
 end

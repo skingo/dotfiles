@@ -126,6 +126,14 @@ augroup END
 "augroup END
 "" }}}
 
+" use cool ghci shortcuts when in xmonad tmux session ----------------{{{
+augroup xmonad
+    autocmd!
+    autocmd BufRead xmonad.hs nnoremap <leader>ghci :execute '!tmux send-keys -t bottom-left "'@t'" Enter &'<CR><CR>
+    autocmd BufRead xmonad.hs vnoremap <leader>ghci "ty:execute '!tmux send-keys -t bottom-left "'escape(@t,'"')'" Enter &'<CR><CR>
+augroup END
+" }}}
+
 "" statusline -----------------{{{
 "" from https://github.com/spf13/spf13-vim/blob/master/.vimrc
 "if has('statusline')
@@ -333,15 +341,15 @@ endfunction
 " }}}
 
 " hack: let vim realize the alt key in bash ------------------{{{
-let c='a'
-while c <= 'z'
-    exec "set <m-".c.">=\e".c
-    exec "imap \e".c." <m-".c.">"
-    let c = nr2char(1+char2nr(c))
-endw
-set timeout ttimeoutlen=50
-noremap <m-h> <g>
-noremap <m-l> <Right>
+"let c='a'
+"while c <= 'z'
+    "exec "set <m-".c.">=\e".c
+    "exec "imap \e".c." <m-".c.">"
+    "let c = nr2char(1+char2nr(c))
+"endw
+"set timeout ttimeoutlen=50
+"noremap <m-h> <g>
+"noremap <m-l> <Right>
 " }}}
 
 

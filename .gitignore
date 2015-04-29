@@ -12,5 +12,6 @@ fish/fish_history
 .vim/bundle/vim-hoogle/
 .vim/bundle/vim-multiple-cursors/
 .vim/bundle/vim-tbone/
+.vim/bundle/vim-fish/
 
 *.swp

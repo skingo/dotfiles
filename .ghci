@@ -1,4 +1,6 @@
 :def hoogle \x -> return $ ":!hoogle \"" ++ x ++ "\""
 :def doc \x -> return $ ":!hoogle --info \"" ++ x ++ "\""
+:def send \s -> return $ ":!tmux send-keys -t " ++ s ++ " Enter"
 :set editor vim
-:set prompt "GHCi: %s> "
+:set prompt "\ESC[1;35m%s\n\ESC[1;31mλ> \ESC[m"
+:set +t

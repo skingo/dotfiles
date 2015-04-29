@@ -2,20 +2,29 @@
 -- startup file is /usr/local/bin/xmonad.start
 -- desktop file is /usr/share/xsessions/xmonad
 
+-- new mapping , useful for sending stuff to ghci below:
+-- nnoremap <leader>ghci :execute '!tmux send-keys -t 2 "'@t'" Enter &'<CR>
+-- vnoremap <leader>ghci "ty:execute '!tmux send-keys -t 2 "'@t'" Enter &'<CR>gv
+-- (sends content of register t to pane below, also works with imports)
+-- Twrite might be a better option
+-- or <C-C><C-C> from tslime
+
 import XMonad
 
 import XMonad.Hooks.ManageDocks
 import XMonad.Hooks.ManageHelpers (doFullFloat,isFullscreen)
 import XMonad.Hooks.DynamicLog
+import XMonad.Hooks.FadeWindows
+import XMonad.Hooks.SetWMName
 
 import XMonad.Util.Run (spawnPipe)
 import XMonad.Util.EZConfig (additionalKeys)
 import XMonad.Util.Dzen
 
 import qualified XMonad.Prompt as P
---  import           XMonad.Prompt.Workspace
 import           XMonad.Prompt.Shell
 import           XMonad.Prompt.XMonad
+--  import           XMonad.Prompt.Workspace
 
 import XMonad.Layout.NoBorders
 import XMonad.Layout.PerWorkspace (onWorkspace,PerWorkspace)
@@ -29,6 +38,7 @@ import XMonad.Layout.Grid
 import XMonad.Layout.Spiral
 import XMonad.Layout.Tabbed
 import XMonad.Layout.Simplest
+import XMonad.Layout.IM
 
 import qualified XMonad.StackSet as W -- used in W.focusDown
 
@@ -37,6 +47,7 @@ import XMonad.Actions.Volume
 import XMonad.Actions.TopicSpace
 import XMonad.Actions.GridSelect
 import XMonad.Actions.Commands
+import XMonad.Actions.WindowMenu
 
 import System.IO
 import Graphics.X11.ExtraTypes.XF86
@@ -51,8 +62,8 @@ import           Data.List (isPrefixOf,isInfixOf)
 myTerminal :: String
 myTerminal = "gnome-terminal"
 
-myShell :: String
-myShell = "fish"
+--  myShell :: String
+--  myShell = "fish"
 
 -- taken over by topics...
 --  -- set up workspaces
@@ -62,6 +73,101 @@ myShell = "fish"
 modm :: KeyMask
 modm =
     mod4Mask
+
+picDir :: String
+picDir = "/home/skinge/Pictures/"
+
+myFocusFollowsMouse :: Bool
+myFocusFollowsMouse = False
+
+----------------------------- key maps -----------------------------------------
+
+additionalKeyMaps :: [((ButtonMask, KeySym), X ())]
+additionalKeyMaps =
+        -- enables audio keys
+        [ ((0 , xF86XK_AudioMute), spawn "amixer -D pulse sset Master toggle" >>
+                                   getMuteChannels ["Master"] >>=
+                                   displayMuteState)
+                 -- (toggleMute only works when not muted, thus this workaround)
+        , ((0 , xF86XK_AudioLowerVolume), speakersOn >>
+                                          lowerVolume 4 >>=
+                                          displayVolume)
+        , ((0 , xF86XK_AudioRaiseVolume), speakersOn >>
+                                          raiseVolume 4 >>=
+                                          displayVolume)
+        -- set volume to full
+        , ((modm , xF86XK_AudioRaiseVolume), speakersOn >>
+                                                 setVolume 100 >>
+                                                 return 100 >>=
+                                                 displayVolume)
+
+        , ((0 , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png")
+        , ((modm, xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -u")
+        , ((modm .|. shiftMask , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -s")
+
+        -- win - shift - f4 used for shutdown
+        --  , ((modm .|. shiftMask, xK_F4), spawn "sudo poweroff")
+        , ((modm .|. shiftMask, xK_i),  spawn "sudo poweroff")
+
+        -- decide if laptop screen may go off after timeout
+        , ((modm, xK_d),                spawn "xset -dpms; xset s off" >>
+                                            displayStringLine "screen timeout turned off" 850 66)
+        , ((modm .|. shiftMask, xK_d),  spawn "xset +dpms; xset s on" >>
+                                            displayStringLine "screen timeout turned on" 830 66)
+
+        , ((modm, xK_f),               spawn "firefox")
+        , ((modm .|. shiftMask, xK_t), spawn "thunderbird")
+
+        -- change dmenu font and make case insensitive
+        , ((modm, xK_p), spawn "dmenu_run -i -fn '10x20'")
+
+        -- cycle through workspaces:
+        , ((modm .|. shiftMask, xK_l),  shiftToNext >>
+                                            nextWS)
+        , ((modm .|. shiftMask, xK_h),  shiftToPrev >>
+                                            prevWS)
+        , ((modm .|. controlMask, xK_l ), sendMessage Expand)
+        , ((modm .|. controlMask, xK_h ), sendMessage Shrink)
+        , ((modm , xK_l                ), nextWS)
+        , ((modm , xK_h                ), prevWS)
+        , ((modm, xK_a                 ), currentTopicAction myTopicConfig)
+        , ((modm, xK_g                 ), promptedGoto)
+        , ((modm .|. shiftMask, xK_g   ), promptedShift)
+        , ((modm, xK_w                 ), muxPrompt myXPConfig)
+        , ((modm .|. shiftMask, xK_w   ), shellPrompt myXPConfig)
+        , ((modm .|. controlMask, xK_w ), xmonadPrompt myXPConfig)
+        , ((modm, xK_i                 ), goToSelected defaultGSConfig)
+        , ((modm, xK_o                 ), gridSelectTopics)
+        -- odiaeresis is ö (ü and ä similar)
+        , ((modm, xK_odiaeresis               ) , spawn "synclient HorizTwoFingerScroll=0"
+                                                     >> displayStringLine "horizontal scrolling off" 800 66)
+        , ((modm .|. shiftMask, xK_odiaeresis ) , spawn "synclient HorizTwoFingerScroll=1"
+                                                     >> displayStringLine "horizontal scrolling on" 800 66)
+        , ((modm, xK_adiaeresis               ) , spawn "synclient TouchpadOff=0"
+                                                     >> displayStringLine "touchpad on" 500 66)
+        , ((modm .|. shiftMask, xK_adiaeresis ) , spawn "synclient TouchpadOff=1"
+                                                     >> displayStringLine "touchpad off" 500 66)
+
+         -------- used in subtabbed layout --------
+         -- don't yet know what these do:
+        , ((modm .|. controlMask .|. shiftMask , xK_h), sendMessage $ pullGroup L)
+        , ((modm .|. controlMask .|. shiftMask , xK_l), sendMessage $ pullGroup R)
+        , ((modm .|. controlMask .|. shiftMask , xK_k), sendMessage $ pullGroup U)
+        , ((modm .|. controlMask .|. shiftMask , xK_j), sendMessage $ pullGroup D)
+        -- merging and unmerging
+        , ((modm .|. controlMask, xK_m), withFocused (sendMessage . MergeAll))
+        , ((modm .|. controlMask, xK_u), withFocused (sendMessage . UnMerge))
+        -- switch windows inside group
+        , ((modm .|. controlMask, xK_period), onGroup W.focusUp')
+        , ((modm .|. controlMask, xK_comma ), onGroup W.focusDown')
+        -- switch windows outside group
+        , ((modm, xK_k), B.focusUp)
+        , ((modm, xK_j), B.focusDown)
+
+        , ((modm, xK_c), commands >>= runCommand)
+
+        , ((modm .|. shiftMask, xK_o), windowMenu)
+        ]
 
 ------------------------------ dzen utils --------------------------------------
 
@@ -115,17 +221,34 @@ myManageHooks = composeAll [
     isFullscreen --> doFullFloat
     --  isFullscreen --> (doF W.focusDown <+> doFullFloat)
     , className =? "Firefox" --> doF (W.shift "web:1")
+    , className =? "Nightingale" --> doF (W.shift "music:6")
+    , resource =? "skype" --> doF (W.shift "IM:8")
+    , className =? "sun-awt-X11-XFramePeer" --> doFloat
     , manageDocks
     , manageHook defaultConfig
     ]
 
+-------------------------- manage hook -----------------------------------------
+
+myStartupHook = setWMName "LGD3"
+
 --------------------------- log hook (mainly for xmobar) -----------------------
 
 myLogHook :: Handle -> X ()
-myLogHook xmproc = dynamicLogWithPP xmobarPP
-            { ppOutput = hPutStrLn xmproc
-            , ppTitle  = xmobarColor "green" "" . shorten 60
-            }
+myLogHook xmproc = do
+                    dynamicLogWithPP (xmobarPP { ppOutput = hPutStrLn xmproc
+                                                , ppTitle  = xmobarColor "green" "" . shorten 60
+                                                , ppCurrent = \a -> "<fc=orange,>[" ++ a ++ "]</fc>"
+                                                , ppSep = " | "
+                                                , ppLayout = xmobarColor "violet" ""
+                                                })
+                    fadeWindowsLogHook myFadeHook
+
+myFadeHook :: FadeHook
+myFadeHook = composeAll [ isUnfocused --> transparency 0.5
+                        , isFloating --> transparency 0.7
+                        , opaque
+                        ]
 
 ---------------------------- layout hook ---------------------------------------
 
@@ -140,15 +263,20 @@ myVideoLayout = boringWindows $ full ||| tall
       tall = named "tiled" $ (avoidStruts . smartBorders) (Tall 1 (3/300) (3/5))
 
 -- special layout allowing fullscreen
-type Tabbed       = ModifiedLayout (Decoration TabbedDecoration DefaultShrinker) Simplest
-type Mydef        = ModifiedLayout BoringWindows (ModifiedLayout AvoidStruts (ModifiedLayout SmartBorder (Choose TallNamed (Choose MirTallNamed (Choose TabbedNamed (Choose GridNamed SpiralNamed))))))
-type SpiralNamed  = ModifiedLayout Rename SpiralWithDir
-type GridNamed    = ModifiedLayout Rename Grid
-type TallNamed    = ModifiedLayout Rename Tall
-type TabbedNamed  = ModifiedLayout Rename Tabbed
-type MirTallNamed = ModifiedLayout Rename (Mirror Tall)
-myDefaultLayout :: Mydef Window
-myDefaultLayout = boringWindows $ avoidStruts $ smartBorders $ tiled ||| mirrorTiled ||| myTabbed ||| grid ||| spiralled
+type MyDefLayouts         = BoringStrutsBorder MyDefLayoutsBasic
+type MyDefLayoutsBasic    = Choose TallNamed (Choose MirTallNamed (Choose TabbedNamed (Choose GridNamed SpiralNamed)))
+type BoringStrutsBorder a = ModifiedLayout BoringWindows (ModifiedLayout AvoidStruts (ModifiedLayout SmartBorder a))
+type Tabbed               = ModifiedLayout (Decoration TabbedDecoration DefaultShrinker) Simplest
+type SpiralNamed          = ModifiedLayout Rename SpiralWithDir
+type GridNamed            = ModifiedLayout Rename Grid
+type TallNamed            = ModifiedLayout Rename Tall
+type TabbedNamed          = ModifiedLayout Rename Tabbed
+type MirTallNamed         = ModifiedLayout Rename (Mirror Tall)
+myDefaultLayout :: MyDefLayouts Window
+myDefaultLayout = boringWindows $ avoidStruts $ smartBorders myDefaultLayoutsBasic
+
+myDefaultLayoutsBasic :: MyDefLayoutsBasic Window
+myDefaultLayoutsBasic = tiled ||| mirrorTiled ||| myTabbed ||| grid ||| spiralled
   where
     tiled       = named "vert" tall
     tall        = Tall nmaster delta ratio
@@ -160,8 +288,8 @@ myDefaultLayout = boringWindows $ avoidStruts $ smartBorders $ tiled ||| mirrorT
     ratio       = 3/5
     delta       = 2.5/100
 
-type MydefAlt        = ModifiedLayout AvoidStruts (ModifiedLayout SmartBorder (Choose TallNamed (Choose MirTallNamed (Choose GridNamed SpiralNamed))))
-myDefaultLayoutAlt :: MydefAlt Window
+type MyDefLayoutsAlt = ModifiedLayout AvoidStruts (ModifiedLayout SmartBorder (Choose TallNamed (Choose MirTallNamed (Choose GridNamed SpiralNamed))))
+myDefaultLayoutAlt :: MyDefLayoutsAlt Window
 myDefaultLayoutAlt = avoidStruts $ smartBorders $ alttiled ||| altmirrorTiled ||| altgrid ||| altspiralled
   where
     alttiled       = named "vert" alttall
@@ -173,93 +301,24 @@ myDefaultLayoutAlt = avoidStruts $ smartBorders $ alttiled ||| altmirrorTiled ||
     altratio       = 3/5
     altdelta       = 2.5/100
 type MySubLayout a = ModifiedLayout WindowNavigation (ModifiedLayout (Decoration TabbedDecoration DefaultShrinker) (ModifiedLayout (Sublayout Simplest) (ModifiedLayout BoringWindows a)))
-type MyTexLayout = MySubLayout MydefAlt
+type MyTexLayout = MySubLayout MyDefLayoutsAlt
 myTexLayout :: MyTexLayout Window
 myTexLayout = windowNavigation $ subTabbed $ boringWindows myDefaultLayoutAlt
 
+type SkypeLayout = BoringStrutsBorder (ModifiedLayout AddRoster MyDefLayoutsBasic)
+skypeLayout :: SkypeLayout Window
+skypeLayout = boringWindows $ avoidStruts $ smartBorders $ withIM (1/6) skypeMainWindow myDefaultLayoutsBasic
+    where
+    skypeMainWindow = And (Resource "skype")
+                          (Not (Or (Title "Transferts de fichiers") -- left in until english pendant is found
+                                   (Role "ConversationsWindow")))
+
 -- put everything together
-myLayoutHook :: PerWorkspace Myvid (PerWorkspace MyTexLayout Mydef) Window
+myLayoutHook :: PerWorkspace Myvid (PerWorkspace SkypeLayout (PerWorkspace MyTexLayout MyDefLayouts)) Window
 myLayoutHook = onWorkspace "movie:6" myVideoLayout $
+                    onWorkspace "IM:8" skypeLayout $
                     onWorkspace "tex:4" myTexLayout
                     myDefaultLayout
-
------------------------------ key maps -----------------------------------------
-
-additionalKeyMaps :: [((ButtonMask, KeySym), X ())]
-additionalKeyMaps =
-        -- enables audio keys
-        [ ((0 , xF86XK_AudioMute), spawn "amixer -D pulse sset Master toggle" >>
-                                   getMuteChannels ["Master"] >>=
-                                   displayMuteState)
-                 -- (toggleMute only works when not muted, thus this workaround)
-        , ((0 , xF86XK_AudioLowerVolume), speakersOn >>
-                                          lowerVolume 4 >>=
-                                          displayVolume)
-        , ((0 , xF86XK_AudioRaiseVolume), speakersOn >>
-                                          raiseVolume 4 >>=
-                                          displayVolume)
-        -- set volume to full
-        , ((modm , xF86XK_AudioRaiseVolume), setVolume 100 >>
-                                                 return 100 >>=
-                                                 displayVolume)
-
-        -- win - shift - f4 used for shutdown
-        --  , ((modm .|. shiftMask, xK_F4), spawn "sudo poweroff")
-        , ((modm .|. shiftMask, xK_i),  spawn "sudo poweroff")
-
-        -- decide if laptop screen may go off after timeout
-        , ((modm, xK_d),                spawn "xset -dpms; xset s off" >>
-                                            displayStringLine "screen timeout turned off" 850 66)
-        , ((modm .|. shiftMask, xK_d),  spawn "xset +dpms; xset s on" >>
-                                            displayStringLine "screen timeout turned on" 830 66)
-
-        , ((modm, xK_f),               spawn "firefox")
-        , ((modm .|. shiftMask, xK_t), spawn "thunderbird")
-
-        -- change dmenu font and make case insensitive
-        , ((modm, xK_p), spawn "dmenu_run -i -fn '10x20'")
-
-        -- cycle through workspaces:
-        , ((modm .|. shiftMask, xK_l),  shiftToNext >>
-                                            nextWS)
-        , ((modm .|. shiftMask, xK_h),  shiftToPrev >>
-                                            prevWS)
-        , ((modm .|. controlMask, xK_l ), sendMessage Expand)
-        , ((modm .|. controlMask, xK_h ), sendMessage Shrink)
-        , ((modm , xK_l                ), nextWS)
-        , ((modm , xK_h                ), prevWS)
-        , ((modm, xK_a                 ), currentTopicAction myTopicConfig)
-        , ((modm, xK_g                 ), promptedGoto)
-        , ((modm .|. shiftMask, xK_g   ), promptedShift)
-        , ((modm, xK_w                 ), muxPrompt myXPConfig)
-        , ((modm .|. shiftMask, xK_w   ), shellPrompt myXPConfig)
-        , ((modm .|. controlMask, xK_w ), xmonadPrompt myXPConfig)
-        , ((modm, xK_i                 ), goToSelected defaultGSConfig)
-        , ((modm, xK_o                 ), gridSelectTopics)
-        -- odiaeresis is ö (ü and ä similar)
-        , ((modm, xK_odiaeresis               ) , spawn "synclient HorizTwoFingerScroll=0"
-                                                     >> displayStringLine "horizontal scrolling off" 800 66)
-        , ((modm .|. shiftMask, xK_odiaeresis ) , spawn "synclient HorizTwoFingerScroll=1"
-                                                     >> displayStringLine "horizontal scrolling on" 800 66)
-
-         -------- used in subtabbed layout --------
-         -- don't yet know what these do:
-        , ((modm .|. controlMask .|. shiftMask , xK_h), sendMessage $ pullGroup L)
-        , ((modm .|. controlMask .|. shiftMask , xK_l), sendMessage $ pullGroup R)
-        , ((modm .|. controlMask .|. shiftMask , xK_k), sendMessage $ pullGroup U)
-        , ((modm .|. controlMask .|. shiftMask , xK_j), sendMessage $ pullGroup D)
-        -- merging and unmerging
-        , ((modm .|. controlMask, xK_m), withFocused (sendMessage . MergeAll))
-        , ((modm .|. controlMask, xK_u), withFocused (sendMessage . UnMerge))
-        -- switch windows inside group
-        , ((modm .|. controlMask, xK_period), onGroup W.focusUp')
-        , ((modm .|. controlMask, xK_comma ), onGroup W.focusDown')
-        -- switch windows outside group
-        , ((modm, xK_k), B.focusUp)
-        , ((modm, xK_j), B.focusDown)
-
-        , ((modm, xK_c), commands >>= runCommand)
-        ]
 
 ------------------------- commands to be run with modm-c -----------------------
 
@@ -300,9 +359,9 @@ myXPConfig = P.greenXPConfig -- or P.amberXPConfig or P.defaultXPConfig
 
 spawnShellWith :: String -> X ()
 spawnShellWith what = spawn (myTerminal ++ printf " -e '%s'" what)
- 
-spawnShell :: X ()
-spawnShell = spawnShellWith myShell
+--   
+--  spawnShell :: X ()
+--  spawnShell = spawnShellWith myShell
 
 spawnMuxShell :: String -> X ()
 spawnMuxShell template = spawnShellWith $ "mux " ++ template
@@ -337,9 +396,9 @@ promptedGoto = topicPrompt TopicGotoPrompt myXPConfig goto
 promptedShift :: X ()
 promptedShift = topicPrompt TopicMovePrompt myXPConfig $ windows . W.shift
 
--- prompt for mux shell to open
-promptedMuxShell :: P.XPConfig -> X ()
-promptedMuxShell = muxPrompt
+--  -- prompt for mux shell to open
+--  promptedMuxShell :: P.XPConfig -> X ()
+--  promptedMuxShell = muxPrompt
 
 ---------------- prompt used for promptedMuxShell ------------------------------
 
@@ -355,6 +414,7 @@ muxPrompt c = do
                         , "logik"
                         , "xmonad"
                         , "lambda"
+                        , "robo"
                         ]
         P.mkXPrompt Mux c (getMuxCompletion templates) spawnMuxShell
 
@@ -370,7 +430,7 @@ getMuxCompletion ss s = return $ filter (isPrefixOf s) ss
 myTopics :: [Topic]
 myTopics =
      [ "web:1", "term:2", "mail:3", "tex:4", "dashboard:5"
-     , "movie:6", "music:7", "tools:8", "xmonad:9"
+     , "movie:6", "music:7", "IM:8", "xmonad:9"
      ]
 
 myTopicConfig :: TopicConfig
@@ -393,6 +453,7 @@ myTopicConfig = defaultTopicConfig
         , ("music:7",     spawn "nightingale")
         , ("xmonad:9",    spawnMuxShell "xmonad")
         , ("term:2",      spawn myTerminal)
+        , ("IM:8",      spawn "skype")
         ]
     }
 
@@ -412,7 +473,7 @@ main = do
     checkTopicConfig myTopics myTopicConfig
     xmproc <- spawnPipe "xmobar"
     xmonad $ defaultConfig
-       { borderWidth = 4 -- window borders more visible
+       { borderWidth = 3 -- window borders more visible
        --  , workspaces = myWorkspaces
        , workspaces = myTopics
        , terminal = myTerminal
@@ -420,17 +481,16 @@ main = do
        , manageHook  = myManageHooks
        , layoutHook  = myLayoutHook
        , logHook     = myLogHook xmproc
-       --  , focusFollowsMouse  = myFocusFollowsMouse,
-       --  , borderWidth        = myBorderWidth,
-       --  , normalBorderColor  = myNormalBorderColor,
-       --  , focusedBorderColor = myFocusedBorderColor,
-       --  , keys               = myKeys,
-       --  , mouseBindings      = myMouseBindings,
-       --  , startupHook        = myStartupHook
+       , focusFollowsMouse  = myFocusFollowsMouse
+       , handleEventHook = fadeWindowsEventHook
+       , normalBorderColor  = "white"
+       , focusedBorderColor = "orange"
+       , startupHook        = myStartupHook
+       --  , keys               = myKeys
+       --  , mouseBindings      = myMouseBinding
        } `additionalKeys`
        additionalKeyMaps
 --  main = xmonad gnomeConfig
-
 
 -- ========================== possible dzen status bar =========================
 

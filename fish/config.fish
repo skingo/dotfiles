@@ -18,11 +18,17 @@ set krypt {$ws}/kryptologie/
 set -x PYTHONSTARTUP ~/.pythonrc
 set -gx PATH {$HOME}/.cabal/bin $PATH
 #set -x TERM "screen-256color-bce"
+# avoid problems with java stuff in xmonad
+set -gx _JAVA_AWT_WM_NONREPARENTING 1
+set -gx AWT_TOOLKIT MToolkit
 
 # get xdg-open working again
 set -x GNOME_DESKTOP_SESSION_ID 42
 
 . /home/skinge/.config/fish/vi-mode.fish
+
+# set additional colors for ls
+set -gx LS_COLORS (dircolors /home/skinge/.dir_colors | grep -v 'export' | cut -d"'" -f2)
 
 # use vi mode for fish
 function fish_user_key_bindings
