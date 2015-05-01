@@ -19,6 +19,10 @@ let g:Tex_DefaultTargetFormat = 'pdf'
 let g:syntastic_quiet_messages = {"regex": 'Use either ``\|possible unwanted space at', }
 " might want to use 'You should enclose\|' as well...
 
+let g:syntastic_always_populate_loc_list = 1
+let g:syntastic_error_symbol = "✗"
+let g:syntastic_warning_symbol = "⚠"
+
 let g:Tex_ViewRuleComplete_pdf = 'xdg-open $*.pdf >/dev/null 2>&1 &'
 
 " highlighting sometimes)
@@ -34,6 +38,7 @@ nnoremap <silent> <leader>no :execute ":silent! normal! mX/xx[f]oobarxx\r`X"<CR>
 " useful for yi$, da$ etc
 onoremap a$ :<c-u>normal! F$vf$<cr>
 onoremap i$ :<c-u>normal! T$vt$<cr>
+cnoremap w w | Errors
 
 " get item easily
 call IMAP('II', '\item <++>', 'tex')
