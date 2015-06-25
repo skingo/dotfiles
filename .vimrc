@@ -61,6 +61,9 @@ if !exists("g:colors_set")
   "highlight CursorColumn ctermbg=Green
 endif
 " }}}
+" git ------------------{{{
+command! Gadd !fish -c gitadd
+" }}}
 
 " settings for solarized colorscheme (do not move before "settings") ----{{{
 let g:colors_set = 1

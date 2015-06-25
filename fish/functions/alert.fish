@@ -34,5 +34,6 @@ function alert --description 'display a message using dzen2'
 
 	else
 		echo "usage: alert [-t n] message-list"
+		echo "message-list (a,b,c,...) is inserted by writing a \\n b \\n c \\n ..."
 	end
 end

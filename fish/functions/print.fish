@@ -25,8 +25,12 @@ function print
 			if [ (count $argv) -ge 3 ]
 				set args argv[3..(count $argv)]
 			end
+			#echo "toprint"
+			set toprint '/home/skinge/Desktop/toprint/'
+			#ls {$toprint}*
 			lpr -P $printer $args {$toprint}*
-		end
+		else
 			lpr -P $printer $argv[2..(count $argv)]
+		end
 	end
 end

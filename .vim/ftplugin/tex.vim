@@ -38,13 +38,14 @@ nnoremap <silent> <leader>no :execute ":silent! normal! mX/xx[f]oobarxx\r`X"<CR>
 " useful for yi$, da$ etc
 onoremap a$ :<c-u>normal! F$vf$<cr>
 onoremap i$ :<c-u>normal! T$vt$<cr>
-cnoremap w w | Errors
+"cnoremap w w | Errors
 
 " get item easily
 call IMAP('II', '\item <++>', 'tex')
 
 " easy align* environment
 call IMAP('EAG', "\\begin{align*}\n<++>\n\\end{align*}", 'tex')
+call IMAP('todo', "\\todo{<++>}", 'tex')
 
 call IMAP('~~', '\approx ', 'tex')
 call IMAP('`°', '^\circ ', 'tex')

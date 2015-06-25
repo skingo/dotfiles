@@ -9,8 +9,9 @@ Config { font = "-*-Fixed-Bold-R-Normal-*-13-*-*-*-*-*-*-*"
                     , Run Date "%a,%_d.%b %H:%M:%S" "date" 10
                     , Run StdinReader
                     , Run CommandReader "/home/jgoerzen/.xmonad/ledmon" "LED"
+                    , Run Com "/home/skinge/.xmonad/volume.sh" [] "myVolume" 10
                     , Run BatteryP ["BAT0"]
-                                   [ "-t", "power supply <acstatus> <leftbar> <left>% <watts>/<timeleft>"
+                                   [ "-t", "power <acstatus> <leftbar> <fc=#559933><left>%</fc> <watts>/<timeleft>"
                                    , "--"
                                    , "-O", "charging"
                                    , "-i", "on"
@@ -19,10 +20,10 @@ Config { font = "-*-Fixed-Bold-R-Normal-*-13-*-*-*-*-*-*-*"
                                    , "-h", "green"
                                    , "-p", "blue"
                                    ]
-                                   180
+                                   60
                     , Run Wireless "wlan0" [ "-t", "wifi: <qualitybar> <essid>"] 200
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = "%StdinReader% }{%cpu% %memory% * %swap% | %battery% | %wlan0wi%    <fc=#ee9a00>%date%</fc> | %EDDS%"
+       , template = "%StdinReader% }{%cpu% %memory% * %swap% | %battery% | %wlan0wi%  <fc=#8efab0>%myVolume%</fc>  <fc=#ee9a00>%date%</fc> | %EDDS%"
        }

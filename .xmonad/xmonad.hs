@@ -17,7 +17,7 @@ import XMonad.Hooks.DynamicLog
 import XMonad.Hooks.FadeWindows
 import XMonad.Hooks.SetWMName
 
-import XMonad.Util.Run (spawnPipe)
+import XMonad.Util.Run (spawnPipe,runInTerm)
 import XMonad.Util.EZConfig (additionalKeys)
 import XMonad.Util.Dzen
 
@@ -82,6 +82,12 @@ myFocusFollowsMouse = False
 
 ----------------------------- key maps -----------------------------------------
 
+bashRound :: String
+bashRound = "awk '{printf(\"%d\\n\",$1 + 0.5)}'"
+
+bashDzen :: String
+bashDzen = "dzen2 -p 2 -x 700 -y 500 -w 520 -fn '-*-helvetica-*-r-*-*-44-*-*-*-*-*-*-*'"
+
 additionalKeyMaps :: [((ButtonMask, KeySym), X ())]
 additionalKeyMaps =
         -- enables audio keys
@@ -101,9 +107,17 @@ additionalKeyMaps =
                                                  return 100 >>=
                                                  displayVolume)
 
+        , ((0, xF86XK_MonBrightnessDown), spawn $ "xbacklight -20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
+        , ((0, xF86XK_MonBrightnessUp), spawn $ "xbacklight +20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
+
         , ((0 , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png")
         , ((modm, xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -u")
-        , ((modm .|. shiftMask , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -s")
+        --  , ((modm .|. shiftMask , xK_Print), spawn $ "scrot -s </dev/null &; sleep 4; echo ended | dzen2 -p 2;")
+        , ((modm .|. shiftMask , xK_Print), runInTerm "echo foo | dzen -p 2" "")
+        --  , ((modm .|. shiftMask , xK_Print), spawn $ "sh nohup scrot -s & sleep 4; echo ended | dzen2 -p 2;")
+        --  , ((modm .|. shiftMask , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -s || sleep 4; echo ended | dzen2 -p 2")
+        --  , ((modm, xK_b), spawn "echo foobar | dzen2 -p 2; sleep 4; echo baz | dzen2 -p 2;")
+        , ((modm, xK_b), setWMName "LGD3." >> spawn "echo done | dzen2 -p 2")
 
         -- win - shift - f4 used for shutdown
         --  , ((modm .|. shiftMask, xK_F4), spawn "sudo poweroff")
@@ -224,13 +238,17 @@ myManageHooks = composeAll [
     , className =? "Nightingale" --> doF (W.shift "music:6")
     , resource =? "skype" --> doF (W.shift "IM:8")
     , className =? "sun-awt-X11-XFramePeer" --> doFloat
+    , className =? "Dialog" <&&> className =? "Thunderbird" --> doFloat <+> doF (W.shift "mail:3")
     , manageDocks
     , manageHook defaultConfig
     ]
 
--------------------------- manage hook -----------------------------------------
+-------------------------- startup hook -----------------------------------------
 
-myStartupHook = setWMName "LGD3"
+myStartupHook :: X()
+myStartupHook = do
+                    setWMName "LGD3"
+                    --  spawn "skype"
 
 --------------------------- log hook (mainly for xmobar) -----------------------
 
@@ -310,8 +328,9 @@ skypeLayout :: SkypeLayout Window
 skypeLayout = boringWindows $ avoidStruts $ smartBorders $ withIM (1/6) skypeMainWindow myDefaultLayoutsBasic
     where
     skypeMainWindow = And (Resource "skype")
-                          (Not (Or (Title "Transferts de fichiers") -- left in until english pendant is found
-                                   (Role "ConversationsWindow")))
+                          (Not (Or (Title "Options") 
+                                   (Or (Role "ConversationsWindow")
+                                       (Role "CallWindow"))))
 
 -- put everything together
 myLayoutHook :: PerWorkspace Myvid (PerWorkspace SkypeLayout (PerWorkspace MyTexLayout MyDefLayouts)) Window
@@ -411,9 +430,9 @@ instance P.XPrompt Mux where
 muxPrompt :: P.XPConfig -> X ()
 muxPrompt c = do
         let templates = [ "algeo"
-                        , "logik"
                         , "xmonad"
                         , "lambda"
+                        , "prog"
                         , "robo"
                         ]
         P.mkXPrompt Mux c (getMuxCompletion templates) spawnMuxShell
@@ -452,8 +471,9 @@ myTopicConfig = defaultTopicConfig
         , ("web:1",       spawn "firefox")
         , ("music:7",     spawn "nightingale")
         , ("xmonad:9",    spawnMuxShell "xmonad")
+        , ("tex:4",       muxPrompt myXPConfig)
         , ("term:2",      spawn myTerminal)
-        , ("IM:8",      spawn "skype")
+        , ("IM:8",        spawn "skype")
         ]
     }
 
