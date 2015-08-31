@@ -1,4 +1,4 @@
 function ubcp
 	set new (math 1+$argv)
-cp uebung_0$argv/{makefile,*.{h,}tex{,.latexmain}} uebung_0$new
+cp uebung_$argv/{makefile,*.{h,}tex{,.latexmain}} uebung_$new
 end

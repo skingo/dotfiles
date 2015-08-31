@@ -11,8 +11,3 @@ set foldmethod=syntax
 " make "sexy" comments look (and behave) better
 let NERDSpaceDelims = 1
 
-
-AddTabularPattern larr /<-
-AddTabularPattern arr /->
-AddTabularPattern eq /=
-

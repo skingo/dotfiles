@@ -232,13 +232,15 @@ speakersOn = spawn "amixer -D pulse sset Master on"
  -}
 myManageHooks :: ManageHook
 myManageHooks = composeAll [
-    isFullscreen --> doFullFloat
+    --  isFullscreen --> doFullFloat
     --  isFullscreen --> (doF W.focusDown <+> doFullFloat)
-    , className =? "Firefox" --> doF (W.shift "web:1")
+    --  , className =? "Firefox" --> doF (W.shift "web:1")
+    className =? "Firefox" --> doF (W.shift "web:1")
     , className =? "Nightingale" --> doF (W.shift "music:6")
     , resource =? "skype" --> doF (W.shift "IM:8")
     , className =? "sun-awt-X11-XFramePeer" --> doFloat
     , className =? "Dialog" <&&> className =? "Thunderbird" --> doFloat <+> doF (W.shift "mail:3")
+    , className =? "thunderbird" --> doF (W.shift "mail:3")
     , manageDocks
     , manageHook defaultConfig
     ]
@@ -434,6 +436,7 @@ muxPrompt c = do
                         , "lambda"
                         , "prog"
                         , "robo"
+                        , "telegram"
                         ]
         P.mkXPrompt Mux c (getMuxCompletion templates) spawnMuxShell
 
@@ -469,11 +472,13 @@ myTopicConfig = defaultTopicConfig
         --  , ("mail",       spawn "thunderbird")
         --  , ("dashboard",  sendMessage )
         , ("web:1",       spawn "firefox")
+        , ("movie:6",     spawn "chromium-browser")
         , ("music:7",     spawn "nightingale")
         , ("xmonad:9",    spawnMuxShell "xmonad")
         , ("tex:4",       muxPrompt myXPConfig)
         , ("term:2",      spawn myTerminal)
         , ("IM:8",        spawn "skype")
+        , ("dashboard:5", spawnMuxShell "telegram")
         ]
     }
 

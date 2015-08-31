@@ -61,6 +61,7 @@ if !exists("g:colors_set")
   "highlight CursorColumn ctermbg=Green
 endif
 " }}}
+
 " git ------------------{{{
 command! Gadd !fish -c gitadd
 " }}}
