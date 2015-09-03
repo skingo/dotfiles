@@ -73,7 +73,7 @@ set t_Co=256 " either t_Co = 256 = g:solarized_termcolors or both set to 16 (def
 "set t_Co=16
 "set t_Co=-2
 set t_ut=
-colorscheme solarized
+silent! colorscheme solarized
 "let g:solarized_termcolors = 256
 " }}}
 

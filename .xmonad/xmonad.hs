@@ -451,14 +451,14 @@ getMuxCompletion ss s = return $ filter (isPrefixOf s) ss
 -- to work.
 myTopics :: [Topic]
 myTopics =
-     [ "web:1", "term:2", "mail:3", "tex:4", "dashboard:5"
+     [ "web:1", "term:2", "mail:3", "tex:4", "telegram:5"
      , "movie:6", "music:7", "IM:8", "xmonad:9"
      ]
 
 myTopicConfig :: TopicConfig
 myTopicConfig = defaultTopicConfig
     { topicDirs = M.fromList
-                    [ ("dashboard:5", "Desktop")
+                    [ ("telegram:5", "Desktop")
                     , ("xmonad:9", ".xmonad")
                     --  , ("tools", "w/tools")
                     , ("music:7", "Music")
@@ -470,7 +470,7 @@ myTopicConfig = defaultTopicConfig
         [ ("mail:3",      spawn "thunderbird")
         --  [ ("xmonad",   spawnShellIn ".xmonad")
         --  , ("mail",       spawn "thunderbird")
-        --  , ("dashboard",  sendMessage )
+        --  , ("telegram",  sendMessage )
         , ("web:1",       spawn "firefox")
         , ("movie:6",     spawn "chromium-browser")
         , ("music:7",     spawn "nightingale")
@@ -478,7 +478,7 @@ myTopicConfig = defaultTopicConfig
         , ("tex:4",       muxPrompt myXPConfig)
         , ("term:2",      spawn myTerminal)
         , ("IM:8",        spawn "skype")
-        , ("dashboard:5", spawnMuxShell "telegram")
+        , ("telegram:5", spawnMuxShell "telegram")
         ]
     }
 
