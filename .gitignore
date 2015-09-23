@@ -15,3 +15,5 @@ fish/fish_history
 .vim/bundle/vim-fish/
 
 *.swp
+
+blather/blather.history
