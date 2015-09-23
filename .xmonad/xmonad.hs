@@ -12,7 +12,7 @@
 import XMonad
 
 import XMonad.Hooks.ManageDocks
-import XMonad.Hooks.ManageHelpers (doFullFloat,isFullscreen)
+--  import XMonad.Hooks.ManageHelpers (doFullFloat,isFullscreen)
 import XMonad.Hooks.DynamicLog
 import XMonad.Hooks.FadeWindows
 import XMonad.Hooks.SetWMName
@@ -117,7 +117,8 @@ additionalKeyMaps =
         --  , ((modm .|. shiftMask , xK_Print), spawn $ "sh nohup scrot -s & sleep 4; echo ended | dzen2 -p 2;")
         --  , ((modm .|. shiftMask , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -s || sleep 4; echo ended | dzen2 -p 2")
         --  , ((modm, xK_b), spawn "echo foobar | dzen2 -p 2; sleep 4; echo baz | dzen2 -p 2;")
-        , ((modm, xK_b), setWMName "LGD3." >> spawn "echo done | dzen2 -p 2")
+        --  , ((modm, xK_b), setWMName "LGD3." >> spawn "echo done | dzen2 -p 2")
+        , ((modm, xK_b), spawn "blather")
 
         -- win - shift - f4 used for shutdown
         --  , ((modm .|. shiftMask, xK_F4), spawn "sudo poweroff")
@@ -248,8 +249,9 @@ myManageHooks = composeAll [
 -------------------------- startup hook -----------------------------------------
 
 myStartupHook :: X()
-myStartupHook = do
-                    setWMName "LGD3"
+myStartupHook = setWMName "LGD3"
+--  myStartupHook = do
+                    --  setWMName "LGD3"
                     --  spawn "skype"
 
 --------------------------- log hook (mainly for xmobar) -----------------------
