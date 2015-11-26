@@ -1,0 +1,1 @@
+\renewcommand{\<+commandname+>}[<+number of arguments+>]{<+macro body+>}<++>

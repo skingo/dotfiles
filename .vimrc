@@ -34,31 +34,35 @@ if !exists("g:colors_set")
   set smartcase
   set smarttab
   set expandtab
-  set mouse=nvi "Maus aktiv in normal, visual und insert-mode, alternativ: a fuer all
-  set number "Zeilennummerierung
-  set ruler "Positionsanzeige
-  set scrolloff=2 "scrollt schon 2 Zeilen vor oberem/unterem Rand
+  set mouse=nvi "mouse active in normal, visual and insert-mode, alternative: a for 'all'
+  set number "line numbering
+  set ruler "show position
+  set display=lastline
+  set scrolloff=2 "scroll when reaching 2 lines before end
   set sidescrolloff=5
   set foldmethod=syntax
   " folds are displayed on margin of width 'foldcolumn'
   set foldcolumn=4
-  "set nofoldenable "Faltung beim Start deaktiviert
-  set cmdheight=2 "setzt Kommandozeile auf Hoehe 2
-  set cursorline "zeigt Cursorposition o
-  set hlsearch "highlightet gesuchte Wort
-  set incsearch "inkrementell waehrend dem Tippen suchen
-  set backspace=indent,eol,start "maechtigeres Backspacing
-  set laststatus=2 "zeigt Statusleiste immer an
-  set showmatch "Klammern hervorheben
-  set matchtime=2 "2 zehntel Sekunden blinken
+  "set nofoldenable "deactivate folding on startup
+  set cmdheight=2 "set height of cmd line to 2
+  set cursorline "show cursor position
+  set cursorcolumn "set highlighting of cursor column
+  set hlsearch "highlight matches of search
+  set incsearch "search incrementally while typing
+  set backspace=indent,eol,start "mightier backspace
+  set laststatus=2 "always show statusline
+  set showmatch "hightlight matching parens
+  set matchtime=2 "flash for 2 tenths of a second
   set tabstop=4
   set showcmd
   set background=dark
   set wildmenu
+  set fileformats+=mac
+  set history=1000
   set shiftwidth=4 " sets width for shifting with << or >>
-  set cursorcolumn "set highlighting of cursor column
   "and change highlight color
   "highlight CursorColumn ctermbg=Green
+  set breakindent " indented lines are wrapped wrt their indentation
 endif
 " }}}
 
@@ -287,7 +291,7 @@ nnoremap <C-Y>[ m[va[:sleep 450m<CR>`[
 inoremap <C-Y>[ <Esc>m[va[:sleep 450m<CR>`[a
 
 "make ![cmd] work (doesn't work with fish)
-set shell=bash
+"set shell=bash
 
 " }}}
 

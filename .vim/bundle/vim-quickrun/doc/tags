@@ -67,6 +67,7 @@ quickrun-module-outputter/null	quickrun.txt	/*quickrun-module-outputter\/null*
 quickrun-module-outputter/quickfix	quickrun.txt	/*quickrun-module-outputter\/quickfix*
 quickrun-module-outputter/variable	quickrun.txt	/*quickrun-module-outputter\/variable*
 quickrun-module-runner	quickrun.txt	/*quickrun-module-runner*
+quickrun-module-runner/concurrent_process	quickrun.txt	/*quickrun-module-runner\/concurrent_process*
 quickrun-module-runner/process_manager	quickrun.txt	/*quickrun-module-runner\/process_manager*
 quickrun-module-runner/python	quickrun.txt	/*quickrun-module-runner\/python*
 quickrun-module-runner/remote	quickrun.txt	/*quickrun-module-runner\/remote*

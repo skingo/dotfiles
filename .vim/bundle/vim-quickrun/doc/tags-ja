@@ -68,6 +68,7 @@ quickrun-module-outputter/null	quickrun.jax	/*quickrun-module-outputter\/null*
 quickrun-module-outputter/quickfix	quickrun.jax	/*quickrun-module-outputter\/quickfix*
 quickrun-module-outputter/variable	quickrun.jax	/*quickrun-module-outputter\/variable*
 quickrun-module-runner	quickrun.jax	/*quickrun-module-runner*
+quickrun-module-runner/concurrent_process	quickrun.jax	/*quickrun-module-runner\/concurrent_process*
 quickrun-module-runner/process_manager	quickrun.jax	/*quickrun-module-runner\/process_manager*
 quickrun-module-runner/python	quickrun.jax	/*quickrun-module-runner\/python*
 quickrun-module-runner/remote	quickrun.jax	/*quickrun-module-runner\/remote*

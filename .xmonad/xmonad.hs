@@ -16,6 +16,7 @@ import XMonad.Hooks.ManageDocks
 import XMonad.Hooks.DynamicLog
 import XMonad.Hooks.FadeWindows
 import XMonad.Hooks.SetWMName
+import XMonad.Hooks.EwmhDesktops
 
 import XMonad.Util.Run (spawnPipe,runInTerm)
 import XMonad.Util.EZConfig (additionalKeys)
@@ -106,7 +107,10 @@ additionalKeyMaps =
                                                  setVolume 100 >>
                                                  return 100 >>=
                                                  displayVolume)
-
+        , ((controlMask , xF86XK_AudioRaiseVolume), speakersOn >>
+                                                        spawn "pactl set-sink-volume $(pactl list short sinks | tr \"\t\" ' ' | cut -d' ' -f 1) 160%" >>
+                                                        return 160 >>=
+                                                        displayVolume)
         , ((0, xF86XK_MonBrightnessDown), spawn $ "xbacklight -20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((0, xF86XK_MonBrightnessUp), spawn $ "xbacklight +20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
 
@@ -249,9 +253,10 @@ myManageHooks = composeAll [
 -------------------------- startup hook -----------------------------------------
 
 myStartupHook :: X()
-myStartupHook = setWMName "LGD3"
---  myStartupHook = do
-                    --  setWMName "LGD3"
+--  myStartupHook = setWMName "LGD3"
+myStartupHook = do
+                setWMName "LGD3"
+                spawn "touchegg"
                     --  spawn "skype"
 
 --------------------------- log hook (mainly for xmobar) -----------------------
@@ -332,7 +337,7 @@ skypeLayout :: SkypeLayout Window
 skypeLayout = boringWindows $ avoidStruts $ smartBorders $ withIM (1/6) skypeMainWindow myDefaultLayoutsBasic
     where
     skypeMainWindow = And (Resource "skype")
-                          (Not (Or (Title "Options") 
+                          (Not (Or (Title "Options")
                                    (Or (Role "ConversationsWindow")
                                        (Role "CallWindow"))))
 
@@ -388,6 +393,7 @@ spawnShellWith what = spawn (myTerminal ++ printf " -e '%s'" what)
 
 spawnMuxShell :: String -> X ()
 spawnMuxShell template = spawnShellWith $ "mux " ++ template
+--  spawnMuxShell template = spawn (myTerminal ++ printf " --window-with-profile=Mux &" template)
 
 -- switch to given topic, perform its action
 goto :: Topic -> X ()
@@ -433,11 +439,11 @@ instance P.XPrompt Mux where
 
 muxPrompt :: P.XPConfig -> X ()
 muxPrompt c = do
-        let templates = [ "algeo"
-                        , "xmonad"
-                        , "lambda"
-                        , "prog"
-                        , "robo"
+        let templates = [ "xmonad"
+                        , "alzt"
+                        , "darst"
+                        , "frakgeo"
+                        , "galois"
                         , "telegram"
                         ]
         P.mkXPrompt Mux c (getMuxCompletion templates) spawnMuxShell
@@ -475,7 +481,7 @@ myTopicConfig = defaultTopicConfig
         --  , ("telegram",  sendMessage )
         , ("web:1",       spawn "firefox")
         , ("movie:6",     spawn "chromium-browser")
-        , ("music:7",     spawn "nightingale")
+        , ("music:7",     spawnMuxShell "cmus")
         , ("xmonad:9",    spawnMuxShell "xmonad")
         , ("tex:4",       muxPrompt myXPConfig)
         , ("term:2",      spawn myTerminal)
@@ -499,7 +505,8 @@ main :: IO()
 main = do
     checkTopicConfig myTopics myTopicConfig
     xmproc <- spawnPipe "xmobar"
-    xmonad $ defaultConfig
+    xmonad $ ewmh defaultConfig -- ewmh seems to be needed for touchegg support
+    --  xmonad $ defaultConfig -- ewmh seems to be needed for touchegg support
        { borderWidth = 3 -- window borders more visible
        --  , workspaces = myWorkspaces
        , workspaces = myTopics

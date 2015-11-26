@@ -1,4 +1,4 @@
 function uni
 	
-pushd $HOME/uni/ss_15/
+pushd $HOME/uni/ws_15-16/
 end

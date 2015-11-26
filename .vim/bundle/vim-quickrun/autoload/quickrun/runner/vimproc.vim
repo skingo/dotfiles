@@ -13,16 +13,18 @@ let s:runner = {
 \   'config': {
 \     'updatetime': 0,
 \     'sleep': 50,
+\     'read_timeout': 100,
 \   }
 \ }
+let s:bufsize = -1
 
-function! s:runner.validate()
+function! s:runner.validate() abort
   if globpath(&runtimepath, 'autoload/vimproc.vim') ==# ''
     throw 'Needs vimproc.'
   endif
 endfunction
 
-function! s:runner.run(commands, input, session)
+function! s:runner.run(commands, input, session) abort
   let vimproc = vimproc#pgroup_open(join(a:commands, ' && '))
   call vimproc.stdin.write(a:input)
   call vimproc.stdin.close()
@@ -34,13 +36,13 @@ function! s:runner.run(commands, input, session)
   if self.config.sleep
     execute 'sleep' self.config.sleep . 'm'
   endif
-  if s:receive_vimproc_result(key)
+  if s:receive_vimproc_result(key, self.config.read_timeout)
     return
   endif
   " Execution is continuing.
   augroup plugin-quickrun-runner-vimproc
     execute 'autocmd! CursorHold,CursorHoldI * call'
-    \       's:receive_vimproc_result(' . string(key) . ')'
+    \       's:receive_vimproc_result(' . string(key) . ', ' . string(self.config.read_timeout) . ')'
   augroup END
   let self._autocmd = 1
   if self.config.updatetime
@@ -49,11 +51,11 @@ function! s:runner.run(commands, input, session)
   endif
 endfunction
 
-function! s:runner.shellescape(str)
+function! s:runner.shellescape(str) abort
   return '"' . escape(a:str, '\"') . '"'
 endfunction
 
-function! s:runner.sweep()
+function! s:runner.sweep() abort
   if has_key(self, '_autocmd')
     autocmd! plugin-quickrun-runner-vimproc
   endif
@@ -63,21 +65,21 @@ function! s:runner.sweep()
 endfunction
 
 
-function! s:receive_vimproc_result(key)
+function! s:receive_vimproc_result(key, read_timeout) abort
   let session = quickrun#session(a:key)
 
   let vimproc = session._vimproc
 
   try
     if !vimproc.stdout.eof
-      call session.output(vimproc.stdout.read())
+      call session.output(vimproc.stdout.read(s:bufsize, a:read_timeout))
     endif
     if !vimproc.stderr.eof
-      call session.output(vimproc.stderr.read())
+      call session.output(vimproc.stderr.read(s:bufsize, a:read_timeout))
     endif
 
     if !(vimproc.stdout.eof && vimproc.stderr.eof)
-      call feedkeys(mode() ==# 'i' ? "\<C-g>\<ESC>" : "g\<ESC>", 'n')
+      call quickrun#trigger_keys()
       return 0
     endif
   catch
@@ -94,7 +96,7 @@ function! s:receive_vimproc_result(key)
 endfunction
 
 
-function! quickrun#runner#vimproc#new()
+function! quickrun#runner#vimproc#new() abort
   return deepcopy(s:runner)
 endfunction
 
