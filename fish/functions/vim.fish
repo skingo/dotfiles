@@ -27,9 +27,6 @@ function vim --description 'start vim with a server name to avoid server name du
 		set locdir $curdir[$i]__$locdir
 	end
 
-	echo $locdir
-	echo $name_used
-
 	if [ -z $name_used ]
 		set server_name $locdir
 	else
@@ -59,6 +56,6 @@ function vim --description 'start vim with a server name to avoid server name du
         # now we need to make sure the forward search connects to the right server
         # check in .vimrc or tex.vim to see if it is correct
         echo "creating server called $server_name"
-        command vim --servername $server_name $argv
+        command vim --servername $server_name -c "echohl MoreMsg | echomsg \"Server name: $server_name\" | echohl None" $argv
 	end
 end

@@ -89,7 +89,7 @@ let g:airline_powerline_fonts=1
 "let g:airline_right_sep='◀'
 "" }}}
 
-"" NerdCommenter cutomization ----------{{{
+"" NerdCommenter customization ----------{{{
 let g:NERDCustomDelimiters = {
     \ 'fish': { 'left' : '#' },
     \ 'tex': { 'left': '%', 'leftAlt': '\\begin{comment}\r', 'rightAlt': '\r\\end{comment}' },
@@ -144,6 +144,7 @@ augroup END
 
 "" statusline -----------------{{{
 "" from https://github.com/spf13/spf13-vim/blob/master/.vimrc
+"" not used due to usage of airline
 "if has('statusline')
     "set laststatus=2
     "" Broken down into easily includeable segments
@@ -167,7 +168,7 @@ nnoremap <F4> :GundoToggle<CR>
 
 " shortcuts for changing vimrc and for help files -----------{{{
 " source $MYVIMRC reloads the saved $MYVIMRC
- nnoremap <Leader>s :source $MYVIMRC<CR>
+ nnoremap <Leader>ss :source $MYVIMRC<CR>
  " opens $MYVIMRC for editing, or use :tabedit $MYVIMRC
  nnoremap <Leader>v :vsplit $MYVIMRC<CR>
  nnoremap <Leader>tag <C-]>
@@ -194,6 +195,8 @@ onoremap il] :<c-u>normal! F]vi[<cr>
 " moved to ~/.vim/plugin/grep-operator.vim with additional functionality
 "nnoremap <leader>g :silent execute "grep! -R " . shellescape(expand("<cWORD>")) . " ."<cr>:copen<cr>:redraw!<CR>
 
+" change visual mode to not include EOL (default is 'inclusive')
+set selection=old
 
 " cool shortcut for fast global search
 nnoremap <leader>/ :%s//g<Left><Left>
@@ -204,6 +207,9 @@ cnoremap <C-K> <Up>
 cnoremap <C-J> <Down>
 cnoremap <C-L> <Right>
 cnoremap <C-H> <Left>
+
+" use Y to yank text of line instead of whole line
+nnoremap Y ^y$
 
 " use . in normal mode (does this not work normally?)
 vnoremap . :normal! .<CR>
@@ -217,7 +223,7 @@ set wildignore=*.o,*.pdf,*.exe,*.png
 let g:miniBufExplBRSplit=0
 nnoremap <F8> :MBEToggle<CR>:MBEFocus<CR>
 
-nnoremap <Leader>vv :!clear<CR>
+"nnoremap <Leader>vv :!clear<CR>
 " redraw screen
 nnoremap <Leader>red :redraw!<CR>
 
@@ -292,6 +298,17 @@ inoremap <C-Y>[ <Esc>m[va[:sleep 450m<CR>`[a
 
 "make ![cmd] work (doesn't work with fish)
 "set shell=bash
+function! ToggleShell()
+  if &shell ==? "/usr/bin/fish"
+    let l:shell="/bin/bash"
+  else
+    let l:shell="/usr/bin/fish"
+  endif
+  execute 'echom "shell set to ' . l:shell . '"'
+  execute 'set shell=' . l:shell
+endfunction
+nnoremap <leader>aa :call ToggleShell()<CR>
+nnoremap <leader>sh :shell<CR>
 
 " }}}
 
@@ -334,7 +351,7 @@ augroup haskell
 augroup END
 " }}}
 
-" tslime config------------------{{{
+" tslime config ------------------{{{
 vmap <C-C><C-C> <Plug>SendSelectionToTmux
 " does not work this way, needs fixing:
 "vmap <C-C><C-x> <Plug>SendSelectionToTmux :call SendToTmux("\r")<CR>
@@ -360,6 +377,74 @@ endfunction
 "noremap <m-l> <Right>
 " }}}
 
+" NERDTress File highlighting --------------------------------{{{
+function! NERDTreeHighlightFile(extension, fg, bg, guifg, guibg)
+    exec 'autocmd FileType nerdtree highlight ' . a:extension .' ctermbg='. a:bg .' ctermfg='. a:fg .' guibg='. a:guibg .' guifg='. a:guifg
+    exec 'autocmd FileType nerdtree syn match ' . a:extension .' #^\s\+.*'. a:extension .'$#'
+endfunction
+
+call NERDTreeHighlightFile('tex', 'red', 'none', 'green', '#151515')
+call NERDTreeHighlightFile('pdf', 'DarkMagenta', 'none', 'green', '#151515')
+call NERDTreeHighlightFile('png', 'DarkGreen', 'none', 'green', '#151515')
+call NERDTreeHighlightFile('jpg', 'DarkGreen', 'none', 'green', '#151515')
+call NERDTreeHighlightFile('gitconfig', 'Gray', 'none', '#686868', '#151515')
+call NERDTreeHighlightFile('gitignore', 'Gray', 'none', '#686868', '#151515')
+call NERDTreeHighlightFile('makefile', 'White', 'none', '#686868', '#151515')
+"}}}
+
+" customize devicons ----------------{{{
+let g:WebDevIconsUnicodeDecorateFileNodesExtensionSymbols = {}
+let g:WebDevIconsUnicodeDecorateFileNodesExtensionSymbols['pdf']=''
+
+let g:WebDevIconsUnicodeDecorateFileNodesExtensionSymbols['tex']=''
+"}}}
+
+" adapt vim-detach to fish ---{{{
+function! s:MMake(bang, args)
+    set shell=/bin/bash
+    execute "Make" . a:bang . " " . a:args
+    set shell=/usr/bin/fish
+endfunction
+command! -bang -nargs=* -complete=custom,s:MMake_complete MMake call s:MMake("<bang>", "<args>")
+
+function! s:MMake_complete(ArgLead, CmdLine, CurserPos)
+  "let l:targets=split(system("cut -d':' makefile"), "\n")
+  if filereadable("makefile")
+    let l:targets=system("cut -d':' -f1 -s makefile | grep -v -E '^\\.|^\\$'")
+  else
+    let l:targets=""
+  endif
+  return l:targets
+endfunction
+
+function! s:DDispatch(bang, args)
+    set shell=/bin/bash
+    execute "Dispatch" . a:bang . " " . a:args
+    set shell=/usr/bin/fish
+endfunction
+command! -bang -nargs=* DDispatch call s:DDispatch("<bang>", "<args>")
+
+function! s:FFocusDispatch(bang, args)
+    set shell=/bin/bash
+    execute "Dispatch" . a:bang . " " . a:args
+    set shell=/usr/bin/fish
+endfunction
+command! -bang -nargs=* FFocusDispatch call s:FFocusDispatch("<bang>", "<args>")
+
+function! s:SStart(bang, args)
+    set shell=/bin/bash
+    execute "Dispatch" . a:bang . " " . a:args
+    set shell=/usr/bin/fish
+endfunction
+command! -bang -nargs=* SStart call s:SStart("<bang>", "<args>")
+
+function! s:SSpawn(bang, args)
+    set shell=/bin/bash
+    execute "Dispatch" . a:bang . " " . a:args
+    set shell=/usr/bin/fish
+endfunction
+command! -bang -nargs=* SSpawn call s:SSpawn("<bang>", "<args>")
+"}}}
 
 "================use mkview to save folds etc================================
 

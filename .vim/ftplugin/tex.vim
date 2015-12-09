@@ -32,7 +32,7 @@ let g:syntastic_always_populate_loc_list = 1
 let g:syntastic_error_symbol = "✗"
 let g:syntastic_warning_symbol = "⚠"
 
-let g:Tex_ViewRuleComplete_pdf = 'xdg-open $*.pdf >/dev/null 2>&1 &'
+"let g:Tex_ViewRuleComplete_pdf = 'xdg-open $*.pdf >/dev/null 2>&1 &'
 
 " highlighting sometimes)
 nnoremap <silent> <leader>no :let @/='@@'<CR>
@@ -98,6 +98,18 @@ let g:tex_conceal="agmbs"
 hi clear Conceal
 hi link Conceal texMath
 hi Conceal ctermfg=blue
+" renew colorscheme to get correct color of conceal characters (ctemfg=blue)
+set background=dark
+"" alternative that induces prompt of "solarized\nsolarized" every time a tex
+"" file is opened
+"redir @x
+"colorscheme
+"redir END
+"if @x =~? 'solarized'
+    "silent colorscheme solarized
+"endif
+"colorscheme g:colors_name
+
 " to add symbols to one of the groups Greek, Accent (ä etc), Delimiter,
 " MathSymbol or Superscript (I hope these names are right) do this:
 "syn match texMathSymbol '\\arr\>' contained conceal cchar=←

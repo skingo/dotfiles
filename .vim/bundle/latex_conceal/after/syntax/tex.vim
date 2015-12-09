@@ -43,3 +43,5 @@ syn match texMathSymbol '\\R\>' contained conceal cchar=ℝ
 syn match texMathSymbol '\\F\>' contained conceal cchar=ℱ
 syn match texMathSymbol '\\Aa\>' contained conceal cchar=𝔄
 syn match texMathSymbol '\\A\>' contained conceal cchar=𝒜
+
+syn match texMathSymbol '\\colon\>' contained conceal cchar=:

@@ -14,3 +14,15 @@ call IMAP('SS2', '\subsubsection*{<++>}', 'tex')
 call IMAP('`(', '\subseteq ', 'tex')
 call IMAP('`)', '\supseteq ', 'tex')
 call IMAP('`0', '\emptyset', 'tex')
+
+function! g:MMake()
+    set shell=/bin/bash
+    Make
+    set shell=/usr/bin/fish
+endfunction
+command! MMake call g:MMake()
+
+nunmap <buffer> ,ll
+nnoremap <leader>ll :MMake<CR>
+
+set makeprg=make
