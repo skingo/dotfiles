@@ -25,6 +25,17 @@ set -gx AWT_TOOLKIT MToolkit
 # get xdg-open working again
 set -x GNOME_DESKTOP_SESSION_ID 42
 
+
+# colorize man and less pager
+set -x LESS_TERMCAP_mb \e\[01\x3b31m; 
+set -x LESS_TERMCAP_md \e\[01\x3b38\x3b5\x3b74m; 
+set -x LESS_TERMCAP_me \e\[0m; 
+set -x LESS_TERMCAP_se \e\[0m; 
+set -x LESS_TERMCAP_so \e\[38\x3b5\x3b46\x3b01m; 
+# set -x LESS_TERMCAP_so \e\[01\x3b33\x3b02\x3b47m
+set -x LESS_TERMCAP_ue \e\[0m; 
+set -x LESS_TERMCAP_us \e\[04\x3b38\x3b5\x3b146m 
+
 . /home/skinge/.config/fish/vi-mode.fish
 
 # set additional colors for ls

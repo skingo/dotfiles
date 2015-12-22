@@ -20,15 +20,19 @@ command! QA qa
 " }}}
 
 " settings ----------------------------{{{
-" enable pathogen
 if !exists("g:colors_set")
+  " enable pathogen
+  runtime bundle/vim-pathogen/autoload/pathogen.vim
   execute pathogen#infect()
+  " remove annoying :Vsplit (defined in pathogen.vim)
+  command! -nargs=? -complete=file Vsplit execute "vsplit <args>"
+
   filetype indent on
   syntax enable
   " opens new split on right/bottom instead of left/top
   set splitbelow
   set splitright
-  set nocompatible "keine vi-Kompatibilitaet
+  set nocompatible " no vi compatibility
   " search treats capital letters as capital, small case as either small or capital
   set ignorecase
   set smartcase
@@ -275,10 +279,11 @@ nnoremap <silent> <C-H> :TmuxNavigateLeft<CR>
 nnoremap <silent> <C-L> :TmuxNavigateRight<CR>
 nnoremap <silent> <C-K> :TmuxNavigateUp<CR>
 nnoremap <silent> <C-J> :TmuxNavigateDown<CR>
-inoremap <silent> <C-H> <Esc>:TmuxNavigateLeft<CR>
-inoremap <silent> <C-L> <Esc>:TmuxNavigateRight<CR>
-inoremap <silent> <C-K> <Esc>:TmuxNavigateUp<CR>
-inoremap <silent> <C-J> <Esc>:TmuxNavigateDown<CR>
+" do not work:
+"inoremap  <C-H> <Esc>:TmuxNavigateLeft<CR>
+"inoremap <silent> <C-L> <Esc>:TmuxNavigateRight<CR>
+"inoremap <silent> <C-K> <Esc>:TmuxNavigateUp<CR>
+"inoremap <silent> <C-J> <Esc>:TmuxNavigateDown<CR>
 
 " ctrl k switches splitted windows
 " nnoremap <C-K> :wincmd w<CR>
