@@ -111,8 +111,23 @@ additionalKeyMaps =
                                                         spawn "pactl set-sink-volume $(pactl list short sinks | tr \"\t\" ' ' | cut -d' ' -f 1) 160%" >>
                                                         return 160 >>=
                                                         displayVolume)
+        -- display brightness
         , ((0, xF86XK_MonBrightnessDown), spawn $ "xbacklight -20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((0, xF86XK_MonBrightnessUp), spawn $ "xbacklight +20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
+        -- touchpad toggle
+        , ((0, 0x1008ffa9), spawn $ concat  [ "a=$(synclient | grep Touch | sed -E 's/^[^0-9]*//');"
+                                            , "if [ 0 = $a ] ; then "
+                                            ,   "synclient TouchpadOff=1;"
+                                            ,   "echo 'touchpad off' | " ++ bashDzen ++ ";"
+                                            , "elif [ 1 = $a ] ; then "
+                                            ,   "synclient TouchpadOff=0;"
+                                            ,   "echo 'touchpad on' | " ++ bashDzen ++ ";"
+                                            , "fi"
+                                            ]
+          )
+
+        -- go to workplace number 0
+        , ((modm, xK_0), toggleOrView "xmonad:0")
 
         , ((0 , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png")
         , ((modm, xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -u")
@@ -242,6 +257,7 @@ myManageHooks = composeAll [
     --  , className =? "Firefox" --> doF (W.shift "web:1")
     className =? "Firefox" --> doF (W.shift "web:1")
     , className =? "Nightingale" --> doF (W.shift "music:6")
+    , className =? "Steam" --> doF (W.shift "steam:9")
     , resource =? "skype" --> doF (W.shift "IM:8")
     , className =? "sun-awt-X11-XFramePeer" --> doFloat
     , className =? "Dialog" <&&> className =? "Thunderbird" --> doFloat <+> doF (W.shift "mail:3")
@@ -342,8 +358,9 @@ skypeLayout = boringWindows $ avoidStruts $ smartBorders $ withIM (1/6) skypeMai
                                        (Role "CallWindow"))))
 
 -- put everything together
-myLayoutHook :: PerWorkspace Myvid (PerWorkspace SkypeLayout (PerWorkspace MyTexLayout MyDefLayouts)) Window
+myLayoutHook :: PerWorkspace Myvid (PerWorkspace Myvid (PerWorkspace SkypeLayout (PerWorkspace MyTexLayout MyDefLayouts))) Window
 myLayoutHook = onWorkspace "movie:6" myVideoLayout $
+                    onWorkspace "steam:9" myVideoLayout $
                     onWorkspace "IM:8" skypeLayout $
                     onWorkspace "tex:4" myTexLayout
                     myDefaultLayout
@@ -460,14 +477,14 @@ getMuxCompletion ss s = return $ filter (isPrefixOf s) ss
 myTopics :: [Topic]
 myTopics =
      [ "web:1", "term:2", "mail:3", "tex:4", "telegram:5"
-     , "movie:6", "music:7", "IM:8", "xmonad:9"
+     , "movie:6", "music:7", "IM:8", "steam:9", "xmonad:0"
      ]
 
 myTopicConfig :: TopicConfig
 myTopicConfig = defaultTopicConfig
     { topicDirs = M.fromList
                     [ ("telegram:5", "Desktop")
-                    , ("xmonad:9", ".xmonad")
+                    , ("xmonad:0", ".xmonad")
                     --  , ("tools", "w/tools")
                     , ("music:7", "Music")
                     ]
@@ -475,18 +492,19 @@ myTopicConfig = defaultTopicConfig
     , defaultTopicAction = const $ return ()
     , defaultTopic = "web"
     , topicActions = M.fromList
-        [ ("mail:3",      spawn "thunderbird")
         --  [ ("xmonad",   spawnShellIn ".xmonad")
         --  , ("mail",       spawn "thunderbird")
         --  , ("telegram",  sendMessage )
+        [ ("mail:3",      spawn "thunderbird")
+        , ("term:2",      spawn myTerminal)
         , ("web:1",       spawn "firefox")
+        , ("tex:4",       muxPrompt myXPConfig)
+        , ("telegram:5",  spawnMuxShell "telegram")
         , ("movie:6",     spawn "chromium-browser")
         , ("music:7",     spawnMuxShell "cmus")
-        , ("xmonad:9",    spawnMuxShell "xmonad")
-        , ("tex:4",       muxPrompt myXPConfig)
-        , ("term:2",      spawn myTerminal)
         , ("IM:8",        spawn "skype")
-        , ("telegram:5", spawnMuxShell "telegram")
+        , ("steam:9",     spawn "steam")
+        , ("xmonad:0",    spawnMuxShell "xmonad")
         ]
     }
 

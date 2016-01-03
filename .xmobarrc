@@ -10,6 +10,7 @@ Config { font = "-*-Fixed-Bold-R-Normal-*-13-*-*-*-*-*-*-*"
                     , Run StdinReader
                     , Run CommandReader "/home/jgoerzen/.xmonad/ledmon" "LED"
                     , Run Com "/home/skinge/.xmonad/volume.sh" [] "myVolume" 10
+                    , Run Com "/home/skinge/.xmonad/touchpad.sh" [] "myTouch" 10
                     , Run BatteryP ["BAT0"]
                                    [ "-t", "power <acstatus> <leftbar> <fc=#559933><left>%</fc> <watts>/<timeleft>"
                                    , "--"
@@ -25,5 +26,5 @@ Config { font = "-*-Fixed-Bold-R-Normal-*-13-*-*-*-*-*-*-*"
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = "%StdinReader% }{%cpu% %memory% * %swap% | %battery% | %wlan0wi%  <fc=#8efab0>%myVolume%</fc>  <fc=#ee9a00>%date%</fc> | %EDDS%"
+       , template = "%StdinReader% }{%cpu% %memory% * %swap% | %battery% | %wlan0wi%  <fc=#8efa00>%myTouch%</fc>  <fc=#8efab0>%myVolume%</fc>  <fc=#ee9a00>%date%</fc> | %EDDS%"
        }
