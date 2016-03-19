@@ -174,6 +174,18 @@ additionalKeyMaps =
         , ((modm .|. controlMask, xK_w ), xmonadPrompt myXPConfig)
         , ((modm, xK_i                 ), goToSelected defaultGSConfig)
         , ((modm, xK_o                 ), gridSelectTopics)
+        
+        -- switch screens with mod-{e,r} instead of {w,e,r} (w is used already), shift-mod-{e,r} to move workspace to screen
+        , ((modm, xK_e                 ), screenWorkspace 0 >>= flip whenJust (windows . W.view))
+        , ((modm, xK_r                 ), screenWorkspace 1 >>= flip whenJust (windows . W.view))
+        , ((modm .|. shiftMask, xK_e   ), screenWorkspace 0 >>= flip whenJust (windows . W.shift))
+        , ((modm .|. shiftMask, xK_r   ), screenWorkspace 1 >>= flip whenJust (windows . W.shift))
+        -- mod-{w,e,r} %! Switch to physical/Xinerama screens 1, 2, or 3
+        -- mod-shift-{w,e,r} %! Move client to screen 1, 2, or 3
+         --  [((m .|. modMask, key), screenWorkspace sc >>= flip whenJust (windows . f))
+         --     | (key, sc) <- zip [xK_w, xK_e, xK_r] [0..]
+         --     , (f, m) <- [(W.view, 0), (W.shift, shiftMask)]]
+
         -- odiaeresis is ö (ü and ä similar)
         , ((modm, xK_odiaeresis               ) , spawn "synclient HorizTwoFingerScroll=0"
                                                      >> displayStringLine "horizontal scrolling off" 800 66)
