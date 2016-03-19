@@ -5,10 +5,16 @@ set tabstop=2
 " TIP: if you write your \label's as \label{fig:something}, then if you
 " type in \ref{fig: and press <C-n> you will automatically cycle through
 " all the figure labels. Very useful!
-set iskeyword+=:
+" additionally, this allows to treat \commands as whole words
+set iskeyword+=:,\
+
+" use K to access Tex documentations
+"set keywordprg=tex-keywordprg
+set keywordprg=texdoc
 
 "let g:neocomplcache_keyword_patterns.tex='\\\a{\a\{1,2}}\|\\[[:alpha:]äöüÜÄÖß@][[:alnum:]äöüÜÄÖß@]*\%({\%([[:alnum:]äöüÜÄÖß:_]\+\*\?}\?\)\?\)\?\|\a[[:alnum:]äöüÜÄÖß:_]*\*\?'
-let g:neocomplcache_keyword_patterns.tex='\\\a{\a\{1,2}}\|\\[[:alpha:]äöüÜÄÖß@][[:alnum:]äöüÜÄÖß@]*\%({\%([[:alnum:]äöüÜÄÖß:_]\+\*\?}\?\)\?\)\?\|[[:alpha:]äöüÜÖÄß][[:alnum:]äöüÜÄÖß:_]*\*\?'
+"let g:neocomplcache_keyword_patterns.tex='\\\a{\a\{1,2}}\|\\[[:alpha:]äöüÜÄÖß@][[:alnum:]äöüÜÄÖß@]*\%({\%([[:alnum:]äöüÜÄÖß:_]\+\*\?}\?\)\?\)\?\|[[:alpha:]äöüÜÖÄß][[:alnum:]äöüÜÄÖß:_]*\*\?'
+let g:neocomplete#keyword_patterns.tex='\\\a{\a\{1,2}}\|\\[[:alpha:]äöüÜÄÖß@][[:alnum:]äöüÜÄÖß@]*\%({\%([[:alnum:]äöüÜÄÖß:_]\+\*\?}\?\)\?\)\?\|[[:alpha:]äöüÜÖÄß][[:alnum:]äöüÜÄÖß:_]*\*\?'
 
 " stop miniBufExpl from opening while editing
 let g:miniBufExplAutoStart=0

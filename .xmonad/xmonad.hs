@@ -114,6 +114,8 @@ additionalKeyMaps =
         -- display brightness
         , ((0, xF86XK_MonBrightnessDown), spawn $ "xbacklight -20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((0, xF86XK_MonBrightnessUp), spawn $ "xbacklight +20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
+        , ((0, xF86XK_KbdBrightnessDown), spawn $ "export SUDO_ASKPASS=/home/skinge/.xmonad/dpass.sh; sudo -A /home/skinge/.xmonad/kbd_brightness.sh dec 2>&1 | " ++ bashDzen)
+        , ((0, xF86XK_KbdBrightnessUp), spawn $ "export SUDO_ASKPASS=/home/skinge/.xmonad/dpass.sh; sudo -A /home/skinge/.xmonad/kbd_brightness.sh inc 2>&1 | " ++ bashDzen)
         -- touchpad toggle
         , ((0, 0x1008ffa9), spawn $ concat  [ "a=$(synclient | grep Touch | sed -E 's/^[^0-9]*//');"
                                             , "if [ 0 = $a ] ; then "
@@ -251,17 +253,17 @@ speakersOn = spawn "amixer -D pulse sset Master on"
  - to find out class of a window, use xprop in terminal and click respective window
  -}
 myManageHooks :: ManageHook
-myManageHooks = composeAll [
+myManageHooks = composeAll
     --  isFullscreen --> doFullFloat
     --  isFullscreen --> (doF W.focusDown <+> doFullFloat)
     --  , className =? "Firefox" --> doF (W.shift "web:1")
-    className =? "Firefox" --> doF (W.shift "web:1")
-    , className =? "Nightingale" --> doF (W.shift "music:6")
+    --  , className =? "Nightingale" --> doF (W.shift "music:6")
+    [ className =? "Firefox" --> doF (W.shift "web:1")
     , className =? "Steam" --> doF (W.shift "steam:9")
     , resource =? "skype" --> doF (W.shift "IM:8")
     , className =? "sun-awt-X11-XFramePeer" --> doFloat
     , className =? "Dialog" <&&> className =? "Thunderbird" --> doFloat <+> doF (W.shift "mail:3")
-    , className =? "thunderbird" --> doF (W.shift "mail:3")
+    , className =? "Thunderbird" --> doF (W.shift "mail:3")
     , manageDocks
     , manageHook defaultConfig
     ]

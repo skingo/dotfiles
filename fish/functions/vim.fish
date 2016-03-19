@@ -30,7 +30,11 @@ function vim --description 'start vim with a server name to avoid server name du
 	if [ -z $name_used ]
 		set server_name $locdir
 	else
-		set server_name "MAIN"
+		if [ -z $curdir[(count $curdir)] ]
+			set server_name "MAIN"
+		else
+			set server_name $curdir[(count $curdir)]
+		end
 		set num 1
 		while [ -n $name_used ]
 			set server_name_candidate $server_name$num

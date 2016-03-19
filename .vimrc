@@ -215,7 +215,8 @@ cnoremap <C-L> <Right>
 cnoremap <C-H> <Left>
 
 " use Y to yank text of line instead of whole line
-nnoremap Y ^y$
+"noremap Y ^y$
+noremap <expr> Y '^"'.v:register.v:count1.'y$'
 
 " use . in normal mode (does this not work normally?)
 vnoremap . :normal! .<CR>
@@ -234,8 +235,8 @@ nnoremap <F8> :MBEToggle<CR>:MBEFocus<CR>
 nnoremap <Leader>red :redraw!<CR>
 
 " move line up or down
-nnoremap - ddp
-nnoremap _ ddkP
+"nnoremap - ddp
+"nnoremap _ ddkP
 " move to next/previous buffer
 nnoremap <b :bprevious<CR>
 nnoremap <B :bnext<CR>
@@ -256,7 +257,7 @@ inoremap jj <Esc>jj
 inoremap kk <Esc>kk
 
 "copy to clipboard in visual mode
-vnoremap <C-C> "+y
+"vnoremap <C-C> "+y
 "paste from clipboard in visual or normal mode
 " does not work due to missing +clipboard option in current vim version
 " uncommenting these will lead to conflict with window maximazation command
@@ -407,10 +408,27 @@ let g:WebDevIconsUnicodeDecorateFileNodesExtensionSymbols['tex']=''
 "}}}
 
 " adapt vim-detach to fish ---{{{
+function! s:GGpush(bang, args)
+    let shelltmp=&shell
+    set shell=/bin/bash
+    execute "Gpush" . a:bang . " " . a:args
+    execute "set shell=" . &shell
+endfunction
+command! -bang -nargs=* GGpush call s:GGpush("<bang>", "<args>")
+
+function! s:CCopen(bang, args)
+    let shelltmp=&shell
+    set shell=/bin/bash
+    execute "Copen" . a:bang . " " . a:args
+    execute "set shell=" . &shell
+endfunction
+command! -bang -nargs=* CCopen call s:CCopen("<bang>", "<args>")
+
 function! s:MMake(bang, args)
+    let shelltmp=&shell
     set shell=/bin/bash
     execute "Make" . a:bang . " " . a:args
-    set shell=/usr/bin/fish
+    execute "set shell=" . &shell
 endfunction
 command! -bang -nargs=* -complete=custom,s:MMake_complete MMake call s:MMake("<bang>", "<args>")
 
@@ -425,33 +443,49 @@ function! s:MMake_complete(ArgLead, CmdLine, CurserPos)
 endfunction
 
 function! s:DDispatch(bang, args)
+    let shelltmp=&shell
     set shell=/bin/bash
     execute "Dispatch" . a:bang . " " . a:args
-    set shell=/usr/bin/fish
+    execute "set shell=" . &shell
 endfunction
 command! -bang -nargs=* DDispatch call s:DDispatch("<bang>", "<args>")
 
 function! s:FFocusDispatch(bang, args)
+    let shelltmp=&shell
     set shell=/bin/bash
     execute "Dispatch" . a:bang . " " . a:args
-    set shell=/usr/bin/fish
+    execute "set shell=" . &shell
 endfunction
 command! -bang -nargs=* FFocusDispatch call s:FFocusDispatch("<bang>", "<args>")
 
 function! s:SStart(bang, args)
+    let shelltmp=&shell
     set shell=/bin/bash
     execute "Dispatch" . a:bang . " " . a:args
-    set shell=/usr/bin/fish
+    execute "set shell=" . &shell
 endfunction
 command! -bang -nargs=* SStart call s:SStart("<bang>", "<args>")
 
 function! s:SSpawn(bang, args)
+    let shelltmp=&shell
     set shell=/bin/bash
     execute "Dispatch" . a:bang . " " . a:args
-    set shell=/usr/bin/fish
+    execute "set shell=" . &shell
 endfunction
 command! -bang -nargs=* SSpawn call s:SSpawn("<bang>", "<args>")
 "}}}
+
+" use ä, ü etc as different keys when in normal mode ----------{{{
+augroup imIns
+    autocmd!
+    autocmd InsertEnter * set iminsert=2
+    autocmd InsertLeave * set iminsert=1
+augroup END
+lmap ä {
+lmap ö [
+lmap ü (
+set lmap=ä{ö[ü(
+" }}}
 
 "================use mkview to save folds etc================================
 

@@ -16,7 +16,7 @@ set toprint {$HOME}/Desktop/toprint/
 
 set krypt {$ws}/kryptologie/
 set -x PYTHONSTARTUP ~/.pythonrc
-set -gx PATH {$HOME}/.cabal/bin $PATH
+set -gx PATH {$HOME}/.cabal/bin {$HOME}/.local/bin $PATH
 #set -x TERM "screen-256color-bce"
 # avoid problems with java stuff in xmonad
 set -gx _JAVA_AWT_WM_NONREPARENTING 1
@@ -24,6 +24,9 @@ set -gx AWT_TOOLKIT MToolkit
 
 # get xdg-open working again
 set -x GNOME_DESKTOP_SESSION_ID 42
+
+# use dmenu to ask for sudo password (use sudo -A cmd)
+set -x SUDO_ASKPASS /home/skinge/.xmonad/dpass.sh
 
 
 # colorize man and less pager
