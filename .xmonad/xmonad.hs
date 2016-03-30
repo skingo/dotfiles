@@ -15,6 +15,7 @@ import XMonad.Hooks.ManageDocks
 --  import XMonad.Hooks.ManageHelpers (doFullFloat,isFullscreen)
 import XMonad.Hooks.DynamicLog
 import XMonad.Hooks.FadeWindows
+import XMonad.Hooks.FadeInactive
 import XMonad.Hooks.SetWMName
 import XMonad.Hooks.EwmhDesktops
 
@@ -49,6 +50,8 @@ import XMonad.Actions.TopicSpace
 import XMonad.Actions.GridSelect
 import XMonad.Actions.Commands
 import XMonad.Actions.WindowMenu
+import XMonad.Actions.Warp
+import XMonad.Actions.FloatKeys
 
 import System.IO
 import Graphics.X11.ExtraTypes.XF86
@@ -114,6 +117,8 @@ additionalKeyMaps =
         -- display brightness
         , ((0, xF86XK_MonBrightnessDown), spawn $ "xbacklight -20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((0, xF86XK_MonBrightnessUp), spawn $ "xbacklight +20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
+        , ((modm, xF86XK_MonBrightnessDown), spawn $ "xbacklight -5 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
+        , ((modm, xF86XK_MonBrightnessUp), spawn $ "xbacklight +5 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((0, xF86XK_KbdBrightnessDown), spawn $ "export SUDO_ASKPASS=/home/skinge/.xmonad/dpass.sh; sudo -A /home/skinge/.xmonad/kbd_brightness.sh dec 2>&1 | " ++ bashDzen)
         , ((0, xF86XK_KbdBrightnessUp), spawn $ "export SUDO_ASKPASS=/home/skinge/.xmonad/dpass.sh; sudo -A /home/skinge/.xmonad/kbd_brightness.sh inc 2>&1 | " ++ bashDzen)
         -- touchpad toggle
@@ -130,20 +135,16 @@ additionalKeyMaps =
 
         -- go to workplace number 0
         , ((modm, xK_0), toggleOrView "xmonad:0")
+        , ((modm .|. shiftMask, xK_0), windows $ W.shift "xmonad:0")
 
         , ((0 , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png")
         , ((modm, xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -u")
-        --  , ((modm .|. shiftMask , xK_Print), spawn $ "scrot -s </dev/null &; sleep 4; echo ended | dzen2 -p 2;")
-        , ((modm .|. shiftMask , xK_Print), runInTerm "echo foo | dzen -p 2" "")
-        --  , ((modm .|. shiftMask , xK_Print), spawn $ "sh nohup scrot -s & sleep 4; echo ended | dzen2 -p 2;")
-        --  , ((modm .|. shiftMask , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -s || sleep 4; echo ended | dzen2 -p 2")
-        --  , ((modm, xK_b), spawn "echo foobar | dzen2 -p 2; sleep 4; echo baz | dzen2 -p 2;")
+        , ((modm .|. shiftMask , xK_Print), spawn $ "sleep 0.2; scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -s")
         --  , ((modm, xK_b), setWMName "LGD3." >> spawn "echo done | dzen2 -p 2")
         , ((modm, xK_b), spawn "blather")
 
-        -- win - shift - f4 used for shutdown
-        --  , ((modm .|. shiftMask, xK_F4), spawn "sudo poweroff")
         , ((modm .|. shiftMask, xK_i),  spawn "sudo poweroff")
+        , ((modm .|. controlMask, xK_i),  spawn "sudo reboot")
 
         -- decide if laptop screen may go off after timeout
         , ((modm, xK_d),                spawn "xset -dpms; xset s off" >>
@@ -174,7 +175,7 @@ additionalKeyMaps =
         , ((modm .|. controlMask, xK_w ), xmonadPrompt myXPConfig)
         , ((modm, xK_i                 ), goToSelected defaultGSConfig)
         , ((modm, xK_o                 ), gridSelectTopics)
-        
+
         -- switch screens with mod-{e,r} instead of {w,e,r} (w is used already), shift-mod-{e,r} to move workspace to screen
         , ((modm, xK_e                 ), screenWorkspace 0 >>= flip whenJust (windows . W.view))
         , ((modm, xK_r                 ), screenWorkspace 1 >>= flip whenJust (windows . W.view))
@@ -191,10 +192,13 @@ additionalKeyMaps =
                                                      >> displayStringLine "horizontal scrolling off" 800 66)
         , ((modm .|. shiftMask, xK_odiaeresis ) , spawn "synclient HorizTwoFingerScroll=1"
                                                      >> displayStringLine "horizontal scrolling on" 800 66)
-        , ((modm, xK_adiaeresis               ) , spawn "synclient TouchpadOff=0"
-                                                     >> displayStringLine "touchpad on" 500 66)
-        , ((modm .|. shiftMask, xK_adiaeresis ) , spawn "synclient TouchpadOff=1"
-                                                     >> displayStringLine "touchpad off" 500 66)
+        -- touchpad toggle is already in place using the given 'touchpad toggle' key
+        --  , ((modm, xK_adiaeresis               ) , spawn "synclient TouchpadOff=0"
+                                                     --  >> displayStringLine "touchpad on" 500 66)
+        --  , ((modm .|. shiftMask, xK_adiaeresis ) , spawn "synclient TouchpadOff=1"
+                                                     --  >> displayStringLine "touchpad off" 500 66)
+        , ((modm, xK_adiaeresis               ), warpToWindow 0.5 0.5)
+        , ((modm .|. shiftMask, xK_adiaeresis ), banish UpperLeft)
 
          -------- used in subtabbed layout --------
          -- don't yet know what these do:
@@ -203,7 +207,7 @@ additionalKeyMaps =
         , ((modm .|. controlMask .|. shiftMask , xK_k), sendMessage $ pullGroup U)
         , ((modm .|. controlMask .|. shiftMask , xK_j), sendMessage $ pullGroup D)
         -- merging and unmerging
-        , ((modm .|. controlMask, xK_m), withFocused (sendMessage . MergeAll))
+        , ((modm .|. shiftMask, xK_m  ), withFocused (sendMessage . MergeAll))
         , ((modm .|. controlMask, xK_u), withFocused (sendMessage . UnMerge))
         -- switch windows inside group
         , ((modm .|. controlMask, xK_period), onGroup W.focusUp')
@@ -215,6 +219,19 @@ additionalKeyMaps =
         , ((modm, xK_c), commands >>= runCommand)
 
         , ((modm .|. shiftMask, xK_o), windowMenu)
+
+        -- move floating windows around
+        , ((modm, xK_n), withFocused (keysMoveWindow (-20, 0)))
+        , ((modm, xK_m), withFocused (keysMoveWindow (20, 0)))
+        , ((modm .|. shiftMask, xK_n), withFocused (keysMoveWindow (0, -20)))
+        , ((modm .|. shiftMask, xK_m), withFocused (keysMoveWindow (0, 20)))
+        , ((modm .|. controlMask, xK_n), withFocused (keysResizeWindow (-30, -30) (0.5, 0.5)))
+        , ((modm .|. controlMask, xK_m), withFocused (keysResizeWindow (30, 30) (0.5, 0.5)))
+        , ((modm .|. controlMask .|. shiftMask, xK_n), withFocused (keysResizeWindow (0, -30) (0.5, 0.5)))
+        , ((modm .|. controlMask .|. shiftMask, xK_m), withFocused (keysResizeWindow (0, 30) (0.5, 0.5)))
+
+        -- restart xcompmgr
+        , ((modm, xK_F5), spawn "killall xcompmgr; sleep 1; xcompmgr -cCfF &")
         ]
 
 ------------------------------ dzen utils --------------------------------------
@@ -276,6 +293,7 @@ myManageHooks = composeAll
     , className =? "sun-awt-X11-XFramePeer" --> doFloat
     , className =? "Dialog" <&&> className =? "Thunderbird" --> doFloat <+> doF (W.shift "mail:3")
     , className =? "Thunderbird" --> doF (W.shift "mail:3")
+    , className =? "Gvim" --> doFloat
     , manageDocks
     , manageHook defaultConfig
     ]
@@ -294,15 +312,16 @@ myStartupHook = do
 myLogHook :: Handle -> X ()
 myLogHook xmproc = do
                     dynamicLogWithPP (xmobarPP { ppOutput = hPutStrLn xmproc
-                                                , ppTitle  = xmobarColor "green" "" . shorten 60
-                                                , ppCurrent = \a -> "<fc=orange,>[" ++ a ++ "]</fc>"
-                                                , ppSep = " | "
-                                                , ppLayout = xmobarColor "violet" ""
-                                                })
-                    fadeWindowsLogHook myFadeHook
+                                               , ppTitle  = xmobarColor "green" "" . shorten 60
+                                               , ppCurrent = \a -> "<fc=orange,>[" ++ a ++ "]</fc>"
+                                               , ppSep = " | "
+                                               , ppLayout = xmobarColor "violet" ""
+                                               })
+                    --  fadeWindowsLogHook myFadeHook
+                    fadeInactiveLogHook 0.7
 
 myFadeHook :: FadeHook
-myFadeHook = composeAll [ isUnfocused --> transparency 0.5
+myFadeHook = composeAll [ isUnfocused --> transparency 0.2
                         , isFloating --> transparency 0.7
                         , opaque
                         ]
@@ -504,7 +523,7 @@ myTopicConfig = defaultTopicConfig
                     ]
     --  , defaultTopicAction = const $ spawnShell >*> 3 -- spawn three shells
     , defaultTopicAction = const $ return ()
-    , defaultTopic = "web"
+    , defaultTopic = "term:2"
     , topicActions = M.fromList
         --  [ ("xmonad",   spawnShellIn ".xmonad")
         --  , ("mail",       spawn "thunderbird")
@@ -548,7 +567,7 @@ main = do
        , layoutHook  = myLayoutHook
        , logHook     = myLogHook xmproc
        , focusFollowsMouse  = myFocusFollowsMouse
-       , handleEventHook = fadeWindowsEventHook
+       --  , handleEventHook = fadeWindowsEventHook
        , normalBorderColor  = "white"
        , focusedBorderColor = "orange"
        , startupHook        = myStartupHook

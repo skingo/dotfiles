@@ -7,6 +7,22 @@ nnoremap <C-Q> ,
 
 let g:agda_extraincpaths = ["/home/skinge/Downloads/agda-stdlib-0.10/src/"]
 
+" testing stuff for SE -------{{{
+" ---------- resizing GUI -----
+"set lines=20
+"set columns=40
+"if exists('foo')
+    "set columns=30
+    "set lines=10
+    "let g:bar=10
+"endif
+"set lines=40 columns=30
+"autocmd GUIEnter * set lines=30 columns=40
+"autocmd GUIEnter * set lines=30
+" ---------- quickfix windows in new tab ---
+"autocmd FileType qf nnoremap <buffer> <Enter> <C-W><Enter><C-W>T
+"}}}
+
 " avoid function key problems when using tmux -----------{{{
 if !has("gui_running")
   set term=xterm
@@ -324,7 +340,7 @@ nnoremap <leader>sh :shell<CR>
 if has("gui_running")
     " GUI is running or is about to start.
     " Maximize gvim window.
-    set lines=55 columns=180
+    "set lines=55 columns=180
     "colorscheme koehler
     colorscheme solarized
     set guifont=Liberation\ Mono\ for\ Powerline\ 10
@@ -453,7 +469,7 @@ command! -bang -nargs=* DDispatch call s:DDispatch("<bang>", "<args>")
 function! s:FFocusDispatch(bang, args)
     let shelltmp=&shell
     set shell=/bin/bash
-    execute "Dispatch" . a:bang . " " . a:args
+    execute "FocusDispatch" . a:bang . " " . a:args
     execute "set shell=" . &shell
 endfunction
 command! -bang -nargs=* FFocusDispatch call s:FFocusDispatch("<bang>", "<args>")
@@ -461,7 +477,7 @@ command! -bang -nargs=* FFocusDispatch call s:FFocusDispatch("<bang>", "<args>")
 function! s:SStart(bang, args)
     let shelltmp=&shell
     set shell=/bin/bash
-    execute "Dispatch" . a:bang . " " . a:args
+    execute "Start" . a:bang . " " . a:args
     execute "set shell=" . &shell
 endfunction
 command! -bang -nargs=* SStart call s:SStart("<bang>", "<args>")
@@ -469,7 +485,7 @@ command! -bang -nargs=* SStart call s:SStart("<bang>", "<args>")
 function! s:SSpawn(bang, args)
     let shelltmp=&shell
     set shell=/bin/bash
-    execute "Dispatch" . a:bang . " " . a:args
+    execute "Spawn" . a:bang . " " . a:args
     execute "set shell=" . &shell
 endfunction
 command! -bang -nargs=* SSpawn call s:SSpawn("<bang>", "<args>")

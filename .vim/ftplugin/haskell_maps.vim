@@ -1,7 +1,7 @@
 nnoremap <S-U> :GhcModLint<CR>
 nnoremap <C-U> :GhcModCheck<CR>
 nnoremap <C-O> :GhcModType<CR>
-nnoremap <C-I> :GhcModTypeClear<CR>
+"nnoremap <C-I> :GhcModTypeClear<CR>
 
 noremap <F4> :Hoogle 
 " don't seem to work
