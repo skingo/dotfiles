@@ -1,0 +1,132 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp38549pdb;
+        Tue, 10 Sep 2013 13:43:59 -0700 (PDT)
+X-Received: by 10.14.9.72 with SMTP id 48mr15448037ees.42.1378845839128;
+        Tue, 10 Sep 2013 13:43:59 -0700 (PDT)
+Return-Path: <newsletter@androidpit.info>
+Received: from smtp31.fonpit.de (smtp31.fonpit.de. [176.9.71.199])
+        by mx.google.com with ESMTP id z8si1236079eee.53.1969.12.31.16.00.00;
+        Tue, 10 Sep 2013 13:43:59 -0700 (PDT)
+Received-SPF: neutral (google.com: 176.9.71.199 is neither permitted nor denied by best guess record for domain of newsletter@androidpit.info) client-ip=176.9.71.199;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 176.9.71.199 is neither permitted nor denied by best guess record for domain of newsletter@androidpit.info) smtp.mail=newsletter@androidpit.info
+Received: from rs31 (localhost [127.0.0.1])
+	by smtp31.fonpit.de (Postfix) with ESMTP id DEB10B5AB669
+	for <ingo.skupin@gmail.com>; Tue, 10 Sep 2013 17:36:03 +0200 (CEST)
+Date: Tue, 10 Sep 2013 17:36:03 +0200 (CEST)
+From: AndroidPIT Breaking News <newsletter@androidpit.info>
+To: ingo <ingo.skupin@gmail.com>
+Message-ID: <2031418018.21873854.1378827363911.JavaMail.root@rs31>
+Subject: Jetzt downloaden: Unsere neue AndroidPIT-App
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_21873852_530515837.1378827363911"
+X-Priority: 3
+
+------=_Part_21873852_530515837.1378827363911
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Jetzt downloaden: Unsere neue AndroidPIT-App
+
+Gute Nachrichten:
+
+Ab sofort steht die brandneue Version 2.0 unserer AndroidPIT-App zum Downlo=
+ad bereit. Sie bietet nicht nur ein komplett neues Design, sondern auch vie=
+le Verbesserungen gegen=C3=BCber der alten Version. Probiert sie am besten =
+gleich aus!
+
+Jetzt downloaden:
+https://play.google.com/store/apps/details?id=3Dde.androidpit.app&referrer=
+=3Dutm_source%3Dbreaking_news
+
+________________________________________
+Du erh=C3=A4ltst diese E-Mail, weil Du Dich bei www.androidpit.de registrie=
+rt hast.\n
+Du kannst Dich hier von unseren Breaking News abmelden:\n
+http://www.androidpit.de/de/android/unsubscribe/5c1f-464f48-487cd2c2a1f6?t=
+=3Dbn
+------=_Part_21873852_530515837.1378827363911
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+</head>
+<body style="width:100% !important; -webkit-text-size-adjust:100%; -ms-text-size-adjust:100%; margin:0px; padding:0px; background-color:#c7c7c7;">
+  <table cellpadding="0" cellspacing="0" border="0" style="font-family:Arial; margin:0px; padding:0px; width:100% !important; line-height:100% !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#c7c7c7;">
+    <tr>
+      <td align="center" valign="top" style="border-collapse:collapse;">
+        <table cellpadding="0" cellspacing="0" border="0" style="margin:0px; padding:0px; width:600px !important; line-height:100% !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt;">
+          <tr>
+            <td valign="top" style="border-collapse:collapse;">
+              <!-- header -->
+              <table cellspacing="0" cellpadding="0" border="0" style="margin:0px; padding:0px; width:600px; line-height:100% !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#151515;">
+                <tr>
+                  <td height="80px" valign="top" colspan="3" style="border-collapse:collapse;">
+                    <img style="margin-left:20px; margin-top:23px; display:block;" src="http://files.androidpit.info/pub/Newsletter/t2/logo.png"/>
+                  </td>
+                  <td style="border-collapse:collapse; padding-right:18px;" align="right">
+                    <a href="http://www.facebook.com/www.androidpit.de" style="padding:3px;"/><img src="http://files.androidpit.info/pub/Newsletter/t2/facebook.png"/></a>
+                    <a href="https://plus.google.com/117873727868741940538/posts" style="padding:3px;"/><img src="http://files.androidpit.info/pub/Newsletter/t2/gplus.png"/></a>
+                    <a href="http://twitter.com/#!/AndroidPIT" style="padding:3px;"/><img src="http://files.androidpit.info/pub/Newsletter/t2/twitter.png"/></a>
+                  </td>
+                </tr>
+                <tr>
+                  <td style="border-collapse:collapse;"><a href="http://www.androidpit.de/"><img src="http://files.androidpit.info/pub/Newsletter/t2/home.png" style="display:block;"/></a></td>
+                  <td style="border-collapse:collapse;"><a href="http://www.androidpit.de/de/android-market"><img src="http://files.androidpit.info/pub/Newsletter/t2/apps.png" style="display:block;"/></a></td>
+                  <td style="border-collapse:collapse;"><a href="http://www.androidpit.de/news"><img src="http://files.androidpit.info/pub/Newsletter/t2/news.png" style="display:block;"/></a></td>
+                  <td style="border-collapse:collapse;"><a href="http://www.androidpit.de/de/android/forum"><img src="http://files.androidpit.info/pub/Newsletter/t2/forum.png" style="display:block;"/></a></td>
+                </tr>
+              </table>
+              <!-- /header -->
+              <!-- content -->
+              <table cellspacing="0" cellpadding="0" border="0" style="margin:0px; padding:0px; width:100% !important;line-height:100% !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#fff;">
+                <tr>
+                  <td width="100%" valign="top" style="padding:20px; background-color:#fff;">
+                    <a style="font-family:Arial; font-size:24px; font-weight:normal; text-decoration:none; color:#43A8DA; display:block; margin-bottom:20px;" href="https://play.google.com/store/apps/details?id=de.androidpit.app&referrer=utm_source%3Dbreaking_news">Jetzt downloaden: Unsere neue AndroidPIT-App</a>
+
+<a href="https://play.google.com/store/apps/details?id=de.androidpit.app&referrer=utm_source%3Dbreaking_news"><img src="http://files.androidpit.info/pub/Newsletter/App-2.0/app_de.jpg" style="float:left; margin: 2px 15px 0 0;"></a>
+
+<p style="font-family:Arial; font-size:14px; line-height:1.25; color:#333;">Gute Nachrichten:</p>
+<p style="font-family:Arial; font-size:14px; line-height:1.25; color:#333;">Ab sofort steht die brandneue Version 2.0 unserer AndroidPIT-App zum Download bereit. Sie bietet nicht nur ein komplett neues Design, sondern auch viele Verbesserungen gegen&uuml;ber der alten Version. Probiert sie am besten gleich aus!</p>
+
+<p style="font-family:Arial; font-size:14px; color:#333;">Jetzt downloaden:</p>
+<a href="https://play.google.com/store/apps/details?id=de.androidpit.app&referrer=utm_source%3Dbreaking_news"><img src="http://www.androidpit.de/img/google-play/get-it-on_l_de.png"></a>
+
+                  </td>
+                </tr>
+              </table>
+              <!-- /content -->
+              <!-- footer -->
+              <table cellspacing="0" cellpadding="0" border="0" style="margin:0px; padding:0px; line-height:100% !important; border-collapse:collapse; mso-table-lspace:0pt; mso-table-rspace:0pt; background-color:#fff;">
+                <tr>
+                  <td width="100%" valign="middle">
+                    <p style="padding:10px 0px; margin-left:20px; color:#a0a0a0; font-size:11px;">
+                      Du erh&auml;ltst diese E-Mail, weil Du Dich bei <a style="color:#92B82B;" href="http://www.androidpit.de">www.androidpit.de</a> registriert hast.<br>
+Du kannst Dich <a style="color:#92B82B;" href="http://www.androidpit.de/de/android/unsubscribe/5c1f-464f48-487cd2c2a1f6?t=bn">hier</a> von unseren Breaking News abmelden.
+                    </p>
+                  </td>
+                <td style="width:20px"></td>
+                </tr>
+                <tr>
+                  <td colspan="3" height="35px" valign="middle" style="font-size:12px; color:#fff; text-align:right; background-color:#151515; padding-right:20px;">
+                  <a style="color:#fff; text-decoration:none;" href="http://www.androidpit.de/">Home</a> &nbsp;|&nbsp;
+                  <a style="color:#fff; text-decoration:none;" href="http://www.androidpit.de/de/android/aboutSite">Impressum</a> &nbsp;|&nbsp;
+                  <a style="color:#fff; text-decoration:none;" href="http://www.androidpit.de/de/android/terms">FAQ</a> &nbsp;|&nbsp;
+                  <a style="color:#fff; text-decoration:none;" href="http://www.androidpit.de/de/android/contact/form">Kontakt</a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
+------=_Part_21873852_530515837.1378827363911--

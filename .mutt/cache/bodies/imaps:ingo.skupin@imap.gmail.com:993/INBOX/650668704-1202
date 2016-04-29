@@ -1,0 +1,65 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.5.198 with SMTP id 6cs49583vcw;
+        Sat, 26 Nov 2011 07:27:28 -0800 (PST)
+Received: by 10.68.209.36 with SMTP id mj4mr37158530pbc.71.1322321246877;
+        Sat, 26 Nov 2011 07:27:26 -0800 (PST)
+Return-Path: <2011112615272592d9fef782fc4659ad9a64857af80941@bounces.amazon.com>
+Received: from retail-smtp-out-22001.amazon.com (retail-smtp-out-22001.amazon.com. [212.123.28.40])
+        by mx.google.com with ESMTP id c6si3325798pbj.239.2011.11.26.07.27.26;
+        Sat, 26 Nov 2011 07:27:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of 2011112615272592d9fef782fc4659ad9a64857af80941@bounces.amazon.com designates 212.123.28.40 as permitted sender) client-ip=212.123.28.40;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of 2011112615272592d9fef782fc4659ad9a64857af80941@bounces.amazon.com designates 212.123.28.40 as permitted sender) smtp.mail=2011112615272592d9fef782fc4659ad9a64857af80941@bounces.amazon.com; dkim=pass header.i=bestellstatus@amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=amazon.de; i=bestellstatus@amazon.de; q=dns/txt;
+  s=rte02; t=1322321246; x=1353857246;
+  h=date:from:to:cc:message-id:subject:mime-version:
+   content-type:content-transfer-encoding:bounces-to:
+   x-amazon-mail-relay-type:x-amazon-rte-version;
+  z=Date:=20Sat,=2026=20Nov=202011=2015:27:25=20+0000=20(UTC
+   )|From:=20"bestellstatus@amazon.de"=20<bestellstatus@amaz
+   on.de>|To:=20"ingo.skupin@googlemail.com"=20<ingo.skupin@
+   googlemail.com>|Cc:=20"bestellstatus@amazon.de"=20<bestel
+   lstatus@amazon.de>|Message-ID:=20<urn.correios.msg.201111
+   2615272592d9fef782fc4659ad9a64857af80941@1322321245281.rt
+   e-svc-eu-14007.dub4.amazon.com>|Subject:=20=3D?UTF-8?Q?R
+   =3DC3=3DBCckgabe_Ihrer_Bestellung_303-1967522-8239542_erh
+   alten?=3D|MIME-Version:=201.0|Content-Type:=20text/plain
+   =3B=20charset=3DUTF-8|Content-Transfer-Encoding:=20quoted
+   -printable|Bounces-to:=202011112615272592d9fef782fc4659ad
+   9a64857af80941@bounces.amazon.com
+   |X-AMAZON-MAIL-RELAY-TYPE:=20notification
+   |X-AMAZON-RTE-VERSION:=202.0;
+  bh=zL3ckNz4YPBynXbYoaJY4m4GhlXaSeHCyOGeRam+weM=;
+  b=YoRK2GCz0gq1lzJkHUgiP173/qQWjnrMeaQDcdOSXFZDBMdcCilPPzGz
+   XhO/DBfkr7bLFzth32xMKsi5SfgTyA==;
+Date: Sat, 26 Nov 2011 15:27:25 +0000 (UTC)
+From: "bestellstatus@amazon.de" <bestellstatus@amazon.de>
+To: "ingo.skupin@googlemail.com" <ingo.skupin@googlemail.com>
+Cc: "bestellstatus@amazon.de" <bestellstatus@amazon.de>
+Message-ID: <urn.correios.msg.2011112615272592d9fef782fc4659ad9a64857af80941@1322321245281.rte-svc-eu-14007.dub4.amazon.com>
+Subject: =?UTF-8?Q?R=C3=BCckgabe_Ihrer_Bestellung_303-1967522-8239542_erhalten?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Bounces-to: 2011112615272592d9fef782fc4659ad9a64857af80941@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+
+Guten Tag!
+
+Wir haben Ihre R=C3=BCcksendung f=C3=BCr die Bestellung 303-1967522-8239542=
+ erhalten und unsere Warenr=C3=BCcknahme bearbeitet diese nun.
+
+Bei einer Erstattung erhalten Sie dazu in K=C3=BCrze eine weitere Best=C3=
+=A4tigung per E-Mail.
+
+Weitere Einzelheiten zu Erstattungen finden Sie auf unseren Hilfeseiten htt=
+p://www.amazon.de/gp/help/customer/display.html?nodeId=3D15691931
+
+Vielen Dank f=C3=BCr Ihren Einkauf bei Amazon.de.
+
+(Dies ist eine automatisch versendete Nachricht. Bitte antworten Sie nicht =
+auf dieses Schreiben, da die Adresse nur zur Versendung von E-Mails eingeri=
+chtet ist.)
+
+

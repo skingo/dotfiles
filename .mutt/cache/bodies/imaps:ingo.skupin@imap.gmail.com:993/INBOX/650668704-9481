@@ -1,0 +1,167 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp684035ivc;
+        Sat, 26 Mar 2016 11:39:04 -0700 (PDT)
+X-Received: by 10.28.210.141 with SMTP id j135mr3009307wmg.0.1459017544135;
+        Sat, 26 Mar 2016 11:39:04 -0700 (PDT)
+Return-Path: <info@musikverein-notzingen.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id t7si20465951wjw.138.2016.03.26.11.39.03
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 26 Mar 2016 11:39:04 -0700 (PDT)
+Received-SPF: neutral (google.com: 212.227.17.12 is neither permitted nor denied by best guess record for domain of info@musikverein-notzingen.de) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@musikverein-notzingen.de;
+       spf=neutral (google.com: 212.227.17.12 is neither permitted nor denied by best guess record for domain of info@musikverein-notzingen.de) smtp.mailfrom=info@musikverein-notzingen.de
+Received: from [212.227.17.8] ([212.227.17.8]) by mx-ha.web.de (mxweb109) with
+ ESMTPS (Nemesis) id 0M6xar-1Zndcw1zWf-00wmbb for <ingo.skupin@gmail.com>;
+ Sat, 26 Mar 2016 19:39:03 +0100
+Received: from mo4-p04-ob.smtp.rzone.de ([81.169.146.176]) by mx-ha.web.de
+ (mxweb109) with ESMTPS (Nemesis) id 0Lm9Ub-1aApLK1zRB-00Zd3X for
+ <ingo.skupin@web.de>; Sat, 26 Mar 2016 19:39:03 +0100
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; t=1459017543; l=1480;
+	s=domk; d=musikverein-notzingen.de;
+	h=Content-Type:MIME-Version:Subject:To:Reply-To:From:Date;
+	bh=r5nyYbDpKwGWVO9o3nqEb9yEjUsDEIl5MnV4//qu2k4=;
+	b=ofv0cXScTjLwzP301brSNF1mrAJcnoSF2CMk13FwxuUpcswyQYgG+VrnL2IjvSbXHNa
+	DTuk+bGOGIR7k7wYjrmmkvPdeAL1IL5p8ThSUWnTXtw65mpp2A1v5mLk8K7341eD5gQTY
+	0l1gtNhIOwBq27A0UzzE2/g+5NWUPbQ1u68=
+X-RZG-CLASS-ID: mo04
+X-RZG-AUTH: :JWICemClbuyO56osRnRUFLbRpRCxaQGqBEGe5oFuFOTsHwwyK1cEoZT6a/WEQZD5UbOv8+AxbUc=
+Received: from omgreatgod.store (com4.strato.de [81.169.145.237])
+	by smtp-ox.front (RZmta 37.22 AUTH)
+	with ESMTPSA id Y06666s2QIcbbgq
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-SHA (curve X9_62_prime256v1 with 256 ECDH bits, eq. 3072 bits RSA))
+	(Client did not present a certificate);
+	Sat, 26 Mar 2016 19:38:37 +0100 (CET)
+Date: Sat, 26 Mar 2016 19:38:37 +0100 (CET)
+From: Musikverein Notzingen <info@musikverein-notzingen.de>
+Reply-To: Musikverein Notzingen <info@musikverein-notzingen.de>
+To: Verteiler_JBO <Verteiler_JBO@musikverein-notzingen.de>, 
+	"Andorf, Jasmina" <jadorf@gmx.de>, 
+	"Ansorge, Anna" <anna.ansorge@t-online.de>, 
+	"Berber, Isil" <f.berber@gmx.de>, 
+	"Besenfelder, Heike" <heikebesenfelder@gmx.de>, 
+	"Bombis, Marvin" <MarvinBombis@web.de>, 
+	"Braun, Britta" <brittabraun@ymail.com>, 
+	=?UTF-8?Q?=22Class=2C_G=C3=BCnther=22?= <guenther_class@gmx.de>, 
+	"Deuschle, Benjamin" <benjamin.deuschle@gmx.de>, 
+	"Diehl, Niklas" <wir@lars-diehl.de>, 
+	"Ensminger, Lisa" <lisaensminger@gmx.de>, 
+	"Gardian, Sara" <tanja.gardian@gmx.de>, 
+	"Gross, Elena" <ele.gross@gmx.de>, 
+	"Gross, Lotta" <dagmar.koeber@gmx.de>, 
+	"Grundmann, Lena" <lena.grundmann@t-online.de>, 
+	"Hagmayer, Marlene" <silke.hagmayer@hagmayer.de>, 
+	"Hauser, Melanie" <melanie.hauser@gmx.net>, 
+	"Hilbig, Sebastian" <sebastian@diekleinemaus.de>, 
+	"Hornig, Mathis" <familie_hornig@t-online.de>, 
+	"Huber, Shari" <sharilouisa@gmx.de>, 
+	"Jagiella, Max" <susanne@schullerer.de>, 
+	"Jost, Maria" <umaajost@t-online.de>, 
+	"Jost, Ulrike" <ulrikejost97@gmx.de>, 
+	"Keck, Sarah" <sarahmagdalena_keck@web.de>, 
+	"Keck, Simon" <simon.keck92@googlemail.com>, 
+	"Kiltz, Emmi-Lyn" <ursel.rudolf@kiltz-bauunternehmung.de>, 
+	"Kiltz, Helena" <helenakiltz@web.de>, 
+	"Kirchmann, Kay" <kay.kirchmann@gmx.de>, 
+	"Klon, Alexander" <babylonis.alex@googlemail.com>, 
+	"Kurz, Leni" <be.ku.no@freenet.de>, 
+	"Landhaeusser, Klara" <t.landhaeusser@gmx.de>, 
+	"Lauster, Tobias" <tobias.lauster@gmx.de>, 
+	"Loser, Maja" <elke.loser@gmx.de>, 
+	"Machanek, Caroline" <cmachanek@web.de>, 
+	"Machanek, Natalie" <nmachanek@web.de>, 
+	"Martini, Julius" <martini.andrea@arcor.de>, 
+	"Mayer, Philipp" <mayer-fertigungstechnik@t-online.de>, 
+	"Ouerghi, Stella" <nette.o@web.de>, 
+	"Pfeifer, Jonas" <pfeifer.jonas@gmail.com>, 
+	"Pleger, Andreas" <A.Pleger@foni.net>, 
+	"Pleger, Dominik" <D-Pleger@web.de>, 
+	"Pleger, Theresa" <teresa.pleger@web.de>, 
+	"Prell, Paula" <prell-notzingen@web.de>, 
+	"Ringhoffer, Jens" <jens.ringhoffer@gmx.de>, 
+	"Ringhoffer, Sarah" <sarah.ringhoffer@gmx.de>, 
+	"Ringhoffer, Stefan" <stefan.ringhoffer@hotmail.de>, 
+	"Ringhoffer, Thomas" <thomas.ringhoffer@gmx.de>, 
+	"Ringhoffer, Vera" <vera.ringhoffer@web.de>, 
+	"Schaich, Oliver" <Oliiiiver@hotmail.de>, 
+	"Scherbaum, Maximilian" <familie.scherbaum@web.de>, 
+	"Schur, Lennart Reik" <karin.schur@googlemail.com>, 
+	"Schweizer, Tamara" <tamara-schweizer@gmx.de>, 
+	"Siegler, Jasmin" <siegler@kabelbw.de>, 
+	"Skupin, Ingo" <ingo.skupin@web.de>, 
+	"Skupin, Leona" <leona.skupin@web.de>, 
+	"Spanninger, Lea Marie" <simone@spanninger.de>, 
+	"Steinbrenner, Celina" <tdsteinbrenner@gmx.de>, 
+	"Stern, Tom" <family.stern@online.de>, 
+	"Vollmer, Patrick" <paddie-vollmer@web.de>, 
+	"Weiler, Andreas" <GWeiler@t-online.de>, 
+	"Weiler, Klaus" <klausweiler321@gmail.com>, 
+	"Wild, Lara-Sophie" <diewilden@kabelbw.de>, 
+	"Windisch, Ajana" <swindisch@kabelbw.de>, 
+	"Wollny, Julia" <wollny.julia@me.com>, 
+	"Zweifel, Alexander" <a.zweifel95@gmail.com>
+Message-ID: <1694232663.915594.1459017517328.JavaMail.open-xchange@omgreatgod.store>
+Subject: =?UTF-8?Q?JBO_Probe_n=C3=A4chsten_Dienstag?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_915593_1269928484.1459017517172"
+X-Priority: 3
+Importance: Medium
+X-Mailer: Open-Xchange Mailer v7.6.2-Rev50
+X-Originating-Client: open-xchange-appsuite
+X-UI-Out-Filterresults: notjunk:1;V01:K0:Y6ygmjL5kOU=:FeSLBz5YQSAigowPe2qUax
+ HcIXlez2TOvzA2ICYKh7ESBjBbQZs3Zv2htO1/MgbWNLZ2GTPPTGvxoLanBVFLzWguSOCKYwY
+ WXuceiyZ4ZOgQN2KR0VibYx4U8uirIUyerUQUeQXB5ySFWin7nNOC8qVy9eiNhHLiyII9qkOI
+ uZJVYkn0GVnigyCVS3yCwrUNMqUVmml+0afDJ4W7ETXA2NU1FjVN9GW08juaPI+QdCs9ERqoA
+ +2bUiFUVvhbUUos6SPe1s0DF2x2XFx8xpYghAWiWOtISyTsBTDb8o1QpwAlf/Oq0tqmHtGXs/
+ NwY7A4JGo+I2irEewgWK+Iq+e2A2Wg1UY+j4IqNyz2IKcdvzN6AGtu7fAdyCvFxeQzir7/6Rp
+ Eei5Qn6faH+kvCjVd9FNz1aYpn6xpnO405+ym9G2mIA2H1PfDpXLlvWZzLcTTTj5iPblZloNI
+ rrgbfnjDtx2QEyxBbgRDT7I36fVzbR8gtM6C8K1EbSuFxq08oJcixAH1P3+yI3qlHsKPHIvBd
+ Q7FQoEB+BfUylxZLNsun+hHDzeoNcMR32Mv9VYmBr0KJ+E3Id8SgfrWcrcv6z7CukBeWLH2UC
+ aQouZ2eEUnBDZoDfdmeCSYorUeFA8mKSaktm1VqFJJRSSy9b4K6UgItofhQ3et9XD51vbaxLB
+ M9uc0U65goCEh6PM4EXhUccrkIqMnBZG3GPDmYm4UE+lgu5STX54ZIelju7HFLZ1bzceqtQx8
+ 9j89sQzqyEZaGWAUu89FPPBj6rv06v1Cly2fOFmkLjaYW4izRs4Vt1tIWclY6nv2qPPczVMPL
+ w8sfxrT9XuJoQhiSwFuDJwiYTn61dC+eTP19FbGuI9j7ZT69mHONx1E86tJqmND6mGSmZeIoU
+ nQZGgQPxYpHusUQzGJ45rbXFAKsF7I4v0Cw3haPh2h/rJQ2+171IiZyKJEsQTT2qtMbjydGNM
+ dwVeVUq+irT6XrczF4ZwpiHWyD7FctBrgSrk9AMFmhyFkNEXjhWv+
+
+------=_Part_915593_1269928484.1459017517172
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo JBOler,
+
+
+n=C3=A4chsten Dienstag (1 Tag nach Oster-Montag) findet die JBO-Probe statt=
+.
+
+Zur Vorbereitung aufs D=C3=A4tscherfest haben wir noch viel zu tun.
+
+Und da doch relativ viele trotz Oster-Ferien da sind, bitte ich darum diese=
+n
+Probentermin wahrzunehmen.
+
+Bitte kommt alle.
+
+Ich w=C3=BCnsch euch sch=C3=B6ne Ostern.
+
+
+Bis Dienstag
+
+Herzlichen Gru=C3=9F
+
+Thomas
+------=_Part_915593_1269928484.1459017517172
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ </head><body><p>Hallo JBOler,<br></p><p><br></p><p>n&#228;chsten Dienstag (1 Tag nach Oster-Montag) findet die JBO-Probe statt.<br></p><p>Zur Vorbereitung aufs D&#228;tscherfest haben wir noch viel zu tun.<br></p><p>Und da doch relativ viele trotz Oster-Ferien da sind, bitte ich darum diesen Probentermin wahrzunehmen.<br></p><p>Bitte kommt alle.<br></p><p>Ich w&#252;nsch euch sch&#246;ne Ostern.<br></p><p><br></p><p>Bis Dienstag<br></p><p>Herzlichen Gru&#223;<br></p><p>Thomas<br></p></body></html>
+------=_Part_915593_1269928484.1459017517172--

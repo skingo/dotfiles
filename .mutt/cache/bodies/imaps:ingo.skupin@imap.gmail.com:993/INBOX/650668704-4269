@@ -1,0 +1,173 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp189540vcb;
+        Thu, 15 Nov 2012 18:23:40 -0800 (PST)
+Received: by 10.14.214.133 with SMTP id c5mr9295002eep.8.1353032618973;
+        Thu, 15 Nov 2012 18:23:38 -0800 (PST)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTP id z5si456602eeo.76.2012.11.15.18.23.36;
+        Thu, 15 Nov 2012 18:23:38 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-we0-f181.google.com ([74.125.82.181]) by mx-ha.web.de
+ (mxweb101) with ESMTP (Nemesis) id 0Ln9Q9-1T56VJ0pzB-00hGMK for
+ <ingo.skupin@gmail.com>; Fri, 16 Nov 2012 03:23:36 +0100
+Received: by mail-we0-f181.google.com with SMTP id t11so94340wey.40
+        for <multiple recipients>; Thu, 15 Nov 2012 18:23:35 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=sender:user-agent:in-reply-to:references:mime-version:content-type
+         :subject:from:date:to:message-id;
+        bh=DANzcoWJqxUNC6OoVMfOGmVweahk+6T+XFRSpVMdJbY=;
+        b=G9ZEWhPKgrWT67TPKC7WGc/KjOTZFb/FnvKeKvfUFEQphdbK9emCKHueaGgHCb6B7m
+         T0B+W9lfM00wenVKzm6i9737x8ySpyKBlnf8oqwQTuSyZ3N4/IdFVyGGH1hGKmPUHcgQ
+         4oFyiiU8KwfOEuMS7e0SOtAW/7ryi/YvSllnkXg/4cMGQiVlDAuYLO/t19+rIkOWzyB6
+         tsTcLuVYHgSxBjWcxJNQj3+H7iWABXWfHrLynPMkCblqlAxLB3lU6LtkeJQ7AnTRjsRp
+         yPFdGwG+AyYQpR0OTWUzkFpMFgrC0Y6HjVGz0/aDKD7e59J+fpq2OxorzzoCyyPzOlnu
+         AYrQ==
+Received: by 10.216.201.80 with SMTP id a58mr1403031weo.15.1353032615573;
+        Thu, 15 Nov 2012 18:23:35 -0800 (PST)
+Return-Path: <fmsebert@gmail.com>
+Received: from [10.34.202.7] ([89.204.130.7])
+        by mx.google.com with ESMTPS id az2sm30198120wib.7.2012.11.15.18.23.31
+        (version=SSLv3 cipher=OTHER);
+        Thu, 15 Nov 2012 18:23:34 -0800 (PST)
+Sender: Florian Sebert <fmsebert@gmail.com>
+User-Agent: K-9 Mail for Android
+In-Reply-To: <28588F1A-0E74-4E60-B758-E22DC8CE8DAE@pfister-heidelberg.de>
+References: <CAN1A5uBBYosBw1oskAn1uiaTPGZEH+DpcPCMZZ9LVmV+Bj3tVQ@mail.gmail.com> <28588F1A-0E74-4E60-B758-E22DC8CE8DAE@pfister-heidelberg.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----3GESYBKCU542GX1279B427SMOXFEG1"
+Subject: =?UTF-8?Q?Re=3A_T=C3=BCbinger_Saxophon_Ensemble_-_Besetzung?=
+From: Florian Sebert <florian@floriansebert.de>
+Date: Fri, 16 Nov 2012 03:23:22 +0100
+To: Martina Pfister <martina@pfister-heidelberg.de>,Sabine Pfister <pfistersabine@googlemail.com>,Stefan Pfister <s.pfister@dkfz-heidelberg.de>,jandan@gmx.de,Steffen Sautter <steffen.sautter@web.de>,Yannick Frey <yannick.frey1994@web.de>,Tizian Decker <tizian_decker@web.de>,Anna-Nora zur Nieden <norazurnieden@googlemail.com>,Ingo Skupin <ingo.skupin@web.de>,christian.hofstaetter@onlinehome.de,Rainer Pfister <rainer.pfister@me.com>,"Dr. Stefan Wiehr" <stefan@wiehr.de>,Christine Erchinger <christine-erchinger@web.de>,Lukas Fischer <lukasfischer1@aol.com>,Hartmut Nagel <hartmut_nagel@web.de>,Christoph Neumann <mail.christoph.neumann@googlemail.com>,"Harry D. Bath" <harryd.bath@t-online.de>,"kinderaerztin_susanne@t-online.de Pfister" <kinderaerztin_susanne@t-online.de>,Gerhard Nagel <grnagel@web.de>
+Message-ID: <59518319-835b-4e03-83cf-de6fd8589e59@email.android.com>
+
+------3GESYBKCU542GX1279B427SMOXFEG1
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+ich würde behaupten, das liegt daran, DASS NICHT ALLE IHRE STIMMEN EINGETRAGEN HABEN, was wiederum die Liste wertlos macht.
+
+Sehr schade...
+
+Gruß
+Florian
+
+
+
+Martina Pfister <martina@pfister-heidelberg.de> schrieb:
+
+>Hallo Ihr Lieben,
+> jetzt haben wir zwar viele, viele Informationen, was die Besetzungen  
+>anbetrifft (war eine super Idee Florinchen, vielen Dank!)
+>Leider fehlt mir aber die ursprüngliche und wichtigste Information:
+>
+>Welcher Altspieler spielt welche Stimme beim Nußknacker!!
+>Meiner Erinnerung nach sind es 3 Altstimmen.
+>Der Liste entnehme ich, dass
+>Tizian: 1. Alt
+>Florian: 2. Alt und
+>Lukas: 3. Alt
+>gespielt haben, wie sieht es mit Yannick und Steffen aus?
+>
+>Bitte schnell zurückmelden, weil wir sonst ggf. umbesetzen müssen, und 
+>
+>dass bedeutet
+>ja auch für Euch üben ;-)
+>
+>Liebe Grüße
+>Tine
+>
+>
+>Am 03.11.2012 um 13:13 schrieb Florian Sebert:
+>
+>> Hallo zusammen,
+>>
+>> aus gegebenem Anlass möchte ich alle Mitglieder des Ensembles
+>> freundlich bitten und zugleich nachdrücklich dazu aufrufen die unter
+>> dem unten angegebenen Link abgelegte Besetzungsliste um die jeweils
+>> eigenen Stimmen zu komplettieren.
+>>
+>> Die Struktur ist (zugunsten der Benutzerfreundlichkeit) denkbar
+>> einfach (flache Struktur) gewählt:
+>>
+>> - Datum: Datum, an dem das angegebene Stück in der angegebenen
+>> Bestzung zuletzt gespielt wurde (z.B. das letzte Konzert)
+>> - Komponist: Name des Komponisten (wenn schon Einträge für einen
+>> Komponisten existieren bitte die selbe Schreibweise verwenden oder
+>> alle Einträge korrigieren)
+>> - Stück: Titel des Stückes (wenn schon Einträge für ein Stück
+>> existieren bitte die selbe Schreibweise verwenden oder alle Einträge
+>> korrigieren)
+>> - Spieler: Vor- und Zunahme des Spielers
+>> - Instrument: Sopran / Alt / Tenor / Bariton / Bass
+>> - Stimme: 1 / 2 / 3 / 4 etc.
+>>
+>> Die Liste dient zum einen der Übersicht über die aktuelle
+>> Stimmverteilung des derzeitigen Repertoires, zum anderen aber auch
+>der
+>> effizienteren Stimmenvergabe wenn Stücke gespielt werden sollen, die
+>> in der Vergangenheit schon einstudiert wurden.
+>>
+>> Wenn sich also jemand erinnert, bei einem bestimmten Stück vormals
+>> eine andere als die aktuell zugeteilte Stimme gespielt zu haben, wäre
+>> es wünschenswert, auch dafür einen eigenen Eintrag vorzunehmen.
+>> Gleiches gilt für Stücke, die zur Zeit nicht im Programm sind. In
+>> diesen beiden Fällen als fiktives Datum dann bitte den 01.01.2012
+>> wählen.
+>>
+>> Noch Fragen? Nein? Gut! Falls doch, gerne per Mail.
+>>
+>> Und hier ist der Link:
+>>
+>>
+>https://docs.google.com/spreadsheet/ccc?key=0Au6HpNesXPSSdGc4UmJXYk1YeWZPR1d3Vk83MzFRMEE
+>>
+>> Sollte ich jemanden vergessen haben, bitte weiterleiten.
+>>
+>> Vielen Dank und viele Grüße,
+>> Florian
+>
+>Musikschule
+>Tübinger Saxophon-Ensemble
+>_________________________________
+>
+>Martina Pfister
+>Amselgasse 4/3
+>69121 Heidelberg
+>
+>Tel  (06 22 1) 58 69 69
+>Fax (06 22 1) 58 69 70
+>info@saxophon-ensemble.de
+>www.saxophon-ensemble.de
+
+--
+Sent via K-9 for Android on Galaxy S2.
+------3GESYBKCU542GX1279B427SMOXFEG1
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html><head/><body><html><head></head><body style="word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space; ">Hallo zusammen,<br>
+<br>
+ich würde behaupten, das liegt daran, DASS NICHT ALLE IHRE STIMMEN EINGETRAGEN HABEN, was wiederum die Liste wertlos macht.<br>
+<br>
+Sehr schade...<br>
+<br>
+Gruß<br>
+Florian<br><br><div class="gmail_quote"><br>
+<br>
+Martina Pfister &lt;martina@pfister-heidelberg.de&gt; schrieb:<blockquote class="gmail_quote" style="margin: 0pt 0pt 0pt 0.8ex; border-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">
+Hallo Ihr Lieben,<div>&nbsp;jetzt haben wir zwar viele, viele Informationen, was die Besetzungen anbetrifft (war eine super Idee Florinchen, vielen Dank!)</div><div>Leider fehlt mir aber die ursprüngliche und wichtigste Information:</div><div><font class="Apple-style-span" color="#ff0000"><br /></font></div><div><font class="Apple-style-span" color="#ff0000">Welcher Altspieler spielt welche Stimme beim Nußknacker!!</font></div><div>Meiner Erinnerung nach sind es 3 Altstimmen.</div><div>Der Liste entnehme ich, dass</div><div>Tizian: 1. Alt</div><div>Florian: 2. Alt und</div><div>Lukas: 3. Alt</div><div>gespielt haben, wie sieht es mit Yannick und Steffen aus?</div><div><br /></div><div>Bitte schnell zurückmelden, weil wir sonst ggf. umbesetzen müssen, und dass bedeutet</div><div>ja auch für Euch üben ;-)</div><div><br /></div><div>Liebe Grüße</div><div>Tine</div><div><br /></div><div><br /><div><div>Am 03.11.2012 um 13:13 schrieb Florian Sebert:</div><br
+class="Apple-interchange-newline" /><blockquote type="cite"><div>Hallo zusammen,<br /><br />aus gegebenem Anlass möchte ich alle Mitglieder des Ensembles<br />freundlich bitten und zugleich nachdrücklich dazu aufrufen die unter<br />dem unten angegebenen Link abgelegte Besetzungsliste um die jeweils<br />eigenen Stimmen zu komplettieren.<br /><br />Die Struktur ist (zugunsten der Benutzerfreundlichkeit) denkbar<br />einfach (flache Struktur) gewählt:<br /><br />- Datum: Datum, an dem das angegebene Stück in der angegebenen<br />Bestzung zuletzt gespielt wurde (z.B. das letzte Konzert)<br />- Komponist: Name des Komponisten (wenn schon Einträge für einen<br />Komponisten existieren bitte die selbe Schreibweise verwenden oder<br />alle Einträge korrigieren)<br />- Stück: Titel des Stückes (wenn schon Einträge für ein Stück<br />existieren bitte die selbe Schreibweise verwenden oder alle Einträge<br />korrigieren)<br />- Spieler: Vor- und Zunahme des Spielers<br />-
+Instrument: Sopran / Alt / Tenor / Bariton / Bass<br />- Stimme: 1 / 2 / 3 / 4 etc.<br /><br />Die Liste dient zum einen der Übersicht über die aktuelle<br />Stimmverteilung des derzeitigen Repertoires, zum anderen aber auch der<br />effizienteren Stimmenvergabe wenn Stücke gespielt werden sollen, die<br />in der Vergangenheit schon einstudiert wurden.<br /><br />Wenn sich also jemand erinnert, bei einem bestimmten Stück vormals<br />eine andere als die aktuell zugeteilte Stimme gespielt zu haben, wäre<br />es wünschenswert, auch dafür einen eigenen Eintrag vorzunehmen.<br />Gleiches gilt für Stücke, die zur Zeit nicht im Programm sind. In<br />diesen beiden Fällen als fiktives Datum dann bitte den 01.01.2012<br />wählen.<br /><br />Noch Fragen? Nein? Gut! Falls doch, gerne per Mail.<br /><br />Und hier ist der Link:<br /><br /><a
+href="https://docs.google.com/spreadsheet/ccc?key=0Au6HpNesXPSSdGc4UmJXYk1YeWZPR1d3Vk83MzFRMEE">https://docs.google.com/spreadsheet/ccc?key=0Au6HpNesXPSSdGc4UmJXYk1YeWZPR1d3Vk83MzFRMEE</a><br /><br />Sollte ich jemanden vergessen haben, bitte weiterleiten.<br /><br />Vielen Dank und viele Grüße,<br />Florian<br /></div></blockquote></div><br /><div apple-content-edited="true"><div><div><div><div><div><div><div>Musikschule</div><div>Tübinger Saxophon-Ensemble</div><div>_________________________________</div><div><br /></div><div>Martina Pfister</div><div>Amselgasse 4/3</div><div>69121 Heidelberg</div><div><br /></div><div>Tel &nbsp;(06 22 1) 58 69 69</div><div>Fax (06 22 1) 58 69 70</div><div><a href="mailto:info@saxophon-ensemble.de">info@saxophon-ensemble.de</a></div><div><a href="http://www.saxophon-ensemble.de">www.saxophon-ensemble.de</a></div><div><br /></div></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div><br /></div></blockquote></div><br>
+--<br>
+Sent via K-9 for Android on Galaxy S2.</body></html></body></html>
+------3GESYBKCU542GX1279B427SMOXFEG1--
+

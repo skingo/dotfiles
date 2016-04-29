@@ -1,0 +1,47 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp470293vcb;
+        Sat, 17 Nov 2012 06:14:08 -0800 (PST)
+Received: by 10.216.56.82 with SMTP id l60mr2772451wec.18.1353161647645;
+        Sat, 17 Nov 2012 06:14:07 -0800 (PST)
+Return-Path: <noreply@ubuntu.com>
+Received: from adelie.canonical.com (adelie.canonical.com. [91.189.90.139])
+        by mx.google.com with ESMTP id t30si2625301wei.2.2012.11.17.06.14.07;
+        Sat, 17 Nov 2012 06:14:07 -0800 (PST)
+Received-SPF: neutral (google.com: 91.189.90.139 is neither permitted nor denied by best guess record for domain of noreply@ubuntu.com) client-ip=91.189.90.139;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 91.189.90.139 is neither permitted nor denied by best guess record for domain of noreply@ubuntu.com) smtp.mail=noreply@ubuntu.com
+Received: from canistel.canonical.com ([91.189.89.39])
+	by adelie.canonical.com with esmtp (Exim 4.71 #1 (Debian))
+	id 1TZj9q-00078a-Kh
+	for <ingo.skupin@gmail.com>; Sat, 17 Nov 2012 14:14:07 +0000
+Received: from canistel.canonical.com (localhost [127.0.0.1])
+	by canistel.canonical.com (Postfix) with ESMTP id 8C4361E2050
+	for <ingo.skupin@gmail.com>; Sat, 17 Nov 2012 14:14:06 +0000 (UTC)
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Subject: Ubuntu Single Sign On: Finish your registration
+From: Ubuntu Single Sign On <noreply@ubuntu.com>
+To: ingo.skupin@gmail.com
+Date: Sat, 17 Nov 2012 14:14:06 -0000
+Message-ID: <20121117141406.14406.76627@canistel.canonical.com>
+
+
+Hello
+
+As a final step of the Ubuntu Single Sign On (SSO) account creation process=
+, please validate the email address ingo.skupin@gmail.com. Ubuntu SSO enabl=
+es convenient access to a variety of Ubuntu-related services like Ubuntu On=
+e with the same username and password.
+
+Copy and paste the confirmation code below into the desktop application.
+
+2Xr7pV
+
+If you don't know what this is about, then someone has probably entered you=
+r email address by mistake. Sorry about that. You don't need to do anything=
+ further. Just delete this message.
+
+Thank you,
+
+The Ubuntu Single Sign On team
+https://login.ubuntu.com/

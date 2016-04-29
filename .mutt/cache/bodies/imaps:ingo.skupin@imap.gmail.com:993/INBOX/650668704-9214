@@ -1,0 +1,88 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.26.4 with SMTP id a4csp1146iva;
+        Fri, 11 Dec 2015 04:15:25 -0800 (PST)
+X-Received: by 10.194.185.173 with SMTP id fd13mr18971178wjc.54.1449836125569;
+        Fri, 11 Dec 2015 04:15:25 -0800 (PST)
+Return-Path: <Tizian_Decker@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id it3si25210001wjb.195.2015.12.11.04.15.25
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 11 Dec 2015 04:15:25 -0800 (PST)
+Received-SPF: pass (google.com: domain of Tizian_Decker@web.de designates 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Tizian_Decker@web.de designates 212.227.15.4 as permitted sender) smtp.mailfrom=Tizian_Decker@web.de
+Received: from [212.227.15.17] ([212.227.15.17]) by mx-ha.web.de (mxweb003)
+ with ESMTPS (Nemesis) id 0MLvbA-1aAdJw48wG-007imu for
+ <ingo.skupin@gmail.com>; Fri, 11 Dec 2015 13:15:24 +0100
+Received: from mout.kundenserver.de ([217.72.192.74]) by mx-ha.web.de
+ (mxweb003) with ESMTPS (Nemesis) id 0LllMO-1agQNI48pc-00ZLR6 for
+ <ingo.skupin@web.de>; Fri, 11 Dec 2015 13:15:24 +0100
+Received: from [217.72.192.67] ([217.72.192.67]) by mx.kundenserver.de
+ (mxeue106) with ESMTPS (Nemesis) id 0MCMwD-1Zyo292hEX-009AE5 for
+ <ingo.skupin@web.de>; Fri, 11 Dec 2015 13:15:24 +0100
+Received: from [217.72.192.67] ([217.72.192.67]) by mx.kundenserver.de
+ (mxeue106) with ESMTPS (Nemesis) id 0MK6AH-1a8jeL2UNB-001UjN; Fri, 11 Dec
+ 2015 13:15:24 +0100
+Received: from mout.web.de ([212.227.15.4]) by mx.kundenserver.de (mxeue106)
+ with ESMTPS (Nemesis) id 0LsM36-1aDqsO25KC-011xpo for
+ <ensemble@saxophon-ensemble.de>; Fri, 11 Dec 2015 13:15:24 +0100
+Received: from [109.42.2.204] by msvc-mesg-web004.server.lan (via HTTP);
+ Fri, 11 Dec 2015 13:15:12 +0100
+MIME-Version: 1.0
+Message-ID: <trinity-6d862514-fef5-4e36-8284-2b56ab1c8f59-1449836112793@msvc-mesg-web004>
+From: Tizian_Decker@web.de
+To: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>,
+ "ensemble@saxophon-ensemble.de" <ensemble@saxophon-ensemble.de>
+Subject: Re: gluehmost@saxophon-ensemble.de
+Content-Type: text/plain; charset=UTF-8
+Importance: normal
+Date: Fri, 11 Dec 2015 13:15:12 +0100
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+X-Provags-ID: V03:K0:yDJ6JSh0dfXO5w/lkOSFi6YCmJTVIbh2XpagMEO/78E
+ Qt4CTwVDy1l4IsOgoUUuCmWgSpa1DNrEajwab84o2szxVT82rF
+ apKx1zRH0qsnn1CbYVO0HIW/GJ4JFA2U5tK5X2WvTsv2AFUx2O
+ cuf3dd9EWcCXoQkMx0H7/1qr6yxHEps/FaiHRqCsV4Om7q5vn5
+ 3sAo+53u3tYVjACmuilFtGDJprto5Ze1HxZgaPVlFtbBwzlEgJ
+ 7dsXrACMJHIT14i0GIeDEulGNljIBUmPrt+8fk4EBw0ZP2CybM hDaSCg=
+X-UI-Out-Filterresults: notjunk:1;V01:K0:xGFBksX7pJg=:bfUdHKhuV2nEqP3C+6f6R3
+ 8FARBOBCSGo37pWxJl5NYZ2dKj6e23hBK29jGcxGTEPkD+22TisiRbSw8B7wUy3D27PNn4Okp
+ tGJUnyr//LhrvegQZPrYPy2GpsGLzVTZjxzpYpJ3NKFrKL1rzk4udKzCovBnAGXR18jWR4+5g
+ OiSX9C9nEpEWtxmYSebaC860iQG7FcfAvWBynrfRDdKPKTOUT/He4qaYuA7X1d9OxwhbWDAP7
+ KVAPiRZI8ig+aG6FzdJgSHr+ELHGL46C8WAGQtGQv4RFSbnbcHZvFVwbDSHoziMguM78Mwmgj
+ 8o7p+lqPnRz9LlnJUmnavnOEpVnl5xvkKU88BH/s9aiojy1lMFUC4y6WYo+TUrxK2ap3Tt7hw
+ w/5rGlHVfRCd+yZ7D3ClneBXwh0skYtGtoqvf5bVj4VAymgouPkatt7rgLvBDPeEdjUdQGFQj
+ y1u3y/eCQeBoEwxSwGbWeCyPgO8XSyHOKFZnFQ4eNddQ2eKLWHmYag2oiwswNnwWBVGte6cUl
+ 0tdjxP8bcMiznLXyl/bgLj9zvrhuGE2I3jmlRRg5XbdMgaLEWo1BlsEmPzi6Ka+DHhhNi7CxV
+ ZSKht7PoODHidSvHtxrmU9SMyuFM4zQ8OQFpF9qIaxfL6DME6iNMSa8vzfhsx4hMX/mv00SPH
+ E2AK0GXS87eSE198EAUBb770fC6ylmdbQM6hmv7JvdSyMQG5UrVpc5tV2JCSlAMigMsMIbL29
+ zFWjr94GIfCpffJmyzTZ5YSEp9Vomz50IIC2sQ/XcDxG9aPh7RV6zRkGX5L2qLgM3pVO7dITB
+ G5aZkpHuXBz/YTr/T1cG3+uuQWPNUvs4EoDsa6XqRcjiiB56soz5IBhqxOJDUCniqMhjc4ozH
+ cf0G2oLOq3EUc0Ijq+o4e3iWGxie63YeCQ6Dc0wJBr2pvOdas+4oh93yUyUcb+psjyWuHCoXq
+ 0Pzb/L6Tp7Q==
+
+Komisch, bei mir kam noch nichts an, hat sich schon jemand mit der IT-Abtei=
+lung in Verbindung gesetzt?
+
+-----Urspr=C3=BCngliche Nachricht-----
+Gesendet: Freitag, 11 Dezember 2015 um 13:02:41 Uhr
+Von: "Pfister, Stefan" <S=2EPfister@dkfz-heidelberg=2Ede>
+An: "ensemble@saxophon-ensemble=2Ede" <ensemble@saxophon-ensemble=2Ede>
+Betreff: gluehmost@saxophon-ensemble=2Ede
+Hallo zusammen,
+
+Funktioniert eigentlich bei Euch inzwischen die o=2Eg=2E Email-Adresse? Ic=
+h bekomme immer eine out of office reply von Lukas=2E=2E=2E
+
+Bis sp=C3=A4ter,
+
+Stefan
+
+Prof=2E Dr=2E Stefan M=2E Pfister
+Division of Pediatric Neurooncology
+German Cancer Research Center (DKFZ)
+Department of Pediatric Hematology and Oncology Heidelberg University Hosp=
+ital
+www=2Epediatric-neurooncology=2Ecom<http://www=2Epediatric-neurooncology=
+=2Ecom>

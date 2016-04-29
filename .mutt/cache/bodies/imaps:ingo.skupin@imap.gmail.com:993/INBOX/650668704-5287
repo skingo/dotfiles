@@ -1,0 +1,120 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.9.197 with SMTP id c5csp84043lbb;
+        Wed, 24 Apr 2013 14:26:58 -0700 (PDT)
+X-Received: by 10.205.117.67 with SMTP id fl3mr8023030bkc.13.1366838818446;
+        Wed, 24 Apr 2013 14:26:58 -0700 (PDT)
+Return-Path: <root@eis.de>
+Received: from srv01.eis.de (srv01.eis.de. [80.87.114.13])
+        by mx.google.com with ESMTP id cy7si1225320bkc.199.2013.04.24.14.26.58
+        for <ingo.skupin@gmail.com>;
+        Wed, 24 Apr 2013 14:26:58 -0700 (PDT)
+Received-SPF: pass (google.com: domain of root@eis.de designates 80.87.114.13 as permitted sender) client-ip=80.87.114.13;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of root@eis.de designates 80.87.114.13 as permitted sender) smtp.mail=root@eis.de;
+       dkim=pass header.i=@eis.de
+Received: by srv01.eis.de (Postfix, from userid 0)
+	id EC15D173328; Wed, 24 Apr 2013 23:26:57 +0200 (CEST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 srv01.eis.de EC15D173328
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=eis.de; s=default;
+	t=1366838817; bh=Z8+4Xxd8+Ln0lZNbJ1+uOJ4Hsjbw82fjstpcUjGYHrQ=;
+	h=To:Subject:From:MIME-Version:Content-Type:Message-Id:Date;
+	b=bAkufGrL+4chfSgAlT34iir6Zd6VOXa03um+cF4pdUXMZXllE7RPtzMI+Kd7IJDU/
+	 6bK3/Dfz1dHRWUIaCF05sCjLiL1KphmXkjyQn4NKfYEsxWsGjZLqTKaLyJNGl7Zzqk
+	 Qd2Mrq+KI6dzTINntXhTvj9gFnMyDxenEZkzmQyA=
+To: ingo.skupin@gmail.com
+Subject: Ihre EIS Bestellung wurde versandt! Auftragsnummer: 16837991
+From: versandbestaetigung@eis.de
+MIME-Version: 1.0
+Content-Type: text/plain;charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+Message-Id: <20130424212657.EC15D173328@srv01.eis.de>
+Date: Wed, 24 Apr 2013 23:26:57 +0200 (CEST)
+
+
+Sehr geehrter Kunde,
+
+unser Vertriebszentrum hat soeben Artikel aus dem Auftrag 16837991 vom 2013-04-22 21:03:34 verschickt! Die Sendung geht an:
+
+Ingo Skupin
+Fichtenweg 24 / 204
+72076 Tübingen
+Deutschland
+
+
+
+Ihre Kundennummer:     e204868380
+
+Versandart:            Hermes Logistik, voll versichertes Paket!
+Einlieferungsnummer:   91114142790575
+
+Bei Rückfragen zu Ihrer Sendung nutzen Sie bitte das Versandrecherchemodul der Hermes Logistik Gruppe.
+Sofort nach der Auftragserteilung haben Sie die Möglichkeit, den Status der Sendung online zu verfolgen.
+
+https://sisyr.hlg.de/wps/portal/SISY/TRACKING?TrackID=91114142790575&PLZ=72076
+
+Die Hermes Logistik Gruppe steht Ihnen aber auch unter der Servicerufnummer 01805 / 333325 (0,14 EUR/Min aus dem deutschen Festnetz der Deutschen Telekom. Mobilfunkkosten können davon abweichen und ggf. höher ausfallen) zur Verfügung, um Ihnen weitere Informationen zu Ihrer Sendung zu geben. Hierfür nennen Sie bitte einfach Ihre Einlieferungsnummer 91114142790575
+
+
+Wichtiger Hinweis: Gegebenenfalls ist Ihre Paketnummer erst bis zu zwei Tage nach Versandübergabe im System der Hermes Logistik Gruppe bekannt und somit erst dann der Verlauf nachvollziehbar.
+
+--------------------------------------------------------------
+druckerzubehoer.de bewerten - 5,00 Euro Gutschein
+
+Bei der nächsten Bestellung 5,00 Euro zusätzlich sparen! Einfach nach Erhalt
+Ihrer Waren eine kurze Bewertung auf Shopauskunft.de abgeben:
+
+https://www.shopauskunft.de/ecms.php?page=appraisal_new&pv[haendlerID]=20242&pv[bestellnr]=E0010105381&pv[email]=ingo.skupin%40gmail.com&pv[bestelldatum]=2013-04-22+21%3A03%3A34&pv[username]=EisKunde_13666574
+
+Der Gutschein ist 3 Monate gültig.
+--------------------------------------------------------------
+
+Bei weiteren Fragen nutzen Sie bitte ganz einfach und schnell unseren ausführlichen Fragen & Antworten-Bereich, den Sie über den folgenden Link erreichen können, oder wenden sich an unsere an 20 Stunden am Tag besetzte Mailsupport-Hotline, die alle Anfragen bis 23:30 Uhr noch am gleichen Tag beantwortet. Dieses Versprechen gilt auch für alle Samstage und Sonntage, sowie alle gesetzlichen Feiertage.
+
+http://www.eis.de/shop/faq.phtml
+
+
+Über Ihre Weiterempfehlung unserer einmaligen Preisstruktur würden wir uns sehr freuen; hierfür haben wir für Sie bereits ein Partnerprogramm entwickelt, welches Sie ein Leben lang an den Umsätzen Ihrer Freunde und Bekannten teilhaben lässt. Weiteres dazu finden Sie auf unserer Homepage unter dem Servicepunkt 'Partnerprogramm' oder unter folgendem Link:
+
+http://www.eis.de/shop/partner1.phtml
+
+Mit freundlichen Grüßen
+
+Ihr eis.de-Team
+Liebt Euch günstiger
+
+Lustvoll kaufen - seriös & diskret
+
+--------------------------------------------------------------------------
+Eine wichtige Bitte:
+Löschen Sie bei einer evtl. Rückfrage nicht den Originaltext dieser E-Mail.
+Wir sind so in der Lage, Ihnen noch schneller und effektiver zu antworten.
+--------------------------------------------------------------------------
+
+
+=====================================================
+Kundenservice:
+
+eis.de
+Westend-Tower
+Stapenhorststr. 1
+33615 Bielefeld
+
+Fon: 0800 / 4450000
+Fax: 0800 / 4460000
+
+E-Mail: info@eis.de
+
+
+Verkauf der Ware im Namen von:
+
+eis.de GmbH
+Westend-Tower
+Stapenhorststr. 1
+33615 Bielefeld
+
+Geschäftsführer: Friedrich-Wilhelm Mohrmann
+
+USt.-IdentNr.:   DE246954866
+Handelsregister: HRB Nr. 38482
+Amtsgericht Bielefeld
+

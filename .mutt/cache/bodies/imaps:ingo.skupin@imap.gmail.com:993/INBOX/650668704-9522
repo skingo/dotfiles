@@ -1,0 +1,85 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp536889ivc;
+        Sat, 9 Apr 2016 07:54:12 -0700 (PDT)
+X-Received: by 10.55.80.136 with SMTP id e130mr18212174qkb.28.1460213651977;
+        Sat, 09 Apr 2016 07:54:11 -0700 (PDT)
+Return-Path: <noreply@github.com>
+Received: from github-smtp2b-ext-cp1-prd.iad.github.net (github-smtp2-ext3.iad.github.net. [192.30.252.194])
+        by mx.google.com with ESMTPS id h79si13066626qke.126.2016.04.09.07.54.11
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 09 Apr 2016 07:54:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply@github.com designates 192.30.252.194 as permitted sender) client-ip=192.30.252.194;
+Authentication-Results: mx.google.com;
+       dkim=pass (test mode) header.i=@github.com;
+       spf=pass (google.com: domain of noreply@github.com designates 192.30.252.194 as permitted sender) smtp.mailfrom=noreply@github.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=github.com
+Date: Sat, 09 Apr 2016 07:54:11 -0700
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=github.com;
+	s=pf2014; t=1460213651;
+	bh=43gyVG6+Abu1UkxmtuJf2RbJdaHFzGS5l+6qrDZlkB8=;
+	h=From:Reply-To:To:In-Reply-To:References:Subject:List-ID:
+	 List-Archive:List-Post:List-Unsubscribe:From;
+	b=y1Ie9eF6KlEp2/iGxMMP4UYNki3clwICxW8qjLc0f/m5k6Jwy6gkHkoWLrA/Zb205
+	 nfNIZclzaQc0ih/qU6yRXYV7pdd2sHS/IvrLY46vAoVq7I3U2vGbeVPr/OvpuJ3j4U
+	 AmlLs855dBa8RUnNpvK3nO/M11CU+eAJ08ibWco8=
+From: Noitidart <notifications@github.com>
+Reply-To: sflip/dotfiles <reply+00a24d34cd8eeaa9e02d46e53b103a33a9c5af137ea904f092cf000000011320d99392a169ce08c50ad8@reply.github.com>
+To: sflip/dotfiles <dotfiles@noreply.github.com>
+Message-ID: <sflip/dotfiles/issues/2/207800607@github.com>
+In-Reply-To: <sflip/dotfiles/issues/2@github.com>
+References: <sflip/dotfiles/issues/2@github.com>
+Subject: Re: [sflip/dotfiles] xcb_grab_key js-ctypes (#2)
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_570917939dda1_45b73fd8818dd29c1708a";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Precedence: list
+X-GitHub-Sender: Noitidart
+X-GitHub-Recipient: skingo
+List-ID: sflip/dotfiles <dotfiles.sflip.github.com>
+List-Archive: https://github.com/sflip/dotfiles
+List-Post: <mailto:reply+00a24d34cd8eeaa9e02d46e53b103a33a9c5af137ea904f092cf000000011320d99392a169ce08c50ad8@reply.github.com>
+List-Unsubscribe: <mailto:unsub+00a24d34cd8eeaa9e02d46e53b103a33a9c5af137ea904f092cf000000011320d99392a169ce08c50ad8@reply.github.com>,
+ <https://github.com/notifications/unsubscribe/AKJNNLA-bVNfc37Dfoe2ZqI33xxhdSHcks5p172TgaJpZM4IDnmg>
+X-Auto-Response-Suppress: All
+X-GitHub-Recipient-Address: ingo.skupin@gmail.com
+
+
+----==_mimepart_570917939dda1_45b73fd8818dd29c1708a
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Here is a gist of my work, you can copy and paste this to scratchpad and run it:
+
+https://gist.github.com/Noitidart/3870a1e5ab341fe8604cf516ff7c93cb
+
+It's so weird I have no idea why it won't work :(
+
+---
+You are receiving this because you are subscribed to this thread.
+Reply to this email directly or view it on GitHub:
+https://github.com/sflip/dotfiles/issues/2#issuecomment-207800607
+----==_mimepart_570917939dda1_45b73fd8818dd29c1708a
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Here is a gist of my work, you can copy and paste this to scratchpad and run it:</p>
+
+<p><a href="https://gist.github.com/Noitidart/3870a1e5ab341fe8604cf516ff7c93cb">https://gist.github.com/Noitidart/3870a1e5ab341fe8604cf516ff7c93cb</a></p>
+
+<p>It's so weird I have no idea why it won't work :(</p>
+
+<p style="font-size:small;-webkit-text-size-adjust:none;color:#666;">&mdash;<br />You are receiving this because you are subscribed to this thread.<br />Reply to this email directly or <a href="https://github.com/sflip/dotfiles/issues/2#issuecomment-207800607">view it on GitHub</a><img alt="" height="1" src="https://github.com/notifications/beacon/AKJNNCyF9E9E8WctG5B-HEUcj4Zo0JDaks5p172TgaJpZM4IDnmg.gif" width="1" /></p>
+<div itemscope itemtype="http://schema.org/EmailMessage">
+<div itemprop="action" itemscope itemtype="http://schema.org/ViewAction">
+  <link itemprop="url" href="https://github.com/sflip/dotfiles/issues/2#issuecomment-207800607"></link>
+  <meta itemprop="name" content="View Issue"></meta>
+</div>
+<meta itemprop="description" content="View this Issue on GitHub"></meta>
+</div>
+
+----==_mimepart_570917939dda1_45b73fd8818dd29c1708a--

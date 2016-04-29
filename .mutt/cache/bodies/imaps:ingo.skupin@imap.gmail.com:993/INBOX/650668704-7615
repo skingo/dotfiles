@@ -1,0 +1,46 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.163 with SMTP id i3csp51920pdr;
+        Mon, 26 May 2014 09:02:38 -0700 (PDT)
+X-Received: by 10.194.90.39 with SMTP id bt7mr7174417wjb.93.1401120157303;
+        Mon, 26 May 2014 09:02:37 -0700 (PDT)
+Return-Path: <tobias.gruber@posteo.de>
+Received: from posteo.de (mx02.posteo.de. [89.146.194.165])
+        by mx.google.com with ESMTPS id q3si764473wic.7.2014.05.26.09.02.36
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 26 May 2014 09:02:37 -0700 (PDT)
+Received-SPF: none (google.com: tobias.gruber@posteo.de does not designate permitted sender hosts) client-ip=89.146.194.165;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: tobias.gruber@posteo.de does not designate permitted sender hosts) smtp.mail=tobias.gruber@posteo.de
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.posteo.de (Postfix) with ESMTP id 1D30D25A3DC3;
+	Mon, 26 May 2014 18:02:36 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at posteo.de
+Received: from posteo.de ([10.125.125.178])
+	by localhost (amavis1.posteo.de [10.125.125.165]) (amavisd-new, port 10026)
+	with ESMTP id AXalJgTE4st4; Mon, 26 May 2014 18:02:30 +0200 (CEST)
+Received: from mail.posteo.de (localhost [127.0.0.1])
+	by mail.posteo.de (Postfix) with ESMTPSA id 4199D2C010A;
+	Mon, 26 May 2014 18:02:30 +0200 (CEST)
+Message-ID: <53836595.50800@posteo.de>
+Date: Mon, 26 May 2014 18:02:29 +0200
+From: Tobias Gruber <tobias.gruber@posteo.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: Orpheo Saxophone Quartett <orpheo-sax-quartett@gmx.de>, 
+ Yvonne Gretzinger <yvonne.gretzinger@gmx.de>,
+ Nicolas Allgaier <n.allgaier@gmx.de>, 
+ Ingo Skupin <ingo.skupin@googlemail.com>,
+ Tobias Gruber <tobias.gruber@posteo.de>
+Subject: Probe 27.6.
+X-Enigmail-Version: 1.5.2
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+wie gestern ausgemacht, entfällt die Probe am 1.Juni und die Probe am
+27.Juni beginnt um 18:15 Uhr im Gemeindhaus in Stuttgart.
+
+Viele Grüße,
+Tobi

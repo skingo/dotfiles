@@ -1,0 +1,53 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.6.14 with SMTP id 14cs50799vcx;
+        Mon, 14 Nov 2011 10:24:00 -0800 (PST)
+Received: by 10.204.154.1 with SMTP id m1mr6714031bkw.107.1321295039329;
+        Mon, 14 Nov 2011 10:23:59 -0800 (PST)
+Return-Path: <johannes.mueller-roth@student.uni-tuebingen.de>
+Received: from mx06.uni-tuebingen.de (mx06.uni-tuebingen.de. [134.2.3.3])
+        by mx.google.com with ESMTPS id tk8si6728858bkb.29.2011.11.14.10.23.58
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 14 Nov 2011 10:23:59 -0800 (PST)
+Received-SPF: pass (google.com: domain of johannes.mueller-roth@student.uni-tuebingen.de designates 134.2.3.3 as permitted sender) client-ip=134.2.3.3;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of johannes.mueller-roth@student.uni-tuebingen.de designates 134.2.3.3 as permitted sender) smtp.mail=johannes.mueller-roth@student.uni-tuebingen.de
+Received: from [192.168.1.19] (dslb-088-067-016-069.pools.arcor-ip.net [88.67.16.69])
+	(authenticated bits=0)
+	by mx06.uni-tuebingen.de (8.13.6/8.13.6) with ESMTP id pAEINqTu011425
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <ingo.skupin@googlemail.com>; Mon, 14 Nov 2011 19:23:58 +0100
+Message-ID: <4EC15CB2.6040201@student.uni-tuebingen.de>
+Date: Mon, 14 Nov 2011 19:23:46 +0100
+From: =?ISO-8859-15?Q?Johannes_M=FCller-Roth?=
+ <johannes.mueller-roth@student.uni-tuebingen.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:8.0) Gecko/20111105 Thunderbird/8.0
+MIME-Version: 1.0
+To: Ingo Skupin gmail <ingo.skupin@googlemail.com>
+Subject: Re: Info =?ISO-8859-15?Q?=DCbungsblatt_3?=
+References: <4EC15295.7070505@googlemail.de>
+In-Reply-To: <4EC15295.7070505@googlemail.de>
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+X-AntiVirus-Spam-Check: clean (checked by Avira MailGate: version: 3.2.1.23;
+ spam filter version: 3.2.0/2.3; host: mx06)
+X-AntiVirus: checked by Avira MailGate (version: 3.2.1.23; AVE: 8.2.5.34; VDF: 7.11.10.215; host: mx06); id=18457-pkFFuv
+
+Hi Ingo,
+
+gut gut:)
+hab dummerweise auch oben angefangen^^
+meint der in 1.d) dass man die farben als zahlen von 1-4 definieren 
+soll? ich schnalls au iwie net so...
+ich versuch dann mal die 4.
+
+Grüßle,
+Johannes
+
+Am 14.11.2011 18:40, schrieb Ingo Skupin gmail:
+> Hi,
+>
+> hab alles außer der aufgabe 4 und der d) in aufgabe 1, die macht für 
+> mich iwie nicht so richtig Sinn...
+> Wie siehts bei dir so aus?
+>
+> Grüßle,
+> Ingo

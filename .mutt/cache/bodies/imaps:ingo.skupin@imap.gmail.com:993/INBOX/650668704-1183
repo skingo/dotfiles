@@ -1,0 +1,91 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.5.198 with SMTP id 6cs32795vcw;
+        Fri, 25 Nov 2011 06:08:13 -0800 (PST)
+Received: by 10.14.4.85 with SMTP id 61mr764964eei.211.1322230092223;
+        Fri, 25 Nov 2011 06:08:12 -0800 (PST)
+Return-Path: <20111125140811db8fcb3747d949ee8bcdb7df8c5e8c87@bounces.amazon.com>
+Received: from mm-notify-out-21102.amazon.com (mm-notify-out-21102.amazon.com. [194.7.41.152])
+        by mx.google.com with ESMTP id c34si5443808eec.69.2011.11.25.06.08.11;
+        Fri, 25 Nov 2011 06:08:12 -0800 (PST)
+Received-SPF: pass (google.com: domain of 20111125140811db8fcb3747d949ee8bcdb7df8c5e8c87@bounces.amazon.com designates 194.7.41.152 as permitted sender) client-ip=194.7.41.152;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of 20111125140811db8fcb3747d949ee8bcdb7df8c5e8c87@bounces.amazon.com designates 194.7.41.152 as permitted sender) smtp.mail=20111125140811db8fcb3747d949ee8bcdb7df8c5e8c87@bounces.amazon.com; dkim=pass header.i=bestellung-aktuell@amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=amazon.de; i=bestellung-aktuell@amazon.de; q=dns/txt;
+  s=rte02; t=1322230092; x=1353766092;
+  h=date:from:reply-to:to:cc:message-id:subject:mime-version:
+   content-type:content-transfer-encoding:bounces-to:
+   x-amazon-mail-relay-type:x-amazon-rte-version;
+  z=Date:=20Fri,=2025=20Nov=202011=2014:08:11=20+0000=20(UTC
+   )|From:=20"bestellung-aktuell@amazon.de"=20<bestellung-ak
+   tuell@amazon.de>|Reply-To:=20"bestellung-aktuell@amazon.d
+   e"=20<bestellung-aktuell@amazon.de>|To:=20"ingo.skupin@go
+   oglemail.com"=20<ingo.skupin@googlemail.com>|Cc:=20"beste
+   llstatus@amazon.de"=20<bestellstatus@amazon.de>
+   |Message-ID:=20<urn.correios.msg.20111125140811db8fcb3747
+   d949ee8bcdb7df8c5e8c87@1322230091296.rte-svc-eu-14008.dub
+   4.amazon.com>|Subject:=20Ruecksendung=20von=20Amazon.de-B
+   estellung=20303-1967522-8239542|MIME-Version:=201.0
+   |Content-Type:=20text/plain=3B=20charset=3DUTF-8
+   |Content-Transfer-Encoding:=20quoted-printable
+   |Bounces-to:=2020111125140811db8fcb3747d949ee8bcdb7df8c5e
+   8c87@bounces.amazon.com|X-AMAZON-MAIL-RELAY-TYPE:=20notif
+   ication|X-AMAZON-RTE-VERSION:=202.0;
+  bh=iUjD9Nf8vPP4oEvF6cFK/NXxhKVMDRkClDtha0SyjoM=;
+  b=V4Pr3TfHpOPtpmr1mYNyBhsKrE4KJ793S5CJN9Tz6QOJPLEqNbZnT2FS
+   9QT6q8wtKExd4+X3LRHNDiAmB9JOmw==;
+Date: Fri, 25 Nov 2011 14:08:11 +0000 (UTC)
+From: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+Reply-To: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+To: "ingo.skupin@googlemail.com" <ingo.skupin@googlemail.com>
+Cc: "bestellstatus@amazon.de" <bestellstatus@amazon.de>
+Message-ID: <urn.correios.msg.20111125140811db8fcb3747d949ee8bcdb7df8c5e8c87@1322230091296.rte-svc-eu-14008.dub4.amazon.com>
+Subject: Ruecksendung von Amazon.de-Bestellung 303-1967522-8239542
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Bounces-to: 20111125140811db8fcb3747d949ee8bcdb7df8c5e8c87@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+
+Vielen Dank daf=C3=BCr, dass Sie unser R=C3=BCcksendezentrum nutzen.=20
+
+=C3=9Cber den folgenden Link gelangen Sie zu der Seite bei Amazon.de, auf d=
+er Sie Ihr R=C3=BCcksende-Etikett ausdrucken k=C3=B6nnen:
+=20
+http://www.amazon.de/gp/orc/rml/DtHy7dPvRRMA
+
+Sie finden dort weitere Hinweise und Anleitungen dazu, wie Sie Ihre Bestell=
+ung am besten an uns zur=C3=BCcksenden.
+=20
+Ist das Klicken auf den Link nicht m=C3=B6glich, kopieren Sie einfach den L=
+ink und f=C3=BCgen Sie ihn in die Adresszeile Ihres Browser-Fensters ein - =
+oder geben Sie den Link =C3=BCber Ihre Tastatur ein.
+
+Hier k=C3=B6nnen Sie Ihre R=C3=BCcksendung verfolgen:
+
+http://www.amazon.de/gp/orc/returns/track/DtHy7dPvRRMA
+
+-Nachverfolgungsnummer f=C3=BCr Ihre R=C3=BCcksendung:
+
+264071524938
+
+Sobald wir Ihre R=C3=BCcksendung verarbeitet haben, benachrichtigen wir Sie=
+ per E-Mail =C3=BCber die Erstattung (sofern zutreffend). Sie erhalten Ihre=
+ Erstattung innerhalb von vier Wochen nach der Aufgabe Ihres Pakets zum Ver=
+sand. In vielen F=C3=A4llen geht die Bearbeitung auch schneller.=20
+
+Bitte beachten Sie auch unsere Details zur R=C3=BCckgabe: https://www.amazo=
+n.de/gp/help/customer/display.html?ie=3DUTF8&nodeId=3D504958.
+
+Vielen Dank f=C3=BCr Ihren Einkauf bei Amazon.de!
+
+-------------------------------------------------------------=20
+Amazon.de
+http://www.amazon.de
+-------------------------------------------------------------=20
+
+Dies ist eine automatisch versendete Nachricht. Bitte antworten Sie nicht a=
+uf dieses Schreiben, da die Adresse nur zur Versendung von E-Mails eingeric=
+htet ist. Sie erreichen uns ueber das Kontaktformular  http://www.amazon.de=
+/kontakt  auf unseren Hilfe-Seiten.
+

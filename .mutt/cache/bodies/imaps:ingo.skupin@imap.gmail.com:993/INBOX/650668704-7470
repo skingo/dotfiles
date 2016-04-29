@@ -1,0 +1,52 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.124.193 with SMTP id mk1csp250275pdb;
+        Tue, 29 Apr 2014 15:43:00 -0700 (PDT)
+X-Received: by 10.14.7.137 with SMTP id 9mr103561eep.114.1398811379909;
+        Tue, 29 Apr 2014 15:42:59 -0700 (PDT)
+Return-Path: <tobias.gruber@posteo.de>
+Received: from posteo.de (mx02.posteo.de. [89.146.194.165])
+        by mx.google.com with ESMTPS id z2si28518473eeo.94.2014.04.29.15.42.59
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 29 Apr 2014 15:42:59 -0700 (PDT)
+Received-SPF: none (google.com: tobias.gruber@posteo.de does not designate permitted sender hosts) client-ip=89.146.194.165;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: tobias.gruber@posteo.de does not designate permitted sender hosts) smtp.mail=tobias.gruber@posteo.de
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.posteo.de (Postfix) with ESMTP id 1C14B25C00B3;
+	Tue, 29 Apr 2014 22:42:59 +0000 (UTC)
+X-Virus-Scanned: amavisd-new at posteo.de
+Received: from posteo.de ([10.125.125.178])
+	by localhost (amavis1.posteo.de [10.125.125.165]) (amavisd-new, port 10026)
+	with ESMTP id sQ48FQDP4bOr; Wed, 30 Apr 2014 00:42:49 +0200 (CEST)
+Received: from mail.posteo.de (localhost [127.0.0.1])
+	by mail.posteo.de (Postfix) with ESMTPSA id A93542C030A;
+	Wed, 30 Apr 2014 00:42:48 +0200 (CEST)
+Message-ID: <53602AE8.5000202@posteo.de>
+Date: Wed, 30 Apr 2014 00:42:48 +0200
+From: Tobias Gruber <tobias.gruber@posteo.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: Tobias Gruber <gruber.tobi@gmail.com>, 
+ Ingo Skupin <ingo.skupin@googlemail.com>,
+ Nicolas Allgaier <n.allgaier@gmx.de>, 
+ Yvonne Gretzinger <yvonne.gretzinger@gmx.de>,
+ Orpheo Saxophone Quartett <orpheo-sax-quartett@gmx.de>
+Subject: Proben Saxophon-Quartett
+X-Enigmail-Version: 1.5.2
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+ich habe gerade von Ingo Rückmeldung bekommen, dass die Proben bei ihm
+klappen, mit einer kleinen Einschränkung: Würde bei euch am 13.07. auch
+von 17:00 - 19:00 gehen?
+
+Bitte meldet euch bei mir, falls diese Uhrzeit bei euch nicht geht.
+Ansonsten würden wir von 17:00 - 19:00 bei Ingo in Tübingen proben.
+
+Bis Sonntag um 18:00 Uhr!
+
+Viele Grüße,
+Tobi

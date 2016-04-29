@@ -1,0 +1,130 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp488749vcb;
+        Mon, 5 Nov 2012 21:40:16 -0800 (PST)
+Received: by 10.14.172.195 with SMTP id t43mr45064317eel.17.1352180415321;
+        Mon, 05 Nov 2012 21:40:15 -0800 (PST)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTP id l45si13531441eep.135.2012.11.05.21.40.14;
+        Mon, 05 Nov 2012 21:40:15 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=neutral (body hash did not verify) header.i=@dropbox.com
+Received: from sjc-smtp2.sjc.dropbox.com ([199.47.217.137]) by mx-ha.web.de
+ (mxweb007) with ESMTP (Nemesis) id 0MLuvs-1TQ8m20jl6-007hnO for
+ <ingo.skupin@gmail.com>; Tue, 06 Nov 2012 06:40:14 +0100
+Received: from snt-web415.sjc.dropbox.com (snt-web415.sjc.dropbox.com [10.12.6.163])
+	by sjc-smtp2.sjc.dropbox.com (Postfix) with ESMTP id 28FA67602B7
+	for <ingo.skupin@web.de>; Tue,  6 Nov 2012 05:40:13 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1352180413; bh=Px0/C8R+YHUdYnuxt0vnNiMhKGmozHomhxfgGJTHwd8=;
+	h=Content-Type:MIME-Version:From:To:Subject:Date:Reply-To:
+	 Message-Id;
+	b=iCnWAKZRazJP//zoP1JFs3blEJmCIf+xc2TevyjH0DwGPiav3COYn8Ofl11Vzkl4S
+	 PNbWx14Qc+lGf+E5DaM5rZMa0JTmxTkP1/E0+ugFpEniXeb3SR5MYKGtv4zcTqoXZ5
+	 YNwriuHmBNGm3iMu1cq55R1hT7WvMvLmBG8+50QQ=
+Received: from snt-web415.sjc.dropbox.com (localhost [127.0.0.1])
+	by snt-web415.sjc.dropbox.com (Postfix) with ESMTP id 26A431840D12
+	for <ingo.skupin@web.de>; Tue,  6 Nov 2012 05:40:13 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============7494212513924547233=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+Subject: Lena Schroth hat „KJO Programm 2013“ für dich freigegeben
+Date: Tue, 06 Nov 2012 05:40:13 +0000
+Reply-To: lena-schroth@web.de
+Message-Id: <20121106054013.26A431840D12@snt-web415.sjc.dropbox.com>
+
+--===============7494212513924547233==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ingo,
+
+Lena Schroth hat dich mit der folgenden Nachricht zum freigegebenen Dropb=
+ox-Ordner =E2=80=9EKJO Programm 2013=E2=80=9C eingeladen:
+
+=E2=80=9ESoooo, ich hoffe das klappt bei allen so wie ich mir das vorstel=
+le^^=E2=80=9C
+
+Sieh dir den Ordner unter http://www.dropbox.com/el/?r=3D/link/17.xwYOGev=
+fGa.981720b6e03373ad%3Fk%3D69mLTNdGu-w4Bl2Pk0shP1s7Y6HsRmCF&b=3Dclk:25850=
+498:3494749861513633284:507:342&z=3DAABxmqYnKclQC0IbTEUCHuNKoEDKwjwIH8GGL=
+-8hgkHR9A an
+--===============7494212513924547233==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"650" align=3D"center" style=3D"font-size: 14px;" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tr id=3D"topshadow">
+<td height=3D"10" width=3D"10" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/shadow_tl.gif" bgcolor=3D"#ffffff"></td>
+<td height=3D"10" background=3D"https://www.dropbox.com/static/images/ema=
+ils/shadow_top.gif" bgcolor=3D"#ffffff"> </td>
+<td height=3D"10" width=3D"10" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/shadow_tr.gif" bgcolor=3D"#ffffff"> </td>
+</tr>
+<tr id=3D"header">
+<td width=3D"10" background=3D"https://www.dropbox.com/static/images/emai=
+ls/shadow_left.gif" bgcolor=3D"#ffffff" rowspan=3D"2"></td>
+<td height=3D"102" background=3D"https://www.dropbox.com/static/images/em=
+ails/header_bg.gif" bgcolor=3D"#e6f1fb" align=3D"center">
+<table width=3D"95%"><tr>
+<td align=3D"left">
+<img src=3D"https://www.dropbox.com/static/images/emails/email_logo.gif" =
+/>
+</td>
+</tr></table>
+</td>
+<td width=3D"10" background=3D"https://www.dropbox.com/static/images/emai=
+ls/shadow_right.gif" bgcolor=3D"#ffffff" rowspan=3D"2"> </td>
+</tr>
+<tr id=3D"content">
+<td bgcolor=3D"#f4faff" align=3D"center">
+<table width=3D"95%" cellpadding=3D"30">
+<tr>
+<td align=3D"left">
+<font face=3D"Lucida Grande, Segoe UI, Arial, Verdana, Lucida Sans Unicod=
+e, Tahoma, Sans Serif">
+    Hallo Ingo,<br /><br />
+Lena Schroth hat dich mit der folgenden Nachricht zum freigegebenen Dropb=
+ox-Ordner =E2=80=9EKJO Programm 2013=E2=80=9C eingeladen:<br /><br />
+<i>=E2=80=9ESoooo, ich hoffe das klappt bei allen so wie ich mir das vors=
+telle^^=E2=80=9C</i><br /><br />
+<a href=3D"http://www.dropbox.com/el/?r=3D/link/17.L0FIHhftLA.981720b6e03=
+373ad%3Fk%3D69mLTNdGu-w4Bl2Pk0shP1s7Y6HsRmCF&amp;b=3Dclk:25850498:3494749=
+861513633284:507:342&amp;z=3DAAD8xh--dheyE32Q-JTADf0nqP7dCmHhVoxs2m7NaQXu=
+0Q">Schau dir  =E2=80=9EKJO Programm 2013=E2=80=9C an</a>.<br />
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr id=3D"bottomshadow">
+<td height=3D"10" width=3D"10" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/shadow_bl.gif" bgcolor=3D"#ffffff"></td>
+<td height=3D"10" background=3D"https://www.dropbox.com/static/images/ema=
+ils/shadow_bottom.gif" bgcolor=3D"#ffffff"> </td>
+<td height=3D"10" width=3D"10" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/shadow_br.gif" bgcolor=3D"#ffffff"> </td>
+</tr>
+<tr id=3D"copyright">
+<td></td>
+<td align=3D"right">
+<img src=3D"https://www.dropbox.com/static/images/emails/gray_logo.gif" a=
+lt=3D"" align=3D"absmiddle" />
+<span style=3D"font-family: 'Lucida Grande', 'Segoe UI', Arial, Verdana, =
+'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 11px; color: #888=
+;">&copy;&nbsp;2012&nbsp;Dropbox</span>
+</td>
+<td></td>
+</tr>
+</table><img                             src=3D"www.dropbox.com/el/?b=3Do=
+pen:25850498:3494749861513633284:507:342&z=3DAAADdLxrU3qPLKwBfSZsEHGiVIbg=
+70IAYRYy5tlQ9GCQfg"                             width=3D"1"              =
+               height=3D"1"                          />
+--===============7494212513924547233==--

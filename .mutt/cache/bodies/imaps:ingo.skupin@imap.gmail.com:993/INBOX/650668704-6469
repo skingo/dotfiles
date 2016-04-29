@@ -1,0 +1,49 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp126120pdb;
+        Sun, 22 Sep 2013 02:34:38 -0700 (PDT)
+X-Received: by 10.66.164.136 with SMTP id yq8mr18380515pab.67.1379842478130;
+        Sun, 22 Sep 2013 02:34:38 -0700 (PDT)
+Return-Path: <bounces+794683-a1b7-ingo.skupin=gmail.com@email.writelatex.com>
+Received: from o1.email.writelatex.com (o1.email.writelatex.com. [192.254.116.202])
+        by mx.google.com with SMTP id vx3si17037715pbc.338.1969.12.31.16.00.00;
+        Sun, 22 Sep 2013 02:34:38 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounces+794683-a1b7-ingo.skupin=gmail.com@email.writelatex.com designates 192.254.116.202 as permitted sender) client-ip=192.254.116.202;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounces+794683-a1b7-ingo.skupin=gmail.com@email.writelatex.com designates 192.254.116.202 as permitted sender) smtp.mail=bounces+794683-a1b7-ingo.skupin=gmail.com@email.writelatex.com;
+       dkim=pass header.i=@email.writelatex.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=email.writelatex.com; h=
+	from:reply-to:to:subject:mime-version:content-type
+	:content-transfer-encoding; s=smtpapi; bh=8TQoaEXmYov+hJLoGbn3+D
+	N8Pjc=; b=ggTigudUiXZS1yVAo+HaM0z4fDjkWXMamtb+0BidZDUZrTFl8ZdW+7
+	gtTHgfd9Z7c1yz496M/525SB4Wi8Z+3oZmeqB7qnml2HQq6237pHlIUrHg6fhk+A
+	JcYCpqxoirvhLUocqfjOB/feFx1+lOXsFsfX91rY33k63T8ydyCxI=
+Received: by  with SMTP id filter-155.14810.523EB9AC3
+        Sun, 22 Sep 2013 09:34:36 +0000 (GMT)
+Received: from writelatex.com (ec2-50-17-145-229.compute-1.amazonaws.com [50.17.145.229])
+	by ismtpd-018 (SG) with ESMTP id 141450547d8.541d.87564a
+	for <ingo.skupin@gmail.com>; Sun, 22 Sep 2013 09:34:35 +0000 (UTC)
+Date: Sun, 22 Sep 2013 09:34:34 +0000
+From: welcome@writelatex.com
+Reply-To: welcome@writelatex.com
+To: ingo.skupin@gmail.com
+Message-ID: <523eb9aae913c_ae8e9d6bc353ee@b4bb90ad-d28d-46a3-b7d7-4f5fc74b7ba5.mail>
+Subject: Confirmation instructions
+Mime-Version: 1.0
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-SG-EID: Ayd+lkoWOqSx00FwpgBejNdCn6eOef5aLnIaV7SqvaSAm7NXZeoViO8RDgkevXZHUedHvFzRldxUgRPy8NNDcukr/o33gTW3cRLSYAbL5n0P7Lq4fDHyYgkk3ZbTz2I9MqH0OxFcmUv8D+wj2JsjTXhG7F20sz5i+43n9wyrWTE=
+
+<p>Thanks for signing up for writeLaTeX!</p>
+
+<p>Please <a href="http://email.writelatex.com/wf/click?upn=cHuZQBbI2Hc65cfokOiKJQbKdXrr0Im7EPobxYfn73fQeYtK62lShfczNc7pfKUKjoO-2BraGM-2FWyzw4T7uWdrt3-2BXbPFom4DbKDZc07KxXa6eJ-2BiHxoi0Xnfp4jhMeT-2FA_uf6xkV69uMfyoh-2BqdZPYyR8DMenT3-2FCdNyQhvdBCduN2Qfd6CoJp2nix-2Fxbm6yGh1wr-2BeOA7B7BkxzxTmtUAuuC49g8xK0kAQSSpdnyVAoN13G5Td8lS7kxRZHs-2BqLcTD3JmezGIE5I0D28dGKRG-2FFBKMnPIVJPJdl6yhFwTLL-2Fpf-2FQ9HXL2BFt9tCnUmiJOePWi0mrp6Rd9-2BX5G-2Fr64YA-3D-3D">click here to confirm your e-mail address</a> or copy and paste the following address into your browser:
+</p>
+
+<p>https://www.writelatex.com/users/confirmation?confirmation_token=1s6WGtaNz8kyu5NyBWfy</p>
+
+<p>If you have comments or questions, we'd love to hear from you. Just reply to this e-mail or <a href="mailto:john@writelatex.com">john@writelatex.com</a>. Or find us on twitter @writelatex. 
+</p> 
+
+<p>Happy TeXing!</p>
+
+<img src="http://email.writelatex.com/wf/open?upn=uf6xkV69uMfyoh-2BqdZPYyR8DMenT3-2FCdNyQhvdBCduN2Qfd6CoJp2nix-2Fxbm6yGhzaxlr5KVlKSwMqC3K8xo6se7t7-2BQpP6ATfKp8IUyiQB2zpPoY4EminRUghGZGd7QyIhyoouY4-2BRBBpGgCYj3nqWKY4psvCeX4G1pq8iMAIfXko0eI0B9neHKh-2F49fRlUlYbFRv93XeQSgrvRkkdOvA-3D-3D" alt="" width="1" height="1" border="0" style="height:1px !important;width:1px !important;border-width:0 !important;margin-top:0 !important;margin-bottom:0 !important;margin-right:0 !important;margin-left:0 !important;padding-top:0 !important;padding-bottom:0 !important;padding-right:0 !important;padding-left:0 !important;"/>

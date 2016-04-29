@@ -1,0 +1,164 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.86.206 with SMTP id t14cs14631vcl;
+        Thu, 20 Oct 2011 06:14:06 -0700 (PDT)
+Received: by 10.223.85.139 with SMTP id o11mr18314986fal.0.1319116445870;
+        Thu, 20 Oct 2011 06:14:05 -0700 (PDT)
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+Received: from fmmailgate03.web.de (fmmailgate03.web.de. [217.72.192.234])
+        by mx.google.com with ESMTP id g13si3347573faa.95.2011.10.20.06.14.05;
+        Thu, 20 Oct 2011 06:14:05 -0700 (PDT)
+Received-SPF: fail (google.com: domain of notification+zj4oc2az_s26@facebookmail.com does not designate 217.72.192.234 as permitted sender) client-ip=217.72.192.234;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of notification+zj4oc2az_s26@facebookmail.com does not designate 217.72.192.234 as permitted sender) smtp.mail=notification+zj4oc2az_s26@facebookmail.com; dkim=pass header.i=@facebookmail.com
+Received:  from mx16.web.de  ( [172.20.2.146])
+	by fmmailgate03.web.de (Postfix) with ESMTP id 52DAA1A61AD6C
+	for <ingo.skupin@gmail.com>; Thu, 20 Oct 2011 15:11:18 +0200 (CEST)
+Received: from [66.220.144.140] (helo=mx-out.facebook.com)
+	by mx16.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1RGsP0-0002Kl-00
+	for ingo.skupin@web.de; Thu, 20 Oct 2011 15:11:18 +0200
+DKIM-Signature: v=1; a=rsa-sha256; d=facebookmail.com; s=s1024-2011-q2; c=relaxed/simple;
+	q=dns/txt; i=@facebookmail.com; t=1319116269;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=5HrxdueUQ8e7Wde9RjAe1G/cEg6GADO1dGwHwsytZyI=;
+	b=KA6waWmP0hd7NMkAzGjevK7blZU1J7nS8ZL3ujXvxcLPHrKn67woAwTNJrmAdcj+
+	SWHh7avie2mwM9FUjSNJtcENp9PX6PydPjmlBzjWI5/dyMKCgQwu7EEIuYrlYdcX
+	VPIkUXtOvH2/GSmdDbk/tsk8DpRDzCPTiNbNsKRLOr4=;
+Received: from [10.32.85.113] ([10.32.85.113:38912])
+	by smout040.snc4.facebook.com (envelope-from <notification+zj4oc2az_s26@facebookmail.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id E8/D1-32596-DED10AE4; Thu, 20 Oct 2011 06:11:09 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by upload.facebook.com with HTTP (ZuckMail);
+Date: Thu, 20 Oct 2011 06:11:09 -0700
+To: Skupins <241979445821859@groups.facebook.com>
+From: "Gisela Skupin" <notification+zj4oc2az_s26@facebookmail.com>
+Reply-to: "Antworte, um einen Kommentar zu hinterlassen" <g+44dzylq000zg3gn3u1c002ucmyv3a1c002drvtmbgdf1wl46@groups.facebook.com>
+Subject: [Skupins] :-)
+Message-ID: <343ad9624b67503b6c3cc985f858e8a3@upload.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+X-Facebook-Notify: group_activity; mailid=50a1b1bG5af31cfea1d0G1629b90G96
+List-Id: <241979445821859.groups.facebook.com>
+List-Unsubscribe: <mailto:unsub+group_activity@unsubscribe.facebook.com>
+Errors-To: notification+zj4oc2az_s26@facebookmail.com
+X-FACEBOOK-PRIORITY: 0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_343ad9624b67503b6c3cc985f858e8a3"
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+
+--b1_343ad9624b67503b6c3cc985f858e8a3
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Gisela Skupin hat in Skupins gepostet.
+
+:-)
+
+Foto-Anhang:
+http://www.facebook.com/photo.php?fbid=3D183253878421819&set=3Do.241979445=
+821859&type=3D1
+
+
+
+
+Um diesen Beitrag zu kommentieren, antworte auf diese E-Mail oder besuche:
+
+
+http://www.facebook.com/n/?groups%2F241979445821859%2F288743577812112%2F&m=
+id=3D50a1b1bG5af31cfea1d0G1629b90G96&bcode=3DQBKKNBqA&n_m=3Dingo.skupin%40=
+web.de
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Antworte auf diese E-Mail, um einen Kommentar hinzuzuf=C3=BCgen. =
+=C3=84ndere deine Benachrichtigungs-Einstellungen:
+http://www.facebook.com/n/?groups%2F241979445821859%2F&view=3Dnotification=
+s&mid=3D50a1b1bG5af31cfea1d0G1629b90G96&bcode=3DQBKKNBqA&n_m=3Dingo.skupin=
+%40web.de
+
+
+--b1_343ad9624b67503b6c3cc985f858e8a3
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><style type=3D"text/css">a.thumb:link, a.thumb:visited =
+{border:1px #CCCCCC solid !important;}a.thumb:active, a.thumb:hover =
+{border:1px #3B5998 solid =
+!important;}</style><title>Facebook</title></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table width=3D"98%" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"8"><tr><td =
+bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"500"><tr><td colspan=3D"2" =
+style=3D"padding:10px 0 0 =
+10px;color:#000000;font-size:11px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;" valign=3D"top"><table =
+width=3D"100%" style=3D"color:#000000;font-size:11px;"><tr><td =
+width=3D"100%" valign=3D"top" align=3D"left" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;color:#000000;font-size:11px;"><di=
+v style=3D"width:100%;color:#666666;padding:0 0 7px =
+0;border-bottom:#E9E9E9 1px solid;">Gisela Skupin <a href=3D"http://www.fa=
+cebook.com/n/?groups%2F241979445821859%2F288743577812112%2F&amp;mid=3D50a1=
+b1bG5af31cfea1d0G1629b90G96&amp;bcode=3DQBKKNBqA&amp;n_m=3Dingo.skupin%40w=
+eb.de" style=3D"color:#3b5998;text-decoration:underline;">hat etwas in =
+Skupins gepostet</a>.</div><div style=3D"margin-bottom:15px;"><table =
+cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;padding-top:7px;"><tr><td valign=3D"top" =
+style=3D"padding:3px 5px 5px 0px;width:57px;"><a href=3D"http://www.facebo=
+ok.com/n/?profile.php&amp;id=3D100002116247013&amp;mid=3D50a1b1bG5af31cfea=
+1d0G1629b90G96&amp;bcode=3DQBKKNBqA&amp;n_m=3Dingo.skupin%40web.de" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"http://profile.a=
+k.fbcdn.net/hprofile-ak-snc4/186437_100002116247013_780658_q.jpg" =
+alt=3D":-)" style=3D"border: 0; height:50px; width:50px; " /></a></td><td =
+valign=3D"top" align=3D"left" style=3D"padding:5px 5px 5px =
+0;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"width:100%;padding-bottom:5px;"><tr><td =
+style=3D"font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-s=
+erif;color:#000000;font-size:11px;"><a =
+style=3D"color:#3b5998;text-decoration:none;font-weight:bold;" =
+href=3D"http://www.facebook.com/n/?profile.php&amp;id=3D100002116247013&am=
+p;mid=3D50a1b1bG5af31cfea1d0G1629b90G96&amp;bcode=3DQBKKNBqA&amp;n_m=3Ding=
+o.skupin%40web.de">Gisela Skupin</a></td><td style=3D"text-align:right;col=
+or:#999999;padding-right:5px;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:11px;"> 20. Oktober =
+15:11 </td></tr></table><div style=3D"width:458px;word-wrap:break-word;pad=
+ding-bottom:7px;color:#000000;font-size:11px;">:-)</div><div =
+style=3D"padding:10px 0;color:#000000;font-size:11px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td valign=3D"top" =
+style=3D"padding-right: 10px;"><a href=3D"http://www.facebook.com/n/?photo=
+.php&amp;fbid=3D183253878421819&amp;set=3Do.241979445821859&amp;type=3D1&a=
+mp;mid=3D50&amp;n_m=3Dingo.skupin%40web.de" style=3D"color:#3b5998;text-de=
+coration:none;display:block;line-height:0;border:1px #CCCCCC =
+solid;padding:3px;" class=3D"thumb"><img class=3D"img" =
+src=3D"http://photos-g.ak.fbcdn.net/hphotos-ak-ash4/312014_183253878421819=
+_100002116247013_370836_1154806405_s.jpg" style=3D"width: 90px;" =
+width=3D"90px;" alt=3D"" /></a></td><td valign=3D"top"></td></tr></table><=
+/div></td></tr></table></div></td></tr></table><span style=3D""><img =
+src=3D"http://www.facebook.com/email_open_log_pic.php?mid=3D50a1b1bG5af31c=
+fea1d0G1629b90G96" style=3D"border:0;width:1px;height:1px;" /><bgsound =
+src=3D"http://www.facebook.com/email_open_log_pic.php?mid=3D50a1b1bG5af31c=
+fea1d0G1629b90G96&s=3Da" volume=3D"-10000"/></span><br /></td></tr><tr><td =
+colspan=3D"2" style=3D"color:#666666;padding:10px 5px 15px =
+10px;border-top:#E9E9E9 1px solid;line-height: 18px;font-size: =
+12px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;"><a =
+href=3D"http://www.facebook.com/n/?groups%2F241979445821859%2F288743577812=
+112%2F&amp;mid=3D50a1b1bG5af31cfea1d0G1629b90G96&amp;bcode=3DQBKKNBqA&amp;=
+n_m=3Dingo.skupin%40web.de" style=3D"color: #3b5998; text-decoration: =
+none;">Beitrag auf Facebook anzeigen</a> =C2=B7 <a href=3D"http://www.face=
+book.com/n/?groups%2F241979445821859%2F&amp;view=3Dnotifications&amp;mid=
+=3D50a1b1bG5af31cfea1d0G1629b90G96&amp;bcode=3DQBKKNBqA&amp;n_m=3Dingo.sku=
+pin%40web.de" style=3D"color: #3b5998; text-decoration: =
+none;">E-Mail-Einstellungen bearbeiten</a> =C2=B7 Antworte auf diese =
+E-Mail, um einen Kommentar hinzuzuf=C3=BCgen.<br =
+/></td></tr></table></td></tr></table></body></html>
+
+
+
+--b1_343ad9624b67503b6c3cc985f858e8a3--
+

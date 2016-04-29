@@ -1,0 +1,193 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.39.69 with SMTP id f5cs112306vce;
+        Wed, 7 Sep 2011 10:23:19 -0700 (PDT)
+Received: by 10.223.62.212 with SMTP id y20mr40566fah.111.1315416198066;
+        Wed, 07 Sep 2011 10:23:18 -0700 (PDT)
+Return-Path: <christian.zech@bachakademie.de>
+Received: from fmmailgate03.web.de (fmmailgate03.web.de [217.72.192.234])
+        by mx.google.com with ESMTP id d5si170561fak.204.2011.09.07.10.23.16;
+        Wed, 07 Sep 2011 10:23:16 -0700 (PDT)
+Received-SPF: neutral (google.com: 217.72.192.234 is neither permitted nor denied by best guess record for domain of christian.zech@bachakademie.de) client-ip=217.72.192.234;
+DomainKey-Status: bad
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.72.192.234 is neither permitted nor denied by best guess record for domain of christian.zech@bachakademie.de) smtp.mail=christian.zech@bachakademie.de; domainkeys=hardfail header.From=christian.zech@bachakademie.de
+Received:  from mx37.web.de  ( [172.20.1.177])
+	by fmmailgate03.web.de (Postfix) with ESMTP id 91A631990A2A0
+	for <ingo.skupin@gmail.com>; Wed,  7 Sep 2011 19:23:16 +0200 (CEST)
+Received: from [213.178.172.203] (helo=bachakademie.de)
+	by mx37.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1R1LqG-00035x-00
+	for ingo.skupin@web.de; Wed, 07 Sep 2011 19:23:16 +0200
+Received: (qmail 11206 invoked by uid 89); 7 Sep 2011 16:56:35 -0000
+Comment: DomainKeys? See http://antispam.yahoo.com/domainkeys
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=private; d=bachakademie.de;
+  b=azJ6gtKsN3Hk98JlYPojf84mTsPOeWWod2BxiYaoR8c3niVLnUUuUXNV+0sN4UW6;
+Received: by simscan 1.3.1 ppid: 11198, pid: 11202, t: 0.1925s
+         scanners: attach: 1.3.1 clamav: 0.90.1-exp/m:
+Received: from unknown (HELO ?192.168.187.108?) (ze@bachakademie.de@192.168.187.108)
+  by qmt.localhost.local with ESMTPA; 7 Sep 2011 16:56:35 -0000
+Message-ID: <4E67A23C.9030606@bachakademie.de>
+Date: Wed, 07 Sep 2011 18:56:28 +0200
+From: Christian Zech <christian.zech@bachakademie.de>
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.1; de; rv:1.9.2.21) Gecko/20110830 Thunderbird/3.1.13
+MIME-Version: 1.0
+To: sciarrino-teilnehmer@bachakademie.de
+CC: a.lehker@web.de, a.volle@gmx.de, adrian@domeyer-tue.de, 
+ agster-hof@t-online.de, akraft3@gmx.net, andreasjordan@hotmail.com, 
+ angelika@steeb-family.de, angelika_kehrer@web.de, 
+ annagreguric@googlemail.com, Annette.Jickeli@gmx.de, 
+ annette@familie-kress.de, ann-ette@familie-kress.de, 
+ ann-kathrin-knab@gmx.de, armin.stuber@gmx.de, benjaminknab@me.com, 
+ Boebel-Lude@web.de, byurichoi@googlemail.com, carina.hoppenz@gmx.de, 
+ carla@guggenberger-mail.de, Carlotta.preiss@web.de, caroksalat@gmx.de, 
+ Carolin.Kirschner@t-online.de, cofritz@t-online.de, 
+ colien.schreiber@web.de, corinna-haenssler@kabelbw.de, curly_@gmx.de, 
+ dagmarta@t-online.de, daniel.frosch@gmx.de, daphne.sophia@web.de, 
+ david-kramer@gmx.net, Denise.Hofmann1209@arcor.de, didavhle@t-online.de, 
+ dowa.waibel@t-online.de, drummertweety@web.de, dwertz@gmx.de, 
+ ej.harter@t-online.de, elisabeth.o@hotmail.de, ELSAWALTER@gmx.de, 
+ emil@czec.de, estherb92@web.de, evabasset@yahoo.de, 
+ frank.dvorschak@gmx.de, haeusser.b@alice-dsl.net, hannah1wagner@web.de, 
+ hofmann.bri@googlemail.com, Hrstorz@aol.com, ingo.skupin@web.de, 
+ janin.gehler@freenet.de, jenni_blumhardt91@web.de, 
+ jenniferwolf_96@yahoo.com, johannes.alsheimer@arcor.de, 
+ johannes_hammer@live.de, joscha.wurzel@gmx.de, julia.klatt@gmx.de, 
+ katja.fischer@stuttgart.de, klafri99@gmx.de, klauskirschlager@web.de, 
+ kling-kong@web.de, L.Pas@hotmail.de, laura.sch@hotmail.de, 
+ lemkesusanne@yahoo.de, Lena-Haasis@gmx.de, leseratte.charly@gmx.de, 
+ lilli.kiefer@web.de, lis@weltie.com, lisi70@hotmail.de, 
+ lucie.haas@gmx.net, magdalenahutt@web.de, marenlukas@operamail.com, 
+ marietheresheilig@yahoo.de, melike@uni-hohenheim.de, Merli.E@web.de, 
+ mia.katzi@freenet.de, michl.oe@gmx.de, miriampascal@arcor.de, 
+ mk.grau@web.de, moritz_spang@web.de, NatalieKuebler@gmx.de, 
+ natifunk@gmx.de, nbreckwoldt@web.de, Neundorfer.Prade@t-online.de, 
+ nika.e@gmx.de, niklas@pempe-tuebingen.de, nina.gehler@freenet.de, 
+ nullia.neminem@web.de, oliviazak@web.de, oskar.p-s@web.de, 
+ pbotsch@online.de, pola.sonje@gmx.de, ppdkaestl@t-online.de, 
+ raphael@rothschink.de, rebecca.rohner@freenet.de, rebecca.sonn@web.de, 
+ robert.p-s@web.de, sajeb@t-online.de, sanke@seah.de, 
+ sarah-zerfass@t-online.de, schuler.gabriele@arcor.de, sonja.P96@web.de, 
+ sophie.shen@gmx.de, sue.heim@web.de, tatjana-sax@gmx.de, 
+ Thomas.Rudlaff@T-online.de, tobias.lauster@gmx.de, torben_m@gmx.net, 
+ U.PI@gmx.net, uniestahl@t-online.de, wiebke0909@web.de, 
+ wollny.julia@me.com, wona@gmx.de, zoe.frank@web.de, Boebel-Lude@web.de, 
+ gregor.boehmerle@web.de, info@josefdistler.de, tanja_heinkel@web.de, 
+ SabineHolzinger@gmx.de, roodsen@gmx.de, claudia.kees@t-online.de, 
+ NatalieKuebler@gmx.de, mlkysela@web.de, boebbelemaier@web.de, 
+ G.Pas-VanRiet@gmx.de, ingo.sadewasser@freenet.de, seidlerh@aol.com, 
+ mail@johannes-tress.de
+Subject: weitere infos - einladung - bitte korrektur lesen
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+Liebe Meeres-Rauscher,
+
+vier mal werden wir noch wach...
+
+Zunächst das wichtigste: Unser Dirigent, Peter von Wienhardt, spielt am 
+morgigen Donnerstag abend um 22:00 Uhr im Mozartsaal der Liederhalle 
+einen Klavier-Solo-Abend u.a. mit Werken von Tan Dun, Cage und Liszt. 
+Für alle Sciarrino-Teilnehmer (oder deren Freunde) gibt es bis zu zwei 
+Freikarten an der Abendkasse (Code-Wort "Sciarrino" genügt). Kommet zu 
+Hauf, der Saal klingt toll und ist groß! Am Freitag kann man ausschlafen.
+
+Folgende Fragen wurden in den letzten Tagen gestellt:
+
+- Karten: Jeder Mitspieler bekommt insgesamt 2 Freikarten für das erste 
+und/oder zweite Vorspiel (15:00 und 16:30 Uhr)
+- Karten bitte eigenständig bei mir abholen, es sei denn, es wird anders 
+angesagt
+- Parken auf dem Gelände ist möglich, besser ist natürlich eine Anreise 
+mit öffentlichen Verkehrsmitteln oder mit dem Rad
+- Kleidung: Blau und/oder Schwarz - möglichst festlich.
+- das Ganze endet um ca. 18 Uhr
+
+Nochmals:
+Saxophone bitte wenn irgend möglich schon um 10:30 zur Probe. Danke!
+
+Eine Bitte noch: Im unten angefügten Text - der im Programmbuch 
+abgedruckt werden soll - bitte noch überprüfen:
+- den eigenen Namen (oder die der mitgebrachten Musiker)
+- dessen Schreibung
+- die tatsächliche Mitwirkung (umgekehrt nach solchen suchen, die 
+abgesagt haben und vielleicht doch drin stehen...)
+- die Ortsangabe
+
+Ganz herzlichen Dank und bitte jetzt jeden Abend und Morgen die Effekte 
+üben, damit das wirklich überzeugend kommt. Ich freue mich riesig auf 
+die Sache!
+
+Euer/Ihr
+-- 
+Christian Zech
+INTERNATIONALE BACHAKADEMIE STUTTGART
+Musikvermittlung
+Johann-Sebastian-Bach-Platz
+70178 Stuttgart
+tel 0711 - 61921 - 24 (di/mi/do) fax - 30
+mobil 0173 - 914 2780
+http://musikvermittlung.bachakademie.de
+--
+Dank
+Folgenden Personen und Institutionen gilt unser besonderer Dank für die 
+tatkräftige Hilfe beim Aufspüren und Vorbereiten unserer Hundertschaft 
+aus FlötistInnen und SaxophonistInnen:
+Birgit Maier-Dermann - Stuttgarter Musikschule \\\ Hartmut Seidler – 
+Musikschule Winnenden \\\ Natalie Küb-ler – Albershausen \\\ Josef 
+Distler – Holzblasinstrumente Stuttgart \\\ Gregor Böhmerle \\\ Ingo 
+Sadewasser \\\ Mark Kysela \\\ Gaby Pas-Van Riet \\\ Ulrike Böbel-Lude 
+\\\ Tanja Heinkel \\\ Sabine Holzinger \\\ Els Jordaens \\\ Claudia Kees 
+\\\ Johannes Tress
+
+Mitwirkende in alphabetischer Reihenfolge (soweit bekannt und benannt)
+Johannes Alsheimer - Stgt \\\ Paula Basset  -  Ostfildern \\\ Esther 
+Benitz  -  Stgt \\\ Jakob Benitz  -  Stgt \\\ Jennifer Blumhardt  - 
+Winnenden \\\ Ulrike Böbel-Lude  -  Stgt \\\ Natalie  Breckwoldt  - 
+Ettlingen-Oberweier \\\ Byuri Choi  -  Stgt \\\ Charlotte 
+Cremer-Jauregui  -  Stgt \\\ Adrian Domeyer  -  Tübingen \\\ Frank 
+Dvor-schak  -  Stgt \\\ Anika Eifert  -  Stgt \\\ Lisa Eisen  - 
+Weilimdorf \\\ Valerie Fetzer  -  Karlsruhe \\\ Natascha Fobler  -  Stgt 
+\\\ Zoe Frank  -  Stgt \\\ Kelar Frank  -  Stgt \\\ Klara Fritz  -  Stgt 
+\\\ Daniel Frosch  -  Karlsruhe \\\ Natalie Funk  -  Winnenden \\\ Julia 
+Gabel  -  Stgt \\\ Janin Gehler  -  Bissingen/Teck \\\ Thomas Gehler  - 
+  Bissingen/Teck \\\ Nina Gehler  -  Bissingen/Teck \\\ Franziska 
+Geiselhardt  -  Korntal \\\ Markus Grau   \\\ Annastasia Greguric  - 
+Stgt \\\ Daphne Günter  -  Tübingen \\\ Lucie Haas  -  Stgt \\\ Lena 
+Haasis  -  Leon-berg \\\ Johannes Hammer  -  Esslingen \\\ Corinna 
+Hänßler  -  Albershausen \\\ Aileen Harter  -  Korntal \\\ Lea Häußer  - 
+  Stgt \\\ Mareike Heegmann  -  Karlsruhe \\\ Marie-Theres Heilig  - 
+Bünzwangen \\\ Paul Helbig  -  Stgt \\\ Katharina Hof  -  Stgt \\\ 
+Denise Hofmann  -  Stgt \\\ Brigitte Hofmann  -  Murrhardt \\\ Sabine 
+Hol-zinger  -  Karlsruhe \\\ Carina Hoppenz   \\\ Magdalena Hutt  - 
+Stgt \\\ Klaudija Ivok  -  Karlsruhe \\\ Sonja Jickeli  -  Stgt \\\ 
+Andreas Jordan  -  Stgt \\\ Fritz Kästl  -  Stgt \\\ Angelika Kehrer  - 
+  Tübingen \\\ Louisa Kiefer  -  Stgt \\\ Carolin Kirschner  - 
+Vaihingen/Enz \\\ Julia Klatt  -  Winnenden \\\ Daniel Kling  - 
+Bietigheim-Bissingen \\\ Benjamin Knab  -  Karlsbad \\\ Ann-Kathrin Knab 
+  -  Karlsbad-Spielberg \\\ Jasmin Köller  -  GP-Holzheim \\\ Alexander 
+Kraft  -  Stgt \\\ David Kramer  -  Tübingen \\\ Hanna Kress  -  Stgt 
+\\\ Natalie  Kübler  -  Albershausen \\\ Tobias Lauster   \\\ Annika 
+Lehker  -  Winnenden \\\ Svenja Lukas  -  Stgt \\\ Birgit Maier-Dermann 
+  -  Stgt \\\ Ellen Merli  -  Stgt \\\ Michl Möllenbruck  -  Tübingen 
+\\\ Torben Müller   \\\ Carola Okkels  -  Stgt \\\ Melike Ömerogullari 
+-  Stgt \\\ Elisabeth Opfermann  -  Stgt \\\ Louise Pas  -  Stgt \\\ 
+Gaby Pas-Van Riet  -  Stgt \\\ Tochter Pas-Van Riet  -  Stgt \\\ Niklas 
+Pempe  -  Tübingen \\\ Oskar Pfender  -  Tübingen \\\ Robert 
+Pfender-Siedle  -  Tübingen \\\ Ute Pittelkow  -  Winnenden \\\ Lena 
+Prade  -  Winnenden \\\ Sonja Preu  -  Stgt \\\ Rebecca Rohner   \\\ 
+Raphael Rothschink   \\\ Meike Rudlaff  -  Stgt \\\ Lisa Marie Russ  - 
+Stgt \\\ Tatjana Sandhöfer  -  Pforzheim \\\ Luise Sanke  -  Stgt \\\ 
+Laura Schmalenberger  -  Stgt \\\ Miriam Schmidt  -  Stgt \\\ Anna 
+Schneitmann  -  Stgt \\\ Colien Schreiber  -  Winnenden \\\ Verena 
+Schutz  -  Win-nenden \\\ Sophie Shen  -  Stgt \\\ Ingo Skupin   \\\ 
+Pola Sonje  -  Stgt \\\ Rebecca Sonn   \\\ Moritz Spang   \\\ Hannah 
+Stahl  -  Stgt \\\ Armin Stuber   \\\ Katarina Talmann  -  Stgt \\\ 
+Johannes Tress  -  Esslingen \\\ Wiebke Vöhringer  -  Stgt \\\ Axel 
+Volle  -  Stgt \\\ Hannah Wagner  -  Stgt \\\ Isabel Waibel  -  Stgt \\\ 
+Elsa Walter  -  Tübingen \\\ Lena Wawrzynek  -  Winnenden \\\ Dorothee 
+Wertz  -  Köngen \\\ Nadja Wolke  -  Stgt \\\ Julia Wollny   \\\ Joscha 
+Wurzel  -  Tübingen \\\ Olivia Zakrzewski  -  Stgt \\\ Emil Zech  - 
+Lorch \\\ Vanessa Zeidler  -  Winnenden \\\ Sarah Zerfaß  -  Winnenden 
+\\\ Jonas Zilius  -  Karlsruhe
+

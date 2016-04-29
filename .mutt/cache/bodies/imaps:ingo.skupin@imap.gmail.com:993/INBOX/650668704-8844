@@ -1,0 +1,76 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.75.71 with SMTP id a7csp1008252lbw;
+        Sun, 5 Jul 2015 06:22:18 -0700 (PDT)
+X-Received: by 10.180.39.147 with SMTP id p19mr80324765wik.15.1436102538217;
+        Sun, 05 Jul 2015 06:22:18 -0700 (PDT)
+Return-Path: <n.allgaier@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.15.18])
+        by mx.google.com with ESMTPS id n3si10954813wib.89.2015.07.05.06.22.17
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 05 Jul 2015 06:22:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of n.allgaier@gmx.de designates 212.227.15.18 as permitted sender) client-ip=212.227.15.18;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of n.allgaier@gmx.de designates 212.227.15.18 as permitted sender) smtp.mail=n.allgaier@gmx.de
+Received: from [79.245.102.85] by 3capp-gmx-bs68.server.lan (via HTTP); Sun,
+ 5 Jul 2015 15:22:16 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-d50ae4d6-7bd1-47cd-abab-3cacbe5bc840-1436102536366@3capp-gmx-bs68>
+From: "Nicolas Allgaier" <n.allgaier@gmx.de>
+To: "Ingo Skupin" <ingo.skupin@gmail.com>, "Yvonne Gretzinger"
+ <yvonne.gretzinger@gmx.de>, "Orpheo Saxophone Quartett"
+ <orpheo-sax-quartett@gmx.de>, "Tobias Gruber" <tobias.gruber@posteo.de>
+Subject: Quartett-Termine
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 5 Jul 2015 15:22:16 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:K35grU2vg9lKNDYJvZz14IqHLdrA2Qrt3ZxePsGH5B8
+ CoygMZtV1igjqx59nqsVQBLE5usoMR3lQm0U3xSziIqqdSzEOp
+ tKEojytXuEADN8lVztvI4IVw1e+QovQfN+OnpH26hiCLZ6YqUS
+ t/gFPaIytxx8SDNsf/Yh+nbtWto4FT/Kg8UraTAcrroRKI+XOs
+ C3sOF0/BKshfRF5ymE4HEeYSzc2hZxnnfe7nPCgGlYtSjTp7R1
+ zsL5NHn8fQW+QgTxhQ3dNQSKQdaeAqJb0RWAwjvIwEATK/mrcH G87vdo=
+X-UI-Out-Filterresults: notjunk:1;V01:K0:oDKN4uYpgDE=:haEW10lgk0D3v9QwSPsaFR
+ FPIvx5aU+Vtx0Du3aVqN2JS9g0upDrymCJ9U2T6ibx3nJ/Z6C/Fm8IIuaWRdFjDevwk2GrjmA
+ iuPzOWsfnk0q9iBzV54EQSQ7bnNCwjo9KFzHqtXnv7Pl9A6bePnpvarWolASzWI0ngbbveyDS
+ WnGI/TiRIr8yXK159Rp4a5uuu7+ASX8BRttdFcYHWdcW+Utukxu2FJbDqpK1UZFHv3dx1Fo8c
+ 0oY7ezOfX1bqTvigFk8aMgMsRWQadO6Zpo3+VCpzO50mEv7gA6bjjUtIKSC/bYUrLH23N6Uhz
+ 0p/P/6g8gb/LMno9nIx1/5EbFMRgrqNBJ0Nzidv6ruSrsTuJCGkDg5A4ewOyi+1UsVnzFokjh
+ eEEMj2iXuKXUgYoBMHgKQUflifDnfs0tg5kbSTnsRlYrnMRJ9OLjMCApkq7O72d0Au7rel0w2
+ v3Rl8KSYfA==
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>vielen Dank f&uuml;r die rasche R&uuml;ckmeldung.</div>
+
+<div>&nbsp;</div>
+
+<div>Ich w&uuml;rde sagen dann machen wir am Fr. 31.07. um ca. 18.30 Uhr die Probe.</div>
+
+<div>Passt die Uhrzeit bei jedem... und wo wollt ihr an dem Tag am geschicktesten proben?</div>
+
+<div>&nbsp;</div>
+
+<div>Und dann halten wir uns doch, abh&auml;ngig vom Wetter, die folgenden Termine f&uuml;r den Bodensee mal frei:</div>
+
+<div>Sa 01.08.</div>
+
+<div>So 02.08. - nur wenn der 01.08. nicht klappt</div>
+
+<div>So 09.08.</div>
+
+<div>Sa 29.08.</div>
+
+<div>So 30.08. - nur wenn der 01.08. nicht klappt</div>
+
+<div>Das sieht ja echt gut aus... da wird es dann sicher ein/zwei Mal klappen ;-)</div>
+
+<div>&nbsp;</div>
+
+<div>Viele Gr&uuml;&szlig;e</div>
+
+<div>Nico</div></div></body></html>

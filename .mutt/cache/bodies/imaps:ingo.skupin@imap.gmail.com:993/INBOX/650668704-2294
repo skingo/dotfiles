@@ -1,0 +1,118 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.142.158.3 with SMTP id g3csp10034wfe;
+        Wed, 4 Apr 2012 14:14:46 -0700 (PDT)
+Received: by 10.68.233.99 with SMTP id tv3mr851259pbc.165.1333574086102;
+        Wed, 04 Apr 2012 14:14:46 -0700 (PDT)
+Return-Path: <no-reply@dropboxmail.com>
+Received: from sjc-mailman1.dropboxmail.com (sjc-mailman1.sjc.dropbox.com. [199.47.218.144])
+        by mx.google.com with ESMTPS id y1si2206137pbg.277.2012.04.04.14.14.46
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 04 Apr 2012 14:14:46 -0700 (PDT)
+Received-SPF: neutral (google.com: 199.47.218.144 is neither permitted nor denied by domain of no-reply@dropboxmail.com) client-ip=199.47.218.144;
+DomainKey-Status: good (test mode)
+Authentication-Results: mx.google.com; spf=neutral (google.com: 199.47.218.144 is neither permitted nor denied by domain of no-reply@dropboxmail.com) smtp.mail=no-reply@dropboxmail.com; domainkeys=pass (test mode) header.From=no-reply@dropboxmail.com
+Message-Id: <4f7cb9c6.211c440a.554d.77ceSMTPIN_ADDED@mx.google.com>
+Received: from sjc-batch2.sjc.dropbox.com (sjc-batch2.sjc.dropbox.com [199.47.217.138])
+	by sjc-mailman1.dropboxmail.com (Postfix) with ESMTP id B769A301A85
+	for <ingo.skupin@gmail.com>; Wed,  4 Apr 2012 21:14:45 +0000 (UTC)
+DomainKey-Signature: a=rsa-sha1; s=m1; d=dropboxmail.com; c=simple; q=dns;
+	b=u0Oa974xdA6taU7logLNzQedWCMQo3tJLSwNKAvhotb+NvAEVyxBU9XS2YK/vd7ZG
+	gaGrqmI8ceM68RDGTsBkKIFkIwJwYPLm1tKbJD8qVz7s5d6CGQTVJDI+3y8RNAHwGNI
+	dk5Zl9WVrrFLVICIKuH0fEAt2GUCP9vDE86JjEU=
+Content-Type: multipart/alternative;
+	boundary="===============5560920825846247864=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropboxmail.com>
+To: ingo.skupin@gmail.com
+Subject: Get 16 GB of Dropbox space for free!
+Date: Wed, 04 Apr 2012 21:14:45 +0000
+
+--===============5560920825846247864==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+
+Hi Ingo, 
+
+You can now earn twice as much free space by inviting your friends! 
+
+For each friend that installs Dropbox, you’ll both get 500 MB of free space. You can earn up to 16 GB. 
+
+Invite your friends now! https://www.dropbox.com/link/21.PAOZP-PArk
+
+Thanks for spreading the Dropbox love, 
+- The Dropbox Team
+
+P.S. Already invited a bunch of people? Don't worry! You'll get credited for all of them.
+
+If you prefer not to receive Dropbox newsletters, please visit https://www.dropbox.com/p/44467910427/171/174/7e7b697d7e689dac
+--===============5560920825846247864==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<table width="650" align="center" style="font-size: 14px;" cellpadding="0" cellspacing="0">
+        <tr id="topshadow">
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_tl.gif" bgcolor="#ffffff"></td>
+            <td height="10" background="https://www.dropbox.com/static/images/emails/shadow_top.gif" bgcolor="#ffffff"> </td>
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_tr.gif" bgcolor="#ffffff"> </td>
+        </tr>
+
+        <tr id="header">
+            <td width="10" background="https://www.dropbox.com/static/images/emails/shadow_left.gif" bgcolor="#ffffff" rowspan="2"></td>
+            <td height="102" background="https://www.dropbox.com/static/images/emails/header_bg.gif" bgcolor="#e6f1fb" align="center">
+                <table width="95%"><tr>
+                    <td align="left">
+                        <img src="https://www.dropbox.com/static/images/emails/email_logo.gif"/>
+                    </td>
+                </tr></table>
+            </td>
+            <td width="10" background="https://www.dropbox.com/static/images/emails/shadow_right.gif" bgcolor="#ffffff" rowspan="2"> </td>
+        </tr>
+
+        <tr id="content">
+            <td bgcolor="#f4faff" align="center">
+                <table width="95%" cellpadding="30">
+                    <tr>
+                        <td align="left">
+                            <font face="Lucida Grande, Segoe UI, Arial, Verdana, Lucida Sans Unicode, Tahoma, Sans Serif">
+    Hi Ingo, <br/><br/>
+You can now earn <strong>twice as much</strong> free space by inviting your friends! <br/><br/>
+For each friend that installs Dropbox, you’ll both get 500 MB of free space. You can earn up to 16 GB. <br/><br/>
+<a href="https://www.dropbox.com/link/21.FTD_jxrE5U">Invite your friends now!</a><br/><br/>
+Thanks for spreading the Dropbox love, <br/>
+- The Dropbox Team<br/><br/>
+P.S. Already invited a bunch of people? Don't worry! You'll get credited for all of them.
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+
+        <tr id="bottomshadow">
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_bl.gif" bgcolor="#ffffff"></td>
+            <td height="10" background="https://www.dropbox.com/static/images/emails/shadow_bottom.gif" bgcolor="#ffffff"> </td>
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_br.gif" bgcolor="#ffffff"> </td>
+        </tr>
+
+        
+    <tr id="copyright">
+        <td></td>
+        <td>
+            <table style="width: 100%;">
+                <tr>
+                    <td style="font-family: 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 9px; color: #909090; padding-left: 45px;">
+                        If you prefer not to receive Dropbox newsletters, please click <a href="https://www.dropbox.com/p/44467910427/171/174/7e7b697d7e689dac">here</a>.
+                    </td>
+                    <td align="right">
+                        <img src="https://www.dropbox.com/static/images/emails/gray_logo.gif" alt="" align="absmiddle"/>
+                        <span style="font-family: 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 11px; color: #888;">&copy;&nbsp;2012&nbsp;Dropbox</span>
+                    </td>
+                </tr>
+            </table>
+        </td>
+        <td></td>
+    </tr>
+    </table>
+--===============5560920825846247864==--

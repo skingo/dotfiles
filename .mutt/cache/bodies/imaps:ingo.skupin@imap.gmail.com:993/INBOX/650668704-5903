@@ -1,0 +1,278 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp232528pdd;
+        Thu, 27 Jun 2013 16:25:10 -0700 (PDT)
+X-Received: by 10.14.223.199 with SMTP id v47mr11159543eep.32.1372375509427;
+        Thu, 27 Jun 2013 16:25:09 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id s8si3163486ees.358.2013.06.27.16.25.08
+        for <ingo.skupin@gmail.com>;
+        Thu, 27 Jun 2013 16:25:09 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@skype.com
+Received: from ice.skype.com ([130.117.72.123]) by mx-ha.web.de (mxweb003)
+ with ESMTP (Nemesis) id 0LkNml-1UHd2F3LQ3-00cMme for <ingo.skupin@gmail.com>;
+ Fri, 28 Jun 2013 01:25:08 +0200
+Received: from ice.skype.com (localhost [127.0.0.1])
+	by ice.skype.com (Postfix) with ESMTP id 720121C55FC
+	for <ingo.skupin@web.de>; Thu, 27 Jun 2013 23:25:07 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=skype.com; h=date:from:to
+	:message-id:subject:mime-version:content-type; s=ice; bh=HpQs+0c
+	KaeyeuxJEczLAct1V+xk=; b=TLEM2d1YVOoyW2GJXLSZboN4TRecIVJfVivPfV/
+	zYyY1Nygu71ZLjQ1o5fDULrbsmxelcQ43tMtRSoEfxozlMLIxpE9WcYNvL0T4h5F
+	dGa9tOU7SIcbYamjxNlIlSHdqoousYuVynrt7NctXDNy9ygiLEm5+wPUkWKCLGoO
+	iAxE=
+Received: from lu1-wtools1 (dub-wtools1 [195.46.253.206])
+	by ice.skype.com (Postfix) with ESMTP id 62DE91C557E
+	for <ingo.skupin@web.de>; Thu, 27 Jun 2013 23:25:07 +0000 (UTC)
+Date: Thu, 27 Jun 2013 23:25:07 +0000 (GMT+00:00)
+From: Skype <noreply@notifications.skype.com>
+To: ingo.skupin@web.de
+Message-ID: <710520765.8009403.1372375507372.JavaMail.java@lu1-wtools1>
+Subject: Registered email successfully changed
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8009398_1809580728.1372375507317"
+
+------=_Part_8009398_1809580728.1372375507317
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+========================================================================
+
+============== THIS IS AN AUTOMATED MESSAGE, DO NOT REPLY ==============
+
+========================================================================
+
+
+Hi there skingo6,
+
+
+Registered email address successfully changed. We've updated your registered email address to ingo.skupin@gmail.com. Visit your account - http://api.skype.com/tracking/emails/click?m=7131000018482626580&go=myaccount&x=intcmp%3DT_167-_-P-_-270613-_-myaccount 
+to review your changes at any time.
+
+
+
+If you have not changed your email address, please contact Skype Customer Service with any questions as someone may have fraudulently gained access to your account. 
+
+
+
+
+
+
+
+Talk soon,
+The people at Skype
+
+
+
+
+== Getting help with Skype ==
+
+
+To contact us, visit our help section - http://api.skype.com/tracking/emails/click?m=7131000018482626580&go=help&x=intcmp%3DT_167-_-P-_-270613-_-help 
+on skype.com. You can also visit our forums - http://api.skype.com/tracking/emails/click?m=7131000018482626580&go=forum&x=intcmp%3DT_167-_-P-_-270613-_-forum 
+.
+
+
+========================================================================
+
+========================= PROTECT YOUR PASSWORD ========================
+
+========================================================================
+
+
+
+Skype staff will NEVER ask you for your password via email. The only places you are asked for your password are when you sign into Skype or on our website if you want to buy something or check your account. You will always sign in via a secure connection, and we ask you to ensure that the address in your browser begins exactly like this https://secure.skype.com. It should also show a little padlock symbol to indicate the secure connection.
+------=_Part_8009398_1809580728.1372375507317
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" />
+<title>Skype</title>
+</head>
+
+    <body style=3D"margin: 0; padding: 0; font-size: 14px; font-family: Hel=
+vetica, Arial, sans-serif; line-height: 19px; color: #333; background-color=
+: #ffffff;">
+
+    <!-- Header -->
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center=
+" width=3D"100%" style=3D"border-bottom: 1px dashed #ededed;">
+        <tr>
+            <td>
+                <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" ali=
+gn=3D"center" width=3D"600">
+                    <tr>
+                        <td style=3D"padding: 0 20px;" height=3D"40"><p sty=
+le=3D"font-size: 12px; line-height: 16px; font-family: Helvetica, Arial, sa=
+ns-serif; color: #999;">This is an automated email, please don=E2=80=99t re=
+ply.</p></td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+    <!-- Header -->
+    <!-- Body -->
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center=
+" width=3D"600">
+        <tr>
+            <td style=3D"padding-top: 20px; padding-right: 20px; padding-le=
+ft: 20px">
+                <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"560" align=3D"center">
+                    <tr>
+                             <td align=3D"left" width=3D"450">
+
+                            <h1 style=3D"font-size: 20px; font-weight: bold=
+; font-family: Helvetica, Arial, sans-serif; line-height: 28px; color: #999=
+;">Hi there skingo6,</h1>
+
+                        </td>
+                            <td align=3D"left" width=3D"110">
+
+                            <a href=3D"http://www.skype.com/" style=3D"line=
+-height: 0">
+                                <img src=3D"http://download.skype.com/share=
+/mailings/campaigns/200608emailframework/logo_newbrand.gif" border=3D"0" al=
+t=3D"www.skype.com" vspace=3D"20"/>
+                            </a>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        <tr>
+                    <td style=3D"padding-top: 40px; padding-right: 20px; pa=
+dding-left: 20px;">
+                        <h2 style=3D"font-weight: bold; font-size: 24px; fo=
+nt-family: Helvetica, Arial, sans-serif; line-height: 26px; color: #999; ma=
+rgin: 0;">Registered email successfully changed</h2>
+                    </td>
+        </tr>
+        <tr>
+                <td style=3D"padding: 20px 20px;">
+            <div style=3D"font: normal 14px Helvetica, Arial, sans-serif; l=
+ine-height: 19px; color: #333;">
+Registered email address successfully changed. We've updated your registere=
+d email address to ingo.skupin@gmail.com. <a style=3D"text-decoration: unde=
+rline; color: #00aff0; font-weight: bold;" href=3D"http://api.skype.com/tra=
+cking/emails/click?m=3D7131000018482626580&amp;go=3Dmyaccount&amp;x=3Dintcm=
+p%3DT_167-_-H-_-270613-_-myaccount">Visit your account</a> to review your c=
+hanges at any time.<br/>
+<br/>
+If you have not changed your email address, please contact Skype Customer S=
+ervice with any questions as someone may have fraudulently gained access to=
+ your account.=09
+            </div>
+            </td>
+        </tr>
+    </table>
+    <!-- Body -->
+
+    <!-- Sign off -->
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center=
+" width=3D"600">
+        <tr>
+            <td style=3D"padding-top: 30px; padding-right: 20px; padding-bo=
+ttom: 20px; padding-left: 20px;"><p style=3D"font-weight: bold; font-size: =
+18px; line-height: 24px; font-family: Helvetica, Arial, sans-serif; color: =
+#666; margin: 0;">
+                Talk soon,<br/> The people at Skype</p>
+            </td>
+        </tr>
+       =20
+        <!-- P.S. (Postscript) -->
+    </table>
+    <!-- Sign off -->
+    <!-- Footer -->
+    <table cellpadding=3D"0" cellspacing=3D"0" border=3D"0" align=3D"center=
+" width=3D"600">
+        <tr>
+            <td style=3D"padding-top: 20px; padding-right: 20px; padding-bo=
+ttom: 40px; padding-left: 20px; border-top: 1px solid #ededed;">
+                <p style=3D"font-size: 11px; line-height: 19px; font-family=
+: Helvetica, Arial, sans-serif; color: #b5b5b5; margin-bottom: 15px;">
+<a style=3D"text-decoration: underline; color: #00aff0; font-weight: bold;"=
+ href=3D"http://api.skype.com/tracking/emails/click?m=3D7131000018482626580=
+&amp;go=3Dforgotpassword&amp;x=3Dintcmp%3DT_167-_-H-_-270613-_-forgotpasswo=
+rd">Lost Password</a>                    <span style=3D"padding-right: 5px;=
+ padding-left: 5px;">&#183;</span>
+<a style=3D"text-decoration: underline; color: #00aff0; font-weight: bold;"=
+ href=3D"http://api.skype.com/tracking/emails/click?m=3D7131000018482626580=
+&amp;go=3Dmyaccount&amp;x=3Dintcmp%3DT_167-_-H-_-270613-_-myaccount">Accoun=
+t Settings</a>                    <span style=3D"padding-right: 5px; paddin=
+g-left: 5px;">&#183;</span>
+<a style=3D"text-decoration: underline; color: #00aff0; font-weight: bold;"=
+ href=3D"http://api.skype.com/tracking/emails/click?m=3D7131000018482626580=
+&amp;go=3Dhelp&amp;x=3Dintcmp%3DT_167-_-H-_-270613-_-help">Help</a>        =
+            <span style=3D"padding-right: 5px; padding-left: 5px;">&#183;</=
+span>
+<a style=3D"text-decoration: underline; color: #00aff0; font-weight: bold;"=
+ href=3D"http://api.skype.com/tracking/emails/click?m=3D7131000018482626580=
+&amp;go=3Dtos&amp;x=3Dintcmp%3DT_167-_-H-_-270613-_-tos">Terms of Use</a>  =
+                  <span style=3D"padding-right: 5px; padding-left: 5px;">&#=
+183;</span>
+<a style=3D"text-decoration: underline; color: #00aff0; font-weight: bold;"=
+ href=3D"http://api.skype.com/tracking/emails/click?m=3D7131000018482626580=
+&amp;go=3Dprivacy&amp;x=3Dintcmp%3DT_167-_-H-_-270613-_-privacy">Privacy</a=
+>                </p>
+
+                    <p style=3D"font-size: 11px; line-height: 19px; font-fa=
+mily: Helvetica, Arial, sans-serif; color: #b5b5b5; margin-bottom: 15px;">
+                        <strong>Getting help for Skype</strong><br />
+                        While you cannot reply to this email, you can conta=
+ct us through our <a style=3D"text-decoration: underline; color: #00aff0; f=
+ont-weight: bold;" href=3D"http://api.skype.com/tracking/emails/click?m=3D7=
+131000018482626580&amp;go=3Dhelp&amp;x=3Dintcmp%3DT_167-_-H-_-270613-_-help=
+">help section</a> for assistance.<br />
+You can also visit <a style=3D"text-decoration: underline; color: #00aff0; =
+font-weight: bold;" href=3D"http://api.skype.com/tracking/emails/click?m=3D=
+7131000018482626580&amp;go=3Dforum&amp;x=3Dintcmp%3DT_167-_-H-_-270613-_-fo=
+rum">our forums</a>.                    </p>
+
+                <p style=3D"font-size: 11px; line-height: 19px; font-family=
+: Helvetica, Arial, sans-serif; color: #b5b5b5; margin-bottom: 15px;">
+                    <strong>Protect Your Password</strong><br />
+Skype staff will NEVER ask you for your password via email. The only places=
+ you are asked for your password are when you sign in to Skype or on our we=
+bsite if you want to buy something or check your account. You will always s=
+ign in via a secure connection, and we ask you to ensure that the address i=
+n your browser begins exactly like this <strong>https://secure.skype.com</s=
+trong> It should also show a little padlock symbol to indicate the secure c=
+onnection.                </p>
+                <p style=3D"font-size: 11px; line-height: 19px; font-family=
+: Helvetica, Arial, sans-serif; color: #b5b5b5; margin-bottom: 15px;">
+
+
+                    Be alert to emails that request account information or =
+urgent action.  Be cautious of websites with irregular addresses or those t=
+hat offer=20
+unofficial Skype downloads. Security updates and product upgrades  are made=
+ available at <strong>www.skype.com</strong> or using the client's upgrade =
+function. </strong>
+                    <br /><br />
+                     <strong>&#169; 2003-2013 Skype Limited.
+                           Skype Communications S.a.r.l. 23-29 Rives de Cla=
+usen, L-2165 Luxembourg.
+                    </strong>=09=09=09=09<br />
+                       <strong> Skype, associated trademarks and logos and =
+the "S" symbol are trademarks of Skype.</strong>
+                </p>
+            </td>
+        </tr>
+    </table>
+    <!-- Footer -->
+<img src=3D"http://api.skype.com/tracking/emails/open/7131000018482626580.g=
+if"/>
+</body>
+</html>
+
+------=_Part_8009398_1809580728.1372375507317--

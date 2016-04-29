@@ -1,0 +1,310 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.196.155 with SMTP id eg27csp57450vcb;
+        Sat, 25 Feb 2012 09:25:26 -0800 (PST)
+Received: by 10.14.193.134 with SMTP id k6mr3141150een.114.1330190725877;
+        Sat, 25 Feb 2012 09:25:25 -0800 (PST)
+Return-Path: <erich.hermann@landesblasorchester.de>
+Received: from mo-p00-ob.rzone.de (mo-p00-ob.rzone.de. [81.169.146.162])
+        by mx.google.com with ESMTPS id u47si6108214eef.11.2012.02.25.09.25.20
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sat, 25 Feb 2012 09:25:25 -0800 (PST)
+Received-SPF: neutral (google.com: 81.169.146.162 is neither permitted nor denied by best guess record for domain of erich.hermann@landesblasorchester.de) client-ip=81.169.146.162;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 81.169.146.162 is neither permitted nor denied by best guess record for domain of erich.hermann@landesblasorchester.de) smtp.mail=erich.hermann@landesblasorchester.de; dkim=pass (test mode) header.i=@landesblasorchester.de
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; t=1330190720; l=11124;
+	s=domk; d=landesblasorchester.de;
+	h=Content-Type:MIME-Version:Date:Subject:To:From:X-RZG-CLASS-ID:
+	X-RZG-AUTH;
+	bh=eA9XO/n+BmIbtiqCOMybw3ewhlk=;
+	b=s+0lPL71lzAIFeZpCCjAy5VYQR+spxWZhr33l897TVfSp+UXRpIV3WH9tKotrwmsdfq
+	QOTRE55t7twxks9tpoa2mZk5NaAJp7bNlZFRWRc24evuQz/tm6iYGYRVLqswvg4SDlJV7
+	TInbowWxsfQSkHUHX/jILn3zQ+dmK/rtbW0=
+X-RZG-AUTH: :KX4Ndkjmc/oZU/t5tuJLTaYrSJgvyWN4+tv88kEQPSla/qtjg1z5kqLqFRMegKxC+nlZwl77oIMZs/3zU/4=
+X-RZG-CLASS-ID: mo00
+Received: from a8943 (e180062229.adsl.alicedsl.de [85.180.62.229])
+	by smtp.strato.de (cohen mo59) (RZmta 27.7 DYNA|AUTH)
+	with ESMTPA id g04e08o1PEm9kg ; Sat, 25 Feb 2012 18:25:00 +0100 (MET)
+From: "Erich Hermann" <erich.hermann@landesblasorchester.de>
+To: "'Erich LBO Hermann'" <erich.hermann@landesblasorchester.de>
+Subject: LBO - Probeplan 1. Arbeitsphase und Latest News
+Date: Sat, 25 Feb 2012 18:25:03 +0100
+Message-ID: <000b01ccf3e2$6c8c3c30$45a4b490$@landesblasorchester.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01CCF3EA.CE53FF90"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AczzydMjBvelpQrNQk+D0MwxY36CQg==
+Content-Language: de
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_000C_01CCF3EA.CE53FF90
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+Latest News vor der 1. Arbeitsphase =
+<http://www.landesblasorchester.de/lbo-intern/aktuelles/> :
+
+1.       Unsere Konzertsituation in diesem Jahr ist noch immer mehr als =
+bescheiden: es kamen keine neue Termine herein, also werden wir die =
+f=C3=BCr Fr=C3=BChjahr reservierten Termine schweren Herzens =
+freigegeben. Danke, dass Ihr die optionalen Termine so lange f=C3=BCrs =
+LBO freigehalten habt.
+
+Aber auch unser Herbst ist gef=C3=A4hrdet. Es gibt bisher keine feste =
+Konzertverpflichtung. Von daher geht der Aufruf an Euch alle, Eure =
+s=C3=A4mtlichen Kontakte anzuzapfen und mit zu helfen. Alle Ideen sind =
+willkommen. Wenn wir im Herbst spielen wollen, geht es nur =C3=BCber =
+unsere eigenen pers=C3=B6nlichen Verbindungen. Was man schriftlich, =
+telefonisch und sonst wie tun kann, ist bereits =
+geschehen=E2=80=A6=E2=80=A6.
+
+2.       aufgrund von Terminverschiebungen unseres Solisten Wolfgang =
+Meyer mussten wir den Probenplan =
+<http://www.landesblasorchester.de/lbo-intern/aktuelles/>  so umstellen, =
+dass die Solowerke am Freitagabend der 1. AP intensiv mit Solist geprobt =
+werden m=C3=BCssen. Die musikalische Vorbereitung unsererseits sollte =
+also sehr pr=C3=A4zise sein.=20
+
+Bernd Gaudera wird die Bigband-Proben =C3=BCbernehmen, da Isabelle den =
+Klavierpart spielt.
+
+3.       F=C3=BCr Marco Polo brauchen wir noch Eure Unterst=C3=BCtzung, =
+daher folgender Aufruf von Bernadette, die gerne Eure zahlreichen =
+Antworten entgegennimmt:=20
+
+Wir ben=C3=B6tigen f=C3=BCr unseren Marco Polo noch Klangschalen. Bisher =
+haben wir zwei, brauchen aber mindestens 4 St=C3=BCck; die =
+Gr=C3=B6=C3=9Fe ist nicht entscheidend! Frage also an euch:  Hat jemand =
+noch zuhause eine Klangschale stehen oder hat eine Idee, wo wir =
+kostenfrei/-g=C3=BCnstig noch zwei ausleihen k=C3=B6nnten?=20
+
+Ich w=C3=A4re Euch sehr dankbar f=C3=BCr eure Hilfe!
+
+Bernadette <mailto:Bernadette.Gloeckler@landesblasorchester.de>=20
+
+4.       Peter Teufel <mailto:tubateufel@freenet.de>  wird an der 1. AP =
+Karten (12,-- und 17,-- =E2=82=AC) f=C3=BCr das Konzert im Forum am =
+15.4. mitbringen. Der Vorverkauf =C3=BCber Easyticket hat letzte Woche =
+begonnen. Der Saalplan =
+<http://www.forum.ludwigsburg.de/servlet/PB/show/1236739/Datenblatt_Theat=
+ersaal_Uebersicht.pdf>  ist =C3=BCber das =E2=80=9EForum am Schlosspark =
+<http://www.forum.ludwigsburg.de/servlet/PB/menu/1234116_l1/index.html> =
+=E2=80=9C einzusehen.
+
+Bis n=C3=A4chsten Freitag,
+Erich
+
+=20
+
+=20
+
+=20
+
+=20
+
+
+------=_NextPart_000_000C_01CCF3EA.CE53FF90
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Nur Text Zchn";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{mso-style-priority:34;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:12.0pt;
+	margin-left:36.0pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+span.NurTextZchn
+	{mso-style-name:"Nur Text Zchn";
+	mso-style-priority:99;
+	mso-style-link:"Nur Text";
+	font-family:"Calibri","sans-serif";}
+span.E-MailFormatvorlage20
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+/* List Definitions */
+@list l0
+	{mso-list-id:1687487567;
+	mso-list-type:hybrid;
+	mso-list-template-ids:161361386 67567631 67567641 67567643 67567631 =
+67567641 67567643 67567631 67567641 67567643;}
+@list l0:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-9.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hallo =
+zusammen,<o:p></o:p></p><p class=3DMsoNormal><a =
+href=3D"http://www.landesblasorchester.de/lbo-intern/aktuelles/">Latest =
+News vor der 1. Arbeitsphase</a>:<o:p></o:p></p><p =
+class=3DMsoListParagraph style=3D'text-indent:-18.0pt;mso-list:l0 level1 =
+lfo2'><![if !supportLists]><span style=3D'mso-list:Ignore'>1.<span =
+style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span><![endif]>Unsere Konzertsituation in diesem Jahr ist noch =
+immer mehr als bescheiden: es kamen keine neue Termine herein, also =
+werden wir die f=C3=BCr Fr=C3=BChjahr reservierten Termine schweren =
+Herzens freigegeben. Danke, dass Ihr die optionalen Termine so lange =
+f=C3=BCrs LBO freigehalten habt.<o:p></o:p></p><p =
+class=3DMsoListParagraph>Aber auch unser Herbst ist gef=C3=A4hrdet. Es =
+gibt bisher <b><u>keine </u></b>feste Konzertverpflichtung. Von daher =
+geht der Aufruf an Euch alle, Eure s=C3=A4mtlichen Kontakte anzuzapfen =
+und mit zu helfen. Alle Ideen sind willkommen. Wenn wir im Herbst =
+spielen wollen, geht es nur =C3=BCber unsere eigenen pers=C3=B6nlichen =
+Verbindungen. Was man schriftlich, telefonisch und sonst wie tun kann, =
+ist bereits geschehen=E2=80=A6=E2=80=A6.<o:p></o:p></p><p =
+class=3DMsoListParagraph style=3D'text-indent:-18.0pt;mso-list:l0 level1 =
+lfo2'><![if !supportLists]><span style=3D'mso-list:Ignore'>2.<span =
+style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span><![endif]>aufgrund von Terminverschiebungen unseres =
+Solisten Wolfgang Meyer mussten wir den <a =
+href=3D"http://www.landesblasorchester.de/lbo-intern/aktuelles/">Probenpl=
+an</a> so umstellen, dass die Solowerke am Freitagabend der 1. AP =
+intensiv mit Solist geprobt werden m=C3=BCssen. Die musikalische =
+Vorbereitung unsererseits sollte also sehr pr=C3=A4zise sein. =
+<o:p></o:p></p><p class=3DMsoNormal style=3D'text-indent:35.4pt'>Bernd =
+Gaudera wird die Bigband-Proben =C3=BCbernehmen, da Isabelle den =
+Klavierpart spielt.<o:p></o:p></p><p class=3DMsoListParagraph =
+style=3D'text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if =
+!supportLists]><span style=3D'mso-list:Ignore'>3.<span =
+style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; =
+</span></span><![endif]>F=C3=BCr Marco Polo brauchen wir noch Eure =
+Unterst=C3=BCtzung, daher folgender Aufruf von Bernadette, die gerne =
+Eure zahlreichen Antworten entgegennimmt: <o:p></o:p></p><p =
+class=3DMsoListParagraph =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin=
+-left:70.8pt;margin-bottom:.0001pt'><i>Wir ben=C3=B6tigen f=C3=BCr =
+unseren Marco Polo noch Klangschalen. Bisher haben wir zwei, brauchen =
+aber mindestens 4 St=C3=BCck; die Gr=C3=B6=C3=9Fe ist nicht =
+entscheidend! Frage also an euch:=C2=A0 Hat jemand noch zuhause eine =
+Klangschale stehen oder hat eine Idee, wo wir kostenfrei/-g=C3=BCnstig =
+noch zwei ausleihen k=C3=B6nnten? <o:p></o:p></i></p><p =
+class=3DMsoListParagraph =
+style=3D'mso-margin-top-alt:0cm;margin-right:0cm;margin-bottom:0cm;margin=
+-left:70.8pt;margin-bottom:.0001pt'><i>Ich w=C3=A4re Euch sehr dankbar =
+f=C3=BCr eure Hilfe!<o:p></o:p></i></p><p class=3DMsoListParagraph =
+style=3D'margin-left:70.8pt'><i><a =
+href=3D"mailto:Bernadette.Gloeckler@landesblasorchester.de">Bernadette</a=
+><o:p></o:p></i></p><p class=3DMsoListParagraph =
+style=3D'text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if =
+!supportLists]><span style=3D'mso-list:Ignore'>4.<span =
+style=3D'font:7.0pt "Times New =
+Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span><![endif]><a =
+href=3D"mailto:tubateufel@freenet.de">Peter Teufel</a> wird an der 1. AP =
+Karten (12,-- und 17,-- =E2=82=AC) f=C3=BCr das Konzert im Forum am =
+15.4. mitbringen. Der Vorverkauf =C3=BCber Easyticket hat letzte Woche =
+begonnen. Der <a =
+href=3D"http://www.forum.ludwigsburg.de/servlet/PB/show/1236739/Datenblat=
+t_Theatersaal_Uebersicht.pdf">Saalplan</a> ist =C3=BCber das =E2=80=9E<a =
+href=3D"http://www.forum.ludwigsburg.de/servlet/PB/menu/1234116_l1/index.=
+html">Forum am Schlosspark</a>=E2=80=9C einzusehen.<o:p></o:p></p><p =
+class=3DMsoNormal>Bis n=C3=A4chsten Freitag,<br>Erich<o:p></o:p></p><p =
+class=3DMsoListParagraph><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_000C_01CCF3EA.CE53FF90--
+

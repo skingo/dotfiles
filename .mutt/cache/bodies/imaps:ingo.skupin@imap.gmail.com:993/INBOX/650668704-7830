@@ -1,0 +1,57 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp251869pdt;
+        Tue, 22 Jul 2014 14:29:10 -0700 (PDT)
+X-Received: by 10.194.187.4 with SMTP id fo4mr24113330wjc.35.1406064549784;
+        Tue, 22 Jul 2014 14:29:09 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id bz3si623937wjc.41.2014.07.22.14.29.08
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 22 Jul 2014 14:29:09 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb005)
+ with ESMTPS (Nemesis) id 0MVNgE-1X1P6Q05pG-00Yflf for
+ <ingo.skupin@gmail.com>; Tue, 22 Jul 2014 23:29:08 +0200
+Received: from mout.gmx.net ([212.227.15.18]) by mx-ha.web.de (mxweb005) with
+ ESMTPS (Nemesis) id 0LtHdT-1WP40d05aV-012lv0 for <ingo.skupin@web.de>; Tue,
+ 22 Jul 2014 23:29:08 +0200
+Received: from mout.gmx.net ([212.227.17.22]) by mx-ha.gmx.net (mxgmx004) with
+ ESMTPS (Nemesis) id 0LtUkm-1WQQf50ufM-010uRd; Tue, 22 Jul 2014 23:28:47 +0200
+Received: from [149.172.179.171] by 3capp-gmx-bs07.server.lan (via HTTP);
+ Tue, 22 Jul 2014 23:28:46 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-bbe07b16-4c80-4749-9aaf-1d9d0479195f-1406064526722@3capp-gmx-bs07>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de,
+ BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de
+Subject: Volksfest 2014
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 22 Jul 2014 23:28:46 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:CRdfL/q0n2nMyLfktJ/cQJ6du2RulORZQHJf8vRsSqg
+ h4FG8KAjmvuojaehlISK3cKaGxrqM2Rb1jj2UXkUES+lHpUzqf
+ fa2C+ruRJ7h9+5gZprftnCnPNQdYaYuO2lDVMJ9Zm6dgyXzjMx
+ NztLuFwFwi3TgTLi/y+Blac8OpsfJY6OjEXpvD++QyWWPX5kMW
+ 24XB12eK/MoIVmjqxgDY1bNvoHHWdVx+o62z8zmEa4tihGwKPV
+ DYxNsdtpFI8mJzTWeK2QV8G3qUplpqj0oNGgBPvcncZYmLxSuD GgwMNc=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,<br/>
+der Timo hat ja vorher in der Probe schon gesagt, dass es dieses Jahr wieder die M&ouml;glichkeit gibt beim Volksfest im F&uuml;rstenbergzelt zu reservieren.</div>
+
+<div><br/>
+F&uuml;r 8,50&euro; gibt es ein Ma&szlig; Bier und ein Essen, zus&auml;tzlich k&ouml;nnen im Voraus noch Biermarken f&uuml;r 5,50&euro; bestellt werden.<br/>
+Bitte tragt euch, wenn ihr mit wollt, mit eurem Namen in der Doodelliste ein. Bei Bedarf an zus&auml;tzlichen Biermarken die Anzahl der gew&uuml;nschten Zusatzbiermarken hinter den Name schreiben.</div>
+
+<div><br/>
+http://goo.gl/CbIkDF</div>
+
+<div>&nbsp;</div>
+
+<div>Bestellen werde ich das ganze dann am 6. August. Bis dahin solltet ihr euch eingetragen haben und mir den entsprechenden Betrag gegeben haben.<br/>
+&nbsp;<br/>
+Gru&szlig; Benni</div></div></body></html>

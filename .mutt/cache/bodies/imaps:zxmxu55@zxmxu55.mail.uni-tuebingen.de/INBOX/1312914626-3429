@@ -1,0 +1,298 @@
+Return-Path: <paulscheub@gmx.net>
+Received: from lmtpproxyd (dmail03.mail.localhost [10.23.21.43])
+	 by ma03.mail.localhost (Cyrus v2.4.18) with LMTPSA
+	 (version=TLSv1/SSLv3 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256/256 verify=YES);
+	 Sat, 02 Apr 2016 19:33:55 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mailserv03.uni-tuebingen.de ([unix socket])
+	 by mailserv03.uni-tuebingen.de (Cyrus v2.4.18) with LMTPA;
+	 Sat, 02 Apr 2016 19:33:55 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mx05.uni-tuebingen.de (mx05.uni-tuebingen.de [134.2.5.215])
+	by mailserv03.uni-tuebingen.de (Postfix) with ESMTPS id 94AC83AA484
+	for <zxmxu55@mailserv03.uni-tuebingen.de>; Sat,  2 Apr 2016 19:33:55 +0200 (CEST)
+Received: from mfilter-154-1-3.mx.srv.dfn.de (mfilter-154-1-3.mx.srv.dfn.de [194.95.238.90])
+	by mx05.uni-tuebingen.de (Postfix) with ESMTPS id 82A07406A1E8
+	for <ingo.skupin@student.uni-tuebingen.de>; Sat,  2 Apr 2016 19:33:55 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mfilter-154-1-3.mx.srv.dfn.de (Postfix) with ESMTP id 795F414010B
+	for <ingo.skupin@student.uni-tuebingen.de>; Sat,  2 Apr 2016 19:33:55 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mgw2-erl.srv.dfn.de
+Received: from mfilter-154-1-3.mx.srv.dfn.de ([127.0.0.1])
+	by localhost (mgw2-erl.srv.dfn.de [127.0.0.1]) (amavisd-new, port 11540)
+	with ESMTP id THDzYVhwPRYc for <ingo.skupin@student.uni-tuebingen.de>;
+	Sat,  2 Apr 2016 19:33:54 +0200 (CEST)
+Received: from mout.gmx.net (mout.gmx.net [212.227.15.15])
+	by mfilter-154-1-3.mx.srv.dfn.de (Postfix) with ESMTPS
+	for <ingo.skupin@student.uni-tuebingen.de>; Sat,  2 Apr 2016 19:33:54 +0200 (CEST)
+Received: from pauls-macbook-air.fritz.box ([93.219.20.87]) by mail.gmx.com
+ (mrgmx003) with ESMTPSA (Nemesis) id 0LyVpm-1bsJZn1hUE-015t8i for
+ <ingo.skupin@student.uni-tuebingen.de>; Sat, 02 Apr 2016 19:33:53 +0200
+From: Paul Scheub <paulscheub@gmx.net>
+Mime-Version: 1.0 (Apple Message framework v1283)
+Content-Type: multipart/alternative; boundary="Apple-Mail=_49A0C72E-06D1-42EA-BB8B-0EC8DB8CFEF1"
+Subject: Re: Semestervorbereitung
+Date: Sat, 2 Apr 2016 19:33:53 +0200
+In-Reply-To: <56FEE154.5050806@student.uni-tuebingen.de>
+To: Ingo Skupin <ingo.skupin@student.uni-tuebingen.de>
+References: <42BD5F0D-134F-49F6-9F1C-731741421953@gmx.net> <56FA8C9B.109@student.uni-tuebingen.de> <444A7C3F-9697-44B0-9E4B-6CEDC6348B68@gmx.net> <56FA92FE.4020402@student.uni-tuebingen.de> <F861DBE4-E8DC-49FE-BC52-27165EBB6703@gmx.net> <56FEE154.5050806@student.uni-tuebingen.de>
+Message-Id: <691E5ABC-601B-4259-962F-B9C979C67803@gmx.net>
+X-Mailer: Apple Mail (2.1283)
+X-Provags-ID: V03:K0:09GPHtOp21vI2VWacb6N17xSahVbqBMfrIf8nOZJ2zq74mSoA1F
+ KGf+FPfAg12FRDcFvNY3B2qENRK9gmIXmKidpCLUCYHrHE9TrzrKMfq8weF+OcHIXjwZuHL
+ TvxHbgBmHY1OEGW8R2so+/IvmF+GgVJlRyeUzt+9Sru7+IZS4mr2Rsdeve3hXfJ9GXuvUju
+ 4SzwmT+SRSyRVw7v9D6mQ==
+X-UI-Out-Filterresults: notjunk:1;V01:K0:1f/RUBoGkVs=:O2w9nEspu0RsVq2UDRwioQ
+ EwwtLBoZquFlJ3EQJ0YEfxKaevwih6RqCuMPQ4gIq+MiTdqT1bNtUGM+PodTyx9fQzW94GSgB
+ iN34bmhQM5f5UPJwF1t6jjlUYhiP5i0TSB89/f5epxmxPGCQ2A/SXMxfaLS4JibMn1BwgS21m
+ FXJUlIqAUjFDBW4CRqdQTQkb9LEKu0QFOnizekZs/PuCTU5LtczPV2ClR+wwOh0l+1lIlI0sc
+ Y3G+tMC0xkSSq+1wBn9WPWBYA+XrqWBdQ0YTtlZD24F91OtjJHkO4/D8vusGyiCxTYrcuSMkh
+ XH9R9b/LXPyllTSWl48lx4nIPzKLqwTfSpU66kRK7/szrncl8BjsMCtZtgX9MtgjEMcLRx0BO
+ a6eDw2RTC4v5tCQftLQ8X2NHtdSV3viW69l4U9p0Hd5B5VkoACTq1gxycUM3+1Oed26WLSGom
+ mMac3zIZjyA1S2cWwxJ5WDdriD7hpOuC5GSl1dyuOlAl2CPwuBnrWNy/hM3lxDfbFJx+Y9UE5
+ YIGEAAn2HBe7JN+eTcrIfpQtarR/hg5UnOkJNM3wHCvcjlXGrBwhSyacZWwEZ7fQXDj6nlBuG
+ nFUpnRODevOXyhsMbnAs4ufBY/Osf+r8eQt06dZwoleB0x/qNG2tSSJFLewK7N0qjDVHpINvK
+ ufISvWhK+euULsYeh8kR6oq7ErjAJxUDKPK287F4fA4Gx6lDUvS1KdZVLG1Er4wuM7CroxfH5
+ 6Gymhmh4waxsylWia2Ob1SvjM3blgPtsScyUDUdhz6p4skzBWiD3kKGVJ2I4u7663tTJJxQQv
+ lQrjrjj
+
+
+--Apple-Mail=_49A0C72E-06D1-42EA-BB8B-0EC8DB8CFEF1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=windows-1252
+
+Machen wir so!
+Paul Scheub
+
+
+
+Am 01.04.2016 um 23:00 schrieb Ingo Skupin:
+
+> Hi,
+>=20
+> Montag geht bei mir leider nicht, aber Dienstag w=FCrde gehen.
+> 11 Uhr?
+>=20
+> Gru=DF,
+> Ingo
+>=20
+> On 01.04.2016 20:26, Paul Scheub wrote:
+>> W=E4re das f=FCr dich okay, wenn wir uns am Montag um 11 vor der =
+Mathebibliothek treffen?
+>> Paul Pascal Scheub
+>>=20
+>>=20
+>>=20
+>> Am 29.03.2016 um 16:36 schrieb Ingo Skupin:
+>>=20
+>>> Ah, das macht nat=FCrlich Sinn.
+>>> K=F6nnen wir gerne in Angriff nehmen.
+>>> Einen konkreten Termin ausmachen ist grade noch ungeschickt, weil =
+ich
+>>> noch ein/zwei Termine f=FCr n=E4chste Woche festlegen muss, aber im =
+Prinzip
+>>> bin ich daf=FCr.
+>>> Sollen wir einfach mal beide in die ersten paar Kapitel reinschauen =
+und
+>>> ich melde mich noch mal, sobald ich terminm=E4=DFig Genaueres wei=DF?
+>>>=20
+>>> Gru=DF,
+>>> Ingo
+>>>=20
+>>> On 29.03.2016 16:15, Paul Scheub wrote:
+>>>> Also wenn ich das richtig verstanden habe, wollen wir ja beide die =
+Stochastik h=F6ren und haben beide das Problem, keine richtige =
+Einf=FChrung in die Ma=DFtheorie bekommen zu haben, wie das nach Plan im =
+Vorsemester passieren sollte. Da ich sowieso schon immer mehr =FCber =
+Ma=DFtheorie lernen wollte, k=F6nnte man die Woche nutzen, um wenigstens =
+die ersten Kapitel im Elstrodt zu lesen und sich beispielsweise =
+gegenseitig die Aufgaben vorzustellen u.=C4. Wenn das Spa=DF macht und =
+wir noch weiter kommen wollen, k=F6nnten wir das in der VL-Zeit und zu =
+Pfingsten extensiv fortf=FChren. Wenn dir das zielm=E4=DFig zu unkonkret =
+ist, k=F6nnen wir sicherlich auch eine Probeklausur beschaffen...
+>>>> Paul Pascal Scheub
+>>>>=20
+>>>>=20
+>>>>=20
+>>>> Am 29.03.2016 um 16:09 schrieb Ingo Skupin:
+>>>>=20
+>>>>> Hi,
+>>>>>=20
+>>>>> was genau ist denn dein Ziel?
+>>>>> Soll hei=DFen: auf was genau willst du dich denn vorbereiten?
+>>>>>=20
+>>>>> Gru=DF,
+>>>>> Ingo
+>>>>>=20
+>>>>> On 29.03.2016 15:42, Paul Scheub wrote:
+>>>>>> Hallo Ingo,
+>>>>>> hast du n=E4chste Woche viel Zeit? Dann k=F6nnten wir uns doch =
+mal zusammen den Elstrodt vorkn=F6pfen. Ich habe =C4hnliches schon seit =
+einer Woche versucht, aber so ganz allein kann ich einfach nicht =
+vern=FCnftig lernen.=20
+>>>>>> Paul Scheub
+>>>>>>=20
+>>>>>>=20
+>>>>>>=20
+>>>>>>=20
+>>>>> <0xE4D4A933.asc>
+>>>>=20
+>>>>=20
+>>> <0xE4D4A933.asc>
+>>=20
+>>=20
+> <0xE4D4A933.asc>
+
+
+--Apple-Mail=_49A0C72E-06D1-42EA-BB8B-0EC8DB8CFEF1
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=windows-1252
+
+<html><head></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space; =
+">Machen wir so!<br><div>
+<span class=3D"Apple-style-span" style=3D"border-collapse: separate; =
+color: rgb(0, 0, 0); font-family: Helvetica; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: 2; text-align: -webkit-auto; text-indent: =
+0px; text-transform: none; white-space: normal; widows: 2; word-spacing: =
+0px; -webkit-border-horizontal-spacing: 0px; =
+-webkit-border-vertical-spacing: 0px; =
+-webkit-text-decorations-in-effect: none; -webkit-text-size-adjust: =
+auto; -webkit-text-stroke-width: 0px; font-size: medium; "><div>Paul =
+Scheub</div><div><br></div></span><br class=3D"Apple-interchange-newline">=
+
+</div>
+<br><div><div>Am 01.04.2016 um 23:00 schrieb Ingo Skupin:</div><br =
+class=3D"Apple-interchange-newline"><blockquote =
+type=3D"cite"><div>Hi,<br><br>Montag geht bei mir leider nicht, aber =
+Dienstag w=FCrde gehen.<br>11 Uhr?<br><br>Gru=DF,<br>Ingo<br><br>On =
+01.04.2016 20:26, Paul Scheub wrote:<br><blockquote type=3D"cite">W=E4re =
+das f=FCr dich okay, wenn wir uns am Montag um 11 vor der =
+Mathebibliothek treffen?<br></blockquote><blockquote type=3D"cite">Paul =
+Pascal Scheub<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite">Am 29.03.2016 =
+um 16:36 schrieb Ingo Skupin:<br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><blockquote type=3D"cite"><blockquote =
+type=3D"cite">Ah, das macht nat=FCrlich =
+Sinn.<br></blockquote></blockquote><blockquote type=3D"cite"><blockquote =
+type=3D"cite">K=F6nnen wir gerne in Angriff =
+nehmen.<br></blockquote></blockquote><blockquote type=3D"cite"><blockquote=
+ type=3D"cite">Einen konkreten Termin ausmachen ist grade noch =
+ungeschickt, weil ich<br></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite">noch ein/zwei Termine f=FCr =
+n=E4chste Woche festlegen muss, aber im =
+Prinzip<br></blockquote></blockquote><blockquote type=3D"cite"><blockquote=
+ type=3D"cite">bin ich daf=FCr.<br></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite">Sollen wir einfach mal beide in =
+die ersten paar Kapitel reinschauen =
+und<br></blockquote></blockquote><blockquote type=3D"cite"><blockquote =
+type=3D"cite">ich melde mich noch mal, sobald ich terminm=E4=DFig =
+Genaueres wei=DF?<br></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite">Gru=DF,<br></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite">Ingo<br></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite">On 29.03.2016 16:15, Paul Scheub =
+wrote:<br></blockquote></blockquote><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite">Also wenn ich das richtig =
+verstanden habe, wollen wir ja beide die Stochastik h=F6ren und haben =
+beide das Problem, keine richtige Einf=FChrung in die Ma=DFtheorie =
+bekommen zu haben, wie das nach Plan im Vorsemester passieren sollte. Da =
+ich sowieso schon immer mehr =FCber Ma=DFtheorie lernen wollte, k=F6nnte =
+man die Woche nutzen, um wenigstens die ersten Kapitel im Elstrodt zu =
+lesen und sich beispielsweise gegenseitig die Aufgaben vorzustellen u.=C4.=
+ Wenn das Spa=DF macht und wir noch weiter kommen wollen, k=F6nnten wir =
+das in der VL-Zeit und zu Pfingsten extensiv fortf=FChren. Wenn dir das =
+zielm=E4=DFig zu unkonkret ist, k=F6nnen wir sicherlich auch eine =
+Probeklausur =
+beschaffen...<br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote type=3D"cite">Paul =
+Pascal Scheub<br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote type=3D"cite">Am =
+29.03.2016 um 16:09 schrieb Ingo =
+Skupin:<br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite">Hi,<br></blockquote></blockquote></blockquote></blockquote><=
+blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote></blockquote><blo=
+ckquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite">was genau ist denn dein =
+Ziel?<br></blockquote></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite">Soll hei=DFen: auf was genau =
+willst du dich denn =
+vorbereiten?<br></blockquote></blockquote></blockquote></blockquote><block=
+quote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote></blockquote><blo=
+ckquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite">Gru=DF,<br></blockquote></blockquote></blockquote></blockquo=
+te><blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite">Ingo<br></blockquote></blockquote></blockquote></blockquote>=
+<blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote></blockquote><blo=
+ckquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite">On 29.03.2016 15:42, Paul Scheub =
+wrote:<br></blockquote></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote type=3D"cite">Hallo =
+Ingo,<br></blockquote></blockquote></blockquote></blockquote></blockquote>=
+<blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote type=3D"cite">hast =
+du n=E4chste Woche viel Zeit? Dann k=F6nnten wir uns doch mal zusammen =
+den Elstrodt vorkn=F6pfen. Ich habe =C4hnliches schon seit einer Woche =
+versucht, aber so ganz allein kann ich einfach nicht vern=FCnftig =
+lernen. =
+<br></blockquote></blockquote></blockquote></blockquote></blockquote><bloc=
+kquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote type=3D"cite">Paul =
+Scheub<br></blockquote></blockquote></blockquote></blockquote></blockquote=
+><blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote></blockquote></bl=
+ockquote><blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote></blockquote></bl=
+ockquote><blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote></blockquote></bl=
+ockquote><blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote></blockquote></bl=
+ockquote><blockquote type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite">&lt;0xE4D4A933.asc&gt;<br></blockquote></blockquote></blockq=
+uote></blockquote><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote type=3D"cite"><blockquote =
+type=3D"cite"><br></blockquote></blockquote></blockquote><blockquote =
+type=3D"cite"><blockquote =
+type=3D"cite">&lt;0xE4D4A933.asc&gt;<br></blockquote></blockquote><blockqu=
+ote type=3D"cite"><br></blockquote><blockquote =
+type=3D"cite"><br></blockquote><span>&lt;0xE4D4A933.asc&gt;</span></div></=
+blockquote></div><br></body></html>=
+
+--Apple-Mail=_49A0C72E-06D1-42EA-BB8B-0EC8DB8CFEF1--

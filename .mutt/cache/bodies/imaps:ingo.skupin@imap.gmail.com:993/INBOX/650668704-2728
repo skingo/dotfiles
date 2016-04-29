@@ -1,0 +1,185 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.4 with SMTP id b4csp115552vcj;
+        Sun, 13 May 2012 01:53:01 -0700 (PDT)
+Received: by 10.180.24.103 with SMTP id t7mr10079845wif.16.1336899180735;
+        Sun, 13 May 2012 01:53:00 -0700 (PDT)
+Return-Path: <stevekoch@gmx.de>
+Received: from mailout-de.gmx.net (mailout-de.gmx.net. [213.165.64.23])
+        by mx.google.com with SMTP id c7si14577649wia.20.2012.05.13.01.53.00;
+        Sun, 13 May 2012 01:53:00 -0700 (PDT)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 213.165.64.23 as permitted sender) client-ip=213.165.64.23;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of stevekoch@gmx.de designates 213.165.64.23 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: (qmail invoked by alias); 13 May 2012 08:52:59 -0000
+Received: from p57B44BF3.dip.t-dialin.net (EHLO skoch) [87.180.75.243]
+  by mail.gmx.net (mp035) with SMTP; 13 May 2012 10:52:59 +0200
+X-Authenticated: #10157959
+X-Provags-ID: V01U2FsdGVkX19IG8dYhnVIK4TJMQmYaZ3Z++OOPjdcFHWzwakpK+
+	1roVNbXMtSRjai
+Message-ID: <06ADE97DE53046EDBB0822992EA9A491@skoch>
+From: "Stefan Koch" <stevekoch@gmx.de>
+To: "Erik Gebauer" <gebauer.erik@web.de>,
+	"Eric Seliger" <e.seliger@yahoo.de>,
+	"Verena Geschke" <Verena.Geschke@gmx.net>,
+	"Julia Glaser" <juliaglaser1@gmx.de>,
+	<carolin_michel92@web.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	=?utf-8?Q?Andr=C3=A9_Haspel?= <andre.haspel@web.de>,
+	"Janina Haspel" <janina.haspel@web.de>,
+	"Kristina Kraemer" <kristina.kraemer@akris.de>,
+	"Kerstin Kimmich" <Kerstin.Kimmich@gmx.de>,
+	"Alexandra Gress" <alexandra_gress@web.de>,
+	"Kathrin Hakenjos" <kathrin_hakenjos@web.de>,
+	"Maren Schlecht" <marenschlecht@gmx.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Jasmin Wagner" <JasminFVWagner@t-online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	=?utf-8?Q?Philipp_Gr=C3=B6ber?= <groeber_95@web.de>,
+	"Lisa Richter" <lisarichter93@hotmail.de>,
+	<tobias-funk@gmx.de>,
+	"Katharina Schneider" <schneider_katharina@t-online.de>,
+	=?utf-8?Q?David_K=C3=BCchle?= <D1V23@aol.com>,
+	"Annika Vesenmaier" <an.ve@arcor.de>,
+	"Theresa Siegler" <theresa.siegler@googlemail.com>,
+	"Lisa Speidel" <lisaspeidel@t-online.de>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Benedikt Thum" <benny@jr-it.de>,
+	"Fanny Rothe" <fanny@wolber-rothe.de>,
+	"Gina Maier" <gina.maier@web.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Christoph Korschinek" <christoph@korschinek.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	=?utf-8?Q?Michael_Pf=C3=A4nder?= <Michi110793@aol.com>,
+	"Steffen Sigmund" <j.sigmund@t-online.de>,
+	=?utf-8?Q?Florian_Strau=C3=9F?= <strauss-florian@web.de>,
+	"Jens Veeser" <jens@veeser.net>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Lukas Sigle" <lukas.sigler@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Sonja Hojdar" <Lutz.Sonja@gmx.de>,
+	"Christoph Koschei" <koschi_99@web.de>,
+	<janina_schott@web.de>,
+	<jonaskolibius@web.de>,
+	<oliiiiver@hotmail.de>,
+	<florian-floriaus@web.de>,
+	<nico.felbinger@web.de>,
+	<felix.koschei@freenet.de>,
+	"Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+	"Hans-peter Oberlander" <hp.oberlander@yahoo.de>,
+	<jakob.krenn@t-online.de>,
+	"Marian Basta" <m-basta@web.de>,
+	"Marvin Schaich" <Marvin.Schaich@t-online.de>,
+	<chrisbaur@hotmail.de>,
+	<matze.albrecht@web.de>,
+	<uli__kurz@t-online.de>,
+	<smachanek@web.de>,
+	<nmachanek@web.de>,
+	"Wolfgang Kurz" <kurz.wau@t-online.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	<Baurlu@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	"Steffen Ruf" <steffen.ruf@kjo-esslingen.de>,
+	"Simone S" <SimoneSeybold@gmx.de>,
+	<engel.luisa@web.de>,
+	"Tina Bidlingmaier" <tina_bidlingmaier@yahoo.de>,
+	<vanessa.wuensch@web.de>,
+	<ingo.skupin@gmail.com>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	"Th. Rotter" <T.Rotter@t-online.de>,
+	"Paul Jacot" <paul.jacot@gmx.net>
+Subject: KJO Mitglieder Adressen
+Date: Sun, 13 May 2012 10:52:51 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_00B9_01CD30F6.8B2331C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+X-Y-GMX-Trusted: 0
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_00B9_01CD30F6.8B2331C0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+wir m=C3=B6chten die Noten in Zukunft gerne wieder vorab per Post =
+verschicken. Dazu brauchen wir Eure Adressen, diese haben wir in den =
+letzten Jahren nicht mehr erhoben, weil die Noten in der Probe verteilt =
+wurden und die Infos per Email kamen.
+In Zukunft m=C3=B6chten wir jedoch vor jeder Projektphase die Noten =
+bereits verschickt haben.=20
+
+Schickt mir deshalb bitte bis zum 18.M=C3=A4rz eine Email mit Eurer =
+aktuellen Anschrift.
+
+Diejenigen von denen ich nichts h=C3=B6re streiche ich aus dem =
+Verteiler, da ich davon ausgehe das Sie in Zukunft kein Interesse haben =
+weiterhin mitzuspielen.
+
+Viele Gr=C3=BC=C3=9Fe
+
+Stefan
+
+P.S. Die =E2=80=9Calten Hasen=E2=80=9D die jetzt aufgeh=C3=B6rt haben =
+und noch im Verteiler sind brauchen sich nat=C3=BCrlich nicht zu melden.
+------=_NextPart_000_00B9_01CD30F6.8B2331C0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: 'Calibri'; COLOR: #000000; FONT-SIZE: 12pt">
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none">
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: 'Calibri'; COLOR: #000000; FONT-SIZE: 12pt">
+<DIV>Hallo zusammen,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>wir m=C3=B6chten die Noten in Zukunft gerne wieder vorab per Post =
+verschicken.=20
+Dazu brauchen wir Eure Adressen, diese haben wir in den letzten Jahren =
+nicht=20
+mehr erhoben, weil die Noten in der Probe verteilt wurden und die Infos =
+per=20
+Email kamen.</DIV>
+<DIV>In Zukunft m=C3=B6chten wir jedoch vor jeder Projektphase die Noten =
+bereits=20
+verschickt haben.<STRONG> </STRONG></DIV>
+<DIV><STRONG></STRONG>&nbsp;</DIV>
+<DIV><STRONG>Schickt mir deshalb bitte bis zum 18.M=C3=A4rz eine Email =
+mit Eurer=20
+aktuellen Anschrift.</STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Diejenigen von denen ich nichts h=C3=B6re streiche ich aus dem =
+Verteiler, da ich=20
+davon ausgehe das Sie in Zukunft kein Interesse haben weiterhin=20
+mitzuspielen.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Viele Gr=C3=BC=C3=9Fe</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Stefan</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>P.S. Die =E2=80=9Calten Hasen=E2=80=9D die jetzt aufgeh=C3=B6rt =
+haben und noch im Verteiler sind=20
+brauchen sich nat=C3=BCrlich nicht zu=20
+melden.</DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_00B9_01CD30F6.8B2331C0--
+

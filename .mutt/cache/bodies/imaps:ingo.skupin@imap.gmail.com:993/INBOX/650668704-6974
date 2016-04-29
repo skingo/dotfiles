@@ -1,0 +1,152 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.39 with SMTP id ft7csp74881pdb;
+        Wed, 15 Jan 2014 06:26:00 -0800 (PST)
+X-Received: by 10.68.190.33 with SMTP id gn1mr3212384pbc.48.1389795960205;
+        Wed, 15 Jan 2014 06:26:00 -0800 (PST)
+Return-Path: <DoNotReply@esri.com>
+Received: from red-inf-mma-p01.esri.com (esrismtp3.esri.com. [198.102.63.199])
+        by mx.google.com with ESMTPS id wm3si3888500pab.20.2014.01.15.06.26.00
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Wed, 15 Jan 2014 06:26:00 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of DoNotReply@esri.com designates 198.102.63.199 as permitted sender) client-ip=198.102.63.199;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of DoNotReply@esri.com designates 198.102.63.199 as permitted sender) smtp.mail=DoNotReply@esri.com
+Received: from Otto.esri.com (otto.esri.com [10.50.27.76])
+	by red-inf-mma-p01.esri.com (8.14.4/8.14.4) with ESMTP id s0FEPxCe020816
+	for <ingo.skupin@gmail.com>; Wed, 15 Jan 2014 06:25:59 -0800
+Received: from Otto ([127.0.0.1]) by Otto.esri.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Wed, 15 Jan 2014 06:25:59 -0800
+Message-ID: <1591544.1389795959098.JavaMail.cfuser@Otto>
+Date: Wed, 15 Jan 2014 06:25:59 -0800 (PST)
+From: "ArcGIS 10.1 for Desktop Student Trial" <DoNotReply@esri.com>
+To: ingo.skupin@gmail.com
+Subject: ArcGIS 10.1 for Desktop Student Trial
+Mime-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+X-Mailer: ColdFusion MX Application Server
+X-OriginalArrivalTime: 15 Jan 2014 14:25:59.0098 (UTC) FILETIME=[B5C469A0:01CF11FD]
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+		<title>ArcGIS 10.1 for Desktop Student Trial</title>
+		<style type="text/css">
+			body {font-family: Verdana;	font-size: 0.75em; line-height:1.2em; margin: 0px;}
+			a, a:link, a:visited {color: #008100;}
+			a:hover {color: #0067a1;}
+			.buttonLink a, .buttonLink a:hover, .buttonLink a:active, .buttonLink a:visited {color:#FFF;}
+			.buttonLink a {text-decoration:none; font-size:14pt; font:Verdana;}
+			table tr td.infoText {padding-left:35px; padding-right:10px; padding-bottom:10px;}
+			table tr td.linkscol {border-left: 1px solid #d4d4d4; padding-left:10px; padding-right:10px; padding-bottom:10px;}
+			.linkscol a {color: #008100;}
+			.linkscol a:hover {color: #0067a1;}
+			.footer {border-top: 1px solid #d4d4d4; color:#acacac; font-size: 7pt; padding-top:3px; line-height:normal;}
+			.footer a {color: #acacac;}
+			.footer a:hover {color: #444444;}
+			ol li {margin-bottom: 10px;}
+			ol li ul {margin-bottom: 10px;} 
+			ul li {margin-bottom: 10px; margin-left: 0; padding: 0;}
+		</style>
+	</head>
+
+	<body>
+		<table width="800" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="800" colspan="3">
+					<img src="http://www.esri.com/directnews/graphics/esri-ebanner.jpg" alt="Esri-GIS Software that Gives You the Geographic Advantage" title="Esri-GIS Software that Gives You the Geographic Advantage" width="800" height="94" border="0" />
+				</td>
+			</tr>
+		</table>
+		
+		<table width="800" border="0" cellspacing="0">
+			<tr>
+				<td colspan="2" width="800" style="padding-bottom:10px;">
+					<a href="http://www.esri.com/software/arcgis/arcgis10/index.html?utm_medium=email"><img src="http://www.esri.com/apps/products/arcgis/v10_2/eval/educ/includes/images/banner-email.jpg" alt="" width="800" height="43" border="0" /></a>
+				</td>
+			</tr>
+		</table>
+		
+		<br />
+		
+		<table width="800" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td width="600" valign="top" class="infoText">
+					<p>Dear Ingo Skupin,</p>
+					<p>Please follow the steps below to download and install ArcGIS 10.1 for Desktop.</p>
+					
+					<ol>
+						<li>Uninstall any previous versions of ArcGIS that you may already have on your machine. 
+							For best results, please download and use the ArcGIS Uninstall Utility.</li>
+						
+						<li>Download ArcGIS for Desktop, Microsoft .NET Framework 3.5, and the files you would like to install. 
+							<strong>If you didn't download the files at the time you registered, you must repeat the process 
+							to get to the download option</strong>.
+							<ul>
+								<li>Please note that ArcGIS Data Interoperability, ArcGIS Data Reviewer, and ArcGIS 
+								Workflow Manager require ArcGIS for Desktop.</li>
+								<li>When downloading with the Esri Download Manager, you can select and download 
+								multiple products. However, only one product should be launched at a time when the 
+								downloads are complete.</li>
+								<li>Make sure you have write access to your download directory location as well as 
+								your ArcGIS installation directory location, and that no one is accessing it.</li>
+							</ul>
+						</li>
+						
+						<li>Install the 
+							<a href="http://www.microsoft.com/en-us/download/details.aspx?id=22">Microsoft .NET Framework 3.5 Service Pack 1</a>.
+						</li>
+						
+						<li>Install and authorize ArcGIS for Desktop.
+							<ul>
+								<li>Select a destination folder to extract the install files to. If you choose, you 
+									can automatically launch the setup after the files have been extracted.</li>
+								<li>When prompted, select <strong>ArcGIS for Desktop Advanced Single Use</strong>.</li>
+								<li>Enter your authorization number: <strong>EVA995231477</strong>.</li>
+							</ul>
+						</li>
+					</ol>
+					
+					<p>Assistance, FAQs, and support for the ArcGIS 10.1 for Desktop trial software are available on the 
+					<a href="http://www.esri.com/trialhelp">online resources</a> page.</p>
+					
+					<p><strong>Please save this e-mail for future reference.</strong></p>
+					
+					<p>Thank you,<br />The ArcGIS Team</p>
+				</td>
+				<td width="200" valign="top" class="linkscol">
+					          
+					<p><a href="http://www.esri.com/trialhelp">Trial Help</a></p>
+				</td>
+			</tr>
+		</table>
+		
+		<table width="800" border="0" cellspacing="0" cellpadding="5">
+			<tr>
+				<td width="300" align="left" class="footer" style="padding-left:35px;">
+					<table cellspacing="0" cellpadding="0" border="0">
+						<tr>
+							<td style="padding-right:3px;">
+								<a href="http://twitter.com/esri"><img src="http://www.esri.com/directnews/graphics/logos/twitter.jpg" alt="Twitter" width="22" height="22" border="0" /></a>
+							</td>
+							<td style="padding-left:3px;">
+								<a href="http://www.facebook.com/esrigis"><img src="http://www.esri.com/directnews/graphics/logos/facebook.jpg" alt="Facebook" width="22" height="22" border="0" /></a>
+							</td>
+						</tr>
+					</table>
+				</td>
+				<td width="500" align="right" class="footer" valign="top">
+					<a href="http://www.esri.com">Esri.com</a> | <a href="http://www.esri.com/legal/privacy.html?utm_medium=email" >Privacy</a> | <a href="http://www.esri.com/company/contact.html?utm_medium=email">Contact Us</a>
+					<br />
+					<font color="#acacac">Copyright &copy; 2014 Esri. All rights reserved.
+					<br />
+					Esri, 380 New York Street, Redlands, CA 92373, USA.</font>
+				</td>
+			</tr>
+		</table>
+	</body>
+</html>
+

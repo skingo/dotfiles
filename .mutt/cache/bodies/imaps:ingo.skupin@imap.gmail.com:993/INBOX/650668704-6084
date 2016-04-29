@@ -1,0 +1,61 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp177978pdd;
+        Wed, 17 Jul 2013 04:46:42 -0700 (PDT)
+Return-Path: <ml.deutschmann@gmail.com>
+Received-SPF: pass (google.com: domain of ml.deutschmann@gmail.com designates 10.58.249.236 as permitted sender) client-ip=10.58.249.236
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of ml.deutschmann@gmail.com designates 10.58.249.236 as permitted sender) smtp.mail=ml.deutschmann@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.58.249.236])
+        by 10.58.249.236 with SMTP id yx12mr2472383vec.25.1374061601970 (num_hops = 1);
+        Wed, 17 Jul 2013 04:46:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:cc:content-type;
+        bh=MT6gbmbDVuVnNNXSUxn2fwMGkrk9NTNMYZLdvv15DSY=;
+        b=rIcD8odNPHFl7VhWbx+mYDAEbOoJkq3UZdfbwpFLTGBaeRnXkt3LDgmaEI7rrZchyy
+         EEGd0Ov/YZd3WzE/O+2jwyDeZpETduEuCg+1YbXtydSzjEGqqPL3YrurfHnYOP2wtNBu
+         vgIVn/H8O+oNPanQqJzpxkWwlvEWOcrrXXcoGIfIGUla95cCjtIjIStR4aUgijzGm1ZS
+         cYLFPJLJbLIwsPF4FUtHH4juu8eLwcXQHLyMi3cj4ijMjSLGvh0vWTi9Q7hZm33jLEmm
+         g62eTd+MEqHFtYj+LSA36WKj2Ljox/T1TY44cY5PNum4vCbngszT8SGiH08an2SmDDhD
+         YyZA==
+X-Received: by 10.58.249.236 with SMTP id yx12mr1952198vec.25.1374061601582;
+ Wed, 17 Jul 2013 04:46:41 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.52.89.111 with HTTP; Wed, 17 Jul 2013 04:46:21 -0700 (PDT)
+From: Merle Deutschmann <ml.deutschmann@gmail.com>
+Date: Wed, 17 Jul 2013 13:46:21 +0200
+Message-ID: <CAO5o5EioiRtCDW-hkECwO2hWfyqVjB2Dcda3duS6DLf-zkYZjA@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Wohnungs=FCbergabe?=
+To: georg schmidt <bachgasse26@gmx.de>
+Cc: Ingo Skupin <ingo.skupin@gmail.com>
+Content-Type: multipart/alternative; boundary=047d7bacc096a9747204e1b3a5f8
+
+--047d7bacc096a9747204e1b3a5f8
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Georg,
+
+wollte mich mal melden wegen der Wohnungs=FCbergabe / Einzug. F=FCr Ingo un=
+d
+mich w=E4re der 29.7. geschickt als Umzugstermin. K=F6nnten wir die =DCberg=
+abe
+einfach direkt auf diesen Vormittag legen?
+
+Viele Gr=FC=DFe,
+Merle
+
+--047d7bacc096a9747204e1b3a5f8
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>Hallo Georg,=A0<br></div><div><br></div><div>wollte m=
+ich mal melden wegen der Wohnungs=FCbergabe / Einzug. F=FCr Ingo und mich w=
+=E4re der 29.7. geschickt als Umzugstermin. K=F6nnten wir die =DCbergabe ei=
+nfach direkt auf diesen Vormittag legen? =A0</div>
+
+<div><br></div><div>Viele Gr=FC=DFe,=A0</div><div>Merle</div><div><br></div=
+></div>
+
+--047d7bacc096a9747204e1b3a5f8--

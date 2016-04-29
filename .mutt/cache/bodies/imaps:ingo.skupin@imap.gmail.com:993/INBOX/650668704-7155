@@ -1,0 +1,207 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp84859pdb;
+        Fri, 21 Feb 2014 03:51:42 -0800 (PST)
+X-Received: by 10.194.240.41 with SMTP id vx9mr6505921wjc.70.1392983501135;
+        Fri, 21 Feb 2014 03:51:41 -0800 (PST)
+Return-Path: <no-reply@dropboxmail.com>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id op5si8022933wjc.80.2014.02.21.03.51.39
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 21 Feb 2014 03:51:41 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning no-reply@dropboxmail.com does not designate 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning no-reply@dropboxmail.com does not designate 212.227.17.11 as permitted sender) smtp.mail=no-reply@dropboxmail.com;
+       dkim=pass (test mode) header.i=@dropboxmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=dropboxmail.com
+Received: from sjd-rb12-10d.dropboxmail.com ([108.160.166.24]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0M4FVX-1X6zgf0NUZ-00rrxw for
+ <ingo.skupin@gmail.com>; Fri, 21 Feb 2014 12:51:38 +0100
+Received: from snt-rf14-11d.sjc.dropbox.com (snt-rf14-11d.sjc.dropbox.com [10.12.134.152])
+	by sjd-rb12-10d.dropboxmail.com (Postfix) with ESMTP id 7097A402F2614
+	for <ingo.skupin@web.de>; Fri, 21 Feb 2014 11:51:36 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropboxmail.com; s=m1;
+	t=1392983496; bh=xO7LiLByoHryAAB5Xp3766UAUghZlrgR6SpcjmiceQI=;
+	h=From:To:Subject:Date;
+	b=UjygoPNbXgUo3/JjtBHIs51QG1PxIJz2L0gGZOAUQgtmnX9SHgOOCj2fSEAMk9VzO
+	 GVIsTBaLA/Iu9vvIZQmSb+Fxp7GBRzZghsIbJroeC7ZBlCJaO3H21ItAOo8xblR4gS
+	 nGpQo9RvN62+PyK0ezPBXtmaitR7KcnxVIqEv5z8=
+Received: from snt-rf14-11d.sjc.dropbox.com (localhost [127.0.0.1])
+	by snt-rf14-11d.sjc.dropbox.com (Postfix) with ESMTP id 3D63C6B29B6
+	for <ingo.skupin@web.de>; Fri, 21 Feb 2014 11:51:36 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============1226153337680722094=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropboxmail.com>
+To: ingo.skupin@web.de
+Subject: =?utf-8?q?=C3=84nderung_der_Allgemeinen_Gesch=C3=A4ftsbedingungen_und_Dat?=
+ =?utf-8?q?enschutzrichtlinien_von_Dropbox=0D=0A?=
+Date: Fri, 21 Feb 2014 11:51:36 +0000
+Message-Id: <20140221115136.3D63C6B29B6@snt-rf14-11d.sjc.dropbox.com>
+
+--===============1226153337680722094==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+hiermit benachrichtigen wir Sie von einer anstehenden Aktualisierung unsere=
+r Allgemeinen Gesch=C3=A4ftsbedingungen (https://www.dropbox.com/terms2014)=
+ und Datenschutzrichtlinien (https://www.dropbox.com/privacy2014). Die neue=
+n Versionen dieser Dokumente treten am 24.03.2014 in Kraft. =
+
+
+Zwar k=C3=B6nnen Sie weitere Einzelheiten auch in unserem englischsprachige=
+n Blog nachlesen (https://blog.dropbox.com), wir m=C3=B6chten Ihnen hier de=
+nnoch einen kurzen =C3=9Cberblick geben:
+
+Wir f=C3=BCgen unseren Allgemeinen Gesch=C3=A4ftsbedingungen einen Absatz z=
+u Schiedsverfahren hinzu. Ein Schiedsverfahren ist eine schnelle und effizi=
+ente M=C3=B6glichkeit, Streitigkeiten zu schlichten und stellt eine gute Al=
+ternative zu bundes- oder landesgerichtlichen Verfahren dar, die sich =C3=
+=BCber Monate oder sogar Jahre hinziehen k=C3=B6nnten. Wenn Sie einem Schie=
+dsverfahren nicht zustimmen m=C3=B6chten, k=C3=B6nnen Sie sich innerhalb vo=
+n drei=C3=9Fig Tagen nach Inkrafttreten =C3=BCber ein Online-Formular erkl=
+=C3=A4ren, dass Sie nicht damit einverstanden sind. Dieses Formular und and=
+ere Einzelheiten finden Sie in unserem Blog.
+
+Unseren Datenschutzrichtlinien haben wir einen Absatz zu unseren k=C3=BCrzl=
+ich ver=C3=B6ffentlichten Richtlinien zu beh=C3=B6rdlichen Anfragen (https:=
+//www.dropbox.com/transparency/principles) hinzugef=C3=BCgt. Au=C3=9Ferdem =
+haben wir Einiges umformuliert, um zu verdeutlichen, wie unsere Dienste Ihr=
+e Daten verwenden. Wir weisen zum Beispiel darauf hin, dass wir die Kontakt=
+e, zu denen Sie uns Zugriff geben, speichern, damit Sie (und nur Sie) Ihre =
+Daten leichter freigeben k=C3=B6nnen, egal mit welcher Art Ger=C3=A4t Sie a=
+rbeiten.
+
+Wir haben unsere Allgemeinen Gesch=C3=A4ftsbedingungen und Datenschutzricht=
+linien auch =C3=BCberarbeitet, um die immer l=C3=A4nger werdende Liste von =
+Funktionen f=C3=BCr unsere Dropbox f=C3=BCr Unternehmen-Kunden umfassend un=
+d genau zu erl=C3=A4utern.
+
+Zwar haben wir die Sprache weitgehend vereinfacht, unser Engagement f=C3=BC=
+r den Schutz Ihrer Daten jedoch ist unver=C3=A4ndert gro=C3=9F. Wir verkauf=
+en Ihre personenbezogenen Daten nicht an Dritte. Wir blenden keine Anzeigen=
+ ein, deren Inhalt in irgendeiner Weise auf den von Ihnen in unseren Dienst=
+en gespeicherten Inhalten basiert. Wie immer gilt: Ihre Daten geh=C3=B6ren =
+Ihnen!
+
+Wenn Sie Fragen zu diesen =C3=84nderungen haben, lesen Sie unser Blog oder =
+schreiben Sie an tos-questions@dropbox.com.
+
+Wir freuen uns, dass Sie Dropbox verwenden!
+
+Das Dropbox-Team
+--===============1226153337680722094==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta content=3D"text/html; charset=3Dutf-8" http-equiv=3D"Content-Type">
+<style>
+        @font-face {
+            font-family: "proxima_nova";
+            src: url("https://www.dropbox.com/static/fonts/proximanova/prox=
+ima-nova-regular.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+        a {
+            color: #007ee6;
+            text-decoration: none;
+        }
+        </style>
+</head>
+<body style=3D"padding: 0; width: 100% !important; -webkit-text-size-adjust=
+: 100%; margin: 0; -ms-text-size-adjust: 100%;" marginheight=3D"0" marginwi=
+dth=3D"0"><center><table cellpadding=3D"8" cellspacing=3D"0" style=3D"*widt=
+h: 540px; padding: 0; width: 100% !important; background: #ffffff; margin: =
+0; background-color: #ffffff;" border=3D"0"><tr><td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px; -we=
+bkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px=
+;" border=3D"0" align=3D"center">
+<tr><td colspan=3D"3" height=3D"6"></td></tr>
+<tr style=3D"line-height: 0px;"><td width=3D"100%" style=3D"font-size: 0px;=
+" align=3D"center" height=3D"1"><img width=3D"40px" style=3D"max-height: 73=
+px; width: 40px; *width: 40px; *height: 73px;" alt=3D"" src=3D"https://www.=
+dropbox.com/static/images/emails/glyph/glyph_34@2x.png"></td></tr>
+<tr><td><table cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: 25=
+px;" border=3D"0" align=3D"center">
+<tr><td colspan=3D"3" height=3D"30"></td></tr>
+<tr>
+<td width=3D"36"></td>
+<td width=3D"454" align=3D"left" style=3D"color: #444444; border-collapse: =
+collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida =
+Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans S=
+erif'; max-width: 454px;" valign=3D"top">
+<p>Hallo,</p>
+<p>hiermit benachrichtigen wir Sie von einer anstehenden =C3=84nderung unse=
+rer <a href=3D"https://www.dropbox.com/terms2014">Allgemeinen Gesch=C3=A4ft=
+sbedingungen</a> und <a href=3D"https://www.dropbox.com/privacy2014">Datens=
+chutzrichtlinien</a>. Die neuen Versionen dieser Dokumente treten am 24.03.=
+2014 in Kraft. </p>
+<p>Zwar k=C3=B6nnen Sie weitere Einzelheiten auch in unserem <a href=3D"htt=
+ps://blog.dropbox.com/2014/02/updating-our-terms-of-service/">Blog</a> nach=
+lesen, wir m=C3=B6chten Ihnen hier dennoch einen kurzen =C3=9Cberblick gebe=
+n:</p>
+<p></p>
+<ul>
+<li>Wir f=C3=BCgen unseren Allgemeinen Gesch=C3=A4ftsbedingungen einen Absa=
+tz zu Schiedsverfahren hinzu. Ein Schiedsverfahren ist eine schnelle und ef=
+fiziente M=C3=B6glichkeit, Streitigkeiten zu schlichten und stellt eine gut=
+e Alternative zu bundes- oder landesgerichtlichen Verfahren dar, die sich =
+=C3=BCber Monate oder sogar Jahre hinziehen k=C3=B6nnten. Wenn Sie einem Sc=
+hiedsverfahren nicht zustimmen m=C3=B6chten, k=C3=B6nnen Sie sich innerhalb=
+ von drei=C3=9Fig Tagen nach Inkrafttreten =C3=BCber ein Online-Formular er=
+kl=C3=A4ren, dass Sie nicht damit einverstanden sind. Dieses Formular und a=
+ndere Einzelheiten finden Sie in unserem Blog. </li>
+<li>Unseren Datenschutzrichtlinien haben wir einen Absatz zu unseren k=C3=
+=BCrzlich ver=C3=B6ffentlichten <a href=3D"https://www.dropbox.com/transpar=
+ency/principles">Richtlinien zu beh=C3=B6rdlichen Anfragen</a> hinzugef=C3=
+=BCgt. Au=C3=9Ferdem haben wir Einiges umformuliert, um zu verdeutlichen, w=
+ie unsere Dienste Ihre Daten verwenden. Wir weisen zum Beispiel darauf hin,=
+ dass wir die Kontakte, zu denen Sie uns Zugriff geben, speichern, damit Si=
+e (und nur Sie) Ihre Daten leichter freigeben k=C3=B6nnen, egal mit welcher=
+ Art Ger=C3=A4t Sie arbeiten. </li>
+<li>Wir haben unsere Allgemeinen Gesch=C3=A4ftsbedingungen und Datenschutzr=
+ichtlinien auch =C3=BCberarbeitet, um die immer l=C3=A4nger werdende Liste =
+von Funktionen f=C3=BCr unsere Dropbox f=C3=BCr Unternehmen-Kunden umfassen=
+d und genau zu erl=C3=A4utern. </li>
+</ul>
+<p>Zwar haben wir die Sprache weitgehend vereinfacht, unser Engagement f=C3=
+=BCr den Schutz Ihrer Daten jedoch ist unver=C3=A4ndert gro=C3=9F. Wir verk=
+aufen Ihre personenbezogenen Daten nicht an Dritte. Wir blenden keine Anzei=
+gen ein, deren Inhalt in irgendeiner Weise auf den von Ihnen in unseren Die=
+nsten gespeicherten Inhalten basiert. Wie immer gilt: Ihre Daten geh=C3=B6r=
+en Ihnen!</p>
+<p>Wenn Sie Fragen zu diesen =C3=84nderungen haben, lesen Sie <a href=3D"ht=
+tps://blog.dropbox.com/2014/02/updating-our-terms-of-service/">unser Blog</=
+a> oder schreiben Sie an <a href=3D"mailto:tos-questions@dropbox.com">tos-q=
+uestions@dropbox.com</a>. </p>
+<p>Wir freuen uns, dass Sie Dropbox verwenden!</p>
+<p>Das Dropbox-Team</p>
+</td>
+<td width=3D"36"></td>
+</tr>
+<tr><td colspan=3D"3" height=3D"36"></td></tr>
+</table></td></tr>
+</table>
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">
+<tr><td height=3D"10"></td></tr>
+<tr><td style=3D"padding: 0; border-collapse: collapse;"><table cellpadding=
+=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0"><tr style=3D"color: =
+#a8b9c6; font-size: 11px; font-family: proxima_nova, 'Open Sans', 'Lucida G=
+rande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Se=
+rif'; -webkit-text-size-adjust: none;">
+<td width=3D"400" align=3D"left"></td>
+<td width=3D"128" align=3D"right">=C2=A9 2014 Dropbox</td>
+</tr></table></td></tr>
+</table>
+</td></tr></table></center></body>
+</html>
+--===============1226153337680722094==--

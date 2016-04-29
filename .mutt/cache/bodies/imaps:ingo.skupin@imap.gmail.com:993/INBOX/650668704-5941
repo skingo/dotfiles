@@ -1,0 +1,58 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp98754pdd;
+        Wed, 3 Jul 2013 12:31:32 -0700 (PDT)
+X-Received: by 10.15.108.8 with SMTP id cc8mr2765734eeb.65.1372879892102;
+        Wed, 03 Jul 2013 12:31:32 -0700 (PDT)
+Return-Path: <20130703193131a59e040c847f4557b018514f0a1209af@bounces.amazon.de>
+Received: from retail-smtp-out-22001.amazon.com (retail-smtp-out-22001.amazon.com. [212.123.28.40])
+        by mx.google.com with ESMTP id l7si18737351eey.270.2013.07.03.12.31.31
+        for <ingo.skupin@gmail.com>;
+        Wed, 03 Jul 2013 12:31:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 20130703193131a59e040c847f4557b018514f0a1209af@bounces.amazon.de designates 212.123.28.40 as permitted sender) client-ip=212.123.28.40;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 20130703193131a59e040c847f4557b018514f0a1209af@bounces.amazon.de designates 212.123.28.40 as permitted sender) smtp.mail=20130703193131a59e040c847f4557b018514f0a1209af@bounces.amazon.de;
+       dkim=pass header.i=bestellung-aktuell@amazon.de;
+       dmarc=pass (p=NONE dis=NONE) d=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=bestellung-aktuell@amazon.de; q=dns/txt;
+  s=amazon201209; t=1372879891; x=1404415891;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=CUIRV7s3wFyHtpBS+M/CbSJNosZcBbYGHkP462072P8=;
+  b=omjQtiunXDBsku/NQIG1R68Cdr6Ehog37Xhv2C0g0lJi441Y9mi2bRcA
+   A1RxhPx9J6Y1WuuG5fNS4IUOnb5qNEk3BugpYGxdsTO/b+mCzIUzQIhJY
+   tn+e1bU/8ZhJ2roRs7ZOUbsIVPgqlvCPe7+AEcRQKhRrn0KpTRUDbGPK9
+   w=;
+Date: Wed, 3 Jul 2013 19:31:31 +0000
+From: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+Reply-To: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+To: "ingo.skupin@googlemail.com" <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.20130703193131a59e040c847f4557b018514f0a1209af@1372879891185.rte-svc-eu-1bbig-i-046ec04e.eu-west-1.amazon.com>
+Subject: Amazon.de -- Bestellungsaenderung (303-7235220-9886707)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Bounces-to: 20130703193131a59e040c847f4557b018514f0a1209af@bounces.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20130703193131a59e040c847f4557b018514f0a1209af@1372879891185.rte-svc-eu-1bbig-i-046ec04e.eu-west-1.amazon.com>
+
+Hallo Ingo Skupin,
+
+Sie haben die Lieferadresse f=C3=BCr Ihre Bestellung 303-7235220-9886707 be=
+i Sportspar erfolgreich ge=C3=A4ndert. Sie lautet jetzt:
+
+Merle Deutschmann
+Biesingerstr. 35
+T=C3=BCbingen, Baden-W=C3=BCrttemberg 72070
+Deutschland
+
+Sobald Ihre Bestellung verschickt wurde, senden wir Ihnen eine Best=C3=A4ti=
+gung per E-Mail.
+
+Vielen Dank f=C3=BCr Ihren Besuch bei Amazon.de!
+
+---------------------------------------------------------------------
+Amazon.de
+http://www.amazon.de
+---------------------------------------------------------------------

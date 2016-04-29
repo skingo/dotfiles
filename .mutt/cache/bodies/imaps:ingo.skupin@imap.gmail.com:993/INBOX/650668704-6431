@@ -1,0 +1,107 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp28658pdb;
+        Sun, 8 Sep 2013 00:09:47 -0700 (PDT)
+X-Received: by 10.14.45.70 with SMTP id o46mr19505500eeb.19.1378624186533;
+        Sun, 08 Sep 2013 00:09:46 -0700 (PDT)
+Return-Path: <juliaschlag@googlemail.com>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id 41si5428705eee.47.1969.12.31.16.00.00
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 08 Sep 2013 00:09:46 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning juliaschlag@googlemail.com does not designate 5.35.244.247 as permitted sender) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning juliaschlag@googlemail.com does not designate 5.35.244.247 as permitted sender) smtp.mail=juliaschlag@googlemail.com;
+       dkim=pass header.i=@googlemail.com
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 33671AC9247; Sun,  8 Sep 2013 09:08:48 +0200 (CEST)
+X-Original-To: pause@concertband.de
+Delivered-To: pause@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mail-ea0-f179.google.com (mail-ea0-f179.google.com [209.85.215.179])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTPS id B5A06AC8460;
+	Sun,  8 Sep 2013 09:08:41 +0200 (CEST)
+Received: by mail-ea0-f179.google.com with SMTP id b10so2470087eae.10
+        for <multiple recipients>; Sun, 08 Sep 2013 00:08:41 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=content-type:mime-version:subject:from:in-reply-to:date
+         :content-transfer-encoding:message-id:references:to;
+        bh=K7XN2WzTAXpafqqdYTN5Cm8yY+pfJf6K2LS6rPHGSkQ=;
+        b=ne2FAtuB3L7I5H+C9xkzVlGR56hFxhdmRvIzKw/RGST5ueJ+fyt+uVXRi5C8ajle6i
+         sy2NYmmWRfy6YqaiKdjj6sXSNvFtS8gqQyBE9ygULXQkFGXv9kGCiIPh62JW03ieCaBm
+         CX+1Mq3hiUil30LhVwbYoTHho9zUHxjr2/ziaf9LcKeCVMV0MCZzhDwjHU5SxU1Kpj5a
+         vGJh3K9842sxi6L9wdij4bnzvLVW/WS1JZGiU3k8tR4lAHiZ112UPeOwp9giPZKU19GJ
+         uMcJTcgSjLrMT12IdhxUjQTpmjxK9FJJDNGi5lf7LdmKMZSsOUkYte8kVxvBiPa3g6Sq
+         9DHQ==
+X-Received: by 10.14.210.8 with SMTP id t8mr19281785eeo.39.1378624121311;
+        Sun, 08 Sep 2013 00:08:41 -0700 (PDT)
+Received: from [192.168.2.101] (pD9E40435.dip0.t-ipconnect.de. [217.228.4.53])
+        by mx.google.com with ESMTPSA id a6sm10964795eei.10.1969.12.31.16.00.00
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 08 Sep 2013 00:08:40 -0700 (PDT)
+Content-Type: text/plain; charset=iso-8859-1
+Mime-Version: 1.0 (Apple Message framework v1283)
+Subject: Re: Wintersemester 2013/2014 Concertband
+From: Julia Schlag <juliaschlag@googlemail.com>
+In-Reply-To: <522447A5.3090907@ennulat.de>
+Date: Sun, 8 Sep 2013 09:09:13 +0200
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <5E802A0D-A7DF-4AF4-84A9-BFB3C9DD99F9@googlemail.com>
+References: <522447A5.3090907@ennulat.de>
+To: alle@concertband.de,
+ pause@concertband.de
+X-Mailer: Apple Mail (2.1283)
+
+Hallo zusammen,
+ich hoffe euch geht es allen gut!
+
+Bitte meldet euch alle zur=FCck, im Moment haben sich nur die H=E4lfte =
+des Orchesters eingetragen - da f=E4llt die Planung wie z. B.  =
+Stimmeinteilung nat=FCrlich schwer...! Ich werde zwar in der ersten Zeit =
+die Proben nicht machen k=F6nnen da ich krankgeschrieben bin aber w=FCrde =
+nat=FCrlich gerne alles gut vorbereitet an einen "Aushilfsdirigenten" =
+=FCbergeben - bitte helft mir dabei in dem ihr euch zur=FCckmeldet.=20
+
+Vielen Dank und viele Gr=FC=DFe,
+Julia=20
+
+
+Am 02.09.2013 um 10:09 schrieb Margit Haug:
+
+> Hallo alle zusammen,
+>=20
+> wie von Sandra und Cori angek=FCndigt =FCbersende ich Euch hier die =
+Bitte um R=FCckmeldung zum Wintersemester.
+> Die Links zur Abfrage und =DCbersicht der bisherigen R=FCckmeldung =
+findet Ihr auch im internen Bereich auf der Concertband Homepage.
+>=20
+> Abfrage:
+> =
+https://docs.google.com/spreadsheet/viewform?formkey=3DdDc2OTBrWUFfbGlDc3J=
+KS21OUXMwOVE6MA
+>=20
+> Tabelle, zum schauen wer hat sich schon zur=FCckgemeldet:
+> =
+https://docs.google.com/a/concertband.de/spreadsheet/ccc?key=3D0Ak2l1z57Bc=
+lKdDc2OTBrWUFfbGlDc3JKS21OUXMwOVE#gid=3D1=20
+>=20
+> Solltet Ihr Fragen zum Formular haben k=F6nnt Ihr Euch gerne an mich =
+wenden.
+>=20
+> Bis bald
+> Margit (Bass-Posaune)
+
+
+
+Viele Gr=FC=DFe,
+Julia=20
+
+
+
+Geigersbergstr. 11
+74343 Sachsenheim
+mobil 0173-9710018
+

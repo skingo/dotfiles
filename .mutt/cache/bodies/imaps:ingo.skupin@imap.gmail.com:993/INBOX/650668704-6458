@@ -1,0 +1,102 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp120444pdb;
+        Mon, 16 Sep 2013 13:07:34 -0700 (PDT)
+X-Received: by 10.14.198.197 with SMTP id v45mr5471903een.52.1379362053666;
+        Mon, 16 Sep 2013 13:07:33 -0700 (PDT)
+Return-Path: <thomas.ringhoffer@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.17.21])
+        by mx.google.com with ESMTPS id 7si17741569eeu.38.1969.12.31.16.00.00
+        (version=TLSv1.2 cipher=AES128-SHA bits=128/128);
+        Mon, 16 Sep 2013 13:07:33 -0700 (PDT)
+Received-SPF: pass (google.com: domain of thomas.ringhoffer@gmx.de designates 212.227.17.21 as permitted sender) client-ip=212.227.17.21;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of thomas.ringhoffer@gmx.de designates 212.227.17.21 as permitted sender) smtp.mail=thomas.ringhoffer@gmx.de
+Received:  from [192.168.178.35] ([109.192.67.99]) by mail.gmx.com (mrgmx103)
+ with ESMTPSA (Nemesis) id 0MY75A-1VPyYz2cvQ-00UqsO for
+ <ingo.skupin@gmail.com>; Mon, 16 Sep 2013 22:07:32 +0200
+Subject: Kuchenzettel
+From: Thomas <thomas.ringhoffer@gmx.de>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPad Mail (10B329)
+Message-Id: <3274A036-E596-4D0E-A293-80CA802219AF@gmx.de>
+Date: Mon, 16 Sep 2013 22:07:30 +0200
+To: #20 JBO <thomas.ringhoffer@gmx.de>,
+ Kerstin Hummel<kerstin.hummel@kabelbw.de>,
+ Leona Skupin<leona.skupin@web.de>,
+ Vera Ringhoffer<vera.ringhoffer@web.de>,
+ Alina Bosch<alina.bosch@hotmail.de>,
+ Mirjam Hemberger<mirjam-hemberger@t-online.de>,
+ Laura Henzler<laura.henzler@kabelbw.de>,
+ Katharina Gotthardt<kathi.gotthardt@gmx.de>,
+ Julia Hangkamer-Kühnen<jule.hk@googlemail.com>,
+ Heike Besenfelder<heikebesenfelder@gmx.de>,
+ Anika Umhey<anika.umhey@gmx.de>,
+ Lisa Ensminger<lisaensminger@gmx.de>,
+ Natalie Machanek<nmachanek@web.de>,
+ Sabrina Machanek<smachanek@web.de>,
+ Ulrike Jost<ulrikejost97@gmx.de>,
+ Ulrike Jost<umaajost@t-online.de>,
+ Sofia Gommel<sofia-gommel@web.de>,
+ Helena Kiltz<helenakiltz@web.de>,
+ Tamara Schweizer<tamara-schweizer@gmx.de>,
+ Sarah Ringhoffer<sarah.ringhoffer@gmx.de>,
+ Elena Groß<ele.gross@gmx.de>,
+ Caroline Machanek<cmachanek@web.de>,
+ Jasmina Andorf<jadorf@gmx.de>,
+ Melanie Hauser<melanie.hauser@gmx.net>,
+ Elisa Lottig<elisa.lottig@kabelbw.de>,
+ Shari Huber<sharilouisa@gmx.de>,
+ Tobias Lauster<tobias.lauster@gmx.de>,
+ Tim Welzl<tim.tja@t-online.de>,
+ Max Welzel<no.samt@t-online.de>,
+ Rebecca Sonn<rebecca.sonn@web.de>,
+ Katharina Maier<KML.Ma@web.de>,
+ Ingo Skupin<ingo.skupin@gmail.com>,
+ Ingo Skupin<ingo.skupin@web.de>,
+ Dale Grill<dalegrill@googlemail.com>,
+ Dale Grill<dalegrill@gmail.com>,
+ Andreas Pleger<A.Pleger@foni.net>,
+ Jonas Pfeifer<pfeifer.jonas@googlemail.com>,
+ Jonas Pfeifer<pfeifer.jonas@gmail.com>,
+ Jens Ringhoffer<jens.ringhoffer@gmx.de>,
+ Sarah Keck<sarahmagdalena_keck@web.de>,
+ Philipp Mayer<mayer-fertigungstechnik@t-online.de>,
+ Louis Groß<23louis05@gmx.de>,
+ Louis Groß<dagmar.koeber@gmx.de>,
+ Teresa Pleger<teresa.pleger@web.de>,
+ Julian Sparrer<julian-sparrer@web.de>,
+ Benjamin Deuschle<benjamin.deuschle@gmx.de>,
+ Alexander Beck<beck.notzingen@t-online.de>,
+ Jörg Ruff<joergruff@web.de>,
+ Andreas Weiler<GWeiler@t-online.de>,
+ Dominik Pleger<D-Pleger@web.de>,
+ Simon Keck<simon.keck92@googlemail.com>,
+ Maximilian Scherbaum<max_vom_haldenberg@gmx.de>,
+ Maximilian Scherbaum<maximilian.scherbaum@web.de>,
+ Sebastian Kasputtis<skas@gmx.de>,
+ Günther Claß<guenther_class@gmx.de>,
+ Kay Kirchmann<kay.kirchmann@gmx.de>,
+ Kay Kirchmann<master.killer@gmx.de>,
+ Patrick Vollmer<paddie-vollmer@web.de>,
+ Alexander Zweifel<a.zweifel95@gmail.com>,
+ Marvin Bombis<MarvinBombis@web.de>,
+ Alexander Klon<alex.sebastian-k@web.de>,
+ Sofia Martini<martini.andrea@arcor.de>,
+ Lena Grundmann<lena.grundmann@t-online.de>,
+ Mona Scherbaum<familie.scherbaum@web.de>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+X-Provags-ID:  V03:K0:z+a9LADABCya5QLFM6DqT02gVDO2JkVDyxkXXZdJ5DGTwN0HNxm
+ aElJMDeJT6zLAOzC6I2Efd7OHYQn+fOA6PEoXIgtrByPY5PekpA6nTQyotyFGycC7u1OCdp
+ 5/Xt8VWeLhRSy0BwrqUwvw7r4KBZRsLnzNxi9qPfyc9iqpAXQdxx14SGlEPSH20t3TuXUqd
+ WvnIjFlN2w4ifzRPFJvtQ==
+
+Hallo,
+bitte denkt daran eure Kuchenzettel morgen in der JBO-Probe abzugeben.
+Danke.
+
+Bis morgen
+
+Herzlichen Gru=C3=9F
+Thomas=

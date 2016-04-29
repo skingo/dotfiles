@@ -1,0 +1,57 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp148166pdb;
+        Mon, 27 Jan 2014 12:17:26 -0800 (PST)
+X-Received: by 10.194.142.142 with SMTP id rw14mr5940wjb.87.1390853844426;
+        Mon, 27 Jan 2014 12:17:24 -0800 (PST)
+Return-Path: <2014012720172398517b6a2a564d448cd4386892d2ce3e@bounces.amazon.de>
+Received: from smtp-out-127-6.amazon.com (smtp-out-127-6.amazon.com. [176.32.127.6])
+        by mx.google.com with ESMTP id s4si3915312wje.143.2014.01.27.12.17.23
+        for <ingo.skupin@gmail.com>;
+        Mon, 27 Jan 2014 12:17:24 -0800 (PST)
+Received-SPF: pass (google.com: domain of 2014012720172398517b6a2a564d448cd4386892d2ce3e@bounces.amazon.de designates 176.32.127.6 as permitted sender) client-ip=176.32.127.6;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 2014012720172398517b6a2a564d448cd4386892d2ce3e@bounces.amazon.de designates 176.32.127.6 as permitted sender) smtp.mail=2014012720172398517b6a2a564d448cd4386892d2ce3e@bounces.amazon.de;
+       dkim=pass header.i=bestellung-aktuell@amazon.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=bestellung-aktuell@amazon.de; q=dns/txt;
+  s=amazon201209; t=1390853780; x=1422389780;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=nWigg7QUWn9tY2R2kJbRV9xrxJ3SSLiim3kTRbL/EnM=;
+  b=IOrbsPBw5NC5X3VoNHto7c7jb3hfbyBtsNKW9ixC74RzGohPKcy9CcNz
+   m0MG+NMf1B23uaNn/l0JGwwU0LJBVORXg3lbuvm3s8QWlBF8SS+B5RSdm
+   k1s6CK8GGmzrL2gjSPdRosRPeuPvNl24YUr8MyFLkCfRnf5KmbNR829yL
+   I=;
+Date: Mon, 27 Jan 2014 20:17:23 +0000
+From: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+Reply-To: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Message-ID: <urn.correios.msg.2014012720172398517b6a2a564d448cd4386892d2ce3e@1390853843185.rte-svc-eu-1bbig-i-026ec048.eu-west-1.amazon.com>
+Subject: Amazon.de -- Bestellungsaenderung (304-4369269-9649920)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Bounces-to: 2014012720172398517b6a2a564d448cd4386892d2ce3e@bounces.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.2014012720172398517b6a2a564d448cd4386892d2ce3e@1390853843185.rte-svc-eu-1bbig-i-026ec048.eu-west-1.amazon.com>
+
+Hallo Ingo Skupin,
+
+Sie haben die Zahlungsart f=C3=BCr Ihre Bestellung 304-4369269-9649920 erfo=
+lgreich ge=C3=A4ndert.
+
+Ihre Bestellung wird =C3=BCber die von Ihnen angegebene neue Zahlungsart ab=
+gerechnet. Bitte beachten Sie, dass Ihr Konto bzw. Ihre Kreditkarte erst be=
+lastet wird, wenn die Bestellung versandfertig ist.
+
+Sobald Ihre Bestellung verschickt wurde, senden wir Ihnen eine Best=C3=A4ti=
+gung per E-Mail.
+
+Vielen Dank f=C3=BCr Ihren Besuch bei Amazon.de!
+
+---------------------------------------------------------------------
+Amazon.de
+http://www.amazon.de
+---------------------------------------------------------------------

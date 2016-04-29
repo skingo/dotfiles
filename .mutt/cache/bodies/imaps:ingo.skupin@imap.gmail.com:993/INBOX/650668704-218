@@ -1,0 +1,301 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.76.206 with SMTP id d14cs89602vck;
+        Wed, 6 Jul 2011 22:39:50 -0700 (PDT)
+Received: by 10.223.17.6 with SMTP id q6mr630766faa.96.1310017189715;
+        Wed, 06 Jul 2011 22:39:49 -0700 (PDT)
+Return-Path: <bo-bweqjbabfjtk5qau7eegdqccbbcs34@b.e.leagueoflegends.com>
+Received: from fmmailgate02.web.de (fmmailgate02.web.de [217.72.192.227])
+        by mx.google.com with ESMTP id g11si11912717fac.163.2011.07.06.22.39.48;
+        Wed, 06 Jul 2011 22:39:48 -0700 (PDT)
+Received-SPF: fail (google.com: domain of bo-bweqjbabfjtk5qau7eegdqccbbcs34@b.e.leagueoflegends.com does not designate 217.72.192.227 as permitted sender) client-ip=217.72.192.227;
+DomainKey-Status: good (test mode)
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of bo-bweqjbabfjtk5qau7eegdqccbbcs34@b.e.leagueoflegends.com does not designate 217.72.192.227 as permitted sender) smtp.mail=bo-bweqjbabfjtk5qau7eegdqccbbcs34@b.e.leagueoflegends.com; domainkeys=pass (test mode) header.From=riotgames@e.leagueoflegends.com
+Received:  from mx37.web.de  ( [172.20.1.177])
+	by fmmailgate02.web.de (Postfix) with ESMTP id 719D01A51A7F7
+	for <ingo.skupin@gmail.com>; Thu,  7 Jul 2011 07:39:12 +0200 (CEST)
+Received: from [63.146.96.140] (helo=mta810.e.leagueoflegends.com)
+	by mx37.web.de with smtp (WEB.DE 4.110 #2)
+	id 1QehIt-0001An-00
+	for ingo.skupin@web.de; Thu, 07 Jul 2011 07:39:12 +0200
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=200505; d=e.leagueoflegends.com;
+  b=UBKLGzRfVLaGpf7GOq3YCQWrwDO9rqy/FUiUnMkrhMSn3NNZ68vLQjaVx6pOYtNMc1o3th0xHS7BKTOBLc9CUoJjjZ5joefGK55uSRlL7ahftvJ6yWUVqApOcmOK7BEdiaJjGFL7VEU/toIoCPrCgdxGpTw3D43IteWkvLLJ9tQ=;
+ h=Date:Message-ID:List-Unsubscribe:From:To:Subject:MIME-Version:Reply-To:Content-type;
+Date: Thu, 7 Jul 2011 05:39:33 -0000
+Message-ID: <bweqjbabfjtk5qau7eegdqccbbcs34.14709758609.9360@mta810.e.leagueoflegends.com>
+List-Unsubscribe: <mailto:rm-0bweqjbabfjtk5qau7eegdqccbbcs34@e.leagueoflegends.com>
+From: "Riot Games" <riotgames@e.leagueoflegends.com>
+To: ingo.skupin@web.de
+Subject: Bereite dich auf Westeuropa und Nord-/Osteuropa vor!
+MIME-Version: 1.0
+Reply-To: "Riot Games" <support-bweqjbabfjtk5qau7eegdqccbbcs34@e.leagueoflegends.com>
+Content-type: multipart/alternative; boundary="=bweqjbabfjtk5qau7eegdqccbbcs34"
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+
+--=bweqjbabfjtk5qau7eegdqccbbcs34
+Content-Type: text/plain; charset="utf-8"
+Content-transfer-encoding: 8bit
+
+LEAGUE of LEGENDS
+
+Falls du Probleme mit der Darstellung dieser E-Mail hast? Klicke hier:
+http://e.leagueoflegends.com/a/tBOFTa0B8GwhtB8cKchNsxRqRMv/browser?t_params=PLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX
+
+Lese diese E-Mail in:
+Espanol
+http://e.leagueoflegends.com/a/tBOFTa0B8GwhtB8cKchNsxRqRMv/browseresp?t_params=PLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX
+Francais
+http://e.leagueoflegends.com/a/tBOFTa0B8GwhtB8cKchNsxRqRMv/browserfr?t_params=PLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX
+Polish
+http://e.leagueoflegends.com/a/tBOFTa0B8GwhtB8cKchNsxRqRMv/browserpl?t_params=PLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX 
+English
+http://e.leagueoflegends.com/a/tBOFTa0B8GwhtB8cKchNsxRqRMv/browseren?t_params=PLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX 
+********************************************************************
+
+Beschwörer!
+
+Während der letzten Monate haben wir uns einen Plan ausgedacht, um die
+Stabilität unserer europäischen Plattform zu verbessern, die im
+Augenblick hunderttausende Spieler gleichzeitig unterstützt. 
+
+Obwohl wir uns über euren Enthusiasmus für das Spiel freuen, so führte
+die Nachfrage immer wieder zu Komplikationen, etwa längeren Wartezeiten,
+nach New York ausgelagerte Spiele oder unplanmäßige Serverwartungen.
+
+Was bedeutet dies also für dich? 
+
+Nun, wir haben unsere europäische Plattform vorbereitet, in zwei neue
+Plattformen aufgeteilt zu werden: Westeuropa und Nord-/Osteuropa. 
+
+Jede dieser Plattformen wird so viele Spieler aufnehmen können, wie es
+die jetzige europäische Plattform bereits tut, was dein Spielerlebnis
+schlagartig verbessern und den Weg für zukünftiges Wachstum ebnen
+wird. 
+
+Die Trennung wird schon bald durchgeführt und danach wird dein
+Beschwörer nur noch auf der dir zugewiesenen Plattform verfügbar
+sein. Solltest du mit der von uns für dich ausgewählten Zielplattform
+nicht zufrieden sein, ist das kein Problem. Du wirst kurz nach der
+Trennung einen kostenlosen Transfer erhalten, mit dem du deine
+Plattform wechseln kannst.
+
+Die dir zugewiesene Plattform ist: EU West
+
+Solltest du eine bestimmte Frage zur Trennung haben, die hier noch
+nicht beantwortet wurde, dann solltest du dir unsere FAQ zur
+europäischen Plattformtrennung ansehen. 
+http://e.leagueoflegends.com/a/tBOFTa0B8GwhtB8cKchNsxRqRMv/riot3
+
+Wir freuen uns, den unseren Spielern gebotenen Service so verbessern
+zu können, dass alle bisher aufgetretenen Probleme dauerhaft der
+Vergangenheit angehören werden! 
+
+Vielen Dank für deine Geduld und danke, dass du League of Legends
+spielst.
+
+********************************************************************
+
+2011 Riot Games. Alle Rechte vorbehalten.
+Dies E-Mail dient der Benachrichtigung über eine Dienstleistung.
+Weitere Informationen findest du in unserer Datenschutzerklärung, in
+unseren Nutzungsbedingungen oder indem du mit uns unter
+lol_de@riotgames.com Kontakt aufnimmst.
+http://e.leagueoflegends.com/a/tBOFTa0B8GwhtB8cKchNsxRqRMv/riot1
+http://e.leagueoflegends.com/a/tBOFTa0B8GwhtB8cKchNsxRqRMv/riot2
+
+10736 Jefferson Blvd. #622 Culver City, CA 90230 
+
+--=bweqjbabfjtk5qau7eegdqccbbcs34
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns=3D"http://www.w3.=
+org/1999/xhtml"><head><title>Riot Games</title><meta http-equiv=3D"Content-=
+Type" content=3D"text/html; charset=3Dutf-8"></head><body onload=3D'' bgcol=
+or=3D"#e3e7e8">
+
+
+
+
+
+
+
+<div style=3D"background-color: #e3e7e8; width: 100%">
+<table>
+<tr>
+<td width=3D"50%">&nbsp;</td>
+<td width=3D"746"><table width=3D"746" bgcolor=3D"#e3e7e8">
+<tr>
+<td><center>
+<font face=3D"arial,helvetica,sans-serif" size=3D"1" color=3D"#000000">Fall=
+s du Probleme mit der Darstellung dieser E-Mail
+hast? <a
+href=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/browser?=
+t_params=3DPLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX"><f=
+ont face=3D"arial,helvetica,sans-serif" size=3D"1"
+color=3D"#064f7a">Klicke hier</font></a>. Lese diese E-Mail in
+<a href=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/brows=
+eresp?t_params=3DPLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rX=
+xX"><font
+face=3D"arial,helvetica,sans-serif" size=3D"1"
+color=3D"#064f7a">Espanol</font></a> | <a
+href=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/browserf=
+r?t_params=3DPLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX">=
+<font
+face=3D"arial,helvetica,sans-serif" size=3D"1"
+color=3D"#064f7a">Francais</font></a> | <a
+href=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/browserp=
+l?t_params=3DPLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX">=
+<font
+face=3D"arial,helvetica,sans-serif" size=3D"1"
+color=3D"#064f7a">Polish</font></a></font></font>
+<font face=3D"arial,helvetica,sans-serif" size=3D"1" color=3D"#000000">| <a
+href=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/browsere=
+n?t_params=3DPLATFORM_NAME%3DEU%2520West%26SUMMONER_NAME%3DXxXpredat0rXxX">=
+<font
+color=3D"#064f7a">English</font></a></font></font>
+</center></td>
+</tr>
+</table>
+<table bgcolor=3D"#e3e7e8" width=3D"100%">
+<tbody>
+<tr>
+<td bgcolor=3D"#e3e7e8" width=3D"100%"><table border=3D"0" cellpadding=3D"0=
+" cellspacing=3D"0" width=3D"746">
+<tbody>
+<tr>
+<td bgcolor=3D"#e3e7e8" width=3D"47" ></td>
+<td bgcolor=3D"#5e97ff" width=3D"655" colspan=3D"4"><img src=3D"http://f.ch=
+tah.com/i/20/2082146413/cstoplogo.jpg"></td>
+<td bgcolor=3D"#e3e7e8" width=3D"44"></td>
+</tr>
+<tr>
+<td bgcolor=3D"#e3e7e8" width=3D"47" height=3D"1"></td>
+<td bgcolor=3D"#5e97ff" width=3D"655" height=3D"1" colspan=3D"4"></td>
+<td bgcolor=3D"#e3e7e8" width=3D"44" height=3D"1"></td>
+</tr>
+<tr>
+<td bgcolor=3D"#e3e7e8" width=3D"47"></td>
+<td bgcolor=3D"#5e97ff" width=3D"1"></td>
+<td bgcolor=3D"#f7f9fb" width=3D"25"></td>
+<td bgcolor=3D"#5e97ff" width=3D"1"></td>
+<td bgcolor=3D"#e3e7e8" width=3D"44"></td>
+</tr>
+</tbody>
+</table>
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"746">
+<tbody>
+<tr>
+<td bgcolor=3D"#e3e7e8" width=3D"47"></td>
+<td bgcolor=3D"#5e97ff" width=3D"1"></td>
+<td bgcolor=3D"#f7f9fb" width=3D"25"></td>
+<td style=3D"background-color: rgb(247, 249, 251); padding: 0px; font-size:=
+ 13px; font-family: Arial,Helvetica,sans-serif; color: rgb(2, 7, 11); line-=
+height: 21px;" valign=3D"top" width=3D"603"><br />
+XxXpredat0rXxX!<br />
+<br />
+W&#228;hrend der letzten Monate haben wir uns einen Plan ausgedacht, um die=
+ Stabilit&#228;t unserer europ&#228;ischen Plattform zu verbessern, die im =
+Augenblick hunderttausende Spieler gleichzeitig unterst&#252;tzt.
+<br />
+<br />
+
+Obwohl wir uns &#252;ber euren Enthusiasmus f&#252;r das Spiel freuen, so f=
+&#252;hrte die Nachfrage immer wieder zu Komplikationen, etwa l&#228;ngeren=
+ Wartezeiten, nach New York ausgelagerte Spiele oder unplanm&#228;&#223;ige=
+ Serverwartungen.
+<br />
+<br />
+Was bedeutet dies also f&#252;r dich?
+<br />
+<br />
+Nun, wir haben unsere europ&#228;ische Plattform vorbereitet, in zwei neue =
+Plattformen aufgeteilt zu werden: <strong>Westeuropa</strong> und <strong>N=
+ord-/Osteuropa</strong>.
+<br />
+<br />
+Jede dieser Plattformen wird so viele Spieler aufnehmen k&#246;nnen, wie es=
+ die jetzige europ&#228;ische Plattform bereits tut, was dein Spielerlebnis=
+ schlagartig verbessern und den Weg f&#252;r zuk&#252;nftiges Wachstum ebne=
+n wird.
+<br />
+<br />
+Die Trennung wird schon bald durchgef&#252;hrt und danach wird dein Beschw&=
+#246;rer nur noch auf der dir zugewiesenen Plattform verf&#252;gbar sein. S=
+olltest du mit der von uns f&#252;r dich ausgew&#228;hlten Zielplattform ni=
+cht zufrieden sein, ist das kein Problem. Du wirst kurz nach der Trennung e=
+inen kostenlosen Transfer erhalten, mit dem du deine Plattform wechseln kan=
+nst.
+<br />
+<br />
+Die dir zugewiesene Plattform ist: <strong>EU West</strong><br />
+<br />
+<a href=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/riot3=
+" target=3D"_blank">Solltest du eine bestimmte Frage zur Trennung haben, di=
+e hier noch nicht beantwortet wurde, dann solltest du dir unsere FAQ zur eu=
+rop&#228;ischen Plattformtrennung ansehen</a>.
+<br />
+<br />
+Wir freuen uns, den unseren Spielern gebotenen Service so verbessern zu k&#=
+246;nnen, dass alle bisher aufgetretenen Probleme dauerhaft der Vergangenhe=
+it angeh&#246;ren werden!
+<br />
+<br />
+Vielen Dank f&#252;r deine Geduld und danke, dass du League of Legends spie=
+lst.
+<br />
+<br>
+
+<br />
+
+</td>
+<td bgcolor=3D"#f7f9fb" width=3D"25"></td>
+<td bgcolor=3D"#5e97ff" width=3D"1"></td>
+<td bgcolor=3D"#e3e7e8" width=3D"44"></td>
+</tr>
+<tr>
+<td bgcolor=3D"#e3e7e8" width=3D"47" height=3D"1"></td>
+<td bgcolor=3D"#5e97ff" width=3D"655" height=3D"1" colspan=3D"5"></td>
+<td bgcolor=3D"#e3e7e8" width=3D"44" height=3D"1"></td>
+</tr>
+</tbody>
+</table>
+<table width=3D"753" cellpadding=3D"10">
+<tbody>
+<tr>
+<td colspan=3D"3" style=3D"color: rgb(62, 62, 62); font-family: Arial,Helve=
+tica,sans-serif; font-size: 10px;" align=3D"left" bgcolor=3D"#e3e7e8" width=
+=3D"753"><a href=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRq=
+RMv/riot4"><img src=3D"http://f.chtah.com/i/20/2082146413/riotlogo.jpg" sty=
+le=3D"display: block;" align=3D"right" border=3D"0"></a>
+2011 Riot Games. Alle Rechte vorbehalten.<br />
+Dies E-Mail dient der Benachrichtigung &uuml;ber eine Dienstleistung.<br />
+Weitere Informationen findest du in unserer <a href=3D"http://e.leagueofleg=
+ends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/riot1" style=3D"color: rgb(0, 67, 19=
+0); text-decoration: none;">Datenschutzerkl&auml;rung</a>, in unseren <a hr=
+ef=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/riot2" sty=
+le=3D"color: rgb(0, 67, 190); text-decoration: none;">Nutzungsbedingungen</=
+a> oder indem du mit uns unter <a href=3D"mailto:lol_de@riotgames.com" styl=
+e=3D"color: rgb(0, 67, 190); text-decoration: none;">lol_de@riotgames.com</=
+a> Kontakt aufnimmst.<br >
+10736 Jefferson Blvd. #622 Culver City, CA 90230
+</td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table></td>
+<td width=3D"50%">&nbsp;</td>
+</tr>
+</table>
+</div>
+
+<img src=3D"http://e.leagueoflegends.com/a/hBOFTa0B8GwhtB8cKchNsxRqRMv/spac=
+er.gif">
+</body></html>
+
+--=bweqjbabfjtk5qau7eegdqccbbcs34--
+

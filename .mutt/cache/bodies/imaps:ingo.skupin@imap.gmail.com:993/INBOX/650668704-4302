@@ -1,0 +1,57 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp128424vcb;
+        Sun, 18 Nov 2012 13:59:19 -0800 (PST)
+Received: by 10.14.203.3 with SMTP id e3mr17493715eeo.35.1353275958222;
+        Sun, 18 Nov 2012 13:59:18 -0800 (PST)
+Return-Path: <dennis.zimmer1993@gmail.com>
+Received: from mail-ea0-f172.google.com (mail-ea0-f172.google.com [209.85.215.172])
+        by mx.google.com with ESMTPS id i44si13500444eeo.79.2012.11.18.13.59.17
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 18 Nov 2012 13:59:18 -0800 (PST)
+Received-SPF: pass (google.com: domain of dennis.zimmer1993@gmail.com designates 209.85.215.172 as permitted sender) client-ip=209.85.215.172;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of dennis.zimmer1993@gmail.com designates 209.85.215.172 as permitted sender) smtp.mail=dennis.zimmer1993@gmail.com; dkim=pass header.i=@gmail.com
+Received: by mail-ea0-f172.google.com with SMTP id a1so1078916eaa.31
+        for <ingo.skupin@googlemail.com>; Sun, 18 Nov 2012 13:59:17 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=oh48F1JKVfHEzzHNPhZz3KxLfWQPNhjHvt1Il4QPbjo=;
+        b=g+v3zkOjs4KyU/jF7N/e+LC9xCa0tmLtMdlt4NMgMaz6GGofg+7SYO8c0TR87Qy8IM
+         HeAozXaxScRy8VeourWvgCioOAtLuQpixAdrH3Qlv26BFITHqOm8T4ZTMIrHy1s2g4d3
+         byfKk5yg2h+G6IYxDRZVsvWou2esuSwR8fYHvlKdJFeDglSL8EHdJOoP/l1plk/Q+V/W
+         2zDg+Yjc6VcsgqjzdCygPOlmQSENyKonv/a7u5cKl5VXOFv44GOgQoAvRhWj0Q3TURYp
+         qmjM9UeBQcBNe86ZBetighzUghwVVxU/N0P6lOEtDaclFRVJOzx/am2InysofzRWeLp6
+         F5lg==
+Received: by 10.14.209.136 with SMTP id s8mr17394264eeo.33.1353275957753;
+        Sun, 18 Nov 2012 13:59:17 -0800 (PST)
+Return-Path: <dennis.zimmer1993@gmail.com>
+Received: from [127.0.0.1] (HSI-KBW-095-208-046-015.hsi5.kabel-badenwuerttemberg.de. [95.208.46.15])
+        by mx.google.com with ESMTPS id k2sm20143401eep.15.2012.11.18.13.59.16
+        (version=SSLv3 cipher=OTHER);
+        Sun, 18 Nov 2012 13:59:16 -0800 (PST)
+Message-ID: <50A95A34.7010809@gmail.com>
+Date: Sun, 18 Nov 2012 22:59:16 +0100
+From: Dennis Zimmer <dennis.zimmer1993@gmail.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20121026 Thunderbird/16.0.2
+MIME-Version: 1.0
+To: ingo.skupin@googlemail.com
+Subject: ETI =?ISO-8859-15?Q?=DCbungsblatt_4?=
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hey
+ich versteh einfach schon die 1a nich richtig. Wie soll ich nen 
+Widerstand bestimmen bei dem ich keine Werte gegeben habe? Hab nur die 
+Formel I=j*(omega)*C*U bzw U=j(omega)LI gefunden. Reicht das wenn ich 
+die nun in Z = U/I einsetz und dann erweiter bzw kürze?
+Und bei der 1b hab ich nur die Formel f=1/(2*pi*sqrt(L*C)), was sich 
+ohne werte auch schwer berechnen lässt? Bzw wo ist da der Imaginärteil? 
+muss ich dafür ne andere Formel finden?
+
+Bist du schon fertig mit den Übungsblättern? Also den alten? Hab nämlich 
+noch keine Punkte.
+
+grüße
+
+

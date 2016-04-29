@@ -1,0 +1,58 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp148109pdb;
+        Mon, 27 Jan 2014 12:16:10 -0800 (PST)
+X-Received: by 10.180.11.36 with SMTP id n4mr13410069wib.4.1390853769026;
+        Mon, 27 Jan 2014 12:16:09 -0800 (PST)
+Return-Path: <20140127201607b79e3d40b7f14008ba3819effab25fc0@bounces.amazon.de>
+Received: from smtp-out-127-100.amazon.com (smtp-out-127-100.amazon.com. [176.32.127.100])
+        by mx.google.com with ESMTP id c8si3166200wix.16.2014.01.27.12.16.08
+        for <ingo.skupin@gmail.com>;
+        Mon, 27 Jan 2014 12:16:09 -0800 (PST)
+Received-SPF: pass (google.com: domain of 20140127201607b79e3d40b7f14008ba3819effab25fc0@bounces.amazon.de designates 176.32.127.100 as permitted sender) client-ip=176.32.127.100;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 20140127201607b79e3d40b7f14008ba3819effab25fc0@bounces.amazon.de designates 176.32.127.100 as permitted sender) smtp.mail=20140127201607b79e3d40b7f14008ba3819effab25fc0@bounces.amazon.de;
+       dkim=pass header.i=bestellung-aktuell@amazon.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=bestellung-aktuell@amazon.de; q=dns/txt;
+  s=amazon201209; t=1390853749; x=1422389749;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=X2nglrkGX+0n6pFS0V1Q4NfsQji4pwbhN5YkoR95uu0=;
+  b=dhGvYLJMgNksHL65FcIEUJQRekfQqrRvaMDYiLksh6u+zmnaLaR1Ysa+
+   ijj80nEmJke8U3Eo/v4vXuZPPqaW2aLwcRbAFxHfOzKvE7FBmncAJwjd4
+   UivvemLZg2+Gc21lS1uuxZckMOm+xZUDXdBrNzWfCqPPhxOR4cDCquyTE
+   M=;
+Date: Mon, 27 Jan 2014 20:16:07 +0000
+From: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+Reply-To: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Message-ID: <urn.correios.msg.20140127201607b79e3d40b7f14008ba3819effab25fc0@1390853767802.rte-svc-eu-1bbig-i-ddfcd591.eu-west-1.amazon.com>
+Subject: Amazon.de -- Bestellungsaenderung (304-3610420-9909968)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Bounces-to: 20140127201607b79e3d40b7f14008ba3819effab25fc0@bounces.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20140127201607b79e3d40b7f14008ba3819effab25fc0@1390853767802.rte-svc-eu-1bbig-i-ddfcd591.eu-west-1.amazon.com>
+
+Hallo Ingo Skupin,
+
+Sie haben die Lieferadresse f=C3=BCr Ihre Bestellung 304-3610420-9909968 be=
+i XPRESS Multimedia erfolgreich ge=C3=A4ndert. Sie lautet jetzt:
+
+Ingo Skupin
+Bachgasse 26
+T=C3=BCbingen, Baden-W=C3=BCrttemberg 72070
+Deutschland
+
+Sobald Ihre Bestellung verschickt wurde, senden wir Ihnen eine Best=C3=A4ti=
+gung per E-Mail.
+
+Vielen Dank f=C3=BCr Ihren Besuch bei Amazon.de!
+
+---------------------------------------------------------------------
+Amazon.de
+http://www.amazon.de
+---------------------------------------------------------------------

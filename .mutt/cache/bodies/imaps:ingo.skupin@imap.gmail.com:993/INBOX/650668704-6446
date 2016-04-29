@@ -1,0 +1,248 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp65755pdb;
+        Fri, 13 Sep 2013 01:54:46 -0700 (PDT)
+X-Received: by 10.49.127.179 with SMTP id nh19mr22124273qeb.1.1379062485678;
+        Fri, 13 Sep 2013 01:54:45 -0700 (PDT)
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+Received: from mx-out.facebook.com (outmail017.ash2.facebook.com. [66.220.155.151])
+        by mx.google.com with ESMTP id 9si7431412qes.69.1969.12.31.16.00.00;
+        Fri, 13 Sep 2013 01:54:45 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+zj4oc2az_s26@facebookmail.com designates 66.220.155.151 as permitted sender) client-ip=66.220.155.151;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notification+zj4oc2az_s26@facebookmail.com designates 66.220.155.151 as permitted sender) smtp.mail=notification+zj4oc2az_s26@facebookmail.com;
+       dkim=pass header.i=@facebookmail.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=facebookmail.com
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2011-q2; t=1379062484;
+	bh=Sr8ywEQpJu69IapSJyqOHv2ai1P2SoxUd86qpMdB6pY=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=laOrrOep2pvdy+m3n5UZaTszmqBHbyNBYtTHxyH6KYCvVwX9Tf0Mqu2FWnt8pD2mZ
+	 MMCbu2cDdguMl3bIe129OVyzmz05r2/mZIxUQpWoYOnitVtWpuA6PAckRFs4mgxZvC
+	 TQyPfCsZHOuWDsA2FGWDVCgbeBeQyMjw/MCCnVSg=
+Received: from [10.156.126.33] ([10.156.126.33:38929])
+	by smout016.ash4.facebook.com (envelope-from <notification+zj4oc2az_s26@facebookmail.com>)
+	(ecelerity 3.6.0.37104 r(/root/Platform:develop)) with ECSTREAM
+	id 34/EA-03829-4D2D2325; Fri, 13 Sep 2013 01:54:44 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Fri, 13 Sep 2013 01:54:44 -0700
+To: Ingo Skupin <ingo.skupin@gmail.com>
+From: "Facebook" <notification+zj4oc2az_s26@facebookmail.com>
+Reply-to: noreply <noreply@facebookmail.com>
+Subject: =?UTF-8?B?RnJhdWtlIE3DvGxsZXIgcw==?=
+ =?UTF-8?B?aGFyZWQgYSBhbmNob3Ig?=
+ =?UTF-8?B?Sm9iY2VudGVyLUNoZWZz?=
+ =?UTF-8?B?OiBQcsOkbWllbiBmw7xyIEg=?=
+ =?UTF-8?B?YXJ0eiBJVi4uLg==?=
+Message-ID: <601e7402567334a7fb16c52a5a2b80cb@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zj4oc2az_s26@facebookmail.com
+X-Facebook-Notify: friend_activity; mailid=89cd002G5af31cfea1d0G0G109
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_601e7402567334a7fb16c52a5a2b80cb"
+
+
+--b1_601e7402567334a7fb16c52a5a2b80cb
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+View Post
+http://www.facebook.com/n/?frauke.mueller%2Fposts%2F643229655707422&medium=
+=3Demail&mid=3D89cd002G5af31cfea1d0G0G109&bcode=3D1.1379062484.Abnsp07A4es=
+nkumS&n_m=3Dingo.skupin%40gmail.com&lloc=3D1st_cta
+
+View Frauke's Timeline
+http://www.facebook.com/n/?frauke.mueller&medium=3Demail&mid=3D89cd002G5af=
+31cfea1d0G0G109&bcode=3D1.1379062484.Abnsp07A4esnkumS&n_m=3Dingo.skupin%40=
+gmail.com&lloc=3D2nd_cta
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Hi Ingo,
+
+Frauke M=C3=BCller shared a link.
+
+[http://www.facebook.com/n/?frauke.mueller&medium=3Demail&mid=3D89cd002G5a=
+f31cfea1d0G0G109&bcode=3D1.1379062484.Abnsp07A4esnkumS&n_m=3Dingo.skupin%4=
+0gmail.com&lloc=3Dprofile_img]=20
+
+Thank ye,
+Ye Olde Facebook Master Crew
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+This message was sent to ingo.skupin@gmail.com. If you don't want to =
+receive these emails from Facebook in the future, please follow the link =
+below to unsubscribe.
+https://www.facebook.com/o.php?k=3DAS1qTR931sFyS1YD&u=3D100000210002384&mi=
+d=3D89cd002G5af31cfea1d0G0G109
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_601e7402567334a7fb16c52a5a2b80cb
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Ye olde Facebook</title><meta =
+http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" =
+/></head><body style=3D"margin:0;padding:0;" dir=3D"ltr"><table =
+cellspacing=3D"0" cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98%;" border=3D"0"><tr><td =
+id=3D"email_content" style=3D"font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:12px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verda=
+na,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vert=
+ical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:5px =
+20px;"><a style=3D"text-decoration: none;" href=3D"http://www.facebook.com=
+/n/?frauke.mueller%2Fposts%2F643229655707422&amp;medium=3Demail&amp;mid=3D=
+89cd002G5af31cfea1d0G0G109&amp;bcode=3D1.1379062484.Abnsp07A4esnkumS&amp;n=
+_m=3Dingo.skupin%40gmail.com&amp;lloc=3Dlogo"><span style=3D"background:#3=
+b5998;color:#FFFFFF;font-weight:bold;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; =
+font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:basel=
+ine;">facebook</span></a></td></tr></table><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;width:620px;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;background-color:#f2f2f2;border-left:none;border-right:=
+none;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"620px" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:620px=
+;"><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:20px;background-color:#fff;border-left:none;border-right:no=
+ne;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:10px;"><span =
+style=3D"color:#333333;font-weight:bold;"><a href=3D"http://www.facebook.c=
+om/n/?frauke.mueller&amp;medium=3Demail&amp;mid=3D89cd002G5af31cfea1d0G0G1=
+09&amp;bcode=3D1.1379062484.Abnsp07A4esnkumS&amp;n_m=3Dingo.skupin%40gmail=
+.com" style=3D"color:#3b5998;text-decoration:none;">Frauke M=C3=BCller</a> =
+shared a link.</span></td></tr><tr><td style=3D"font-size:11px;font-family=
+:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:10px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td valign=3D"top" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-right:15px;text-align:left;"><a href=3D"http://www.facebook=
+.com/n/?frauke.mueller&amp;medium=3Demail&amp;mid=3D89cd002G5af31cfea1d0G0=
+G109&amp;bcode=3D1.1379062484.Abnsp07A4esnkumS&amp;n_m=3Dingo.skupin%40gma=
+il.com&amp;lloc=3Dprofile_img" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbcdn-pr=
+ofile-a.akamaihd.net/hprofile-ak-prn2/211917_100000611798664_375681974_q.j=
+pg" style=3D"border:0;" /></a></td><td valign=3D"top" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;width:100%;text-align:left;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-bottom:4px;"><span =
+style=3D"color:#111111;font-size:13px;font-weight:bold;"><a =
+href=3D"http://www.facebook.com/n/?frauke.mueller&amp;medium=3Demail&amp;m=
+id=3D89cd002G5af31cfea1d0G0G109&amp;bcode=3D1.1379062484.Abnsp07A4esnkumS&=
+amp;n_m=3Dingo.skupin%40gmail.com&amp;lloc=3Dname" =
+style=3D"color:#3b5998;text-decoration:none;">Frauke =
+M=C3=BCller</a></span></td></tr><tr><td style=3D"font-size:11px;font-famil=
+y:LucidaGrande,tahoma,verdana,arial,sans-serif;padding-top:4px;padding-bot=
+tom:4px;"><span style=3D"color:#333333;"></span></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:4px;padding-bottom:4px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+valign=3D"top" style=3D"padding-right:10px;font-size: 0px;"><img =
+src=3D"https://fbexternal-a.akamaihd.net/safe_image.php?d=3DAQAgrRTVAzKlC-=
+Yh&amp;w=3D154&amp;h=3D154&amp;url=3Dhttp%3A%2F%2Fwww.gegen-hartz.de%2Fnac=
+hrichtenueberhartziv%2F..%2Fimages%2Fpraemien-jobcenter_160.jpg" =
+style=3D"border:0;" /></td><td valign=3D"top" style=3D"width:100%;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;font-weight:bold;"><a =
+href=3D"http://www.facebook.com/n/?frauke.mueller%2Fposts%2F64322965570742=
+2&amp;medium=3Demail&amp;mid=3D89cd002G5af31cfea1d0G0G109&amp;bcode=3D1.13=
+79062484.Abnsp07A4esnkumS&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;">Jobcenter-Chefs: =
+Pr=C3=A4mien f=C3=BCr Hartz IV Sanktionen</a></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;"><a href=3D"http://www.facebook.com/n/?frauke.mueller%2Fposts%2F64=
+3229655707422&amp;medium=3Demail&amp;mid=3D89cd002G5af31cfea1d0G0G109&amp;=
+bcode=3D1.1379062484.Abnsp07A4esnkumS&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;">www.gegen-hartz.de</a></td><=
+/tr><tr><td style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdan=
+a,arial,sans-serif;color:#808080;padding:5px 0px;">In Berlin werden und =
+bundesweiten Vergleich die meisten Sanktionen gegen Hartz IV Bezieher =
+ausgesprochen. Nirgendwo anders sind die Beh=C3=B6rden anscheinend so =
+Straffixiert wie in der Bundeshauptstadt. Mittlerweile sind es doppelt so =
+viele Leistungsk=C3=BCrzungen wie vor sechs Jahren. Somit ist jeder 15. =
+Lei...</td></tr></table></td></tr></table></td></tr><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-top:4px;"><span style=3D"color:#333333;"></span></td></tr><=
+/table></td></tr></table></td></tr></table></td></tr></table></td></tr><tr=
+><td style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial=
+,sans-serif;padding:0px;width:620px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;" =
+border=3D"0"><tr><td style=3D"font-size:11px;font-family:LucidaGrande,taho=
+ma,verdana,arial,sans-serif;padding:7px 20px;background-color:#f2f2f2;bord=
+er-left:none;border-right:none;border-top:1px solid #ccc;border-bottom:1px =
+solid #ccc;"><table cellspacing=3D"0" cellpadding=3D"0" style=3D""><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-left:65px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #29447E #29447E =
+#1a356e;background-color: #5b74a8;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a =
+href=3D"http://www.facebook.com/n/?frauke.mueller%2Fposts%2F64322965570742=
+2&amp;medium=3Demail&amp;mid=3D89cd002G5af31cfea1d0G0G109&amp;bcode=3D1.13=
+79062484.Abnsp07A4esnkumS&amp;n_m=3Dingo.skupin%40gmail.com&amp;lloc=3D1st=
+_cta" style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #fff;font-size: =
+13px;">View Post</span></a></td></tr></table></td></tr></table></td><td =
+style=3D"padding:0px 5px;"></td><td style=3D"font-size:11px;font-family:Lu=
+cidaGrande,tahoma,verdana,arial,sans-serif;padding:7px 0px 6px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"border-width: =
+1px;border-style: solid;border-color: #999 #999 #888;background-color: =
+#eee;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:2px 6px =
+4px;border-top:1px solid #fff;"><a href=3D"http://www.facebook.com/n/?frau=
+ke.mueller&amp;medium=3Demail&amp;mid=3D89cd002G5af31cfea1d0G0G109&amp;bco=
+de=3D1.1379062484.Abnsp07A4esnkumS&amp;n_m=3Dingo.skupin%40gmail.com&amp;l=
+loc=3D2nd_cta" style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #333;font-size: =
+13px;">View Frauke&#039;s Timeline</span></a></td></tr></table></td></tr><=
+/table></td></tr></table></td></tr></table></td></tr></table></td></tr></t=
+able><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:620px;"><tr><td =
+style=3D"font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, =
+verdana, arial, sans-serif;padding:30px 20px;background-color:#fff;border-=
+left:none;border-right:none;border-top:none;border-bottom:none;color:#9999=
+99;border:none;">This message was sent to <a =
+href=3D"mailto:ingo.skupin&#064;gmail.com" style=3D"color:#3b5998;text-dec=
+oration:none;">ingo.skupin&#064;gmail.com</a>. If you don&#039;t want to =
+receive these emails from Facebook in the future, please <a =
+href=3D"https://www.facebook.com/o.php?k=3DAS1qTR931sFyS1YD&amp;u=3D100000=
+210002384&amp;mid=3D89cd002G5af31cfea1d0G0G109" =
+style=3D"color:#3b5998;text-decoration:none;">unsubscribe</a>.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table><span style=3D"width:620px;"><img =
+src=3D"https://www.facebook.com/email_open_log_pic.php?c=3D1436453046&amp;=
+mid=3D89cd002G5af31cfea1d0G0G109" style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_601e7402567334a7fb16c52a5a2b80cb--
+

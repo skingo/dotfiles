@@ -1,0 +1,70 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp180738pdb;
+        Tue, 26 Nov 2013 04:41:10 -0800 (PST)
+Return-Path: <ml.deutschmann@gmail.com>
+Received-SPF: pass (google.com: domain of ml.deutschmann@gmail.com designates 10.224.38.74 as permitted sender) client-ip=10.224.38.74
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of ml.deutschmann@gmail.com designates 10.224.38.74 as permitted sender) smtp.mail=ml.deutschmann@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.224.38.74])
+        by 10.224.38.74 with SMTP id a10mr55925453qae.10.1385469670388 (num_hops = 1);
+        Tue, 26 Nov 2013 04:41:10 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to:content-type;
+        bh=JI07pxPlr6fyEgeJGaVot7yaRmjlfQycKVLzHcS17cs=;
+        b=P8ER/qXWxlZY1HLKtgFpM+/V7w0+W7pGuI+vsoS+vv7yO0R9sOnNO3J46fjdSAFmyU
+         tpwcI0GYwW8bg0dUL3BA/DwXh5IWPJEyKhfEqvXHnProOQFX71tkyu4Z4uGt06XURolT
+         PP2q+vmcs8hMNtOnu25x/UPNfKTtKUNS8oluqJtUEVG5ppzoP1IWK+DH94DsXsVUeeDw
+         heDeDsr4kxNekUdu2TvYY3tVjtd5GaI9JhaOTHAH2qP/9k/NwDpYkYdy6jQDqSZpKFoU
+         wnl10+wgspvg+AGzN0+F+JHlP8rIolQCG18IHeda/+Dbbp8Y8ZKnTPRJu6kUta3ULb+M
+         I3xw==
+X-Received: by 10.224.38.74 with SMTP id a10mr55925453qae.10.1385469670384;
+ Tue, 26 Nov 2013 04:41:10 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.96.52.42 with HTTP; Tue, 26 Nov 2013 04:40:50 -0800 (PST)
+From: Merle Deutschmann <ml.deutschmann@gmail.com>
+Date: Tue, 26 Nov 2013 13:40:50 +0100
+Message-ID: <CAO5o5EhMyZN5YSVp2V31bP0Tx28T-z_YzizjTerBu+fpK3_X6Q@mail.gmail.com>
+Subject: :)
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11c2acca8ce97604ec13cbd3
+
+--001a11c2acca8ce97604ec13cbd3
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+du bist doch toll :)
+
+ich hab in meinem Posteingang (mal wieder) eine Email von dir gefunden
+(zugegeben, ich hab einfach nach unten gescrollt bis ich nur noch Emails
+von dir in einer langen Reihe hatte). Es war eine vom 27. August, total
+lieb. hach du.
+Ich freu mich schon wieder aufs K=FCssen und Streicheln heute Abend. und au=
+fs
+Kuscheln. Irgendwann ist auch das =DCbungsblatt rum und du gehst ins Bett u=
+nd
+entweder bin ich da dann schon oder wir gehen gleichzeitig schlafen aber
+wie auch immer: Kuschelst du dann noch mit mir?
+
+Ich liebe dich, wei=DFt du das?
+der Teks
+
+--001a11c2acca8ce97604ec13cbd3
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">du bist doch toll :)<div><br></div><div>ich hab in meinem =
+Posteingang (mal wieder) eine Email von dir gefunden (zugegeben, ich hab ei=
+nfach nach unten gescrollt bis ich nur noch Emails von dir in einer langen =
+Reihe hatte). Es war eine vom 27. August, total lieb. hach du.=A0</div>
+
+<div>Ich freu mich schon wieder aufs K=FCssen und Streicheln heute Abend. u=
+nd aufs Kuscheln. Irgendwann ist auch das =DCbungsblatt rum und du gehst in=
+s Bett und entweder bin ich da dann schon oder wir gehen gleichzeitig schla=
+fen aber wie auch immer: Kuschelst du dann noch mit mir?=A0</div>
+
+<div><br></div><div>Ich liebe dich, wei=DFt du das?=A0</div><div>der Teks</=
+div></div>
+
+--001a11c2acca8ce97604ec13cbd3--

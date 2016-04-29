@@ -1,0 +1,177 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.4 with SMTP id b4csp62763vcj;
+        Mon, 16 Apr 2012 06:00:45 -0700 (PDT)
+Received: by 10.180.80.104 with SMTP id q8mr18567218wix.14.1334581244735;
+        Mon, 16 Apr 2012 06:00:44 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id r8si18265640weq.31.2012.04.16.06.00.44;
+        Mon, 16 Apr 2012 06:00:44 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-vb0-f46.google.com ([209.85.212.46]) by mx-ha.web.de
+ (mxweb101) with ESMTP (Nemesis) id 0M7Yt9-1S6TLe2P27-00wtCv for
+ <ingo.skupin@gmail.com>; Mon, 16 Apr 2012 15:00:44 +0200
+Received: by vbbff1 with SMTP id ff1so5501044vbb.33
+        for <multiple recipients>; Mon, 16 Apr 2012 06:00:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=+VIKBTwL7I6B2WNxJno5uHvhxQGEbZNBRi7WimoubRk=;
+        b=CUabRnloMcM9lId8H3tV4WxwKl6/UhigfMCD6+LZK7AE0po5tZkxAiE/o0D16yH8yc
+         UU1HD0mgWKZZLgGU33tG0iE0E2eeXXcy3vRTA05jSILeRmGgloccL2ctyrEbDRT3ICOs
+         dZos86bShbUhnHOf81GKR2I8Q7BRveOyfTRvEElWGuJ6jwLzKAMEd3mv8Q9FJYs8qQOQ
+         00XKa27RVYPv85i9YN0erZXqzIVHYa5uasMcImxGTBSrgwfLU835UhcwGaqOyITZ9bfD
+         5Poyzt2kouuEKW+2g8oS84deiQzCzcO+xP+1NLt0ccVd/4fLGq10rfCQlKOy3k/YkG0B
+         KQBg==
+MIME-Version: 1.0
+Received: by 10.52.21.137 with SMTP id v9mr4847439vde.61.1334581233559; Mon,
+ 16 Apr 2012 06:00:33 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.220.225.195 with HTTP; Mon, 16 Apr 2012 06:00:33 -0700 (PDT)
+In-Reply-To: <CAN1A5uAYfPgfH6A-W1+04SB3XfTgLGk3KPdhso76rSWDgb4mNA@mail.gmail.com>
+References: <cfb06c6e-d612-4301-b34b-e1675bb71c39@email.android.com>
+	<3fab9348-11d0-465a-86df-7cf689d302b1@email.android.com>
+	<CAN1A5uAYfPgfH6A-W1+04SB3XfTgLGk3KPdhso76rSWDgb4mNA@mail.gmail.com>
+Date: Mon, 16 Apr 2012 15:00:33 +0200
+X-Google-Sender-Auth: coFUL1oi0UnVKTmdRT5MgdE2mMk
+Message-ID: <CAN1A5uBWqB5hxR9eG7z0px1LVS8iNztyv67RXU2gG4jKBY7EOQ@mail.gmail.com>
+Subject: Re: Bilder
+From: Florian Sebert <florian@floriansebert.de>
+To: Martina Pfister <martina@pfister-heidelberg.de>, 
+	Sabine Pfister <pfistersabine@googlemail.com>, Valerie Bartel <valerie.bartel@gmx.de>, 
+	Bedrin Noah <kingsaxello@googlemail.com>, Steffen Sautter <steffen.sautter@web.de>, 
+	Tizian Decker <tizian_decker@web.de>, Yannick Frey <yannick.frey1994@web.de>, 
+	Ingo Skupin <ingo.skupin@web.de>, christine-erchinger@web.de, 
+	"Dr. Stefan Wiehr" <stefan@wiehr.de>, 
+	Rainer Pfister <rainerpfister@blackforestentertainment.org>, 
+	Stefan Pfister <s.pfister@dkfz-heidelberg.de>, "Harry D. Bath" <harryd.bath@t-online.de>, 
+	Daniel Metzger <jandan@gmx.de>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-UI-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+Hallo zusammen,
+
+ich stelle fest, dass das Hochladen von Fotos auf Google+ / Picasa
+nicht so einfach ist, wenn man es noch nie gemacht hat.
+
+Deshalb f=FCr die Betroffenen nachfolgend eine kleine Anleitung:
+
+1. Die Seite https://picasaweb.google.com/home aufrufen.
+2. Einloggen mit "saxophon.ensemble" und "vino rosso".
+3. Das Album "Italia 2012" =F6ffnen (ggf. vorher auf "My Photos" klicken).
+4. In der Leiste oberhalb der Bilder auf "Add photos" klicken.
+5. Jetzt gibt es mehrere M=F6glichkeiten.
+   5.1 Aus einem ge=F6ffneten Explorer Window markierte Bild- und
+Videodateien bei gedr=FCckter linker Maustaste in das Feld "Drag photos
+here" ziehen. Die Dateien werden dann automatisch hochgeladen und wenn
+m=F6glich in die richtige zeitliche Reihenfolge gebracht.
+   5.2 "Select photos from your Computer" anklicken, im sich =F6ffnenden
+Fenster die Bild- und Videodateien markieren und dann "Open" dr=FCcken.
+Die Dateien werden dann automatisch hochgeladen und wenn m=F6glich in
+die richtige zeitliche Reihenfolge gebracht.
+6. Abgebildete Personen k=F6nnen benannt werden (das ist ganz nett, wenn
+man z.B. alle Bilder vom Pferdle haben will ;) )
+
+Alternativ k=F6nnen Bilder auch per E-Mail oder ganz bequem per Picasa
+Software hochgeladen werden. Weitere Infos gibts auf
+http://support.google.com/picasa/bin/answer.py?hl=3Den&answer=3D39499&topic=
+=3D1689793&ctx=3Dtopic
+
+Solltet ihr Platzprobleme bekommen, bitte Bescheid sagen!
+
+Liebe Gr=FC=DFe
+Florian
+
+2012/4/15 Florian Sebert <florian@floriansebert.de>:
+> Hallo nochmal,
+>
+> das mit der Dropbox ist suboptimal, wenn es um Bilder geht.
+>
+> Ich habe deshalb ein google+ Konto angelegt, unter welchem man die
+> Bilder speichern kann. Ihr m=FCsst euch - trotz zwangsl=E4ufig
+> verschickter Einladungen - nicht dazu anmelden. Ihr k=F6nnt alle einfach
+> die Zugangsdaten dieses einen Account verwenden um eure Bilder und
+> Filme hochzuladen.
+>
+> Login: =A0 =A0 =A0 saxophon.ensemble
+> Passwort: vino rosso
+>
+> Es w=E4re super, wenn ihr eure Bilder/Videos in der f=FCr das online
+> sharing optimierten Gr=F6=DFe (das ist die Standardeinstellung) in das
+> bereits angelegte Album hochladen k=F6nntet. Weniges gibt es zu
+> beachten:
+>
+> 1. Eine kleine Bildunterschrift w=E4re fein,
+> 2. in jedem Fall aber bitte ein Tag mit eurem Namen der Form "--
+> <Name>", damit man ggf. die Originale nachfragen kann.
+> 3. Die Bilder bitte in ihrer zeitlichen Abfolge anordnen.
+> 4. Die in den Bildern abgebildeten Ensemblemitglieder taggen
+> (optional, aber eine super Sache!)
+>
+> Noch ein Tipp: Mit der Picasa-Software geht es noch schneller und
+> einfacher als =FCber die Website selbst!
+>
+> Bei Fragen stehe ich nat=FCrlich gerne zur Verf=FCgung.
+>
+> Liebe Gr=FC=DFe
+> Florian
+>
+> 2012/4/15 Florian Sebert <florian@floriansebert.de>:
+>> Hallo zusammen,
+>>
+>> nachdem das Konsolidieren der individuellen Fotoarchive w=E4hrend der Re=
+ise -
+>> wie bef=FCrchtet - str=E4flich vernachl=E4ssigt wurde und zum Teil auch =
+aufgrund
+>> technischer Limitationen schlicht unm=F6glich war, m=F6chte ich hiermit =
+dazu
+>> aufrufen, INNERHALB DER N=C4CHSTEN TAGE eure Speicherkarten nach lustige=
+n,
+>> interessanten, k=FCnstlerisch wertvollen, geselligen, entlarvenden,
+>> idyllischen, romantischen oder einfach sehenswerten Bildern zu durchfors=
+ten
+>> und dann in ein auf euren Namen lautendes Unterverzeichnis unseres Dropb=
+ox
+>> Folders hochzuladen:
+>>
+>>
+>> http://db.tt/BoWdlnaS
+>>
+>> Ich werde baldm=F6glichst mit gutem Beispiel voranzugehen versuchen :-)
+>>
+>> Liebe Gr=FC=DFe
+>> Florian
+>> --
+>> Sent via K-9 for Android on Galaxy S2.
+>>
+>>
+>>
+>> Martina Pfister <martina@pfister-heidelberg.de> schrieb:
+>
+>
+>
+> --
+> Dr. Florian Sebert
+> d-fine GmbH
+> Munich Office
+> Bavariafilmplatz 8, 82031 Gr=FCnwald
+> Mobil +49 (0)162 2631334
+> Tel =A0 =A0+49 (0)89 7908617 391
+> Fax =A0 +49 (0)89 7908617 202
+> www.d-fine.de
+
+
+
+--=20
+Dr. Florian Sebert
+d-fine GmbH
+Munich Office
+Bavariafilmplatz 8, 82031 Gr=FCnwald
+Mobil +49 (0)162 2631334
+Tel =A0 =A0+49 (0)89 7908617 391
+Fax =A0 +49 (0)89 7908617 202
+www.d-fine.de

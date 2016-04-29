@@ -1,0 +1,275 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.73.145 with SMTP id q17cs167317vcj;
+        Fri, 27 May 2011 15:24:07 -0700 (PDT)
+Received: by 10.227.206.135 with SMTP id fu7mr2540776wbb.64.1306535046769;
+        Fri, 27 May 2011 15:24:06 -0700 (PDT)
+Return-Path: <thomas.ringhoffer@gmx.de>
+Received: from fmmailgate02.web.de (fmmailgate02.web.de [217.72.192.227])
+        by mx.google.com with ESMTP id 65si4350616wem.112.2011.05.27.15.24.06;
+        Fri, 27 May 2011 15:24:06 -0700 (PDT)
+Received-SPF: fail (google.com: domain of thomas.ringhoffer@gmx.de does not designate 217.72.192.227 as permitted sender) client-ip=217.72.192.227;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of thomas.ringhoffer@gmx.de does not designate 217.72.192.227 as permitted sender) smtp.mail=thomas.ringhoffer@gmx.de
+Received:  from mx21.web.de  ( [172.20.3.150])
+	by fmmailgate02.web.de (Postfix) with ESMTP id 2D28C1A05FEE8
+	for <ingo.skupin@gmail.com>; Sat, 28 May 2011 00:24:06 +0200 (CEST)
+Received: from [213.165.64.22] (helo=mailout-de.gmx.net)
+	by mx21.web.de with smtp (WEB.DE 4.110 #2)
+	id 1QQ5Rt-0008Pv-00
+	for ingo.skupin@web.de; Sat, 28 May 2011 00:24:05 +0200
+Received: (qmail invoked by alias); 27 May 2011 22:24:04 -0000
+Received: from dslb-088-065-224-250.pools.arcor-ip.net (EHLO musikzimmer) [88.65.224.250]
+  by mail.gmx.net (mp012) with SMTP; 28 May 2011 00:24:04 +0200
+X-Authenticated: #764207
+X-Provags-ID: V01U2FsdGVkX1/CKXlaM+nCJaz4BOPnLRy5WWwEoZzNdviitNajuP
+	f+7ooJff1IU9HU
+From: "Thomas gmx" <thomas.ringhoffer@gmx.de>
+To: "Thomas Ringhoffer" <thomas.ringhoffer@gmx.de>,
+	"Alina Bosch" <alina_bosch@hotmail.de>,
+	"Heike Besenfelder" <heikebesenfelder@gmx.de>,
+	=?iso-8859-1?Q?Julia_Hangkamer-K=FChnen?= <jule.hk@googlemail.com>,
+	"Katharina Gotthardt" <kathi.gotthardt@gmx.de>,
+	"Kerstin Hummel" <k.a.s.h@web.de>,
+	"Laura Henzler" <laura.henzler@kabelbw.de>,
+	"Leona Skupin" <leona.skupin@web.de>,
+	"Mirjam Hemberger" <mirjam-hemberger@t-online.de>,
+	"Nora Walz" <nora7487@t-online.de>,
+	"Vera Ringhoffer" <vera.ringhoffer@web.de>,
+	"Anika Umhey" <zupu2005@arcor.de>,
+	"Caroline Jasmin Machanek" <cmachanek@web.de>,
+	=?iso-8859-1?Q?Elena_Gro=DF?= <ele.gross@gmx.de>,
+	"Helena Kiltz" <helenakiltz@web.de>,
+	"Jasmina Andorf" <jadorf@gmx.de>,
+	"Lisa Ensminger" <lisaensminger@gmx.de>,
+	"Lisa Ensminger" <no-enzes@web.de>,
+	"Marina Guber" <marina_guber@web.de>,
+	"Melanie Hauser" <annika.hauser@gmx.net>,
+	"Natalie Machanek" <nmachanek@web.de>,
+	"Sabrina Machanek" <smachanek@web.de>,
+	"Sarah Ringhoffer" <sarah.ringhoffer@gmx.de>,
+	"Shari Huber" <sharilouisa@gmx.de>,
+	"Sofia Gommel" <sofia-gommel@web.de>,
+	"Tamara Schweizer" <tamara-schweizer@gmx.de>,
+	"Ulrike Jost" <ulrikejost97@gmx.de>,
+	"Verena Geschke" <Verena.Geschke@gmx.net>,
+	"Dale Grill" <dalegrill@gmx.net>,
+	"Franziska Bidlingmaier" <franziska.bidlingmaier@web.de>,
+	"Ingo Skupin" <ingo.skupin@web.de>,
+	"Katrin Schumacher" <kaddie.schumi@web.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	"Alexander Beck" <beck.notzingen@t-online.de>,
+	"Benjamin Deuschle" <benjamin.deuschle@gmx.de>,
+	"Stefan Ringhoffer" <stefan.ringhoffer@hotmail.de>,
+	"Anna Schumacher" <anna.271@web.de>,
+	"Jens Ringhoffer" <jens.ringhoffer@gmx.de>,
+	"Jonas Pfeifer" <jonas.pfeifer@web.de>,
+	"Julian Sparrer" <julian.sparrer@gmx.de>,
+	"Ludwig Bippus" <Ludwig239@gmx.de>,
+	"Manuel Ruff" <kerstin.manuel@kabelbw.de>,
+	"'Manuel Ruff'" <strafejump@gmx.de>,
+	"Philipp Mayer" <mayer-fertigungstechnik@t-online.de>,
+	"Sarah Keck" <beate_keck@web.de>,
+	"Sarah Keck" <sarahmagdalena_keck@web.de>,
+	=?iso-8859-1?Q?J=F6rg_Ruff?= <joergruff@web.de>,
+	=?iso-8859-1?Q?Klaus_J=FCrgen_Weiler?= <GWeiler@t-online.de>,
+	"'Maximilian Scherbaum'" <familie.scherbaum@kabelbw.de>,
+	"Maximilian Scherbaum" <max_vom_haldenberg@gmx.de>,
+	"Sebastian Kasputtis" <skas@gmx.de>,
+	"Simon Keck" <simon_keck@web.de>,
+	=?iso-8859-1?Q?G=FCnther_Cla=DF?= <guenther_class@gmx.de>,
+	"'Kay Kirchmann'" <Kay.Kirchmann@gmx.de>,
+	"Alexander Zweifel" <stzw@gmx.de>,
+	"Klon Alexander" <alex.sebastian-k@web.de>,
+	"Patrick Vollmer" <paddie-vollmer@web.de>
+Subject: JBO Auftritt Altbach
+Date: Sat, 28 May 2011 00:24:01 +0200
+Message-ID: <8B9DC4EC967D4D88A0C8465FD77D98F4@musikzimmer>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001F_01CC1CCD.8E046D70"
+X-Priority: 1 (Highest)
+X-MSMail-Priority: High
+X-Mailer: Microsoft Office Outlook 11
+Importance: High
+Thread-Index: AcwcvMdV8TK4en6tSt6xXQrC1W8X6g==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.6090
+X-Y-GMX-Trusted: 0
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_001F_01CC1CCD.8E046D70
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+=20
+
+am kommenden Sonntag spielen wir beim Jugendtag in Altbach.
+
+=20
+
+Treffpunkt an der Gemeindehalle: 10:45 Uhr
+
+Abfahrt: 11:00 Uhr
+
+Auftritt in Altbach: 12-13 Uhr
+
+Kleidung: JBO-Poloshirt, schwarze Hose, Schuhe Socken
+
+Noten: wie D=E4tscherfest, allerdings werden wir ein paar St=FCcke =
+weglassen, da
+unser Auftritt nur 1 Stunde dauert.
+
+=20
+
+Bis Sonntag,
+
+=20
+
+liebe Gr=FC=DFe
+
+=20
+
+Thomas
+
+
+------=_NextPart_000_001F_01CC1CCD.8E046D70
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:"Microsoft Sans Serif";
+	panose-1:2 11 6 4 2 2 2 2 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+p.ThomasStandard, li.ThomasStandard, div.ThomasStandard
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Microsoft Sans Serif";}
+p.Thomasberschrift1, li.Thomasberschrift1, div.Thomasberschrift1
+	{margin-top:12.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	page-break-after:avoid;
+	font-size:16.0pt;
+	font-family:"Microsoft Sans Serif";
+	font-weight:bold;}
+span.E-MailFormatvorlage19
+	{mso-style-type:personal-compose;
+	font-family:Arial;
+	color:windowtext;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DDE link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>Hallo,<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>am kommenden Sonntag spielen wir beim Jugendtag in =
+Altbach.<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>Treffpunkt an der Gemeindehalle: 10:45 =
+Uhr<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>Abfahrt: 11:00 Uhr<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>Auftritt in Altbach: 12-13 =
+Uhr<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>Kleidung: JBO-Poloshirt, schwarze Hose, Schuhe =
+Socken<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>Noten: wie D=E4tscherfest, allerdings werden wir ein =
+paar
+St=FCcke weglassen, da unser Auftritt nur 1 Stunde =
+dauert.<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>Bis Sonntag,<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>liebe Gr=FC=DFe<o:p></o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
+
+<p class=3DThomasStandard><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'>Thomas<o:p></o:p></span></font></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_001F_01CC1CCD.8E046D70--
+

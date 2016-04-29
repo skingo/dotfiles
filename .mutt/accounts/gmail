@@ -1,0 +1,18 @@
+set from        = ingo.skupin@gmail.com
+set realname    = "Ingo Skupin"
+set hostname    = gmail.com
+set imap_user   = "ingo.skupin@gmail.com"
+#set imap_login = "ingo.skupin"
+set imap_pass   = '$my_pass_gmail'
+set folder      = "imaps://ingo.skupin@imap.gmail.com:993/"
+set spoolfile   = "+INBOX"
+set postponed   = "+[Google Mail]/Drafts"
+set record      = "+[Google Mail]/Sent Mail"
+#set postponed   = "=Drafts"
+#set record     = ""                # gmail saves sent mail anyway
+
+set smtp_pass    = $my_pass_gmail
+set smtp_url     = "smtp://ingo.skupin@smtp.gmail.com:587"  # using port 587 for TLS
+
+# differentiate mailboxes in statusline:
+color   status          black            yellow

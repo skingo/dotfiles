@@ -1,0 +1,82 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.38.225 with SMTP id j1csp47360lbk;
+        Sun, 27 Jan 2013 08:29:59 -0800 (PST)
+X-Received: by 10.14.223.135 with SMTP id v7mr42266931eep.41.1359304199336;
+        Sun, 27 Jan 2013 08:29:59 -0800 (PST)
+Return-Path: <juliaschlag@googlemail.com>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id l1si12276878een.111.2013.01.27.08.29.58
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 27 Jan 2013 08:29:59 -0800 (PST)
+Received-SPF: neutral (google.com: 5.35.244.247 is neither permitted nor denied by domain of juliaschlag@googlemail.com) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 5.35.244.247 is neither permitted nor denied by domain of juliaschlag@googlemail.com) smtp.mail=juliaschlag@googlemail.com;
+       dkim=pass header.i=@googlemail.com
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 82C69AC8FE3; Sun, 27 Jan 2013 17:29:28 +0100 (CET)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	lvps5-35-244-247.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.8 required=7.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,FREEMAIL_FROM,MIME_QP_LONG_LINE,RCVD_IN_DNSWL_LOW autolearn=ham
+	version=3.3.1
+X-Original-To: saxophon@concertband.de
+Delivered-To: saxophon@concertband.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 15807AC8FDB; Sun, 27 Jan 2013 17:29:26 +0100 (CET)
+X-Original-To: alle@concertband.de
+Delivered-To: alle@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mail-bk0-f47.google.com (mail-bk0-f47.google.com [209.85.214.47])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTPS id 519FEAC8EAD
+	for <alle@concertband.de>; Sun, 27 Jan 2013 17:29:23 +0100 (CET)
+Received: by mail-bk0-f47.google.com with SMTP id jc3so932270bkc.20
+        for <alle@concertband.de>; Sun, 27 Jan 2013 08:29:23 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=x-received:subject:from:content-type:x-mailer:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=ZLzVMNA7W5bfa+2tHVu6pnLqwfJ7GVJmJSOn+7g+7rQ=;
+        b=D9a6DP5Z4iJxkOD4sndbHwOJcSkVspkXjk7eWpFbkXwcdu4hfP0n0uICtSwGJVVrPK
+         xyTuzeRvjnncTuSr37AS4LEjw0+4WFXossPhM8HxkG/90vpCOQKVyd7atXz5Xmu5W6IG
+         UaZzfMJfeOJophUCezP3U2NjkirutFwrc+a0+vPorwcUJ3JNfgXx2kaE36tsEor9ReO/
+         lCfGGUx/m0IBdwVYjFXlPFotIu53dbOhyMZQUP294NTLwrx6+t/vHqFy0hUlCunZzZE6
+         +qZ6a1zHOtBb300XEVDaeb/FDC/F8ro0mmEPvxOdpKGIDtyML7d3s1euZz1UysyZw7b8
+         6zhQ==
+X-Received: by 10.204.157.150 with SMTP id b22mr3275133bkx.121.1359304162909;
+        Sun, 27 Jan 2013 08:29:22 -0800 (PST)
+Received: from [10.34.25.232] (ip-109-43-0-104.web.vodafone.de. [109.43.0.104])
+        by mx.google.com with ESMTPS id u3sm4270666bkw.9.2013.01.27.08.29.21
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 27 Jan 2013 08:29:21 -0800 (PST)
+Subject: Probe am Dienstag
+From: Julia Schlag <juliaschlag@googlemail.com>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPhone Mail (10A523)
+Message-Id: <2C9AF40B-AAA7-4AA1-98D4-035274D28934@googlemail.com>
+Date: Sun, 27 Jan 2013 17:29:18 +0100
+To: alle@concertband.de
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+
+Hallo zusammen,=20
+Der Tontechniker wird am Dienstag ab 16 Uhr da sein, die Helfer die sich gem=
+eldet haben werden ab 17 Uhr gebraucht um zun=C3=A4chst die St=C3=BChle f=C3=
+=BCr das Orchester und dann die Technik auf zu bauen. Kann von den Schlagzeu=
+ger auch schon jemand um 17 Uhr f=C3=BCr den Aufbau da sein?=20
+
+Um 17.30 Uhr muss der Techniker den Neffen von Klaus einarbeiten der sich an=
+geboten hat das Laptop mit den Tracks zu bedienen.=20
+
+Vielen Dank und=20
+
+Viele Gr=C3=BC=C3=9Fe,=20
+Julia
+
+
+
+Geigersbergstr. 11
+74343 Sachsenheim
+0173-9710018=

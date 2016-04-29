@@ -1,0 +1,123 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.163 with SMTP id i3csp105554pdr;
+        Tue, 27 May 2014 12:48:27 -0700 (PDT)
+X-Received: by 10.69.12.33 with SMTP id en1mr39432706pbd.43.1401220106996;
+        Tue, 27 May 2014 12:48:26 -0700 (PDT)
+Return-Path: <no-reply@dropbox.com>
+Received: from sjd-ra1-10a.sjc.dropbox.com (sjd-ra1-10a.sjc.dropbox.com. [108.160.165.85])
+        by mx.google.com with ESMTPS id we6si20441375pac.143.2014.05.27.12.48.26
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Tue, 27 May 2014 12:48:26 -0700 (PDT)
+Received-SPF: pass (google.com: domain of no-reply@dropbox.com designates 108.160.165.85 as permitted sender) client-ip=108.160.165.85;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of no-reply@dropbox.com designates 108.160.165.85 as permitted sender) smtp.mail=no-reply@dropbox.com;
+       dkim=pass (test mode) header.i=@dropbox.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=dropbox.com
+Received: from snt-ra10-20c.sjc.dropbox.com (snt-ra10-20c.sjc.dropbox.com [10.12.10.187])
+	by sjd-ra1-10a.sjc.dropbox.com (Postfix) with ESMTP id 5AE3920057D64
+	for <ingo.skupin@gmail.com>; Tue, 27 May 2014 19:48:26 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1401220106; bh=93t8GIuOIGznT27UaQ9qPuoN9ZKIYKGxfxZWnQqm1mQ=;
+	h=From:To:CC:Subject:Date;
+	b=D69zd5VM0nwtlAfZtIjdcuGiEiibBrvHVjr1zqTYlJxe4fbB9csHNF8+LC0aE/cg6
+	 PZVXhOGZJQfi+HCwintJLrPXVUYTWNxzsqpZVQQDKgsfkUdJKW5qOlcp4cGlTpsXBh
+	 ZGLbE1BDLrzSOJ9gVdDFlNoIhjh5TDkWb68mTax8=
+Content-Type: multipart/alternative;
+ boundary="===============1704181740210206293=="
+MIME-Version: 1.0
+From: Thomas via Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@gmail.com
+CC: 
+Subject: =?utf-8?q?Thomas_Ringhoffer_m=C3=B6chte_=E2=80=9EBig_Band_Projekt_2014?=
+ =?utf-8?q?=E2=80=9C_f=C3=BCr_Sie_freigeben=0D=0A?=
+Date: Tue, 27 May 2014 19:48:26 +0000
+Message-ID: <20140527194826.32156.11426@snt-ra10-20c.sjc.dropbox.com>
+
+--===============1704181740210206293==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Thomas hat Sie zu einem freigegebenen Dropbox-Ordner namens =E2=80=9EBig Ba=
+nd Projekt 2014=E2=80=9C eingeladen und schreibt Ihnen dazu Folgendes: =
+
+
+ =E2=80=9EHallo,
+das ist ein Link: H=C3=B6rbeispiele zum Big Band Projekt
+Herzlichen Gru=C3=9F
+Thomas=E2=80=9C =
+
+
+Ordner anzeigen unter:
+https://www.dropbox.com/l/rcSFDlKY4LtDMKgg4swoKl/invite??text=3D1
+--===============1704181740210206293==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"><style>
+        @font-face {
+            font-family: "proxima_nova";
+            src: url("https://www.dropbox.com/static/fonts/proximanova/prox=
+ima-nova-regular.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+        a {
+            color: #007ee6;
+            text-decoration: none;
+        }
+        </style></head><body style=3D"padding: 0; width: 100% !important; -=
+webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;" marg=
+inheight=3D"0" marginwidth=3D"0"><center><table cellpadding=3D"8" cellspaci=
+ng=3D"0" style=3D"*width: 540px; padding: 0; width: 100% !important; backgr=
+ound: #ffffff; margin: 0; background-color: #ffffff;" border=3D"0"><tr><td =
+valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px; -we=
+bkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px=
+;" border=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"6"></td></=
+tr><tr style=3D"line-height: 0px;"><td width=3D"100%" style=3D"font-size: 0=
+px;" align=3D"center" height=3D"1"><img width=3D"40px" style=3D"max-height:=
+ 73px; width: 40px; *width: 40px; *height: 73px;" alt=3D"" src=3D"https://w=
+ww.dropbox.com/static/images/emails/glyph/glyph_34@2x.png"></td></tr><tr><t=
+d><table cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: 25px;" b=
+order=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"30"></td></tr>=
+<tr><td width=3D"36"></td>
+<td width=3D"454" align=3D"left" style=3D"color: #444444; border-collapse: =
+collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida =
+Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans S=
+erif'; max-width: 454px;" valign=3D"top">Thomas hat Sie zu einem freigegebe=
+nen Dropbox-Ordner namens =E2=80=9EBig Band Projekt 2014=E2=80=9C eingelade=
+n und sendet Ihnen diese Nachricht: <br><br><i> =E2=80=9EHallo,<br>das ist =
+ein Link: H=C3=B6rbeispiele zum Big Band Projekt<br>Herzlichen Gru=C3=9F<br=
+>Thomas=E2=80=9C</i><br><br><center><a style=3D"border-radius: 3px; box-sha=
+dow: inset 0 1px 0 #6db3e6, inset 1px 0 0 #48a1e2; color: white; font-size:=
+ 15px; -moz-border-radius: 3px; padding: 14px 7px 14px 7px; max-width: 210p=
+x; font-family: proxima_nova, 'Open Sans', 'lucida grande', 'Segoe UI', ari=
+al, verdana, 'lucida sans unicode', tahoma, sans-serif;; border: 1px #1373b=
+5 solid; text-align: center; -webkit-border-radius: 3px; text-decoration: n=
+one; width: 210px; margin: 6px auto; display: block; background-color: #007=
+ee6;" href=3D"https://www.dropbox.com/l/IkZr8krpGRXosemCkFysxt/invite?">Ord=
+ner ansehen</a></center>
+<script type=3D"application/ld+json">{"action": {"url": "https://www.dropbo=
+x.com/invite?k=3DvKb_6XlHFGlZxGHQGHaG2xOy2FmA6lVt", "name": "View folder", =
+"@type": "ViewAction"}, "@context": "http://schema.org", "@type": "EmailMes=
+sage", "description": "shared folder invitation"}</script></td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: prox=
+ima_nova, 'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida=
+ Sans Unicode', Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;"><td =
+width=3D"400" align=3D"left"></td>
+<td width=3D"128" align=3D"right">=C2=A9 2014 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/UOAXleF4xiQa8IrYASAwkB?" hei=
+ght=3D"1" />
+--===============1704181740210206293==--

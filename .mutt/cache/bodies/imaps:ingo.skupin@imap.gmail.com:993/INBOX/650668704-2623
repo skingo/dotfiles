@@ -1,0 +1,186 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.4 with SMTP id b4csp202110vcj;
+        Sun, 6 May 2012 09:07:56 -0700 (PDT)
+Received: by 10.180.102.101 with SMTP id fn5mr28280361wib.6.1336320476174;
+        Sun, 06 May 2012 09:07:56 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTP id b62si16908585wed.47.2012.05.06.09.07.55;
+        Sun, 06 May 2012 09:07:56 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@googlemail.com
+Received: from mail-wg0-f47.google.com ([74.125.82.47]) by mx-ha.web.de
+ (mxweb107) with ESMTP (Nemesis) id 0LkwMz-1RquEg1dGH-00ae3X for
+ <ingo.skupin@gmail.com>; Sun, 06 May 2012 18:07:55 +0200
+Received: by mail-wg0-f47.google.com with SMTP id fa7so3020634wgb.16
+        for <multiple recipients>; Sun, 06 May 2012 09:07:55 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=from:to:subject:date:message-id:mime-version:content-type:x-mailer
+         :thread-index:content-language;
+        bh=7Kum/C4o0fJxydOvidnSQig00VMFqQXM1B3i0Y9fxII=;
+        b=YJPj0Hd2se/o6pMDhLouHo+ZMBsmFYYpTxbF6AT3hKlyQdjlxySaVWuP4cw6rSvzXu
+         jvT3tNeOljQC7hxlvLsUKIkX43u9/Q0wOCcLkIdZvQdTTAVJFYSmkd7wba4mFHckJx6k
+         g2MlHpJvAuxu/lnKusqNE3ZBMLt1X0/wPTPDQkj0iZyYfL7MAGWTaDIb9j+eMm0KAASC
+         orMfg91gv1lLP7ctbeOQxvPSH6hd4DQZA/3QhGMGxhVXRhoHK/UF68RLJStFofhTYFPS
+         CaH+CpVlmk5Fi0m9lM1tULmbCakfAADp2m8YepeaaMGBLPr/e2hRt0qVXp8M3wB7ScIv
+         zI+w==
+Received: by 10.216.134.19 with SMTP id r19mr7864309wei.66.1336320475177;
+        Sun, 06 May 2012 09:07:55 -0700 (PDT)
+Return-Path: <pfistersabine@googlemail.com>
+Received: from pfistersabinPC (dslb-088-065-008-185.pools.arcor-ip.net. [88.65.8.185])
+        by mx.google.com with ESMTPS id ff9sm15083183wib.2.2012.05.06.09.07.53
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 06 May 2012 09:07:54 -0700 (PDT)
+From: "Sabine Pfister" <pfistersabine@googlemail.com>
+To: "'Valerie Bartel'" <valerie.bartel@gmx.de>,
+	"'Bedrin Noah'" <kingsaxello@googlemail.com>,
+	"'Steffen Sautter'" <steffen.sautter@web.de>,
+	"'Tizian  Decker'" <tizian_decker@web.de>,
+	"'Florian Sebert'" <florian@floriansebert.de>,
+	"'Yannick Frey'" <yannick.frey1994@web.de>,
+	"'Lukas Fischer'" <lukasfischer1@aol.com>,
+	<christine-erchinger@web.de>,
+	"'Dr. Stefan Wiehr'" <stefan@wiehr.de>,
+	"'Ingo Skupin'" <ingo.skupin@web.de>,
+	"'Pfister, Stefan'" <S.Pfister@dkfz-heidelberg.de>,
+	"'Martina Pfister'" <martina@pfister-heidelberg.de>,
+	"'Rainer Pfister'" <rainer.pfister@me.com>,
+	"'Daniel Metzger'" <jandan@gmx.de>,
+	"'Harry D. Bath'" <harryd.bath@t-online.de>
+Subject: =?iso-8859-1?Q?Kontert_Stocherk=E4hne?=
+Date: Sun, 6 May 2012 18:07:53 +0200
+Message-ID: <001f01cd2ba2$65dc86e0$319594a0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0020_01CD2BB3.296556E0"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac0romTDCMalVpxLSn+oYvnyjrqhMA==
+Content-Language: de
+X-UI-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0020_01CD2BB3.296556E0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+=20
+
+unser Stocherkahnkonzert steht an und wir m=FCssen kr=E4ftig die =
+Werbetrommel
+r=FChren.
+
+Geht nochmal in euch, an wen ihr alles Karten verkaufen k=F6nnt. Karten
+bekommt ihr bei mir oder Martina. Da wir wissen m=FCssen, wie viele
+Stocherk=E4hne wir brauchen, buchen und bezahlen ist es super wichtig, =
+dass
+ihr uns fr=FChzeitig R=FCckmeldung gebt, wie viele Karten ihr =
+braucht!!!! Wir
+hoffen nat=FCrlich auf gaaaaanz viele!
+
+=20
+
+Rainer und ich kleben diese Woche die Plakate. Das hei=DFt sp=E4testens =
+Anfang
+n=E4chster Woche sollten sie abholbereit sein. Am geschicktesten w=E4re, =
+wenn
+ihr mir mailt wie viele gro=DFe und kleine ihr braucht und sie bei mir =
+in der
+Praxis abholt. Ich w=FCrde die entsprechende St=FCckzahl dann in der =
+Praxis
+deponieren. F=FCr die Nicht-Autofahrer kann ich sie auch irgendwo vobei
+bringen. Bitte meldet euch m=F6glichst bald, damit ich wei=DF, welche =
+St=FCckzahl
+wir kleben m=FCssen.
+
+=20
+
+=20
+
+Dann mal noch ein sch=F6nes Restwochenende.
+
+=20
+
+Liebe Gr=FC=DFe von euren 2 =BD Pfrondorfern
+
+
+------=_NextPart_000_0020_01CD2BB3.296556E0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+12 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hallo =
+zusammen,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>unser Stocherkahnkonzert steht an und wir m=FCssen =
+kr=E4ftig die Werbetrommel r=FChren.<o:p></o:p></p><p =
+class=3DMsoNormal>Geht nochmal in euch, an wen ihr alles Karten =
+verkaufen k=F6nnt. Karten bekommt ihr bei mir oder Martina. Da wir =
+wissen m=FCssen, wie viele Stocherk=E4hne wir brauchen, buchen und =
+bezahlen ist es super wichtig, dass ihr uns fr=FChzeitig R=FCckmeldung =
+gebt, wie viele Karten ihr braucht!!!! Wir hoffen nat=FCrlich auf =
+gaaaaanz viele!<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Rainer und =
+ich kleben diese Woche die Plakate. Das hei=DFt sp=E4testens Anfang =
+n=E4chster Woche sollten sie abholbereit sein. Am geschicktesten w=E4re, =
+wenn ihr mir mailt wie viele gro=DFe und kleine ihr braucht und sie bei =
+mir in der Praxis abholt. Ich w=FCrde die entsprechende St=FCckzahl dann =
+in der Praxis deponieren. F=FCr die Nicht-Autofahrer kann ich sie auch =
+irgendwo vobei bringen. Bitte meldet euch m=F6glichst bald, damit ich =
+wei=DF, welche St=FCckzahl wir kleben m=FCssen.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Dann mal =
+noch ein sch=F6nes Restwochenende.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Liebe =
+Gr=FC=DFe von euren 2 =BD Pfrondorfern<o:p></o:p></p></div></body></html>
+------=_NextPart_000_0020_01CD2BB3.296556E0--
+

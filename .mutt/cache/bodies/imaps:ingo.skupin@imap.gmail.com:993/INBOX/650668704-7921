@@ -1,0 +1,126 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.134.225 with SMTP id pn1csp75746pdb;
+        Fri, 15 Aug 2014 15:06:21 -0700 (PDT)
+X-Received: by 10.112.134.169 with SMTP id pl9mr13511215lbb.75.1408140380638;
+        Fri, 15 Aug 2014 15:06:20 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id lg7si6704723lab.106.2014.08.15.15.06.19
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 15 Aug 2014 15:06:20 -0700 (PDT)
+Received-SPF: pass (google.com: domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb108)
+ with ESMTPS (Nemesis) id 0MN24S-1XKdcY3mEC-006dGr for
+ <ingo.skupin@gmail.com>; Sat, 16 Aug 2014 00:06:19 +0200
+Received: from mail-vc0-f180.google.com ([209.85.220.180]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0MZSFt-1WxrXz3lqH-00LFkS for
+ <ingo.skupin@web.de>; Sat, 16 Aug 2014 00:06:18 +0200
+Received: by mail-vc0-f180.google.com with SMTP id ij19so3598397vcb.39
+        for <multiple recipients>; Fri, 15 Aug 2014 15:06:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-type:mime-version:content-transfer-encoding:message-id:date
+         :subject:from:in-reply-to:references:to;
+        bh=RW+GH6JXqxsejQk8Tb5Uh0p/2AzPIR47pYgcKba/dj8=;
+        b=sDfpVVsfkZWA3Fuook9uf92zq+9K+LCqXUyHWjAAxqwNt2lEQh1DDp40jr6a6rBK1T
+         mVQIzT69SWjlfo8jtfZVsbAgjjLSpG1Zud7/m8Es4GEz45FNk+HOpOb31n6npPlPW/EQ
+         O3LMXuv6Bh0ri71joDv31vSIjbX6EZDSE7QMxgdL97ZCogtz5xuWM1H4JV/sckkHGdcK
+         qoBZgliwJEqBDQwZNk5wEYQq7rR2W0HLth7ymeOtsLGBr5LLFI5pbEDd9sIYGV7dw7wW
+         TDm55tSE11U2a7Ea+8i4mLyNwaqxE9s3HSnMVVTRvzBGmhbhVVa6oyjneP/3kb/z+nZc
+         zMZg==
+X-Received: by 10.221.26.10 with SMTP id rk10mr12668660vcb.0.1408140378272;
+        Fri, 15 Aug 2014 15:06:18 -0700 (PDT)
+Return-Path: <fmsebert@gmail.com>
+Received: from [127.0.0.1] ([186.46.109.175])
+        by mx.google.com with ESMTPSA id em9sm26748594vdc.8.2014.08.15.15.05.08
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Fri, 15 Aug 2014 15:06:17 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.2.1.2141)
+Message-ID: <20140815220505.6537364.25648.3359@gmail.com>
+Date: Fri, 15 Aug 2014 17:05:05 -0500
+Subject: AW: USA-Reise: Abrechnung
+From: fmsebert@gmail.com
+In-Reply-To: <CAN1A5uC2NGgbsKnbkGakmH7SZFsymo1iqmG1fWtE=C7Rr7kZyQ@mail.gmail.com>
+References: 
+ <CAN1A5uC2NGgbsKnbkGakmH7SZFsymo1iqmG1fWtE=C7Rr7kZyQ@mail.gmail.com>
+To: Florian Sebert <florian@floriansebert.de>, Sabine Pfister <sabine@pfister-tuebingen.de>, Steffen Sautter <steffen.sautter@web.de>, Tizian Decker <tizian_decker@web.de>, Lena Hahn <LenaHahn20@web.de>, raphael@rothschink.de, Ingo Skupin <ingo.skupin@web.de>, Lukas Fischer <l.fischer@3-1415.de>, Julia Wollny <wollny.julia@me.com>, Tobias Moritz <tkonwitschny@yahoo.de>, Rainer Pfister <rainer.pfister@me.com>, "Dr. Stefan Wiehr" <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>, "Harry D. Bath" <harryd.bath@t-online.de>, "kinderaerztin_susanne@t-online.de Pfister" <kinderaerztin_susanne@t-online.de>, Karl Pfister <karlpfister@yahoo.de>, Gerhard Nagel <grnagel@web.de>, Ruth <ruth-1935@web.de>, Martina Pfister <martina@pfister-heidelberg.de>, "Pfister, Stefan" <s.pfister@dkfz-heidelberg.de>, Martina Pfister <martina@pfister-heidelberg.de>, "Pfister, Martina" <mpfister@geuder.de>
+X-UI-Out-Filterresults: notjunk:1;
+
+<html><head></head><body data-blackberry-caret-color=3D"#00a8df" style=3D"b=
+ackground-color: rgb(255, 255, 255); line-height: initial;"><div style=3D"w=
+idth: 100%; font-size: initial; font-family: Calibri, 'Slate Pro', sans-ser=
+if; color: rgb(31, 73, 125); text-align: initial; background-color: rgb(255=
+, 255, 255);">=E2=80=8EHallo zusammen,</div><div style=3D"width: 100%; font=
+-size: initial; font-family: Calibri, 'Slate Pro', sans-serif; color: rgb(3=
+1, 73, 125); text-align: initial; background-color: rgb(255, 255, 255);"><b=
+r></div><div style=3D"width: 100%; font-size: initial; font-family: Calibri=
+, 'Slate Pro', sans-serif; color: rgb(31, 73, 125); text-align: initial; ba=
+ckground-color: rgb(255, 255, 255);">Die Mail ging offenbar nicht an Stefan=
+, daher auch keine weiteren Anweisungen.</div><div style=3D"width: 100%; fo=
+nt-size: initial; font-family: Calibri, 'Slate Pro', sans-serif; color: rgb=
+(31, 73, 125); text-align: initial; background-color: rgb(255, 255, 255);">=
+<span style=3D"font-size: initial; line-height: initial; text-align: initia=
+l;"><br></span></div><div style=3D"width: 100%; font-size: initial; font-fa=
+mily: Calibri, 'Slate Pro', sans-serif; color: rgb(31, 73, 125); text-align=
+: initial; background-color: rgb(255, 255, 255);"><span style=3D"font-size:=
+ initial; line-height: initial; text-align: initial;">Die =C3=9Cberweisunge=
+n bitte auf das Ensemble-Konto.</span></div>                               =
+                                                                           =
+                           <div style=3D"width: 100%; font-size: initial; f=
+ont-family: Calibri, 'Slate Pro', sans-serif; color: rgb(31, 73, 125); text=
+-align: initial; background-color: rgb(255, 255, 255);"><br name=3D"BB10" c=
+aretmarkerset=3D"INVALID" class=3D"markedForCaretMarkerRemoval"></div><div =
+style=3D"width: 100%; font-size: initial; font-family: Calibri, 'Slate Pro'=
+, sans-serif; color: rgb(31, 73, 125); text-align: initial; background-colo=
+r: rgb(255, 255, 255);">Viele Gr=C3=BC=C3=9Fe aus Otavalo, Ecuador&nbsp;</d=
+iv><div style=3D"width: 100%; font-size: initial; font-family: Calibri, 'Sl=
+ate Pro', sans-serif; color: rgb(31, 73, 125); text-align: initial; backgro=
+und-color: rgb(255, 255, 255);">Florian&nbsp;</div><div style=3D"width: 100=
+%; font-size: initial; font-family: Calibri, 'Slate Pro', sans-serif; color=
+: rgb(31, 73, 125); text-align: initial; background-color: rgb(255, 255, 25=
+5);"><br name=3D"BB10" caretmarkerset=3D"INVALID" class=3D"markedForCaretMa=
+rkerRemoval"></div>                                                        =
+                                                                           =
+  <div style=3D"font-size: initial; font-family: Calibri, 'Slate Pro', sans=
+-serif; color: rgb(31, 73, 125); text-align: initial; background-color: rgb=
+(255, 255, 255);">Gesendet von meinem BlackBerry 10-Smartphone.</div>      =
+                                                                           =
+                                                                           =
+                            <table width=3D"100%" style=3D"background-color=
+:white;border-spacing:0px;"> <tbody><tr><td colspan=3D"2" style=3D"font-siz=
+e: initial; text-align: initial; background-color: rgb(255, 255, 255);">   =
+                                           <div id=3D"_persistentHeader" st=
+yle=3D"border-style: solid none none; border-top-color: rgb(181, 196, 223);=
+ border-top-width: 1pt; padding: 3pt 0in 0in; font-family: Tahoma, 'BB Alph=
+a Sans', 'Slate Pro'; font-size: 10pt;">  <div><b>Von: </b>Florian Sebert</=
+div><div><b>Gesendet: </b>Sonntag, 3. August 2014 03:49</div><div><b>An: </=
+b>Sabine Pfister; Steffen Sautter; Tizian Decker; Lena Hahn; raphael@rothsc=
+hink.de; Ingo Skupin; Lukas Fischer; Julia Wollny; Tobias Moritz; Rainer Pf=
+ister; Dr. Stefan Wiehr; Daniel Metzger; Harry D. Bath; kinderaerztin_susan=
+ne@t-online.de Pfister; Karl Pfister; Gerhard Nagel; Ruth; Martina Pfister<=
+/div><div><b>Betreff: </b>USA-Reise: Abrechnung</div></div></td></tr></tbod=
+y></table><div style=3D"border-style: solid none none; border-top-color: rg=
+b(186, 188, 209); border-top-width: 1pt; font-size: initial; text-align: in=
+itial; background-color: rgb(255, 255, 255);"></div><br><div id=3D"_origina=
+lContent" style=3D""><div dir=3D"ltr">Hallo zusammen,<div><br></div><div>mi=
+t etwas zeitlichem Abstand von der eigentlichen Reise erhaltet ihr nun anbe=
+i die zugeh=C3=B6rige Abrechnung.</div><div><br></div><div>@Stefan: Darin s=
+teckt noch eine Annahme =C3=BCber eine Zahlung des Blasmusikverbands, die g=
+gf. korrigiert werden muss.</div>
+<div><br></div><div>Vermutlich sollte alles =C3=BCber das Exnemble-Konto la=
+ufen. Alternativ kann ich gerne die Abwicklung =C3=BCbernehmen.&nbsp;</div>=
+<div><br></div><div>@Martina/Stefan: Bitte entsprechende Anweisung geben.</=
+div><div><div>
+<div dir=3D"ltr"><div><br></div><div>Vielen Dank und viele Gr=C3=BC=C3=9Fe<=
+/div><div>Florian</div><div><br></div><div><br></div></div></div>
+</div></div>
+<br><!--end of _originalContent --></div></body></html>

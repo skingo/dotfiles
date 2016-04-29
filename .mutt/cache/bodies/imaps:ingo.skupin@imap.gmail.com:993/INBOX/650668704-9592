@@ -1,0 +1,63 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.108.207 with SMTP id h198csp695929ivc;
+        Fri, 29 Apr 2016 02:59:38 -0700 (PDT)
+X-Received: by 10.28.194.69 with SMTP id s66mr3035174wmf.88.1461923978077;
+        Fri, 29 Apr 2016 02:59:38 -0700 (PDT)
+Return-Path: <p.giarrusso@gmail.com>
+Received: from mail-wm0-x231.google.com (mail-wm0-x231.google.com. [2a00:1450:400c:c09::231])
+        by mx.google.com with ESMTPS id mi9si12470254wjb.210.2016.04.29.02.59.37
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 29 Apr 2016 02:59:38 -0700 (PDT)
+Received-SPF: pass (google.com: domain of p.giarrusso@gmail.com designates 2a00:1450:400c:c09::231 as permitted sender) client-ip=2a00:1450:400c:c09::231;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com;
+       spf=pass (google.com: domain of p.giarrusso@gmail.com designates 2a00:1450:400c:c09::231 as permitted sender) smtp.mailfrom=p.giarrusso@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x231.google.com with SMTP id a17so3184wme.0;
+        Fri, 29 Apr 2016 02:59:37 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=D26m98v+aHgYmnyRXaMqiCpEHbszsXiJfDMqV00WEus=;
+        b=CGPSG3F6pd4C3wzuhflIOnKpMI4fuNRLj80+RcvQu0SftGqeh4zMjqaFxsuVhNMjaH
+         qhVHXdOWNBB8GpitGaYWNQbuTL5UqPAENVNR4O5lTvUSoMLMkxO799k83I1kVgud29Sf
+         CkuUPBRakjuTLUaobt5xThgxB4ijg65ek7YsKmtJciBrOhCeOIbfVpAzucoaR52562v0
+         XNG0tC1iwdgHNr157s5bD7vX1ZzTePpgDuhscwiWU5sExYUbjFHyXMhIBKYa+yfnrNDI
+         Y7hzndF1ruC622azR92AcIqZeoU10w7Bq8forUfy+tufE4LmwVaJjnyETkL5J3RgsqET
+         heBA==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to
+         :content-transfer-encoding;
+        bh=D26m98v+aHgYmnyRXaMqiCpEHbszsXiJfDMqV00WEus=;
+        b=KGvtYH1e4OXgG2oHScuXYzX5ysIL94/5zxv5LOWRhIfGjsfvGHb288IiWpiQ+6ZCLo
+         KX2h3EDv+22UcMRxKwK8v1gwhIcA1AGpTpV1pqxlYvHdjK5Iq//sLzJ4qXu0Q2Xuh6iY
+         shh9STTkIRoDjbVm/faO2jHmYB+Yu9q0MEBUoA3n88cPZNtOyN0+Pev09YZtcTMNFtdp
+         +OeDVBlntAFZLYnBX2aKUxCHb7Llz7oueGj1p3HUUdSrPYcM/RY9m/fENq7vJwIq1Yl9
+         9pADVq+/JrjxB14YtjMB6N2RBsHxy78jhQ0bnWnwxaJUQe5anjzKp9yyPEoQuvs+h+J9
+         J1Xg==
+X-Gm-Message-State: AOPr4FVRwFjLnFf5i8ozDcQpzaVM+YqGDrV1R6w4GS3eAr0xBPCaC9ALmvaesMsHhK7XRHV09+RvSTF7DRgc/A==
+X-Received: by 10.28.135.200 with SMTP id j191mr3006453wmd.54.1461923977548;
+ Fri, 29 Apr 2016 02:59:37 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.194.94.228 with HTTP; Fri, 29 Apr 2016 02:59:17 -0700 (PDT)
+From: Paolo Giarrusso <p.giarrusso@gmail.com>
+Date: Fri, 29 Apr 2016 11:59:17 +0200
+Message-ID: <CAAcnjCQX-J4F_Lij_6e=y5r6Uz+EcNHMaS_w2Sj9mWuDEaQeZA@mail.gmail.com>
+Subject: Category theory seminar?
+To: David Binder <dbinder1989@googlemail.com>, 
+	Sebastian Schoener <sebastian.schoener@student.uni-tuebingen.de>, 
+	Ingo Skupin <ingo.skupin@googlemail.com>, Yufei Cai <yufei.cai@uni-tuebingen.de>
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi all,
+I'm back in T=C3=BCbingen.
+I'm busier now, but still interested in the category theory seminar if
+it is ongoing. Or did it just conclude?
+
+Cheers,
+--=20
+Paolo G. Giarrusso - Ph.D. Student, T=C3=BCbingen University
+http://ps.informatik.uni-tuebingen.de/team/giarrusso/

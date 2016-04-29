@@ -1,0 +1,61 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp277794pdb;
+        Wed, 19 Feb 2014 07:52:11 -0800 (PST)
+Return-Path: <ml.deutschmann@gmail.com>
+Received-SPF: pass (google.com: domain of ml.deutschmann@gmail.com designates 10.140.100.240 as permitted sender) client-ip=10.140.100.240
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of ml.deutschmann@gmail.com designates 10.140.100.240 as permitted sender) smtp.mail=ml.deutschmann@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.140.100.240])
+        by 10.140.100.240 with SMTP id s103mr47512767qge.38.1392825130795 (num_hops = 1);
+        Wed, 19 Feb 2014 07:52:10 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=dX3S92tWBhLBvLWF1rvWVTt9ZGLyL+LtQ8Z8LN30Hvo=;
+        b=z7K5SAoXu1twknf1Qterz8x1+x0g/EDusqK2gb+wLuWaAYqVvaZDXQfL+Eb7+VVX8c
+         3S3eXDAAA+K5j6AdwSrvEVksm411BQIZGwVd4VG/vAfioXt+0t7jXy+VwP7y2dwGBraU
+         DKhaf+WwmPE/C9/pkgmCB6UTUeVQW+edgc1qMeZOOiEJnTdYT2746vnRiz7dBIDjPkWf
+         aVC+r0RogzqBHybfc5+bBQxgy12texXclwWZnDhSP7/JSy9tkYNb953UAU2BsYLl5Q0y
+         vctkPib6tVYWTGJ8BV+bSz+cenijZ2uLnYg1zFmpvbUVkhBFON3HuUbI+o+z9neHn1xq
+         r5XQ==
+X-Received: by 10.140.100.240 with SMTP id s103mr47512767qge.38.1392825130792;
+ Wed, 19 Feb 2014 07:52:10 -0800 (PST)
+MIME-Version: 1.0
+Received: by 10.96.185.40 with HTTP; Wed, 19 Feb 2014 07:51:50 -0800 (PST)
+In-Reply-To: <alpine.DEB.2.02.1402181207420.3461@skinge-UX31A>
+References: <alpine.DEB.2.02.1402181207420.3461@skinge-UX31A>
+From: Merle Deutschmann <ml.deutschmann@gmail.com>
+Date: Wed, 19 Feb 2014 16:51:50 +0100
+Message-ID: <CAO5o5EjRDy=+2dFsMonh8weEc7L9Tj1tGiqGLE8wE7fjEno1eg@mail.gmail.com>
+Subject: Re: meine tolle maerle
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Content-Type: multipart/alternative; boundary=001a11c16ccc27bb5004f2c45f90
+
+--001a11c16ccc27bb5004f2c45f90
+Content-Type: text/plain; charset=ISO-8859-1
+
+Eeeeengo !
+=D
+
+
+Am 18. Februar 2014 12:08 schrieb Ingo Skupin <ingo.skupin@googlemail.com>:
+
+> ich liebe dich
+>
+
+--001a11c16ccc27bb5004f2c45f90
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Eeeeengo !<br>=3DD<br></div><div class=3D"gmail_extra"><br=
+><br><div class=3D"gmail_quote">Am 18. Februar 2014 12:08 schrieb Ingo Skup=
+in <span dir=3D"ltr">&lt;<a href=3D"mailto:ingo.skupin@googlemail.com" targ=
+et=3D"_blank">ingo.skupin@googlemail.com</a>&gt;</span>:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">ich liebe dich<br>
+</blockquote></div><br></div>
+
+--001a11c16ccc27bb5004f2c45f90--

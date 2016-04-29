@@ -1,0 +1,7 @@
+text/html; elinks -dump %s ; copiousoutput
+image/jpg; eog %s
+image/jpeg; eog %s
+image/gif; eog %s
+image/png; eog %s
+
+application/pdf; zathura %s

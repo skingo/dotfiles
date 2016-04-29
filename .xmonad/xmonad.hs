@@ -133,9 +133,7 @@ additionalKeyMaps =
                                             ]
           )
 
-        -- go to workplace number 0
-        , ((modm, xK_0), toggleOrView "xmonad:0")
-        , ((modm .|. shiftMask, xK_0), windows $ W.shift "xmonad:0")
+        --  , ((modm .|. shiftMask, xK_0), windows $ W.shift "xmonad:0")
 
         , ((0 , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png")
         , ((modm, xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -u")
@@ -151,9 +149,6 @@ additionalKeyMaps =
                                             displayStringLine "screen timeout turned off" 850 66)
         , ((modm .|. shiftMask, xK_d),  spawn "xset +dpms; xset s on" >>
                                             displayStringLine "screen timeout turned on" 830 66)
-
-        , ((modm, xK_f),               spawn "firefox")
-        , ((modm .|. shiftMask, xK_t), spawn "thunderbird")
 
         -- change dmenu font and make case insensitive
         , ((modm, xK_p), spawn "dmenu_run -i -fn '10x20'")
@@ -207,7 +202,7 @@ additionalKeyMaps =
         , ((modm .|. controlMask .|. shiftMask , xK_k), sendMessage $ pullGroup U)
         , ((modm .|. controlMask .|. shiftMask , xK_j), sendMessage $ pullGroup D)
         -- merging and unmerging
-        , ((modm .|. shiftMask, xK_m  ), withFocused (sendMessage . MergeAll))
+        , ((modm .|. shiftMask, xK_u  ), withFocused (sendMessage . MergeAll))
         , ((modm .|. controlMask, xK_u), withFocused (sendMessage . UnMerge))
         -- switch windows inside group
         , ((modm .|. controlMask, xK_period), onGroup W.focusUp')
@@ -225,14 +220,22 @@ additionalKeyMaps =
         , ((modm, xK_m), withFocused (keysMoveWindow (20, 0)))
         , ((modm .|. shiftMask, xK_n), withFocused (keysMoveWindow (0, -20)))
         , ((modm .|. shiftMask, xK_m), withFocused (keysMoveWindow (0, 20)))
+        -- resize floating windows around
         , ((modm .|. controlMask, xK_n), withFocused (keysResizeWindow (-30, -30) (0.5, 0.5)))
         , ((modm .|. controlMask, xK_m), withFocused (keysResizeWindow (30, 30) (0.5, 0.5)))
         , ((modm .|. controlMask .|. shiftMask, xK_n), withFocused (keysResizeWindow (0, -30) (0.5, 0.5)))
         , ((modm .|. controlMask .|. shiftMask, xK_m), withFocused (keysResizeWindow (0, 30) (0.5, 0.5)))
 
         -- restart xcompmgr
-        , ((modm, xK_F5), spawn "killall xcompmgr; sleep 1; xcompmgr -cCfF &")
+        , ((modm, xK_F5), spawn "killall xcompmgr; sleep 1; xcompmgr -D 5 -cCfF &")
+
+        -- show cursor position
+        , ((modm, xK_udiaeresis), spawn "find-cursor -s 200 -l 2 -p 800 -c green")
         ]
+        ++
+        -- use 'toggle' instead of going to a workspace using modm + number of workspace, add workspace 0
+        --  [ ((modm, k), toggleOrView t) | (k, t) <- zip ([xK_1..xK_9] ++ [xK_0]) myTopics ]
+        [ ((modm, k), toggleOrView t) | (k, t) <- zip ([xK_1..xK_7]) myTopics ]
 
 ------------------------------ dzen utils --------------------------------------
 
@@ -288,12 +291,16 @@ myManageHooks = composeAll
     --  , className =? "Firefox" --> doF (W.shift "web:1")
     --  , className =? "Nightingale" --> doF (W.shift "music:6")
     [ className =? "Firefox" --> doF (W.shift "web:1")
-    , className =? "Steam" --> doF (W.shift "steam:9")
-    , resource =? "skype" --> doF (W.shift "IM:8")
+    , className =? "Steam" --> doF (W.shift "steam:7")
+    , appName =? "Steam" --> doF (W.shift "steam:7")
+    , className =? "mendeleydesktop" --> doF (W.shift "mendeley:3")
+    , className =? "Mendeleydesktop" --> doF (W.shift "mendeley:3")
+    , appName =? "skype" --> doF (W.shift "IM:6")
     , className =? "sun-awt-X11-XFramePeer" --> doFloat
-    , className =? "Dialog" <&&> className =? "Thunderbird" --> doFloat <+> doF (W.shift "mail:3")
-    , className =? "Thunderbird" --> doF (W.shift "mail:3")
+    --  , className =? "Dialog" <&&> className =? "Thunderbird" --> doFloat <+> doF (W.shift "mendeley:3")
+    --  , className =? "Thunderbird" --> doF (W.shift "mendeley:3")
     , className =? "Gvim" --> doFloat
+    , appName =? "notify-osd" --> doIgnore
     , manageDocks
     , manageHook defaultConfig
     ]
@@ -306,6 +313,10 @@ myStartupHook = do
                 setWMName "LGD3"
                 spawn "touchegg"
                     --  spawn "skype"
+                spawn "xcompmgr -D 5 -cCfF"
+                spawn "nm-applet"
+                spawn "dropbox start -i"
+                spawn "mail-notification"
 
 --------------------------- log hook (mainly for xmobar) -----------------------
 
@@ -392,10 +403,10 @@ skypeLayout = boringWindows $ avoidStruts $ smartBorders $ withIM (1/6) skypeMai
 
 -- put everything together
 myLayoutHook :: PerWorkspace Myvid (PerWorkspace Myvid (PerWorkspace SkypeLayout (PerWorkspace MyTexLayout MyDefLayouts))) Window
-myLayoutHook = onWorkspace "movie:6" myVideoLayout $
-                    onWorkspace "steam:9" myVideoLayout $
-                    onWorkspace "IM:8" skypeLayout $
-                    onWorkspace "tex:4" myTexLayout
+myLayoutHook = onWorkspace "movie:4" myVideoLayout $
+                    onWorkspace "steam:7" myVideoLayout $
+                    onWorkspace "IM:6" skypeLayout $
+                    onWorkspace "tex:5" myTexLayout
                     myDefaultLayout
 
 ------------------------- commands to be run with modm-c -----------------------
@@ -495,6 +506,7 @@ muxPrompt c = do
                         , "frakgeo"
                         , "galois"
                         , "telegram"
+                        , "mutt"
                         ]
         P.mkXPrompt Mux c (getMuxCompletion templates) spawnMuxShell
 
@@ -509,35 +521,38 @@ getMuxCompletion ss s = return $ filter (isPrefixOf s) ss
 -- to work.
 myTopics :: [Topic]
 myTopics =
-     [ "web:1", "term:2", "mail:3", "tex:4", "telegram:5"
-     , "movie:6", "music:7", "IM:8", "steam:9", "xmonad:0"
-     ]
+     [ "web:1", "term:2", "mendeley:3", "movie:4", "tex:5", "IM:6", "steam:7" ]
+     --  [ "web:1", "term:2", "mail:3", "tex:4", "telegram:5"
+     --  , "movie:6", "music:7", "IM:8", "steam:9", "xmonad:0"
+     --  ]
 
 myTopicConfig :: TopicConfig
 myTopicConfig = defaultTopicConfig
-    { topicDirs = M.fromList
-                    [ ("telegram:5", "Desktop")
-                    , ("xmonad:0", ".xmonad")
+    {
+      --  topicDirs = M.fromList
+                    --  [ ("telegram:5", "Desktop")
+                    --  , ("xmonad:0", ".xmonad")
                     --  , ("tools", "w/tools")
-                    , ("music:7", "Music")
-                    ]
+                    --  , ("music:7", "Music")
+                    --  ]
     --  , defaultTopicAction = const $ spawnShell >*> 3 -- spawn three shells
-    , defaultTopicAction = const $ return ()
+    --  , defaultTopicAction = const $ return ()
+      defaultTopicAction = const $ return ()
     , defaultTopic = "term:2"
     , topicActions = M.fromList
         --  [ ("xmonad",   spawnShellIn ".xmonad")
         --  , ("mail",       spawn "thunderbird")
         --  , ("telegram",  sendMessage )
-        [ ("mail:3",      spawn "thunderbird")
+        [ ("mendeley:3",      spawn "mendeleydesktop")
         , ("term:2",      spawn myTerminal)
         , ("web:1",       spawn "firefox")
-        , ("tex:4",       muxPrompt myXPConfig)
-        , ("telegram:5",  spawnMuxShell "telegram")
-        , ("movie:6",     spawn "chromium-browser")
-        , ("music:7",     spawnMuxShell "cmus")
-        , ("IM:8",        spawn "skype")
-        , ("steam:9",     spawn "steam")
-        , ("xmonad:0",    spawnMuxShell "xmonad")
+        , ("tex:5",       muxPrompt myXPConfig)
+        --  , ("telegram:5",  spawnMuxShell "telegram")
+        , ("movie:4",     spawn "chromium-browser")
+        --  , ("music:7",     spawnMuxShell "cmus")
+        , ("IM:6",        spawn "skype")
+        , ("steam:7",     spawn "steam")
+        --  , ("xmonad:0",    spawnMuxShell "xmonad")
         ]
     }
 

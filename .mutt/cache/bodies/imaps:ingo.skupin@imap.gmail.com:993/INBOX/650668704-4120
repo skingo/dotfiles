@@ -1,0 +1,50 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp755219vcb;
+        Thu, 1 Nov 2012 05:05:00 -0700 (PDT)
+Received: by 10.216.142.25 with SMTP id h25mr21099019wej.157.1351771499968;
+        Thu, 01 Nov 2012 05:04:59 -0700 (PDT)
+Return-Path: <dr.christian.hermann@web.de>
+Received: from lvps83-169-1-93.dedicated.hosteurope.de (lvps83-169-1-93.dedicated.hosteurope.de. [83.169.1.93])
+        by mx.google.com with ESMTPS id a9si5742364eeo.18.2012.11.01.05.04.59
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 01 Nov 2012 05:04:59 -0700 (PDT)
+Received-SPF: neutral (google.com: 83.169.1.93 is neither permitted nor denied by best guess record for domain of dr.christian.hermann@web.de) client-ip=83.169.1.93;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 83.169.1.93 is neither permitted nor denied by best guess record for domain of dr.christian.hermann@web.de) smtp.mail=dr.christian.hermann@web.de
+Received: (qmail 1187 invoked by uid 110); 1 Nov 2012 13:04:59 +0100
+Delivered-To: 6-saxophon@concertband.de
+X-Spam-Checker-Version: SpamAssassin 3.2.4 (2008-01-01) on
+	lvps83-169-1-93.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=7.0 tests=AWL autolearn=ham version=3.2.4
+Received: (qmail 32651 invoked by uid 110); 1 Nov 2012 13:04:49 +0100
+Delivered-To: 6-alle@concertband.de
+Received: (qmail 32621 invoked from network); 1 Nov 2012 13:04:48 +0100
+Received: from mout.web.de (212.227.17.12)
+  by n178-77-93-160.cnet.hosteurope.de with SMTP; 1 Nov 2012 13:04:48 +0100
+Received: from [192.168.178.37] ([109.192.243.180]) by smtp.web.de (mrweb103)
+ with ESMTPA (Nemesis) id 0MTPel-1Tv0pI2DcF-00RpF7 for <alle@concertband.de>;
+ Thu, 01 Nov 2012 12:59:47 +0100
+Message-ID: <50926433.1020104@web.de>
+Date: Thu, 01 Nov 2012 12:59:47 +0100
+From: Christian Hermann <dr.christian.hermann@web.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:16.0) Gecko/20121026 Thunderbird/16.0.2
+MIME-Version: 1.0
+To: alle@concertband.de
+Subject: Kaffeepause am Samstag
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+X-Provags-ID: V02:K0:PfdrjUOZjYQR9ywTRbwGtzL2YqR8N+I50onO2Insx3s
+ BCO4CaqaVDLmHRg+AlTrMsyDhWmuAlIe1NCTKqCNYjVAgpUbp1
+ cEQVmf7DMp8SgAP9r0e3nj38T7DdSSIp/KqdNmBnxJXPITZAPC
+ PJtJFXuznJ5QE3hWJ6SoSpK71ck18Q44fXngyaDNLv1r66HDIv
+ G8mMnhzprNy19nAEbx2fWTOeqS4II5gCy2qjsgd8GU=
+
+Hallo zusammen,
+
+am Samstag ist für Kaffee und Gebäck gesorgt. Aus ökologischen Gründen 
+fände ich es gut, wenn alle Kaffeetrinker eigene Tassen mitbringen 
+würden, um den Einsatz von Pappbechern so gering wie möglich zu halten ;-)
+
+Bis Samstag,
+
+Grüße, Christian

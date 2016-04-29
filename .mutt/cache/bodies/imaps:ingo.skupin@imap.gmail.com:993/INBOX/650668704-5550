@@ -1,0 +1,121 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.92.135 with SMTP id cm7csp20800pdb;
+        Thu, 23 May 2013 02:22:49 -0700 (PDT)
+X-Received: by 10.15.10.130 with SMTP id g2mr25851202eet.25.1369300968669;
+        Thu, 23 May 2013 02:22:48 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTP id c5si14701903eep.69.2013.05.23.02.22.48
+        for <ingo.skupin@gmail.com>;
+        Thu, 23 May 2013 02:22:48 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from mout.gmx.net ([212.227.17.20]) by mx-ha.web.de (mxweb105) with
+ ESMTP (Nemesis) id 0Lbc2x-1UD0Wr2q7v-00lD8K for <ingo.skupin@gmail.com>; Thu,
+ 23 May 2013 11:22:47 +0200
+Received: from 3capp-gmx-bs06.server.lan ([172.19.170.55]) by
+ mrigmx.server.lan (mrigmx001) with ESMTP (Nemesis) id
+ 0M8npK-1Uky333x5Y-00C8VH; Thu, 23 May 2013 11:22:26 +0200
+Received: from [213.61.168.98] by 3capp-gmx-bs06.server.lan with HTTP; Thu
+ May 23 11:22:25 CEST 2013
+MIME-Version: 1.0
+Message-ID: <trinity-48c9623a-f20a-4886-a719-78afa44b1e30-1369300945125@3capp-gmx-bs06>
+From: "Robin Kiebele" <R.Kiebele@gmx.net>
+To: smachanek@web.de, kaltenecker.jan@googlemail.com, kurz.wau@t-online.de,
+ carolin_michel@t-online.de, nmachanek@web.de, pinkapple11@gmx.de,
+ anjarentz@arcor.de, rs@mmut-anhaenger.de, lotta@zeiger-web.de,
+ christine.dieter.bayer@t-online.de, f.a.brodbeck@kabelbw.de,
+ luisa.frietsch@t-online.de, sara.eberspaecher@live.de, v_tomschi@web.de,
+ sarah-petzoldt@freenet.de, Denis.Trautwein@gmx.de, sonja.christiane@web.de,
+ Janina_Schott@web.de, kristina.kraemer@akris.de, hennrich-paul@web.de,
+ anja.hennrich@gmx.net, david.eisele@arcor.de, annika.steib@hotmail.com,
+ k.halbgebauer@gmx.de, anna-maria.hofmann@online.de, lena-schroth@web.de,
+ lena-schneider@t-online.de, vera.ringhofer@web.de, weberpia@arcor.de,
+ ralf.krasselt@arcor.de, lisarichter93@hotmail.de, m_basta@web.de,
+ tobias.geiger1995@gmx.de, anja_michel91@web.de,
+ schmitzbenni@googlemail.com, D1V23@aol.com, an.ve@arcor.de,
+ jonaskolibius@web.de, luisa.schroth@web.de, koschi_95@web.de,
+ schneider.florian1@gmx.de, Baurlu@web.de, tobias.beichter@gmx.de,
+ oliiiiver@hotmail.de, jonas.gawehn@gmx.de, sascha.schroeter2@gmx.de,
+ christoph@korschinek.de, anja-s96@web.de, Michi110793@aol.com,
+ ingo.skupin@web.de, chrissi.zeller@web.de, sinja_wernz@web.de,
+ T.Rotter@t-online.de, steffensigmund@gmail.com, felix@fam-wetzel.com,
+ benjamin@steiner.org, florian-floriaus@web.de, m.schaich@t-online.de,
+ engel.luisa@web.de, thorsten.schmidt_schmidt@web.de, matze.albrecht@web.de,
+ marcodiez@gmx.de, felix.koschei@freenet.de, strauss-florian@web.de,
+ bastian.otto@fnks.de, mail@fnks.de, marius_gawehn@arcor.de,
+ groeber_95@web.de, jakob.krenn@t-online.de, tanja.beichter@gmx.de,
+ vanessa.wuensch@web.de, viktorhahnemann@aol.de, nils.fischer98@gmx.de
+Cc: christian.schweizer@t-online.de, j.linsenmayer@gmx.de,
+ chrisbehour@googlemail.com, SteveKoch@gmx.de, paul.jacot@gmx.net
+Subject: =?UTF-8?Q?Wichtig!_Neue_Facebook-Gruppe_f=C3=BCr_Internas?=
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 23 May 2013 11:22:25 +0200 (CEST)
+Importance: normal
+Sensitivity: Normal
+In-Reply-To: <476EBFA171B54D6EB024BD997AFC4E23@Arbeitstier>
+References: <476EBFA171B54D6EB024BD997AFC4E23@Arbeitstier>
+X-UI-Message-Type: mail
+X-Priority: 3
+X-Provags-ID: V03:K0:YGVPHZ/7iop1OKhEPXUxxJIyjpH6HAP5JjUjKalSvSx
+ 8029HJibi4EMqsyH4o5kg2WPbhHBeRT1W9Bb4ZjvjK+J5Siseq
+ gDw6IkcjN9JRrE/vBRl0G7vXYuOZddyUYXE5ebpHr5TzpcTBNv
+ 6w7HImiJJMujcsBIEpQGfAxBDUfieTqvFmHO3PgxofMulzAczi
+ /IIbcYyKB3EHaT4tKsiy8czr3v/s2h6hwPcJ1rYMg0/TI1yjRP
+ 82sa4KfetujX3ylL4BF6FKosEWoHqDqlG6cJm2Awg0o/HvxVUV zI/rPY=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>wir ihr vermutlich alle mittlerweile gemerkt habt, gibt es gerade 2 &quot;KJO-Gruppen&quot;.</div>
+
+<div>&nbsp;</div>
+
+<div>Ich habe heute alle, die ich in Facebook habe zu der neuen Gruppe &quot;KJO-Esslingen&quot; hinzugef&uuml;gt.</div>
+
+<div>In dieser Gruppe werden alle internen KJO Infos kommuniziert, deshalb ist die Gruppe auch geheim.</div>
+
+<div>Sie ist so konfiguriert, dass jeder posten kann was er will ohne, dass ein Administrator den Post freigeben muss.</div>
+
+<div>&nbsp;</div>
+
+<div>Diese Facebook-Gruppe hat den Zweck, interne Informationen zu den Projekten, Terminen usw. ebenso wie Bilder von Ausfl&uuml;gen etc. und Anliegen intern zu publizieren.<br/>
+Wenn jemand speziell zu dieser Gruppe ein Anliegen hat darf er sich gerne an die Administratoren (Sinja Wernz, Julian Linsenmayer, Robin Kiebele, Christian Baur) wenden. Von diesen Vorstandsmitgliedern wird die die Gruppe gepflegt.</div>
+
+<div>&nbsp;</div>
+
+<div>Die alte Gruppe wird nicht unter dem Aspekt &quot;KJO&quot; laufen, da daf&uuml;r kein Anlass besteht.</div>
+
+<div>Lena hat soeben den Zweck der alten Gruppe &quot;Blasmusik im Kreisverband Esslingen&quot; gepostet.</div>
+
+<div>Somit d&uuml;rfte klar sein, welche Gruppe welchen Hintergrund hat. Vielen Dank hierf&uuml;r.</div>
+
+<div>&nbsp;</div>
+
+<div>WICHTIG: Wer heute nicht zur Gruppe eingeladen wurde, schreibt mir bitte eine Mail mit seinem Facebook-Namen.</div>
+
+<div>Es ist wichtig, dass alle aktiven KJO-Mitglieder&nbsp;die in Facebook sind auch in dieser Gruppe sind.</div>
+
+<div>&nbsp;</div>
+
+<div>Sollte dazu jemand Fragen haben, darf er sich gerne via Mail oder Facebook-Privatnachricht an mich wenden. (Facebook-Name: Robin Kiebele)</div>
+
+<div>&nbsp;</div>
+
+<div>In Zukunft werden bei den Datenstammbl&auml;ttern f&uuml;r neue Mitglieder auch die Facebook-Namen abgefragt, damit wir alle herzlich in der Gruppe willkommen hei&szlig;en k&ouml;nnen.</div>
+
+<div>&nbsp;</div>
+
+<div>Ich w&uuml;nsche euch schon jetzt ein sch&ouml;nes Wochenende!</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Viele Gr&uuml;&szlig;e</div>
+
+<div><strong>Robin Kiebele</strong></div>
+
+<div>2. Orchestervorstand</div></div></body></html>

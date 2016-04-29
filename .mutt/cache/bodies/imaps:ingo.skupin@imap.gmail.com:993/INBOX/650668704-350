@@ -1,0 +1,83 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.215.3 with SMTP id hc3cs55749vcb;
+        Sun, 24 Jul 2011 13:36:31 -0700 (PDT)
+Received: by 10.223.87.79 with SMTP id v15mr1257007fal.125.1311539790600;
+        Sun, 24 Jul 2011 13:36:30 -0700 (PDT)
+Return-Path: <S.Pfister@dkfz-heidelberg.de>
+Received: from fmmailgate03.web.de (fmmailgate03.web.de [217.72.192.234])
+        by mx.google.com with ESMTP id y26si6173864faj.141.2011.07.24.13.36.30;
+        Sun, 24 Jul 2011 13:36:30 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning S.Pfister@dkfz-heidelberg.de does not designate 217.72.192.234 as permitted sender) client-ip=217.72.192.234;
+Authentication-Results: mx.google.com; spf=softfail (google.com: domain of transitioning S.Pfister@dkfz-heidelberg.de does not designate 217.72.192.234 as permitted sender) smtp.mail=S.Pfister@dkfz-heidelberg.de
+Received:  from mx33.web.de  ( [172.20.6.246])
+	by fmmailgate03.web.de (Postfix) with ESMTP id 2F26919611543
+	for <ingo.skupin@gmail.com>; Sun, 24 Jul 2011 22:36:30 +0200 (CEST)
+Received: from [193.174.53.139] (helo=mailhost4.inet.dkfz-heidelberg.de)
+	by mx33.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1Ql5PZ-00028w-00; Sun, 24 Jul 2011 22:36:29 +0200
+Received: from dkfzmh01.ad.dkfz-heidelberg.de (dkfzmh01.inet.dkfz-heidelberg.de [193.174.53.80])
+	by mailhost2.inet.dkfz-heidelberg.de (8.13.8/8.13.8) with ESMTP id p6OKaIko017182
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=FAIL);
+	Sun, 24 Jul 2011 22:36:18 +0200
+Received: from DKFZEX01.ad.dkfz-heidelberg.de ([193.174.53.79]) by
+ dkfzmh01.ad.dkfz-heidelberg.de ([193.174.56.3]) with mapi; Sun, 24 Jul 2011
+ 22:36:18 +0200
+From: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+To: "Pfister, Martina" <MPfister@geuder.de>
+CC: "pfistersabine@googlemail.com" <pfistersabine@googlemail.com>,
+        "valerie.bartel@gmx.de" <valerie.bartel@gmx.de>,
+        "kingsaxello@googlemail.com"
+	<kingsaxello@googlemail.com>,
+        "steffen.sautter@web.de"
+	<steffen.sautter@web.de>,
+        "florian@floriansebert.de"
+	<florian@floriansebert.de>,
+        "yannick.frey1994@web.de"
+	<yannick.frey1994@web.de>,
+        "lukasfischer1@aol.com" <lukasfischer1@aol.com>,
+        "christine-erchinger@web.de" <christine-erchinger@web.de>,
+        "Dr. Stefan Wiehr"
+	<stefan@wiehr.de>,
+        "ingo.skupin@web.de" <ingo.skupin@web.de>,
+        "rainerpfister@blackforestentertainment.org"
+	<rainerpfister@blackforestentertainment.org>,
+        "Harry D. Bath"
+	<harryd.bath@t-online.de>,
+        Anna-Nora zur Nieden
+	<norazurnieden@googlemail.com>,
+        "jandan@gmx.de" <jandan@gmx.de>
+Date: Sun, 24 Jul 2011 22:35:29 +0200
+Subject: Wichtig: Umfrage wegen potentieller Konzertreise nach Italien 2012
+Thread-Topic: Wichtig: Umfrage wegen potentieller Konzertreise nach Italien
+ 2012
+Thread-Index: AcxKQVdpuBeRKI9fTmOLJWNllyptuw==
+Message-ID: <E8A6DEAC-9F1F-4874-ABA8-08065E09DEA5@dkfz-heidelberg.de>
+References: <1AA994205155AD4A861C5853D563F59A038B5AED@exchange1.geuder.local>
+In-Reply-To: <1AA994205155AD4A861C5853D563F59A038B5AED@exchange1.geuder.local>
+Accept-Language: de-DE
+Content-Language: de-DE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: de-DE
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+SGFsbG8gSWhyIExpZWJlbiwNCg0Kd2lyIGhhdHRlbiBqYSBzY2hvbiDDtmZ0ZXIgZGFyw7xiZXIg
+Z2VyZWRldCwgaW0gbsOkY2hzdGVuIEphaHIgZXZ0bC4gd2llZGVyIGVpbmUgKGRpZXNlcyBtYWwg
+bmljaHQgZ2FueiBzbyBhdWZ3w6RuZGlnZSkgS29uemVydHJlaXNlIHp1IG1hY2hlbi4gRGllIE1l
+aHJoZWl0IHdhciBkYW1hbHMgZsO8ciBJdGFsaWVuIGFscyBSZWlzZXppZWwuIERhaGVyIHfDvHJk
+ZW4gd2lyIG51biBlaW5lICJsYW5nZSBXb2NoZSIgKG1pdCB6d2VpIFdvY2hlbmVuZGVuKSBpbiBk
+ZW4gT3N0ZXJmZXJpZW4gb2RlciBQZmluZ3N0ZmVyaWVuIDIwMTIgbWl0IEtvbnplcnRlbiBpbiBG
+bG9yZW56LCBQZXJ1Z2lhIHVuZCBSb20gdm9yc2NobGFnZW4uIFdpciBoYXR0ZW4gdXJzcHLDvG5n
+bGljaCBhdWNoIGFuIGRpZSBTb21tZXJmZXJpZW4gZ2VkYWNodCwgYWJlciBkYSBrYW5uIEhhcnJ5
+IG7DpGNoc3RlcyBKYWhyIG5pY2h0Lg0KDQpCaXR0ZSBnZWJ0IHVucyDDvGJlciBkZW4gZm9sZ2Vu
+ZGVuIERvb2RsZS1MaW5rIGJpcyAzMS43LjIwMTEgZWluZSBSw7xja21lbGR1bmcsIG9iIElociBw
+cmluemlwaWVsbCBJbnRlcmVzc2UgaGFidCB1bmQgd2VsY2hlIGRlciB2aWVyIFplaXRyw6R1bWUg
+KE1laHJmYWNobmVubnVuZ2VuIHNlaHIgZ2VybmUgZ2VzZWhlbiAoLTogKSBmw7xyIEV1Y2ggbWFj
+aGJhciBzaW5kLg0KDQo8aHR0cDovL2Rvb2RsZS5jb20vejRod3lpZnh5OG04NDV2cD5odHRwOi8v
+ZG9vZGxlLmNvbS96NGh3eWlmeHk4bTg0NXZwDQoNClZpZWxlIEdyw7xzc2UsDQoNCk1hcnRpbmEg
+dW5kIFN0ZWZhbg0KDQpQRCBEci4gU3RlZmFuIFBmaXN0ZXINCk1vbGVjdWxhciBHZW5ldGljcyBv
+ZiBDaGlsZGhvb2QgQnJhaW4gVHVtb3JzDQpHZXJtYW4gQ2FuY2VyIFJlc2VhcmNoIENlbnRlcg0K
+SGVpZGVsYmVyZyBVbml2ZXJzaXR5IEhvc3BpdGFsDQo=

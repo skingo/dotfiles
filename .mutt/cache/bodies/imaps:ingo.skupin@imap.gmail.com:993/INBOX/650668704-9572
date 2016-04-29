@@ -1,0 +1,206 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.108.207 with SMTP id h198csp369737ivc;
+        Thu, 21 Apr 2016 13:47:36 -0700 (PDT)
+X-Received: by 10.194.123.65 with SMTP id ly1mr16724260wjb.125.1461271656246;
+        Thu, 21 Apr 2016 13:47:36 -0700 (PDT)
+Return-Path: <SRS0=nG/5=QQ=gmail.com=fmsebert@srs2.kundenserver.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id a131si1409345wme.68.2016.04.21.13.47.35
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 21 Apr 2016 13:47:36 -0700 (PDT)
+Received-SPF: pass (google.com: domain of SRS0=nG/5=QQ=gmail.com=fmsebert@srs2.kundenserver.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com;
+       spf=pass (google.com: domain of SRS0=nG/5=QQ=gmail.com=fmsebert@srs2.kundenserver.de designates 212.227.17.11 as permitted sender) smtp.mailfrom=SRS0=nG/5=QQ=gmail.com=fmsebert@srs2.kundenserver.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: from [212.227.17.8] ([212.227.17.8]) by mx-ha.web.de (mxweb103) with
+ ESMTPS (Nemesis) id 0MS4sI-1bI7cT2Rnm-00THaa for <ingo.skupin@gmail.com>;
+ Thu, 21 Apr 2016 22:47:35 +0200
+Received: from mout.kundenserver.de ([217.72.192.74]) by mx-ha.web.de
+ (mxweb103) with ESMTPS (Nemesis) id 0LmsZU-1bN9UR2RgK-00h2ju for
+ <ingo.skupin@web.de>; Thu, 21 Apr 2016 22:47:35 +0200
+Received: from [217.72.192.67] ([217.72.192.67]) by mx.kundenserver.de
+ (mxeue107) with ESMTPS (Nemesis) id 0MKaR1-1auiga0znr-001vhF for
+ <ingo.skupin@web.de>; Thu, 21 Apr 2016 22:47:35 +0200
+Received: from [217.72.192.67] ([217.72.192.67]) by mx.kundenserver.de
+ (mxeue107) with ESMTPS (Nemesis) id 0Lr2RL-1bOXjQ0uJP-00eZtZ; Thu, 21 Apr
+ 2016 22:47:35 +0200
+Received: from mail-wm0-f47.google.com ([74.125.82.47]) by mx.kundenserver.de
+ (mxeue107) with ESMTPS (Nemesis) id 0MYNfJ-1bF5U60hiT-00VCC3 for
+ <ensemble@saxophon-ensemble.de>; Thu, 21 Apr 2016 22:47:35 +0200
+Received: by mail-wm0-f47.google.com with SMTP id u206so151032383wme.1
+        for <ensemble@saxophon-ensemble.de>; Thu, 21 Apr 2016 13:47:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:content-transfer-encoding:message-id:date:subject:from
+         :in-reply-to:references:to:cc;
+        bh=ih3QgZxmZSzTZPp3QQ00L3GgP8Dw6256sWAUss69Lek=;
+        b=eA3jHDTnMO+/KPyH0O1lI/ApKVZ0PKBwDiH+0s8Kn62aCh47NdZCSVMXoHw1Lu7ZKY
+         jgDJ3QrA1jDWf6XtwhvjEyIJtlGdrdfu2831RngjNUEKiSn1D4oo3q2JJKJeYofGAice
+         rAr/xGrSrqtmqhsUzbWsTgDK1/nZPTNhQw2nJQs9OFjG1tcXpuR99kkcsYdJuuWzrRLX
+         rBqtkJE9HYi26wfEXgphHWNhb2kyzKiZi3L1tMzXVVegOzt/WQu7UpH0pxFfuTSDlZAN
+         Ib/E4TbqiEU7qtd6vBB6RVQRqTL8L9wF0DwF+OtszPfWM4pWQ3H04/cfGu14v8pcrAqg
+         aScg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:content-transfer-encoding
+         :message-id:date:subject:from:in-reply-to:references:to:cc;
+        bh=ih3QgZxmZSzTZPp3QQ00L3GgP8Dw6256sWAUss69Lek=;
+        b=Br5U/Dei+MAPJOo4uEANR6LsT3TlSg3nJd/gubbcLLIJTkNUKitxkM8cuVC2QlPEo9
+         WiSxqFTCy0zwyip3jJS6RHxYFUWM/y8cqOQqmTIO3bl7hOxLYPvygqHrOEuSVVJiEgtH
+         YsIB8mqrYWvBwBuQvN7CAlZ3/YvGz8JBHtPJunhuGs/HSpujrG3W3kV4UurpIOHOE3M5
+         kF7cp6wZm38YEbTVL+wVi1OXFjvC0md0ScfRTtFqpRNszKarUQW4Rc1yKf6UVodlsCU1
+         UjQDtzxM6n2KmaVusHBpxiMxfaQTCLotD44EXaTcNMr5gcrJAZl0kkJtxle9U+jiT3cs
+         eB4w==
+X-Gm-Message-State: AOPr4FWy/5qww02TlRVhXx5ZQlF0A9uS2dcE1qOVSf20SiZUEPTYsp2jA51wZrhq7QtdKQ==
+X-Received: by 10.28.236.88 with SMTP id k85mr15967285wmh.53.1461271654845;
+        Thu, 21 Apr 2016 13:47:34 -0700 (PDT)
+Return-Path: <fmsebert@gmail.com>
+Received: from [127.0.0.1] (ip-109-42-1-131.web.vodafone.de. [109.42.1.131])
+        by smtp.gmail.com with ESMTPSA id j10sm4569737wjb.46.2016.04.21.13.47.32
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 21 Apr 2016 13:47:33 -0700 (PDT)
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: BlackBerry Email (10.3.2.2876)
+Message-ID: <20160421204732.6742103.1745.16411@gmail.com>
+Date: Thu, 21 Apr 2016 22:47:32 +0200
+Subject: AW: Probewochenende und Konzert am Sonntag
+From: fmsebert@gmail.com
+In-Reply-To: <003601d19c0d$9a595a30$cf0c0e90$@pfister-heidelberg.de>
+References: 
+ <003601d19c0d$9a595a30$cf0c0e90$@pfister-heidelberg.de>
+To: Martina <martina@pfister-heidelberg.de>, TSE <ensemble@saxophon-ensemble.de>, hartmut_nagel@web.de
+Cc: Gerhard Nagel <grnagel@web.de>, kinderaerztin_susanne@t-online.de
+X-UI-Out-Filterresults: notjunk:1;V01:K0:1fPVDV731uI=:nrc8+cuMGgkKBcpYPXiLh8
+ +xH7nADpgqREyn6HpYfc1vEXVtUp2L7yntbX06GZIUmX1GB2G0nupZyiCOALRvpMMTknF3pyU
+ KLfn4FVamqmew+DTHKgHAoTgM39eSszdUMaqb+1OPQibr55I9OIUSvDF84vCux8WSi0RKdcxQ
+ 43A91gx/xwTayP/XL52Igrciikvhz/JGgsSB/04Bx5nrcjquLo0TeyrVXi8sKjxHNdKbUTzew
+ rDZUiHeddSwENg56w/gDAolQ40suHYqsut1nWqSvdjKrbkN7wAwgG8/xzTv7ijGRP0dA883vg
+ FpzoW512XEfjsj0gdhdwD7siPLHCJZIF969kmc4n7gIQVWjXQ2z3N0y/EiN7x22bQrCusxevn
+ HTW8FuSJj6ZZY23WOTswZK4op+JHfaMYexzIQALd1YSVc5gS80AikV1Y/JqEAij9eSGAdEkBx
+ d4FutnWfmAMeGaxscdGA84nbvhXNe16ozyxHNHJ0BpWvj9htKr7ZiDspAikHCYuUDnPmNhu8F
+ ZZIPcTySNGc0YtTYq2dJ9vZDDsu/mydbesFgcs2htX+EFWfteduyv5ktcGVjtXU3VEjIrrZS9
+ br+z4tu8+BqSsdUvsSiQhDXnz50uF3nQcwLu8I1PdI85K+JeJXZY0+nrg729ZISZp16qLfncX
+ kRjx/jLlyRY47grGonPi/JF88e2tiJBZXoX6+954ma3pxXUeWQdes1CJliwgXKaFA+zYj18FJ
+ f9G6beyJEnxWIKZgqSfSRWinE4EB6rZfcSK+vdt6mtdd63WP8Bx3GFjg+nMw9xasgWAxugX68
+ xyhssja7XySA+Kg10D2pwCrctw/oAYkzofxmSVmFUa1cVUOUOBC6zfl7V9/+wuzM1tiRjZcsP
+ 79M4gmM19F5GMY2uZvERP//59LXEBKs4hK0lUEW2eRHmMy6J4FZxCC5B0wXjez+cuLm1u6SjH
+ wwLGH39CY3HHRTuFbg9EPSRHwg7xPnnAwKZK8tFJR63loReIP5e39
+
+<html><head></head><body lang=3D"de-DE" link=3D"#0563C1" vlink=3D"#954F72" =
+style=3D"background-color: rgb(255, 255, 255); line-height: initial;">     =
+                                                                           =
+      <div style=3D"width: 100%; font-size: initial; font-family: Calibri, =
+'Slate Pro', sans-serif, sans-serif; color: rgb(31, 73, 125); text-align: i=
+nitial; background-color: rgb(255, 255, 255);">Hallo Martina,</div><div sty=
+le=3D"width: 100%; font-size: initial; font-family: Calibri, 'Slate Pro', s=
+ans-serif, sans-serif; color: rgb(31, 73, 125); text-align: initial; backgr=
+ound-color: rgb(255, 255, 255);"><br></div><div style=3D"width: 100%; font-=
+size: initial; font-family: Calibri, 'Slate Pro', sans-serif, sans-serif; c=
+olor: rgb(31, 73, 125); text-align: initial; background-color: rgb(255, 255=
+, 255);">Du wolltest das Programm anh=C3=A4ngen.&nbsp;</div><div style=3D"w=
+idth: 100%; font-size: initial; font-family: Calibri, 'Slate Pro', sans-ser=
+if, sans-serif; color: rgb(31, 73, 125); text-align: initial; background-co=
+lor: rgb(255, 255, 255);"><br></div><div style=3D"width: 100%; font-size: i=
+nitial; font-family: Calibri, 'Slate Pro', sans-serif, sans-serif; color: r=
+gb(31, 73, 125); text-align: initial; background-color: rgb(255, 255, 255);=
+">Viele Gr=C3=BC=C3=9Fe&nbsp;</div><div style=3D"width: 100%; font-size: in=
+itial; font-family: Calibri, 'Slate Pro', sans-serif, sans-serif; color: rg=
+b(31, 73, 125); text-align: initial; background-color: rgb(255, 255, 255);"=
+>Florian</div>                                                             =
+                                                                        <di=
+v style=3D"width: 100%; font-size: initial; font-family: Calibri, 'Slate Pr=
+o', sans-serif, sans-serif; color: rgb(31, 73, 125); text-align: initial; b=
+ackground-color: rgb(255, 255, 255);"><br style=3D"display:initial"></div> =
+                                                                           =
+                                                                           =
+                                            <div style=3D"font-size: initia=
+l; font-family: Calibri, 'Slate Pro', sans-serif, sans-serif; color: rgb(31=
+, 73, 125); text-align: initial; background-color: rgb(255, 255, 255);">Ges=
+endet&nbsp;von&nbsp;meinem&nbsp;BlackBerry&nbsp;10-Smartphone.</div>       =
+                                                                           =
+                                                                           =
+                     <table width=3D"100%" style=3D"background-color:white;=
+border-spacing:0px;"> <tbody><tr><td colspan=3D"2" style=3D"font-size: init=
+ial; text-align: initial; background-color: rgb(255, 255, 255);">          =
+                 <div style=3D"border-style: solid none none; border-top-co=
+lor: rgb(181, 196, 223); border-top-width: 1pt; padding: 3pt 0in 0in; font-=
+family: Tahoma, 'BB Alpha Sans', 'Slate Pro'; font-size: 10pt;">  <div><b>V=
+on: </b>Martina</div><div><b>Gesendet: </b>Donnerstag, 21. April 2016 22:37=
+</div><div><b>An: </b>TSE; hartmut_nagel@web.de</div><div><b>Cc: </b>Gerhar=
+d Nagel; kinderaerztin_susanne@t-online.de</div><div><b>Betreff: </b>Probew=
+ochenende und Konzert am Sonntag</div></div></td></tr></tbody></table><div =
+style=3D"border-style: solid none none; border-top-color: rgb(186, 188, 209=
+); border-top-width: 1pt; font-size: initial; text-align: initial; backgrou=
+nd-color: rgb(255, 255, 255);"></div><br><div id=3D"_originalContent" style=
+=3D""><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Diso=
+-8859-1"><meta name=3D"Generator" content=3D"Microsoft Word 15 (filtered me=
+dium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--><div class=3D"WordSection1"><p class=3D"M=
+soNormal">Hallo alle zusammen,<o:p></o:p></p><p class=3D"MsoNormal">wir tre=
+ffen uns am Samstag wie immer um 9.00 Uhr und werden =E2=80=9Eopen end=E2=
+=80=9C Proben und bringt bitte ein Vesper mit, wir werden voraussichtlich n=
+icht Essen gehen.<o:p></o:p></p><p class=3D"MsoNormal">Am Sonntag treffen w=
+ir uns um 14.00 Uhr in Ellwangen, Einspielprobe 14.30 Uhr.<o:p></o:p></p><p=
+ class=3D"MsoNormal"><o:p>&nbsp;</o:p></p><p class=3D"MsoNormal">Anbei auch=
+ noch mal f=C3=BCr alle das Programm das wir spielen.<o:p></o:p></p><p clas=
+s=3D"MsoNormal"><o:p>&nbsp;</o:p></p><p class=3D"MsoNormal">LG und bis Sams=
+tag<o:p></o:p></p><p class=3D"MsoNormal">Martina<o:p></o:p></p></div><br> <=
+table style=3D"border-top: 1px solid #aaabb6;">
+	<tbody><tr>
+      <td style=3D"width: 55px; padding-top: 18px;"><a href=3D"https://www.=
+avast.com/sig-email?utm_medium=3Demail&amp;utm_source=3Dlink&amp;utm_campai=
+gn=3Dsig-email&amp;utm_content=3Demailclient" target=3D"_blank"><img src=3D=
+"https://ipmcdn.avast.com/images/2016/icons/icon-envelope-tick-round-orange=
+-v1.png"></a></td>
+		<td style=3D"width: 470px; padding-top: 20px; color: #41424e; font-size: =
+13px; font-family: Arial, Helvetica, sans-serif; line-height: 18px;">Virenf=
+rei. <a href=3D"https://www.avast.com/sig-email?utm_medium=3Demail&amp;utm_=
+source=3Dlink&amp;utm_campaign=3Dsig-email&amp;utm_content=3Demailclient" t=
+arget=3D"_blank" style=3D"color: #4453ea;">www.avast.com</a> 		</td>
+	</tr>
+</tbody></table>
+<br><!--end of _originalContent --></div></body></html>

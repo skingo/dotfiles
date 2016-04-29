@@ -8,7 +8,20 @@ nnoremap <C-Q> ,
 let g:agda_extraincpaths = ["/home/skinge/Downloads/agda-stdlib-0.10/src/"]
 
 " testing stuff for SE -------{{{
-" ---------- resizing GUI -----
+"" --------- get project head in specific project setup
+"function! Foo()
+  "if expand("%:p:h:t") == "tex"
+    "let l:dir=split(system("ls .."), "\n")
+    "return fnamemodify("../" . filter(l:dir, "v:val =~ \".*\.tex\"")[0],  ":p")
+  "else
+    "return expand("%:p")
+  "endif
+"endfunction
+"nnoremap <leader>vv :execute ":!open " . fnamemodify(Foo(), ":r") . ".pdf &"<CR>
+"nnoremap <leader>c :w<CR>:!pdflatex Foo()<CR>
+"" ----- autocmd to remove spaces in empty lines without jumping -----
+"autocmd BufWritePre foo call KeepEx('silent! %s/\v^\s+$//e')
+"" ---------- resizing GUI -----
 "set lines=20
 "set columns=40
 "if exists('foo')
@@ -19,9 +32,43 @@ let g:agda_extraincpaths = ["/home/skinge/Downloads/agda-stdlib-0.10/src/"]
 "set lines=40 columns=30
 "autocmd GUIEnter * set lines=30 columns=40
 "autocmd GUIEnter * set lines=30
-" ---------- quickfix windows in new tab ---
+"" ---------- quickfix windows in new tab ---
 "autocmd FileType qf nnoremap <buffer> <Enter> <C-W><Enter><C-W>T
+"" ---------- case insensitive shell command completion -----
+"command! -nargs=+ -complete=custom,s:CustComp E execute "!" . "<args>"
+"function! <SID>CustComp(ArgLead, CmdLine, CursorPos)
+    "let l:shelltmp = &shell
+    "set shell=/bin/bash
+    "let l:current = split(a:CmdLine, '\s\+', 1)
+    "if len(l:current) == 2
+        "let l:ret=system("compgen -ac")
+    "else
+        "let l:ls = split(system("ls"), "\n")
+        "let l:ret=join(filter(ls, join(['v:val =~? "', a:ArgLead, '"'], '')), "\n")
+    "endif
+    ""set shell=l:shelltmp
+    "execute join(["set shell", l:shelltmp], '=')
+    "return l:ret
+"endfunction
 "}}}
+
+" get output of cmds in scratch buffer ------{{{
+function! CmdOutput(cmd,bang,line1,line2)
+    let l:output=""
+    let l:command = a:cmd
+    if (a:line1 != "")
+        let l:command= join([a:line1 , "," , a:line2 , l:command], "")
+    endif
+    redir =>> l:output
+    execute l:command
+    redir END
+    execute "Scratch" . a:bang
+    call append(line("."), split(l:output, "\n"))
+endfunction
+
+command! -nargs=+ -bang -range CmdOutputRanged call CmdOutput("<args>","<bang>","<line1>","<line2>")
+command! -nargs=+ -bang CmdOutput call CmdOutput("<args>","<bang>","","")
+" }}}
 
 " avoid function key problems when using tmux -----------{{{
 if !has("gui_running")
@@ -145,7 +192,6 @@ nnoremap <leader>cp vip:call NERDComment("x", "Sexy")<CR>
 augroup filetype_vim
     autocmd!
     autocmd FileType vim setlocal foldmethod=marker
-    autocmd BufNew,BufRead *.latexmain set filetype=vim
 augroup END
 " }}}
 
@@ -216,6 +262,8 @@ onoremap il] :<c-u>normal! F]vi[<cr>
 " grep for word under cursor in current dir
 " moved to ~/.vim/plugin/grep-operator.vim with additional functionality
 "nnoremap <leader>g :silent execute "grep! -R " . shellescape(expand("<cWORD>")) . " ."<cr>:copen<cr>:redraw!<CR>
+
+set nrformats-=octal
 
 " change visual mode to not include EOL (default is 'inclusive')
 set selection=old
@@ -501,6 +549,16 @@ lmap ä {
 lmap ö [
 lmap ü (
 set lmap=ä{ö[ü(
+" }}}
+
+" Executing Ex commands without changing view ----{{{
+function! KeepEx(arg)
+    let l:winview = winsaveview()
+    execute a:arg
+    call winrestview(l:winview)
+endfunction
+
+command! -nargs=+ -complete=command K :call KeepEx("<args>")
 " }}}
 
 "================use mkview to save folds etc================================

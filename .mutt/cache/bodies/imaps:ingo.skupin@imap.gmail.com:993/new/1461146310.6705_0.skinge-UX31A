@@ -1,0 +1,72 @@
+Return-Path: <>
+X-Original-To: skinge@skinge-UX31A
+Delivered-To: skinge@skinge-UX31A
+Received: by skinge-UX31A (Postfix)
+	id E23E76C475; Wed, 20 Apr 2016 11:58:30 +0200 (CEST)
+Date: Wed, 20 Apr 2016 11:58:30 +0200 (CEST)
+From: MAILER-DAEMON@skinge-UX31A (Mail Delivery System)
+Subject: Undelivered Mail Returned to Sender
+To: skinge@skinge-UX31A
+Auto-Submitted: auto-replied
+MIME-Version: 1.0
+Content-Type: multipart/report; report-type=delivery-status;
+	boundary="DBC356C473.1461146310/skinge-UX31A"
+Message-Id: <20160420095830.E23E76C475@skinge-UX31A>
+
+This is a MIME-encapsulated message.
+
+--DBC356C473.1461146310/skinge-UX31A
+Content-Description: Notification
+Content-Type: text/plain; charset=us-ascii
+
+This is the mail system at host skinge-UX31A.
+
+I'm sorry to have to inform you that your message could not
+be delivered to one or more recipients. It's attached below.
+
+For further assistance, please send mail to postmaster.
+
+If you do so, please include this problem report. You can
+delete your own text from the attached returned message.
+
+                   The mail system
+
+<"."@skinge-UX31A> (expanded from <".">): unknown user: "."
+
+<foo@skinge-UX31A> (expanded from <foo>): unknown user: "foo"
+
+--DBC356C473.1461146310/skinge-UX31A
+Content-Description: Delivery report
+Content-Type: message/delivery-status
+
+Reporting-MTA: dns; skinge-UX31A
+X-Postfix-Queue-ID: DBC356C473
+X-Postfix-Sender: rfc822; skinge@skinge-UX31A
+Arrival-Date: Wed, 20 Apr 2016 11:58:27 +0200 (CEST)
+
+Final-Recipient: rfc822; "."@skinge-UX31A
+Original-Recipient: rfc822; "."
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "."
+
+Final-Recipient: rfc822; foo@skinge-UX31A
+Original-Recipient: rfc822; foo
+Action: failed
+Status: 5.1.1
+Diagnostic-Code: X-Postfix; unknown user: "foo"
+
+--DBC356C473.1461146310/skinge-UX31A
+Content-Description: Undelivered Message
+Content-Type: message/rfc822
+
+Return-Path: <skinge@skinge-UX31A>
+Received: by skinge-UX31A (Postfix, from userid 1000)
+	id DBC356C473; Wed, 20 Apr 2016 11:58:30 +0200 (CEST)
+Message-Id: <20160420095830.DBC356C473@skinge-UX31A>
+Date: Wed, 20 Apr 2016 11:58:27 +0200 (CEST)
+From: skinge@skinge-UX31A (skinge)
+
+eijfe
+
+--DBC356C473.1461146310/skinge-UX31A--

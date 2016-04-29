@@ -1,0 +1,143 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp358920pdb;
+        Thu, 10 Oct 2013 06:48:33 -0700 (PDT)
+X-Received: by 10.14.107.68 with SMTP id n44mr20954695eeg.26.1381412912918;
+        Thu, 10 Oct 2013 06:48:32 -0700 (PDT)
+Return-Path: <melanie.kapp@arcor.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTPS id g5si378191eev.153.1969.12.31.16.00.00
+        (version=TLSv1.2 cipher=AES128-SHA bits=128/128);
+        Thu, 10 Oct 2013 06:48:32 -0700 (PDT)
+Received-SPF: fail (google.com: domain of melanie.kapp@arcor.de does not designate 212.227.15.14 as permitted sender) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=hardfail (google.com: domain of melanie.kapp@arcor.de does not designate 212.227.15.14 as permitted sender) smtp.mail=melanie.kapp@arcor.de;
+       dkim=pass (test mode) header.i=@arcor.de
+Received:  from mail-in-05.arcor-online.net ([151.189.21.45]) by mx-ha.web.de
+ (mxweb106) with ESMTPS (Nemesis) id 0M7ZcZ-1Vg0tc0FEt-00xJnp for
+ <ingo.skupin@gmail.com>; Thu, 10 Oct 2013 15:48:31 +0200
+Received: from mail-in-16-z2.arcor-online.net (mail-in-16-z2.arcor-online.net [151.189.8.33])
+	by mx.arcor.de (Postfix) with ESMTP id C0B6FE3CEF;
+	Thu, 10 Oct 2013 15:48:30 +0200 (CEST)
+Received: from mail-in-06.arcor-online.net (mail-in-06.arcor-online.net [151.189.21.46])
+	by mail-in-16-z2.arcor-online.net (Postfix) with ESMTP id B8672212011;
+	Thu, 10 Oct 2013 15:48:30 +0200 (CEST)
+Received: from webmail16.arcor-online.net (webmail16.arcor-online.net [151.189.8.70])
+	by mail-in-06.arcor-online.net (Postfix) with ESMTP id A9A8610BA1B;
+	Thu, 10 Oct 2013 15:48:30 +0200 (CEST)
+X-DKIM: Sendmail DKIM Filter v2.8.2 mail-in-06.arcor-online.net A9A8610BA1B
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=arcor.de; s=mail-in;
+	t=1381412910; bh=7f93KO65i+s+a1Q0kJm+QrafLi3gPWFxTIZ7yNLQMi4=;
+	h=Date:From:To:Cc:Message-ID:In-Reply-To:References:Subject:
+	 MIME-Version:Content-Type:Content-Transfer-Encoding;
+	b=ou/aDfaZnUZ5gvrdWBymaikVTlIuvPQEhBc8ydzS0OJCWOE0YTUic4/kpqbZshZT2
+	 wstTM8f+jrrgxnP8cSBiceZg3GMQ8btRljZvPii2Rzn+3vPA3YF/CXvX9hk/kwEBby
+	 +z1xaiHyg+fSUHHxSKI96wsNuqRWwLTsNXw5/dr4=
+Received: from [91.47.185.84] by webmail16.arcor-online.net (151.189.8.70) with HTTP (Arcor Webmail); Thu, 10 Oct 2013 15:48:30 +0200 (CEST)
+Date: Thu, 10 Oct 2013 15:48:30 +0200 (CEST)
+From: melanie.kapp@arcor.de
+To: martina@pfister-heidelberg.de, harryd.bath@t-online.de, 
+	melanie.kapp@arcor.de, l.fischer@3-1415.de
+Cc: ingo.skupin@web.de, stefan@wiehr.de
+Message-ID: <2094664070.767821.1381412910711.JavaMail.ngmail@webmail16.arcor-online.net>
+In-Reply-To: <3DA86C31-111F-46AC-A482-A9CAEB84ADBF@Pfister-Heidelberg.de>
+References: <3DA86C31-111F-46AC-A482-A9CAEB84ADBF@Pfister-Heidelberg.de> <52541507.08d30e0a.2568.ffffad59@mx.google.com>
+Subject: Samstag
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-ngMessageSubType: MessageSubType_MAIL
+X-WebmailclientIP: 91.47.185.84
+
+Hallo zusammen,
+
+das ist ja ein Durcheinander bei Euch;))
+Da ich vergangenes Wochenende mit der Stadtkapelle unterwegs war und die No=
+ten nicht vorher hatte, konnte ich bisher noch gar nicht intensiv =FCben. I=
+ch habe den ersten Konzertteil mal angschaut, den Rest wollte ich morgen ma=
+chen.
+Ich bin Euch also =FCberhaupt nicht b=F6se, wenn Ihr mich am Samstag nun ni=
+cht mehr braucht. Ich habe einiges zu Hause zu erledigen und bin echt nicht=
+ beleidigt, wenn Ihr mich spontan wieder "ausladet".
+Wenn ich am Samstag aber mitspielen soll, dann sollte ich zumindest morgen =
+die Noten haben, denn ganz unge=FCbt kriege ich das auch nicht hin und die =
+Zeit ist eh knapp f=FCr den ganzen Notenstapel.
+Also, meldet Euch bitte schnell, ob ich nun gebraucht werde und wenn ja: wa=
+nn auf welcher Stimme???
+Liebe Gr=FC=DFe
+Meli=20
+
+
+----- Original Nachricht ----
+Von:     Martina Pfister <Martina@Pfister-Heidelberg.de>
+An:      "Harry D. Bath" <harryd.bath@t-online.de>, Melanie Kapp <melanie.k=
+app@arcor.de>, Lukas Fischer <l.fischer@3-1415.de>
+Datum:   09.10.2013 23:00
+Betreff: Fwd: Zeitplan kommendes Wochenende
+
+> Hallo Harry, hallo Ihr Ten=F6re,
+>=20
+> offensichtlich ist Ingo jetzt beim Konzert in Lahr doch da??? s.u.
+>=20
+> Es macht nat=FCrlich keinen Sinn mit 3 zweiten Ten=F6ren zu spielen.
+> Mein Vorschlag, falls Melli es da nicht an die Nerven bekommt, wenn =20
+> sie bei
+> den wichtigen St=FCcken dann 1. Tenor verst=E4rkt?
+>=20
+> Harry/Poldi k=F6nntet Ihr Euch da miteinander in Verbindung setzen, bei =
+=20
+> welchen St=FCcken das
+> Sinn macht und bei welchen nicht? Und Poldi, w=E4rst Du so lieb Melli =20
+> dann die entsprechenden Noten zu scannen und zu mailen?
+> Sorry, an Pferdle, der die Noten jetzt umsonst gescannt hat :-(
+>=20
+> Ingo, hast Du =FCberhaupt die neuen Tschaikowsky-Noten, wenn nein, =20
+> k=F6nntest Du Dich mit Pferdle in Verbindung setzen, dass er dir die =20
+> Noten mailt (gescannt sind sie ja schon). Und bitte =FCben, wir haben =20
+> nur eine kurze Einspielprobe am Samstag.
+>=20
+> Liebe Gr=FC=DFe
+> Tine
+>=20
+>=20
+>=20
+> Anfang der weitergeleiteten E-Mail:
+>=20
+> > Von: ingo.skupin@googlemail.com
+> > Datum: 8. Oktober 2013 16:20:18 MESZ
+> > An: "Martina@Pfister-Heidelberg.de" <Martina@Pfister-Heidelberg.de>
+> > Betreff: Zeitplan kommendes Wochenende
+> >
+> > Hallo,
+> >
+> > ich bin jetzt wieder aus Thailand zur=FCck und wollte mich mal nach =20
+> > dem Zeitplan f=FCr das kommende Wochenende (und am besten auch gleich =
+=20
+> > f=FCr das Wochende drauf) erkundigen.
+> > So, wie ich das verstanden habe, ist ja am Sonntag kein Konzert bei =20
+> > den Jazz- und Klassiktagen, oder?
+> >
+> > Gru=DF,
+> > Ingos
+> >
+>=20
+> Musikschule
+> T=FCbinger Saxophon-Ensemble
+> _________________________________
+>=20
+> Martina Pfister
+> Amselgasse 4/3
+> 69121 Heidelberg
+>=20
+> Tel  (06 22 1) 58 69 69
+> Fax (06 22 1) 58 69 70
+> info@saxophon-ensemble.de
+> www.saxophon-ensemble.de
+>=20
+>=20
+>=20
+>=20
+>=20
+>=20
+>=20
+>=20
+>

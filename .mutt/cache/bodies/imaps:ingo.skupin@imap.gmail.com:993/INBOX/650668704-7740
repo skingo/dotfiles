@@ -1,0 +1,55 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp222186pdt;
+        Sun, 6 Jul 2014 14:04:27 -0700 (PDT)
+X-Received: by 10.194.191.162 with SMTP id gz2mr27414403wjc.89.1404680667024;
+        Sun, 06 Jul 2014 14:04:27 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id ws10si47393073wjb.59.2014.07.06.14.04.26
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 06 Jul 2014 14:04:27 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb106)
+ with ESMTPS (Nemesis) id 0Ma0cV-1XKjdX435j-00Llet for
+ <ingo.skupin@gmail.com>; Sun, 06 Jul 2014 23:04:25 +0200
+Received: from mout.gmx.net ([212.227.17.22]) by mx-ha.web.de (mxweb106) with
+ ESMTPS (Nemesis) id 0LlUOx-1WVwMx42uF-00bMbD for <ingo.skupin@web.de>; Sun,
+ 06 Jul 2014 23:04:24 +0200
+Received: from mout.gmx.net ([212.227.15.19]) by mx-ha.gmx.net (mxgmx102) with
+ ESMTPS (Nemesis) id 0LkRnj-1WScyy2Zrv-00cOd3; Sun, 06 Jul 2014 23:04:23 +0200
+Received: from [46.223.220.243] by 3capp-gmx-bs12.server.lan (via HTTP);
+ Sun, 6 Jul 2014 23:04:23 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-5dc27d88-0aa8-4cd0-a985-7d7f093b83c3-1404680663221@3capp-gmx-bs12>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de,
+ BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de
+Subject: Musikstunde am Dienstag + Halbfinale Deutschland-Brasilien
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 6 Jul 2014 23:04:23 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:Ij5aTvbJmM5cLBbiGzapw2SB+ob61bXEsWCwHI+fbp1
+ +X3nReuiUCdjrirbTPr0IRF8LUbhL5IUxqel5OI8dYtwTMoDPZ
+ zBZCfB8/o+0SpbgJbBRATemRq00e0xQyiFhXjySn6LndDM0h80
+ 9hOY5mVHLqi70eM+xsqQKDCMTUvdYkMAtyOmQvVVq7rOar4rgx
+ LtzYp8kfmXRbCOiNHoK2m32ONZTeccnd8WJFUT4SLJ0Abfjezh
+ BgPNVExPJhzG2xBzRCgOuehOtOhX/p1AM0XL4cnHH+xIiIFwOr 2UspxQ=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>am kommenden Dienstag, 08.07.2014 ist ganz normal Musikstunde bzw. etwas k&uuml;rzer,</div>
+
+<div>mit anschlie&szlig;endem &quot;Musikverein-Public-Viewing&quot; des Halbfinales Deutschland-Brasilien</div>
+
+<div>auf Gro&szlig;leinwand in der Gemeindehalle Notzingen.</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig; J&uuml;rgen</div></div></body></html>

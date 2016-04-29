@@ -1,0 +1,116 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.4 with SMTP id b4csp177516vcj;
+        Wed, 18 Apr 2012 08:14:04 -0700 (PDT)
+Received: by 10.213.112.143 with SMTP id w15mr247056ebp.270.1334762043245;
+        Wed, 18 Apr 2012 08:14:03 -0700 (PDT)
+Return-Path: <Heinrich.Lautenbacher@med.uni-tuebingen.de>
+Received: from kuba1.zit.medizin.uni-tuebingen.de (kuba1.zit.medizin.uni-tuebingen.de. [134.2.188.11])
+        by mx.google.com with ESMTP id x8si25890921wec.131.2012.04.18.08.14.02;
+        Wed, 18 Apr 2012 08:14:03 -0700 (PDT)
+Received-SPF: pass (google.com: domain of Heinrich.Lautenbacher@med.uni-tuebingen.de designates 134.2.188.11 as permitted sender) client-ip=134.2.188.11;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of Heinrich.Lautenbacher@med.uni-tuebingen.de designates 134.2.188.11 as permitted sender) smtp.mail=Heinrich.Lautenbacher@med.uni-tuebingen.de
+X-ExtLoop1: 1
+X-IronPort-AV: E=Sophos;i="4.75,442,1330902000"; 
+   d="scan'208,217";a="34299469"
+Received: from gwia1.zit.med.uni-tuebingen.de ([10.202.107.209])
+  by husum1.zit.med.uni-tuebingen.de with ESMTP; 18 Apr 2012 17:14:02 +0200
+Received: from GWGWIA-MTA by gwia1.zit.med.uni-tuebingen.de
+	with Novell_GroupWise; Wed, 18 Apr 2012 17:14:02 +0200
+Message-Id: <4F8EF654.4AA1.0013.0@med.uni-tuebingen.de>
+X-Mailer: Novell GroupWise Internet Agent 8.0.2 
+Date: Wed, 18 Apr 2012 17:13:57 +0200
+From: "Heinrich Lautenbacher" <Heinrich.Lautenbacher@med.uni-tuebingen.de>
+To: "Heinrich Lautenbacher" <Heinrich.Lautenbacher@med.uni-tuebingen.de>
+Subject: Seminar Medizinische Dokumentation
+References: <4F8EF18D02000013000586C1@gwia1.zit.med.uni-tuebingen.de>
+ <4F8EF25502000013000586C5@gwia1.zit.med.uni-tuebingen.de>
+ <4F8EF2AF02000013000586C9@gwia1.zit.med.uni-tuebingen.de>
+ <4F8EF44F02000013000586CE@gwia1.zit.med.uni-tuebingen.de>
+ <4F8EF4D402000013000586D2@gwia1.zit.med.uni-tuebingen.de>
+ <4F8EF65502000013000586D6@gwia1.zit.med.uni-tuebingen.de>
+Mime-Version: 1.0
+Content-Type: multipart/mixed; boundary="=__Part56789A25.0__="
+
+This is a MIME message. If you are reading this text, you may want to 
+consider changing to a mail reader or gateway that understands how to 
+properly handle MIME multipart messages.
+
+--=__Part56789A25.0__=
+Content-Type: multipart/alternative; boundary="=__Part56789A25.1__="
+
+--=__Part56789A25.1__=
+Content-Type: text/plain; charset=ISO-8859-15
+Content-Transfer-Encoding: quoted-printable
+
+Liebe Studenten des Nebenfachs/Schwerpunkt Medizin,
+=20
+am Dienstag, 24.04., startet das Seminar "Medizinische Dokumentation f=FCr =
+Mediziner und Informatiker". Im Seminar sind derzeit noch 3 Pl=E4tze frei. =
+Es k=F6nnen neben Diplom- und Master-Studenten (Pflichtveranstaltung) auch =
+interessierte Bachelor-Studenten teilnehmen, da das Seminar au=DFer einem =
+Interesse f=FCr Medizinische Inhalte kein besonderes Vorwissen voraussetzt.=
+ Sollten Bachelor-Studenten allerdings ein Master-Studium mit Schwerpunkt =
+Medizin anschlie=DFen, so w=FCrde eine erneute Teilnahme an der Veranstaltu=
+ng nicht mehr angerechnet werden (in diesem Fall m=FCsste der Student sich =
+anderweitig aus dem Wahlpflichtbereich bedienen).
+=20
+Das Seminar findet an 5 verschiedenen Terminen Dienstags um 16.00 bis =
+18.00 statt und wird mit einer Klausur abgeschlossen (Pflicht!). Den =
+genauen Ort gebe ich denjenigen bekannt, die Sie sich bei mir per E-Mail =
+anmelden.
+=20
+Beste Gr=FC=DFe
+=20
+Heinrich Lautenbacher
+=20
+=20
+Dr. med. Heinrich Lautenbacher
+Universit=E4tsklinikum T=FCbingen
+Gesch=E4ftsbereich IT
+Geissweg 11
+D-72076 T=FCbingen
+Tel. 07071/29-85070
+
+--=__Part56789A25.1__=
+Content-Type: text/html; charset=ISO-8859-15
+Content-Transfer-Encoding: quoted-printable
+Content-Description: HTML
+
+<HTML><HEAD>
+<META http-equiv=3DContent-Type content=3D"text/html; charset=3Diso-8859-15=
+">
+<META content=3D"MSHTML 6.00.6000.17108" name=3DGENERATOR></HEAD>
+<BODY style=3D"MARGIN: 4px 4px 1px; FONT: 10pt Tahoma">
+<DIV>Liebe Studenten des Nebenfachs/Schwerpunkt Medizin,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>am Dienstag, 24.04., startet das Seminar "Medizinische Dokumentation =
+f=FCr Mediziner und Informatiker". Im Seminar sind derzeit noch 3 Pl=E4tze =
+frei. Es k=F6nnen neben Diplom- und Master-Studenten (Pflichtveranstaltung)=
+ auch interessierte Bachelor-Studenten teilnehmen, da das Seminar au=DFer =
+einem Interesse f=FCr Medizinische Inhalte kein besonderes Vorwissen =
+voraussetzt.&nbsp;Sollten Bachelor-Studenten allerdings ein Master-Studium =
+mit Schwerpunkt Medizin anschlie=DFen, so w=FCrde eine erneute Teilnahme =
+an der Veranstaltung nicht mehr angerechnet werden (in diesem Fall =
+m=FCsste der Student sich anderweitig aus dem Wahlpflichtbereich bedienen).=
+</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Das Seminar findet an 5 verschiedenen Terminen Dienstags um&nbsp;16.00=
+ bis&nbsp;18.00 statt und wird mit einer Klausur abgeschlossen (Pflicht!). =
+Den genauen Ort gebe ich denjenigen bekannt, die Sie sich bei mir per =
+E-Mail anmelden.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Beste Gr=FC=DFe</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Heinrich Lautenbacher</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Dr. med. Heinrich Lautenbacher</DIV>
+<DIV>Universit=E4tsklinikum T=FCbingen</DIV>
+<DIV>Gesch=E4ftsbereich IT</DIV>
+<DIV>Geissweg 11</DIV>
+<DIV>D-72076 T=FCbingen</DIV>
+<DIV>Tel. 07071/29-85070</DIV></BODY></HTML>
+
+--=__Part56789A25.1__=--
+
+--=__Part56789A25.0__=--

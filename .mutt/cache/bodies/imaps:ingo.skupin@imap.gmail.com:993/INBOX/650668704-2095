@@ -1,0 +1,131 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.196.155 with SMTP id eg27csp83016vcb;
+        Wed, 29 Feb 2012 21:49:37 -0800 (PST)
+Received: by 10.213.31.134 with SMTP id y6mr1316319ebc.1.1330580974905;
+        Wed, 29 Feb 2012 21:49:34 -0800 (PST)
+Return-Path: <Erich.Hermann@landesblasorchester.de>
+Received: from mo-p00-ob.rzone.de (mo-p00-ob.rzone.de. [81.169.146.162])
+        by mx.google.com with ESMTPS id t2si710625eef.159.2012.02.29.21.49.34
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 29 Feb 2012 21:49:34 -0800 (PST)
+Received-SPF: neutral (google.com: 81.169.146.162 is neither permitted nor denied by best guess record for domain of Erich.Hermann@landesblasorchester.de) client-ip=81.169.146.162;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 81.169.146.162 is neither permitted nor denied by best guess record for domain of Erich.Hermann@landesblasorchester.de) smtp.mail=Erich.Hermann@landesblasorchester.de; dkim=pass (test mode) header.i=@landesblasorchester.de
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; t=1330580974; l=2234;
+	s=domk; d=landesblasorchester.de;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Date:Subject:
+	In-Reply-To:References:To:From:X-RZG-CLASS-ID:X-RZG-AUTH;
+	bh=HdcqKYmPHmh1XpXsnb0ZXQQsfnM=;
+	b=S8mNR2cuzujAtuUSM+S7aUscgTMtuRi5om1MR4I+9CWqvafr33hhQKKmABEy9Ap0Tdn
+	Eaua/b1cPKhK250Y9UsYyIMVi4EY53LJ1OTUrj5NpWSuLGGL33Ah4Dp/X9Q14OWQPWbaG
+	XE/D/qVzQqJ+DuAq/vuLbQFpbohMBUHrUIk=
+X-RZG-AUTH: :KX4Ndkjmc/oZU/t5tuJLTaYrSJgvyWN4+tv88kEQPSla/qtjg1z5kqLqFRMegKxC+3RZwlH4oIf5X0w7fF2w
+X-RZG-CLASS-ID: mo00
+Received: from FER9CH8X2L (wsip-98-173-203-157.sb.sd.cox.net [98.173.203.157])
+	by post.strato.de (mrclete mo31) (RZmta 27.7 AUTH)
+	with ESMTPA id e058b3o215IdpO for <ingo.skupin@googlemail.com>;
+	Thu, 1 Mar 2012 06:49:12 +0100 (MET)
+From: "Erich Hermann" <Erich.Hermann@landesblasorchester.de>
+To: "'Ingo Skupin gmail'" <ingo.skupin@googlemail.com>
+References: <013301ccf3d7$ef98aba0$ceca02e0$@landesblasorchester.de> <4F4BCF97.1060807@googlemail.de>
+In-Reply-To: <4F4BCF97.1060807@googlemail.de>
+Subject: RE: Herzlich Willkommen beim LBO!
+Date: Wed, 29 Feb 2012 21:49:10 -0800
+Message-ID: <009101ccf76f$07cce200$1766a600$@landesblasorchester.de>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQH7Y8MtuduYNoBZGdNNwobPUegtWAJ3JP0SleRc/CA=
+Content-Language: de
+
+Hallo Ingo,
+
+Kein Thema! Danke f=FCr die Info.
+BTW, im Personalstammblatt unten waren die Konzertorte falsch, also =
+nicht
+drausbringen lassen. Richtig muss es hei=DFen: Nagold und Ehingen.
+
+Gru=DF,
+Erich
+
+
+-----Original Message-----
+From: Ingo Skupin gmail [mailto:ingo.skupin@googlemail.com]=20
+Sent: Montag, 27. Februar 2012 10:47
+To: Erich Hermann
+Subject: Re: Herzlich Willkommen beim LBO!
+
+Hallo,
+
+tut mir leid, dass ich so sp=E4t antworte, hier kommt mein =
+Personalstammblatt.
+
+Viele Gr=FC=DFe,
+Ingo
+
+Am 25.02.2012 17:10, schrieb Erich Hermann:
+> Hallo Ingo!
+>
+>
+>
+> Super, dass Du uns im aktuellen LBO-Halbjahr unterst=FCtzen wirst!=20
+> Martina Wratsch hat mir Deine eMail-Adresse weitergeleitet. Ich bin=20
+> der Personalreferent des LBO und bin f=FCr die ganze Organisation der=20
+> Arbeitsphasen, Rundschreiben, Anmeldungen, ... zust=E4ndig.
+>
+>
+>
+> Bitte sei so nett und f=FClle mir das angeh=E4ngte Personalstammblatt =
+aus.=20
+> Ich habe Dir auch noch ein Merkblatt angeh=E4ngt, das n=FCtzliche =
+Infos=20
+> =FCbers LBO enth=E4lt. Falls nicht alle Fragen Deinerseits beantwortet =
+
+> sind, lass' mich diese bitte wissen.
+>
+>
+>
+> Auf unserer Website findest Du im internen Mitgliederbereich alle=20
+> Infos rund um die kommenden Termine. Jeweils ein paar Tage vor einem=20
+> LBO-Termin solltest Du Deine Mails nochmal checken bzw. auf den=20
+> internen Bereich der Website schauen, da verteile ich late-news.
+>
+>
+>
+> Noch Fragen?
+>
+>
+>
+> Gru=DF und bis bald in K=FCrnbach,
+>
+> Erich
+>
+> ----------------------------------------------------------------------
+> ------
+> -------------------------
+>
+> Erich Hermann, Landesblasorchester Baden-W=FCrttemberg (LBO),=20
+> Personalreferent
+>
+>
+> Kernerstr. 9, 70806 Kornwestheim, Tel.: +49 7154 27144
+>
+> erich.hermann@landesblasorchester.de, www.landesblasorchester.de
+>
+>
+>
+>
+>
+>
+>
+> Zugangsdaten f=FCr den internen Bereich der Website (Terminplan,=20
+> Konzertprogramm, Adressenliste, aktuelle Infos...)=20
+> http://www.landesblasorchester.de/lbo-intern/aktuelles/
+> (bitte nicht au=DFerhalb der LBO-Mitglieder weitergeben!):
+>
+> User: lbo    Passwort: mpolo  [nur Kleinbuchstaben]
+>
+>
+>
+

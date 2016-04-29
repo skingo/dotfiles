@@ -1,0 +1,58 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp89315pdb;
+        Mon, 2 Sep 2013 01:09:18 -0700 (PDT)
+X-Received: by 10.15.90.132 with SMTP id q4mr40537eez.98.1378109358094;
+        Mon, 02 Sep 2013 01:09:18 -0700 (PDT)
+Return-Path: <margit.haug@ennulat.de>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id q8si9170269eem.210.1969.12.31.16.00.00
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 02 Sep 2013 01:09:18 -0700 (PDT)
+Received-SPF: neutral (google.com: 5.35.244.247 is neither permitted nor denied by best guess record for domain of margit.haug@ennulat.de) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 5.35.244.247 is neither permitted nor denied by best guess record for domain of margit.haug@ennulat.de) smtp.mail=margit.haug@ennulat.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 20D4DAC921E; Mon,  2 Sep 2013 10:09:17 +0200 (CEST)
+X-Original-To: pause@concertband.de
+Delivered-To: pause@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from h855011.serverkompetenz.net (ennulat.de [85.214.40.200])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTPS id 45C67AC8F6C
+	for <pause@concertband.de>; Mon,  2 Sep 2013 10:09:14 +0200 (CEST)
+Received: (qmail 20143 invoked from network); 2 Sep 2013 10:09:10 +0200
+X-Spam-Checker-Version: SpamAssassin 3.1.8 (2007-02-13) on
+	h855011.serverkompetenz.net
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.8 required=3.7 tests=AWL,BAYES_00,
+	RATWARE_GECKO_BUILD autolearn=no version=3.1.8
+Received: from unknown (HELO ?10.100.100.52?) (31.25.45.168)
+  by ennulat.de with (DHE-RSA-AES256-SHA encrypted) SMTP; 2 Sep 2013 10:09:10 +0200
+Message-ID: <522447A5.3090907@ennulat.de>
+Date: Mon, 02 Sep 2013 10:09:09 +0200
+From: Margit Haug <margit.haug@ennulat.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:17.0) Gecko/17.0 Thunderbird/17.0
+MIME-Version: 1.0
+To: alle@concertband.de, pause@concertband.de
+Subject: Wintersemester 2013/2014 Concertband
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo alle zusammen,
+
+wie von Sandra und Cori angekündigt übersende ich Euch hier die Bitte um 
+Rückmeldung zum Wintersemester.
+Die Links zur Abfrage und Übersicht der bisherigen Rückmeldung findet 
+Ihr auch im internen Bereich auf der Concertband Homepage.
+
+Abfrage:
+https://docs.google.com/spreadsheet/viewform?formkey=dDc2OTBrWUFfbGlDc3JKS21OUXMwOVE6MA
+
+Tabelle, zum schauen wer hat sich schon zurückgemeldet:
+https://docs.google.com/a/concertband.de/spreadsheet/ccc?key=0Ak2l1z57BclKdDc2OTBrWUFfbGlDc3JKS21OUXMwOVE#gid=1 
+
+
+Solltet Ihr Fragen zum Formular haben könnt Ihr Euch gerne an mich wenden.
+
+Bis bald
+Margit (Bass-Posaune)

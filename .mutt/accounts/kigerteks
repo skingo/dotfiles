@@ -1,0 +1,18 @@
+set from        = kigerteks@gmail.com
+set realname    = "Kiger Teks"
+set hostname    = gmail.com
+set imap_user   = "kigerteks@gmail.com"
+#set imap_login = "ingo.skupin"
+set imap_pass   = '$my_pass_kt'
+set folder      = "imaps://kigerteks@imap.gmail.com:993/"
+set spoolfile   = "+INBOX"
+set postponed   = "+[Gmail]/Entwürfe"
+set record      = "+[Gmail]/Gesendet"
+#set postponed   = "=Drafts"
+#set record     = ""                # gmail saves sent mail anyway
+
+set smtp_pass    = $my_pass_kt
+set smtp_url     = "smtp://kigerteks@smtp.gmail.com:587"  # using port 587 for TLS
+
+# differentiate mailboxes in statusline:
+color   status          black            white

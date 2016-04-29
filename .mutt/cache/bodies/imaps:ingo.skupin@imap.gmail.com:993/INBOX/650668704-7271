@@ -1,0 +1,137 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp50727pdb;
+        Thu, 27 Mar 2014 10:13:17 -0700 (PDT)
+X-Received: by 10.204.60.72 with SMTP id o8mr1483090bkh.72.1395940396379;
+        Thu, 27 Mar 2014 10:13:16 -0700 (PDT)
+Return-Path: <chrisbaur@hotmail.de>
+Received: from dub0-omc1-s11.dub0.hotmail.com (dub0-omc1-s11.dub0.hotmail.com. [157.55.0.210])
+        by mx.google.com with ESMTP id cn4si2032259bkc.234.2014.03.27.10.13.15
+        for <multiple recipients>;
+        Thu, 27 Mar 2014 10:13:16 -0700 (PDT)
+Received-SPF: pass (google.com: domain of chrisbaur@hotmail.de designates 157.55.0.210 as permitted sender) client-ip=157.55.0.210;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of chrisbaur@hotmail.de designates 157.55.0.210 as permitted sender) smtp.mail=chrisbaur@hotmail.de
+Received: from DUB129-W11 ([157.55.0.237]) by dub0-omc1-s11.dub0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Thu, 27 Mar 2014 10:13:06 -0700
+X-TMN: [IDrsa4EEJ5VfMee/Nozo+aRh8Fv9iG5J]
+X-Originating-Email: [chrisbaur@hotmail.de]
+Message-ID: <DUB129-W1191E6E3F5BC22209C33C7C8670@phx.gbl>
+Return-Path: chrisbaur@hotmail.de
+Content-Type: multipart/alternative;
+	boundary="_6eff7827-b341-4ff1-b653-b9035012307b_"
+From: Christian Baur <chrisbaur@hotmail.de>
+To: "Anja Rentz (" <anjarentz@arcor.de>, "rs@mut-anhaenger.de"
+	<rs@mut-anhaenger.de>, "f.a.brodbeck@kabelbw.de" <f.a.brodbeck@kabelbw.de>,
+	"luisa.schroth@web.de" <luisa.schroth@web.de>, "hennrich-paul@web.de"
+	<hennrich-paul@web.de>, =?iso-8859-1?B?U2FyYSBFYmVyc3DkY2hlciAo?=
+	<sara.eberspaecher@live.de>, "tanja.beichter@gmx.de" <tanja.beichter@gmx.de>,
+	"anja-s96@web.de" <anja-s96@web.de>, "david.eisele@arcor.de"
+	<david.eisele@arcor.de>, "ralf.krasselt@arcor.de" <ralf.krasselt@arcor.de>,
+	"annika.steib@hotmail.com" <annika.steib@hotmail.com>,
+	"christine.dieter.bayer@t-online.de" <christine.dieter.bayer@t-online.de>,
+	=?iso-8859-1?B?U29uamEgTfxsbGVyICg=?= <sonja.christiane@web.de>,
+	"uli.mueller@online.de" <uli.mueller@online.de>, "luisa.frietsch@t-online.de"
+	<luisa.frietsch@t-online.de>, "Felix Wetzel (" <felix@fam-wetzel.com>,
+	"benjamin@steiner.org" <benjamin@steiner.org>, "vera.ringhoffer@web.de"
+	<vera.ringhoffer@web.de>, "v.tomschi@web.de" <v.tomschi@web.de>, "Lotta
+ Zeiger (" <lotta@zeiger-web.de>, Paul Jacot <paul.jacot@gmx.net>, "Th.
+ Rotter (" <t.rotter@t-online.de>, "Tobias Geiger ("
+	<tobias.geiger1995@gmx.de>, "ingo.skupin@gmail.com" <ingo.skupin@gmail.com>,
+	"Vanessa Wuensch (" <vanessa.wuensch@web.de>, "Luisa Engel ("
+	<engel.luisa@web.de>, "kaltenecker.jan@googlemail.com"
+	<kaltenecker.jan@googlemail.com>, Lukas Baur <baurlu@web.de>,
+	"nmachanek@web.de" <nmachanek@web.de>, "smachanek@web.de" <smachanek@web.de>,
+	"uli__kurz@t-online.de" <uli__kurz@t-online.de>, Christian Baur
+	<chrisbaur@hotmail.de>, "Marian Basta (" <m-basta@web.de>,
+	"jakob.krenn@t-online.de" <jakob.krenn@t-online.de>,
+	"felix.koschei@freenet.de" <felix.koschei@freenet.de>, "oliiiiver@hotmail.de"
+	<oliiiiver@hotmail.de>, "jonaskolibius@web.de" <jonaskolibius@web.de>,
+	"janina_schott@web.de" <janina_schott@web.de>, "Anja Michel ("
+	<anja_michel91@web.de>, "Viktor Hahnemann (" <viktor_hahnemann@web.de>,
+	"Marius Gawehn (" <marius_gawehn@arcor.de>, Christian Schweizer
+	<christian.schweizer@t-online.de>, =?iso-8859-1?B?TWljaGFlbCBQZuRuZGVyICg=?=
+	<michi110793@aol.com>, Sinja Wernz <sinja_wernz@web.de>, "Ingo Skupin ("
+	<ingo.skupin@t-online.de>, Jonas Gawehn <jonas.gawehn@gmx.de>, "Florian
+ Schneider (" <schneider.florian1@gmx.de>, "r.kiebele@gmx.net"
+	<r.kiebele@gmx.net>, Julian Linsenmayer <j.linsenmayer@gmx.de>,
+	=?iso-8859-1?B?UGhpbGlwcCBHcvZiZXIgKA==?= <groeber_95@web.de>, "Pia Weber ("
+	<weberpia@arcor.de>, "Anna Hofmann (" <anna-maria.hofmann@online.de>, "Lena
+ Schneider (" <lena-schneider@t-online.de>, "Lena Schroth ("
+	<lena-schroth@web.de>, "Denis Trautwein (" <denis.trautwein@gmx.de>,
+	"nils.fischer98@gmx.de" <nils.fischer98@gmx.de>, "david@kuechle-salach.de"
+	<david@kuechle-salach.de>, "Thorsten Schmidt ("
+	<thorsten.schmidt_schmidt@web.de>, "Benjamin Schmitz ("
+	<schmitzbenni@googlemail.com>, "Tobias Beichter (" <tobias.beichter@gmx.de>,
+	"Christine Zeller (" <chrisi.zeller@web.de>, "Matthias Albrecht ("
+	<matze.albrecht@web.de>, "Carolin Brodbeck (" <carolin.brodbeck@freenet.de>,
+	"Piluep@gmx.de" <piluep@gmx.de>, "florian@r-k-r.de" <florian@r-k-r.de>,
+	"nina.fischer96@gmx.de" <nina.fischer96@gmx.de>, "miroll@arcor.de"
+	<miroll@arcor.de>, "se.pree@web.de" <se.pree@web.de>, "katja@landhaeusser.co"
+	<katja@landhaeusser.co>, "bastian.otto@fnks.de" <bastian.otto@fnks.de>,
+	"Alexander Zweifel (" <a.zweifel95@googlemail.com>,
+	"tobias.fath@googlemail.com" <tobias.fath@googlemail.com>,
+	"ilona.borchardt@gmx.de" <ilona.borchardt@gmx.de>, "luisa.heilemann@gmx.de"
+	<luisa.heilemann@gmx.de>, "bene.strambach@t-online.de"
+	<bene.strambach@t-online.de>, "richardg.xyz@gmail.com"
+	<richardg.xyz@gmail.com>, =?iso-8859-1?B?U2FzY2hhIFNjaHL2dGVyICg=?=
+	<schroeter1992@icloud.com>, "Hannah Linsenmayer ("
+	<hannah-linsenmayer@t-online.de>, "Melanie Schmidt ("
+	<melanie.schmidt_schmidt@web.de>, "franka-vetter@t-online.de"
+	<franka-vetter@t-online.de>, "p.orleth@gmx.de" <p.orleth@gmx.de>,
+	"cora.baumann@t-online.de" <cora.baumann@t-online.de>
+CC: Stefan Koch <stevekoch@gmx.de>
+Subject: Probewochenende
+Date: Thu, 27 Mar 2014 18:13:06 +0100
+Importance: Normal
+MIME-Version: 1.0
+X-OriginalArrivalTime: 27 Mar 2014 17:13:06.0324 (UTC) FILETIME=[D1C9ED40:01CF49DF]
+
+--_6eff7827-b341-4ff1-b653-b9035012307b_
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+=0A=
+=0A=
+=0A=
+Hallo zusammen=2C
+nur noch kurz eine Bitte.
+Da es im Pavillon sehr hallt=2C und wir ein reeles Feedback =FCber unseren =
+Klang erfahren wollen=2Cbitten wir euch Couchdecken mitzubringen. Die werde=
+n dann ausgelegt und d=E4mmen den Raum.
+Freu mich auf Probeintensive Tage.
+Bis morgen
+Christian Baur=0A=
+ 		 	   		  =
+
+--_6eff7827-b341-4ff1-b653-b9035012307b_
+Content-Type: text/html; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+</head>
+<body class=3D'hmmessage'><div dir=3D'ltr'>=0A=
+=0A=
+<style><!--=0A=
+.hmmessage P=0A=
+{=0A=
+margin:0px=3B=0A=
+padding:0px=0A=
+}=0A=
+body.hmmessage=0A=
+{=0A=
+font-size: 12pt=3B=0A=
+font-family:Calibri=0A=
+}=0A=
+--></style>=0A=
+<div dir=3D"ltr">Hallo zusammen=2C<div><br></div><div>nur noch kurz eine Bi=
+tte.</div><div><br></div><div>Da es im Pavillon sehr hallt=2C und wir ein r=
+eeles Feedback =FCber unseren Klang erfahren wollen=2C</div><div>bitten wir=
+ euch&nbsp=3B<span style=3D"font-size: 12pt=3B">Couchdecken mitzubringen. D=
+ie werden dann ausgelegt und d=E4mmen den Raum.</span></div><div><br></div>=
+<div>Freu mich auf Probeintensive Tage.</div><div><br></div><div>Bis morgen=
+</div><div><br></div><div>Christian Baur</div></div>=0A=
+ 		 	   		  </div></body>
+</html>=
+
+--_6eff7827-b341-4ff1-b653-b9035012307b_--

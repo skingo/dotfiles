@@ -1,0 +1,106 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.199.140 with SMTP id es12csp131941vcb;
+        Mon, 18 Jun 2012 11:46:49 -0700 (PDT)
+Received: by 10.180.103.42 with SMTP id ft10mr26184652wib.18.1340045208528;
+        Mon, 18 Jun 2012 11:46:48 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTP id j5si22283003wee.84.2012.06.18.11.46.48;
+        Mon, 18 Jun 2012 11:46:48 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-vc0-f170.google.com ([209.85.220.170]) by mx-ha.web.de
+ (mxweb008) with ESMTP (Nemesis) id 0MUZ3j-1SWxgy16Lz-00QzTC for
+ <ingo.skupin@gmail.com>; Mon, 18 Jun 2012 20:46:48 +0200
+Received: by vcbfk1 with SMTP id fk1so6388928vcb.1
+        for <multiple recipients>; Mon, 18 Jun 2012 11:46:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type:content-transfer-encoding;
+        bh=O46ndnuh9nhIS3ttvyR229lCVxs3WS3KdJxVeEIkQOI=;
+        b=YAxNhehKVDC+5QRVHiNFFAOrdP7ljpEvEZ2MJKB1zWZikFk53M1te04GF3X3nDX0EG
+         JpgUeciWrW4toLVzQbf037WmBDO7VE9wJ1ovenPmXPTAFAcUuHhWALWWFyJChzs8h6nh
+         xSOYUK7r17eVzONeENO5y/8vaPicW1Wh2bXcphZ9z3Ds/VgZQJGxdVOg1ixiyjxFtsnU
+         /Bo55aLqgecUoCPoqZCx+UPAqriZyJmeANfbBgHvKL21KYMuoIxE9knBvK0iz+0pNwdq
+         UTjx1kFrZIP1uy6Ufd+iAyI9cRMw8XwiIDWgwBoJjxknytiMtSBYuG0EQifbsjJd5E63
+         PomQ==
+MIME-Version: 1.0
+Received: by 10.221.13.79 with SMTP id pl15mr8262699vcb.59.1340045206037; Mon,
+ 18 Jun 2012 11:46:46 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.220.161.205 with HTTP; Mon, 18 Jun 2012 11:46:46 -0700 (PDT)
+Date: Mon, 18 Jun 2012 20:46:46 +0200
+X-Google-Sender-Auth: -0YAlcsII3d6sMk-R-ylTzJE41I
+Message-ID: <CAN1A5uA7z3h+0Ds-L=2HSVyK5Df06u0CCY2Dfk05KJXJEvJFWw@mail.gmail.com>
+Subject: Anstehende Ansage
+From: Florian Sebert <florian@floriansebert.de>
+To: Martina Pfister <martina@pfister-heidelberg.de>, 
+	Sabine Pfister <pfistersabine@googlemail.com>, Valerie Bartel <valerie.bartel@gmx.de>, 
+	Anna-Nora zur Nieden <norazurnieden@googlemail.com>, 
+	Rainer Pfister <rainerpfister@blackforestentertainment.org>, 
+	Stefan Pfister <s.pfister@dkfz-heidelberg.de>, Daniel Metzger <jandan@gmx.de>, 
+	"Harry D. Bath" <harryd.bath@t-online.de>, Ingo Skupin <ingo.skupin@web.de>, 
+	Lukas Fischer <lukasfischer1@aol.com>, christine-erchinger@web.de, 
+	"Dr. Stefan Wiehr" <stefan@wiehr.de>, Tizian Decker <tizian_decker@web.de>, 
+	Yannick Frey <yannick.frey1994@web.de>, Steffen Sautter <steffen.sautter@web.de>, 
+	Bedrin Noah <kingsaxello@googlemail.com>, 
+	"kinderaerztin_susanne@t-online.de Pfister" <kinderaerztin_susanne@t-online.de>, Gerhard Nagel <grnagel@web.de>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+zur Information desjenigen / derjenigen, welche(r) sich dazu bereit
+erkl=E4rte, die (vermeintliche) Jazz Suite No. 2 von Schostakowitsch
+anzusagen:
+
+1. http://de.wikipedia.org/wiki/Suite_f%C3%BCr_Jazzorchester_Nr._2
+2. http://de.wikipedia.org/wiki/Suite_f%C3%BCr_Variet%C3%A9-Orchester
+
+Viele Gr=FC=DFe
+Florian
+
+2012/6/12 Martina Pfister <martina@pfister-heidelberg.de>:
+> Hallo alle zusammen,
+>
+> anbei lasse ich Euch noch mal unseren =FCberarbeiteten Terminplan zukomme=
+n,
+> bitte seid so lieb und schaut
+> noch mal die Abwesenheiten durch, ob sich hier noch was ge=E4ndert hat od=
+er ob
+> ein paar Fragezeichen und rote Markierungen noch
+> eliminiert werden k=F6nnten.
+> Am Wochenende ist sonst alles beim Alten.
+> 9.00 Uhr treffen, 9.30 Uhr Probenbeginn, 13.15-14:30 Uhr Essenspause
+> am zweiten Tag Vesper. Programm hat Sabine ja schon rumgeschickt.
+>
+> @Noah: Bist Du am Bebenhausenkonzert da?
+> @Harry: Hattest Du mal einen Deiner Schlagzeuger angesprochen, wegen des
+> Bebehausenkonzertes? Daniel kann da ja nicht, am 21.10. auch nicht, so da=
+ss
+> Du da gleich auch noch nachfragen k=F6nntest :-). DANKE
+> @Bine: Bringst Du Eure Kaffeemaschine mit? Muss ich daf=FCr irgendwelche
+> anderen Filter u.=E4. besorgen?
+> @Yannik: Hast Du irgendwo als Einziger Noten, so dass Du z.B. Tizian noch
+> eine Kopie Deiner Noten vor dem Wochenende schicken m=FCsstest?
+>
+> Liebe Gr=FC=DFe
+> Tine
+>
+>
+>
+> Musikschule
+> T=FCbinger Saxophon-Ensemble
+> _________________________________
+>
+> Martina Pfister
+> Amselgasse 4/3
+> 69121 Heidelberg
+>
+> Tel =A0(06 22 1) 58 69 69
+> Fax (06 22 1) 58 69 70
+> info@saxophon-ensemble.de
+> www.saxophon-ensemble.de
+>
+>

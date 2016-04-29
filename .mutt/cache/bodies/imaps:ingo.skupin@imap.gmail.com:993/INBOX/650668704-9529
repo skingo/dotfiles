@@ -1,0 +1,58 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp1942471ivc;
+        Tue, 12 Apr 2016 11:29:55 -0700 (PDT)
+X-Received: by 10.28.146.209 with SMTP id u200mr5606264wmd.59.1460485795312;
+        Tue, 12 Apr 2016 11:29:55 -0700 (PDT)
+Return-Path: <ingo.skupin@uni-tuebingen.de>
+Received: from mx04.uni-tuebingen.de (mx04.uni-tuebingen.de. [134.2.5.214])
+        by mx.google.com with ESMTPS id k185si25142952wmf.6.2016.04.12.11.29.54
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 12 Apr 2016 11:29:55 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@uni-tuebingen.de designates 134.2.5.214 as permitted sender) client-ip=134.2.5.214;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@uni-tuebingen.de designates 134.2.5.214 as permitted sender) smtp.mailfrom=ingo.skupin@uni-tuebingen.de
+Received: from mailserv.uni-tuebingen.de (hsi-kbw-109-192-195-062.hsi6.kabel-badenwuerttemberg.de [109.192.195.62])
+	by mx04.uni-tuebingen.de (Postfix) with ESMTPSA id DF057107F
+	for <ingo.skupin@gmail.com>; Tue, 12 Apr 2016 20:29:52 +0200 (CEST)
+Date: Tue, 12 Apr 2016 20:29:53 +0200
+From: Ingo Skupin <ingo.skupin@uni-tuebingen.de>
+To: ingo.skupin@gmail.com
+Subject: foo
+Message-ID: <20160412182952.GA12448@mailserv.uni-tuebingen.de>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="Q68bSM7Ycu6FN28Q"
+Content-Disposition: inline
+User-Agent: Mutt/1.5.23 (2014-03-12)
+
+
+--Q68bSM7Ycu6FN28Q
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+ii
+
+--Q68bSM7Ycu6FN28Q
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJXDT6gAAoJEHp+K1Pk1KkzFHQP/i1x2Y8AUdZsXbEO+1Sd5ZWZ
+c91AD3um8njq6365gRvZqY2sTLR/8HH7RviEI+8ZX2KoixHgEAFkFIhw9XnGCanC
+c07j1m2vRudxY64zW/OgS39CkW0iUZ/a6LV8VzW0/sRhPVUgzMMVnXuWqEyDjwQ7
+Azf6p4j9NBvL54HclyqU3Tdw6PunKX3fEyz6GSpAxOfbgPLpasaazcPPnf4J0cuX
+tp1w3K9pCsgbt2rOOToSrmU0qwovoRpWcm7ej/iaHUHZyPSL6ZIcJMDTHM6NbHww
+ouAuVmj8KbDvdhr3sw16t3xt2SVKCZFnLjEnAoFcf+nvSxzu1nlTYY3aABo+EyjG
+lqn082Km5bFjJAyRgwyMsk37vLavfgENZnvkhDrUh6ZAJOQ/alAHFjsjWf2R3ZAF
+jR+h2bthd6rD89Xa5mOdN175QCFQ36y1CDisAkWpIGLcUeU6LbHw2n6BSnQKFmn0
+i72tYXJpcAk46giVe2s1+ilwfjtqk+ROnCWamP+AnQ/pbo0IgXi8ubKdpXX7y17m
+f31SVlq42CuJVHDmozr2Lg8C5obiYhkN/6rwuvZX/7iq1DTvXCTiLPFGo0ij7WjY
+iErRIrdhx5RLfyjge9oM8qW+j22liPEzc7MiLUk+qUsPV551Vf9izNITB0YUi7NJ
+ZyYtTih9PHly63slmTWh
+=4XsZ
+-----END PGP SIGNATURE-----
+
+--Q68bSM7Ycu6FN28Q--

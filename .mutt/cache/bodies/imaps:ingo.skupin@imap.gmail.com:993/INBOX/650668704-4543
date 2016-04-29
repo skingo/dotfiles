@@ -1,0 +1,77 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.161.73 with SMTP id q9csp47367vcx;
+        Fri, 14 Dec 2012 10:23:51 -0800 (PST)
+X-Received: by 10.180.86.39 with SMTP id m7mr4221598wiz.1.1355509430623;
+        Fri, 14 Dec 2012 10:23:50 -0800 (PST)
+Return-Path: <sandra.rodemeister@uni-hohenheim.de>
+Received: from lvps83-169-1-93.dedicated.hosteurope.de (lvps83-169-1-93.dedicated.hosteurope.de. [83.169.1.93])
+        by mx.google.com with ESMTPS id j4si8539499wiy.35.2012.12.14.10.23.50
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 14 Dec 2012 10:23:50 -0800 (PST)
+Received-SPF: neutral (google.com: 83.169.1.93 is neither permitted nor denied by best guess record for domain of sandra.rodemeister@uni-hohenheim.de) client-ip=83.169.1.93;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 83.169.1.93 is neither permitted nor denied by best guess record for domain of sandra.rodemeister@uni-hohenheim.de) smtp.mail=sandra.rodemeister@uni-hohenheim.de
+Received: (qmail 22389 invoked by uid 110); 14 Dec 2012 19:23:46 +0100
+Delivered-To: 6-saxophon@concertband.de
+X-Spam-Checker-Version: SpamAssassin 3.2.4 (2008-01-01) on
+	lvps83-169-1-93.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=-4.0 required=7.0 tests=AWL,RCVD_IN_DNSWL_MED
+	autolearn=ham version=3.2.4
+Received: (qmail 22127 invoked by uid 110); 14 Dec 2012 19:23:39 +0100
+Delivered-To: 6-alle@concertband.de
+Received: (qmail 22091 invoked from network); 14 Dec 2012 19:23:39 +0100
+Received: from smtp2.rz.uni-hohenheim.de (144.41.4.42)
+  by n178-77-93-160.cnet.hosteurope.de with SMTP; 14 Dec 2012 19:23:38 +0100
+DKIM-Signature: v=1; a=rsa-sha256; d=uni-hohenheim.de; h=user-agent
+	:content-transfer-encoding:content-disposition:content-type
+	:content-type:mime-version:subject:subject:from:from:date:date
+	:message-id:received:received:received; s=default; t=1355509404;
+	 x=1357323804; bh=SVbKQ7pAhiwm7aD4ZV8vW25MeRn1QMbCufMitSWvghg=; b=
+	PQByCEpgEHEEqcG9sQnT2mN9y7ZpzcJfFJDd+nOCpJJaMQspK0Lj4BsVgCY5Ov+a
+	cgjerFB/CO5I9DEyWo5pUiSnkzgCQDYthwcO9XSG3m/LXOuzK9bwhpirnvCxsfFx
+	Yq/PEXGu7lxaT9lt3AZbAh0WwHFIecXr/XecB5lCwa0=
+X-Virus-Scanned: amavisd-new at uni-hohenheim.de
+Received: from mailbox2.rz.uni-hohenheim.de (mailbox2.rz.uni-hohenheim.de [144.41.4.49])
+	by smtp2.rz.uni-hohenheim.de (Postfix) with ESMTP
+	for <alle@concertband.de>; Fri, 14 Dec 2012 19:23:24 +0100 (CET)
+Received: from e180031058.adsl.alicedsl.de (e180031058.adsl.alicedsl.de
+ [85.180.31.58]) by webmail.uni-hohenheim.de (Horde Framework) with HTTP;
+ Fri, 14 Dec 2012 19:23:26 +0100
+Message-ID: <20121214192326.876540qiat6257dq@webmail.uni-hohenheim.de>
+Date: Fri, 14 Dec 2012 19:23:26 +0100
+From: Sandra Rodemeister <Sandra.Rodemeister@uni-hohenheim.de>
+To: alle@concertband.de
+Subject: =?iso-8859-1?b?buRjaHN0ZQ==?= Probe + Weihnachtsfeier
+MIME-Version: 1.0
+Content-Type: text/plain;
+ charset=ISO-8859-1;
+ DelSp="Yes";
+ format="flowed"
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+User-Agent: Internet Messaging Program (IMP) H3 (4.3.7)
+
+Hallo zusammen,
+
+wie schon angekündigt, wird die Probe am nächsten Dienstag noch einmal  
+in zwei getrennten Gruppen (Blech+Schlagzeug sowie Holz) stattfinden.
+Leider habe ich bislang noch keine Raumzusage für das Holz von Frau  
+Schilling bekommen können, ich gehe aber mal davon aus, dass wir  
+wieder in HS 17 oder HS 12 (beide sind im selben Gebäude) proben  
+können. Sollte sich diesbezüglich doch noch was ändern, gebe ich  
+nochmal Bescheid - schaut also bitte am Dienstag auch noch mal in eure  
+Mails.
+
+Des Weiteren wollen wir am Dienstag nach der Probe (die pünktlich um  
+21 Uhr enden soll - also seid bitte auch rechtzeitig da, damit wir  
+pünktlich anfangen können) wie auch schon in den letzten Jahren ein  
+bisschen gemütlich im Katharinasaal zusammensitzen und das Jahr  
+ausklingen lassen.
+Dafür wäre es super, wenn jede/r was beisteuert - ob nun in fester  
+oder flüssiger Form, bleibt ganz euch überlassen. Außerdem sollte  
+jede/r einen Becher und einen Teller, Serviette o.ä. mitbringen, damit  
+wir die ganzen Leckereien dann auch angemessen verspeisen können.
+
+Viele Grüße,
+Sandra
+

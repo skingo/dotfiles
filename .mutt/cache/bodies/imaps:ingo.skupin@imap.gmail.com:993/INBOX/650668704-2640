@@ -1,0 +1,119 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.70.4 with SMTP id b4csp239793vcj;
+        Mon, 7 May 2012 08:03:40 -0700 (PDT)
+Return-Path: <birk.andreas91@googlemail.com>
+Received-SPF: pass (google.com: domain of birk.andreas91@googlemail.com designates 10.236.78.70 as permitted sender) client-ip=10.236.78.70;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of birk.andreas91@googlemail.com designates 10.236.78.70 as permitted sender) smtp.mail=birk.andreas91@googlemail.com; dkim=pass header.i=birk.andreas91@googlemail.com
+Received: from mr.google.com ([10.236.78.70])
+        by 10.236.78.70 with SMTP id f46mr19218470yhe.99.1336403020642 (num_hops = 1);
+        Mon, 07 May 2012 08:03:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:content-type;
+        bh=3nN4R0Zrcv47zVbuDFgoeFjmPszDbAsnrqbuMUxWHYI=;
+        b=oN91LUgi03dwesP6IhW5IKZi2xBlmh0s5v4HQ5foXpvEycrgQ1Q20IbE21iCRYix3L
+         9yEzyE6YcI5UVvJUZFd9+84mDj+ME+n73jbvLmTBXGtBgrIdhwJdX3KMONwULY6KMu7O
+         5/EWax7GoDjmYfckVVIofpdg/zjbZrV5NqSq6LLwYfRCkBT4mDAN1DlcXS6h0cdq2QpP
+         szjWekYiKTRaM8uNPA5Y3iYtfVs5X7h89emRiNFd/VXpmjIxYUV39LGgLjNdsI1YLQRr
+         6QTeyoxluwM5O5K1BxRFSnfp8EfxURKUCEQT4tA8zKPjdGJoVr8Q1N0mqEksYbpFrMcA
+         3lPw==
+MIME-Version: 1.0
+Received: by 10.236.78.70 with SMTP id f46mr19218470yhe.99.1336403020629; Mon,
+ 07 May 2012 08:03:40 -0700 (PDT)
+Received: by 10.236.189.5 with HTTP; Mon, 7 May 2012 08:03:40 -0700 (PDT)
+Date: Mon, 7 May 2012 17:03:40 +0200
+Message-ID: <CALEFykuWtpp7wrdSr58BFwSZ0=VpG9WZ+JHw_CMf9Zd14shqPw@mail.gmail.com>
+Subject: KEIN SPAM ;)
+From: Andreas Birk <birk.andreas91@googlemail.com>
+To: ingo.skupin@googlemail.com
+Content-Type: multipart/mixed; boundary=20cf300faaad5244d304bf73930f
+
+--20cf300faaad5244d304bf73930f
+Content-Type: multipart/alternative; boundary=20cf300faaad5244cf04bf73930d
+
+--20cf300faaad5244cf04bf73930d
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+hey ingo,
+das w=E4re mal, was ich vom infoblatt habe.
+es fehlt nur die hamming_code
+komm ich grad aber nicht drauf...
+hast du die schon?
+daf=FCr hab ich in meiner main ein haufen "tests" geschrieben, weil ich mir
+dachte, dass du darauf nicht sooo bock hast (kannste ja rauskopieren und
+bei dir einfach als ganze in die main einf=FCgen).
+werd den restlichen tag im skype/facebook erreichbar sein, also melde dich
+sobald dus dir mal angeschaut hast
+
+mfg andi
+
+--20cf300faaad5244cf04bf73930d
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+hey ingo,<br>das w=E4re mal, was ich vom infoblatt habe.<br>es fehlt nur di=
+e hamming_code<br>komm ich grad aber nicht drauf...<br>hast du die schon?<b=
+r>daf=FCr hab ich in meiner main ein haufen &quot;tests&quot; geschrieben, =
+weil ich mir dachte, dass du darauf nicht sooo bock hast (kannste ja rausko=
+pieren und bei dir einfach als ganze in die main einf=FCgen).<br>
+werd den restlichen tag im skype/facebook erreichbar sein, also melde dich =
+sobald dus dir mal angeschaut hast<br><br>mfg andi<br>
+
+--20cf300faaad5244cf04bf73930d--
+--20cf300faaad5244d304bf73930f
+Content-Type: application/octet-stream; name="hamming.c0"
+Content-Disposition: attachment; filename="hamming.c0"
+Content-Transfer-Encoding: base64
+X-Attachment-Id: f_h1xnqdkc0
+
+Ly8gQW5kcmVhcyBCaXJrLCBJbmdvIFNrdXBpbgovLyBUdXRvciBIZWxtdXQgRG9icmV0emJlcmdl
+cgoKI3VzZSA8Y29uaW8+CiN1c2UgInByaW50Yml0cy5jMCIKCi8vIHNldHp0IGVpbiBiaXQgYW4g
+ZWluZXIgc3RlbGxlIGF1ZiAwIG9kZXIgMQppbnQgc2V0X2JpdF9wb3MoaW50IG4sIGJvb2wgYml0
+LCBpbnQgcG9zKQp7CglpZihiaXQpCgl7CgkJaW50IHggPSAoMSA8PCAocG9zIC0gMSkpIHwgbjsK
+CQlyZXR1cm4geDsKCX0gCgllbHNlCgl7CgkJaW50IHggPSB+KDEgPDwgKHBvcyAtIDEpKSAmIG47
+CgkJcmV0dXJuIHg7CQkKCX0KfQoKLy8gYmVyZWNobmVpdCBkaWUgcGFyaXTDpHQgdm9uIG4KYm9v
+bCBwYXJpdHkoaW50IG4pCnsKCWludCBiaXRuID0gMDsKCWJvb2wgYml0ID0gdHJ1ZTsKCXdoaWxl
+KGJpdG4gPD0gMzEpCQoJewoJCWlmIChpc19iaXRfc2V0KG4sIGJpdG4pKQoJCXsKCQkJYml0ID0g
+IWJpdDsKCQl9CgkJYml0biA9IGJpdG4gKyAxOwoJfQoJcmV0dXJuIGJpdDsgIAp9CgovLyBiaXRt
+dXN0ZXIgZXJ6ZXVnZW4sIG1pdCBsZW5ndGggdmllbGVuIGJpdHMgbWl0IGRlbSB3ZXJ0IGJpdCwg
+cmVzdGxpY2hlIGJpdHMgd2VyZG5lIGF1ZiBhbHRlcm5hdGl2ZXMgYml0IGdlc2V0enQKaW50IGNv
+bnNlY3V0aXZlX2JpdHMoYm9vbCBiaXQsIGludCBsZW5ndGgpCnsKCWludCBuID0gKDEgPDwgMzEp
+ID4+ICgzMSAtIGxlbmd0aCk7CglpZiAoYml0KQoJewoJCW4gPSB+bjsKCX0KCXJldHVybiBuOwp9
+CgovLyBlaW5lIDAgYW4gZGVyIHJpY2h0aWdlbiBzdGVsbGUgZWluZsO8Z2VuCmludCBpbnNlcnRf
+cGFyaXR5X2JpdChpbnQgbiwgaW50IHBvcykKewkJCQogCWludCB4ID0gKChuID4+IChwb3MtMSkp
+IDw8IChwb3MtMSkpOwogCWludCB5ID0gbiBeIHg7CgluID0gKChuID4+IChwb3MgLTEpKSA8PCBw
+b3MpIHwgeTsKCXJldHVybiBuOwp9CgovLyBmdW5rdGlvbiBkaWUgYml0bXVzdGVyIGVyc3RlbGx0
+CmludCBjcmVhdGVfaGFtbWluZ19wYXR0ZXJuKGludCBwYXR0ZXJuKQp7CglpbnQgaSA9IDA7Cglp
+bnQgaiA9IDA7Cgl3aGlsZSAoaSA8IDMxKQoJewoJCWogPSBqIDw8IDE7CgkJaWYoIChpL3BhdHRl
+cm4pJTIgPT0gMCkKCQl7CgkJCWogPSBqICsgMTsKCQl9CgkJaSA9IGkgKyAxOwoJfQoJcmV0dXJu
+IGo7Cn0KCgppbnQgbWFpbigpCnsKCXByaW50bG4oInNldF9iaXRfcG9zIHRlc3RlbiIpOwoJcHJp
+bnRiaXRzKDQyKTsKCXByaW50bG4oIlx0IGRpZSB6YWhsIDQyIGJpbsOkciBjb2RpZXJ0Iik7Cglw
+cmludGJpdHMoc2V0X2JpdF9wb3MoNDIsIHRydWUsIDMpKTsKCXByaW50bG4oIlx0IHBvc2l0aW9u
+IDMgd2lyZCBhdWYgdHJ1ZSBnZXNldHp0Iik7CglwcmludGJpdHMoc2V0X2JpdF9wb3MoNDIsIGZh
+bHNlLCAzKSk7CglwcmludGxuKCJcdCBwb3NpdGlvbiAzIHdpcmQgYXVmIGZhbHNlIGdlc2V0enQi
+KTsKCXByaW50Yml0cyhzZXRfYml0X3Bvcyg0MiwgdHJ1ZSwgNCkpOwoJcHJpbnRsbigiXHQgcG9z
+aXRpb24gNCB3aXJkIGF1ZiB0cnVlIGdlc2V0enQiKTsKCXByaW50Yml0cyhzZXRfYml0X3Bvcyg0
+MiwgZmFsc2UsIDQpKTsKCXByaW50bG4oIlx0IHBvc2l0aW9uIDQgd2lyZCBhdWYgZmFsc2UgZ2Vz
+ZXR6dCIpOwoJcHJpbnQoIlxuIik7CgkKCXByaW50bG4oInBhcml0eSB0ZXN0ZW4iKTsKCXByaW50
+KCJwYXJpdHkgdm9uIDQyIHRlc3RlbjogXHQiKTsKCXByaW50Ym9vbChwYXJpdHkoNDIpKTsKCXBy
+aW50KCJcbiIpOwoJcHJpbnQoInBhcml0eSB2b24gNDMgdGVzdGVuOiBcdCIpOwoJcHJpbnRib29s
+KHBhcml0eSg0MykpOwoJcHJpbnQoIlxuIik7CglwcmludCgiXG4iKTsKCQoJcHJpbnRsbigiY29u
+c2VjdXRpdmVfYml0cyB0ZXN0ZW4iKTsKCXByaW50Yml0cyhjb25zZWN1dGl2ZV9iaXRzKHRydWUs
+IDUpKTsKCXByaW50bG4oIlx0IGRpZSA1IGVyc3RlbiBiaXRzIHdlcmRlbiBhdWYgMSBnc2V0enQs
+IHJlc3QgYXVmIDAiKTsKCXByaW50Yml0cyhjb25zZWN1dGl2ZV9iaXRzKGZhbHNlLCA1KSk7Cglw
+cmludGxuKCJcdCBkaWUgNSBlcnN0ZW4gYml0cyB3ZXJkZW4gYXVmIDAgZ3NldHp0LCByZXN0IGF1
+ZiAxIik7CglwcmludCgiXG4iKTsKCQoJcHJpbnRsbigiaW5zZXJ0X3Bhcml0eV9iaXQgdGVzdGVu
+Iik7CglwcmludGJpdHMoMTQzMTcpOwoJcHJpbnRsbigiXHQgZGllIHphaGwgMTQzMTcgYmluw6Ry
+IGNvZGllcnQiKTsKCXByaW50Yml0cyhpbnNlcnRfcGFyaXR5X2JpdCgxNDMxNywgNCkpOwoJcHJp
+bnRsbigiXHQgMCBhbiBzdGVsbGUgNCBlaW5zY2hpZWJlbiIpOwoJcHJpbnRiaXRzKGluc2VydF9w
+YXJpdHlfYml0KDE0MzE3LCA4KSk7CglwcmludGxuKCJcdCAwIGFuIHN0ZWxsZSA4IGVpbmZzY2hp
+ZWJlbiIpOwoJcHJpbnQoIlxuIik7CgkKCXByaW50bG4oImNyZWF0ZV9oYW1taWdfcGF0dGVybiB0
+ZXN0ZW4iKTsKCXByaW50Yml0cyhjcmVhdGVfaGFtbWluZ19wYXR0ZXJuKDEpKTsKCXByaW50bG4o
+Ilx0IGNyZWF0ZV9oYW1taW5nX3BhdHRlcm4oMSkiKTsKCXByaW50Yml0cyhjcmVhdGVfaGFtbWlu
+Z19wYXR0ZXJuKDIpKTsKCXByaW50bG4oIlx0IGNyZWF0ZV9oYW1taW5nX3BhdHRlcm4oMikiKTsK
+CXByaW50Yml0cyhjcmVhdGVfaGFtbWluZ19wYXR0ZXJuKDQpKTsKCXByaW50bG4oIlx0IGNyZWF0
+ZV9oYW1taW5nX3BhdHRlcm4oNCkiKTsKCXByaW50Yml0cyhjcmVhdGVfaGFtbWluZ19wYXR0ZXJu
+KDgpKTsKCXByaW50bG4oIlx0IGNyZWF0ZV9oYW1taW5nX3BhdHRlcm4oOCkiKTsKCXByaW50KCJc
+biIpOwoJcHJpbnQoIlxuIik7CgkKCXJldHVybiAwOwp9Cg==
+--20cf300faaad5244d304bf73930f--

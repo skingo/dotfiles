@@ -1,0 +1,109 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp187764pdb;
+        Tue, 15 Apr 2014 00:31:18 -0700 (PDT)
+X-Received: by 10.14.211.66 with SMTP id v42mr273611eeo.31.1397547077011;
+        Tue, 15 Apr 2014 00:31:17 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id y41si24179191eel.320.2014.04.15.00.31.16
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256/256);
+        Tue, 15 Apr 2014 00:31:17 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@googlemail.com
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb103)
+ with ESMTPS (Nemesis) id 0M5vOP-1WtrJ70ERN-00xoJG for
+ <ingo.skupin@gmail.com>; Tue, 15 Apr 2014 09:31:16 +0200
+Received: from mail-wi0-f180.google.com ([209.85.212.180]) by mx-ha.web.de
+ (mxweb103) with ESMTPS (Nemesis) id 0LaWFX-1XFKbj0EIR-00mNrw for
+ <ingo.skupin@web.de>; Tue, 15 Apr 2014 09:31:16 +0200
+Received: by mail-wi0-f180.google.com with SMTP id q5so5184900wiv.7
+        for <ingo.skupin@web.de>; Tue, 15 Apr 2014 00:31:15 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:reply-to:date:message-id:subject:from:to:content-type;
+        bh=QTJxQR6kflYz1voP0rW7YNLFimi8vfzwhxaFZGr2opY=;
+        b=NwTk0V4cj+F+0LgOHSjHpFsgfsNh9yNf2ra2Cky8MHPrTFUV0ZQQ4o0fEZ6tk4CAJX
+         IVWyk1nQdrNNP3dZrTPdBjOeumqiNJmjDU7NSWXAw8hAM2gUN0uyJb8LTB1IrdsNrys6
+         cZ/wFLqRFw5cnKiXiYp/11MD4E2EtFoXTfeKwtu3hhoUkt74638qZ8HV3p28UWTQF7Xe
+         hKvTFKTwMbKL/tLhcvVres2qxCMSd/tWdp7bmewR5XJpc9sttyffH/+nmVVjlsGY3QJm
+         CxwVAoOA/csZ2paKH6Z498/z2vVILyFF+6Nxv5pDQhwEc6ni9rlQPh1eAiGvAqM+DNjC
+         FPgQ==
+MIME-Version: 1.0
+X-Received: by 10.180.10.164 with SMTP id j4mr12976164wib.51.1397547075648;
+ Tue, 15 Apr 2014 00:31:15 -0700 (PDT)
+Received: by 10.227.101.200 with HTTP; Tue, 15 Apr 2014 00:31:15 -0700 (PDT)
+Reply-To: pfistersabine@yahoo.de
+Date: Tue, 15 Apr 2014 08:31:15 +0100
+Message-ID: <CAH5jGq2rCsc_=9FpuV2ctRJAHywNAbAeEAhcZHPpuZ6kti_jTw@mail.gmail.com>
+Subject: Hallo!
+From: Sabine Pfister <pfistersabine@googlemail.com>
+To: undisclosed-recipients:;
+Content-Type: multipart/alternative; boundary=001a11c2b7a2004cc604f70fc993
+Bcc: ingo.skupin@web.de
+
+--001a11c2b7a2004cc604f70fc993
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+lch hoffe du hast dies schnell erhalten, ich bin nach Birmingham, England
+verreist und habe meine Tasche verloren samt Reispass und kreditkarte. Die
+botschaft ist bereit, mich ohne meinen Pass fliegen zu lassen. Ich muss nur
+noch f=C3=BCr mein ticket und die hotelrechnungen zahlen. Leider habe ich k=
+ein
+Geld dabei, meine kredit karte k=C3=B6nnte helfen aber die ist auch in der
+Tasche. Ich habe schon kontakt mit meiner Bank aufgenommen, aber sie
+brauchen mehr zeit, um mir eine neue zu schicken. Ich muss unbedingt den
+n=C3=A4chsten Flug bekommen. Ich wollte dich fragen ob du mir 1,350 pfund s=
+o
+schnell wie m=C3=B6glich leihen kannst, Ich gebe es dir zur=C3=BCck sobald =
+ich da
+bin. Das Geld durch Western union ist die beste m=C3=B6glichkeit. Ich kann =
+die
+die Details schicken wie du mir das Geld zukommen lassen kannst.
+
+Ich erwarte Ihre Antwort.
+
+Gru=C3=9F
+
+Rainer Pfister
+Herwigweg 18
+72074 T=C3=BCbingen
+
+E-Mail: pfistersabine@yahoo.de
+           pfistersabine@gmail.com
+
+--001a11c2b7a2004cc604f70fc993
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">lch hoffe du hast dies schnell erhalten, ich bin nach Birm=
+ingham,=20
+England verreist und habe meine Tasche verloren samt Reispass und=20
+kreditkarte. Die botschaft ist bereit, mich ohne meinen Pass fliegen zu=20
+lassen. Ich muss nur noch f=C3=BCr mein ticket und die hotelrechnungen=20
+zahlen. Leider habe ich kein Geld dabei, meine kredit karte k=C3=B6nnte=20
+helfen aber die ist auch in der Tasche. Ich habe schon kontakt mit=20
+meiner Bank aufgenommen, aber sie brauchen mehr zeit, um mir eine neue=20
+zu schicken. Ich muss unbedingt den n=C3=A4chsten Flug bekommen. Ich wollte=
+=20
+dich fragen ob du mir 1,350 pfund so schnell wie m=C3=B6glich leihen kannst=
+,=20
+Ich gebe es dir zur=C3=BCck sobald ich da bin. Das Geld durch Western union=
+=20
+ist die beste m=C3=B6glichkeit. Ich kann die die Details schicken wie du mi=
+r=20
+das Geld zukommen lassen kannst.<br><br>Ich erwarte Ihre Antwort.<br><br>Gr=
+u=C3=9F<br><br><div>Rainer Pfister</div><div>Herwigweg 18</div><div>72074 T=
+=C3=BCbingen</div><div><br></div><div>E-Mail: <a href=3D"mailto:pfistersabi=
+ne@yahoo.de">pfistersabine@yahoo.de</a>                =C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <br>
+<div id=3D"yui_3_13_0_1_1397546817383_1906" class=3D"">=C2=A0=C2=A0=C2=A0=
+=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0=C2=A0 <a href=3D"mailto:pfistersabine@=
+gmail.com">pfistersabine@gmail.com</a></div><div id=3D"yui_3_13_0_1_1397546=
+817383_1906" class=3D""><br></div>                </div><br>
+</div>
+
+--001a11c2b7a2004cc604f70fc993--

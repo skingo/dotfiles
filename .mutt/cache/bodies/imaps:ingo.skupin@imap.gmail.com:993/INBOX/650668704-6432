@@ -1,0 +1,435 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp28758pdb;
+        Sun, 8 Sep 2013 00:13:01 -0700 (PDT)
+X-Received: by 10.236.56.71 with SMTP id l47mr19338yhc.79.1378624381204;
+        Sun, 08 Sep 2013 00:13:01 -0700 (PDT)
+Return-Path: <v-gjfhlg_lpoegcepp_fddephi_fddephi_a@bounce.evernote.mkt5371.com>
+Received: from mail4773.evernote.mkt5371.com (mail4773.evernote.mkt5371.com. [208.73.5.242])
+        by mx.google.com with ESMTP id u42si2466893yhc.170.1969.12.31.16.00.00;
+        Sun, 08 Sep 2013 00:13:01 -0700 (PDT)
+Received-SPF: pass (google.com: domain of v-gjfhlg_lpoegcepp_fddephi_fddephi_a@bounce.evernote.mkt5371.com designates 208.73.5.242 as permitted sender) client-ip=208.73.5.242;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of v-gjfhlg_lpoegcepp_fddephi_fddephi_a@bounce.evernote.mkt5371.com designates 208.73.5.242 as permitted sender) smtp.mail=v-gjfhlg_lpoegcepp_fddephi_fddephi_a@bounce.evernote.mkt5371.com;
+       dkim=pass header.i=team@email.evernote.com;
+       dmarc=pass (p=NONE dis=NONE) d=evernote.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=spop1024; d=email.evernote.com;
+ h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:List-Unsubscribe; i=team@email.evernote.com;
+ bh=FkOJQ59JC482l4QTHKJwVWSFC/U=;
+ b=Oqm4UNQaGpMnloFYyEGoh/NVVi11HkayJ7HFIlkw9SISMvQS84MtwAcYpgHrdHZN4ddFHiQfabsv
+   RNdEms/VZKe/9zRAsU0P2ZKnsZw+vby8J508b61HVoXE8tjEwSEcW2VBYMJV1xe3utz5CLlfHboU
+   uSyUX4hYOy8UtuTV0JE=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=spop1024; d=email.evernote.com;
+ b=RAvxy5ubkbFJgm5b6voDr7F+Nh5vo3KGlX6eXxfHyYPkfBfZLWzOKA9ZDbkb2Yde1YmEFbckL9o2
+   pJWOr7iDhH1q6/5UjZGBzgL13yh/5LtIzBEoY0T6tcaNDQqCYmGnb2uAzgHVFmVovoa6VxCMccxI
+   vvXlnyVbPrcCUXLsrBY=;
+Received: by mail4773.evernote.mkt5371.com id h5ghnq19if49 for <ingo.skupin@googlemail.com>; Sun, 8 Sep 2013 07:01:08 +0000 (envelope-from <v-gjfhlg_lpoegcepp_fddephi_fddephi_a@bounce.evernote.mkt5371.com>)
+Date: Sun, 8 Sep 2013 07:01:08 +0000 (GMT)
+From: Evernote Team <team@email.evernote.com>
+Reply-To: team@email.evernote.com
+To: ingo.skupin@googlemail.com
+Message-ID: <1648574417.255690451378623668851.JavaMail.app@rbg19.atlis1>
+Subject: Evernote News: Neue Funktionen und Zusammenarbeit mithilfe von
+ Evernote
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_184290_1629438629.1378623668077"
+x-mid: 6903734
+x-job: 6903734
+x-rpcampaign: sp6903734
+x-orgId: 39926
+X-CSA-Complaints: whitelist-complaints@eco.de
+List-Unsubscribe: <mailto:v-gjfhlg_lpoegcepp_fddephi_fddephi_a@bounce.evernote.mkt5371.com?subject=Unsubscribe>
+
+------=_Part_184290_1629438629.1378623668077
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+## Evernote News ##
+
+Diesen Monat teilen wir mit euch einige aktuelle Funktionen unserer Apps so=
+wie Tipps f=C3=BCr Zusammenarbeit mithilfe von Evernote.
+---------------------------------------------------------------------------=
+---
+Deutsches Team im Finale des Devcups 2013=20
+
+Als Finalist des Evernote Devcups tritt die Recherche-App =E2=80=9EContext =
+Booster=E2=80=9C Ende Monat an der Evernote Konferenz gegen weltweit 200 Mi=
+tstreiter an.=20
+
+Hier geht's zur Erfolgsstory > http://evernote-de.tumblr.com/post/584291688=
+85/deutsche-recherche-app-context-booster-im-finale-des/=20
+---------------------------------------------------------------------------=
+---
+Evernote Food: noch sch=C3=B6nere Fotos=20
+
+Unsere App f=C3=BCr unvergessliche kulinarische Erlebnisse verf=C3=BCgt jet=
+zt =C3=BCber Funktionen, die noch sch=C3=B6nere Fotos erm=C3=B6glichen.=20
+
+Mehr erfahren > http://evernote-de.tumblr.com/post/56504451835/evernote-foo=
+d-integriert-neue-funktionen-um-tolle-fotos/=20
+---------------------------------------------------------------------------=
+---
+Evernote f=C3=BCr iOS: =C3=9Cberblick der neusten Funktionen=20
+
+Entdecke und bearbeite noch schneller den Inhalt, der f=C3=BCr dich relevan=
+t sind.=20
+
+Mehr erfahren > http://evernote-de.tumblr.com/post/56132600363/evernote-fue=
+r-iphone-und-ipad-jetzt-shortcuts-nutzen/=20
+---------------------------------------------------------------------------=
+---
+Evernote f=C3=BCr Android: Office Dokumente bearbeiten
+
+Mit der neuen Premium-Funktion kannst du jetzt angeh=C3=A4ngte Office Dokum=
+ente bearbeiten.
+
+Mehr erfahren > http://evernote-de.tumblr.com/post/55882909281/evernote-fue=
+r-android-angehaengte-dokumente-mit/=20
+---------------------------------------------------------------------------=
+---
+Quick Tipp: Notizb=C3=BCcher teilen mit Evernote=20
+
+Gemeinsame Notizb=C3=BCcher in Evernote vereinfachen die Zusammenarbeit, eg=
+al ob ihr an einem Projekt arbeitet oder die n=C3=A4chsten Ferien plant.
+
+Tipp lesen > http://evernote-de.tumblr.com/post/60080581661/unser-tipp-am-f=
+reitag-weitergabe-von-notizbuechern-mit/=20
+---------------------------------------------------------------------------=
+---
+Tipps f=C3=BCr Zusammenarbeit im Team=20
+
+Mit diesen Tipps k=C3=B6nnen Teams die Zusammenarbeit und Kommunikation mit=
+hilfe von Evernote und Evernote Business verbessern.
+
+Tipps lesen > http://evernote-de.tumblr.com/post/60077558657/verbesserung-v=
+on-teamarbeit-und-kommunikation-mit/=20
+---------------------------------------------------------------------------=
+---
+Falls Sie Fragen haben, besuchen Sie unsere Support-Seite. > http://evernot=
+e.com/intl/de/contact/support/=20
+
+Evernote Corporation, 305 Walnut St, Redwood City, CA 94063
+
+Abonnement k=C3=BCndigen > https://www.evernote.com/UnsubscribeEmail.action=
+?code=3D11&email=3Dingo.skupin@googlemail.com=20
+
+Datenschutzbestimmungen > http://evernote.com/intl/de/legal/privacy.php/   =
+ =20
+
+
+------=_Part_184290_1629438629.1378623668077
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.=
+w3.org/TR/html4/loose.dtd">
+<html lang=3D"de"><head>         <title>Evernote News: Neue Funktionen und =
+Zusammenarbeit mithilfe von Evernote</title>         <style type=3D"text/cs=
+s">
+       a:hover {text-decoration:underline!important}
+       .ReadMsgBody { width: 100%;}
+  .ExternalClass {width: 100%; line-height: 100%;}
+       body { background-color: #E7E7E7; margin-left: 0px; margin-top: 0px;=
+ margin-right: 0px; margin-bottom: 0px; }
+   </style>     </head>     <body marginwidth=3D"0" marginheight=3D"0" bgco=
+lor=3D"#e6e6e6" topmargin=3D"0" leftmargin=3D"0" style=3D"-webkit-font-smoo=
+thing: antialiased;width:100% !important;background:#e4e4e4;-webkit-text-si=
+ze-adjust:none;"><table width=3D"100%" border=3D"0" bgcolor=3D"#e6e6e6" cel=
+lspacing=3D"0" cellpadding=3D"0">                              <tr>        =
+             <td width=3D"100%" bgcolor=3D"#e6e6e6"><table width=3D"584" bo=
+rder=3D"0" align=3D"center" cellspacing=3D"0" cellpadding=3D"0">           =
+                                           <tr>                            =
+     <td width=3D"584"><br />                                 <table width=
+=3D"584" cellspacing=3D"0" cellpadding=3D"0" style=3D"display:block;">     =
+                                                                         <t=
+r>                                             <td width=3D"584" bgcolor=3D=
+"#5db336"><a name=3D"header graphic" style=3D"display:block; margin-top:0; =
+margin-bottom:0; margin-left:0; margin-right:0; padding-top:0; padding-bott=
+om:0; padding-left:0; padding-right:0"  href=3D"http://links.evernote.mkt53=
+71.com/ctt?kn=3D7&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg=
+3NjAS1&mt=3D1&rt=3D0" target=3D"_blank"><img width=3D"584" height=3D"70" bo=
+rder=3D"0"  style=3D"display:block; margin-top:0; margin-bottom:0; margin-l=
+eft:0; margin-right:0; padding-top:0; padding-bottom:0; padding-left:0; pad=
+ding-right:0" alt=3D"Evernote" src=3D"http://evernote.com/media/img/email/2=
+013/06/061313_green_header.jpg"  /></a></td>                               =
+          </tr>                                                            =
+          </table>                                 <table width=3D"584" cel=
+lspacing=3D"0" cellpadding=3D"0" style=3D"display:block;">                 =
+                                                             <tr>          =
+                                   <td width=3D"580" style=3D"background-co=
+lor: #fff; background-image: url(http://evernote.com/media/img/email/inters=
+pire/background_body.gif); background-position: 0 0; background-repeat: rep=
+eat-y; padding-left: 2px; padding-right: 2px;"><table width=3D"580" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">                                =
+                                                                      <tr> =
+                                                        <td width=3D"500" s=
+tyle=3D"background-color: #ffffff; background-image: url(http://evernote.co=
+m/media/img/email/interspire/background_body-top.gif); background-position:=
+ 0 0; background-repeat: repeat-x; padding: 10px 40px 0 40px;"><p align=3D"=
+center" style=3D"font-family: georgia, serif; font-weight: normal !importan=
+t; font-size: 24px; line-height: 33px; color: #7e7d7e; margin-top: 10px; ma=
+rgin-left: 0; margin-bottom: 20px; margin-right: 0; padding-top: 10px; padd=
+ing-bottom: 10px;"><span lang=3D"de">Evernote News</span></p>              =
+                                           <p style=3D"font-family: georgia=
+, serif; font-weight: normal; font-size: 15px; line-height: 20px; color: #5=
+95959; margin-top: 0; margin-left: 0; margin-bottom: 25px; margin-right: 0;=
+ padding: 0;"><span lang=3D"de">Diesen Monat teilen wir mit euch einige akt=
+uelle Funktionen unserer Apps sowie Tipps f&uuml;r Zusammenarbeit mithilfe =
+von Evernote.</span></p>                                                   =
+      <table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"marg=
+in: 0; padding: 0; width: 100%;">                                          =
+                                                                           =
+         <tr>                                                              =
+       <td height=3D"115" style=3D"vertical-align: top; text-align: left; p=
+adding: 0; margin: 0;"><p style=3D"font-family: georgia, serif; font-weight=
+: normal; font-size: 15px; line-height: 20px; color: #595959; margin-top: 0=
+px; margin-left: 0; margin-bottom: 15px; margin-right: 0; padding: 0;"><spa=
+n lang=3D"de" style=3D"color: #69aa35;">Deutsches Team im Finale des Devcup=
+s 2013</span>                                     <br />                   =
+                                                  <span lang=3D"de">Als Fin=
+alist des Evernote Devcups tritt die Recherche-App &bdquo;Context Booster&l=
+dquo; Ende Monat an der Evernote Konferenz gegen weltweit 200 Mitstreiter a=
+n. </span><a target=3D"_blank" href=3D"http://links.evernote.mkt5371.com/ct=
+t?kn=3D2&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=
+=3D1&rt=3D0"  style=3D"color: #48b4c1; text-decoration: none;" name=3D"cont=
+ext booster cta link"><span style=3D"color: #48b4c1;"><span lang=3D"de"> Hi=
+er geht's zur Erfolgsstory</span>&nbsp;&rarr;</span></a></p></td>          =
+                                                           <td width=3D"1" =
+style=3D"vertical-align: top; text-align: right; padding: 0px 0 0 15px; mar=
+gin: 0;"><a name=3D"context booster graphic" style=3D"-ms-interpolation-mod=
+e:bicubic;"  href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D12&ms=3DNjk=
+wMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0" targ=
+et=3D"_blank"><img width=3D"132" height=3D"100" border=3D"0"  alt=3D"Contex=
+t Booster" style=3D"-ms-interpolation-mode:bicubic;" src=3D"http://evernote=
+.com/intl/de/media/img/090613_monthly_newsletter_de1.png"  /></a></td>     =
+                                                            </tr>          =
+                                                       <tr>                =
+                                                     <td height=3D"115" sty=
+le=3D"vertical-align: top; text-align: left; padding: 0; margin: 0;"><p sty=
+le=3D"font-family: georgia, serif; font-weight: normal; font-size: 15px; li=
+ne-height: 20px; color: #595959; margin-top: 0px; margin-left: 0; margin-bo=
+ttom: 15px; margin-right: 0; padding: 0;"><span lang=3D"de" style=3D"color:=
+ #69aa35;">Evernote Food: noch sch&ouml;nere Fotos</span>                  =
+                   <br />                                                  =
+                   <span lang=3D"de">Unsere App f&uuml;r unvergessliche kul=
+inarische Erlebnisse verf&uuml;gt jetzt &uuml;ber Funktionen, die noch sch&=
+ouml;nere Fotos erm&ouml;glichen. </span><a target=3D"_blank" href=3D"http:=
+//links.evernote.mkt5371.com/ctt?kn=3D1&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxM=
+TES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"color: #48b4c1; text-=
+decoration: none;" name=3D"food cta link"><span style=3D"color: #48b4c1;"><=
+span lang=3D"de">Mehr erfahren</span>&nbsp;&rarr;</span></a></p></td>      =
+                                                               <td width=3D=
+"1" style=3D"vertical-align: top; text-align: right; padding: 0px 0 0 15px;=
+ margin: 0;"><a name=3D"food graphic" style=3D"-ms-interpolation-mode:bicub=
+ic;"  href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D17&ms=3DNjkwMzczNA=
+S2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0" target=3D"_=
+blank"><img width=3D"133" height=3D"100" border=3D"0"  src=3D"http://everno=
+te.com/media/img/email/2013/08/evernotefood.png"  style=3D"-ms-interpolatio=
+n-mode:bicubic;" alt=3D"Evernote Food" /></a></td>                         =
+                                        </tr>                              =
+                                   <tr>                                    =
+                                 <td height=3D"115" style=3D"vertical-align=
+: top; text-align: left; padding: 0; margin: 0;"><p style=3D"font-family: g=
+eorgia, serif; font-weight: normal; font-size: 15px; line-height: 20px; col=
+or: #595959; margin-top: 0px; margin-left: 0; margin-bottom: 15px; margin-r=
+ight: 0; padding: 0;"><span lang=3D"de" style=3D"color: #69aa35;">Evernote =
+f&uuml;r iOS: &Uuml;berblick der neusten Funktionen</span>                 =
+                    <br />                                                 =
+                    <span lang=3D"de">Entdecke und bearbeite noch schneller=
+ den Inhalt, der f&uuml;r dich relevant sind. </span><a target=3D"_blank" h=
+ref=3D"http://links.evernote.mkt5371.com/ctt?kn=3D19&ms=3DNjkwMzczNAS2&r=3D=
+NTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"color: #=
+48b4c1; text-decoration: none;" name=3D"ios cta link"><span style=3D"color:=
+ #48b4c1;"><span lang=3D"de">Mehr erfahren</span>&nbsp;&rarr;</span></a></p=
+></td>                                                                     =
+<td width=3D"1" style=3D"vertical-align: top; text-align: right; padding: 0=
+px 0 0 15px; margin: 0;"><a name=3D"ios graphic" style=3D"-ms-interpolation=
+-mode:bicubic;"  href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D4&ms=3D=
+NjkwMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0" t=
+arget=3D"_blank"><img width=3D"132" height=3D"100" border=3D"0"  alt=3D"Eve=
+rnote f&uuml;r iOS" style=3D"-ms-interpolation-mode:bicubic;" src=3D"http:/=
+/evernote.com/media/img/email/2013/08/ios.png"  /></a></td>                =
+                                                 </tr>                     =
+                                            <tr>                           =
+                                          <td height=3D"115" style=3D"verti=
+cal-align: top; text-align: left; padding: 0; margin: 0;"><p style=3D"font-=
+family: georgia, serif; font-weight: normal; font-size: 15px; line-height: =
+20px; color: #595959; margin-top: 0px; margin-left: 0; margin-bottom: 15px;=
+ margin-right: 0; padding: 0;"><span lang=3D"de" style=3D"color: #69aa35;">=
+Evernote f&uuml;r Android: Office Dokumente bearbeiten</span><br />        =
+                                                             <span lang=3D"=
+de">Mit der neuen Premium-Funktion kannst du jetzt  angeh&auml;ngte Office =
+Dokumente bearbeiten.<br />                                                =
+                     </span><a target=3D"_blank" href=3D"http://links.evern=
+ote.mkt5371.com/ctt?kn=3D28&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=
+=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"color: #48b4c1; text-decoration: =
+none;" name=3D"android cta link"><span style=3D"color: #48b4c1;"><span lang=
+=3D"de">Mehr erfahren</span>&nbsp;&rarr;</span></a></p></td>               =
+                                                      <td width=3D"1" style=
+=3D"vertical-align: top; text-align: right; padding: 0px 0 0 15px; margin: =
+0;"><a name=3D"android graphic" style=3D"-ms-interpolation-mode:bicubic;"  =
+href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D3&ms=3DNjkwMzczNAS2&r=3D=
+NTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0" target=3D"_blank">=
+<img width=3D"132" height=3D"100" border=3D"0"  src=3D"http://evernote.com/=
+media/img/email/2013/08/evernote-android.png"  style=3D"-ms-interpolation-m=
+ode:bicubic;" alt=3D"Evernote f&uuml;r Android" /></a></td>                =
+                                                 </tr>                     =
+                                            <tr>                           =
+                                          <td height=3D"115" td=3D"" style=
+=3D"vertical-align: top; text-align: left; padding: 0; margin: 0;"><p style=
+=3D"font-family: georgia, serif; font-weight: normal; font-size: 15px; line=
+-height: 20px; color: #595959; margin-top: 0; margin-left: 0; margin-bottom=
+: 15px; margin-right: 0; padding: 0;"><span lang=3D"de" style=3D"color: #69=
+aa35;">Quick Tipp: Notizb&uuml;cher teilen mit Evernote</span>             =
+                      <br />                                               =
+                      <span lang=3D"de">Gemeinsame Notizb&uuml;cher in Ever=
+note vereinfachen die Zusammenarbeit, egal ob ihr an einem Projekt arbeitet=
+ oder die n&auml;chsten Ferien plant.                                      =
+                                </span><a target=3D"_blank" href=3D"http://=
+links.evernote.mkt5371.com/ctt?kn=3D24&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxMT=
+ES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"color: #48b4c1; text-d=
+ecoration: none;" name=3D"quick tip cta link"><span style=3D"color: #48b4c1=
+;"><span lang=3D"de">Tipp lesen</span>&nbsp;&rarr;</span></a></p></td>     =
+                                                                <td width=
+=3D"1" style=3D"vertical-align: top; text-align: right; padding:0px 0 0 15p=
+x; margin: 0;"><a name=3D"quick tip graphic" style=3D"-ms-interpolation-mod=
+e:bicubic;"  href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D13&ms=3DNjk=
+wMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0" targ=
+et=3D"_blank"><img width=3D"133" height=3D"100" border=3D"0"  src=3D"http:/=
+/evernote.com/media/img/email/2013/08/quicktipbookmark.png"  style=3D"-ms-i=
+nterpolation-mode:bicubic;" alt=3D"Notizb&uuml;cher teilen mit Evernote" />=
+</a></td>                                                                 <=
+/tr>                                                                 <tr>  =
+                                                                   <td heig=
+ht=3D"115" style=3D"vertical-align: top; text-align: left; padding: 0; marg=
+in: 0;"><p style=3D"font-family: georgia, serif; font-weight: normal; font-=
+size: 15px; line-height: 20px; color: #595959; margin-top: 0px; margin-left=
+: 0; margin-bottom: 15px; margin-right: 0; padding: 0;"><span lang=3D"de" s=
+tyle=3D"color: #69aa35;">Tipps f&uuml;r Zusammenarbeit im Team</span>      =
+                               <br />                                      =
+                               <span lang=3D"de">Mit diesen Tipps k&ouml;nn=
+en Teams die Zusammenarbeit und Kommunikation mithilfe von Evernote und Eve=
+rnote Business verbessern.<br />                                           =
+                          </span><a target=3D"_blank" href=3D"http://links.=
+evernote.mkt5371.com/ctt?kn=3D22&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=
+=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"color: #48b4c1; text-decora=
+tion: none;" name=3D"teamwork cta link"><span style=3D"color: #48b4c1;"><sp=
+an lang=3D"de">Tipps lesen</span>&nbsp;&rarr;</span></a></p></td>          =
+                                                           <td width=3D"1" =
+style=3D"vertical-align: top; text-align: right; padding: 0px 0 0 15px; mar=
+gin: 0;"><a name=3D"teamwork graphic" style=3D"-ms-interpolation-mode:bicub=
+ic;"  href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D14&ms=3DNjkwMzczNA=
+S2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0" target=3D"_=
+blank"><img width=3D"133" height=3D"100" border=3D"0"  src=3D"http://everno=
+te.com/media/img/email/2013/07/kickstart_productivity.png"  style=3D"-ms-in=
+terpolation-mode:bicubic;" alt=3D"Tipps f&uuml;r Zusammenarbeit im Team" />=
+</a></td>                                                                 <=
+/tr>                                                                       =
+                                               </table>                    =
+                                     <br />                                =
+                         <p style=3D"font-family: georgia, serif; font-weig=
+ht: normal; font-size: 15px; line-height: 20px; color: #595959; margin-top:=
+ 0; margin-left: 0; margin-bottom: 15px; margin-right: 0; padding: 0;"><spa=
+n lang=3D"de">Weitere Informationen zu neuen Produktversionen, Tipps und Er=
+folgsgeschichten von Benutzern erhalten Sie in</span> <a target=3D"_blank" =
+href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D20&ms=3DNjkwMzczNAS2&r=
+=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"color=
+: #48b4c1; text-decoration: none;" name=3D"blog cta link"><span lang=3D"de"=
+ style=3D"color: #48b4c1;">unserem Blog &nbsp;&rarr;</span></a></p>        =
+                                                 <table width=3D"500" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"margin: 0; padding: 0;=
+ border-top: 1px solid #ccc; border-right: 0 !important; border-left: 0 !im=
+portant; border-bottom: 0 !important;">                                    =
+                                                                           =
+               <tr>                                                        =
+             <td valign=3D"bottom" border=3D"0" style=3D"padding-right: 10p=
+x; padding-top: 20px; margin: 0; vertical-align: top;"><a target=3D"_blank"=
+ href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D25&ms=3DNjkwMzczNAS2&r=
+=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"-ms-i=
+nterpolation-mode:bicubic;" name=3D"jobs graphic"><img width=3D"90" height=
+=3D"60"  src=3D"http://evernote.com/media/img/email/interspire/hiring.png" =
+ alt=3D"Evernote sucht neue Mitarbeiter" style=3D"-ms-interpolation-mode:bi=
+cubic; border:0;" /></a></td>                                              =
+                       <td valign=3D"top" style=3D"padding: 0; margin: 0; v=
+ertical-align: top;"><p style=3D"color: #595959; font-family: arial, helvet=
+ica, sans serif; font-size: 12px; margin: 0; padding: 20px 0 0 0;"><span la=
+ng=3D"de" style=3D"font-weight: bold">Evernote sucht neue Mitarbeiter</span=
+>                                     <br />                               =
+                                      <span lang=3D"de">Wir suchen neue Mit=
+arbeiter f&uuml;r nahezu alle Abteilungen in unseren B&uuml;ros weltweit, b=
+eispielsweise im Bereich Technik, Design, Marketing u.v.m. </span>         =
+                                                            <a name=3D"jobs=
+ cta link" style=3D"color: #48b4c1; text-decoration: none;"  href=3D"http:/=
+/links.evernote.mkt5371.com/ctt?kn=3D26&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxM=
+TES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0" target=3D"_blank"><span lang=3D=
+"de" style=3D"color: #48b4c1;">Bewerben Sie sich jetzt</span> &nbsp;&rarr;<=
+/a></p></td>                                                               =
+  </tr>                                                                    =
+                                                  </table>                 =
+                                        <img width=3D"1" height=3D"15" bord=
+er=3D"0" alt=3D"" src=3D"http://evernote.com/media/img/email/interspire/spa=
+cer.gif"   /></td>                                                     </tr=
+>                                                                          =
+                    </table></td>                                         <=
+/tr>                                         <tr>                          =
+                   <td height=3D"15"><img alt=3D"" src=3D"http://evernote.c=
+om/media/img/1012prem/background_footer_new.jpg"   /></td>                 =
+                        </tr>                                              =
+                        </table>                                 <img width=
+=3D"1" height=3D"5" border=3D"0" alt=3D"" src=3D"http://evernote.com/media/=
+img/email/interspire/spacer.gif"   />                                 <tabl=
+e border=3D"0" align=3D"left" cellspacing=3D"0" cellpadding=3D"5" style=3D"=
+width: 100%;">                                                             =
+                 <tr>                                             <td><tabl=
+e width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">         =
+                                                                           =
+                  <tr>                                                     =
+    <td><p style=3D"font-family: helvetica, arial, sans-serif; font-size: 1=
+1px; line-height: 14px; color: #7e7d7e; margin-top: 0; margin-bottom: 0px; =
+margin-left: 0; margin-right: 0; padding: 0;"><span lang=3D"de">Falls Sie F=
+ragen haben, besuchen Sie unsere </span><a name=3D"support cta link" style=
+=3D"color: #7e7d7e;"  href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D29=
+&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=
+=3D0" target=3D"_blank">Support-Seite</a>.<br />                           =
+                              <span lang=3D"de"> Evernote Corporation, 305 =
+Walnut St, Redwood City, CA 94063</span></p></td>                          =
+                               <td>&nbsp;</td>                             =
+                            <td><a target=3D"_blank" href=3D"http://links.e=
+vernote.mkt5371.com/ctt?kn=3D27&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=
+=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"-ms-interpolation-mode: bic=
+ubic;" name=3D"fb graphic"><img width=3D"25" height=3D"25" border=3D"0"  st=
+yle=3D"-ms-interpolation-mode: bicubic;" alt=3D"Facebook" src=3D"http://eve=
+rnote.com/media/img/email/facebook_121912.jpg"  /></a></td>                =
+                                         <td></td>                         =
+                                <td><a name=3D"twitter graphic" style=3D"-m=
+s-interpolation-mode: bicubic;"  href=3D"http://links.evernote.mkt5371.com/=
+ctt?kn=3D5&ms=3DNjkwMzczNAS2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&=
+mt=3D1&rt=3D0" target=3D"_blank"><img width=3D"25" height=3D"25" border=3D"=
+0"  style=3D"-ms-interpolation-mode: bicubic;" alt=3D"Twitter" src=3D"http:=
+//evernote.com/media/img/email/twitter_121912.jpg"  /></a></td>            =
+                                             <td>&nbsp;</td>               =
+                                      </tr>                                =
+                                                              </table>     =
+                                        <p style=3D"font-family: helvetica,=
+ arial, sans-serif; font-size: 11px; line-height: 12px; color: #7e7d7e; mar=
+gin-top: 5px; margin-bottom: 10px; margin-left: 0; margin-right: 0; padding=
+-top: 0; padding-bottom: 0; padding-right: 0; padding-left: 0; "><a name=3D=
+"unsubscribe cta link_1" style=3D"color: #7e7d7e; text-decoration: underlin=
+e;"  href=3D"http://links.evernote.mkt5371.com/ctt?kn=3D11&ms=3DNjkwMzczNAS=
+2&r=3DNTE1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0" target=3D"_b=
+lank">Abonnement k&uuml;ndigen</a> &nbsp;|&nbsp; <a target=3D"_blank" href=
+=3D"http://links.evernote.mkt5371.com/ctt?kn=3D15&ms=3DNjkwMzczNAS2&r=3DNTE=
+1MTA2NTAxMTES1&b=3D0&j=3DODcyNDg3NjAS1&mt=3D1&rt=3D0"  style=3D"color: #7e7=
+d7e; text-decoration: underline;" name=3D"privacy cta link">Datenschutzbest=
+immungen</a></p></td>                                         </tr>        =
+                                                              </table></td>=
+                             </tr>                                         =
+     </table>                     <img width=3D"1" height=3D"25" border=3D"=
+0" alt=3D"" src=3D"http://evernote.com/media/img/email/interspire/spacer.gi=
+f"   /></td>                 </tr>                      </table><IMG src=3D=
+"http://links.evernote.mkt5371.com/open/log/6903734/NTE1MTA2NTAxMTES1/0/ODc=
+yNDg3NjAS1/1/0"></body></html>
+
+
+------=_Part_184290_1629438629.1378623668077--
+

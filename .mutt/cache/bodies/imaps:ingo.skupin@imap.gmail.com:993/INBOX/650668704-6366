@@ -1,0 +1,221 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp103526pdb;
+        Sun, 25 Aug 2013 02:19:08 -0700 (PDT)
+X-Received: by 10.14.37.4 with SMTP id x4mr15445786eea.16.1377422346892;
+        Sun, 25 Aug 2013 02:19:06 -0700 (PDT)
+Return-Path: <pfistersabine@googlemail.com>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id z6si6093570eey.313.1969.12.31.16.00.00
+        (version=TLSv1.2 cipher=AES128-SHA bits=128/128);
+        Sun, 25 Aug 2013 02:19:06 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning pfistersabine@googlemail.com does not designate 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning pfistersabine@googlemail.com does not designate 212.227.17.12 as permitted sender) smtp.mail=pfistersabine@googlemail.com;
+       dkim=pass header.i=@googlemail.com
+Received:  from mail-bk0-f48.google.com ([209.85.214.48]) by mx-ha.web.de
+ (mxweb106) with ESMTPS (Nemesis) id 0M5dXo-1VxWUL2VE8-00xbN8 for
+ <ingo.skupin@gmail.com>; Sun, 25 Aug 2013 11:19:05 +0200
+Received: by mail-bk0-f48.google.com with SMTP id my13so734847bkb.35
+        for <multiple recipients>; Sun, 25 Aug 2013 02:19:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :content-type:thread-index:content-language;
+        bh=FPoJfJiw6jpStULyEjr3hCbyAqbbmZJj+E5/h5ZqvDk=;
+        b=0PjpM7uCYE3yAqsEJR8MtBxbMVjKa/pzxzXCsFc9qKqtLu0AAbWID5sVbnzT13edyt
+         5Ul2yrGQdp+QQPhqEoEypOhTYKazZXJSpLztPaWKeu1gIatvIikM/0Bv2hgzEvnZ+xx5
+         moePMH7c+V6rb7s/81+5eJOkdMBLFBCSuMmg2eyXNJD0o0z9RstUTdVvuPrfJiRJOW7Q
+         s+QxJDiftED7/rUJdoF2M/3nySrlUfjb+EKXp9C/GXFW+0dQbl/5OAgABR4MWSIhNX/o
+         Pujk/P38Dofz3DTMfVeV081XrIGzsu6LCzha0FFR0KYIoZHHP/y69IxQUGZkTKKx5NMH
+         G6SA==
+X-Received: by 10.205.10.132 with SMTP id pa4mr5749007bkb.15.1377422345232;
+        Sun, 25 Aug 2013 02:19:05 -0700 (PDT)
+Return-Path: <pfistersabine@googlemail.com>
+Received: from SabinePC (dslb-084-057-164-089.pools.arcor-ip.net. [84.57.164.89])
+        by mx.google.com with ESMTPSA id nv4sm1634292bkb.3.1969.12.31.16.00.00
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 25 Aug 2013 02:19:04 -0700 (PDT)
+From: "Sabine Pfister" <pfistersabine@googlemail.com>
+To: "'Tizian Decker'" <tizian_decker@web.de>,
+	"'Martina Pfister'" <martina@pfister-heidelberg.de>,
+	"'Florian Sebert'" <florian@floriansebert.de>,
+	"'Lukas Fischer'" <lukasfischer1@aol.com>,
+	"'Yannick Frey'" <yannick.frey1994@web.de>,
+	"'Steffen Sautter'" <steffen.sautter@web.de>,
+	"'Christine Erchinger'" <christine-erchinger@web.de>,
+	"'Ingo Skupin'" <ingo.skupin@web.de>,
+	"'Dr. Stefan Wiehr'" <stefan@wiehr.de>,
+	"'Rainer Pfister'" <rainer.pfister@me.com>,
+	"'Stefan Pfister'" <s.pfister@dkfz-heidelberg.de>,
+	"'Stefan Pfister'" <stefan@pfister-heidelberg.de>
+References: <7252095A-849D-40ED-9FD7-1ECC3E2A0647@pfister-heidelberg.de> <trinity-b4c0e135-d5f3-4469-ac72-8b78806b4f77-1376994413359@3capp-webde-bs43>
+In-Reply-To: <trinity-b4c0e135-d5f3-4469-ac72-8b78806b4f77-1376994413359@3capp-webde-bs43>
+Subject: AW: Quartett
+Date: Sun, 25 Aug 2013 11:19:02 +0200
+Message-ID: <000a01cea174$24f5a640$6ee0f2c0$@googlemail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000B_01CEA184.E880E740"
+X-Mailer: Microsoft Outlook 14.0
+Thread-index: AQHHEnczXSVCnWLezJacLJtsHKW7MAE4ggVcmar+xeA=
+Content-language: de
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_000B_01CEA184.E880E740
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Lieber Tizian,
+
+=20
+
+ich bin dabei. Da Deine Eltern immer da sind und uns unterst=C3=BCtzen =
+f=C3=A4nde ich es sch=C3=B6n, wenn wir nicht nur als Quartett sondern =
+als Ensemble auftreten k=C3=B6nnten. Wie seht ihr das???
+
+=20
+
+Liebe Gr=C3=BC=C3=9Fe und bis bald, Sabine
+
+=20
+
+Von: Tizian Decker [mailto:tizian_decker@web.de]=20
+Gesendet: Dienstag, 20. August 2013 12:27
+An: Martina Pfister; Sabine Pfister; Florian Sebert; Lukas Fischer; =
+Yannick Frey; Steffen Sautter; Christine Erchinger; Ingo Skupin; Dr. =
+Stefan Wiehr; Rainer Pfister; Stefan Pfister; Stefan Pfister
+Betreff: Quartett
+
+=20
+
+Hallo zusammen,
+
+=20
+
+ich habe eine Bitte vor allem an die T=C3=BCbinger unter uns: Mein Vater =
+feiert dieses Jahr seinen Sechzigsten und w=C3=BCnscht sich ein bisschen =
+Musik, ich w=C3=BCrde da an ein Quartett denken. Die Feier findet am 09. =
+November im Bella Roma auf der Wanne statt. Wer mitspielt, ist =
+nat=C3=BCrlich auch zum Essen eingeladen und eine kleine Spende f=C3=BCr =
+die Ensemblekasse steht auch in Aussicht. Es gibt noch kein Programm, =
+aber es muss kein hochtrabendes Abendkonzert werden, sodass sich der =
+Probeaufwand stark in Grenzen halten wird. Wer Zeit und Lust hat, soll =
+sich melden, anschlie=C3=9Fend wird die Planung konkreter.
+
+=20
+
+Viele Gr=C3=BC=C3=9Fe,
+
+Tizian
+
+
+------=_NextPart_000_000B_01CEA184.E880E740
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Lieber Tizian,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>ich bin dabei. Da Deine Eltern immer da sind und uns =
+unterst=C3=BCtzen f=C3=A4nde ich es sch=C3=B6n, wenn wir nicht nur als =
+Quartett sondern als Ensemble auftreten k=C3=B6nnten. Wie seht ihr =
+das???<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Liebe Gr=C3=BC=C3=9Fe und bis bald, Sabine<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>Von:</span><=
+/b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Tizian Decker [mailto:tizian_decker@web.de] <br><b>Gesendet:</b> =
+Dienstag, 20. August 2013 12:27<br><b>An:</b> Martina Pfister; Sabine =
+Pfister; Florian Sebert; Lukas Fischer; Yannick Frey; Steffen Sautter; =
+Christine Erchinger; Ingo Skupin; Dr. Stefan Wiehr; Rainer Pfister; =
+Stefan Pfister; Stefan Pfister<br><b>Betreff:</b> =
+Quartett<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Hallo =
+zusammen,<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>&nbsp;<o:p><=
+/o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>ich habe =
+eine Bitte vor allem an die T=C3=BCbinger unter uns: Mein Vater feiert =
+dieses Jahr seinen Sechzigsten und w=C3=BCnscht sich ein bisschen Musik, =
+ich w=C3=BCrde da an ein Quartett denken. Die Feier findet am 09. =
+November im Bella Roma auf der Wanne statt. Wer mitspielt, ist =
+nat=C3=BCrlich auch zum Essen eingeladen und eine kleine Spende f=C3=BCr =
+die Ensemblekasse steht auch in Aussicht. Es gibt noch kein Programm, =
+aber es muss kein hochtrabendes Abendkonzert werden, sodass sich der =
+Probeaufwand stark in Grenzen halten wird. Wer Zeit und Lust hat, soll =
+sich melden, anschlie=C3=9Fend wird die Planung =
+konkreter.<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>&nbsp;<o:p><=
+/o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Viele =
+Gr=C3=BC=C3=9Fe,<o:p></o:p></span></p></div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Tizian<o:p><=
+/o:p></span></p></div></div></div></body></html>
+------=_NextPart_000_000B_01CEA184.E880E740--
+

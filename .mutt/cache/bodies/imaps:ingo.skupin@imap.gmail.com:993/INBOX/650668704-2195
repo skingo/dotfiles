@@ -1,0 +1,128 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.191.196 with SMTP id dn4csp32827vcb;
+        Tue, 20 Mar 2012 03:10:01 -0700 (PDT)
+Received: by 10.180.101.230 with SMTP id fj6mr27533906wib.13.1332238201232;
+        Tue, 20 Mar 2012 03:10:01 -0700 (PDT)
+Return-Path: <no-reply@dropbox.com>
+Received: from fmmailgate05.web.de (fmmailgate05.web.de. [217.72.192.243])
+        by mx.google.com with ESMTP id i14si971607wed.97.2012.03.20.03.10.00;
+        Tue, 20 Mar 2012 03:10:01 -0700 (PDT)
+Received-SPF: neutral (google.com: 217.72.192.243 is neither permitted nor denied by domain of no-reply@dropbox.com) client-ip=217.72.192.243;
+DomainKey-Status: bad (test mode)
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.72.192.243 is neither permitted nor denied by domain of no-reply@dropbox.com) smtp.mail=no-reply@dropbox.com; domainkeys=hardfail (test mode) header.From=no-reply@dropbox.com
+Received:  from mx14.web.de  ( [172.20.2.64])
+	by fmmailgate05.web.de (Postfix) with ESMTP id BF30B6B97120
+	for <ingo.skupin@gmail.com>; Tue, 20 Mar 2012 11:10:00 +0100 (CET)
+Received: from [199.47.216.137] (helo=sjc-smtp1.sjc.dropbox.com)
+	by mx14.web.de with esmtp (WEB.DE 4.110 #1)
+	id 1S9w0u-0007eF-00
+	for ingo.skupin@web.de; Tue, 20 Mar 2012 11:10:00 +0100
+Received: from sjc-web33.sjc.dropbox.com (sjc-web33.sjc.dropbox.com [10.10.115.161])
+	by sjc-smtp1.sjc.dropbox.com (Postfix) with ESMTP id AEEBCD00EA7
+	for <ingo.skupin@web.de>; Tue, 20 Mar 2012 10:09:59 +0000 (UTC)
+DomainKey-Signature: a=rsa-sha1; s=m1; d=dropbox.com; c=simple; q=dns;
+	b=dBezD2suXp4mbD95+/J459tu5OXzbznUBlvLMe0S6C4kKzFtXueDlPgMDQ9Czju85
+	z6+fp7tubMrcDGammfSloqfP/j8MpMO8BXR0iCr7GqxBTUyjivLsJMfp4/a2ObREtUU
+	a41G4DKUOQbbBzlGOk+eFCdIiCTerE9sPrs4rkI=
+Received: from sjc-web33.sjc.dropbox.com (localhost [127.0.0.1])
+	by sjc-web33.sjc.dropbox.com (Postfix) with ESMTP id AAC59B4003C
+	for <ingo.skupin@web.de>; Tue, 20 Mar 2012 10:09:59 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============7769297850169600508=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+Subject: Ingo Skupin hat „Gmail“ für dich freigegeben
+Date: Tue, 20 Mar 2012 10:09:59 +0000
+Reply-To: ingo.skupin@gmail.com
+Message-Id: <20120320100959.AAC59B4003C@sjc-web33.sjc.dropbox.com>
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+--===============7769297850169600508==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ingo,
+
+ich habe dich zum freigegebenen Dropbox-Ordner =E2=80=9EGmail=E2=80=9C ei=
+ngeladen. Du kannst dir den Ordner unter http://www.dropbox.com/link/17.E=
+n9ZYX_g_v.981720b6e03373ad?k=3Dc7796d5ae706a67ad924bb7b418c5eb3 ansehen
+
+- Ingo
+--===============7769297850169600508==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"650" align=3D"center" style=3D"font-size: 14px;" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+        <tr id=3D"topshadow">
+            <td height=3D"10" width=3D"10" background=3D"https://www.drop=
+box.com/static/images/emails/shadow_tl.gif" bgcolor=3D"#ffffff"></td>
+            <td height=3D"10" background=3D"https://www.dropbox.com/stati=
+c/images/emails/shadow_top.gif" bgcolor=3D"#ffffff"> </td>
+            <td height=3D"10" width=3D"10" background=3D"https://www.drop=
+box.com/static/images/emails/shadow_tr.gif" bgcolor=3D"#ffffff"> </td>
+        </tr>
+       =20
+        <tr id=3D"header">
+            <td width=3D"10" background=3D"https://www.dropbox.com/static=
+/images/emails/shadow_left.gif" bgcolor=3D"#ffffff" rowspan=3D"2"></td>
+            <td height=3D"102" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/header_bg.gif" bgcolor=3D"#e6f1fb" align=3D"center">
+                <table width=3D"95%"><tr>
+                    <td align=3D"left">
+                        <img src=3D"https://www.dropbox.com/static/images=
+/emails/email_logo.gif"/>
+                    </td>
+                </tr></table>
+            </td>
+            <td width=3D"10" background=3D"https://www.dropbox.com/static=
+/images/emails/shadow_right.gif" bgcolor=3D"#ffffff" rowspan=3D"2"> </td>
+        </tr>
+       =20
+        <tr id=3D"content">
+            <td bgcolor=3D"#f4faff" align=3D"center">
+                <table width=3D"95%" cellpadding=3D"30">
+                    <tr>
+                        <td align=3D"left">
+                            <font face=3D"Lucida Grande, Segoe UI, Arial,=
+ Verdana, Lucida Sans Unicode, Tahoma, Sans Serif">
+    Hallo Ingo,<br/><br/>
+ich habe dich zum freigegebenen Dropbox-Ordner =E2=80=9EGmail=E2=80=9C ei=
+ngeladen.<br/><br/>
+<a href=3D"http://www.dropbox.com/link/17.oBLSA9-Z5C.981720b6e03373ad?k=3D=
+c7796d5ae706a67ad924bb7b418c5eb3">Schau dir  =E2=80=9EGmail=E2=80=9C an</=
+a>.<br/><br/>
+- Ingo<br/>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+       =20
+        <tr id=3D"bottomshadow">
+            <td height=3D"10" width=3D"10" background=3D"https://www.drop=
+box.com/static/images/emails/shadow_bl.gif" bgcolor=3D"#ffffff"></td>
+            <td height=3D"10" background=3D"https://www.dropbox.com/stati=
+c/images/emails/shadow_bottom.gif" bgcolor=3D"#ffffff"> </td>
+            <td height=3D"10" width=3D"10" background=3D"https://www.drop=
+box.com/static/images/emails/shadow_br.gif" bgcolor=3D"#ffffff"> </td>
+        </tr>
+       =20
+    <tr id=3D"copyright">
+        <td></td>
+        <td align=3D"right">
+            <img src=3D"https://www.dropbox.com/static/images/emails/gray=
+_logo.gif" alt=3D"" align=3D"absmiddle"/>
+            <span style=3D"font-family: 'Lucida Grande', 'Segoe UI', Aria=
+l, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 11px;=
+ color: #888;">&copy;&nbsp;2012&nbsp;Dropbox</span>
+        </td>
+        <td></td>
+    </tr>
+
+    </table>
+--===============7769297850169600508==--

@@ -1,0 +1,129 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp2162961ivc;
+        Fri, 26 Feb 2016 00:00:55 -0800 (PST)
+X-Received: by 10.98.17.28 with SMTP id z28mr274790pfi.38.1456473655745;
+        Fri, 26 Feb 2016 00:00:55 -0800 (PST)
+Return-Path: <20160226080053749e12a643d849acbdbb477458f0p0eu@bounces.amazon.de>
+Received: from lux.smtp-out.eu-west-1.amazonses.com (lux.smtp-out.eu-west-1.amazonses.com. [176.32.127.201])
+        by mx.google.com with ESMTPS id qm5si2794499pac.13.2016.02.26.00.00.55
+        for <ingo.skupin@gmail.com>
+        (version=TLS1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Fri, 26 Feb 2016 00:00:55 -0800 (PST)
+Received-SPF: pass (google.com: domain of 20160226080053749e12a643d849acbdbb477458f0p0eu@bounces.amazon.de designates 176.32.127.201 as permitted sender) client-ip=176.32.127.201;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 20160226080053749e12a643d849acbdbb477458f0p0eu@bounces.amazon.de designates 176.32.127.201 as permitted sender) smtp.mailfrom=20160226080053749e12a643d849acbdbb477458f0p0eu@bounces.amazon.de;
+       dkim=pass header.i=@amazon.de;
+       dkim=pass header.i=@amazonses.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=fraqczefv5ucvzwxuiuhta623hvupqlf; d=amazon.de; t=1456473654;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date;
+	bh=wr0u+sW31c0/fw20Y9RDCgz0/KEM27Pqs90/eH+h+bw=;
+	b=J2J/fMwBv31ILuPWAFw8pvN7yyv0brHoV1lP7Ap8hcKcxSslZUusBAGTvyg9eyko
+	McspwtSYKFLkABaSIi8BK8qq+gcm71Sn2VFbUS26dIwGanuA/sWfQAK2MZMAce9Cal0
+	BhkfJfbsYRMTarCFgY1jeHOvNQUjr7cRy0ak3toU=
+DKIM-Signature: v=1; a=rsa-sha256; q=dns/txt; c=relaxed/simple;
+	s=uku4taia5b5tsbglxyj6zym32efj7xqv; d=amazonses.com; t=1456473654;
+	h=From:Reply-To:To:Message-ID:Subject:MIME-Version:Content-Type:Date:Feedback-ID;
+	bh=wr0u+sW31c0/fw20Y9RDCgz0/KEM27Pqs90/eH+h+bw=;
+	b=ZzeFQizVyp5RCkJAmO6vKy2P9K6XV5zKtE93cgalTfZ1nCyTlSrEBc1af063QkRt
+	2FkPOXVbV7tko7GH5vlRB5aPpXf1fY2lyLZkbsdZGS4NUv7fQ099l9rAzScha2+GclX
+	lZ+9ROcs5Vmq481yt+oprqFG5ZztoGBMFi+1da9s=
+From: Amazon Payments Europe <no-reply@amazon.de>
+Reply-To: no-reply@amazon.de
+To: ingo.skupin@gmail.com
+Message-ID: <010201531c984456-a7a94a6d-b676-49ca-8d02-bc982e1b2814-000000@eu-west-1.amazonses.com>
+Subject: Ihre Bestellung bei Bier-Deluxe GmbH wurde versandt!
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_151279_1902141977.1456473654353"
+X-AMAZON-MAIL-RELAY-TYPE: notification
+Bounces-to: 20160226080053749e12a643d849acbdbb477458f0p0eu@bounces.amazon.de
+X-AMAZON-METADATA: CA=C12TP9L2KM4BV6-CU=ARC6DCFDT9EWA-RI=A2NB0MPT7GCBFI
+X-Original-MessageID: <urn.rtn.msg.20160226080053749e12a643d849acbdbb477458f0p0eu@1456473654354.rtn-svc-eu-2c-i-5a56ded7.eu-west-1.amazon.com>
+Date: Fri, 26 Feb 2016 08:00:54 +0000
+X-SES-Outgoing: 2016.02.26-10.42.214.108
+Feedback-ID: 1.eu-west-1.KxLUKazDI5D9NzBxTS3SoD/MTlcLZY0yvg8x5uoOkSk=:AmazonSES
+
+------=_Part_151279_1902141977.1456473654353
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Sehr geehrte/r Frau/Herr Ingo Skupin,
+<br><br>
+Bier-Deluxe GmbH versendete den/die folgenden Artikel in Ihrer Bestellung 3=
+04-1826400-9710763 vom 25. Februar 2016:
+<br><br><br>
+
+
+
+--------------------------------------------------------------------
+<br><br>
+
+Zwischensumme: <br>
+
+
+Gesamtsumme: <br>
+
+
+Bezahlt mit:=20
+
+
+
+
+
+Bankeinzug |
+Die letzten Ziffern: 9004
+
+<br><br>
+--------------------------------------------------------------------
+<br><br>
+Diese Lieferung wurde an folgende Adresse geschickt:<br><br>
+
+
+
+Ingo Skupin<br>
+
+
+
+
+Bachgasse 26<br>
+
+
+T=C3=BCbingen, Baden-W=C3=BCrttemberg 72070<br>
+
+
+
+
+
+
+
+<br><br><br><br>
+FRAGEN? Wenn Sie Fragen zu dieser Bestellung wie z. B. zum Lieferstatus hab=
+en, finden Sie unter https://payments.amazon.de/overview eine Liste mit Ihr=
+en Bestellungen. Suchen Sie nach der gew=C3=BCnschten Bestellung, und klick=
+en Sie auf die Bestellungsnummer, um die Bestellungsdetails anzuzeigen. Wen=
+n Sie auf die Schaltfl=C3=A4che "H=C3=A4ndler kontaktieren" klicken, k=C3=
+=B6nnen Sie dem H=C3=A4ndler eine E-Mail schreiben.<br>
+
+Mit freundlichen Gr=C3=BC=C3=9Fen,<br>
+---------------------------------------------------------------------
+<br>
+Amazon Payments Europe Kundenservice<br>
+https://payments.amazon.de/<br>
+---------------------------------------------------------------------
+<br>
+
+
+Beachten Sie, dass Informationen zur Sendungsverfolgung m=C3=B6glicherweise=
+ nicht sofort verf=C3=BCgbar sind.
+<br><br>
+Beachten Sie bitte: Diese E-Mail wurde von einer nur f=C3=BCr Benachrichtig=
+ungen verwendeten Adresse gesendet. Eingehende E-Mails k=C3=B6nnen nicht an=
+genommen werden. Antworten Sie nicht auf diese Nachricht.<br><img width=3D"=
+1" height=3D"1" src=3D"https://www.amazon.co.uk/gp/r.html?C=3D3NQZJNXJYLBCC=
+&K=3DARC6DCFDT9EWA&R=3D2JV769O0MYB16&T=3DE&U=3Dhttps%3A%2F%2Fimages-eu.ssl-=
+images-amazon.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif&A=3DDSYNNWKFDXHHT9EO=
+I10OZFZIKA8A&H=3DQ9PCAVRCDAHYFZQ3ZEE8GBWHPGEA&ref_=3Dpe_385721_37038781_ope=
+n" />
+------=_Part_151279_1902141977.1456473654353--

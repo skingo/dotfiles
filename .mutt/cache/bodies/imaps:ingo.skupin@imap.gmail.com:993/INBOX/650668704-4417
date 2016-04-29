@@ -1,0 +1,119 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.161.73 with SMTP id q9csp1124171vcx;
+        Fri, 30 Nov 2012 02:58:27 -0800 (PST)
+Received: by 10.180.78.161 with SMTP id c1mr1389475wix.4.1354273106554;
+        Fri, 30 Nov 2012 02:58:26 -0800 (PST)
+Return-Path: <brittanickl@googlemail.com>
+Received: from lvps83-169-1-93.dedicated.hosteurope.de (lvps83-169-1-93.dedicated.hosteurope.de. [83.169.1.93])
+        by mx.google.com with ESMTPS id q6si9096169eep.96.2012.11.30.02.58.26
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Fri, 30 Nov 2012 02:58:26 -0800 (PST)
+Received-SPF: neutral (google.com: 83.169.1.93 is neither permitted nor denied by domain of brittanickl@googlemail.com) client-ip=83.169.1.93;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 83.169.1.93 is neither permitted nor denied by domain of brittanickl@googlemail.com) smtp.mail=brittanickl@googlemail.com; dkim=pass header.i=@gmail.com
+Received: (qmail 3579 invoked by uid 110); 30 Nov 2012 11:58:25 +0100
+Delivered-To: 6-saxophon@concertband.de
+X-Spam-Checker-Version: SpamAssassin 3.2.4 (2008-01-01) on
+	lvps83-169-1-93.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=-1.0 required=7.0 tests=HTML_MESSAGE,
+	RCVD_IN_DNSWL_LOW autolearn=ham version=3.2.4
+Received: (qmail 3368 invoked by uid 110); 30 Nov 2012 11:58:07 +0100
+Delivered-To: 6-alle@concertband.de
+Received: (qmail 3337 invoked from network); 30 Nov 2012 11:58:02 +0100
+Received: from mail-qa0-f49.google.com (209.85.216.49)
+  by n178-77-93-160.cnet.hosteurope.de with (RC4-SHA encrypted) SMTP; 30 Nov 2012 11:58:00 +0100
+Received: by mail-qa0-f49.google.com with SMTP id r4so388966qaq.8
+        for <alle@concertband.de>; Fri, 30 Nov 2012 02:57:59 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to:cc:content-type;
+        bh=sEDRuY+rWApk6lsePaC3TdPs0dHm035F+26PlC6qA0g=;
+        b=dYQPO4Ci3Dd5WvQShayEofHUjqEPPTTPyJmJGqiqf/oxfh/Bcmkz4+/YMT28vKXdKw
+         O5k/9GAAbfm0epgGGKotC17p4YXNX4YSkJHpFNMaXgdPMBbu/ZLmOrbqbja+ObMrmzJC
+         iXUlq5q3aJJ4/oooOD+O+B+6BOy78UN8KoCfE8+Qj0Q7Y+ZUxmQF0oXDA9DN8BBi/R0x
+         3iHmYQ7Dot1YgDCg8+2NVPmHI/op3bP4R92O2RRQKUkFpW97n4z9+5R+oDgg/zR7sgQg
+         Y8l6ptyHc23ZxbcXDlI4HpeDjvP8rSFprMZU42nAYLExMpvimYfq7xFSIzfB3zn1s1WQ
+         4VMw==
+MIME-Version: 1.0
+Received: by 10.224.59.209 with SMTP id m17mr2302864qah.49.1354273079200; Fri,
+ 30 Nov 2012 02:57:59 -0800 (PST)
+Received: by 10.49.109.104 with HTTP; Fri, 30 Nov 2012 02:57:58 -0800 (PST)
+Date: Fri, 30 Nov 2012 11:57:58 +0100
+Message-ID: <CACAsMH=3jL9_nP4=Heeugd8=abEGAPPKs3_bP7M=mQd0UgyrFw@mail.gmail.com>
+Subject: Festschrift Concertband
+From: Britta Nickl <brittanickl@googlemail.com>
+To: alle@concertband.de
+Cc: Rebecca Anna Fritzsche <rafritzsche@gmail.com>
+Content-Type: multipart/alternative; boundary=20cf306f76b6d08a5204cfb445fe
+
+--20cf306f76b6d08a5204cfb445fe
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo liebe CBler,
+
+die Festschrift hat inzwischen ein paar Texte, aber quasi keine Bilder.
+Daher die Bitte an euch alle: Wer Fotos vom Orchester hat - von Konzerten,
+Probewochenenden, Ensemble-Auftritten, etc. - stellt sie uns bitte zur
+Verf=FCgung! Kompromittierendes Material wird zensiert ;-)
+
+@Frank und Margit: Habt Ihr nicht jede Menge Fotos gemacht? Insbesondere
+letzten Sommer beim Kirchenkonzert? Und wer hat die Aufnahmen am letzten
+Winterkonzert gemacht, die es aufs CD-Cover geschafft haben?
+
+Ich habe eine *Concertband-Dropbox* eingerichtet, in der Ihr die Bilder
+ablegen k=F6nnt. Hier die Zugangsdaten:
+
+www.dropbox.com
+Benutzer: concertband@web.de
+Passwort: euroforum
+
+Am besten legt Ihr Ordner mit eurem Namen an, damit wir die Bilder sp=E4ter
+zuordnen k=F6nnen.
+
+Die Zeit sitzt uns im Nacken. Also durchsucht schnell eure Festplatten nach
+geeignetem Material und ladet die Bilder bis kommenden Dienstag hoch. *Wer
+als erster Bilder hochl=E4dt, bekommt ein alkoholhaltiges Getr=E4nk meiner
+Wahl! *Wenn das mal kein Ansporn ist :-)
+
+DANKE!
+
+Britta
+
+--=20
+*Britta Nickl*
+*Glogauer Stra=DFe 12*
+*65779 Kelkheim*
+*0176/32 56 71 17*
+**
+
+--20cf306f76b6d08a5204cfb445fe
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo liebe CBler,<br><br>die Festschrift hat inzwischen ein paar Texte, ab=
+er quasi keine Bilder. Daher die Bitte an euch alle: Wer Fotos vom Orcheste=
+r hat - von Konzerten, Probewochenenden, Ensemble-Auftritten, etc. - stellt=
+ sie uns bitte zur Verf=FCgung! Kompromittierendes Material wird zensiert ;=
+-)<br>
+<br>@Frank und Margit: Habt Ihr nicht jede Menge Fotos gemacht? Insbesonder=
+e letzten Sommer beim Kirchenkonzert? Und wer hat die Aufnahmen am letzten =
+Winterkonzert gemacht, die es aufs CD-Cover geschafft haben?<br><br>Ich hab=
+e eine <b>Concertband-Dropbox</b> eingerichtet, in der Ihr die Bilder ableg=
+en k=F6nnt. Hier die Zugangsdaten:<br>
+<br><a href=3D"http://www.dropbox.com">www.dropbox.com</a><br>Benutzer: <a =
+href=3D"mailto:concertband@web.de">concertband@web.de</a><br>Passwort: euro=
+forum<br><br>Am besten legt Ihr Ordner mit eurem Namen an, damit wir die Bi=
+lder sp=E4ter zuordnen k=F6nnen.<br>
+<br>Die Zeit sitzt uns im Nacken. Also durchsucht schnell eure Festplatten =
+nach geeignetem Material und ladet die Bilder bis kommenden Dienstag hoch. =
+<b>Wer als erster Bilder hochl=E4dt, bekommt ein alkoholhaltiges Getr=E4nk =
+meiner Wahl! </b>Wenn das mal kein Ansporn ist :-)<br>
+<br>DANKE!<br><br>Britta <br clear=3D"all"><br>-- <br><i>Britta Nickl</i>=
+=20
+<div><i>Glogauer Stra=DFe 12</i></div>
+<div><i>65779 Kelkheim</i></div>
+<div><i>0176/32 56 71 17</i></div>
+<div><i></i>=A0</div><br>
+
+--20cf306f76b6d08a5204cfb445fe--

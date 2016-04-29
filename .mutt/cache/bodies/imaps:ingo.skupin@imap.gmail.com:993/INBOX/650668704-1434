@@ -1,0 +1,288 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.3.207 with SMTP id 15cs26269vco;
+        Mon, 12 Dec 2011 19:16:07 -0800 (PST)
+Received: by 10.14.4.75 with SMTP id 51mr3427871eei.217.1323746164931;
+        Mon, 12 Dec 2011 19:16:04 -0800 (PST)
+Return-Path: <fulfillment-messages@amazon.de>
+Received: from smtp-out-193-193.amazon.com (smtp-out-193-193.amazon.com. [194.154.193.193])
+        by mx.google.com with ESMTP id w12si10685265eef.16.2011.12.12.19.16.04;
+        Mon, 12 Dec 2011 19:16:04 -0800 (PST)
+Received-SPF: pass (google.com: domain of fulfillment-messages@amazon.de designates 194.154.193.193 as permitted sender) client-ip=194.154.193.193;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of fulfillment-messages@amazon.de designates 194.154.193.193 as permitted sender) smtp.mail=fulfillment-messages@amazon.de
+Date: 13 Dec 2011 03:16:03 +0000
+From: fulfillment-messages@amazon.de
+To: ingo.skupin@googlemail.com
+Message-ID: <16012628.141788.1323746163862.JavaMail.taxadm@globaltax-credit-note-svc-12001.dub2.amazon.com>
+Subject: Ihre Gutschrift bei Amazon.de (Bestellung #303-1967522-8239542)
+MIME-Version: 1.0
+Content-Type: multipart/signed; protocol="application/pkcs7-signature"; micalg="sha1"; boundary="----A0BD71708F2C67DED0DAA6C48A8443B8"
+
+This is an S/MIME signed message
+
+------A0BD71708F2C67DED0DAA6C48A8443B8
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="MuLtIpArTmImEbOuNdArY"
+
+--MuLtIpArTmImEbOuNdArY
+Content-Type: text/plain; charset=utf-8
+
+Guten Tag,
+      
+dies ist Ihre elektronische  Gutschrift  für
+Umsatzsteuerrückerstattungen aus Ihrer Bestellung 303-1967522-8239542
+bei Amazon.de.
+
+------------------------------
+GUTSCHRIFT 
+
+Gutschriftsdatum: 13.12.11
+Gutschriftsnr.: EUVINS1-VCN-DE-7420833
+
+Original Rechnungsnr.: EUVINS1-OFS-DE-40673268
+
+Name des Lieferanten: Amazon EU S.a.r.L.
+Adresse des Lieferanten: 5 rue Plaetis, L-2338, Luxembourg
+UStId des Lieferanten: DE814584193
+
+Kundenname: Ingo Skupin
+Lieferadresse: Roßwälder Str. 50, Notzingen, Baden-Württemberg, 73274, DE
+
+Rechnungsadresse: Roßwälder Str. 50, Notzingen, Baden-Württemberg, 73274, DE
+
+
+Bestellte Artikel: Acer S242HLABID 60,9 cm (24 Zoll) Slim LED Monitor (VGA, DVI, HDMI, Kontrast 12.000.000:1, 2ms Reaktionszeit)
+-Exemplar: 1
+-Preis (Netto): -150,42 €
+-USt %: 19.00% -USt: -28,58 €
+-Gesamtsumme: -179,00 €
+
+
+ Gesamtsumme: -179,00 €
+
+USt von 19.00% entspricht = 28,58 €
+Dies ist die Gesamtsumme aller Umsatzsteuerbeträge, die rückerstattet werden, abzüglich etwaiger Rabatte und sonstiger Abzüge.
+
+GESAMTSUMME DER UMSATZSTEUERRUECKERSTATTUNG: 28,58 €
+
+Steuernummer : 04019490837
+------------------------------------------------------
+
+Eine qualifizierte digitale Signatur wurde dieser elektronischen 
+Umsatzsteuer-Gutschrift beigefügt.
+
+Um den Status Ihrer Bestellung anzusehen, gehen Sie bitte zu Mein Konto:
+http://www.amazon.de/meinkonto
+
+Amazon EU S.a.r.L., 5 rue Plaetis, L-2338, Luxembourg
+
+--MuLtIpArTmImEbOuNdArY
+Content-Type: text/html; charset=utf-8
+
+<p>Guten Tag,</p>
+
+<p>dies ist Ihre elektronische Gutschrift  für 
+Umsatzsteuerrückerstattungen aus Ihrer Bestellung 303-1967522-8239542
+bei Amazon.de.</p>
+<hr/>
+<p>GUTSCHRIFT </p>
+
+<p>Gutschriftsdatum: 13.12.11<br/>
+Gutschriftsnr.: EUVINS1-VCN-DE-7420833</p>
+
+<p>Original Rechnungsnr.: EUVINS1-OFS-DE-40673268<br/>
+
+<p>Name des Lieferanten: Amazon EU S.a.r.L.<br/>
+Adresse des Lieferanten: 5 rue Plaetis, L-2338, Luxembourg<br/>
+UStId des Lieferanten: DE814584193</p>
+
+<p>
+Kundenname: Ingo Skupin<br/>
+Lieferadresse: Roßwälder Str. 50, Notzingen, Baden-Württemberg, 73274, DE<br/>
+Rechnungsadresse: Roßwälder Str. 50, Notzingen, Baden-Württemberg, 73274, DE</p>
+
+
+
+<table border="1">
+<tr>
+<td><b>Exemplar</b></td>
+<td><b>Bestellte Artikel</b></td>
+<td><b>Preis (Netto)</b></td>
+<td><b>USt %</b></td>
+<td><b>USt</b></td>
+<td><b>Gesamtsumme</b></td>
+</tr>
+<tr>
+<td>1</td>
+<td>Acer S242HLABID 60,9 cm (24 Zoll) Slim LED Monitor (VGA, DVI, HDMI, Kontrast 12.000.000:1, 2ms Reaktionszeit)</td>
+<td>-150,42 €</td>
+<td>19.00%</td></td>
+<td>-28,58 €</td>
+<td>-179,00 €</td>
+</tr>
+
+</table>
+<p>Gesamtsumme: -179,00 €</p>
+<p>USt von 19.00% entspricht = 28,58 €.<br/>
+Dies ist die Gesamtsumme aller Umsatzsteuerbeträge, die rückerstattet werden, abzüglich etwaiger Rabatte und sonstiger Abzüge.</p>
+
+<p>GESAMTSUMME DER UMSATZSTEUERRUECKERSTATTUNG: 28,58 €</p>
+
+<hr/>
+
+<p>Eine qualifizierte digitale Signatur wurde dieser elektronischenUmsatzsteuer-Gutschrift beigefügt.</p>
+
+<p>Um den Status Ihrer Bestellung anzusehen, gehen Sie bitte zu
+<a href="http://www.amazon.de/meinkonto">Mein Konto</a>.</p>
+
+<p>Amazon EU S.a.r.L., 5 rue Plaetis, L-2338, Luxembourg</p>
+
+<p>Steuernummer : 04019490837</p>
+--MuLtIpArTmImEbOuNdArY--
+
+------A0BD71708F2C67DED0DAA6C48A8443B8
+Content-Type: application/pkcs7-signature; name="smime.p7s"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="smime.p7s"
+
+MIIaMAYJKoZIhvcNAQcCoIIaITCCGh0CAQExCzAJBgUrDgMCGgUAMAsGCSqGSIb3
+DQEHAaCCFyowggWLMIIEc6ADAgECAhBQfW+I/9CKg0z+4R3/SiVqMA0GCSqGSIb3
+DQEBBQUAMIHdMQswCQYDVQQGEwJVUzEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4x
+HzAdBgNVBAsTFlZlcmlTaWduIFRydXN0IE5ldHdvcmsxOzA5BgNVBAsTMlRlcm1z
+IG9mIHVzZSBhdCBodHRwczovL3d3dy52ZXJpc2lnbi5jb20vcnBhIChjKTA5MR4w
+HAYDVQQLExVQZXJzb25hIE5vdCBWYWxpZGF0ZWQxNzA1BgNVBAMTLlZlcmlTaWdu
+IENsYXNzIDEgSW5kaXZpZHVhbCBTdWJzY3JpYmVyIENBIC0gRzMwHhcNMTAxMjE1
+MDAwMDAwWhcNMTExMjE2MjM1OTU5WjCCATgxFzAVBgNVBAoTDlZlcmlTaWduLCBJ
+bmMuMR8wHQYDVQQLExZWZXJpU2lnbiBUcnVzdCBOZXR3b3JrMUYwRAYDVQQLEz13
+d3cudmVyaXNpZ24uY29tL3JlcG9zaXRvcnkvUlBBIEluY29ycC4gYnkgUmVmLixM
+SUFCLkxURChjKTk4MR4wHAYDVQQLExVQZXJzb25hIE5vdCBWYWxpZGF0ZWQxMzAx
+BgNVBAsTKkRpZ2l0YWwgSUQgQ2xhc3MgMSAtIE5ldHNjYXBlIEZ1bGwgU2Vydmlj
+ZTEwMC4GA1UEAxQnQW1hem9uIEVVLCBTLmEuci5MLiBBbWF6b24gRVUsIFMuYS5y
+LkwuMS0wKwYJKoZIhvcNAQkBFh5mdWxmaWxsbWVudC1tZXNzYWdlc0BhbWF6b24u
+ZGUwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQCgOcTXvpyiuLOcZaWl
+D3NeTg0FqB/rlcVn0ynWDVJwNHxoJ2x8wZHBj4n6xQ76c3WEnfAk69xF8LiTtmtJ
+Ys482lN6ixiWgYIownDTGz7yk2Z4nUlI3hz70aW73gY7V+aBqOTiDmc9BHFBY5DG
+5bCO9vxKF8h5kje82V1gnTYN+aNbt0xTt1Z3kcaTLKKJf9J4tCKY/x8PzcYMWRqF
+H3j6zUhJ78nJSp0UGQq6XC42qQzvJl6wfsAnCVLOkp/dHaxMlD8PX2opeFMUtp80
+eNVgV0F8Ng2q9YES7xfsJJHC+iG5BxdwY/mSlX6jSFOdNmCCF7UVLKf40GueXMDF
+SXcRAgMBAAGjgegwgeUwCQYDVR0TBAIwADBEBgNVHSAEPTA7MDkGC2CGSAGG+EUB
+BxcBMCowKAYIKwYBBQUHAgEWHGh0dHBzOi8vd3d3LnZlcmlzaWduLmNvbS9ycGEw
+CwYDVR0PBAQDAgWgMB0GA1UdJQQWMBQGCCsGAQUFBwMEBggrBgEFBQcDAjAUBgpg
+hkgBhvhFAQYHBAYWBE5vbmUwUAYDVR0fBEkwRzBFoEOgQYY/aHR0cDovL2luZGMx
+ZGlnaXRhbGlkLWczLWNybC52ZXJpc2lnbi5jb20vSW5kQzFEaWdpdGFsSUQtRzMu
+Y3JsMA0GCSqGSIb3DQEBBQUAA4IBAQDQPV0/SQdFExYyedu/ktBm461dTVzKczzj
+7W8T5lrid+LdNS9RiuQPPZ00zRSA44Tnte+6ZuSTG117JU+nOmKwa0pw07aypNgG
+yWUaU9MgJYxGfWV3Ax74/s17MxsutMhhiHYaqMhMXuuom2B3pKJnCiE29dghtutY
+SdA2vCAAgtIgJ5zxl2dO5gBjyEGpf1SL3bDL9VDuCpkevUky2FRloGJI28Ogp7AN
+y9HyjCLoOwLrJo87uG+kLY3LAxMlVp2c4FI3DTMc9pufytq3Dufd1GGWl0wvAXVY
+pniQ1SuYwb0AuMVeSifgHfVjLKyaHCN0McH+SSLTDitMHZn6KKilMIIERjCCA6+g
+AwIBAgIQZv1H48IZ5OiazZnd9TrLJDANBgkqhkiG9w0BAQUFADBfMQswCQYDVQQG
+EwJVUzEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4xNzA1BgNVBAsTLkNsYXNzIDEg
+UHVibGljIFByaW1hcnkgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkwHhcNMDUxMDI4
+MDAwMDAwWhcNMTUxMDI3MjM1OTU5WjCB3TELMAkGA1UEBhMCVVMxFzAVBgNVBAoT
+DlZlcmlTaWduLCBJbmMuMR8wHQYDVQQLExZWZXJpU2lnbiBUcnVzdCBOZXR3b3Jr
+MTswOQYDVQQLEzJUZXJtcyBvZiB1c2UgYXQgaHR0cHM6Ly93d3cudmVyaXNpZ24u
+Y29tL3JwYSAoYykwNTEeMBwGA1UECxMVUGVyc29uYSBOb3QgVmFsaWRhdGVkMTcw
+NQYDVQQDEy5WZXJpU2lnbiBDbGFzcyAxIEluZGl2aWR1YWwgU3Vic2NyaWJlciBD
+QSAtIEcyMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyd+s5+r4+AMU
+xACS1cF+NsI873xyFcvAq4w9HJXObx4QLD8A7Zcm5rbH5q1DHT+kh0dHTD5U+Gz4
+x/yxnr0wcLyXsQMF6pXxrUDFRHpLBaLyYPzXOmVi7/8Qe6JWu8VOcC3Woh887bBC
+6F6NVyGsppnZEenSGgfAdEdCC/zFNOr95rok0R0IFTei13PPAUEvY7I6P76lGm70
+yUpbPZWmFbs1Ahn51O+8jw5xdlm7S7Y+1vxaFvTWDonySf5sDO0V6dmIdZx5zmAn
+3bmtdc4vc5V6QDqFdUmwuN9ovKvNE4KFEVCj4DwLrsAKU83XMG+FMkYb5EkQwmzi
+rx95/9u0tQIDAQABo4H/MIH8MBIGA1UdEwEB/wQIMAYBAf8CAQAwRAYDVR0gBD0w
+OzA5BgtghkgBhvhFAQcXATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy52ZXJp
+c2lnbi5jb20vcnBhMAsGA1UdDwQEAwIBBjARBglghkgBhvhCAQEEBAMCAQYwLgYD
+VR0RBCcwJaQjMCExHzAdBgNVBAMTFlByaXZhdGVMYWJlbDMtMjA0OC0xNTUwHQYD
+VR0OBBYEFBF9Xhl9PATfamzWoooaPzHYO5RSMDEGA1UdHwQqMCgwJqAkoCKGIGh0
+dHA6Ly9jcmwudmVyaXNpZ24uY29tL3BjYTEuY3JsMA0GCSqGSIb3DQEBBQUAA4GB
+ADyj2gJjOsSTqqty09ytUDgeDJ4WSoi37uvZ/w+NlaDWu/pqC65hhNhoR4nvT6yy
+H0lBm0kzdpOLnm65QxxgvcLcii2HwUXAEXIEGmskKmxv5/wHEynQdzoj5/XBhWgZ
+v8YBVCAZrjWCzGI8YQnG9NXrsA+mnzOFmtNxjlCPmd1iMIICPTCCAaYCEQDNun9W
+8N/kvFT+IqyzcqpVMA0GCSqGSIb3DQEBAgUAMF8xCzAJBgNVBAYTAlVTMRcwFQYD
+VQQKEw5WZXJpU2lnbiwgSW5jLjE3MDUGA1UECxMuQ2xhc3MgMSBQdWJsaWMgUHJp
+bWFyeSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eTAeFw05NjAxMjkwMDAwMDBaFw0y
+ODA4MDEyMzU5NTlaMF8xCzAJBgNVBAYTAlVTMRcwFQYDVQQKEw5WZXJpU2lnbiwg
+SW5jLjE3MDUGA1UECxMuQ2xhc3MgMSBQdWJsaWMgUHJpbWFyeSBDZXJ0aWZpY2F0
+aW9uIEF1dGhvcml0eTCBnzANBgkqhkiG9w0BAQEFAAOBjQAwgYkCgYEA5Rm/baNW
+YS2ZSHH2Z965jeu3noaACpEO+jglr0aIguVzqKCbJF0NH8xlbgyw0FaEGIeaBpsQ
+oXPftFg5a27B9hXVqKg/qhIGjTGsf7A01480Z4gJzRQR4k5FVmkfeAKA2txHkSm7
+NsljXMXg1y2He6G3MrB7MLoqLzGq7qNn2tsCAwEAATANBgkqhkiG9w0BAQIFAAOB
+gQBMP7iLxmjf7kMzDl3ppssHhE16M/+SG/Q2rdiVIjZoEWx8QszznC7EBz8UsA9P
+/5CSdvnivErpj82ggAr3xSnxgiJduLHdgSOjeyUVRjB5FvjqBUuUfx3CHMjjt/QQ
+QDwTw18fU+hI5Ia0e6E1sHslurjTjqs/OJ0ANACY89FxlDCCBu4wggXWoAMCAQIC
+EHEVZgVK5JEhTem8RPms09wwDQYJKoZIhvcNAQEFBQAwgcoxCzAJBgNVBAYTAlVT
+MRcwFQYDVQQKEw5WZXJpU2lnbiwgSW5jLjEfMB0GA1UECxMWVmVyaVNpZ24gVHJ1
+c3QgTmV0d29yazE6MDgGA1UECxMxKGMpIDE5OTkgVmVyaVNpZ24sIEluYy4gLSBG
+b3IgYXV0aG9yaXplZCB1c2Ugb25seTFFMEMGA1UEAxM8VmVyaVNpZ24gQ2xhc3Mg
+MSBQdWJsaWMgUHJpbWFyeSBDZXJ0aWZpY2F0aW9uIEF1dGhvcml0eSAtIEczMB4X
+DTA5MDUwMTAwMDAwMFoXDTE5MDQzMDIzNTk1OVowgd0xCzAJBgNVBAYTAlVTMRcw
+FQYDVQQKEw5WZXJpU2lnbiwgSW5jLjEfMB0GA1UECxMWVmVyaVNpZ24gVHJ1c3Qg
+TmV0d29yazE7MDkGA1UECxMyVGVybXMgb2YgdXNlIGF0IGh0dHBzOi8vd3d3LnZl
+cmlzaWduLmNvbS9ycGEgKGMpMDkxHjAcBgNVBAsTFVBlcnNvbmEgTm90IFZhbGlk
+YXRlZDE3MDUGA1UEAxMuVmVyaVNpZ24gQ2xhc3MgMSBJbmRpdmlkdWFsIFN1YnNj
+cmliZXIgQ0EgLSBHMzCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAO3E
+R98qKB18Bmu71yEyyWwTj+mxjUFONPfaC+Nq+mWIIAsRE+mb4ElOi2/VAdBfDUeR
+ilpMdD4/xpEJu0w0no1uoYJRYvdpdliWB6+eFBgHT1q9n9IxslQZc0ZqGUIR7BJz
+IY313DDN5dlWCjHFNm0pFJe9LdqJRxmI2EsEPeu2PGcedAATDdCG2pNn+DMDrho8
+a2l49sAsjuGDP3f5mf/+n1JawrSHCthsqUfBVCllQz5KwJYfwa33d69ssQRevsG2
+lC2XkC0n0rse6YNqhPbEsq4jBmUmpSdYKwcitG+mYkgad/LVUCeaKdOW+yj1uiR2
+YuOMWev7btVCxL5Bx/UCAwEAAaOCArkwggK1MDQGCCsGAQUFBwEBBCgwJjAkBggr
+BgEFBQcwAYYYaHR0cDovL29jc3AudmVyaXNpZ24uY29tMBIGA1UdEwEB/wQIMAYB
+Af8CAQAwcAYDVR0gBGkwZzBlBgtghkgBhvhFAQcXATBWMCgGCCsGAQUFBwIBFhxo
+dHRwczovL3d3dy52ZXJpc2lnbi5jb20vY3BzMCoGCCsGAQUFBwICMB4aHGh0dHBz
+Oi8vd3d3LnZlcmlzaWduLmNvbS9ycGEwNAYDVR0fBC0wKzApoCegJYYjaHR0cDov
+L2NybC52ZXJpc2lnbi5jb20vcGNhMS1nMy5jcmwwDgYDVR0PAQH/BAQDAgEGMG4G
+CCsGAQUFBwEMBGIwYKFeoFwwWjBYMFYWCWltYWdlL2dpZjAhMB8wBwYFKw4DAhoE
+FEtruSiWBgy70FI4mymsSweLIQUYMCYWJGh0dHA6Ly9sb2dvLnZlcmlzaWduLmNv
+bS92c2xvZ28xLmdpZjAuBgNVHREEJzAlpCMwITEfMB0GA1UEAxMWUHJpdmF0ZUxh
+YmVsNC0yMDQ4LTExODAdBgNVHQ4EFgQUeUdhCEH9OASiS+e1zPVD9kkrEfgwgfEG
+A1UdIwSB6TCB5qGB0KSBzTCByjELMAkGA1UEBhMCVVMxFzAVBgNVBAoTDlZlcmlT
+aWduLCBJbmMuMR8wHQYDVQQLExZWZXJpU2lnbiBUcnVzdCBOZXR3b3JrMTowOAYD
+VQQLEzEoYykgMTk5OSBWZXJpU2lnbiwgSW5jLiAtIEZvciBhdXRob3JpemVkIHVz
+ZSBvbmx5MUUwQwYDVQQDEzxWZXJpU2lnbiBDbGFzcyAxIFB1YmxpYyBQcmltYXJ5
+IENlcnRpZmljYXRpb24gQXV0aG9yaXR5IC0gRzOCEQCLW3VWhFSFCwDPrzhIzrGk
+MA0GCSqGSIb3DQEBBQUAA4IBAQA5Tc9BmYG1qQW1UjjpOYSJbOQ0qFrn2GwJTCQa
+ulmkhztzIfGTgc+/aGNaZ/41hSuhw12jSsI6Gd0w1sxN7/HSgZfKVFpDvzeLeo4Z
+jQ9DqIzyr2CzFYqzlZw84J6zJ5ikNXIX5fwqXYfTig3C0UUq+MD0rCqTOtWuEnAI
+6/s74nfs6CtkNXbNutrg0csU1nFYm77VPn222egkxSRmTF2RH3azFz5/DcYhiS+z
+N7ih/1yybUneZVJC+w6I0u1KHb9L4/jMcvpIDmWOScjW+JmYO7eUPjFxBof6bFlT
+LtffK+1fYwCsFe0DuFUWjMZoA+ciqHMLsbyg2lJY3QoOf8GCMIIEGjCCAwICEQCL
+W3VWhFSFCwDPrzhIzrGkMA0GCSqGSIb3DQEBBQUAMIHKMQswCQYDVQQGEwJVUzEX
+MBUGA1UEChMOVmVyaVNpZ24sIEluYy4xHzAdBgNVBAsTFlZlcmlTaWduIFRydXN0
+IE5ldHdvcmsxOjA4BgNVBAsTMShjKSAxOTk5IFZlcmlTaWduLCBJbmMuIC0gRm9y
+IGF1dGhvcml6ZWQgdXNlIG9ubHkxRTBDBgNVBAMTPFZlcmlTaWduIENsYXNzIDEg
+UHVibGljIFByaW1hcnkgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkgLSBHMzAeFw05
+OTEwMDEwMDAwMDBaFw0zNjA3MTYyMzU5NTlaMIHKMQswCQYDVQQGEwJVUzEXMBUG
+A1UEChMOVmVyaVNpZ24sIEluYy4xHzAdBgNVBAsTFlZlcmlTaWduIFRydXN0IE5l
+dHdvcmsxOjA4BgNVBAsTMShjKSAxOTk5IFZlcmlTaWduLCBJbmMuIC0gRm9yIGF1
+dGhvcml6ZWQgdXNlIG9ubHkxRTBDBgNVBAMTPFZlcmlTaWduIENsYXNzIDEgUHVi
+bGljIFByaW1hcnkgQ2VydGlmaWNhdGlvbiBBdXRob3JpdHkgLSBHMzCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBAN2E1Lm0+afY8wR4nN493GwTFtl63SRR
+ZsDHJlkNrAYIwpTRMx/wgzUfbhvI3qpuFU5UJ+/EbRrsC+MO8ESlV8dAWB6jRx9x
+7GD2bZTIGDnt/kIYVt/kTEkQeE4BdjVjEjbdZrwBBDajVWjVojYJrKshJlQGrT/K
+FOCsyq0GHZXi+J3x4GD/wn91K0zM2v6HmSHquv4+VNfSWXjbPG7PoBMAGrgnoeS+
+Z5bKoMWznN3JdZ7rMJpfo83ZrngZPyPpXNspva1VyBtUjGP26KbqxzcSXKMpHgLZ
+2x87tNcPVkeBFQRKr4Mn0cVYiMHd9qqnoxjaaKptEVHhv2Vrn5Z20T0CAwEAATAN
+BgkqhkiG9w0BAQUFAAOCAQEAq2aN17O6x5q25lXQBfGfMY1aqtmqRiYPce2lrVNW
+YgFHKkTp/j90CxObufRNG7LRX7K20ohcs5/Ny9Sn2WCVhDr4wTcdYcrnsMXlkdpU
+pqwxga6X3s0IrLjAl4B/bnKk52kTlWUfxJM8/XmPBNQ+T+r3ns7NZ3xPZQL/kYVU
+c8f/NveGLezQXk//EZ9yBta4GvFMDSZl4kSAHsef493oCtrspSCAaWihT37ha88H
+QfqDjrw43bAuEbFrskLMmrz5SCJ5ShkPshw+IHTZasO+8ih4E1Z5T21Q6huwtVex
+N2ZYI/PcD98Kh8TvhgXVOBRgmaNL3gaWcSzy27YfpO8/7jGCAs4wggLKAgEBMIHy
+MIHdMQswCQYDVQQGEwJVUzEXMBUGA1UEChMOVmVyaVNpZ24sIEluYy4xHzAdBgNV
+BAsTFlZlcmlTaWduIFRydXN0IE5ldHdvcmsxOzA5BgNVBAsTMlRlcm1zIG9mIHVz
+ZSBhdCBodHRwczovL3d3dy52ZXJpc2lnbi5jb20vcnBhIChjKTA5MR4wHAYDVQQL
+ExVQZXJzb25hIE5vdCBWYWxpZGF0ZWQxNzA1BgNVBAMTLlZlcmlTaWduIENsYXNz
+IDEgSW5kaXZpZHVhbCBTdWJzY3JpYmVyIENBIC0gRzMCEFB9b4j/0IqDTP7hHf9K
+JWowCQYFKw4DAhoFAKCBsTAYBgkqhkiG9w0BCQMxCwYJKoZIhvcNAQcBMBwGCSqG
+SIb3DQEJBTEPFw0xMTEyMTMwMzE2MDNaMCMGCSqGSIb3DQEJBDEWBBS7aIaquERL
+GXu4Frqdd2Y4iWDCOjBSBgkqhkiG9w0BCQ8xRTBDMAoGCCqGSIb3DQMHMA4GCCqG
+SIb3DQMCAgIAgDANBggqhkiG9w0DAgIBQDAHBgUrDgMCBzANBggqhkiG9w0DAgIB
+KDANBgkqhkiG9w0BAQEFAASCAQCdF9RDF11kmLCtWOtFAKl9DzVM0ZAncIqkWi94
+GdkDfXVKxV0NdQzrw1KvGQ8W9Ffa0NgCpaOVcG3d938JASiDkItLuKXJD7rGpxWo
+1W+ktIsjsqh469YJGY2MfqM2j3xo50v7RfVRaQ6/8p3la3eq/GI/TfzUDR3pp2tb
+G+bpX71fnKnh9UJZTm9fQLN/YRswZsbvZMdkKkpT4xW6dRRDMAx5K3GX2evs3z/S
+psbZH+io2M7dvBJrSlL8RQFNH5ArzfuRnOsUXMdbiwRTvVGUP2LJ3nUTGwAr3rth
+six8ajgHBKki7lb4YTmLWnOgT/G82jPgDa/+9PrsG0HnBq81
+
+------A0BD71708F2C67DED0DAA6C48A8443B8--

@@ -1,0 +1,51 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.54.134 with SMTP id q6csp467813vcg;
+        Tue, 10 Jul 2012 13:04:59 -0700 (PDT)
+Received: by 10.180.87.232 with SMTP id bb8mr41002457wib.0.1341950697901;
+        Tue, 10 Jul 2012 13:04:57 -0700 (PDT)
+Return-Path: <robin.kiebele@kjo-esslingen.de>
+Received: from smtprelay01.ispgateway.de (smtprelay01.ispgateway.de. [80.67.31.28])
+        by mx.google.com with ESMTP id o52si42741504wee.128.2012.07.10.13.04.55;
+        Tue, 10 Jul 2012 13:04:57 -0700 (PDT)
+Received-SPF: neutral (google.com: 80.67.31.28 is neither permitted nor denied by best guess record for domain of robin.kiebele@kjo-esslingen.de) client-ip=80.67.31.28;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 80.67.31.28 is neither permitted nor denied by best guess record for domain of robin.kiebele@kjo-esslingen.de) smtp.mail=robin.kiebele@kjo-esslingen.de
+Received: from [92.75.237.104] (helo=localhost)
+	by smtprelay01.ispgateway.de with esmtpa (Exim 4.68)
+	(envelope-from <robin.kiebele@kjo-esslingen.de>)
+	id 1Sogg3-0000aK-15
+	for ingo.skupin@googlemail.com; Tue, 10 Jul 2012 22:04:55 +0200
+Date: Tue, 10 Jul 2012 22:05:01 +0200
+Subject: =?ISO-8859-1?Q?AW:_R=FCckmeldung?=
+Message-ID: <9jj0md5agta0emmxu90rlr2x.1341950701243@email.android.com>
+Importance: normal
+From: Robin Kiebele <robin.kiebele@kjo-esslingen.de>
+To: ingo.skupin@googlemail.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="--_com.android.email_117055882952740"
+X-Df-Sender: cm9iaW4ua2llYmVsZUBram8tZXNzbGluZ2VuLmRl
+
+----_com.android.email_117055882952740
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+RGEgaXN0IG5peCBhdXNnZWbDvGxsdCEKCgpWb24gU2Ftc3VuZyBNb2JpbGUgZ2VzZW5kZXQKCi0t
+LS0tLS0tIE9yaWdpbmFsIG1lc3NhZ2UgLS0tLS0tLS0KU3ViamVjdDogUsO8Y2ttZWxkdW5nIApG
+cm9tOiBJbmdvIFNrdXBpbiBnbWFpbCA8aW5nby5za3VwaW5AZ29vZ2xlbWFpbC5jb20+IApUbzog
+Um9iaW4uS2llYmVsZUBram8tZXNzbGluZ2VuLmRlIApDQzogIAoKCg==
+
+----_com.android.email_117055882952740
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+
+PGh0bWw+PGhlYWQ+PG1ldGEgaHR0cC1lcXVpdj0iQ29udGVudC1UeXBlIiBjb250ZW50PSJ0ZXh0
+L2h0bWw7IGNoYXJzZXQ9VVRGLTgiPjwvaGVhZD48Ym9keT5EYSBpc3Qgbml4IGF1c2dlZsO8bGx0
+ITxicj48YnI+PGJyPjxzcGFuIHN0eWxlPSJmb250LXNpemU6ODclIj5Wb24gU2Ftc3VuZyBNb2Jp
+bGUgZ2VzZW5kZXQ8L3NwYW4+IDxicj48YnI+PGJyPi0tLS0tLS0tIE9yaWdpbmFsIG1lc3NhZ2Ug
+LS0tLS0tLS08YnI+U3ViamVjdDogUsO8Y2ttZWxkdW5nIDxicj5Gcm9tOiBJbmdvIFNrdXBpbiBn
+bWFpbCAmbHQ7aW5nby5za3VwaW5AZ29vZ2xlbWFpbC5jb20mZ3Q7IDxicj5UbzogUm9iaW4uS2ll
+YmVsZUBram8tZXNzbGluZ2VuLmRlIDxicj5DQzogIDxicj48YnI+PGJyPjxkaXYgc3R5bGU9Indv
+cmQtYnJlYWs6YnJlYWstYWxsOyI+PGJyPjwvZGl2PiA8L2JvZHk+
+
+----_com.android.email_117055882952740--
+
+

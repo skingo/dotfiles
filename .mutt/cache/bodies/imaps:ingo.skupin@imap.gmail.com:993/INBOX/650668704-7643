@@ -1,0 +1,81 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.163 with SMTP id i3csp153548pdr;
+        Mon, 9 Jun 2014 04:10:29 -0700 (PDT)
+X-Received: by 10.180.14.196 with SMTP id r4mr27526546wic.2.1402312228859;
+        Mon, 09 Jun 2014 04:10:28 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id v3si6678619wiy.20.2014.06.09.04.10.28
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 09 Jun 2014 04:10:28 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb107)
+ with ESMTPS (Nemesis) id 0LqBA4-1WGCsD39ZA-00dppU for
+ <ingo.skupin@gmail.com>; Mon, 09 Jun 2014 13:10:27 +0200
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.web.de (mxweb107) with
+ ESMTPS (Nemesis) id 0Le6sa-1WQ91h39NU-00pxJo for <ingo.skupin@web.de>; Mon,
+ 09 Jun 2014 13:10:25 +0200
+Received: from mout.gmx.net ([212.227.15.18]) by mx-ha.gmx.net (mxgmx108) with
+ ESMTPS (Nemesis) id 0LeRvN-1WPs3E1cXl-00qEBh; Mon, 09 Jun 2014 13:09:57 +0200
+Received: from [149.172.179.154] by 3capp-gmx-bs62 with HTTP; Mon, 9 Jun
+ 2014 13:09:56 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-19c28955-016c-456f-b7c1-1040b4ad27f8-1402312196877@3capp-gmx-bs62>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de,
+ BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de
+Subject: MV Notzingen, Dienstag Musikprobe Samstag Hochzeit
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 9 Jun 2014 13:09:56 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:Ht3Rf2CKFXO+7vrvVsZgoh5Ocu0CZ+ZUJjwOVlcOuZ1
+ CxHaQOc1VdmDwAM39xM4lBOeJ80VQ8QkyRZ0HoN16RkwU9lBvQ
+ 2S4negLybhYeaaxtLvnLFGCtCQQebOFVHCYVdn/byADXjTCMFg
+ h8goqh3t026cmXnCFplPWX5lIbPmcsBIOKnWzKRHLC/bMI09/g
+ 8ouZY9ZsyH1+8Jj7a+j0OjayeBkhUexVHf9RGPIJFTOF1tVqZk
+ AXNnQ/gUBSZ2N3bABNMpMu4WdXTjZQzEtIrqXEqadfpduYKrqa x6I1jc=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>
+<div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>am kommenden Samstag, 14.06.14, d&uuml;rfen wir die kirchliche Trauung von</div>
+
+<div>Janine Deuschle &amp; Kai Kirchmann</div>
+
+<div>musikalisch umrahmen.</div>
+
+<div>&nbsp;</div>
+
+<div>Die kommende Dienstagsprobe wird hierf&uuml;r nochmals gen&uuml;tzt</div>
+
+<div>die Musikst&uuml;cke zu proben, bitte zahlreich teilnehmen.</div>
+
+<div>&nbsp;</div>
+
+<div>Samstag 14.06.14</div>
+
+<div>Treffpunkt: 13:30 Gemeindehalle Notzingen</div>
+
+<div>Kirchliche Trauung: 15:00 Uhr evangelische Kirche</div>
+
+<div style="margin-left:35.4pt;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kirchstr. 4, in Deizisau &nbsp;</div>
+
+<div>mit Uniform&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>In den Pfingstferien ist durchgehend dienstags Musikprobe.</div>
+
+<div>&nbsp;</div>
+
+<div>Gr&uuml;&szlig;e</div>
+
+<div>J&uuml;rgen</div>
+</div></div></body></html>

@@ -1,0 +1,264 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.8.133 with SMTP id 127csp1115254ivi;
+        Sun, 27 Sep 2015 23:42:49 -0700 (PDT)
+X-Received: by 10.180.81.199 with SMTP id c7mr16160382wiy.87.1443422568908;
+        Sun, 27 Sep 2015 23:42:48 -0700 (PDT)
+Return-Path: <fmsebert@gmail.com>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id z17si3768204wij.90.2015.09.27.23.42.48
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 27 Sep 2015 23:42:48 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning fmsebert@gmail.com does not designate 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning fmsebert@gmail.com does not designate 212.227.17.11 as permitted sender) smtp.mailfrom=fmsebert@gmail.com;
+       dkim=pass header.i=@gmail.com
+Received: from [212.227.17.8] ([212.227.17.8]) by mx-ha.web.de (mxweb106) with
+ ESMTPS (Nemesis) id 0MLw0W-1ZjmbM1Udw-007lzj for <ingo.skupin@gmail.com>;
+ Mon, 28 Sep 2015 08:42:48 +0200
+Received: from mail-wi0-f178.google.com ([209.85.212.178]) by mx-ha.web.de
+ (mxweb106) with ESMTPS (Nemesis) id 0MMD7h-1Zk3aH1UVh-0082yc for
+ <ingo.skupin@web.de>; Mon, 28 Sep 2015 08:42:48 +0200
+Received: by mail-wi0-f178.google.com with SMTP id ge5so89997780wic.0
+        for <ingo.skupin@web.de>; Sun, 27 Sep 2015 23:42:48 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date:message-id:subject
+         :from:to:content-type;
+        bh=UhLwQfrJpOsyMVvlMvGus7KNAivTU/r6AZAZwohDCm0=;
+        b=K+7OMh9IvtGOZJWEdKUbRhEM49SthtBfwMj7MLofHk8WfDdwnkGipaGJYOrpDsQNcw
+         fjn1zHwOczIuXBx6Enr5M/UnCP0ScY4oiJdD85zXlTzvNir2AqN/Fsd+quU/Wh5SZWyu
+         z28CxV9htKOJuqN2sp9lNcxjXqFXLQIMNxl3NXf7n8pcq3EUGhQ2fp+mTxWcZZjUQa7D
+         oiDGCiOtBwzBMBQ3Vw3WG4lHhtIy89Go9xwKMUE822FZwZ7qi40kC4EIU3rlA6HhaMWJ
+         azGMpCtw4WDyRwMnhhPixnne+Fr4+ccrWQjv++seV5l9PReMt7BJ+4SM7/VIm/m89wy1
+         fApA==
+MIME-Version: 1.0
+X-Received: by 10.180.101.137 with SMTP id fg9mr16994464wib.35.1443422568151;
+ Sun, 27 Sep 2015 23:42:48 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.27.127.215 with HTTP; Sun, 27 Sep 2015 23:42:48 -0700 (PDT)
+In-Reply-To: <4F8D1D7A.2080105@gmx.de>
+References: <cfb06c6e-d612-4301-b34b-e1675bb71c39@email.android.com>
+	<3fab9348-11d0-465a-86df-7cf689d302b1@email.android.com>
+	<CAN1A5uAYfPgfH6A-W1+04SB3XfTgLGk3KPdhso76rSWDgb4mNA@mail.gmail.com>
+	<4F8D1D7A.2080105@gmx.de>
+Date: Mon, 28 Sep 2015 08:42:48 +0200
+X-Google-Sender-Auth: ztCos_xQ_gkn1BPegnN-809NVl4
+Message-ID: <CAN1A5uD_KhboYe2kmiGaPUyJKa2zFBX5_5u+zXvbRed4o6ZHhg@mail.gmail.com>
+Subject: Fwd: Kontodaten
+From: Florian Sebert <florian@floriansebert.de>
+To: Lukas Fischer <l.fischer@3-1415.de>, Ingo Skupin <ingo.skupin@web.de>
+Content-Type: multipart/alternative; boundary=f46d04462e706f81810520c90178
+X-UI-Out-Filterresults: notjunk:1;V01:K0:49E64HBaEzs=:37/fDCwzk3XzqfwJcVE+K5
+ GT4OdXKjWGsX1wSYfR3WPDACswF5+s/toYIV+0K481ujezKd5o9lB0I1ZjsTkGcgJaRPysLCh
+ ilSFsY6rekZfyi88GFL2RA5fiEEs+ddZn6E4VW4rKkrx+TtZ1bz8f4D5x1GeyuP9XiPpBvMiL
+ aRLcljsb1e2KER+Ipu+dP1H7P+eUd5q9SlgwJ/NJXYpuOAX5LfpMHqAz2dtT1FeIfWtNsufRC
+ w9rjB62vNEa4CfrVppZBE1x80wBL9uboMVG6ryrrlti8H/S1eWEz0lgOhSQthdLQ72kV9BJJu
+ K4q4ZsdtTuMWHmCyogqRa6KZ4hN3ccxKzAJV9UaJEPUbgBO+ZW8hsmuAXHisohRZ8ynpEj5C7
+ tGmGtU3loAXAS4EgGo4NaL6pOi3tNKdOjyzB4rBfshWrQut7nl/e6fZGzqkovLuMEGr9sD6Eo
+ SoexvOVNvNSooB98bDpR+aupotZfDIyvdIxBKCxU8WjYT5sSPBPnDow+v/csYVXdPTap2c5qi
+ k4p6nr3yyN/IZe89MSP3WPds3d93syUs522+Ohua0BvVGHWWIRPcJ2JcA7c41D7oieOhLYQBa
+ 0Bw6bCbGtlzootEQZngp7R3RdYmwChnEQDcHOafW/jsehtLTxyanafLXkJq3iVnBdj0GR2Y0M
+ +cC8C5Uy24yQK3d+CRDZWtnW1nOoWlCdRsKaUH1r4bAa6FhpFGPC1lP9kwR7LxR5FNMt82aXi
+ MRXd3tNmCk9FzTKl6NMrr2Wm/iM2QWEyj5U7LubwsSO0b5stmh4/rm9yMapJkAvc3Kcgg7EkB
+ 14gaeeb/zzhNH7Hde1XIw7CIt84PP4qiO2iu0qwUPNNamxz21X9V9BL4kWYWWMmyyc5XBqepp
+ qUBOKLkGz7Ct11gFIJG5NWaHaD8e1709kVxvJo1rM=
+
+--f46d04462e706f81810520c90178
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+---------- Forwarded message ----------
+From: Daniel Metzger <jandan@gmx.de>
+Date: 2012-04-17 9:36 GMT+02:00
+Subject: Kontodaten
+To: Florian Sebert <florian@floriansebert.de>
+
+
+Hallo Florian,
+
+um das mit dem Geld m=C3=B6glichst schnell abzuschlie=C3=9Fen brauch ich de=
+ine
+Kontodaten - dann w=C3=BCrd ich die 150=E2=82=AC =C3=BCberweisen.
+
+Gr=C3=BC=C3=9Fe
+Daniel
+
+Am 15.04.2012 19:37, schrieb Florian Sebert:
+
+> Hallo nochmal,
+>
+> das mit der Dropbox ist suboptimal, wenn es um Bilder geht.
+>
+> Ich habe deshalb ein google+ Konto angelegt, unter welchem man die
+> Bilder speichern kann. Ihr m=C3=BCsst euch - trotz zwangsl=C3=A4ufig
+> verschickter Einladungen - nicht dazu anmelden. Ihr k=C3=B6nnt alle einfa=
+ch
+> die Zugangsdaten dieses einen Account verwenden um eure Bilder und
+> Filme hochzuladen.
+>
+> Login:       saxophon.ensemble
+> Passwort: vino rosso
+>
+> Es w=C3=A4re super, wenn ihr eure Bilder/Videos in der f=C3=BCr das onlin=
+e
+> sharing optimierten Gr=C3=B6=C3=9Fe (das ist die Standardeinstellung) in =
+das
+> bereits angelegte Album hochladen k=C3=B6nntet. Weniges gibt es zu
+> beachten:
+>
+> 1. Eine kleine Bildunterschrift w=C3=A4re fein,
+> 2. in jedem Fall aber bitte ein Tag mit eurem Namen der Form "--
+> <Name>", damit man ggf. die Originale nachfragen kann.
+> 3. Die Bilder bitte in ihrer zeitlichen Abfolge anordnen.
+> 4. Die in den Bildern abgebildeten Ensemblemitglieder taggen
+> (optional, aber eine super Sache!)
+>
+> Noch ein Tipp: Mit der Picasa-Software geht es noch schneller und
+> einfacher als =C3=BCber die Website selbst!
+>
+> Bei Fragen stehe ich nat=C3=BCrlich gerne zur Verf=C3=BCgung.
+>
+> Liebe Gr=C3=BC=C3=9Fe
+> Florian
+>
+> 2012/4/15 Florian Sebert<florian@floriansebert.de>:
+>
+>> Hallo zusammen,
+>>
+>> nachdem das Konsolidieren der individuellen Fotoarchive w=C3=A4hrend der=
+ Reise
+>> -
+>> wie bef=C3=BCrchtet - str=C3=A4flich vernachl=C3=A4ssigt wurde und zum T=
+eil auch aufgrund
+>> technischer Limitationen schlicht unm=C3=B6glich war, m=C3=B6chte ich hi=
+ermit dazu
+>> aufrufen, INNERHALB DER N=C3=84CHSTEN TAGE eure Speicherkarten nach lust=
+igen,
+>> interessanten, k=C3=BCnstlerisch wertvollen, geselligen, entlarvenden,
+>> idyllischen, romantischen oder einfach sehenswerten Bildern zu
+>> durchforsten
+>> und dann in ein auf euren Namen lautendes Unterverzeichnis unseres Dropb=
+ox
+>> Folders hochzuladen:
+>>
+>>
+>> http://db.tt/BoWdlnaS
+>>
+>> Ich werde baldm=C3=B6glichst mit gutem Beispiel voranzugehen versuchen :=
+-)
+>>
+>> Liebe Gr=C3=BC=C3=9Fe
+>> Florian
+>> --
+>> Sent via K-9 for Android on Galaxy S2.
+>>
+>>
+>>
+>> Martina Pfister<martina@pfister-heidelberg.de>  schrieb:
+>>
+>
+>
+>
+
+--f46d04462e706f81810520c90178
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><br><div class=3D"gmail_quote">---------- Forwarded messag=
+e ----------<br>From: <b class=3D"gmail_sendername">Daniel Metzger</b> <spa=
+n dir=3D"ltr">&lt;<a href=3D"mailto:jandan@gmx.de">jandan@gmx.de</a>&gt;</s=
+pan><br>Date: 2012-04-17 9:36 GMT+02:00<br>Subject: Kontodaten<br>To: Flori=
+an Sebert &lt;<a href=3D"mailto:florian@floriansebert.de">florian@florianse=
+bert.de</a>&gt;<br><br><br>Hallo Florian,<br>
+<br>
+um das mit dem Geld m=C3=B6glichst schnell abzuschlie=C3=9Fen brauch ich de=
+ine Kontodaten - dann w=C3=BCrd ich die 150=E2=82=AC =C3=BCberweisen.<br>
+<br>
+Gr=C3=BC=C3=9Fe<br>
+Daniel<br>
+<br>
+Am 15.04.2012 19:37, schrieb Florian Sebert:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+Hallo nochmal,<br>
+<br>
+das mit der Dropbox ist suboptimal, wenn es um Bilder geht.<br>
+<br>
+Ich habe deshalb ein google+ Konto angelegt, unter welchem man die<br>
+Bilder speichern kann. Ihr m=C3=BCsst euch - trotz zwangsl=C3=A4ufig<br>
+verschickter Einladungen - nicht dazu anmelden. Ihr k=C3=B6nnt alle einfach=
+<br>
+die Zugangsdaten dieses einen Account verwenden um eure Bilder und<br>
+Filme hochzuladen.<br>
+<br>
+Login:=C2=A0 =C2=A0 =C2=A0 =C2=A0saxophon.ensemble<br>
+Passwort: vino rosso<br>
+<br>
+Es w=C3=A4re super, wenn ihr eure Bilder/Videos in der f=C3=BCr das online<=
+br>
+sharing optimierten Gr=C3=B6=C3=9Fe (das ist die Standardeinstellung) in da=
+s<br>
+bereits angelegte Album hochladen k=C3=B6nntet. Weniges gibt es zu<br>
+beachten:<br>
+<br>
+1. Eine kleine Bildunterschrift w=C3=A4re fein,<br>
+2. in jedem Fall aber bitte ein Tag mit eurem Namen der Form &quot;--<br>
+&lt;Name&gt;&quot;, damit man ggf. die Originale nachfragen kann.<br>
+3. Die Bilder bitte in ihrer zeitlichen Abfolge anordnen.<br>
+4. Die in den Bildern abgebildeten Ensemblemitglieder taggen<br>
+(optional, aber eine super Sache!)<br>
+<br>
+Noch ein Tipp: Mit der Picasa-Software geht es noch schneller und<br>
+einfacher als =C3=BCber die Website selbst!<br>
+<br>
+Bei Fragen stehe ich nat=C3=BCrlich gerne zur Verf=C3=BCgung.<br>
+<br>
+Liebe Gr=C3=BC=C3=9Fe<br>
+Florian<br>
+<br>
+2012/4/15 Florian Sebert&lt;<a href=3D"mailto:florian@floriansebert.de" tar=
+get=3D"_blank">florian@floriansebert.de</a>&gt;:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+Hallo zusammen,<br>
+<br>
+nachdem das Konsolidieren der individuellen Fotoarchive w=C3=A4hrend der Re=
+ise -<br>
+wie bef=C3=BCrchtet - str=C3=A4flich vernachl=C3=A4ssigt wurde und zum Teil=
+ auch aufgrund<br>
+technischer Limitationen schlicht unm=C3=B6glich war, m=C3=B6chte ich hierm=
+it dazu<br>
+aufrufen, INNERHALB DER N=C3=84CHSTEN TAGE eure Speicherkarten nach lustige=
+n,<br>
+interessanten, k=C3=BCnstlerisch wertvollen, geselligen, entlarvenden,<br>
+idyllischen, romantischen oder einfach sehenswerten Bildern zu durchforsten=
+<br>
+und dann in ein auf euren Namen lautendes Unterverzeichnis unseres Dropbox<=
+br>
+Folders hochzuladen:<br>
+<br>
+<br>
+<a href=3D"http://db.tt/BoWdlnaS" rel=3D"noreferrer" target=3D"_blank">http=
+://db.tt/BoWdlnaS</a><br>
+<br>
+Ich werde baldm=C3=B6glichst mit gutem Beispiel voranzugehen versuchen :-)<=
+br>
+<br>
+Liebe Gr=C3=BC=C3=9Fe<br>
+Florian<span class=3D"HOEnZb"><font color=3D"#888888"><br>
+--<br>
+Sent via K-9 for Android on Galaxy S2.<br>
+<br>
+<br>
+<br>
+Martina Pfister&lt;<a href=3D"mailto:martina@pfister-heidelberg.de" target=
+=3D"_blank">martina@pfister-heidelberg.de</a>&gt;=C2=A0 schrieb:<br>
+</font></span></blockquote><span class=3D"HOEnZb"><font color=3D"#888888">
+<br>
+<br>
+</font></span></blockquote>
+<br>
+</div><br></div>
+
+--f46d04462e706f81810520c90178--

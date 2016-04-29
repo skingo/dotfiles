@@ -1,0 +1,32 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.199.77 with SMTP id er13cs66885vcb;
+        Mon, 17 Oct 2011 06:55:03 -0700 (PDT)
+Received: by 10.223.16.82 with SMTP id n18mr24442388faa.2.1318859702967;
+        Mon, 17 Oct 2011 06:55:02 -0700 (PDT)
+Return-Path: <www-data@mail.uniturm.de>
+Received: from mail.uniturm.de (eddie.uniturm.de. [88.198.22.34])
+        by mx.google.com with ESMTPS id w24si2105642faj.187.2011.10.17.06.55.02
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 17 Oct 2011 06:55:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of www-data@mail.uniturm.de designates 88.198.22.34 as permitted sender) client-ip=88.198.22.34;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of www-data@mail.uniturm.de designates 88.198.22.34 as permitted sender) smtp.mail=www-data@mail.uniturm.de
+Received: by mail.uniturm.de (Postfix, from userid 33)
+	id 5B2BB104083A; Mon, 17 Oct 2011 15:55:02 +0200 (CEST)
+To: ingo.skupin@gmail.com
+Subject: =?UTF-8?B?VW5pdHVybSBBY2NvdW50IGFrdGl2aWVyZW4=?=
+FROM: Uniturm.de-Flaschenpost <flaschenpost@uniturm.de>
+Date: Mon, 17 Oct 2011 15:55:02 +0200
+X-Sent-by: Uniturm Mailer v1.0
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8Bit
+Message-Id: <20111017135502.5B2BB104083A@mail.uniturm.de>
+
+
+Hallo Skinge!
+
+Bitte klicke auf den folgenden Link, um deinen Account zu aktivieren: 
+
+http://www.uniturm.de/activate_account?u=75955&a=727e430a6df2
+
+ und um fortfahren können.

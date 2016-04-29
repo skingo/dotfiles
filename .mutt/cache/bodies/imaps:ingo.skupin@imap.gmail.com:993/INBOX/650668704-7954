@@ -1,0 +1,58 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.141.6.198 with SMTP id i189csp433754qhd;
+        Wed, 27 Aug 2014 11:28:50 -0700 (PDT)
+X-Received: by 10.112.105.168 with SMTP id gn8mr21699055lbb.77.1409164130126;
+        Wed, 27 Aug 2014 11:28:50 -0700 (PDT)
+Return-Path: <Musikverein.Notzingen@gmx.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id kt1si1815496lac.68.2014.08.27.11.28.49
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 27 Aug 2014 11:28:50 -0700 (PDT)
+Received-SPF: pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.17.11 as permitted sender) smtp.mail=Musikverein.Notzingen@gmx.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb101)
+ with ESMTPS (Nemesis) id 0M6TUV-1WPGYd17ql-00yPWi; Wed, 27 Aug 2014 20:28:48
+ +0200
+Received: from mout.gmx.net ([212.227.17.20]) by mx-ha.web.de (mxweb101) with
+ ESMTPS (Nemesis) id 0MfGHG-1Wy3HG17gQ-00Onez for <jklima@web.de>; Wed, 27 Aug
+ 2014 20:28:48 +0200
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.gmx.net (mxgmx112) with
+ ESMTPS (Nemesis) id 0LmO0k-1Wn61a0xZS-00ZvOt; Wed, 27 Aug 2014 20:28:32 +0200
+Received: from [84.133.229.23] by 3capp-gmx-bs07.server.lan (via HTTP); Wed,
+ 27 Aug 2014 20:28:31 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-6b15cd47-e43f-425d-ae33-1e7e19c49b76-1409164111779@3capp-gmx-bs07>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_Holz+Dirigent Blasorchester"
+ <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>,
+ "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>
+Subject: =?UTF-8?Q?St=C3=A4ndle_Sonntag?=
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 27 Aug 2014 20:28:31 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:fdtrg05oLMFkyb9X3jykInCYGJpEhXVq8iznm7GNMB7
+ ABLNEu0ATm8dVsFcDT/ul1pgH6NQigPByVlEkzdCOTBeZ7HDuu
+ ATteV0e6bSW3orKfkbgspBnVpX2RvCqf6JSGLqg/8HmqvHVUp0
+ KenMOk9WI+wiVCQO4kkO5dCD5uzk/11WuxZvegoegz28Pxm/0f
+ 1OWmoCzxPqbV6i4tlVdDIU+5G+zk7wfZBxBzCsTdxkvsI4tI/Z
+ 2kSfpY6X9apuHw1Fgg3kMeArc9OFwCNK6Xi60a5rq4kPaOqneN EliX9E=
+X-UI-Out-Filterresults: notjunk:1;
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>Rene und ich haben entschieden dass St&auml;ndle am Sonntag</div>
+
+<div>zu spielen.</div>
+
+<div>10.30 Uhr&nbsp; bei Hans Eberle&nbsp; &Ouml;tlinger Str.</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig; Timo</div>
+
+<div>ps des ist dort wo die Jugend auch an Heilig Abend immer spielt</div></div></body></html>

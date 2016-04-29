@@ -1,0 +1,117 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp90363pdb;
+        Sat, 16 Nov 2013 06:41:54 -0800 (PST)
+X-Received: by 10.66.146.199 with SMTP id te7mr12252676pab.106.1384612913889;
+        Sat, 16 Nov 2013 06:41:53 -0800 (PST)
+Return-Path: <no-reply@dropbox.com>
+Received: from sjd-ra1-10a.sjc.dropbox.com (sjd-ra1-10a.sjc.dropbox.com. [108.160.165.85])
+        by mx.google.com with ESMTPS id rw4si4975176pac.91.2013.11.16.06.41.53
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sat, 16 Nov 2013 06:41:53 -0800 (PST)
+Received-SPF: pass (google.com: domain of no-reply@dropbox.com designates 108.160.165.85 as permitted sender) client-ip=108.160.165.85;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of no-reply@dropbox.com designates 108.160.165.85 as permitted sender) smtp.mail=no-reply@dropbox.com;
+       dkim=pass (test mode) header.i=@dropbox.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=dropbox.com
+Received: from snt-web809.sjc.dropbox.com (snt-web809.sjc.dropbox.com [10.12.61.182])
+	by sjd-ra1-10a.sjc.dropbox.com (Postfix) with ESMTP id 849642003C09B
+	for <ingo.skupin@googlemail.com>; Sat, 16 Nov 2013 14:41:53 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1384612913; bh=qtABFNW6xnIedyThiAmGyPWD0Dcg5kCqc8eaWQ3i4xw=;
+	h=From:To:Subject:Date:Reply-To;
+	b=T6hDSYq1Tgu6e/wYAuEpWVpqJaLp6xJy5rQ8WV2vSAz91HJWjMYeXDJYGgsDuNj3m
+	 4lSo9zdOGSLT+piM28zmzhw4+8bF+3/q2XfRji3JRJCA09tgV2PZns32GPTDIZS9p8
+	 3rK1KV6GyVoZieZLTTtqkKCj4X0Yt5IzLSrg/l7s=
+Received: from snt-web809.sjc.dropbox.com (localhost [127.0.0.1])
+	by snt-web809.sjc.dropbox.com (Postfix) with ESMTP id 7D7CFE2008C
+	for <ingo.skupin@googlemail.com>; Sat, 16 Nov 2013 14:41:53 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============0439833203535101984=="
+MIME-Version: 1.0
+From: Nicolas via Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@googlemail.com
+Subject: =?utf-8?q?Nicolas_Allgaier_m=C3=B6chte_=E2=80=9EAufnahmen=E2=80=9C_f?=
+ =?utf-8?q?=C3=BCr_Sie_freigeben=0D=0A?=
+Date: Sat, 16 Nov 2013 14:41:53 +0000
+Reply-To: n.allgaier@gmx.de
+Message-Id: <20131116144153.7D7CFE2008C@snt-web809.sjc.dropbox.com>
+
+--===============0439833203535101984==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+Nicolas (n.allgaier@gmx.de) m=C3=B6chte =C3=BCber Dropbox einige Dateien in=
+ einem Ordner namens =E2=80=9EAufnahmen=E2=80=9C f=C3=BCr Sie freigeben.
+
+ =E2=80=9EAufnahmen=E2=80=9C ansehen
+https://www.dropbox.com/l/EaNkTcDh8PFwsH22pTdXke/invite?text=3D1
+
+Viel Vergn=C3=BCgen!
+Das Dropbox-Team
+--===============0439833203535101984==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"></head><body style=3D"widt=
+h: 100% !important; margin: 0; padding: 0; -webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%;" marginheight=3D"0" marginwidth=3D"0"><center><=
+table cellpadding=3D"8" cellspacing=3D"0" style=3D"background-color: #fffff=
+f; background: #ffffff; width: 100% !important; margin: 0; padding: 0; *wid=
+th:528px;" border=3D"0"><tr><td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0"><t=
+r><td bgcolor=3D"#b9e1fb" align=3D"center" style=3D"font-size: 0px;" height=
+=3D"1"><img src=3D"https://www.dropbox.com/static/images/emails/email_heade=
+r.jpg" alt=3D"" style=3D"width:100%; max-height:129px; *width:528px; *heigh=
+t:129px;"></td></tr><tr><td><table cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"border-left: 1px #b9e1fb solid; border-right: 1px #b9e1fb solid; borde=
+r-bottom: 1px #b9e1fb solid; -webkit-border-radius: 0px 0px 4px 4px; border=
+-radius: 0px 0px 4px 4px; -moz-border-radius-bottomright: 4px; -moz-border-=
+radius-bottomleft: 4px;" border=3D"0" align=3D"center"><tr><td colspan=3D"3=
+" height=3D"36"></td></tr><tr><td width=3D"36"></td>
+<td width=3D"454" style=3D"font-size: 14px; color: #444444; font-family: 'O=
+pen Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicod=
+e', Tahoma, 'Sans Serif'; border-collapse: collapse;" align=3D"left" valign=
+=3D"top"> Hallo,<br><br>der Nutzer mit der E-Mail-Adressen.allgaier@gmx.de =
+m=C3=B6chte =C3=BCber Dropbox einige Dateien in einem Ordner namens =E2=80=
+=9EAufnahmen=E2=80=9C f=C3=BCr Sie freigeben.<br><br><center><a style=3D"bo=
+rder-radius: 3px; box-shadow: 0 1px 1px #cccccc, inset 0 1px 0 #83C5F1; -mo=
+z-text-shadow: #355782 0 1px 2px; border-left: 1px #18639A solid; font-size=
+: 16px; border-bottom: 1px #0F568B solid; padding: 14px 7px 14px 7px; text-=
+shadow: #355782 0 1px 2px; border-top: 1px #2270AB solid; display: block; -=
+webkit-box-shadow: 0 1px 1px #444444, inset 0 1px 0 #83C5F1; max-width: 210=
+px; font-family: 'Open Sans', 'lucida grande', 'Segoe UI', arial, verdana, =
+'lucida sans unicode', tahoma, sans-serif;; -moz-border-radius: 3px; text-a=
+lign: center; background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, fr=
+om(rgb(55, 163, 235)), to(rgb(33, 129, 207))); width: 210px; -webkit-border=
+-radius: 3px; -moz-box-shadow: 0 1px 1px #444444 inset 0 1px 0 #83c5f1; tex=
+t-decoration: none; color: white; border-right: 1px #18639A solid; font-wei=
+ght: 600; margin: 0px auto 0px auto; -webkit-text-shadow: #355782 0 1px 2px=
+; background-color: #33A0E8;" href=3D"https://www.dropbox.com/l/adj6DYMQqwT=
+Bd5gDVITKLd/invite">Ordner ansehen</a></center>
+<br>Viel Vergn=C3=BCgen!<br>Das Dropbox-Team<script type=3D"application/ld+=
+json">{"action": {"url": "https://www.dropbox.com/invite?k=3DA4dvjR4l1AvlgK=
+mimq69FosATSYDz8g4", "name": "View folder", "@type": "ViewAction"}, "@conte=
+xt": "http://schema.org", "@type": "EmailMessage", "description": "shared f=
+older invitation"}</script></td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: 'Ope=
+n Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode'=
+, Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;" valign=3D"top"><td=
+ width=3D"400" align=3D"left"></td>
+<td width=3D"128" align=3D"right">=C2=A9 2013 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/UXCT6bBzfZBGWIllw4DmP7" heig=
+ht=3D"1" />
+--===============0439833203535101984==--

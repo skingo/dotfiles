@@ -1,0 +1,88 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.142.50.12 with SMTP id x12cs87529wfx;
+        Tue, 25 Oct 2011 02:04:12 -0700 (PDT)
+Received: by 10.52.30.47 with SMTP id p15mr9284041vdh.79.1319533451404;
+        Tue, 25 Oct 2011 02:04:11 -0700 (PDT)
+Return-Path: <matzemuellerwhm@aol.com>
+Received: from ims-d13.mx.aol.com (ims-d13.mx.aol.com. [205.188.249.150])
+        by mx.google.com with ESMTP id z11si4640513vcv.13.2011.10.25.02.04.11;
+        Tue, 25 Oct 2011 02:04:11 -0700 (PDT)
+Received-SPF: pass (google.com: domain of matzemuellerwhm@aol.com designates 205.188.249.150 as permitted sender) client-ip=205.188.249.150;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of matzemuellerwhm@aol.com designates 205.188.249.150 as permitted sender) smtp.mail=matzemuellerwhm@aol.com
+Received: from oms-mb04.r1000.mx.aol.com (oms-mb04.r1000.mx.aol.com [64.12.102.140])
+	by ims-d13.mx.aol.com (8.14.1/8.14.1) with ESMTP id p9P93v2U014141
+	for <ingo.skupin@googlemail.com>; Tue, 25 Oct 2011 05:04:01 -0400
+Received: from mtaout-db01.r1000.mx.aol.com (mtaout-db01.r1000.mx.aol.com [172.29.51.193])
+	by oms-mb04.r1000.mx.aol.com (AOL Outbound OMS Interface) with ESMTP id B2CE71C000095
+	for <ingo.skupin@googlemail.com>; Tue, 25 Oct 2011 05:04:00 -0400 (EDT)
+Received: from [192.168.2.129] (p5492FD4A.dip.t-dialin.net [84.146.253.74])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaout-db01.r1000.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id BF303E0000EE
+	for <ingo.skupin@googlemail.com>; Tue, 25 Oct 2011 05:03:59 -0400 (EDT)
+Message-ID: <4EA67B7D.2080001@aol.com>
+Date: Tue, 25 Oct 2011 11:03:57 +0200
+From: =?UTF-8?B?TWF0dGhpYXMgTcO8bGxlcg==?= <matzemuellerwhm@aol.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20110929 Thunderbird/7.0.1
+MIME-Version: 1.0
+To: Ingo Skupin gmail <ingo.skupin@googlemail.com>
+Subject: Re: ETI =?UTF-8?B?w5xidW5nc2JsYXR0IG5yMSBkaWUgendlaXRl?=
+References: <4EA5450A.5040205@googlemail.de> <4EA59BB7.9030907@googlemail.de> <4EA5BEC1.30805@aol.com> <4EA667C0.7090902@googlemail.de>
+In-Reply-To: <4EA667C0.7090902@googlemail.de>
+Content-Type: text/plain; charset=UTF-8; format=flowed
+Content-Transfer-Encoding: 8bit
+x-aol-global-disposition: S
+X-SPAM-FLAG:YES
+X-AOL-SCOLL-SCORE: 0:2:323459904:93952408  
+X-AOL-SCOLL-URL_COUNT: 0  
+X-AOL-REROUTE: YES 
+x-aol-sid: 3039ac1d33c14ea67b7f0730
+X-AOL-IP: 84.146.253.74
+
+Oke, danke,
+ich komm bissle später in eti (wenns überhaupt reicht),
+Die Werkstatt wurde mit meim Auto nicht fertig...
+Bis später und viel Erfolg in der pü,
+mir blüht die heut abend auch noch...
+
+Am 25.10.2011 09:39, schrieb Ingo Skupin gmail:
+> hey,
+> kein Problem, ich hätte es gestern abend eh nicht mehr gelesen.
+> Die Namen stehen schon drin, ist halt leider ein bisschen schlecht zu 
+> sehen, aber ich habs mit latex auch noch nicht wirklich drauf und hab 
+> keine bessere möglichkeit gefunden (ich benutz lyx für latex, da muss 
+> man des nicht können, da schreibt man einfach sein zeug und des macht 
+> alles wichtige selber^^).
+> Hab die letzte aufgabe geändert, du hast recht, sieht so viel besser aus.
+> ich lade es jetzt mal hoch, muss gleich noch in die pü.
+>
+> grüßle Ingo
+>
+> Am Montag, 24. Oktober 2011 21:38:41 schrieb Matthias Müller:
+>> Hallöchen,
+>> sry dass ich erst jetzt schreib, bin aber erst um die halb acht 
+>> heimgekommen von 12stund uni und musste ne pause einlegen.
+>> also hab drüber geguckt, die zwei könntest du mir vielleicht bei 
+>> glegenheit mal erklären da kam ich nicht dahinter,
+>> den Rest hab ich auch, bei der letzten (4c?) hätt ich jetzt die 
+>> 0,001W(wenn ich s richtig im kopf hab) nicht unbedingt als 2*10^-2 
+>> angegeben aber kommt sich auf s gleiche.
+>> Sry ich hab jetzt noch kein LaTeX drauf, bin da au noch gänzlich 
+>> ungeübt, würdest du die Namen noch einfügen?
+>> Grüßle,
+>> und danke für s tippen, des hätt ich heut noch vor mir gehabt...
+>> Matze.
+>>
+>> Am 24.10.2011 19:09, schrieb Ingo Skupin gmail:
+>>>
+>>> Hi,
+>>>
+>>> ich hab jetzt mal alles fertig gemacht, bin offen für 
+>>> Korrekturen/Wünsche etc ;)
+>>> Weil wir ja alles elektronisch abgeben müssen, schick ich dir den 
+>>> Quellcode auch mal mit, dann ist man flexibler.
+>>>
+>>> LG
+>>> Ingo
+>>
+

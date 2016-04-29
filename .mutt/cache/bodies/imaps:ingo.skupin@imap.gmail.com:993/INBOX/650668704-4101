@@ -1,0 +1,336 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp482815vcb;
+        Tue, 30 Oct 2012 16:33:19 -0700 (PDT)
+Received: by 10.14.207.68 with SMTP id m44mr62170995eeo.40.1351639998199;
+        Tue, 30 Oct 2012 16:33:18 -0700 (PDT)
+Return-Path: <peter.nikolaus@arcor.de>
+Received: from mail-in-07.arcor-online.net (mail-in-07.arcor-online.net. [151.189.21.47])
+        by mx.google.com with ESMTPS id l45si1197850eep.63.2012.10.30.16.33.16
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 30 Oct 2012 16:33:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of peter.nikolaus@arcor.de designates 151.189.21.47 as permitted sender) client-ip=151.189.21.47;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of peter.nikolaus@arcor.de designates 151.189.21.47 as permitted sender) smtp.mail=peter.nikolaus@arcor.de; dkim=pass (test mode) header.i=@arcor.de
+Received: from mail-in-13-z2.arcor-online.net (mail-in-13-z2.arcor-online.net [151.189.8.30])
+	by mx.arcor.de (Postfix) with ESMTP id D6EA4107C33;
+	Wed, 31 Oct 2012 00:33:15 +0100 (CET)
+Received: from mail-in-16.arcor-online.net (mail-in-16.arcor-online.net [151.189.21.56])
+	by mail-in-13-z2.arcor-online.net (Postfix) with ESMTP id D53B714A14E;
+	Wed, 31 Oct 2012 00:33:15 +0100 (CET)
+Received: from [192.168.178.20] (dslb-088-065-029-198.pools.arcor-ip.net [88.65.29.198])
+	(Authenticated sender: peter.nikolaus@arcor.de)
+	by mail-in-16.arcor-online.net (Postfix) with ESMTPA id 1B3A98529;
+	Wed, 31 Oct 2012 00:33:15 +0100 (CET)
+X-DKIM: Sendmail DKIM Filter v2.8.2 mail-in-16.arcor-online.net 1B3A98529
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=arcor.de; s=mail-in;
+	t=1351639995; bh=8qROGOMFzck8irEL3IqfxTt3CXlNlyXytuYBg0xFsaw=;
+	h=Message-ID:Date:From:MIME-Version:To:CC:Subject:Content-Type;
+	b=Cn6i6mNT3ShNIGieBXiTS6EL5huYBiwDpSRu52KtnKFRcLOEgm4V00S8sHfctyW3V
+	 HTizNJu6Dlbm83OswffDuFbqqLs+QlzairIFTUKG+jQEFvRQIzdcy0RctGQ0UjC5tX
+	 1VJKmG8FUPPtOBSK2ZlmgVl9AizdxCuQF/GmgBI0=
+Message-ID: <509063B9.4040101@arcor.de>
+Date: Wed, 31 Oct 2012 00:33:13 +0100
+From: Peter Nikolaus <peter.nikolaus@arcor.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.0; rv:16.0) Gecko/20121026 Thunderbird/16.0.2
+MIME-Version: 1.0
+To: natcrozet@yahoo.fr, elsa_g@gmx.de, ingo.skupin@gmail.com
+CC: Margit Haug <margit.haug@ennulat.de>, klaus@pezina.de
+Subject: Herzlich willkommen bei der Concert Band
+Content-Type: multipart/alternative;
+ boundary="------------070101090003030800000903"
+
+This is a multi-part message in MIME format.
+--------------070101090003030800000903
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Liebe Neu-Mitglieder der Concert Band,
+
+zunächst nochmals auf diesem Wege herzlich willkommen bei der Concert 
+Band der Uni Hohenheim.
+
+Jetzt bekommt Ihr eine ganze Menge Infos, aber da müsst Ihr jetzt 
+durch... ;-)
+
+Margit Haug (Posaune) pflegt in der Concert Band die zentrale 
+Adressendatei. Bei ihr habt Ihr in der letzten Probe Eure Adressdaten 
+hinterlassen. Sie wird nochmals einzeln auf Euch zukommen, falls ihr 
+noch Infos fehlen.
+Sollten sich Änderungen bei Euren Adressen ergeben, solltet Ihr sie 
+bitte unter margit.haug@ennulat.de oder in der Probe informieren.
+
+Ich, (Peter Nikolaus, Horn) bin für den Internetauftritt der Concert 
+Band zuständig, den Ihr unter www.concertband.de erreicht.
+
+Dort gibt es u.a. einen Intern-Bereich, indem wir nicht nur alle Infos 
+aus den Proben wie Proben- und sonstige Termine etc., sondern auch die 
+Adressen aller Mitglieder zum schnellen Nachschlagen bereitstellen.
+Dieser Zugang zum Intern-Bereich ist mit Passwort versehen, also für 
+Außenstehende nicht einsehbar.
+Der Zugang erfolgt auf der Homepage über den Button "Intern" unter dem 
+CB-Logo, durch Eingabe des
+
+Benutzernamens: cbintern
+Passwortes: euroforum
+
+Ohne die korrekte Eingabe der Benutzerkennung wird der Zugriff verweigert.
+Bitte geht pfleglich mit den Passwortdaten um und speichert sie z.B. 
+nicht auf den öffentlichen Uni-Rechnern ab.
+
+Der Vollständigkeit halber der Hinweis von mir als Webmaster des 
+Internetauftrittes:
+Solltet Ihr trotz Passwortschutz diese interne Veröffentlichung Eurer 
+Daten nicht wollen, meldet Euch bitte bei mir. Ich werde die 
+betreffenden Daten dann zeitnah löschen.
+
+Ferner haben wir Eure E-Mail-Adressen in den Gesamt-Verteiler 
+alle@concertband.de eingestellt, sowie in den jeweiligen 
+Register-Verteiler übernommen (siehe Adressenliste). Über den 
+Gesamtverteiler verschicken z.B. Sandra, Corinna oder auch Julia 
+wichtige Infos, die sich teils erst unter der Woche ergeben haben.
+
+Auch hier gilt: Wenn Ihr nicht in den Verteilern enthalten sein möchtet, 
+dann bitte Info an mich per Mail (peter.nikolaus@arcor.de) oder in der 
+Probe, andererseits könntet Ihr dann wichtige Infos
+nicht erfahren.
+
+Jetzt benötigen wir noch Infos von Euch, ob Ihr an unseren Terminen 
+überhaupt Zeit habt. Hierzu hatten wir vor Start des Semester eine 
+Umfrage an alle Mitspieler verschickt. Da als nächstes unser 
+Probewochenende in Hohenheim ansteht die Bitte, dass Ihr die Abfrage 
+auch kurz ausfüllt, damit wir planen können.
+Die Abfrage findet Ihr unter folgendem Link:
+https://docs.google.com/spreadsheet/viewform?formkey=dEVoSnB3QTg3VXFOSTRPQ2ZqXzhZREE6MA
+
+Unser "Orchesterleben" im Internet spielt sich inzwischen immer öfter 
+auch bei Facebook ab. Unsere Facebookseite findet Ihr über den 
+Facebook-Button auf der Startseite auf www.concertband.de 
+</home/link.php?url=www.concertband.de&ts=1334698317&hash=0daef17b3ea3b441fffe869475c20253> 
+.
+Wir freuen uns hier über jeden "Fan", der auf "Gefällt mir" klickt ;-)
+
+So zum Schluss noch die Mail von Julia Schlag zum Semesteranfang mit 
+Anmerkungen zum Programm und den Demo-Files zum Anhören.
+
+Viele Grüße aus dem Hornregister,
+Peter Nikolaus
+
+----------------------------
+peter.nikolaus@arcor.de
+http://www.peter-nikolaus.de
+----------------------------
+
+***********************************************
+Absender: Julia Schlag<juliaschlag@googlemail.com>
+Empfänger: alle@concertband.de
+Betreff: Wintersemester 2012/13
+Datum: 17.09.2012 12:28
+
+Hallo zusammen,
+bald ist es soweit - das Programm für das Jubiläumskonzert ist fertig!
+
+Im Anhang findet ihr Links zu den Werken, bitte bedient euch!
+
+Es fehlen im Moment noch die Noten von Ecstatic Waters", ein Werk von
+Steven Bryant mit Live-Elektronik. Wir werden im Februar die europäische
+Uraufführung des Werkes spielen!
+
+Zudem noch ein Stück von Jörg und die Auftragskomposition von Marco Pütz
+- er ist eifrig dabei!
+Die Reihenfolge steht noch nicht da ich erste noch auf das Werk von
+Marco Pütz warte um dieses gut einzubetten...
+
+Viel Spaß beim Hören und Üben - bis zum 25.09.2012!
+
+Hymn of the Highlands - 1. Satz
+https://dl.dropbox.com/u/51844431/15%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a
+2. Satz
+https://dl.dropbox.com/u/51844431/16%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a
+3. Satz
+https://dl.dropbox.com/u/51844431/17%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a
+
+Ecstatic Waters
+https://dl.dropbox.com/u/51844431/Ecstatic%20Waters%20%28CBDNA%202009%29.mp3
+
+Armenische Tänze
+https://dl.dropbox.com/u/51844431/07%20Armenian%20Dance%20Part%201.m4a
+
+Marsch aus den Symphonischen Metamorphosen
+https://dl.dropbox.com/u/51844431/10%20Symphonische%20Metamorphosen%20nach%20Themen%20von%20Carl%20Maria%20von%20Weber%20%281943%29%20IV.%20Marsch.m4a
+
+To walk with wings
+https://dl.dropbox.com/u/51844431/13%20To%20Walk%20With%20Wings.mp3
+
+Viele Grüße,
+Julia
+
+Geigersbergstr. 11
+74343 Sachsenheim
+mobil 0173-9710018
+
+--------------070101090003030800000903
+Content-Type: text/html; charset=ISO-8859-15
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-15">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <div class="moz-text-html" lang="x-western"> Liebe Neu-Mitglieder
+      der Concert Band,<br>
+      <br>
+      zunächst nochmals auf diesem Wege herzlich willkommen bei der
+      Concert Band der Uni Hohenheim.<br>
+      <br>
+      Jetzt bekommt Ihr eine ganze Menge Infos, aber da müsst Ihr jetzt
+      durch... ;-)<br>
+      <br>
+      Margit Haug (Posaune) pflegt in der Concert Band die zentrale
+      Adressendatei. Bei ihr habt Ihr in der letzten Probe Eure
+      Adressdaten hinterlassen. Sie wird nochmals einzeln auf Euch
+      zukommen, falls ihr noch Infos fehlen.<br>
+      Sollten sich Änderungen bei Euren Adressen ergeben, solltet Ihr
+      sie bitte unter <a class="moz-txt-link-abbreviated"
+        href="mailto:margit.haug@ennulat.de">margit.haug@ennulat.de</a>
+      oder in der Probe informieren.<br>
+      <br>
+      Ich, (Peter Nikolaus, Horn) bin für den Internetauftritt der
+      Concert Band zuständig, den Ihr unter <a
+        class="moz-txt-link-abbreviated"
+        href="http://www.concertband.de">www.concertband.de</a>
+      erreicht.<br>
+      <br>
+      Dort gibt es u.a. einen Intern-Bereich, indem wir nicht nur alle
+      Infos aus den Proben wie Proben- und sonstige Termine etc.,
+      sondern auch die Adressen aller Mitglieder zum schnellen
+      Nachschlagen bereitstellen.<br>
+      Dieser Zugang zum Intern-Bereich ist mit Passwort versehen, also
+      für Außenstehende nicht einsehbar.<br>
+      Der Zugang erfolgt auf der Homepage über den Button "Intern" unter
+      dem CB-Logo, durch Eingabe des<br>
+      <br>
+      Benutzernamens: cbintern<br>
+      Passwortes: euroforum<br>
+      <br>
+      Ohne die korrekte Eingabe der Benutzerkennung wird der Zugriff
+      verweigert.<br>
+      Bitte geht pfleglich mit den Passwortdaten um und speichert sie
+      z.B. nicht auf den öffentlichen Uni-Rechnern ab.<br>
+      <br>
+      Der Vollständigkeit halber der Hinweis von mir als Webmaster des
+      Internetauftrittes:<br>
+      Solltet Ihr trotz Passwortschutz diese interne Veröffentlichung
+      Eurer Daten nicht wollen, meldet Euch bitte bei mir. Ich werde die
+      betreffenden Daten dann zeitnah löschen.<br>
+      <br>
+      Ferner haben wir Eure E-Mail-Adressen in den Gesamt-Verteiler <a
+        class="moz-txt-link-abbreviated"
+        href="mailto:alle@concertband.de">alle@concertband.de</a>
+      eingestellt, sowie in den jeweiligen Register-Verteiler übernommen
+      (siehe Adressenliste). Über den Gesamtverteiler verschicken z.B.
+      Sandra, Corinna oder auch Julia wichtige Infos, die sich teils
+      erst unter der Woche ergeben haben.<br>
+      <br>
+      Auch hier gilt: Wenn Ihr nicht in den Verteilern enthalten sein
+      möchtet, dann bitte Info an mich per Mail (<a
+        class="moz-txt-link-abbreviated"
+        href="mailto:peter.nikolaus@arcor.de">peter.nikolaus@arcor.de</a>)
+      oder in der Probe, andererseits könntet Ihr dann wichtige Infos<br>
+      nicht erfahren.<br>
+      <br>
+      Jetzt benötigen wir noch Infos von Euch, ob Ihr an unseren
+      Terminen überhaupt Zeit habt. Hierzu hatten wir vor Start des
+      Semester eine Umfrage an alle Mitspieler verschickt. Da als
+      nächstes unser Probewochenende in Hohenheim ansteht die Bitte,
+      dass Ihr die Abfrage auch kurz ausfüllt, damit wir planen können.<br>
+      Die Abfrage findet Ihr unter folgendem Link:<br>
+      <a class="moz-txt-link-freetext"
+href="https://docs.google.com/spreadsheet/viewform?formkey=dEVoSnB3QTg3VXFOSTRPQ2ZqXzhZREE6MA">https://docs.google.com/spreadsheet/viewform?formkey=dEVoSnB3QTg3VXFOSTRPQ2ZqXzhZREE6MA</a><br>
+      <br>
+      Unser "Orchesterleben" im Internet spielt sich inzwischen immer
+      öfter auch bei Facebook ab. Unsere Facebookseite findet Ihr über
+      den Facebook-Button auf der Startseite auf <a
+href="/home/link.php?url=www.concertband.de&amp;ts=1334698317&amp;hash=0daef17b3ea3b441fffe869475c20253"
+        target="_blank" s_oc="null">www.concertband.de</a> .<br>
+      Wir freuen uns hier über jeden "Fan", der auf "Gefällt mir" klickt
+      ;-)<br>
+      <br>
+      So zum Schluss noch die Mail von Julia Schlag zum Semesteranfang
+      mit Anmerkungen zum Programm und den Demo-Files zum Anhören.<br>
+      <br>
+      Viele Grüße aus dem Hornregister,<br>
+      Peter Nikolaus<br>
+      <br>
+      ----------------------------<br>
+      <a class="moz-txt-link-abbreviated"
+        href="mailto:peter.nikolaus@arcor.de">peter.nikolaus@arcor.de</a><br>
+      <a class="moz-txt-link-freetext"
+        href="http://www.peter-nikolaus.de">http://www.peter-nikolaus.de</a><br>
+      ----------------------------<br>
+      <br>
+      ***********************************************<br>
+      Absender: Julia Schlag<a class="moz-txt-link-rfc2396E"
+        href="mailto:juliaschlag@googlemail.com">&lt;juliaschlag@googlemail.com&gt;</a><br>
+      Empfänger: <a class="moz-txt-link-abbreviated"
+        href="mailto:alle@concertband.de">alle@concertband.de</a><br>
+      Betreff: Wintersemester 2012/13<br>
+      Datum: 17.09.2012 12:28<br>
+      <br>
+      Hallo zusammen,<br>
+      bald ist es soweit - das Programm für das Jubiläumskonzert ist
+      fertig!<br>
+      <br>
+      Im Anhang findet ihr Links zu den Werken, bitte bedient euch!<br>
+      <br>
+      Es fehlen im Moment noch die Noten von Ecstatic Waters", ein Werk
+      von<br>
+      Steven Bryant mit Live-Elektronik. Wir werden im Februar die
+      europäische<br>
+      Uraufführung des Werkes spielen!<br>
+      <br>
+      Zudem noch ein Stück von Jörg und die Auftragskomposition von
+      Marco Pütz<br>
+      - er ist eifrig dabei!<br>
+      Die Reihenfolge steht noch nicht da ich erste noch auf das Werk
+      von<br>
+      Marco Pütz warte um dieses gut einzubetten...<br>
+      <br>
+      Viel Spaß beim Hören und Üben - bis zum 25.09.2012!<br>
+      <br>
+      Hymn of the Highlands - 1. Satz<br>
+      <a class="moz-txt-link-freetext"
+href="https://dl.dropbox.com/u/51844431/15%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a">https://dl.dropbox.com/u/51844431/15%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a</a><br>
+      2. Satz<br>
+      <a class="moz-txt-link-freetext"
+href="https://dl.dropbox.com/u/51844431/16%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a">https://dl.dropbox.com/u/51844431/16%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a</a><br>
+      3. Satz<br>
+      <a class="moz-txt-link-freetext"
+href="https://dl.dropbox.com/u/51844431/17%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a">https://dl.dropbox.com/u/51844431/17%20Suite%20From%20Hymn%20Of%20The%20Highlands.m4a</a><br>
+      <br>
+      Ecstatic Waters<br>
+      <a class="moz-txt-link-freetext"
+href="https://dl.dropbox.com/u/51844431/Ecstatic%20Waters%20%28CBDNA%202009%29.mp3">https://dl.dropbox.com/u/51844431/Ecstatic%20Waters%20%28CBDNA%202009%29.mp3</a><br>
+      <br>
+      Armenische Tänze<br>
+      <a class="moz-txt-link-freetext"
+href="https://dl.dropbox.com/u/51844431/07%20Armenian%20Dance%20Part%201.m4a">https://dl.dropbox.com/u/51844431/07%20Armenian%20Dance%20Part%201.m4a</a><br>
+      <br>
+      Marsch aus den Symphonischen Metamorphosen<br>
+      <a class="moz-txt-link-freetext"
+href="https://dl.dropbox.com/u/51844431/10%20Symphonische%20Metamorphosen%20nach%20Themen%20von%20Carl%20Maria%20von%20Weber%20%281943%29%20IV.%20Marsch.m4a">https://dl.dropbox.com/u/51844431/10%20Symphonische%20Metamorphosen%20nach%20Themen%20von%20Carl%20Maria%20von%20Weber%20%281943%29%20IV.%20Marsch.m4a</a><br>
+      <br>
+      To walk with wings<br>
+      <a class="moz-txt-link-freetext"
+href="https://dl.dropbox.com/u/51844431/13%20To%20Walk%20With%20Wings.mp3">https://dl.dropbox.com/u/51844431/13%20To%20Walk%20With%20Wings.mp3</a><br>
+      <br>
+      Viele Grüße,<br>
+      Julia<br>
+      <br>
+      Geigersbergstr. 11<br>
+      74343 Sachsenheim<br>
+      mobil 0173-9710018 </div>
+  </body>
+</html>
+
+--------------070101090003030800000903--

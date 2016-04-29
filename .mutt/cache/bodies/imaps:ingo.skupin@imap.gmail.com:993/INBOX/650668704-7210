@@ -1,0 +1,82 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp225735pdb;
+        Fri, 14 Mar 2014 01:57:53 -0700 (PDT)
+Return-Path: <fmsebert@gmail.com>
+Received-SPF: pass (google.com: domain of fmsebert@gmail.com designates 10.60.172.70 as permitted sender) client-ip=10.60.172.70
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of fmsebert@gmail.com designates 10.60.172.70 as permitted sender) smtp.mail=fmsebert@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.60.172.70])
+        by 10.60.172.70 with SMTP id ba6mr6317898oec.17.1394787472647 (num_hops = 1);
+        Fri, 14 Mar 2014 01:57:52 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date:message-id:subject
+         :from:to:cc:content-type;
+        bh=ZDoJ4/ywqXIOYtH9XEltuHk+Hu9TF0WMLvl2TAPiKk0=;
+        b=bylOw2rSSdF6UCl8EdWqQk+LUBFuJ7BBEkx3ljkyxtzxPJSnnKR8AsGk73DBKutADI
+         4OEqSAFmdDqZsYu1Y9CdjH8NO5rrpfKXFHAz96bsTqMFSnKtonJcvliKhSgMfvARI0K1
+         3KyQ+7jyaDDbHWyLQVRzeq1BjZYt/N11bFAbGnuUI1J5kAsWblYfeVRZXE5q+1MkK5Kk
+         /uYt4mz5PoLy/+SxCa3XkMTNMiGdX7w+IMoMfmI6Cf4ewjKPy8t0kS6atsz6iDnnAgLC
+         w2NmxnHA+ZoMr20bBILfqBWrWz4xqoSbZ/BAPXMYMHBoMyrxTXEIKVWDO60bt1+rxYuo
+         hPmg==
+MIME-Version: 1.0
+X-Received: by 10.60.172.70 with SMTP id ba6mr5433508oec.17.1394787469210;
+ Fri, 14 Mar 2014 01:57:49 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.76.82.5 with HTTP; Fri, 14 Mar 2014 01:57:49 -0700 (PDT)
+In-Reply-To: <8215515E4A4C7945B79725562ADACAD361BDB0@exchange1.geuder.local>
+References: <8215515E4A4C7945B79725562ADACAD361BDB0@exchange1.geuder.local>
+Date: Fri, 14 Mar 2014 09:57:49 +0100
+X-Google-Sender-Auth: Tv3c_X29D_WVrkI5E4mBeFrbX94
+Message-ID: <CAN1A5uBu_8SDFfLX8nsODAG1agJoi2=Xeom9ZWpxG1_=reJFbQ@mail.gmail.com>
+Subject: Re: Probe morgen frueh!
+From: Florian Sebert <florian@floriansebert.de>
+To: "Pfister, Martina" <MPfister@geuder.de>
+Cc: "Harry D. Bath" <harryd.bath@t-online.de>, S.Pfister@dkfz.de, 
+	Rainer Pfister <rainer.pfister@me.com>, Stefan Wiehr <stefan@wiehr.de>, ingo.skupin@googlemail.com, 
+	Julia Wollny <wollny.julia@me.com>, Lukas Fischer <lukasfischer1@aol.com>, 
+	"tse047 ." <tkonwitschny@yahoo.de>, Lena Hahn <LenaHahn20@web.de>, 
+	"raphael@rothschink.de" <raphael@rothschink.de>, Steffen Sautter <steffen.sautter@web.de>, yannik.frey1994@web.de, 
+	Tizian Decker <Tizian_Decker@web.de>, Sabine Pfister <pfistersabine@googlemail.com>
+Content-Type: multipart/alternative; boundary=bcaec54b5366a3c9c404f48d43b8
+
+--bcaec54b5366a3c9c404f48d43b8
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+anbei habe ich ein paar Vorschl=E4ge zusammengetragen, was man an unserem
+freien Tag in Atlanta (04/14/2014) ansehen/besuchen k=F6nnte.
+
+Vielleicht habt ihr ja eine Meinung? Dann w=FCrde ich euch bitten, unter de=
+m
+folgenden Link eine oder mehrere Optionen anzugeben und nat=FCrlich gerne
+auch weitere hinzuzuf=FCgen. Falls sich herauskristallisieren sollte, dass
+wir eine Sehensw=FCrdigkeit besuchen wollen, f=FCr die wir im Vorhinein Tic=
+kets
+reservieren sollten, w=FCrde ich mich im Anschluss darum k=FCmmern.
+
+http://doodle.com/t9st7umb4nnefczt
+
+Vielen Dank und viele Gr=FC=DFe
+Florian
+
+--bcaec54b5366a3c9c404f48d43b8
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hallo zusammen,<div><br></div><div>anbei habe ich ein paar=
+ Vorschl=E4ge zusammengetragen, was man an unserem freien Tag in Atlanta (0=
+4/14/2014) ansehen/besuchen k=F6nnte.=A0</div><div><br></div><div>Vielleich=
+t habt ihr ja eine Meinung? Dann w=FCrde ich euch bitten, unter dem folgend=
+en Link eine oder mehrere Optionen anzugeben und nat=FCrlich gerne auch wei=
+tere hinzuzuf=FCgen. Falls sich herauskristallisieren sollte, dass wir eine=
+ Sehensw=FCrdigkeit besuchen wollen, f=FCr die wir im Vorhinein Tickets res=
+ervieren sollten, w=FCrde ich mich im Anschluss darum k=FCmmern.</div>
+<div><br></div><div><a href=3D"http://doodle.com/t9st7umb4nnefczt">http://d=
+oodle.com/t9st7umb4nnefczt</a><br></div><div><br></div><div>Vielen Dank und=
+ viele Gr=FC=DFe</div><div>Florian</div></div>
+
+--bcaec54b5366a3c9c404f48d43b8--

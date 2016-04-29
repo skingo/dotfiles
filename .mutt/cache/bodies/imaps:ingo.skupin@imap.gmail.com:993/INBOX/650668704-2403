@@ -1,0 +1,62 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.4 with SMTP id b4csp185285vcj;
+        Wed, 18 Apr 2012 10:58:18 -0700 (PDT)
+Received: by 10.216.139.12 with SMTP id b12mr2095289wej.4.1334771896946;
+        Wed, 18 Apr 2012 10:58:16 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id q12si26392450wec.108.2012.04.18.10.58.16;
+        Wed, 18 Apr 2012 10:58:16 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-vb0-f54.google.com ([209.85.212.54]) by mx-ha.web.de
+ (mxweb004) with ESMTP (Nemesis) id 0Lt0ig-1S9GeL2k5C-012c9Q for
+ <ingo.skupin@gmail.com>; Wed, 18 Apr 2012 19:58:16 +0200
+Received: by vbmv11 with SMTP id v11so6830431vbm.41
+        for <multiple recipients>; Wed, 18 Apr 2012 10:58:14 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=9Ga/YvxFE+APhgGRcp9fxQ/LkAgXPnNrYuY2/bBUGYw=;
+        b=roN3yO/u0rRVRTmakZoutgXy54BIesE/rYteGyD0c5yoZyX/+o2xLXKHNS2nG/+80O
+         a1CubpZOSZ8Rj/h8IrU1zJBxhJs1v+LdQuykUjm+N9/JA+1o7iuX9HvmozAgLU+QcMfw
+         BGNpM5PC926m0sNvc51f1VJimVE0f+5FTIo8w8JSxC2Xn8LsWHSAe7CZiHxK8ND+IDx+
+         ImXGQRNwUwJH87bd+96cxmjCZnMWQtJsvY1pZOglnj6XxN0GmiqnAivxayFoZShDjlMw
+         T7PzC1V8nkVQenqNju798ue9V6S/tVrnZk923gsIpkieiufSacetdfkW7btQ/7m/mDCl
+         bLGw==
+MIME-Version: 1.0
+Received: by 10.52.22.79 with SMTP id b15mr1382010vdf.10.1334771894563; Wed,
+ 18 Apr 2012 10:58:14 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.220.225.195 with HTTP; Wed, 18 Apr 2012 10:58:14 -0700 (PDT)
+In-Reply-To: <3fab9348-11d0-465a-86df-7cf689d302b1@email.android.com>
+References: <cfb06c6e-d612-4301-b34b-e1675bb71c39@email.android.com>
+	<3fab9348-11d0-465a-86df-7cf689d302b1@email.android.com>
+Date: Wed, 18 Apr 2012 19:58:14 +0200
+X-Google-Sender-Auth: 0kPQSTFfVPMwkluXUja9riX_7pA
+Message-ID: <CAN1A5uCn0Vk59hTS=r1Mn9xEjZ6Od9twjaYc8ZYHPmiVWpAxcA@mail.gmail.com>
+Subject: Re: Bilder
+From: Florian Sebert <florian@floriansebert.de>
+To: "Dr. Stefan Wiehr" <stefan@wiehr.de>
+Cc: Martina Pfister <martina@pfister-heidelberg.de>, 
+	Sabine Pfister <pfistersabine@googlemail.com>, Valerie Bartel <valerie.bartel@gmx.de>, 
+	Bedrin Noah <kingsaxello@googlemail.com>, Steffen Sautter <steffen.sautter@web.de>, 
+	Tizian Decker <tizian_decker@web.de>, Yannick Frey <yannick.frey1994@web.de>, 
+	Ingo Skupin <ingo.skupin@web.de>, christine-erchinger@web.de, 
+	Rainer Pfister <rainerpfister@blackforestentertainment.org>, 
+	Stefan Pfister <s.pfister@dkfz-heidelberg.de>, "Harry D. Bath" <harryd.bath@t-online.de>, 
+	Daniel Metzger <jandan@gmx.de>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-UI-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+Hallo Stefan,
+
+vielen Dank auch dir f=FCr deine Bilder!
+
+Viele Gr=FC=DFe
+Florian
+
+PS: H=F6here Aufl=F6sung gibt's nach dem WE.

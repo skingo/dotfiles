@@ -1,0 +1,175 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp56886pdb;
+        Thu, 30 Jan 2014 15:03:43 -0800 (PST)
+X-Received: by 10.14.95.2 with SMTP id o2mr755474eef.69.1391123022544;
+        Thu, 30 Jan 2014 15:03:42 -0800 (PST)
+Return-Path: <S.Pfister@dkfz-heidelberg.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id s6si13855365eel.35.2014.01.30.15.03.41
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 30 Jan 2014 15:03:42 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning S.Pfister@dkfz-heidelberg.de does not designate 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning S.Pfister@dkfz-heidelberg.de does not designate 212.227.17.12 as permitted sender) smtp.mail=S.Pfister@dkfz-heidelberg.de
+Received: from mailhost4.inet.dkfz-heidelberg.de ([193.174.53.139]) by
+ mx-ha.web.de (mxweb006) with ESMTPS (Nemesis) id 0LjYdc-1VXSy51dWq-00bYQp for
+ <ingo.skupin@gmail.com>; Fri, 31 Jan 2014 00:03:41 +0100
+Received: from dkfzmh02.ad.dkfz-heidelberg.de (dkfzmh02.inet.dkfz-heidelberg.de [193.174.53.81])
+	by mailhost2.inet.dkfz-heidelberg.de (8.13.8/8.13.8) with ESMTP id s0UN3Lnk007233
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=FAIL);
+	Fri, 31 Jan 2014 00:03:21 +0100
+Received: from dkfzmh03.ad.dkfz-heidelberg.de (193.174.53.54) by dkfzmh02
+ (193.174.53.81) with Microsoft SMTP Server (TLS) id 8.3.327.1; Fri, 31 Jan
+ 2014 00:03:20 +0100
+Received: from DKFZEX01.ad.dkfz-heidelberg.de ([193.174.53.79]) by
+ dkfzmh03.ad.dkfz-heidelberg.de ([193.174.53.54]) with mapi; Fri, 31 Jan 2014
+ 00:03:20 +0100
+From: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+To: Sabine Pfister <pfistersabine@googlemail.com>,
+        Steffen Sautter
+	<steffen.sautter@web.de>,
+        Yannick Frey <yannick.frey1994@web.de>,
+        Tizian
+ Decker <tizian_decker@web.de>, Lena Hahn <LenaHahn20@web.de>,
+        Florian Sebert
+	<florian@floriansebert.de>,
+        "raphael@rothschink.de" <raphael@rothschink.de>,
+        Ingo Skupin <ingo.skupin@web.de>, Lukas Fischer <l.fischer@3-1415.de>,
+        Julia
+ Wollny <wollny.julia@me.com>,
+        Rainer Pfister <rainer.pfister@me.com>,
+        "Dr.
+ Stefan Wiehr" <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>,
+        Pfister
+	<kinderaerztin_susanne@t-online.de>,
+        "tkonwitschny@yahoo.de"
+	<tkonwitschny@yahoo.de>,
+        "decker.mitat@onlinehome.de"
+	<decker.mitat@onlinehome.de>,
+        "harryd.bath@t-online.de"
+	<harryd.bath@t-online.de>,
+        "mpfister@geuder.de" <mpfister@geuder.de>,
+        "martina@pfister-heidelberg.de" <martina@pfister-heidelberg.de>
+Importance: high
+X-Priority: 1
+Date: Fri, 31 Jan 2014 00:03:20 +0100
+Subject: ESTA
+Thread-Topic: ESTA
+Thread-Index: Ac8c/Mv6SutIB6RATwOLuWivkU4VCABEJnqc
+Message-ID: <4F91222C659D5B4E8C89CE4D710BB08EFFD55B118F@DKFZEX01.ad.dkfz-heidelberg.de>
+References: <1077533B6EBD80458C6E721A69EFEB180243B8D0@DP-FRA-EX02.derpart.local>
+In-Reply-To: <1077533B6EBD80458C6E721A69EFEB180243B8D0@DP-FRA-EX02.derpart.local>
+Accept-Language: de-DE
+Content-Language: de-DE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: de-DE
+Content-Type: text/plain; charset="Windows-1252"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Liebe Reiseteilnehmer,
+
+nun sind Die Fl=FCge fest gebucht. Hier sind die Flugzeiten (Abflug am Sams=
+tag ging leider nicht, weil 800 =80 pro Person teurer):
+
+UA 153 13APR Stuttgart =96 New York EWR 11.10 =96 14.15 Uhr
+UA 4152 13APR New York EWR =96 Atlanta ATL 19.59 =96 22.32 Uhr
+UA 3813 19APR Atlanta ATL =96 Washington IAD 19.13 =96 21.05 Uhr
+UA 152 26APR New York EWR =96 Stuttgart 17.45 =96 08.00 Uhr +1
+Alle Zeiten sind Ortszeiten
+
+...und hier noch mal die Anleitung f=FCr das ESTA-Verfahren (s.u.). Das m=
+=FCssen ALLE machen (!)=20
+
+Nachdem der Zuschu=DF vom Goethe-Institut nun gesichert ist (wenn auch deut=
+lich niedriger als erhofft), ergeben sich die folgenden Teilnehmerbeitr=E4g=
+e:
+
+Sch=FCler/Stundenten: 1500 =80
+Berufst=E4tige Musiker: 2000 =80
+Nicht-Musiker: 2500 =80
+Baby: 500 =80
+Kind: 1300 =80
+
+Leider k=F6nnen wir die "Drittmittel" nur auf die Musiker umlegen, sonst be=
+kommen wir Probleme mit dem Goethe-Institut bei der Abrechnung. Ich hoffe, =
+das ist so f=FCr alle akzeptabel!?
+Wir kl=E4ren gerade noch, welchen Anteil des Beitrages man als Berufst=E4ti=
+ger als Spende anrechnen lassen kann und melden uns diesbez=FCglich Anfang =
+n=E4chster Woche noch mal. Ihr braucht also momentan noch nichts =FCberweis=
+en (nur die, die die zweite Rate noch nicht bezahlt haben).
+
+Bitte meldet Euch bei Unklarheiten/Disukssionsbedarf!
+
+Viele Gr=FC=DFe,
+
+Stefan
+
+________________________________________
+Von: Bader, Katja [katja.bader@derpart.com]
+Gesendet: Mittwoch, 29. Januar 2014 15:24
+An: Pfister, Stefan
+Betreff: ESTA
+
+Hallo Herr Pfister,
+
+noch eine sehr wichtige Sache. Sicher haben Sie schon von den Einreiseforma=
+lit=E4ten in die USA geh=F6rt.
+Es ist zwingend n=F6tig, dass sich alle Reisenden rechtzeitig VOR Abreise e=
+in =84elektronisches Visum=93 einholen.
+W=E4ren Sie bitte so nett und w=FCrden folgenden Link an alle Teilnehmer we=
+iterleiten?
+
+https://esta.cbp.dhs.gov/esta/application.html?execution=3De1s1
+
+Wir empfehlen schon immer diesen Link, da er der offizielle von den Amerika=
+nischen Beh=F6rden ist und zudem auch der g=FCnstigste.
+Sollte beim Ausf=FCllen des Antrags der ein oder andere Hilfe ben=F6tigen, =
+k=F6nnen Sie gerne auf mich verweisen.
+Bei der Einreise in die USA werden zus=E4tzlich Fingerabdr=FCcke und ein Fo=
+to von jedem Passagier gemacht. Das ist aber normal, ebenso wie das meist
+etwas m=FCrrische Verhalten des Personals. Man sollte sich davon aber keine=
+sfalls beeindrucken lassen=85.
+Was das Gep=E4ck angeht: aufgegebene Koffer in die USA sollten entweder gar=
+ nicht, oder wenn doch, mit einem TSA Schloss verschlossen sein.
+Diese TSA Schl=F6sser sind wie ein normales Zahlenschloss, das mit der pers=
+=F6nlichen Zahlenkombi abgeschlossen werden kann. Haben aber zus=E4tzlich n=
+och ein
+=84normals=93 Schloss, das nur mit dem Schl=FCssel der Sicherheitsbeamten i=
+n den USA ge=F6ffnet werden kann.
+
+Wenn sonst noch Fragen auftauchen =96 melden Sie sich bitte einfach bei mir=
+. Ich stehe Ihnen und Ihren Mitfliegern gerne mit Rat und Tat zur Seite.
+
+Nun w=FCnsche ich Ihnen und all Ihren Mitreisenden schon mal viel Vorfreude=
+ auf Ihre Konzertreise.
+
+Viele Gr=FC=DFe
+
+Katja Bader
+
+=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85=85
+
+
+Katja Bader
+Teamleitung Touristik
+
+
+DERPART Reiseb=FCro H. von Wirth
+Zweigniederlassung der DERPART Reisevertrieb GmbH
+K=F6nigstrasse 1b
+D-70173 Stuttgart
+
+t.:  +49 (0) 711 22893 15
+f.: +49 (0) 711 22893 11
+
+katja.bader@derpart.com<mailto:katja.bader@derpart.com>
+http://www.derpart.com/vonwirth
+
+Aufsichtsratsvorsitzender: Michael Frese
+Gesch=E4ftsf=FChrung: Christoph F=FChrer, Aquilin Sch=F6mig
+
+Handelsregister Amtsgericht Frankfurt/M HRB 19229
+

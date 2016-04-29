@@ -1,0 +1,73 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp302742pdt;
+        Wed, 16 Jul 2014 09:53:19 -0700 (PDT)
+X-Received: by 10.180.75.75 with SMTP id a11mr14898340wiw.3.1405529598118;
+        Wed, 16 Jul 2014 09:53:18 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id p7si21328350wiz.103.2014.07.16.09.53.17
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 16 Jul 2014 09:53:18 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb108)
+ with ESMTPS (Nemesis) id 0M8Opq-1WKSd72aLy-00vtiv for
+ <ingo.skupin@gmail.com>; Wed, 16 Jul 2014 18:53:17 +0200
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.web.de (mxweb108) with
+ ESMTPS (Nemesis) id 0Me9DO-1WusqL2aBq-00Pqh7 for <ingo.skupin@web.de>; Wed,
+ 16 Jul 2014 18:53:15 +0200
+Received: from mout.gmx.net ([212.227.17.22]) by mx-ha.gmx.net (mxgmx012) with
+ ESMTPS (Nemesis) id 0LcoLf-1WfVc147qJ-00k9KA; Wed, 16 Jul 2014 18:53:03 +0200
+Received: from [84.133.226.43] by 3capp-gmx-bs03.server.lan (via HTTP); Wed,
+ 16 Jul 2014 18:53:02 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-300386fd-8738-4732-9ac0-68ab930099e5-1405529582579@3capp-gmx-bs03>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>,
+ "_Verteiler_Holz+Dirigent Blasorchester"
+ <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>
+Subject: =?UTF-8?Q?TSV_Jubil=C3=A4um?=
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 16 Jul 2014 18:53:02 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:y0FjoiwhyBAfPvKGI+ZKA/59l+fDsTb0TAHJTUjdteO
+ HG78yZBRozBSKIoNACiEhiFz04eG1+7Y+IxM9X0mbKlzK9nMm8
+ crgn6LnHMYsjqEUk1vqLhX4tnvqLbnc790fQAwBRy6wO2eDzyl
+ 0qzyqQpgvYPkTB76rR3nQj24fRFLx7xxFh0nGZyCcDRjek8PEd
+ nj2JUvQLpeGohbp+qeicT+ieew35D4VFYbD+5mmaceGekRwfso
+ 9qYwT+KV4pEY8xJfqyma4XuSrp7Y5aN1h9+QqPZAROSx4UUTGC B5o7uU=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen</div>
+
+<div>kommenden Sonntag wie bekanntgegeben unser Auftritt beim TSV.</div>
+
+<div>Treffpunkt 9.15 Sportanlage Eichert!</div>
+
+<div>Damit der Gottesdienst p&uuml;nktlich um 9.45 beginnen kann!</div>
+
+<div>ab 10.30 spielen wir dann Fr&uuml;hschoppen bis 13 Uhr</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig; Timo</div>
+
+<div>&nbsp;</div>
+
+<div>PS.&nbsp; Wie gestern kurz angek&uuml;ndigt!&nbsp;&nbsp; Rene und Rainer organisieren einen Vereinsausflug,</div>
+
+<div>dieser findet am Samstag 11.10.14 statt!</div>
+
+<div>Genaueres steht dann im Einladungsschreiben,dass ihr die kommenden Tage noch erhalten werdet!</div>
+
+<div>Da wir am 10.10. Einen Auftritt in Beutelsbach haben bietet sich dieser Termin an, da er nach unserem letzten Auftritt stattfindet und wir Freitags eh auch einen Bus brauchen!</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div></div></body></html>

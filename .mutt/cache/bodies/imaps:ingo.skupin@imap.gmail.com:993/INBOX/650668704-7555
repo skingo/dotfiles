@@ -1,0 +1,80 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.170.115.140 with SMTP id h134csp99970ykb;
+        Sat, 10 May 2014 09:16:15 -0700 (PDT)
+X-Received: by 10.14.201.1 with SMTP id a1mr20609096eeo.71.1399738574512;
+        Sat, 10 May 2014 09:16:14 -0700 (PDT)
+Return-Path: <elena.gall@web.de>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id u49si6580141eef.172.2014.05.10.09.16.14
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 10 May 2014 09:16:14 -0700 (PDT)
+Received-SPF: none (google.com: elena.gall@web.de does not designate permitted sender hosts) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: elena.gall@web.de does not designate permitted sender hosts) smtp.mail=elena.gall@web.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id D616AAC8A0A; Sat, 10 May 2014 18:15:43 +0200 (CEST)
+X-Original-To: pause@concertband.de
+Delivered-To: pause@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mout.web.de (mout.web.de [212.227.15.4])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTPS id 23058AC89FE
+	for <pause@concertband.de>; Sat, 10 May 2014 18:15:43 +0200 (CEST)
+Received: from [144.41.157.48] by 3capp-webde-bs20 with HTTP; Sat, 10 May
+ 2014 17:35:01 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-54057a68-9d99-4dc9-876d-3c86e0040bfa-1399736101884@3capp-webde-bs20>
+From: "Elena Gall" <elena.gall@web.de>
+To: pause@concertband.de
+Subject: =?UTF-8?Q?Ensemble_f=C3=BCr_Absolventenfeier_gesucht?=
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 10 May 2014 17:35:01 +0200
+Importance: normal
+Sensitivity: Normal
+References: <trinity-7dfc495a-b4a2-4268-885f-7418935485dc-1399730917084@3capp-webde-bs41>
+X-UI-Message-Type: mail
+X-Priority: 3
+X-Provags-ID: V03:K0:1f4CJbtX2wVbnj/2TEwTwUUjRP/aeJDQNDLzXlc/Qlc
+ fAunLqJpYMV27Wbu6Q2ofB1lS/7MlXIKRUbHBuYOCRQJjy80Nm
+ 6pFyRK5zK+yVzOD8l+Svxxgb9fgOlKouQHPEpCltN0StEVbM/F
+ EzKmmmvvqGxCTQ1rVqUVmM5MhgDG4BXPgkXTn0e2h3axF1oOlr
+ YnuB/na5J/AoPxOa2Qiocvag2VJJsxkgEFWK/tgua/XFSJfOCA
+ gf46TYQ9CjdDzTyGFLp0fdMzEY5IOXUc00kMU1nCm96eS5+qAP
+ 1BVbZItSasgTBc/GaH0AmBGujpW
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>
+<div>
+<div name="quote" style="margin:10px 5px 5px 10px; padding: 10px 0 10px 10px; border-left:2px solid #C3D9E5; word-wrap: break-word; -webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">
+<div name="quoted-content">
+<div style="font-family: Verdana;font-size: 12.0px;">
+<div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>am 27. Juni 2014 findet an der Uni wieder die Absolventenfeier der Kommunikationswissenschaftler statt, f&uuml;r die noch eine musikalische Umrahmung gesucht wird. Die Veranstaltung beginnt um 18 Uhr und wird ca. 2 Stunden dauern.</div>
+
+<div>&nbsp;</div>
+
+<div>Es w&auml;re super, wenn wir f&uuml;r diesen Termin ein Ensemble zusammenstellen k&ouml;nnen. Tragt daher bitte mit Namen und Instrument in folgende Doodle-Liste ein, ob ihr dabei seid.</div>
+
+<div>&nbsp;</div>
+
+<div>
+<div><a href="https://3c.web.de/mail/client/dereferrer?redirectUrl=http%3A%2F%2Fdoodle.com%2F7xsx9y6a724vt5xk" target="_blank">http://doodle.com/7xsx9y6a724vt5xk</a></div>
+
+<div>&nbsp;</div>
+
+<div>Viele Gr&uuml;&szlig;e,</div>
+
+<div>Elena</div>
+</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+</div>
+</div>
+</div>
+</div>
+</div></div></body></html>

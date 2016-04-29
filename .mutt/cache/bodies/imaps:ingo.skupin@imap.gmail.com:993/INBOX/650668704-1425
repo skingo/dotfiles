@@ -1,0 +1,44 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.3.207 with SMTP id 15cs20626vco;
+        Mon, 12 Dec 2011 09:33:36 -0800 (PST)
+Received: by 10.14.9.210 with SMTP id 58mr2943602eet.123.1323711214174;
+        Mon, 12 Dec 2011 09:33:34 -0800 (PST)
+Return-Path: <h.dobretzberger@gmx.at>
+Received: from mailout-de.gmx.net (mailout-de.gmx.net. [213.165.64.22])
+        by mx.google.com with SMTP id h73si9829618eeh.8.2011.12.12.09.33.33;
+        Mon, 12 Dec 2011 09:33:34 -0800 (PST)
+Received-SPF: pass (google.com: domain of h.dobretzberger@gmx.at designates 213.165.64.22 as permitted sender) client-ip=213.165.64.22;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of h.dobretzberger@gmx.at designates 213.165.64.22 as permitted sender) smtp.mail=h.dobretzberger@gmx.at
+Received: (qmail invoked by alias); 12 Dec 2011 17:33:33 -0000
+Received: from p5B2F37B0.dip.t-dialin.net (EHLO metalheli) [91.47.55.176]
+  by mail.gmx.net (mp012) with SMTP; 12 Dec 2011 18:33:33 +0100
+X-Authenticated: #12343514
+X-Provags-ID: V01U2FsdGVkX1/K2J5kcN3KyFyRpkQnp+uihYVLMsfQq60sSlQv2T
+	Ad5Cqrxc+dAaPx
+From: "Helmut Dobretzberger" <h.dobretzberger@gmx.at>
+To: "'Ingo Skupin gmail'" <ingo.skupin@googlemail.com>
+References: <006401ccb509$fc651d80$f52f5880$@gmx.at> <4EE5DF3A.4000007@googlemail.de>
+In-Reply-To: <4EE5DF3A.4000007@googlemail.de>
+Subject: AW: Testat Aufgabe 1
+Date: Mon, 12 Dec 2011 18:33:35 +0100
+Message-ID: <01c001ccb8f4$2d3cc4b0$87b64e10$@gmx.at>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: AQKPSV1BqliC0AiVtuTSh6bKCkpmYwFXCCX+lEic4zA=
+Content-Language: de-at
+X-Y-GMX-Trusted: 0
+
+>>>>>"IG" =3D=3D Ingo Skupin gmail <ingo.skupin@googlemail.com> writes:=20
+IS> sehe ich das richtig, dass man bei Aufgabe zwei (f drei) und
+IS> nicht (f y) auswerten soll?
+IS> Weil (f y) w=C3=A4re ja sonst
+IS> ~> (violation "y: Ungebundene Variable")
+
+Jup, genau.
+
+Lg,
+Heli=20
+

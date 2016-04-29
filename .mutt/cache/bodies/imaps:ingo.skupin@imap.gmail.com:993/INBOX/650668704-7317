@@ -1,0 +1,136 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp106219pdb;
+        Sun, 6 Apr 2014 21:33:10 -0700 (PDT)
+X-Received: by 10.180.91.114 with SMTP id cd18mr22799483wib.28.1396845189359;
+        Sun, 06 Apr 2014 21:33:09 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTPS id p8si21952334eew.186.2014.04.06.21.33.08
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256/256);
+        Sun, 06 Apr 2014 21:33:09 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.14 as permitted sender) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.14 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass (test mode) header.i=@dropbox.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=dropbox.com
+Message-Id: <53422a85.88340f0a.3ae8.fffffe20SMTPIN_ADDED_MISSING@mx.google.com>
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb008)
+ with ESMTPS (Nemesis) id 0LmKKA-1X5nlJ3OTq-00a13h for
+ <ingo.skupin@gmail.com>; Mon, 07 Apr 2014 06:33:08 +0200
+Received: from sjd-ra1-10a.sjc.dropbox.com ([108.160.165.85]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0MfVHf-1WLozI3O8Z-00P3mi for
+ <ingo.skupin@web.de>; Mon, 07 Apr 2014 06:33:07 +0200
+Received: from snt-ra10-20c.sjc.dropbox.com (snt-ra10-20c.sjc.dropbox.com [10.12.10.187])
+	by sjd-ra1-10a.sjc.dropbox.com (Postfix) with ESMTP id 369922003E422
+	for <ingo.skupin@web.de>; Mon,  7 Apr 2014 04:33:06 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1396845186; bh=zxXEv0qpzpCGSKv7gDf899dAGz+F7i6BO++vY8ki8OA=;
+	h=From:To:CC:Subject:Date;
+	b=MDqHIqQ1ih25N41u+LZK4PUCA2oh1RQW6I5FdTgU7d/0YJNy2vMUWJT+jFyWOzMa9
+	 pklrSOF0H9ilKtGsjIblQisIkrPXtjeB216Rnw1b0gAF5zVSQTbeJuFw+UXUA5Cu9r
+	 nuoZJcVIgwFAEmXBCbpuMsUfbgHiN3Pdfx0pZXRI=
+Content-Type: multipart/alternative;
+ boundary="===============3769960304920405240=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+CC: 
+Subject: =?utf-8?q?Ihre_Dropbox_ben=C3=B6tigt_zus=C3=A4tzlichen_Speicherplatz!=0D=0A?=
+Date: Mon, 07 Apr 2014 04:33:06 +0000
+
+--===============3769960304920405240==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+dies ist eine freundliche Erinnerung daran, dass Ihre Dropbox fast voll ist=
+. Leider k=C3=B6nnen keine neuen =C3=84nderungen gespeichert werden, bis di=
+eser Missstand behoben ist.
+
+Wenn Sie in Erw=C3=A4gung ziehen, sich ein wenig auszubreiten, k=C3=B6nnen =
+Sie jederzeit ein Upgrade durchf=C3=BChren, um mehr Speicherplatz zu erhalt=
+en.
+https://www.dropbox.com/l/wL2JZhQLpJTaglKwJ2qWZ32/pricing??text=3D1
+
+Viel Spa=C3=9F beim Dropboxen!
+Das Dropbox-Team
+
+P. S. Wenn Sie aber das gr=C3=B6=C3=9Fte Abo brauchen, das wir haben, sollt=
+en Sie sich Dropbox f=C3=BCr Unternehmen ansehen.  Schon ab 1000 GB f=C3=BC=
+r f=C3=BCnf Personen.
+https://www.dropbox.com/l/cJjiXbfbQuAWVOPSZfs0Nb2/business??text=3D1.
+
+________________________________________
+Wenn Sie lieber keine Dropbox-Warnhinweise erhalten m=C3=B6chten, klicken S=
+ie auf https://www.dropbox.com/l/Qgj86udQO15pAREatPnScW1??text=3D1.
+Dropbox, Inc., PO Box 77767, San Francisco, CA 94107, USA
+--===============3769960304920405240==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"><style>
+        @font-face {
+            font-family: "proxima_nova";
+            src: url("https://www.dropbox.com/static/fonts/proximanova/prox=
+ima-nova-regular.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+        a {
+            color: #007ee6;
+            text-decoration: none;
+        }
+        </style></head><body style=3D"padding: 0; width: 100% !important; -=
+webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;" marg=
+inheight=3D"0" marginwidth=3D"0"><center><table cellpadding=3D"8" cellspaci=
+ng=3D"0" style=3D"*width: 540px; padding: 0; width: 100% !important; backgr=
+ound: #ffffff; margin: 0; background-color: #ffffff;" border=3D"0"><tr><td =
+valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px; -we=
+bkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px=
+;" border=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"6"></td></=
+tr><tr style=3D"line-height: 0px;"><td width=3D"100%" style=3D"font-size: 0=
+px;" align=3D"center" height=3D"1"><img width=3D"40px" style=3D"max-height:=
+ 73px; width: 40px; *width: 40px; *height: 73px;" alt=3D"" src=3D"https://w=
+ww.dropbox.com/static/images/emails/glyph/glyph_34@2x.png"></td></tr><tr><t=
+d><table cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: 25px;" b=
+order=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"30"></td></tr>=
+<tr><td width=3D"36"></td>
+<td width=3D"454" align=3D"left" style=3D"color: #444444; border-collapse: =
+collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida =
+Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans S=
+erif'; max-width: 454px;" valign=3D"top">Hallo, <br><br>dies ist eine freun=
+dliche Erinnerung daran, dass Ihre Dropbox voll ist. Leider k=C3=B6nnen kei=
+ne neuen =C3=84nderungen gespeichert werden, bis dieser Missstand behoben i=
+st.<br><br>Wenn Sie in Erw=C3=A4gung ziehen, sich ein wenig auszubreiten, k=
+=C3=B6nnen Sie jederzeit ein <a href=3D"https://www.dropbox.com/l/lLFVzmhDi=
+GcMoANzubViV22/pricing?">Upgrade durchf=C3=BChren, um mehr Speicherplatz zu=
+ erhalten</a>.<br><br><br> Frohes Dropboxen!<br>Das Dropbox-Team<br><br>P. =
+S. Wenn Sie aber das gr=C3=B6=C3=9Fte Abo brauchen, das wir haben, sollten =
+Sie sich <a href=3D"https://www.dropbox.com/l/O4OnPmJnI21y44TVKoXmIa2/busin=
+ess?">Dropbox f=C3=BCr Unternehmen</a> ansehen. Schon ab 1000=C2=A0GB f=C3=
+=BCr f=C3=BCnf Personen.</td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: prox=
+ima_nova, 'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida=
+ Sans Unicode', Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;"><td =
+width=3D"400" align=3D"left">Wenn Sie keine Warnhinweise von Dropbox erhalt=
+en m=C3=B6chten, klicken Sie bitte <a href=3D"https://www.dropbox.com/l/AhO=
+UMRHS6gm0J6IdeYSe8V1?">hier</a>.<br>Dropbox, Inc., PO Box 77767, San Franci=
+sco, CA 94107, USA</td>
+<td width=3D"128" align=3D"right">=C2=A9 2014 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/Z4GNqIeCQC9NzKpItEjkeJ5?" he=
+ight=3D"1" />
+--===============3769960304920405240==--

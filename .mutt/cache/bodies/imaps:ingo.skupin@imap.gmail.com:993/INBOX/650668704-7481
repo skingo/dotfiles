@@ -1,0 +1,60 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.124.193 with SMTP id mk1csp32993pdb;
+        Wed, 30 Apr 2014 08:27:37 -0700 (PDT)
+X-Received: by 10.15.68.132 with SMTP id w4mr4960516eex.90.1398871657185;
+        Wed, 30 Apr 2014 08:27:37 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id v2si31237050eel.166.2014.04.30.08.27.36
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 30 Apr 2014 08:27:37 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb008)
+ with ESMTPS (Nemesis) id 0LvVI3-1WoptT06WB-010dAt for
+ <ingo.skupin@gmail.com>; Wed, 30 Apr 2014 17:27:36 +0200
+Received: from mout.gmx.net ([212.227.17.21]) by mx-ha.web.de (mxweb008) with
+ ESMTPS (Nemesis) id 0MGjPF-1WariT06L3-00DUtx for <ingo.skupin@web.de>; Wed,
+ 30 Apr 2014 17:27:36 +0200
+Received: from mout.gmx.net ([212.227.15.18]) by mx-ha.gmx.net (mxgmx003) with
+ ESMTPS (Nemesis) id 0M7mQS-1X1i4C3qbY-00vROG; Wed, 30 Apr 2014 17:27:09 +0200
+Received: from [217.252.182.93] by 3capp-gmx-bs17 with HTTP; Wed, 30 Apr
+ 2014 17:27:07 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-266b848b-bb93-4da2-8cb3-66d220919c2c-1398871627389@3capp-gmx-bs17>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>,
+ "_Verteiler_Holz+Dirigent Blasorchester"
+ <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>,
+ Vorstandschaft%Musikverein.Notzingen@gmx.de,
+ Jugendaussschuss%Musikverein.Notzingen@gmx.de,
+ JBO%Musikverein.Notzingen@gmx.de
+Subject: unser Email Portal
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 30 Apr 2014 17:27:07 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:mjtdfh1DQqroHH7pemaNXVvaRNoDh4bkBxruhpF+1B0
+ 4F5TXQTWTl+C4Bp2SDzcKW7PJt5/gY3sFWSj1gA/Rh8Pk6D4b7
+ sO1etHBYBwLnNN8TSLg+ZJmnTc90nXd8nyRa+OMCKZcJMg7ABF
+ l2GJ7KJzYexy2ArEbNf92czjwXj22cHNGKVYy8iSZztukV1NnI
+ ATTNU/uCu62zYsv8sM0EWLHtcA8zdakgLVBuUZ99NOJdVBO6zL
+ bznublhpnzeVUxbpl83j9eze8ujcdDUEX6Dm9RQTqsB0EJJRLi 63zxhk=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>An alle Besucher und Benutzer unserer Email Adresse.</div>
+
+<div>Auch ich besuche ab und zu unser Email Portal. Was mir in letzter Zeit auff&auml;llt, es sind Kollegen dabei, die sich nicht &uuml;ber Logout verabschieden. Ich bitte doch in Zukunft, dies zu tun und darauf zu achten. Warum brauche ich nicht weiter erkl&auml;ren.</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig;</div>
+
+<div>Schorsch</div></div></body></html>

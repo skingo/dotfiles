@@ -1,0 +1,33 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.3.207 with SMTP id 15cs60711vco;
+        Mon, 19 Dec 2011 03:53:22 -0800 (PST)
+Received: by 10.236.173.131 with SMTP id v3mr27050631yhl.112.1324295601243;
+        Mon, 19 Dec 2011 03:53:21 -0800 (PST)
+Return-Path: <help@armorgames.com>
+Received: from agm-node12.nexcess.net ([208.86.250.54])
+        by mx.google.com with ESMTPS id h69si17488964yhe.117.2011.12.19.03.53.21
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 19 Dec 2011 03:53:21 -0800 (PST)
+Received-SPF: neutral (google.com: 208.86.250.54 is neither permitted nor denied by domain of help@armorgames.com) client-ip=208.86.250.54;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 208.86.250.54 is neither permitted nor denied by domain of help@armorgames.com) smtp.mail=help@armorgames.com
+Received: (qmail 17806 invoked by uid 80); 19 Dec 2011 06:53:20 -0500
+Date: Mon, 19 Dec 2011 06:53:20 -0500
+To: ingo.skupin@gmail.com
+From: Armor Games <help@armorgames.com>
+Subject: Armor Games Account Confirmation
+Message-ID: <d4435d9623731f4e363ced1b7214a0d8@armorgames.com>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.0 rc1]
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="iso-8859-1"
+
+Thanks for registering on Armor Games!
+
+Before you can login and begin using your account, you must click on the link below to activate your acount.
+
+http://armorgames.com/verify/6LGDKQUKAZW1FOO
+
+
+Armor Games
+http://armorgames.com

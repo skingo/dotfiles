@@ -1,0 +1,298 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp199439pdd;
+        Thu, 27 Jun 2013 02:10:41 -0700 (PDT)
+X-Received: by 10.15.94.142 with SMTP id bb14mr8031636eeb.112.1372324240365;
+        Thu, 27 Jun 2013 02:10:40 -0700 (PDT)
+Return-Path: <stevekoch@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.17.20])
+        by mx.google.com with ESMTP id b5si1216769eew.40.2013.06.27.02.10.39
+        for <ingo.skupin@gmail.com>;
+        Thu, 27 Jun 2013 02:10:40 -0700 (PDT)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 212.227.17.20 as permitted sender) client-ip=212.227.17.20;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of stevekoch@gmx.de designates 212.227.17.20 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: from mailout-de.gmx.net ([10.1.76.30]) by mrigmx.server.lan
+ (mrigmx001) with ESMTP (Nemesis) id 0LxZpd-1UDQVo1C3P-017DP3 for
+ <ingo.skupin@gmail.com>; Thu, 27 Jun 2013 11:10:39 +0200
+Received: (qmail invoked by alias); 27 Jun 2013 09:10:38 -0000
+Received: from p5B2C625F.dip0.t-ipconnect.de (EHLO Arbeitstier) [91.44.98.95]
+  by mail.gmx.net (mp030) with SMTP; 27 Jun 2013 11:10:38 +0200
+X-Authenticated: #10157959
+X-Provags-ID: V01U2FsdGVkX1+7U6ViRYm7D3Dp/nY7Ns7/58pwuA+ti0WxkGNGLx
+	+x09iR0P3euFrV
+Message-ID: <F7539899BF404FA499579ACAB42D1E7B@Arbeitstier>
+From: <stevekoch@gmx.de>
+To: "Anja Rentz" <anjarentz@arcor.de>,
+	<rs@mut-anhaenger.de>,
+	<f.a.brodbeck@kabelbw.de>,
+	<luisa.schroth@web.de>,
+	<hennrich-paul@web.de>,
+	<sara.eberspaecher@live.de>,
+	<sarah-petzoldt@freenet.de>,
+	<tanja.beichter@gmx.de>,
+	<anja-s96@web.de>,
+	<david.eisele@arcor.de>,
+	<ralf.krasselt@arcor.de>,
+	<annika.steib@hotmail.com>,
+	<christine.dieter.bayer@t-online.de>,
+	<sonja.christiane@web.de>,
+	<uli.mueller@online.de>,
+	<luisa.frietsch@t-online.de>,
+	"Felix Wetzel" <felix@fam-wetzel.com>,
+	<benjamin@steiner.org>,
+	<vera.ringhoffer@web.de>,
+	<v.tomschi@web.de>,
+	"Lotta Zeiger" <lotta@zeiger-web.de>,
+	"Paul Jacot" <paul.jacot@gmx.net>,
+	"Th. Rotter" <T.Rotter@t-online.de>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	<ingo.skupin@gmail.com>,
+	"Vanessa Wuensch" <vanessa.wuensch@web.de>,
+	"Luisa Engel" <engel.luisa@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	<Baurlu@web.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	<nmachanek@web.de>,
+	<smachanek@web.de>,
+	<uli__kurz@t-online.de>,
+	"Christian Baur" <chrisbaur@hotmail.de>,
+	"Marvin Schaich" <Marvin.Schaich@t-online.de>,
+	"Marian Basta" <m-basta@web.de>,
+	<jakob.krenn@t-online.de>,
+	"Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+	<felix.koschei@freenet.de>,
+	<nico.felbinger@web.de>,
+	<florian-floriaus@web.de>,
+	<oliiiiver@hotmail.de>,
+	<jonaskolibius@web.de>,
+	<janina_schott@web.de>,
+	"Philip Koschei" <koschi_99@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	=?iso-8859-1?Q?Florian_Strau=DF?= <strauss-florian@web.de>,
+	=?iso-8859-1?Q?Michael_Pf=E4nder?= <Michi110793@aol.com>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Christoph Korschinek" <christoph@korschinek.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Fanny Rothe" <fanny@wolber-rothe.de>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	"Annika Vesenmaier" <an.ve@arcor.de>,
+	=?iso-8859-1?Q?David_K=FCchle?= <D1V23@aol.com>,
+	"Lisa Richter" <lisarichter93@hotmail.de>,
+	=?iso-8859-1?Q?Philipp_Gr=F6ber?= <groeber_95@web.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	"Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Marco Diez" <marcodiez@gmx.de>,
+	"Kristina Kraemer" <kristina.kraemer@akris.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	<nils.fischer98@gmx.de>,
+	<annabelnannt@gmx.de>,
+	<david@kuechle-salach.de>,
+	"Thorsten Schmidt" <Thorsten.Schmidt_Schmidt@web.de>,
+	"Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+	"Tobias Beichter" <tobias.beichter@gmx.de>,
+	"Christine Zeller" <chrisi.zeller@web.de>,
+	"Matthias Albrecht" <matze.albrecht@web.de>
+Subject: Konzert Landratsamt/Probe Nachtrag
+Date: Thu, 27 Jun 2013 11:10:38 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_014F_01CE7326.F45F2270"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+X-Y-GMX-Trusted: 0
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_014F_01CE7326.F45F2270
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+noch ein kleiner Nachtrag zu unserem Auftritt und der =F6ffentlichen =
+Probe am Samstag.
+Ich habe 53 Musiker auf meiner R=FCckmeldeliste f=FCr beide Termine, die =
+zugesagt haben. Mittlerweile haben sich leider 17 Leute f=FCr einen oder =
+beide Tage abgemeldet.=20
+F=FCr uns als Vorstandschaft wird es, wie ihr sicher einsehen k=F6nnt, =
+dadurch sehr schwierig genau zu planen. Wir versuchen die Termine immer =
+sehr fr=FChzeitig herauszugeben, was uns in den letzten Projekten auch =
+gelungen ist. Bestimmt hat jede/r Einzelne der sich abmeldet einen =
+triftigen Grund daf=FCr, daran zweifle ich nicht, allerdings erschwert =
+es uns die Arbeit sehr.
+Deswegen nochmals die Bitte: Checkt Eure Termine beim Ausf=FCllen der =
+R=FCckmeldung sorgf=E4ltig. Wenn mal kurzfristig etwas dazwischen kommt =
+ist das gar kein Problem, aber 17 kurzfristige Termine scheinen etwas =
+unglaubw=FCrdig und deuten eher auf mangelhaftes Zeitmanagement einiger =
+Mitspieler hin. Nochmals betont, die Musikvereinstermine haben Vorrang, =
+allerdings bin ich mir sicher das nahezu alle Musikvereine ihre Termine =
+auch lange vorher bekannt geben.
+Dass es nahezu unm=F6glich ist so viele Musiker aus so vielen =
+unterschiedlichen Musikvereinen unter einen Hut zu bekommen, ist uns =
+nat=FCrlich auch klar. Aber es kann funktionieren, ein tolles Beispiel =
+war die Umrahmung der Wertungsspielergebnisse in Wendlingen, wo wir uns =
+musikalisch top und in nahezu voller Besetzung pr=E4sentiert haben. Ich =
+denke wenn in Zukunft jede/r Einzelne ein wenig gewissenhafter mit den =
+KJO-Terminen ist, werden die kommenden Proben/Konzerte sowohl Spa=DF =
+machen als auch effektiv sein.=20
+Trotz dieses D=E4mpfers freue ich mich auf Freitag/Samstag,
+Viele Gr=FC=DFe
+Stefan
+Stefan Koch
+Jahnstra=DFe 13
+72639 Neuffen
+
+Telefon: 0172/7297572
+------=_NextPart_000_014F_01CE7326.F45F2270
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Hallo=20
+zusammen,</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">noch=20
+ein kleiner Nachtrag zu unserem Auftritt und der =F6ffentlichen Probe am =
+
+Samstag.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Ich=20
+habe 53 Musiker auf meiner R=FCckmeldeliste f=FCr beide Termine, die =
+zugesagt haben.=20
+Mittlerweile haben sich leider 17 Leute f=FCr einen oder beide Tage =
+abgemeldet.=20
+</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">F=FCr=20
+uns als Vorstandschaft wird es, wie ihr sicher einsehen k=F6nnt, dadurch =
+sehr=20
+schwierig genau zu planen. Wir versuchen die Termine immer sehr =
+fr=FChzeitig=20
+herauszugeben, was uns in den letzten Projekten auch gelungen ist. =
+Bestimmt hat=20
+jede/r Einzelne der sich abmeldet einen triftigen Grund daf=FCr, daran =
+zweifle ich=20
+nicht, allerdings erschwert es uns die Arbeit sehr.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Deswegen=20
+nochmals die Bitte: Checkt Eure Termine beim Ausf=FCllen der =
+R=FCckmeldung=20
+sorgf=E4ltig. Wenn mal kurzfristig etwas dazwischen kommt ist das gar =
+kein=20
+Problem, aber 17 kurzfristige Termine scheinen etwas unglaubw=FCrdig und =
+deuten=20
+eher auf mangelhaftes Zeitmanagement einiger Mitspieler hin. Nochmals =
+betont,=20
+die Musikvereinstermine haben Vorrang, allerdings bin ich mir sicher das =
+nahezu=20
+alle Musikvereine ihre Termine auch lange vorher bekannt =
+geben.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Dass=20
+es nahezu unm=F6glich ist so viele Musiker aus so vielen =
+unterschiedlichen=20
+Musikvereinen unter einen Hut zu bekommen, ist uns nat=FCrlich auch =
+klar. Aber es=20
+kann funktionieren, ein tolles Beispiel war die Umrahmung der=20
+Wertungsspielergebnisse in Wendlingen, wo wir uns musikalisch top und in =
+nahezu=20
+voller Besetzung pr=E4sentiert haben. Ich denke wenn in Zukunft jede/r =
+Einzelne=20
+ein wenig gewissenhafter mit den KJO-Terminen ist, werden die kommenden=20
+Proben/Konzerte sowohl Spa=DF machen als auch effektiv sein. =
+</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Trotz=20
+dieses D=E4mpfers freue ich mich auf Freitag/Samstag,</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Viele=20
+Gr=FC=DFe</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Stefan</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-FAMILY: ; COLOR: ; TEXT-DECORATION: ; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"></DIV>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: =
+#000000">Stefan=20
+Koch<BR>Jahnstra=DFe 13<BR>72639 Neuffen<BR><BR>Telefon:=20
+0172/7297572</DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_014F_01CE7326.F45F2270--
+

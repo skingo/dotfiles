@@ -1,0 +1,379 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.170.115.140 with SMTP id h134csp115204ykb;
+        Sat, 10 May 2014 16:12:25 -0700 (PDT)
+X-Received: by 10.14.180.8 with SMTP id i8mr22067579eem.67.1399763544622;
+        Sat, 10 May 2014 16:12:24 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id n7si7131112eeu.169.2014.05.10.16.12.24
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 10 May 2014 16:12:24 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@gmail.com
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb009)
+ with ESMTPS (Nemesis) id 0MWMcE-1WKXUa2T4U-00XbCK for
+ <ingo.skupin@gmail.com>; Sun, 11 May 2014 01:12:23 +0200
+Received: from mail-oa0-f45.google.com ([209.85.219.45]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MYIHx-1WNYhD2Sw5-00V8UN for
+ <ingo.skupin@web.de>; Sun, 11 May 2014 01:12:22 +0200
+Received: by mail-oa0-f45.google.com with SMTP id l6so6558213oag.4
+        for <multiple recipients>; Sat, 10 May 2014 16:12:21 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date:message-id:subject
+         :from:to:cc:content-type;
+        bh=r5MWj0rEc4Gtzf3GF/s8vW1eB0WuXKWsLw4GfaaKSVI=;
+        b=zlbecxCQQRqOkpZrwTn21XAzWUBx/zt7ToU0oiWOQ1YTAmluMMtoI0p1XWUtKeZPHS
+         rLML09ugIa+jC81v1HePmBJTfXexOjLiTU79wfDAkwG8X4HVY/JUHvQkxCOhge+yZ1NH
+         ki5W0niToJVaRBW2jWl+k3A+jYWIOBc/uTsTgpIWUMMn9ldYGy2P7pSmBL1H0bSr7H5f
+         Q2wC/pOLYY/7VOf/K2f4ZUwvEfYhaIx7G/Y/5FSBRHeNYTLe7x16nLC8fs4ubyZtKM5B
+         0/kLXAttcnBp7dU3vzbGAyKpFFOtAVUWd4maGT9+MzH3Lu1obp4xPd/SrIg0uc/HAKA9
+         R7mw==
+MIME-Version: 1.0
+X-Received: by 10.182.42.136 with SMTP id o8mr1435obl.80.1399763541071; Sat,
+ 10 May 2014 16:12:21 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.76.69.134 with HTTP; Sat, 10 May 2014 16:12:20 -0700 (PDT)
+In-Reply-To: <89D9D512-D361-4E21-8734-83EDCFA67ACF@dkfz.de>
+References: <001e01cf64c4$4cce4d70$e66ae850$@pfister-heidelberg.de>
+	<9C7CC248-AF81-4A44-8131-DF86C7D5C0D0@dkfz.de>
+	<CAN1A5uDbLs-e90PWCJfSZfgDN1qAgRLGDmnZBcMJTMcOa-hyxA@mail.gmail.com>
+	<89D9D512-D361-4E21-8734-83EDCFA67ACF@dkfz.de>
+Date: Sun, 11 May 2014 01:12:20 +0200
+X-Google-Sender-Auth: mtXhstglp86zZ44ZE7kLyJ7XBfQ
+Message-ID: <CAN1A5uCiOGa=WYR3+D1siMMTpDnfZ-sxia0pV1VWjk2dnEVHKA@mail.gmail.com>
+Subject: Re: Kommende Probentermine etc.
+From: Florian Sebert <florian@floriansebert.de>
+To: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+Cc: Martina <martina@pfister-heidelberg.de>, 
+	"sabine@pfister-tuebingen.de" <sabine@pfister-tuebingen.de>, Yannick Frey <yannick.frey1994@web.de>, 
+	Steffen Sautter <steffen.sautter@web.de>, Tizian Decker <tizian_decker@web.de>, 
+	Lena Hahn <LenaHahn20@web.de>, "raphael@rothschink.de" <raphael@rothschink.de>, 
+	Lukas Fischer <l.fischer@3-1415.de>, Ingo Skupin <ingo.skupin@web.de>, 
+	Julia Wollny <wollny.julia@me.com>, "tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>, 
+	"Dr. Stefan Wiehr" <stefan@wiehr.de>, Rainer Pfister <rainer.pfister@me.com>, Daniel Metzger <jandan@gmx.de>, 
+	"Harry D. Bath" <harryd.bath@t-online.de>, 
+	"kinderaerztin_susanne@t-online.de" <kinderaerztin_susanne@t-online.de>, Ruth <ruth-1935@web.de>, 
+	Gerhard Nagel <grnagel@web.de>
+Content-Type: multipart/alternative; boundary=001a11c305c2a2a0b004f913d854
+
+--001a11c305c2a2a0b004f913d854
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Lena kniet nicht f=C3=BCr alles und jeden. Dabei muss schon mindestens eine
+YouTube -Aufnahme rausspringen...
+
+Also dann echt lieber -3 Punkte!
+
+Am Samstag, 10. Mai 2014 schrieb Pfister, Stefan :
+
+> Performance war zu langweilig - ganz ohne Knien - das gab Abz=C3=BCge in =
+der
+> B-Note (-:
+>
+> Stefan
+>
+> Prof. Dr. Stefan M. Pfister
+> Division of Pediatric Neurooncology
+> German Cancer Research Center (DKFZ)
+> Department of Pediatric Hematology and Oncology
+> Heidelberg University Hospital
+>
+>
+>
+> Am 10.05.2014 um 19:37 schrieb "Florian Sebert" <florian@floriansebert.de=
+<javascript:;>
+> <mailto:florian@floriansebert.de <javascript:;>>>:
+>
+> Ja spinnen die??? Wo sollen wir denn die 3 Punkte gelassen haben???
+>
+> Wobei - wahrscheinlich h=C3=A4tte ein rotes Halstuch den Auschlag gegeben=
+...
+>
+> oder halt Rebel, Takt 206ff...
+>
+>
+> 2014-05-10 18:45 GMT+02:00 Pfister, Stefan <S.Pfister@dkfz-heidelberg.de<=
+javascript:;>
+> <mailto:S.Pfister@dkfz-heidelberg.de <javascript:;>>>:
+> Hallo alle!
+>
+> Sabine & Rainer haben gerade angerufen, dass wir 97 von 100 Punkte
+> bekommen und mit hervorragendem Erfolg teilngenommen haben (-:
+>
+> Die Frau, die die Urkunden =C3=BCbergeben hat, sprach von einem "legend=
+=C3=A4ren
+> Auftritt" - da muss Harry wohl schon wieder mit uns zufrieden sein (-:
+>
+> Vielen Dank Euch allen - Ihr seid echt eine tolle Mannschaft!
+>
+> Viele Gr=C3=BCsse,
+>
+> Eure Heidelberger
+>
+> Prof. Dr. Stefan M. Pfister
+> Division of Pediatric Neurooncology
+> German Cancer Research Center (DKFZ)
+> Department of Pediatric Hematology and Oncology
+> Heidelberg University Hospital
+>
+>
+>
+> Am 01.05.2014 um 00:51 schrieb "Martina" <martina@pfister-heidelberg.de<j=
+avascript:;>
+> <mailto:martina@pfister-heidelberg.de <javascript:;>><mailto:
+> martina@pfister-heidelberg.de <javascript:;><mailto:
+> martina@pfister-heidelberg.de <javascript:;>>>>:
+>
+> Hallo Ihr Lieben,
+>
+> diesmal keine =E2=80=9EBilder-Mail=E2=80=9C, sondern nur langweilige Ense=
+mble-Termine =E2=98=BA.
+> Wir hoffen es sind mittlerweile alle wieder ausgeschlafen ;-).
+>
+> Kurzer =C3=9Cberblick zu dem was kommt und eine Terminanfrage mit der Bit=
+te um
+> baldige R=C3=BCckmeldung.
+>
+> Mai
+>
+>
+> 1.      Am 10.05. im Kultur- und Bildungszentrum =E2=80=9CKubiz=E2=80=9C =
+der Stadt
+> =C3=96hringen in der Hindenburgstra=C3=9Fe 46,  ist 20 km weg von Untergr=
+uppenbach,
+> Treffpunkt 9 Uhr, Wegbeschreibung folgt in getrennter Mail
+>
+> 2.      Am 11.05. keine Probe
+>
+> Juni
+>
+> 14./15.06. mangels Konzert auch keine Probe und am 22.06. nach dem Fest i=
+n
+> HD auch nicht
+>
+>
+> Juli
+> Daf=C3=BCr aber die Probe im Juli, hier werde ich f=C3=BCr einen der Tage=
+ ein
+> =E2=80=9EMittagskonzert=E2=80=9C im Restaurant Casino am Neckar anfragen,=
+ dabei
+> k=C3=B6nnen wir gleich die kommenden Konzerte bewerben.
+>
+>
+> September
+> K=C3=B6nntet Ihr am 13./14.09. f=C3=BCr eine zus=C3=A4tzliche Probe?
+> Eine solche Probe direkt vor Belgien scheint uns sinnvoller als eine im
+> Juni mit einer anschlie=C3=9Fenden vier w=C3=B6chigen Pause.
+>
+>
+> Liebe Gr=C3=BC=C3=9Fe
+> Martina
+>
+>
+>
+> ________________________________
+> [http://static.avast.com/emails/avast-mail-stamp.png]<
+> http://www.avast.com/>
+>
+>
+> Diese E-Mail ist frei von Viren und Malware, denn der avast! Antivirus<
+> http://www.avast.com/> Schutz ist aktiv.
+>
+>
+>
+>
+> ________________________________
+> [http://static.avast.com/emails/avast-mail-stamp.png] <
+> http://www.avast.com/>
+>
+> Diese E-Mail ist frei von Viren und Malware, denn der avast! Antivirus<
+> http://www.avast.com/> Schutz ist aktiv.
+>
+>
+>
+>
+>
+> --
+> Dr. Florian Sebert
+> d-fine GmbH
+> Munich Office
+> Bavariafilmplatz 8, 82031 Gr=C3=BCnwald
+> Mobil +49 (0)162 2631334
+> Tel    +49 (0)89 7908617 391
+> Fax   +49 (0)89 7908617 202
+> www.d-fine.de<http://www.d-fine.de>
+>
+
+
+--=20
+Von meinem iPad gesendet
+
+--001a11c305c2a2a0b004f913d854
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Lena kniet nicht f=C3=BCr alles und jeden. Dabei=C2=A0muss schon mindestens=
+ eine YouTube -Aufnahme rausspringen...<div><br></div><div>Also dann echt l=
+ieber -3 Punkte!<br><br>Am Samstag, 10. Mai 2014 schrieb Pfister, Stefan :<=
+br><blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left=
+:1px #ccc solid;padding-left:1ex">
+Performance war zu langweilig - ganz ohne Knien - das gab Abz=C3=BCge in de=
+r B-Note (-:<br>
+<br>
+Stefan<br>
+<br>
+Prof. Dr. Stefan M. Pfister<br>
+Division of Pediatric Neurooncology<br>
+German Cancer Research Center (DKFZ)<br>
+Department of Pediatric Hematology and Oncology<br>
+Heidelberg University Hospital<br>
+<br>
+<br>
+<br>
+Am 10.05.2014 um 19:37 schrieb &quot;Florian Sebert&quot; &lt;<a href=3D"ja=
+vascript:;" onclick=3D"_e(event, &#39;cvml&#39;, &#39;florian@floriansebert=
+.de&#39;)">florian@floriansebert.de</a>&lt;mailto:<a href=3D"javascript:;" =
+onclick=3D"_e(event, &#39;cvml&#39;, &#39;florian@floriansebert.de&#39;)">f=
+lorian@floriansebert.de</a>&gt;&gt;:<br>
+
+<br>
+Ja spinnen die??? Wo sollen wir denn die 3 Punkte gelassen haben???<br>
+<br>
+Wobei - wahrscheinlich h=C3=A4tte ein rotes Halstuch den Auschlag gegeben..=
+.<br>
+<br>
+oder halt Rebel, Takt 206ff...<br>
+<br>
+<br>
+2014-05-10 18:45 GMT+02:00 Pfister, Stefan &lt;<a href=3D"javascript:;" onc=
+lick=3D"_e(event, &#39;cvml&#39;, &#39;S.Pfister@dkfz-heidelberg.de&#39;)">=
+S.Pfister@dkfz-heidelberg.de</a>&lt;mailto:<a href=3D"javascript:;" onclick=
+=3D"_e(event, &#39;cvml&#39;, &#39;S.Pfister@dkfz-heidelberg.de&#39;)">S.Pf=
+ister@dkfz-heidelberg.de</a>&gt;&gt;:<br>
+
+Hallo alle!<br>
+<br>
+Sabine &amp; Rainer haben gerade angerufen, dass wir 97 von 100 Punkte beko=
+mmen und mit hervorragendem Erfolg teilngenommen haben (-:<br>
+<br>
+Die Frau, die die Urkunden =C3=BCbergeben hat, sprach von einem &quot;legen=
+d=C3=A4ren Auftritt&quot; - da muss Harry wohl schon wieder mit uns zufried=
+en sein (-:<br>
+<br>
+Vielen Dank Euch allen - Ihr seid echt eine tolle Mannschaft!<br>
+<br>
+Viele Gr=C3=BCsse,<br>
+<br>
+Eure Heidelberger<br>
+<br>
+Prof. Dr. Stefan M. Pfister<br>
+Division of Pediatric Neurooncology<br>
+German Cancer Research Center (DKFZ)<br>
+Department of Pediatric Hematology and Oncology<br>
+Heidelberg University Hospital<br>
+<br>
+<br>
+<br>
+Am 01.05.2014 um 00:51 schrieb &quot;Martina&quot; &lt;<a href=3D"javascrip=
+t:;" onclick=3D"_e(event, &#39;cvml&#39;, &#39;martina@pfister-heidelberg.d=
+e&#39;)">martina@pfister-heidelberg.de</a>&lt;mailto:<a href=3D"javascript:=
+;" onclick=3D"_e(event, &#39;cvml&#39;, &#39;martina@pfister-heidelberg.de&=
+#39;)">martina@pfister-heidelberg.de</a>&gt;&lt;mailto:<a href=3D"javascrip=
+t:;" onclick=3D"_e(event, &#39;cvml&#39;, &#39;martina@pfister-heidelberg.d=
+e&#39;)">martina@pfister-heidelberg.de</a>&lt;mailto:<a href=3D"javascript:=
+;" onclick=3D"_e(event, &#39;cvml&#39;, &#39;martina@pfister-heidelberg.de&=
+#39;)">martina@pfister-heidelberg.de</a>&gt;&gt;&gt;:<br>
+
+<br>
+Hallo Ihr Lieben,<br>
+<br>
+diesmal keine =E2=80=9EBilder-Mail=E2=80=9C, sondern nur langweilige Ensemb=
+le-Termine =E2=98=BA.<br>
+Wir hoffen es sind mittlerweile alle wieder ausgeschlafen ;-).<br>
+<br>
+Kurzer =C3=9Cberblick zu dem was kommt und eine Terminanfrage mit der Bitte=
+ um baldige R=C3=BCckmeldung.<br>
+<br>
+Mai<br>
+<br>
+<br>
+1. =C2=A0 =C2=A0 =C2=A0Am 10.05. im Kultur- und Bildungszentrum =E2=80=9CKu=
+biz=E2=80=9C der Stadt =C3=96hringen in der Hindenburgstra=C3=9Fe 46, =C2=
+=A0ist 20 km weg von Untergruppenbach, Treffpunkt 9 Uhr, Wegbeschreibung fo=
+lgt in getrennter Mail<br>
+<br>
+2. =C2=A0 =C2=A0 =C2=A0Am 11.05. keine Probe<br>
+<br>
+Juni<br>
+<br>
+14./15.06. mangels Konzert auch keine Probe und am 22.06. nach dem Fest in =
+HD auch nicht<br>
+<br>
+<br>
+Juli<br>
+Daf=C3=BCr aber die Probe im Juli, hier werde ich f=C3=BCr einen der Tage e=
+in =E2=80=9EMittagskonzert=E2=80=9C im Restaurant Casino am Neckar anfragen=
+, dabei<br>
+k=C3=B6nnen wir gleich die kommenden Konzerte bewerben.<br>
+<br>
+<br>
+September<br>
+K=C3=B6nntet Ihr am 13./14.09. f=C3=BCr eine zus=C3=A4tzliche Probe?<br>
+Eine solche Probe direkt vor Belgien scheint uns sinnvoller als eine im Jun=
+i mit einer anschlie=C3=9Fenden vier w=C3=B6chigen Pause.<br>
+<br>
+<br>
+Liebe Gr=C3=BC=C3=9Fe<br>
+Martina<br>
+<br>
+<br>
+<br>
+________________________________<br>
+[<a href=3D"http://static.avast.com/emails/avast-mail-stamp.png" target=3D"=
+_blank">http://static.avast.com/emails/avast-mail-stamp.png</a>]&lt;<a href=
+=3D"http://www.avast.com/" target=3D"_blank">http://www.avast.com/</a>&gt;<=
+br>
+
+<br>
+<br>
+Diese E-Mail ist frei von Viren und Malware, denn der avast! Antivirus&lt;<=
+a href=3D"http://www.avast.com/" target=3D"_blank">http://www.avast.com/</a=
+>&gt; Schutz ist aktiv.<br>
+<br>
+<br>
+<br>
+<br>
+________________________________<br>
+[<a href=3D"http://static.avast.com/emails/avast-mail-stamp.png" target=3D"=
+_blank">http://static.avast.com/emails/avast-mail-stamp.png</a>] &lt;<a hre=
+f=3D"http://www.avast.com/" target=3D"_blank">http://www.avast.com/</a>&gt;=
+<br>
+
+<br>
+Diese E-Mail ist frei von Viren und Malware, denn der avast! Antivirus&lt;<=
+a href=3D"http://www.avast.com/" target=3D"_blank">http://www.avast.com/</a=
+>&gt; Schutz ist aktiv.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+--<br>
+Dr. Florian Sebert<br>
+d-fine GmbH<br>
+Munich Office<br>
+Bavariafilmplatz 8, 82031 Gr=C3=BCnwald<br>
+Mobil +49 (0)162 2631334<br>
+Tel =C2=A0 =C2=A0+49 (0)89 7908617 391<br>
+Fax =C2=A0 +49 (0)89 7908617 202<br>
+<a href=3D"http://www.d-fine.de" target=3D"_blank">www.d-fine.de</a>&lt;<a =
+href=3D"http://www.d-fine.de" target=3D"_blank">http://www.d-fine.de</a>&gt=
+;<br>
+</blockquote></div><br><br>-- <br>Von meinem iPad gesendet<br>
+
+--001a11c305c2a2a0b004f913d854--

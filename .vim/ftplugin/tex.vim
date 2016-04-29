@@ -8,6 +8,9 @@ set tabstop=2
 " additionally, this allows to treat \commands as whole words
 set iskeyword+=:,\
 
+" hightlight todos in tex code
+match ErrorMsg /\\todo/
+
 " use K to access Tex documentations
 "set keywordprg=tex-keywordprg
 set keywordprg=texdoc

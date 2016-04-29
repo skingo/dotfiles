@@ -1,0 +1,103 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.125.39 with SMTP id mn7csp37196lbb;
+        Thu, 28 Mar 2013 11:49:03 -0700 (PDT)
+X-Received: by 10.52.164.139 with SMTP id yq11mr24242920vdb.36.1364496542623;
+        Thu, 28 Mar 2013 11:49:02 -0700 (PDT)
+Return-Path: <3nZBUUQcKC6ANOREPLYGOOGLE.COMINGO.SKUPINGOOGLEMAIL.COM@trix.bounces.google.com>
+Received: from mail-ye0-f200.google.com (mail-ye0-f200.google.com [209.85.213.200])
+        by mx.google.com with ESMTPS id l8si30616100vdw.20.2013.03.28.11.49.02
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 28 Mar 2013 11:49:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 3nZBUUQcKC6ANOREPLYGOOGLE.COMINGO.SKUPINGOOGLEMAIL.COM@trix.bounces.google.com designates 209.85.213.200 as permitted sender) client-ip=209.85.213.200;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 3nZBUUQcKC6ANOREPLYGOOGLE.COMINGO.SKUPINGOOGLEMAIL.COM@trix.bounces.google.com designates 209.85.213.200 as permitted sender) smtp.mail=3nZBUUQcKC6ANOREPLYGOOGLE.COMINGO.SKUPINGOOGLEMAIL.COM@trix.bounces.google.com;
+       dkim=pass header.i=@google.com
+Received: by mail-ye0-f200.google.com with SMTP id r11so5958385yen.11
+        for <ingo.skupin@googlemail.com>; Thu, 28 Mar 2013 11:49:02 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-received:message-id:date:subject:from:to
+         :content-type;
+        bh=XD+ZkveDZ5jwNF858Oqnerz4jSneCFJwTsdLoemJ/Vo=;
+        b=nVVZSqztsV8X33gNQw+2cxj9N3bSW546aRMew3oRAc9wGHOIrLaZgi0vSUK2ja7DM0
+         vjo+Oyf2NB+doJRXyz80TRU3V1BGFSUBD4s9nXSdzVl1yb5sWu1WF7yJJJJnELhaak+a
+         mkTVTg4YVVAfxJVEzROPooihkTeiGrYxcsrSRkSnliCfkefcaSDnV4CKfIrhn6Wvu/v4
+         rV4NeyvDCMd9G40RrdnCfqRVJw+ttE2QGcTDTsobsmrGEImSRWhUla6yIXgeseszWtFs
+         G0gEpE4QOnT7gR1RBXZa5gkInJi7D/sULna8C/mtpyiphco2sojx1cBkCQrT+It/WKl6
+         skCg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:x-received:message-id:date:subject:from:to
+         :content-type:x-gm-message-state;
+        bh=XD+ZkveDZ5jwNF858Oqnerz4jSneCFJwTsdLoemJ/Vo=;
+        b=ZChIzbUQ0bbyo0AFSUeu10vVe1myFNQfTKrfWdc21k09oYQhP7+JfAzBkH0mrt9Pci
+         N4U2CtYbiqGjTbbp2GMZ4RlZigV/+7Xp+gVnVC8aZCSIb2LueTwjzYbJGeLCBgAlGhTh
+         ZyQPoGgtlX6JagPjksVgDFXY1z8OmikxBqdelZrDXO1ZN08eeNmtM5ue2ocZlgwPZ8sT
+         TdAMqP2yERaywEYO57KHkdnJBctG3FqOwr8g8IVxxvtqhuarmAEIYnR+l7jPEpjdblcZ
+         uvbc2gbzh6aCxkkCXJgxYpUP0KagcWObYyXfKRX2qtzCMEcwbasIi3p+oiGPU+oeIm5p
+         vEbQ==
+MIME-Version: 1.0
+X-Received: by 10.52.30.202 with SMTP id u10mr12598301vdh.4.1364496541932;
+ Thu, 28 Mar 2013 11:49:01 -0700 (PDT)
+Message-ID: <bcaec51d2796ae336004d9009b1f@google.com>
+Date: Thu, 28 Mar 2013 18:49:01 +0000
+Subject: grades-anonymized is now available in Google Docs
+From: Google Docs <noreply@google.com>
+To: ingo.skupin@googlemail.com
+Content-Type: multipart/alternative; boundary=bcaec51d2796ae335004d9009b1c
+X-Gm-Message-State: ALoCoQmJJkOsHghiFR0Ip2N95dfmEG/rzuos7t9MDWn24/HXJd112dP3TmgLOsotegNltR8NUvEJPien26HefM3G1ecjLOStGFYcPJq/60UA4NykqD8UqGsu3KNpstcs8//vUCrKP+KcOm1bBc1tHc+1ha7rHqOLIqY17k1atWdl8R8RgXBkzrBrNHXNMUm8MtMQyNEt5h7bYM2zjP4Hfb2JlzR4uNTPGg==
+
+--bcaec51d2796ae335004d9009b1c
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+You used Gmail's "Open as a Google spreadsheet" link to view the attachment  
+called "grades-anonymized".
+
+By doing this you saved an editable copy online at Google Docs:  
+https://spreadsheets.google.com/spreadsheet/ccc?key=0AuTT-CEGiGnodDRCN2d3ODh4a1dPVmNtMnZORkNYc0E&gmrcpt
+
+Google Docs allows you to:
+
+  * Create and edit documents, spreadsheets and presentations online, from  
+anywhere you have Internet access.
+  * Share documents with others, even collaborating on the same document at  
+once, in real time.
+  * Know that your documents are safe. Since your content is stored on  
+Google's secure servers, even if something happens to your hard drive, your  
+documents are protected.
+
+You can always get back to Google Docs directly at  
+https://spreadsheets.google.com/spreadsheet/
+
+Thanks,
+The Google Docs Team
+
+Questions? Take a quick tour  
+(http://www.google.com/google-d-s/intl/en/tour1.html) or visit the Google  
+Docs Help Center  
+(http://docs.google.com/support/bin/answer.py?answer=66343). Please note  
+this is an automated message -- we won't see it if you Reply to this.
+
+--bcaec51d2796ae335004d9009b1c
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+You used Gmail's "Open as a Google spreadsheet" link to view the attachment=
+ called "grades-anonymized".<BR><BR>By doing this you saved an editable cop=
+y online at Google Docs: <a href=3D"https://spreadsheets.google.com/spreads=
+heet/ccc?key=3D0AuTT-CEGiGnodDRCN2d3ODh4a1dPVmNtMnZORkNYc0E&gmrcpt">https:/=
+/spreadsheets.google.com/spreadsheet/ccc?key=3D0AuTT-CEGiGnodDRCN2d3ODh4a1d=
+PVmNtMnZORkNYc0E&gmrcpt</a><BR><BR>Google Docs allows you to:<ul><li><b>Cre=
+ate and edit</b> documents, spreadsheets and presentations online, from any=
+where you have Internet access.<BR></li><li><b>Share documents with others<=
+/b>, even collaborating on the same document at once, in real time.<BR></li=
+><li><b>Know that your documents are safe</b>. Since your content is stored=
+ on Google's secure servers, even if something happens to your hard drive, =
+your documents are protected.</li></ul>You can always get back to Google Do=
+cs directly at https://spreadsheets.google.com/spreadsheet/<BR><BR>Thanks,<=
+BR>The Google Docs Team<BR><BR><i>Questions? Take a <a href=3Dhttp://www.go=
+ogle.com/google-d-s/intl/en/tour1.html>quick tour</a> or visit the Google D=
+ocs <a href=3Dhttp://docs.google.com/support/bin/answer.py?answer=3D66343>H=
+elp Center</a>. Please note this is an automated message -- we won't see it=
+ if you Reply to this.<BR>
+--bcaec51d2796ae335004d9009b1c--

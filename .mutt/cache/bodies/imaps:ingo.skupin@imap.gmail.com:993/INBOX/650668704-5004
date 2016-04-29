@@ -1,0 +1,102 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.125.39 with SMTP id mn7csp29898lbb;
+        Wed, 13 Mar 2013 10:47:41 -0700 (PDT)
+X-Received: by 10.14.215.193 with SMTP id e41mr61757218eep.32.1363196861317;
+        Wed, 13 Mar 2013 10:47:41 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id a9si43842149eem.245.2013.03.13.10.47.41;
+        Wed, 13 Mar 2013 10:47:41 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from mout.gmx.net ([212.227.17.20]) by mx-ha.web.de (mxweb105) with
+ ESMTP (Nemesis) id 0M1DdM-1UZYU013No-00t7bG for <ingo.skupin@gmail.com>; Wed,
+ 13 Mar 2013 18:47:40 +0100
+Received: from mout.gmx.net ([212.227.17.21]) by mx-ha.gmx.net (mxgmx011) with
+ ESMTP (Nemesis) id 0MeLIF-1U6nu61AgJ-00QEOt; Wed, 13 Mar 2013 18:47:33 +0100
+Received: from mailout-de.gmx.net ([10.1.76.12]) by mrigmx.server.lan
+ (mrigmx001) with ESMTP (Nemesis) id 0MQKg6-1UAMfZ0je8-00TiZB for
+ =?utf-8?q?<BO=5fHolz+Dirigent%Musikverein.Notzingen@gmx.de>;?= Wed, 13 Mar
+ 2013 18:47:33 +0100
+Received: (qmail 4130 invoked by uid 0); 13 Mar 2013 17:47:33 -0000
+Received: from 78.43.53.202 by www011.gmx.net with HTTP;
+ Wed, 13 Mar 2013 18:47:30 +0100 (CET)
+Content-Type: multipart/alternative;
+ boundary="========GMXBoundary156771363196850101697"
+Date: Wed, 13 Mar 2013 18:47:30 +0100
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+Message-ID: <20130313174730.156770@gmx.net>
+MIME-Version: 1.0
+Subject: Terminanfrage
+To: Vorstandschaft%Musikverein.Notzingen@gmx.de,
+ BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de,
+ BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de
+X-Flags: 0001
+X-Mailer: WWW-Mail 6100 (Global Message Exchange)
+X-Priority: 3
+X-Provags-ID: V01U2FsdGVkX1+J2ct2uZSJSV9tR0WsImRw1lrunNALkAwP9x7YsV
+ YemcDzKMmOrfeLmWHaxH2kGwJ0DfF2pf9jsA== 
+X-GMX-UID: 5d4ycVlceSEqZDkWYXQhUPx+IGRvb8CB
+
+--========GMXBoundary156771363196850101697
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen!
+Ich habe heute eine Anfrage aus Lindorf bekommen, ob wir an ihrem Waldfest 
+spielen könnten.
+Der Termin wäre Sonntag 5. Mai  von 11.30 Uhr bis 14 Uhr!
+bitte bis Dienstag abklären, werde es in der Probe abfragen!
+
+Gruß Timo    
+-- 
+Musikverein Notzingen-Wellingen e.V.
+eMail: musikverein.notzingen@gmx.de
+Internet: http://www.musikverein-notzingen.de
+
+
+--========GMXBoundary156771363196850101697
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+    <head>
+        <title></title>
+        <style type=3D"text/css" media=3D"screen">
+
+BODY {
+	PADDING-BOTTOM: 5px; BACKGROUND-COLOR: #fff; MARGIN: 0px; PADDING-LEFT: 5p=
+x; PADDING-RIGHT: 5px; FONT-FAMILY: verdana, arial, helvetica, sans-serif; =
+FONT-SIZE: 12px; PADDING-TOP: 5px
+}
+P {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+UL {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+LI {
+	MARGIN-TOP: 0px; MARGIN-BOTTOM: 0px
+}
+BLOCKQUOTE {
+	MARGIN-LEFT: 5px
+}
+DIV.signature {
+	COLOR: #666; FONT-SIZE: 0.9em
+}</style>
+    </head>
+    <body>
+        Hallo zusammen!<br />Ich habe heute eine Anfrage aus Lindorf bekomm=
+en, ob wir an ihrem Waldfest spielen k&ouml;nnten.<br />Der Termin w&auml;r=
+e Sonntag 5. Mai&nbsp; von 11.30 Uhr bis 14 Uhr!<br />bitte bis Dienstag ab=
+kl&auml;ren, werde es in der Probe abfragen!<br /><br />Gru&szlig; Timo
+    <div class=3D"signature"><br /><br /><br />-- <br />Musikverein=C2=A0No=
+tzingen-Wellingen=C2=A0e.V.=0D<br />
+eMail:=C2=A0musikverein.notzingen@gmx.de=0D<br />
+Internet:=C2=A0http://www.musikverein-notzingen.de<br />
+<br />
+</div></body>
+</html>
+
+--========GMXBoundary156771363196850101697--

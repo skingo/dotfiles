@@ -1,0 +1,141 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp141188pdb;
+        Mon, 9 Dec 2013 14:03:34 -0800 (PST)
+X-Received: by 10.15.21.78 with SMTP id c54mr34511eeu.115.1386626612953;
+        Mon, 09 Dec 2013 14:03:32 -0800 (PST)
+Return-Path: <no-reply@dropbox.com>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id p9si11446160eew.34.2013.12.09.14.03.32
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 09 Dec 2013 14:03:32 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning no-reply@dropbox.com does not designate 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning no-reply@dropbox.com does not designate 212.227.17.11 as permitted sender) smtp.mail=no-reply@dropbox.com;
+       dkim=pass (test mode) header.i=@dropbox.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=dropbox.com
+Received: from sjd-ra1-6c.sjc.dropbox.com ([108.160.165.119]) by mx-ha.web.de
+ (mxweb007) with ESMTPS (Nemesis) id 0McVTE-1W7oKh39DE-00HhSU for
+ <ingo.skupin@gmail.com>; Mon, 09 Dec 2013 23:03:32 +0100
+Received: from snt-web736.sjc.dropbox.com (snt-web736.sjc.dropbox.com [10.12.11.149])
+	by sjd-ra1-6c.sjc.dropbox.com (Postfix) with ESMTP id ECE081C0A54
+	for <ingo.skupin@web.de>; Mon,  9 Dec 2013 22:03:29 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1386626609; bh=QJgrm+95mIehmgRvM3iGyC4DhlYGkLLnJNbq8YcgfZI=;
+	h=From:To:Subject:Date:Reply-To;
+	b=hB/g4JweF0EiAZPxpyCUIuk6vENOWZ/wLsfXYqVTb3+gilMju0IlVMSKIIhtQygg3
+	 xY5BSm9MRSAb/uE6A3P8OydxFfvKS1ilRYe9/lxo1waowY+qlSE7bfWwZukVUHMJ0v
+	 2GijoZ+qiszljW/9R6u8us3bwQWnOjEvUDH/WCRg=
+Received: from snt-web736.sjc.dropbox.com (localhost [127.0.0.1])
+	by snt-web736.sjc.dropbox.com (Postfix) with ESMTP id E8CCFC09D7
+	for <ingo.skupin@web.de>; Mon,  9 Dec 2013 22:03:29 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============3774490184457242112=="
+MIME-Version: 1.0
+From: Rainer via Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+Subject: =?utf-8?q?Rainer_Pfister_m=C3=B6chte_=E2=80=9EMVN=E2=80=9C_f=C3=BCr_Sie_f?=
+ =?utf-8?q?reigeben=0D=0A?=
+Date: Mon, 09 Dec 2013 22:03:29 +0000
+Reply-To: rainer.pfister@me.com
+Message-Id: <20131209220329.E8CCFC09D7@snt-web736.sjc.dropbox.com>
+
+--===============3774490184457242112==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Rainer hat Sie zu einem freigegebenen Dropbox-Ordner namens =E2=80=9EMVN=E2=
+=80=9C eingeladen und schreibt Ihnen dazu Folgendes: =
+
+
+ =E2=80=9ELiebe Musikerinnen, liebe Musiker,
+
+ich habe euch auf Dropbox s=C3=A4mtliche Titel zum Download / zum Anh=C3=B6=
+ren bereitgestellt. Bitte nutzt diese M=C3=B6glichkeit, euch mit den Titeln=
+ zu versorgen. Das spart mir enorm viel Arbeit. F=C3=BCr eure Unterst=C3=BC=
+tzung im Voraus besten Dank. F=C3=BCr alle, die noch keinen Dropbox-Account=
+ haben, w=C3=A4re das eine gute Gelegenheit, sich diesen kostenlos zu holen.
+
+Viele liebe Gr=C3=BC=C3=9Fe,
+
+Euer Rainer=E2=80=9C =
+
+
+Ordner anzeigen unter:
+https://www.dropbox.com/l/l2I6Q31ChXD9T3EpMKUlMd/invite?text=3D1
+--===============3774490184457242112==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"><style>
+        @font-face {
+            font-family: "proxima_nova";
+            src: url("https://www.dropbox.com/static/fonts/proximanova/prox=
+ima-nova-regular.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+        a {
+            color: #007ee6;
+            text-decoration: none;
+        }
+        </style></head><body style=3D"padding: 0; width: 100% !important; -=
+webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;" marg=
+inheight=3D"0" marginwidth=3D"0"><center><table cellpadding=3D"8" cellspaci=
+ng=3D"0" style=3D"*width: 540px; padding: 0; width: 100% !important; backgr=
+ound: #ffffff; margin: 0; background-color: #ffffff;" border=3D"0"><tr><td =
+valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px; -we=
+bkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px=
+;" border=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"6"></td></=
+tr><tr style=3D"line-height: 0px;"><td width=3D"100%" style=3D"font-size: 0=
+px;" align=3D"center" height=3D"1"><img width=3D"40px" style=3D"max-height:=
+ 73px; width: 40px; *width: 40px; *height: 73px;" alt=3D"" src=3D"https://w=
+ww.dropbox.com/static/images/emails/glyph/glyph_34@2x.png"></td></tr><tr><t=
+d><table cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: 25px;" b=
+order=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"30"></td></tr>=
+<tr><td width=3D"36"></td>
+<td width=3D"454" align=3D"left" style=3D"color: #444444; border-collapse: =
+collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida =
+Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans S=
+erif'; max-width: 454px;" valign=3D"top">Rainer hat Sie zu einem freigegebe=
+nen Dropbox-Ordner namens =E2=80=9EMVN=E2=80=9C eingeladen und sendet Ihnen=
+ diese Nachricht: <br><br><i> =E2=80=9ELiebe Musikerinnen, liebe Musiker,<b=
+r><br>ich habe euch auf Dropbox s=C3=A4mtliche Titel zum Download / zum Anh=
+=C3=B6ren bereitgestellt. Bitte nutzt diese M=C3=B6glichkeit, euch mit den =
+Titeln zu versorgen. Das spart mir enorm viel Arbeit. F=C3=BCr eure Unterst=
+=C3=BCtzung im Voraus besten Dank. F=C3=BCr alle, die noch keinen Dropbox-A=
+ccount haben, w=C3=A4re das eine gute Gelegenheit, sich diesen kostenlos zu=
+ holen.<br><br>Viele liebe Gr=C3=BC=C3=9Fe,<br><br>Euer Rainer=E2=80=9C</i>=
+<br><br><center><a style=3D"border-radius: 3px; box-shadow: inset 0 1px 0 #=
+6db3e6, inset 1px 0 0 #48a1e2; color: white; font-size: 15px; -moz-border-r=
+adius: 3px; padding: 14px 7px 14px 7px; max-width: 210px; font-family: prox=
+ima_nova, 'Open Sans', 'lucida grande', 'Segoe UI', arial, verdana, 'lucida=
+ sans unicode', tahoma, sans-serif;; border: 1px #1373b5 solid; text-align:=
+ center; -webkit-border-radius: 3px; text-decoration: none; width: 210px; m=
+argin: 6px auto; display: block; background-color: #007ee6;" href=3D"https:=
+//www.dropbox.com/l/9bBeg67i7Y4QkzKWjYB4S7/invite">Ordner ansehen</a></cent=
+er>
+<script type=3D"application/ld+json">{"action": {"url": "https://www.dropbo=
+x.com/invite?k=3DXuuoueO_ltSmQUGbIskTE3NNTmCVrl0M", "name": "View folder", =
+"@type": "ViewAction"}, "@context": "http://schema.org", "@type": "EmailMes=
+sage", "description": "shared folder invitation"}</script></td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: prox=
+ima_nova, 'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida=
+ Sans Unicode', Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;"><td =
+width=3D"400" align=3D"left"></td>
+<td width=3D"128" align=3D"right">=C2=A9 2013 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/j0ja1EZOXA6GZG9NaO3xrc" heig=
+ht=3D"1" />
+--===============3774490184457242112==--

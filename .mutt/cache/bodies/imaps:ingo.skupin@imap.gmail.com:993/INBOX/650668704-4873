@@ -1,0 +1,119 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.16.141 with SMTP id g13csp57046lbd;
+        Sun, 3 Feb 2013 16:40:20 -0800 (PST)
+X-Received: by 10.14.224.137 with SMTP id x9mr65613394eep.11.1359938419550;
+        Sun, 03 Feb 2013 16:40:19 -0800 (PST)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTP id d45si25308332eem.117.2013.02.03.16.40.19;
+        Sun, 03 Feb 2013 16:40:19 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass (test mode) header.i=@dropbox.com
+Received: from sjc-smtp1.sjc.dropbox.com ([199.47.216.137]) by mx-ha.web.de
+ (mxweb005) with ESMTP (Nemesis) id 0Me96c-1UKPJE1ICs-00QBxe for
+ <ingo.skupin@gmail.com>; Mon, 04 Feb 2013 01:40:18 +0100
+Received: from sjc-batch6.sjc.dropbox.com (sjc-batch6.sjc.dropbox.com [199.47.219.175])
+	by sjc-smtp1.sjc.dropbox.com (Postfix) with ESMTP id E7712D0BDF0
+	for <ingo.skupin@web.de>; Mon,  4 Feb 2013 00:40:16 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1359938416; bh=XK1xspmDj+0nK3ccJmXNsXneTNMxBiV6TLYluZ5IsrI=;
+	h=Content-Type:MIME-Version:From:To:Subject:Date:Message-Id;
+	b=KGpI+kV0XzPyEo12b+fTWnfyU9zkfVNs6DLxlZjc3WoTDFEbxbe8fHOIxevS2xc/x
+	 MUNgh0DgB3B6K+HmoznP1oqiJ9i/kE4AYSj8dEvkHVuZLUd+pATn2y83pgVTG8HpEG
+	 MDgLis0N9joHNW+Kz8pmQ0p0B+IJLDvAUNc6r6cw=
+Received: from sjc-batch6.sjc.dropbox.com (localhost [127.0.0.1])
+	by sjc-batch6.sjc.dropbox.com (Postfix) with ESMTP id E58125C01E9
+	for <ingo.skupin@web.de>; Mon,  4 Feb 2013 00:40:16 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============2880535795071581425=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+Subject: =?utf-8?q?Deine_Dropbox_braucht_mehr_Speicherplatz!?=
+Date: Mon, 04 Feb 2013 00:40:16 +0000
+Message-Id: <20130204004016.E58125C01E9@sjc-batch6.sjc.dropbox.com>
+
+--===============2880535795071581425==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ingo,
+
+wir m=C3=B6chten dich daran erinnern, dass beinahe der gesamte verf=C3=BCgb=
+are Speicherplatz in deiner Dropbox belegt ist: https://www.dropbox.com/el/=
+?r=3D/account&b=3Dclk:25850498:3506605227743502162:530:477&z=3DAACYqsfactFu=
+0alEI7NMGXtLHgiEasBiXQpAzqcovFxSuw
+
+Falls du mehr als die derzeitigen 3.88 GB an Speicherplatz ben=C3=B6tigst, =
+kannst du jederzeit ein Upgrade deiner Dropbox unter https://www.dropbox.co=
+m/el/?r=3D/plans&b=3Dclk:25850498:3506605227743502162:530:477&z=3DAADHhSWhO=
+XrG7HhZoZYHue2oW3d6LrPhyUh4ae6D_nkuRw durchf=C3=BChren
+
+Vielen Dank, dass du Dropbox heruntergeladen hast!
+- Das Dropbox-Team
+--===============2880535795071581425==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"650" align=3D"center" style=3D"font-size: 14px;" cellpaddin=
+g=3D"0" cellspacing=3D"0"><tr id=3D"topshadow"><td height=3D"10" width=3D"1=
+0" background=3D"https://www.dropbox.com/static/images/emails/shadow_tl.gif=
+" bgcolor=3D"#ffffff"></td>
+            <td height=3D"10" background=3D"https://www.dropbox.com/static/=
+images/emails/shadow_top.gif" bgcolor=3D"#ffffff"> </td>
+            <td height=3D"10" width=3D"10" background=3D"https://www.dropbo=
+x.com/static/images/emails/shadow_tr.gif" bgcolor=3D"#ffffff"> </td>
+        </tr><tr id=3D"header"><td width=3D"10" background=3D"https://www.d=
+ropbox.com/static/images/emails/shadow_left.gif" bgcolor=3D"#ffffff" rowspa=
+n=3D"2"></td>
+            <td height=3D"102" background=3D"https://www.dropbox.com/static=
+/images/emails/header_bg.gif" bgcolor=3D"#e6f1fb" align=3D"center">
+                <table width=3D"95%"><tr><td align=3D"left">
+                        <img src=3D"https://www.dropbox.com/static/images/e=
+mails/email_logo.gif"></td>
+                </tr></table></td>
+            <td width=3D"10" background=3D"https://www.dropbox.com/static/i=
+mages/emails/shadow_right.gif" bgcolor=3D"#ffffff" rowspan=3D"2"> </td>
+        </tr><tr id=3D"content"><td bgcolor=3D"#f4faff" align=3D"center">
+                <table width=3D"95%" cellpadding=3D"30"><tr><td align=3D"le=
+ft">
+                            <font face=3D"Lucida Grande, Segoe UI, Arial, V=
+erdana, Lucida Sans Unicode, Tahoma, Sans Serif">
+    Hallo Ingo,<br><br>
+wir m=C3=B6chten dich daran erinnern, dass <a href=3D"https://www.dropbox.c=
+om/el/?r=3D/account&amp;b=3Dclk:25850498:3506605227743502162:530:477&amp;z=
+=3DAACYqsfactFu0alEI7NMGXtLHgiEasBiXQpAzqcovFxSuw">beinahe der gesamte verf=
+=C3=BCgbare Speicherplatz in deiner Dropbox belegt</a> ist.<br><br>
+Falls du mehr als die derzeitigen 3.88 GB an Speicherplatz ben=C3=B6tigst, =
+kannst du jederzeit ein <a href=3D"https://www.dropbox.com/el/?r=3D/plans&a=
+mp;b=3Dclk:25850498:3506605227743502162:530:477&amp;z=3DAADHhSWhOXrG7HhZoZY=
+Hue2oW3d6LrPhyUh4ae6D_nkuRw">Upgrade deiner Dropbox</a> durchf=C3=BChren.<b=
+r><br>
+Vielen Dank, dass du Dropbox heruntergeladen hast!<br>
+- Das Dropbox-Team<br></font>
+                        </td>
+                    </tr></table></td>
+        </tr><tr id=3D"bottomshadow"><td height=3D"10" width=3D"10" backgro=
+und=3D"https://www.dropbox.com/static/images/emails/shadow_bl.gif" bgcolor=
+=3D"#ffffff"></td>
+            <td height=3D"10" background=3D"https://www.dropbox.com/static/=
+images/emails/shadow_bottom.gif" bgcolor=3D"#ffffff"> </td>
+            <td height=3D"10" width=3D"10" background=3D"https://www.dropbo=
+x.com/static/images/emails/shadow_br.gif" bgcolor=3D"#ffffff"> </td>
+        </tr><tr id=3D"copyright"><td></td>
+        <td align=3D"right">
+            <img src=3D"https://www.dropbox.com/static/images/emails/gray_l=
+ogo.gif" alt=3D"" align=3D"absmiddle"><span style=3D"font-family: 'Lucida G=
+rande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Se=
+rif'; font-size: 11px; color: #888;">=C2=A9=C2=A02013=C2=A0Dropbox</span>
+        </td>
+        <td></td>
+    </tr></table><img                             src=3D"www.dropbox.com/el=
+/?b=3Dopen:25850498:3506605227743502162:530:477&z=3DAAAaG4iIYn0eqsKSXacWlVx=
+J3akiQIoKoJHW0GP89x_dRg"                             width=3D"1"           =
+                  height=3D"1"                          />
+--===============2880535795071581425==--

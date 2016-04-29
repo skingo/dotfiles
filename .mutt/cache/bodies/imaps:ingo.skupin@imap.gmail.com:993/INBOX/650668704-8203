@@ -1,0 +1,249 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.140.217.202 with SMTP id n193csp187399qhb;
+        Sun, 26 Oct 2014 14:15:59 -0700 (PDT)
+X-Received: by 10.180.73.244 with SMTP id o20mr17441209wiv.9.1414358159398;
+        Sun, 26 Oct 2014 14:15:59 -0700 (PDT)
+Return-Path: <kingsaxello@gmail.com>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id c7si11842079wjy.9.2014.10.26.14.15.59
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 26 Oct 2014 14:15:59 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning kingsaxello@gmail.com does not designate 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning kingsaxello@gmail.com does not designate 212.227.15.4 as permitted sender) smtp.mail=kingsaxello@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb003)
+ with ESMTPS (Nemesis) id 0M0OVB-1XwbEh2wSj-00uaOB for
+ <ingo.skupin@gmail.com>; Sun, 26 Oct 2014 22:15:58 +0100
+Received: from mail-wi0-f176.google.com ([209.85.212.176]) by mx-ha.web.de
+ (mxweb003) with ESMTPS (Nemesis) id 0Mdb0W-1XRxJq2vy0-00PORO for
+ <ingo.skupin@web.de>; Sun, 26 Oct 2014 22:15:58 +0100
+Received: by mail-wi0-f176.google.com with SMTP id n3so4835034wiv.3
+        for <multiple recipients>; Sun, 26 Oct 2014 14:15:58 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-type:mime-version:subject:from:in-reply-to:date:cc
+         :message-id:references:to;
+        bh=nwM7TaclSvQoZLHaNwW13EdNq0lyj2tP1aRDg2yeick=;
+        b=qWvp7pP+1t39etkgrrFFSlXaQ7qrysY4HVg3cwLVmLI2pHi4JF+pLyZbvYm0HvitXA
+         HtkU4575ewGbPJdlav/k0FyfA+dGeRbKV9rHG7i+VO6N1Gsnru2M+9aUYVYD8MsmFZt3
+         IpVTzJpVbSEOJANuqFtALQodoKv9SHN3Jo0gJ2SX3/TAw025SoDLWrUhOXfr6VPNFxIy
+         WZutSkRGxui/xE0+S6Js4/t9c3AGaf6kfhxEf2KuQrNuPjs9k+cEnMsT6pgfZSz7Yc9u
+         Tw2mfXeEEArloYJ1Kgdgtgdj0WkplKUK9EGOStL9HWdVQ+4UhN6eRsewrm/i6yHod/Lc
+         zXsw==
+X-Received: by 10.180.91.83 with SMTP id cc19mr16801693wib.74.1414358158380;
+        Sun, 26 Oct 2014 14:15:58 -0700 (PDT)
+Return-Path: <kingsaxello@gmail.com>
+Received: from [192.168.2.100] (dslb-094-217-251-193.094.217.pools.vodafone-ip.de. [94.217.251.193])
+        by mx.google.com with ESMTPSA id u2sm13316843wjz.11.2014.10.26.14.15.56
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 26 Oct 2014 14:15:57 -0700 (PDT)
+Content-Type: multipart/alternative; boundary="Apple-Mail=_833AC9D8-702F-4FFA-B4F7-8804326C07AA"
+Mime-Version: 1.0 (Mac OS X Mail 7.3 \(1878.6\))
+Subject: Re: Wochenende
+From: Noah Bedrin <kingsaxello@gmail.com>
+In-Reply-To: <00fd01cff15f$81f5caf0$85e160d0$@pfister-heidelberg.de>
+Date: Sun, 26 Oct 2014 22:15:55 +0100
+Cc: Steffen Sautter <steffen.sautter@web.de>,
+ Sabine Pfister <sabine@pfister-tuebingen.de>,
+ Florian Sebert <florian@floriansebert.de>,
+ Tizian Decker <tizian_decker@web.de>,
+ jonas.gawehn@gmx.de,
+ raphael@rothschink.de,
+ Lena Hahn <LenaHahn20@web.de>,
+ Ingo Skupin <ingo.skupin@web.de>,
+ Lukas Fischer <l.fischer@3-1415.de>,
+ Julia Wollny <wollny.julia@me.com>,
+ tkonwitschny@yahoo.de,
+ Rainer Pfister <rainer.pfister@me.com>,
+ s.pfister@dkfz.de,
+ Stefan Wiehr <stefan@wiehr.de>,
+ Daniel Metzger <jandan@gmx.de>,
+ Harry Bath <HarryD.Bath@t-online.de>
+Message-Id: <AF9FB9BC-4277-4BB9-A93E-5F75ECFA2F9E@gmail.com>
+References: <13AC885B070F4821AA5240C7CDA02022@SautterPC> <00fd01cff15f$81f5caf0$85e160d0$@pfister-heidelberg.de>
+To: Martina Pfister <martina@pfister-heidelberg.de>
+X-Mailer: Apple Mail (2.1878.6)
+X-UI-Out-Filterresults: notjunk:1;
+
+
+--Apple-Mail=_833AC9D8-702F-4FFA-B4F7-8804326C07AA
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain;
+	charset=windows-1252
+
+Hallo Martina,
+hallo alle,
+
+Meine Pl=E4ne sind jetzt ein bisschen anders und ich fahre am Freitag =
+von Mainz nach Heidelberg. Kann ich die Adresse haben, wo wir spielen, =
+oder kann irgendjemand mich am Bahnhof abholen?
+
+Wer f=E4hrt Freitag Abend zur=FCck nach T=FCbingen?=20
+
+Liebe Gr=FC=DFe,
+Noah
+On 26 Oct 2014, at 21:57 , Martina <martina@pfister-heidelberg.de> =
+wrote:
+
+> Hallo Steffen,
+> cc an alle J,
+> s. unser Terminplan, wir treffen uns um 16 Uhr im  =
+DFKZ-Kommunikationszentrum am Hauptgeb=E4ude des DKFZ, dort gibt es nur =
+einen gro=DFen H=F6rsaal und in dem spielen wir:
+> =20
+> Konzert im Rahmen des Festaktes =8450 Jahre DKFZ=93, Heidelberg, 18 =
+Uhr=20
+>                        im Neuenheimer Feld 280
+> =20
+> Liebe Gr=FC=DFe
+> Tine
+> =20
+> =20
+> Von: Steffen Sautter [mailto:steffen.sautter@web.de]=20
+> Gesendet: Samstag, 25. Oktober 2014 00:46
+> An: Martina Pfister
+> Betreff: Wochenende
+> =20
+> Hallo Martina,
+> =20
+> wo genau treffen wir uns nochmals am kommenden Freitag um 16 Uhr in =
+Heidelberg?
+> =20
+> Viele Gr=FC=DFe
+> Steffen
+>=20
+>=20
+> =09
+> Diese E-Mail ist frei von Viren und Malware, denn der avast! Antivirus =
+Schutz ist aktiv.
+>=20
+>=20
+> <141013 Terminplan 2014-II (ok_SaP, MPf, JG, SS,  FS, TD, RR, LH,  TM, =
+JW,  RP, SW, SP, DM).doc>
+
+
+--Apple-Mail=_833AC9D8-702F-4FFA-B4F7-8804326C07AA
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html;
+	charset=windows-1252
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html =
+charset=3Dwindows-1252"></head><body style=3D"word-wrap: break-word; =
+-webkit-nbsp-mode: space; -webkit-line-break: after-white-space;">Hallo =
+Martina,<div>hallo alle,</div><div><br></div><div>Meine Pl=E4ne sind =
+jetzt ein bisschen anders und ich fahre am Freitag von Mainz nach =
+Heidelberg. Kann ich die Adresse haben, wo wir spielen, oder kann =
+irgendjemand mich am Bahnhof abholen?</div><div><br></div><div>Wer f=E4hrt=
+ Freitag Abend zur=FCck nach =
+T=FCbingen?&nbsp;</div><div><br></div><div>Liebe =
+Gr=FC=DFe,</div><div>Noah<br><div><div>On 26 Oct 2014, at 21:57 , =
+Martina &lt;<a =
+href=3D"mailto:martina@pfister-heidelberg.de">martina@pfister-heidelberg.d=
+e</a>&gt; wrote:</div><br class=3D"Apple-interchange-newline"><blockquote =
+type=3D"cite"><div lang=3D"DE" link=3D"#0563C1" vlink=3D"#954F72" =
+style=3D"font-family: Helvetica; font-size: 14px; font-style: normal; =
+font-variant: normal; font-weight: normal; letter-spacing: normal; =
+line-height: normal; orphans: auto; text-align: start; text-indent: 0px; =
+text-transform: none; white-space: normal; widows: auto; word-spacing: =
+0px; -webkit-text-stroke-width: 0px;"><div class=3D"WordSection1" =
+style=3D"page: WordSection1;"><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: 'Times New Roman', serif;"><span =
+style=3D"font-size: 11pt; font-family: Calibri, sans-serif; color: =
+rgb(31, 73, 125);">Hallo Steffen,<o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: 'Times =
+New Roman', serif;"><span style=3D"font-size: 11pt; font-family: =
+Calibri, sans-serif; color: rgb(31, 73, 125);">cc an alle<span =
+class=3D"Apple-converted-space">&nbsp;</span></span><span =
+style=3D"font-size: 11pt; font-family: Wingdings; color: rgb(31, 73, =
+125);">J</span><span style=3D"font-size: 11pt; font-family: Calibri, =
+sans-serif; color: rgb(31, 73, 125);">,<o:p></o:p></span></div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: 'Times =
+New Roman', serif;"><span style=3D"font-size: 11pt; font-family: =
+Calibri, sans-serif; color: rgb(31, 73, 125);">s. unser Terminplan, wir =
+treffen uns um 16 Uhr im &nbsp;DFKZ-Kommunikationszentrum am =
+Hauptgeb=E4ude des DKFZ, dort gibt es nur einen gro=DFen H=F6rsaal und =
+in dem spielen wir:<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: 'Times New Roman', serif;"><span =
+style=3D"font-size: 11pt; font-family: Calibri, sans-serif; color: =
+rgb(31, 73, 125);">&nbsp;</span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: 'Times New Roman', =
+serif;"><b><span style=3D"font-size: 11pt; font-family: 'Century =
+Gothic', sans-serif; color: rgb(0, 112, 192);">Konzert im Rahmen des =
+Festaktes =8450 Jahre DKFZ=93, Heidelberg, 18 Uhr<span =
+class=3D"Apple-converted-space">&nbsp;</span><br>&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;im Neuenheimer Feld =
+280<o:p></o:p></span></b></div><div style=3D"margin: 0cm 0cm 0.0001pt; =
+font-size: 12pt; font-family: 'Times New Roman', serif;"><b><span =
+style=3D"font-size: 11pt; font-family: 'Century Gothic', sans-serif; =
+color: rgb(0, 112, 192);">&nbsp;</span></b></div><div style=3D"margin: =
+0cm 0cm 0.0001pt; font-size: 12pt; font-family: 'Times New Roman', =
+serif;"><span style=3D"font-size: 11pt; font-family: Calibri, =
+sans-serif;">Liebe Gr=FC=DFe</span><b><span style=3D"font-size: 11pt; =
+font-family: 'Century Gothic', sans-serif; color: rgb(0, 112, =
+192);"><o:p></o:p></span></b></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: 'Times New Roman', serif;"><span =
+style=3D"font-size: 11pt; font-family: Calibri, =
+sans-serif;">Tine<o:p></o:p></span></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: 'Times New Roman', =
+serif;"><b><span style=3D"font-size: 11pt; font-family: Calibri, =
+sans-serif;">&nbsp;</span></b></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: 'Times New Roman', =
+serif;"><b><span style=3D"font-size: 11pt; font-family: Calibri, =
+sans-serif;">&nbsp;</span></b></div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: 'Times New Roman', =
+serif;"><b><span style=3D"font-size: 11pt; font-family: Calibri, =
+sans-serif;">Von:</span></b><span style=3D"font-size: 11pt; font-family: =
+Calibri, sans-serif;"><span =
+class=3D"Apple-converted-space">&nbsp;</span>Steffen Sautter [<a =
+href=3D"mailto:steffen.sautter@web.de" style=3D"color: rgb(149, 79, =
+114); text-decoration: =
+underline;">mailto:steffen.sautter@web.de</a>]<span =
+class=3D"Apple-converted-space">&nbsp;</span><br><b>Gesendet:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Samstag, 25. Oktober 2014 =
+00:46<br><b>An:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Martina =
+Pfister<br><b>Betreff:</b><span =
+class=3D"Apple-converted-space">&nbsp;</span>Wochenende<o:p></o:p></span><=
+/div><div style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; =
+font-family: 'Times New Roman', serif;"><o:p>&nbsp;</o:p></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: 'Times =
+New Roman', serif;"><span style=3D"font-family: Calibri, =
+sans-serif;">Hallo Martina,</span><o:p></o:p></div></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: 'Times =
+New Roman', serif;">&nbsp;<o:p></o:p></div></div><div><div =
+style=3D"margin: 0cm 0cm 0.0001pt; font-size: 12pt; font-family: 'Times =
+New Roman', serif;"><span style=3D"font-family: Calibri, sans-serif;">wo =
+genau treffen wir uns nochmals&nbsp;am kommenden Freitag um 16 Uhr in =
+Heidelberg?</span><o:p></o:p></div></div><div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: 'Times New Roman', =
+serif;">&nbsp;<o:p></o:p></div></div><div><div style=3D"margin: 0cm 0cm =
+0.0001pt; font-size: 12pt; font-family: 'Times New Roman', serif;"><span =
+style=3D"font-family: Calibri, sans-serif;">Viele =
+Gr=FC=DFe</span><o:p></o:p></div></div><div><div style=3D"margin: 0cm =
+0cm 0.0001pt; font-size: 12pt; font-family: 'Times New Roman', =
+serif;"><span style=3D"font-family: Calibri, =
+sans-serif;">Steffen</span><o:p></o:p></div></div></div><br><br><hr =
+style=3D"border: none; color: rgb(144, 144, 144); background-color: =
+rgb(176, 176, 176); height: 1px; width: 717px;"><table =
+style=3D"border-collapse: collapse; border: none;"><tbody><tr><td =
+style=3D"border: none; padding: 0px 15px 0px 8px;"><a =
+href=3D"http://www.avast.com/" style=3D"color: rgb(149, 79, 114); =
+text-decoration: underline;"><img border=3D"0" =
+src=3D"http://static.avast.com/emails/avast-mail-stamp.png"></a></td><td><=
+p style=3D"color: rgb(61, 77, 90); font-family: Calibri, Verdana, Arial, =
+Helvetica; font-size: 12pt;">Diese E-Mail ist frei von Viren und =
+Malware, denn der<span class=3D"Apple-converted-space">&nbsp;</span><a =
+href=3D"http://www.avast.com/" style=3D"color: rgb(149, 79, 114); =
+text-decoration: underline;">avast! Antivirus</a><span =
+class=3D"Apple-converted-space">&nbsp;</span>Schutz ist =
+aktiv.</p></td></tr></tbody></table><br><span>&lt;141013 Terminplan =
+2014-II (ok_SaP, MPf, JG, SS, &nbsp;FS, TD, RR, LH, &nbsp;TM, JW, =
+&nbsp;RP, SW, SP, =
+DM).doc&gt;</span></div></blockquote></div><br></div></body></html>=
+
+--Apple-Mail=_833AC9D8-702F-4FFA-B4F7-8804326C07AA--

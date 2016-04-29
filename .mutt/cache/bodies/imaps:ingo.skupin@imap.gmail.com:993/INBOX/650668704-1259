@@ -1,0 +1,40 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.140.197 with SMTP id j5cs125635vcu;
+        Wed, 30 Nov 2011 13:44:20 -0800 (PST)
+Received: by 10.205.128.148 with SMTP id he20mr4092864bkc.127.1322689459113;
+        Wed, 30 Nov 2011 13:44:19 -0800 (PST)
+Return-Path: <registrierung@meinprof.de>
+Received: from django.meinprof.org (django.meinprof.org. [213.133.123.107])
+        by mx.google.com with ESMTPS id dx7si4981305bkb.115.2011.11.30.13.44.18
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 30 Nov 2011 13:44:19 -0800 (PST)
+Received-SPF: neutral (google.com: 213.133.123.107 is neither permitted nor denied by best guess record for domain of registrierung@meinprof.de) client-ip=213.133.123.107;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 213.133.123.107 is neither permitted nor denied by best guess record for domain of registrierung@meinprof.de) smtp.mail=registrierung@meinprof.de
+Received: from localhost ([127.0.0.1] helo=meinprof.org)
+	by django.meinprof.org with esmtp (Exim 4.72)
+	(envelope-from <registrierung@meinprof.de>)
+	id 1RVrww-0005u6-9j
+	for ingo.skupin@gmail.com; Wed, 30 Nov 2011 22:44:18 +0100
+Date: Wed, 30 Nov 2011 22:43:27 +0100
+From: MeinProf-Team <registrierung@meinprof.de>
+To: ingo.skupin@gmail.com
+Message-Id: <4ed6a3b3.47c2cc0a.472b.ffffaf69SMTPIN_ADDED@mx.google.com>
+Subject: [MeinProf.de] Willkommen bei MeinProf.de!
+Mime-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Hallo 123abcd123,
+
+willkommen bei MeinProf.de!
+
+Bitte öffne vor dem ersten Einloggen folgenden Link in deinem Browser um die Registrierung für MeinProf.de abzuschließen:
+http://www.meinprof.de/student/verify?key=3b6dfb3aa2207513&user_id=237640
+
+Danach kannst du dich mit deiner E-Mail-Adresse (ingo.skupin@gmail.com) und deinem Passwort anmelden.
+
+Der Link ist bis 07.12.2011 22:43 Uhr gültig.
+
+Bitte achte darauf, dass der Link auch komplett in den Browser übernommen wird. Einige Mailprogramme brechen zu lange Links um, so dass der Browser nur einen Teil des Links übernimmt. In solch einem Fall wird die Freischaltung nicht funktionieren und man muss den Link per Copy&Paste in den Browser eingeben.
+
+Gruß,
+Das MeinProf.de-Team

@@ -1,0 +1,179 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.191.196 with SMTP id dn4csp49759vcb;
+        Tue, 20 Mar 2012 15:36:33 -0700 (PDT)
+Received: by 10.216.133.151 with SMTP id q23mr937075wei.14.1332282992094;
+        Tue, 20 Mar 2012 15:36:32 -0700 (PDT)
+Return-Path: <stevekoch@gmx.de>
+Received: from mailout-de.gmx.net (mailout-de.gmx.net. [213.165.64.23])
+        by mx.google.com with SMTP id h6si3480950wih.39.2012.03.20.15.36.31;
+        Tue, 20 Mar 2012 15:36:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 213.165.64.23 as permitted sender) client-ip=213.165.64.23;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of stevekoch@gmx.de designates 213.165.64.23 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: (qmail invoked by alias); 20 Mar 2012 22:36:31 -0000
+Received: from p57B45642.dip.t-dialin.net (EHLO skoch) [87.180.86.66]
+  by mail.gmx.net (mp071) with SMTP; 20 Mar 2012 23:36:31 +0100
+X-Authenticated: #10157959
+X-Provags-ID: V01U2FsdGVkX18yMXAIWjgykY89+Si7k4CF+Ehf4niMLbD8fa9/yh
+	Ij0E0y6ZB8xHY7
+Message-ID: <0B010EAA9D8F4912A031B573BC2BD2D9@skoch>
+From: "Stefan Koch" <stevekoch@gmx.de>
+To: "Erik Gebauer" <gebauer.erik@web.de>,
+	"Eric Seliger" <e.seliger@yahoo.de>,
+	"Verena Geschke" <Verena.Geschke@gmx.net>,
+	"Julia Glaser" <juliaglaser1@gmx.de>,
+	"Jan Kaltenecker" <jan.kaltenecker@gmx.de>,
+	<carolin_michel92@web.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	=?iso-8859-1?Q?Andr=E9_Haspel?= <andre.haspel@web.de>,
+	"Janina Haspel" <janina.haspel@web.de>,
+	"Kristina Kraemer" <kristina.kraemer@akris.de>,
+	"Kerstin Kimmich" <Kerstin.Kimmich@gmx.de>,
+	"Alexandra Gress" <alexandra_gress@web.de>,
+	"Kathrin Hakenjos" <kathrin_hakenjos@web.de>,
+	"Maren Schlecht" <marenschlecht@gmx.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Jasmin Wagner" <JasminFVWagner@t-online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	=?iso-8859-1?Q?Philipp_Gr=F6ber?= <groeber_95@web.de>,
+	"Lisa Richter" <lisarichter93@hotmail.de>,
+	<tobias-funk@gmx.de>,
+	"Katharina Schneider" <schneider_katharina@t-online.de>,
+	=?iso-8859-1?Q?David_K=FCchle?= <D1V23@aol.com>,
+	"Annika Vesenmaier" <an.ve@arcor.de>,
+	"Theresa Siegler" <theresa.siegler@googlemail.com>,
+	"Lisa Speidel" <lisaspeidel@t-online.de>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Benedikt Thum" <benny@jr-it.de>,
+	"Fanny Rothe" <fanny@wolber-rothe.de>,
+	"Gina Maier" <gina.maier@web.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Christoph Korschinek" <christoph@korschinek.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	=?iso-8859-1?Q?Michael_Pf=E4nder?= <Michi110793@aol.com>,
+	"Steffen Sigmund" <j.sigmund@t-online.de>,
+	=?iso-8859-1?Q?Florian_Strau=DF?= <strauss-florian@web.de>,
+	"Jens Veeser" <jens@veeser.net>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Lukas Sigle" <lukas.sigler@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Sonja Hojdar" <Lutz.Sonja@gmx.de>,
+	"Christoph Koschei" <koschi_99@web.de>,
+	<janina_schott@web.de>,
+	<jonaskolibius@web.de>,
+	<oliiiiver@hotmail.de>,
+	<florian-floriaus@web.de>,
+	<nico.felbinger@web.de>,
+	<felix.koschei@freenet.de>,
+	"Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+	"Hans-peter Oberlander" <hp.oberlander@yahoo.de>,
+	<jakob.krenn@t-online.de>,
+	"Marian Basta" <m-basta@web.de>,
+	"Marvin Schaich" <Marvin.Schaich@t-online.de>,
+	<chrisbaur@hotmail.de>,
+	<matze.albrecht@web.de>,
+	<uli__kurz@t-online.de>,
+	<smachanek@web.de>,
+	<nmachanek@web.de>,
+	"Wolfgang Kurz" <kurz.wau@t-online.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	<Baurlu@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	"Steffen Ruf" <steffen.ruf@kjo-esslingen.de>,
+	"Simone S" <SimoneSeybold@gmx.de>,
+	<engel.luisa@web.de>,
+	"Tina Bidlingmaier" <tina_bidlingmaier@yahoo.de>,
+	<vanessa.wuensch@web.de>,
+	<ingo.skupin@gmail.com>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>
+Subject: KJO Termine April
+Date: Tue, 20 Mar 2012 23:36:24 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0015_01CD06F2.430A6760"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+X-Y-GMX-Trusted: 0
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_0015_01CD06F2.430A6760
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+nach einem erfolgreichen letzten Konzert folgt nun der traditionell =
+letzte Akt, bevor sich das KJO in die Sommerpause begibt.
+Am Samstag den 28.4.2012 umrahmen wir die Ergebnisbekanntgabe des =
+Kreisjugendwertungsspiels in Plochingen. Die Umrahmung wird wie gewohnt =
+am sp=E4ten Nachmittag stattfinden, also gegen 15:00 Uhr. Genauere =
+Uhrzeit und Infos kommen noch, ich schreibe es Euch aber jetzt schon mal =
+damit wir m=F6glichst vollz=E4hlig auftreten k=F6nnen. Wer nicht da sein =
+kann meldet sich bitte bei seinem Satzf=FChrer ab.
+
+Am darauffolgenden Sonntag, 29.4.2012 finden die Vordirigate der =
+Kandidaten f=FCr den neuen KJO-Dirigenten statt. Dies wird zeitlich wie =
+ein normaler Probentag ablaufen, wir werden um 9:00 beginnen. Es kann =
+sein das wir jedoch bis 17:00 statt 16:00 proben, den genauen Zeitplan =
+und Ablauf schicke ich Euch mit den Infos f=FCrs Wertungskonzert noch =
+zu. Das Vordirigat wird auch in Halle in Plochingen stattfinden.
+
+Soweit mal die Termininfos vorab,
+
+Viele Gr=FC=DFe
+Stefan 
+------=_NextPart_000_0015_01CD06F2.430A6760
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: 'Calibri'; COLOR: #000000; FONT-SIZE: 12pt">
+<DIV>Hallo zusammen,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>nach einem erfolgreichen letzten Konzert folgt nun der traditionell =
+letzte=20
+Akt, bevor sich das KJO in die Sommerpause begibt.</DIV>
+<DIV>Am <FONT color=3D#000000><STRONG>Samstag den =
+28.4.2012</STRONG></FONT>=20
+umrahmen wir die Ergebnisbekanntgabe des Kreisjugendwertungsspiels in=20
+Plochingen. Die Umrahmung wird wie gewohnt am sp=E4ten Nachmittag =
+stattfinden,=20
+also gegen 15:00 Uhr. Genauere Uhrzeit und Infos kommen noch, ich =
+schreibe es=20
+Euch aber jetzt schon mal damit wir m=F6glichst vollz=E4hlig auftreten =
+k=F6nnen. Wer=20
+nicht da sein kann meldet sich bitte bei seinem Satzf=FChrer ab.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Am darauffolgenden <STRONG>Sonntag, 29.4.2012 </STRONG>finden die=20
+Vordirigate der Kandidaten f=FCr den neuen KJO-Dirigenten statt. Dies =
+wird=20
+zeitlich wie ein normaler Probentag ablaufen, wir werden um 9:00 =
+beginnen. Es=20
+kann sein das wir jedoch bis 17:00 statt 16:00 proben, den genauen =
+Zeitplan und=20
+Ablauf schicke ich Euch mit den Infos f=FCrs Wertungskonzert noch zu. =
+Das=20
+Vordirigat wird auch in Halle in Plochingen stattfinden.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Soweit mal die Termininfos vorab,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Viele Gr=FC=DFe</DIV>
+<DIV>Stefan </DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0015_01CD06F2.430A6760--
+

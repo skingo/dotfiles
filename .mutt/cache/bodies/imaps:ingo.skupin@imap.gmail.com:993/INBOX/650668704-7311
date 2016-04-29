@@ -1,0 +1,54 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp21079pdb;
+        Thu, 3 Apr 2014 23:23:13 -0700 (PDT)
+X-Received: by 10.194.9.73 with SMTP id x9mr16780593wja.79.1396592592793;
+        Thu, 03 Apr 2014 23:23:12 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id q2si10850673eep.192.2014.04.03.23.23.11
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256/256);
+        Thu, 03 Apr 2014 23:23:12 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb105)
+ with ESMTPS (Nemesis) id 0LZxsv-1WtURu1co1-00lncQ for
+ <ingo.skupin@gmail.com>; Fri, 04 Apr 2014 08:23:11 +0200
+Received: from mout.gmx.net ([212.227.17.20]) by mx-ha.web.de (mxweb105) with
+ ESMTPS (Nemesis) id 0M0fw2-1XIxVp1ccA-00uqKH for <ingo.skupin@web.de>; Fri,
+ 04 Apr 2014 08:23:11 +0200
+Received: from mout.gmx.net ([212.227.15.19]) by mx-ha.gmx.net (mxgmx013) with
+ ESMTPS (Nemesis) id 0MT7os-1Wd4GA3DHi-00S42C; Fri, 04 Apr 2014 08:23:00 +0200
+Received: from [84.133.251.222] by 3capp-gmx-bs28 with HTTP; Fri, 4 Apr 2014
+ 08:23:00 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-c11b96a4-63d9-4bd6-8576-b23cfc74b539-1396592580232@3capp-gmx-bs28>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: JBO%Musikverein.Notzingen@gmx.de
+Subject: Jugendkritikspiel
+Content-Type: text/html; charset=UTF-8
+Date: Fri, 4 Apr 2014 08:23:00 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:E2P1Fuj/u+JZbJ7MuUJ24ZSsdawesy4P4m+UUyIrTRj
+ 9TQLy1e5LVJqChrXxmXA3AdfjpBHiNATgxwRzH/YqYp9SzU689
+ vR7IAx3HTxuq3b22XGDrNxj7o8hOvLjjHpw/rZ3tKUp77JG0uJ
+ OhHOlAqB/foaAIRLG5OsBnYi5uxTEMVQGZRAvq119rg/1WyQmH
+ iJGXgfBj9f18qy1QMh1muw58qvVys4J/bNLb41uVxCl6OVfjdw
+ ozu5o8KxQO8ZsbobKbDpgJfOQhKentY3twd8Qfh4geXJSA6EOe ruJqF8=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>wir w&uuml;nschen euch morgen bei eurem Kritikspiel in Dettingen viel Erfolg und einen harmonischen Verlauf.</div>
+
+<div>Machts gut und Daumen hoch.</div>
+
+<div>&nbsp;</div>
+
+<div>Liebe Gr&uuml;&szlig;e</div>
+
+<div>Georg und Margit Frank</div></div></body></html>

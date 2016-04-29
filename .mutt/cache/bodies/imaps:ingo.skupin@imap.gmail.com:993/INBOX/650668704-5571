@@ -1,0 +1,235 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.92.135 with SMTP id cm7csp103320pdb;
+        Fri, 24 May 2013 12:58:45 -0700 (PDT)
+X-Received: by 10.112.142.8 with SMTP id rs8mr8912628lbb.8.1369425524414;
+        Fri, 24 May 2013 12:58:44 -0700 (PDT)
+Return-Path: <comm-bounces+BBC-Message-AQKUPPQ3A98MG@marketplace.amazon.de>
+Received: from smtp-out-127-4.amazon.com (smtp-out-127-4.amazon.com. [176.32.127.4])
+        by mx.google.com with ESMTP id ap10si5963109lac.164.2013.05.24.12.58.43
+        for <ingo.skupin@gmail.com>;
+        Fri, 24 May 2013 12:58:44 -0700 (PDT)
+Received-SPF: pass (google.com: domain of comm-bounces+BBC-Message-AQKUPPQ3A98MG@marketplace.amazon.de designates 176.32.127.4 as permitted sender) client-ip=176.32.127.4;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of comm-bounces+BBC-Message-AQKUPPQ3A98MG@marketplace.amazon.de designates 176.32.127.4 as permitted sender) smtp.mail=comm-bounces+BBC-Message-AQKUPPQ3A98MG@marketplace.amazon.de;
+       dkim=pass header.i=h40gx4x2d17jk87@amazon.de;
+       dmarc=pass (p=NONE dis=none) d=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=h40gx4x2d17jk87@marketplace.amazon.de;
+  q=dns/txt; s=amazon201209; t=1369425435; x=1400961435;
+  h=date:from:reply-to:to:message-id:subject:mime-version;
+  bh=od25WqivKklg5aQgVbG2JlHuCv2Cwi76esOE4DHvST8=;
+  b=HY4+LwvR0gLOZ9eafPmBDCb612lhaFvVOiR+i7OuGqvnfMHVn8tID3JF
+   +PcFXwi2TleknG4s2jKIbQRC+rs14knfZ9vcsJtuHqAEe9BNyd9juQxaC
+   a7bcxYnPTccnASoTFkkwDDBKoKLaB3bQbJ59SCTUQIcOQEsOSSM36kTQ3
+   4=;
+Date: Fri, 24 May 2013 19:58:42 +0000
+From: Easynotebooks - Amazon Marketplace <h40gx4x2d17jk87@marketplace.amazon.de>
+Reply-To: Easynotebooks - Amazon Marketplace <h40gx4x2d17jk87@marketplace.amazon.de>
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.201305241958423ec3facbbc174ea1935a30009f4e5330@1369425522973.rte-svc-eu-1c-i-fc2963b5.eu-west-1.amazon.com>
+Subject: Mail von Easynotebooks:Ihre Ware ist unterwegs zu Ihnen!
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1509918_24696675.1369425522970"
+Bounces-to: comm-bounces+BBC-Message-AQKUPPQ3A98MG@marketplace.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-AMAZON-CATEGORY: BBC-Message
+X-Original-MessageID: <urn.correios.msg.201305241958423ec3facbbc174ea1935a30009f4e5330@1369425522973.rte-svc-eu-1c-i-fc2963b5.eu-west-1.amazon.com>
+
+------=_Part_1509918_24696675.1369425522970
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1509919_8703845.1369425522970"
+
+------=_Part_1509919_8703845.1369425522970
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Wichtiger Hinweis: Wenn Sie dieser E-Mail antworten, wird Amazon.de Ihre E-=
+Mail-Adresse mit einer von Amazon bereitgestellten Adresse ersetzen, um Ihr=
+e Identit=C3=A4t zu sch=C3=BCtzen, und die Nachricht in Ihrem Namen weiterl=
+eiten. Um einen m=C3=B6glichen Betrug zu verhindern, setzt Amazon.de Filter=
+techniken ein. Nachrichten, die diesen Filter nicht passieren, werden nicht=
+ weitergeleitet. Amazon.de beh=C3=A4lt Kopien aller =C3=BCber diesen Servic=
+e gesendeten und empfangenen E-Mails, einschlie=C3=9Flich der Nachricht, di=
+e Sie hier eingeben. Amazon.de wird diese Kopien insbesondere zur Kl=C3=A4r=
+ung von eingereichten A-bis-z-Garantie-Antr=C3=A4gen heranziehen. Indem Sie=
+ diesen Dienst nutzen, erkl=C3=A4ren Sie sich mit diesem Vorgehen einversta=
+nden.
+
+------------- Anfang der Nachricht -------------
+
+Sehr geehrte(r) Kunde/in,
+
+Ihre Ware wurde mit unserem Logistikpartner
+Deutsche Post/DHL heute an Sie versandt.
+
+Erfahrungsgem=C3=A4=C3=9F betr=C3=A4gt die Lieferzeit innerhalb
+Deutschlands 1 bis 2 Werktage. Ihre Bestellung
+wird daher schon in K=C3=BCrze bei Ihnen ankommen.
+Bestellungen per Express-Versand werden am
+n=C3=A4chsten Werktag bis 12 Uhr zugestellt.
+
+Im Folgenden erhalten Sie Ihre Bestelldaten im
+=C3=9Cberblick.
+
+Bestellnummer: A028-8560743-2073130
+Bestelldatum: 22.05.13
+
+Den genauen Weg Ihres Paketes von uns zu Ihnen
+k=C3=B6nnen Sie online verfolgen.
+
+Unter der Adresse
+"http://nolp.dhl.de/nextt-online-public/set_identcodes.do?lang=3Dde&idc=3D1=
+67911658548"
+finden Sie die Internetseite des Paketdienstes.
+Dort k=C3=B6nnen Sie direkt online sehen, wo sich Ihr
+Paket derzeit befindet.
+
+HINWEIS: Ihre Original-Rechnung liegt dem Paket
+bei oder ist in einer Versandh=C3=BClle au=C3=9Fen am Paket
+angebracht! Bitte pr=C3=BCfen Sie den Paketinhalt genau
+bevor Sie den Versandkarton entsorgen.
+
+Bitte beachten Sie, dass die Deutsche Post/DHL die
+Versanddaten eventuell erst am n=C3=A4chsten Morgen zur
+Verf=C3=BCgung stellt.
+
+Alternativ k=C3=B6nnen Sie sich auch telefonisch unter
+der Service Nummer 01805-345 2255 (14 Cent je
+angefangene Minute im deutschen Festnetz/Preis
+kann f=C3=BCr Anrufe aus dem Mobilfunknetz abweichen)
+der Deutschen Post/DHL informieren, wo sich Ihr
+Paket aktuell befindet.
+
+Wenn Sie noch irgendwelche Fragen haben, wenden
+Sie sich jederzeit an uns.
+
+Wir w=C3=BCnschen Ihnen schon jetzt viel Spass mit
+Ihren neuen Produkten und w=C3=BCrden uns freuen, wenn
+Sie uns auch in unserem Shop www.easynotebooks.de
+besuchen w=C3=BCrden.
+
+Ihr Easynotebooks.de Team
+
+
+---------------------------------------------------------------------------=
+-
+NetFactory Gesellschaft f=C3=BCr Netzwerkl=C3=B6sungen mbH -
+Gesch=C3=A4ftsf=C3=BChrer: Michael Litinas - RG Mannheim HRB
+107744
+USt.-IdNr.: DE 188932174 - Steuernummer:
+35007/08419 - Finanzamt Karlsruhe Stadt
+
+
+
+------------- Ende der Nachricht -------------
+
+Um Ihre Bestellung zu stornieren, klicken Sie bitte hier: http://www.amazon=
+.de/gp/help/contact/contact.html?orderID=3D028-8560743-2073130&sellerID=3DA=
+1JKW2YIU3CC6S&cancelRequest=3D1
+
+Wir m=C3=B6chten, dass Sie stets mit Vertrauen einkaufen, wenn Sie Produkte=
+ auf Amazon.de erwerben. Hier finden Sie n=C3=A4here Informationen =C3=BCbe=
+r sichere Online-Eink=C3=A4ufe (http://www.amazon.de/gp/help/customer/displ=
+ay.html?nodeId=3D13023711) und unsere Garantie f=C3=BCr den sicheren Einkau=
+f (http://www.amazon.de/gp/help/customer/display.html?nodeId=3D886414).
+
+
+
+[commMgrTok:AQKUPPQ3A98MG]
+------=_Part_1509919_8703845.1369425522970
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+    <body>
+        <div id=3D"amznCommMgrHeader" alt=3D"amznCommMgrHeader" style=3D"ba=
+ckground-color: #e0e0e0; border: 1px solid #a0a0a5; padding: 2px">
+                        <b>Wichtiger Hinweis: Wenn Sie dieser E-Mail antwor=
+ten, wird Amazon.de Ihre E-Mail-Adresse mit einer von Amazon bereitgestellt=
+en Adresse ersetzen, um Ihre Identit=C3=A4t zu sch=C3=BCtzen, und die Nachr=
+icht in Ihrem Namen weiterleiten. Um einen m=C3=B6glichen Betrug zu verhind=
+ern, setzt Amazon.de Filtertechniken ein. Nachrichten, die diesen Filter ni=
+cht passieren, werden nicht weitergeleitet. Amazon.de beh=C3=A4lt Kopien al=
+ler =C3=BCber diesen Service gesendeten und empfangenen E-Mails, einschlie=
+=C3=9Flich der Nachricht, die Sie hier eingeben. Amazon.de wird diese Kopie=
+n insbesondere zur Kl=C3=A4rung von eingereichten A-bis-z-Garantie-Antr=C3=
+=A4gen heranziehen. Indem Sie diesen Dienst nutzen, erkl=C3=A4ren Sie sich =
+mit diesem Vorgehen einverstanden.</b>
+        </div>
+        <div> <div>Sehr geehrte(r) Kunde/in,<br/>
+<br/>
+Ihre Ware wurde mit unserem Logistikpartner Deutsche Post/DHL heute an Sie =
+versandt.<br/>
+<br/>
+Erfahrungsgem&auml;&szlig; betr&auml;gt die Lieferzeit innerhalb Deutschlan=
+ds 1 bis 2 Werktage. Ihre Bestellung wird daher schon in K&uuml;rze bei Ihn=
+en ankommen.<br/>
+Bestellungen per Express-Versand werden am n&auml;chsten Werktag bis 12 Uhr=
+ zugestellt.<br/>
+<br/>
+Im Folgenden erhalten Sie Ihre Bestelldaten im &Uuml;berblick.<br/>
+<br/>
+Bestellnummer: A028-8560743-2073130<br/>
+Bestelldatum: 22.05.13<br/>
+<br/>
+Den genauen Weg Ihres Paketes von uns zu Ihnen k&ouml;nnen Sie online verfo=
+lgen.<br/>
+<br/>
+Unter der Adresse &quot;http://nolp.dhl.de/nextt-online-public/set_identcod=
+es.do?lang=3Dde&amp;idc=3D167911658548&quot; finden Sie die Internetseite d=
+es Paketdienstes.<br/>
+Dort k&ouml;nnen Sie direkt online sehen, wo sich Ihr Paket derzeit befinde=
+t.<br/>
+<br/>
+HINWEIS: Ihre Original-Rechnung liegt dem Paket bei oder ist in einer Versa=
+ndh&uuml;lle au&szlig;en am Paket angebracht! Bitte pr&uuml;fen Sie den Pak=
+etinhalt genau bevor Sie den Versandkarton entsorgen.<br/>
+<br/>
+Bitte beachten Sie, dass die Deutsche Post/DHL die Versanddaten eventuell e=
+rst am n&auml;chsten Morgen zur Verf&uuml;gung stellt.<br/>
+<br/>
+Alternativ k&ouml;nnen Sie sich auch telefonisch unter der Service Nummer 0=
+1805-345 2255 (14 Cent je angefangene Minute im deutschen Festnetz/Preis ka=
+nn f&uuml;r Anrufe aus dem Mobilfunknetz abweichen) der Deutschen Post/DHL =
+informieren, wo sich Ihr Paket aktuell befindet.<br/>
+<br/>
+Wenn Sie noch irgendwelche Fragen haben, wenden Sie sich jederzeit an uns.<=
+br/>
+<br/>
+Wir w&uuml;nschen Ihnen schon jetzt viel Spass mit Ihren neuen Produkten un=
+d w&uuml;rden uns freuen, wenn Sie uns auch in unserem Shop www.easynoteboo=
+ks.de besuchen w&uuml;rden.<br/>
+<br/>
+Ihr Easynotebooks.de Team<br/><br/><center style=3D"font-size: 10px;">NetFa=
+ctory Gesellschaft f&uuml;r Netzwerkl&ouml;sungen mbH - Gesch&auml;ftsf&uum=
+l;hrer: Michael Litinas - RG Mannheim HRB 107744<br/>
+USt.-IdNr.: DE 188932174 - Steuernummer: 35007/08419 - Finanzamt Karlsruhe =
+Stadt</center>
+
+
+</div></div>
+        <div id=3D"amznCommMgrFooter" alt=3D"amznCommMgrFooter" style=3D"ba=
+ckground-color: #e0e0e0; border: 1px solid #a0a0a5; padding: 2px">
+            Um Ihre Bestellung zu stornieren, klicken Sie bitte <a href=3D"=
+http://www.amazon.de/gp/help/contact/contact.html?orderID=3D028-8560743-207=
+3130&sellerID=3DA1JKW2YIU3CC6S&cancelRequest=3D1">hier</a>.<br/>
+            <br/>
+            Wir m=C3=B6chten, dass Sie stets mit Vertrauen einkaufen, wenn =
+Sie Produkte auf Amazon.de erwerben. Hier finden Sie n=C3=A4here Informatio=
+nen =C3=BCber sichere Online-Eink=C3=A4ufe (http://www.amazon.de/gp/help/cu=
+stomer/display.html?nodeId=3D13023711) und unsere Garantie f=C3=BCr den sic=
+heren Einkauf (http://www.amazon.de/gp/help/customer/display.html?nodeId=3D=
+886414).<br/>
+            <br/>
+            <br/>
+            <br/>
+            [commMgrTok:AQKUPPQ3A98MG]
+        </div>
+    </body>
+</html>
+
+------=_Part_1509919_8703845.1369425522970--
+
+------=_Part_1509918_24696675.1369425522970--

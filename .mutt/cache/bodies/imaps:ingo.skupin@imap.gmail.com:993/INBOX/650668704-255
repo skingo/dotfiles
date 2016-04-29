@@ -1,0 +1,189 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.76.206 with SMTP id d14cs232132vck;
+        Wed, 13 Jul 2011 01:07:43 -0700 (PDT)
+Received: by 10.223.24.92 with SMTP id u28mr1260107fab.148.1310544462262;
+        Wed, 13 Jul 2011 01:07:42 -0700 (PDT)
+Return-Path: <noreply+I44773659@netlogmail.com>
+Received: from fmmailgate02.web.de (fmmailgate02.web.de [217.72.192.227])
+        by mx.google.com with ESMTP id r1si19027467fad.151.2011.07.13.01.07.40;
+        Wed, 13 Jul 2011 01:07:41 -0700 (PDT)
+Received-SPF: fail (google.com: domain of noreply+I44773659@netlogmail.com does not designate 217.72.192.227 as permitted sender) client-ip=217.72.192.227;
+DomainKey-Status: good (test mode)
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of noreply+I44773659@netlogmail.com does not designate 217.72.192.227 as permitted sender) smtp.mail=noreply+I44773659@netlogmail.com; domainkeys=pass (test mode) header.From=noreply+I44773659@netlogmail.com
+Received:  from mx22.web.de  ( [172.20.3.171])
+	by fmmailgate02.web.de (Postfix) with ESMTP id CF63F1A635B12
+	for <ingo.skupin@gmail.com>; Wed, 13 Jul 2011 10:07:40 +0200 (CEST)
+Received: from [193.164.158.75] (helo=mx02-2.netlogmail.com)
+	by mx22.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1QguTs-0003WP-01
+	for ingo.skupin@web.de; Wed, 13 Jul 2011 10:07:40 +0200
+DomainKey-Signature: q=dns; a=rsa-sha1; c=nofws;
+	s=netlog; d=netlogmail.com;
+	h=DKIM-Signature:Received:Message-ID:From:To:Reply-To:Sender:Subject:List-Unsubscribe:Date:X-MM-ID:MIME-Version:Content-Type;
+	b=JydFDf7WnHjuX6kvGxcMgkt/fZApWl3w9r/wlqhkWY9y6iyqilFoMHBlENB42Cew
+	4gVAcgpe+edBq8LcBwc2Tg4Im0+n3njehFzhhaSDIWSDvlvkLFJd4UHO0h9yxXl1
+	YgTO7GyUPyJDsRMp1KiY0hwh4fxhzGTs2Rpyoa8PCaM=
+DKIM-Signature: v=1; a=rsa-sha1; d=netlogmail.com; s=netlog; c=relaxed/simple;
+	q=dns/txt; i=netlogmail.com; t=1310544367;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=jpwW/NpYbIB1iLp9Xh/yg6gLVJs=;
+	b=DpgJbcLo3TdzChTC70rkiMBA6WxfTQT04Odik8o0EvcIj8dinPXR85Uowqqy7XHh
+	ilbZ3rE9qkaDlmaJxKeN0mqzXozfDwBBGzSxf6IlE51SUatDW2Abiu+scuDvGbDf
+	YrZenarJu0JiSft8tSHfGmZBtTcRjBgfWqlcKi7Ml8o=;
+Received: from [192.168.3.13] ([192.168.3.13:57914] helo=web)
+	by mx19.netlogmail.com (envelope-from <noreply+I44773659@netlogmail.com>)
+	(ecelerity 3.0.26.37820 r(37820)) with ESMTP
+	id CD/AC-11521-FE15D1E4; Wed, 13 Jul 2011 08:06:07 +0000
+Message-ID: <CD.AC.11521.FE15D1E4@mail03>
+From: Inguna Gaile <noreply+I44773659@netlogmail.com>
+To:  <ingo.skupin@web.de>
+Reply-To: Inguna Gaile <inguna-g@inbox.lv>
+Sender: noreply+I44773659@netlogmail.com
+Subject: =?UTF-8?B?SWVnxatzdGkgcGllZWp1IG1hbsSBbSBiaWxkxJNtIHVuIG5lIHRpa2Fp?=
+List-Unsubscribe: <http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD0xMDAmZ209MCZ1PSUyRmdvJTJGbm9tYWlscyUyRmludml0ZSUyRmVtYWlsJTNELWFXNW5ieTV6YTNWd2FXNUFkMlZpTG1SbCUyNmNvZGUlM0QxNDQ5NDg2MQ__>
+Date: Wed, 13 Jul 2011 08:07:40 +0000
+X-MM-ID: -3aWQ9STQ0NzczNjU5LHR5cGU9MTIsZGlzdHJvPWx2LGRpc3Ryb2lkPTMxMDU5MyxkYXRlPTEzMTA1NDQ0NjAsc3VidHlwZT0yLHZlcnNpb249Nyxjdj12Ni4wMCx1aWQ9MCxtaWQ9MCxpdD1iCgkJ
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="netlog_6c0762e6e365746c66f672e9636f6d2237db"
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+This is a multi-part message in MIME format.
+
+--netlog_6c0762e6e365746c66f672e9636f6d2237db
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+Čau,
+
+Esmu izveidojis(-usi) Netlog profilu ar savām bildēm, video, blogiem un pasākumiem. Lai tu varētu to visu redzēt, vēlos pievienot tevi saviem draugiem. Vispirms tev jābūt reģistrētam(-ai) portālā Netlog! Kad ielogosies, varēsi izveidot savu profilu.
+
+Apskaties:
+http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD0xJmdtPTEyJnU9JTJGZ28lMkZyZWdpc3RlciUyRmlkJTNELWFXNW5ieTV6YTNWd2FXNUFkMlZpTG1SbCUyNnVpZCUzRDE2ODYzNzQyNg__
+
+Līdz vēlākam,
+Inguna
+
+----------------------------------------------------------------
+Nevēlies turpmāk saņemt uzaicinājumus no saviem draugiem?
+http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD0yJmdtPTEyJnU9JTJGZ28lMkZub21haWxzJTJGaW52aXRlJTJGZW1haWwlM0QtYVc1bmJ5NXphM1Z3YVc1QWQyVmlMbVJsJTI2Y29kZSUzRDE0NDk0ODYx
+Don't want to receive invitations from your friends anymore?
+http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD0zJmdtPTEyJnU9aHR0cCUzQSUyRiUyRmVuLm5ldGxvZy5jb20lMkZnbyUyRm5vbWFpbHMlMkZpbnZpdGUlMkZlbWFpbCUzRC1hVzVuYnk1emEzVndhVzVBZDJWaUxtUmwlMjZjb2RlJTNEMTQ0OTQ4NjE_
+
+--netlog_6c0762e6e365746c66f672e9636f6d2237db
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2 Final//EN">
+<html>
+<head>
+ <title>Iegūsti pieeju manām bildēm un ne tikai</title>
+</head>
+<body>
+<table width="620" border="0" cellspacing="0" cellpadding="0" style="line-height:18px;">
+ <tr>
+ <td height="10" colspan="4" bgcolor="#303030">&nbsp;</td>
+ <td height="10" colspan="4">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="10" colspan="3" bgcolor="#303030">&nbsp;</td>
+ <td height="10" colspan="4" bgcolor="#efefef">&nbsp;</td>
+ <td height="10" colspan="1">&nbsp;</td>
+ </tr>
+ <tr>
+ <td width="30" height="90" bgcolor="#303030">&nbsp;</td>
+ <td width="115" height="90" valign="top" bgcolor="#303030">
+ <table width="86" border="0" cellpadding="3" cellspacing="0" bgcolor="#FFFFFF">
+ <tr>
+ <td text-align:"center" style="text-align: center; padding: 3px 0;"><img src="http://lv.netlog.com/go/mainphoto/userid=168637426" width="80" height="60" /></td>
+ </tr>
+ </table>
+ <br />
+ <font face="Arial, Helvetica, sans-serif" size="-1" color="#FFFFFF" style="font-size: 12px;">
+ Inguna Gaile<br />
+ <font size="-2" style="font-size: 11px;" >
+ sieviete - 20 gadu(-s) vecs(-a)<br />
+ Birmingham</font></font><br /><br />
+ <br />
+ </td>
+ <td width="20" height="90" valign="top" bgcolor="#303030"><img src="http://s6.netlogstatic.com/v6.00/3981/s/i/mail/balloon-point.gif" width="20" height="55" align="top"></td>
+ <td width="15" height="90" bgcolor="#efefef">&nbsp;</td>
+ <td width="15" height="90" bgcolor="#efefef">&nbsp;</td>
+ <td style="font-size: 13px;" height="90" bgcolor="#efefef"><font face="Arial, Helvetica, sans-serif" color="#666666"><font color="#bd0710" size="+2">Sveiki!</font><br />
+ <br />
+  Esmu izveidojis(-usi) Netlog profilu un gribētu tev (ingo.skupin@web.de) dot pieeju manām jaunākajām bildēm un daudz kam citam.
+  <br /> 
+ <br />
+ <table border="0" cellpadding="0" cellspacing="0" bgcolor="#BD0710" background="http://s6.netlogstatic.com/v6.00/257742/s/i/mail/btn-gradient.gif">
+ <tr>
+ <td height="3" colspan="4"></td>
+ </tr>
+ <tr>
+ <td>&nbsp;</td>
+ <td><img src="http://s6.netlogstatic.com/v6.00/257742/s/i/mail/btn-logo.gif" width="35" height="35" /></td>
+ <td>
+  <a href="http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD0xJmdtPTEyJnU9JTJGZ28lMkZyZWdpc3RlciUyRmlkJTNELWFXNW5ieTV6YTNWd2FXNUFkMlZpTG1SbCUyNnVpZCUzRDE2ODYzNzQyNg__" style="font-family: Arial, helvetica, 'sans-serif'; color: #ffffff">
+  <font face="Arial, Helvetica, sans-serif" size="+1" color="#FFFFFF">Savienoties ar Inguna</font>
+ </a> 
+ </td>
+ <td width="10">&nbsp;</td>
+ </tr>
+ <tr>
+ <td height="3" colspan="4"></td>
+ </tr>
+ </table>
+ <br />
+ <font face="Arial, Helvetica, sans-serif" size="-1" style="font-size: 13px;" color="#666666">
+ Līdz vēlākam, <br />Inguna </font>
+ </td>
+ <td width="15" bgcolor="#efefef">&nbsp;</td>
+ </tr>
+ <tr>
+ <td colspan="3" rowspan="4" bgcolor="#303030">&nbsp;</td>
+ <td width="15" bgcolor="#efefef">&nbsp;</td>
+ <td colspan="2" bgcolor="#efefef">&nbsp;</td>
+ <td width="15" bgcolor="#efefef">&nbsp;</td>
+ </tr>
+ <tr>
+ <td width="15" rowspan="3" bgcolor="#303030">&nbsp;</td>
+ <td colspan="4" bgcolor="#FFFFFF">&nbsp;</td>
+ </tr>
+ <tr>
+ <td bgcolor="#FFFFFF">&nbsp;</td>
+ <td valign="top" bgcolor="#FFFFFF">
+ <font face="Arial, Helvetica, sans-serif" size="-2" color="#666666">
+ Vai augšā esošā poga nav labi redzama? <br />
+  Spied uz <a href="http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD0xJmdtPTEyJnU9JTJGZ28lMkZyZWdpc3RlciUyRmlkJTNELWFXNW5ieTV6YTNWd2FXNUFkMlZpTG1SbCUyNnVpZCUzRDE2ODYzNzQyNg__"><font color="#bd0710">here</font></a> vai iekopē zemāk redzamo saiti sava pārlūka adrešu joslā.<br />
+ <a style="color: #bd0710" href="http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD0xJmdtPTEyJnU9JTJGZ28lMkZyZWdpc3RlciUyRmlkJTNELWFXNW5ieTV6YTNWd2FXNUFkMlZpTG1SbCUyNnVpZCUzRDE2ODYzNzQyNg__"><font color="#bd0710">http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD0xJmdtPTEyJnU9JTJGZ28lMkZyZWdpc3RlciUyRmlkJTNELWFXNW5ieTV6YTNWd2FXNUFkMlZpTG1SbCUyNnVpZCUzRDE2ODYzNzQyNg__</font></a></font>
+  <br /><br /><br />
+ <br /><br />
+ <img src="http://s6.netlogstatic.com/v6.00/257742/s/i/mail/netlog-logo.gif" width="112" height="23" /><br /><br />
+ <font face="Arial, Helvetica, sans-serif" size="-2" color="#666666">
+ Nevēlies turpmāk saņemt uzaicinājumus no saviem draugiem?
+  <a style="color:#bd0710;" href="http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD02JmdtPTEyJnU9JTJGZ28lMkZub21haWxzJTJGaW52aXRlJTJGZW1haWwlM0QtYVc1bmJ5NXphM1Z3YVc1QWQyVmlMbVJsJTI2Y29kZSUzRDE0NDk0ODYx">
+  <font color="#bd0710">Spied šeit
+ </font></a>.
+  <br />
+ Don't want to receive invitations from your friends anymore?
+  <a style="color:#bd0710;" href="http://lv.netlog.com/go/mailurl/-bT0zMTA1OTMmbD03JmdtPTEyJnU9aHR0cCUzQSUyRiUyRmVuLm5ldGxvZy5jb20lMkZnbyUyRm5vbWFpbHMlMkZpbnZpdGUlMkZlbWFpbCUzRC1hVzVuYnk1emEzVndhVzVBZDJWaUxtUmwlMjZjb2RlJTNEMTQ0OTQ4NjE_">
+  <font color="#bd0710">Click here
+ </font></a>.<br />
+  
+ <strong>Massive Media NV</strong> - E. Braunplein 18. B-9000 Gent. Belgium. <br />
+ BE0859635972 - 
+  <a href="mailto:abuse-lv@netlog.com" style="color:#666666;">
+  <font color="#666666">abuse-lv@netlog.com</font></a><br />
+ </font>
+ </td>
+ <td colspan="2" rowspan="2" bgcolor="#FFFFFF">&nbsp;</td>
+ </tr>
+ <tr>
+ <td bgcolor="#FFFFFF">&nbsp;</td>
+ <td bgcolor="#FFFFFF">&nbsp;</td>
+ </tr>
+</table>
+<img src="http://lv.netlog.com/go/mailimage/type=INVITATION&mailid=310593&header.gif" />
+</body>
+</html>
+
+--netlog_6c0762e6e365746c66f672e9636f6d2237db--
+

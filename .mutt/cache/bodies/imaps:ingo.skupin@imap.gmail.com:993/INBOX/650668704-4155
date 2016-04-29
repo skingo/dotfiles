@@ -1,0 +1,121 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp50700vcb;
+        Sat, 3 Nov 2012 07:20:45 -0700 (PDT)
+Received: by 10.14.220.71 with SMTP id n47mr17529184eep.26.1351952444502;
+        Sat, 03 Nov 2012 07:20:44 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTP id j5si1413286eeo.38.2012.11.03.07.20.44;
+        Sat, 03 Nov 2012 07:20:44 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-ea0-f179.google.com ([209.85.215.179]) by mx-ha.web.de
+ (mxweb108) with ESMTP (Nemesis) id 0MBmbz-1TcbKm3Gb9-00Aqj7 for
+ <ingo.skupin@gmail.com>; Sat, 03 Nov 2012 15:20:44 +0100
+Received: by mail-ea0-f179.google.com with SMTP id f14so1841155eaa.24
+        for <multiple recipients>; Sat, 03 Nov 2012 07:20:43 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=sender:user-agent:in-reply-to:references:mime-version:content-type
+         :subject:from:date:to:message-id;
+        bh=Z57m3zYqfiehI/7vPJG8UTHy5eRO9we9fBrkId4kU8k=;
+        b=UbkkjL6TQNjOmxsWvMQAkKooJYxEGedET1m+vlSICbtzUSbEuRn3srTWQ4aXY1cbHh
+         iwQ3vn5GGV21iZbn242B2jIM2/e2Ro0jFY44GO0VYjmrgfzognP8NC1X4xAfWrKy13FU
+         XPv1tpTLJjT8A1TapgUa54JECGO9xD5CTKqxAD3AgOP6e+U/OB0/S48+sIi46gJEF5vd
+         0LfYc4oEaETxTSAzLc5CCCdIVr6ZBZZAbCwkV2uUBts+pTBx/xAl+fKdh4WdAHAXvTXA
+         WiD2xT1N1TVsnmqP8Zs+atQXlfQuVEH9VncqtRqmpfqE8c7enBZ8d5eIqA2qhOEwMSQ0
+         J53g==
+Received: by 10.14.200.194 with SMTP id z42mr17607486een.13.1351952443263;
+        Sat, 03 Nov 2012 07:20:43 -0700 (PDT)
+Return-Path: <fmsebert@gmail.com>
+Received: from [192.168.1.37] (dslb-084-056-160-073.pools.arcor-ip.net. [84.56.160.73])
+        by mx.google.com with ESMTPS id g5sm31902921eem.4.2012.11.03.07.20.36
+        (version=SSLv3 cipher=OTHER);
+        Sat, 03 Nov 2012 07:20:42 -0700 (PDT)
+Sender: Florian Sebert <fmsebert@gmail.com>
+User-Agent: K-9 Mail for Android
+In-Reply-To: <CAN1A5uBBYosBw1oskAn1uiaTPGZEH+DpcPCMZZ9LVmV+Bj3tVQ@mail.gmail.com>
+References: <CAN1A5uBBYosBw1oskAn1uiaTPGZEH+DpcPCMZZ9LVmV+Bj3tVQ@mail.gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----3DZ2NOW8ZF6ZWZ9NVGN83HPTSNYNG1"
+Subject: =?UTF-8?Q?Re=3A_T=C3=BCbinger_Saxophon_Ensemble_-_Besetzung?=
+From: Florian Sebert <florian@floriansebert.de>
+Date: Sat, 03 Nov 2012 15:19:57 +0100
+To: martina@pfister-heidelberg.de,Sabine Pfister <pfistersabine@googlemail.com>,Stefan Pfister <s.pfister@dkfz-heidelberg.de>,jandan@gmx.de,Florian Sebert <florian@floriansebert.de>,Steffen Sautter <steffen.sautter@web.de>,Yannick Frey <yannick.frey1994@web.de>,Tizian Decker <tizian_decker@web.de>,Anna-Nora zur Nieden <norazurnieden@googlemail.com>,Ingo Skupin <ingo.skupin@web.de>,christian.hofstaetter@onlinehome.de,Rainer Pfister <rainer.pfister@me.com>,"Dr. Stefan Wiehr" <stefan@wiehr.de>,Christine Erchinger <christine-erchinger@web.de>,Lukas Fischer <lukasfischer1@aol.com>,Hartmut Nagel <hartmut_nagel@web.de>,Christoph Neumann <mail.christoph.neumann@googlemail.com>,"Harry D. Bath" <harryd.bath@t-online.de>,"kinderaerztin_susanne@t-online.de Pfister" <kinderaerztin_susanne@t-online.de>,Gerhard Nagel <grnagel@web.de>
+Message-ID: <f4fa4dd2-d000-44d5-a2d1-60541668dfcc@email.android.com>
+
+------3DZ2NOW8ZF6ZWZ9NVGN83HPTSNYNG1
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Zunahme -> Zuname  :-)
+Dank an Nora!
+
+
+
+Florian Sebert <florian@floriansebert.de> schrieb:
+
+>Hallo zusammen,
+>
+>aus gegebenem Anlass möchte ich alle Mitglieder des Ensembles
+>freundlich bitten und zugleich nachdrücklich dazu aufrufen die unter
+>dem unten angegebenen Link abgelegte Besetzungsliste um die jeweils
+>eigenen Stimmen zu komplettieren.
+>
+>Die Struktur ist (zugunsten der Benutzerfreundlichkeit) denkbar
+>einfach (flache Struktur) gewählt:
+>
+>- Datum: Datum, an dem das angegebene Stück in der angegebenen
+>Bestzung zuletzt gespielt wurde (z.B. das letzte Konzert)
+>- Komponist: Name des Komponisten (wenn schon Einträge für einen
+>Komponisten existieren bitte die selbe Schreibweise verwenden oder
+>alle Einträge korrigieren)
+>- Stück: Titel des Stückes (wenn schon Einträge für ein Stück
+>existieren bitte die selbe Schreibweise verwenden oder alle Einträge
+>korrigieren)
+>- Spieler: Vor- und Zunahme des Spielers
+>- Instrument: Sopran / Alt / Tenor / Bariton / Bass
+>- Stimme: 1 / 2 / 3 / 4 etc.
+>
+>Die Liste dient zum einen der Übersicht über die aktuelle
+>Stimmverteilung des derzeitigen Repertoires, zum anderen aber auch der
+>effizienteren Stimmenvergabe wenn Stücke gespielt werden sollen, die
+>in der Vergangenheit schon einstudiert wurden.
+>
+>Wenn sich also jemand erinnert, bei einem bestimmten Stück vormals
+>eine andere als die aktuell zugeteilte Stimme gespielt zu haben, wäre
+>es wünschenswert, auch dafür einen eigenen Eintrag vorzunehmen.
+>Gleiches gilt für Stücke, die zur Zeit nicht im Programm sind. In
+>diesen beiden Fällen als fiktives Datum dann bitte den 01.01.2012
+>wählen.
+>
+>Noch Fragen? Nein? Gut! Falls doch, gerne per Mail.
+>
+>Und hier ist der Link:
+>
+>https://docs.google.com/spreadsheet/ccc?key=0Au6HpNesXPSSdGc4UmJXYk1YeWZPR1d3Vk83MzFRMEE
+>
+>Sollte ich jemanden vergessen haben, bitte weiterleiten.
+>
+>Vielen Dank und viele Grüße,
+>Florian
+
+--
+Sent via K-9 for Android on Galaxy S2.
+------3DZ2NOW8ZF6ZWZ9NVGN83HPTSNYNG1
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html><head/><body><html><head></head><body>Zunahme -&gt; Zuname  :-)<br>
+Dank an Nora!<br><br><div class="gmail_quote"><br>
+<br>
+Florian Sebert &lt;florian@floriansebert.de&gt; schrieb:<blockquote class="gmail_quote" style="margin: 0pt 0pt 0pt 0.8ex; border-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">
+<pre style="white-space: pre-wrap; word-wrap:break-word; font-family: sans-serif; margin-top: 0px">Hallo zusammen,<br /><br />aus gegebenem Anlass möchte ich alle Mitglieder des Ensembles<br />freundlich bitten und zugleich nachdrücklich dazu aufrufen die unter<br />dem unten angegebenen Link abgelegte Besetzungsliste um die jeweils<br />eigenen Stimmen zu komplettieren.<br /><br />Die Struktur ist (zugunsten der Benutzerfreundlichkeit) denkbar<br />einfach (flache Struktur) gewählt:<br /><br />- Datum: Datum, an dem das angegebene Stück in der angegebenen<br />Bestzung zuletzt gespielt wurde (z.B. das letzte Konzert)<br />- Komponist: Name des Komponisten (wenn schon Einträge für einen<br />Komponisten existieren bitte die selbe Schreibweise verwenden oder<br />alle Einträge korrigieren)<br />- Stück: Titel des Stückes (wenn schon Einträge für ein Stück<br />existieren bitte die selbe Schreibweise verwenden oder alle Einträge<br />korrigieren)<br />- Spieler: Vor- und
+Zunahme des Spielers<br />- Instrument: Sopran / Alt / Tenor / Bariton / Bass<br />- Stimme: 1 / 2 / 3 / 4 etc.<br /><br />Die Liste dient zum einen der Übersicht über die aktuelle<br />Stimmverteilung des derzeitigen Repertoires, zum anderen aber auch der<br />effizienteren Stimmenvergabe wenn Stücke gespielt werden sollen, die<br />in der Vergangenheit schon einstudiert wurden.<br /><br />Wenn sich also jemand erinnert, bei einem bestimmten Stück vormals<br />eine andere als die aktuell zugeteilte Stimme gespielt zu haben, wäre<br />es wünschenswert, auch dafür einen eigenen Eintrag vorzunehmen.<br />Gleiches gilt für Stücke, die zur Zeit nicht im Programm sind. In<br />diesen beiden Fällen als fiktives Datum dann bitte den 01.01.2012<br />wählen.<br /><br />Noch Fragen? Nein? Gut! Falls doch, gerne per Mail.<br /><br />Und hier ist der Link:<br /><br /><a
+href="https://docs.google.com/spreadsheet/ccc?key=0Au6HpNesXPSSdGc4UmJXYk1YeWZPR1d3Vk83MzFRMEE">https://docs.google.com/spreadsheet/ccc?key=0Au6HpNesXPSSdGc4UmJXYk1YeWZPR1d3Vk83MzFRMEE</a><br /><br />Sollte ich jemanden vergessen haben, bitte weiterleiten.<br /><br />Vielen Dank und viele Grüße,<br />Florian<br /></pre></blockquote></div><br>
+--<br>
+Sent via K-9 for Android on Galaxy S2.</body></html></body></html>
+------3DZ2NOW8ZF6ZWZ9NVGN83HPTSNYNG1--
+

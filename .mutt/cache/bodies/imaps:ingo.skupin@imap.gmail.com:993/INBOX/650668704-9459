@@ -1,0 +1,199 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp79136ivc;
+        Wed, 16 Mar 2016 13:16:25 -0700 (PDT)
+X-Received: by 10.28.222.67 with SMTP id v64mr10822256wmg.14.1458159385703;
+        Wed, 16 Mar 2016 13:16:25 -0700 (PDT)
+Return-Path: <martina@pfister-heidelberg.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTPS id p10si6030312wjf.119.2016.03.16.13.16.25
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 16 Mar 2016 13:16:25 -0700 (PDT)
+Received-SPF: neutral (google.com: 212.227.15.14 is neither permitted nor denied by best guess record for domain of martina@pfister-heidelberg.de) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 212.227.15.14 is neither permitted nor denied by best guess record for domain of martina@pfister-heidelberg.de) smtp.mailfrom=martina@pfister-heidelberg.de
+Received: from [212.227.15.17] ([212.227.15.17]) by mx-ha.web.de (mxweb009)
+ with ESMTPS (Nemesis) id 0MfCIs-1aRTlb0Q3u-00OpMB for
+ <ingo.skupin@gmail.com>; Wed, 16 Mar 2016 21:16:25 +0100
+Received: from mout.kundenserver.de ([212.227.126.133]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0LwCv0-1ZkPG30PyI-0186KF for
+ <ingo.skupin@web.de>; Wed, 16 Mar 2016 21:16:25 +0100
+Received: from [212.227.15.41] ([212.227.15.41]) by mx.kundenserver.de
+ (mxeue002) with ESMTPS (Nemesis) id 0Mb0dW-1aN63O3BsY-00KQFS for
+ <ingo.skupin@web.de>; Wed, 16 Mar 2016 21:16:24 +0100
+Received: from [212.227.15.41] ([212.227.15.41]) by mx.kundenserver.de
+ (mxeue002) with ESMTPS (Nemesis) id 0M2lkM-1Zr49u36W6-00sf4U; Wed, 16 Mar
+ 2016 21:16:24 +0100
+Received: from smtp04.udag.de ([62.146.106.30]) by mx.kundenserver.de
+ (mxeue002) with ESMTPS (Nemesis) id 0LleIi-1a6x7A2siG-00ZLno for
+ <ensemble@saxophon-ensemble.de>; Wed, 16 Mar 2016 21:16:24 +0100
+Received: from PfisterBro (x2f65fdb.dyn.telefonica.de [2.246.95.219])
+	by smtp04.udag.de (Postfix) with ESMTPA id 238A0F83
+	for <ensemble@saxophon-ensemble.de>; Wed, 16 Mar 2016 21:16:24 +0100 (CET)
+From: "Martina" <martina@pfister-heidelberg.de>
+To: "TSE" <ensemble@saxophon-ensemble.de>
+Subject: Probe am WE nur Samstag bis 14 Uhr und reminder: Mitgliederversammlung Samstag um 17 Uhr im Musikzentrum Pfrondorf
+Date: Wed, 16 Mar 2016 21:16:24 +0100
+Message-ID: <015801d17fc0$b72a0dd0$257e2970$@pfister-heidelberg.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0159_01D17FC9.18EE75D0"
+X-Mailer: Microsoft Outlook 15.0
+Thread-Index: AdF/wLaRKE0MBZAMS7eN8Xl90/80Sg==
+Content-Language: de
+X-Antivirus: avast! (VPS 160314-0, 14.03.2016), Outbound message
+X-Antivirus-Status: Clean
+X-UI-Out-Filterresults: notjunk:1;V01:K0:gggFmG/m+Vw=:r0dnsHc31Mfc6ATIiUctWw
+ BJQKJDalrGNjc/nTho/DPi5hx3+NpZmpKuG4vObkGnPyQATsB+Dl+NF+sGmjjpTBI3SLiVloj
+ zAfxhBUZ8MEt0pc0XvS0rMNyfwwragxkoXqzt5ukxnFjplF4mHxTf+Nw1YOGIEZ/kfXfPrnS/
+ TgogjRND8Gucg2r519EaQmZCVlaCmg9vIVzsqWDfGm4vMYe7VKabYfP/kelSBLsRqURQhpunA
+ 7Mr2TS+dM0LPJ1YQ1h8tV/yjXcI1200kF7lKT0i2e5S8898L1lqWO7imxWtldhIHJc508Rx0A
+ xVWI++6AnoZE5i0lWNHsXnmiAqdON3NDzdGrZhVw3Z6cDvPsqw0UxGB/XYth8VyD0xWgcQFdc
+ /JK8rA00u5If0tGPHTGLrB/SIY55SA7e6SNsQoZ0y+WpzpM8Uy+PVBDuTyT5UFzmJKttJ5fLi
+ w7rSb3EB82A/UANChqUD7XhX93A3sOS5q76zwbwY0WBasY2Btvj6BEZOYdlXzm8vfrGLLp+rL
+ C3kAXt0Y9Ihsk8TVjv2l1K43YI02IS4Fyt7UCMLMEzYLHlxCCQB8YBiJThoZ2OLzCDKUQIN3x
+ E/6wc1VjeY7+mtJ0QdMEd9b1rWcDlRfvksUNeO0MOP3li6s+m39n1V8V8yd9s8U6n10QPwGFq
+ VdCP038kf7NB2NHpFEh0O6fd45WzisWhc6rfx3f4TLsL8KvM/hFwZmhvrC8BFKMfh1AiXEKsw
+ WuCYThUNO7ip6wUgPf/fbfxajHuhBNKiBXccldDRLaaBBkAVsuowZiRaPGAb4QcsyO/0+DrSx
+ IJBIPW4ARWD+/QxpdR+KRyjfwEDJw7JzbmRuhspP2q7ZxFji1U2TeohTHJdeavXwQRXCj12eL
+ ZOBhpniO5D6JYVTBQ3bwyd+eywmCZUMR7ZxwIP+vitcjDIp0zze5kOUUOBrA8vPvlmUCNMOWi
+ qzDWjbqL7sKhHz4mLfvwJGLpdB/C2+7JtaIwa38xv73Zc6GQDTSUa
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0159_01D17FC9.18EE75D0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo alle zusammen,
+
+kurz zum WE.
+
+Es sind leider viele nicht da, so dass Harry beschlossen hat, dass wir am
+Samstag =84knackig=93 ab 9.00 Uhr (treffen), 9.30 Uhr (eingespielt und gest=
+immt
+beginnen) Proben, nur Vesperpause machen und 
+
+um 14 Uhr aufh=F6ren.
+
+F=FCr alle die nicht da sind: bitte die Stimmen =FCben, v.a. auch die beide=
+n
+letzten S=E4tze von Carmen, die wir am Samstag proben werden!
+
+F=FCr die die kommen, bitte alle S=E4tze ausgedruckt dabei haben, dass wir =
+nicht
+auch noch gemeinsame Zeit mit Notenausdruck und =96suche verdaddeln.
+
+ 
+
+Danke, liebe Gr=FC=DFe und bis Samstag
+
+Martina
+
+ 
+
+P.S. Am Samstag um 17 Uhr ist auch Mitgliederversammlung. Nicht vergessen :=
+)
+
+
+
+---
+Diese E-Mail wurde von Avast Antivirus-Software auf Viren gepr=FCft.
+https://www.avast.com/antivirus
+
+------=_NextPart_000_0159_01D17FC9.18EE75D0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" xmlns:o=3D"urn:schemas-micr=
+osoft-com:office:office" xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" xmlns=3D"http:=
+//www.w3.org/TR/REC-html40"><head><meta http-equiv=3DContent-Type content=
+=3D"text/html; charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Micr=
+osoft Word 15 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:#0563C1;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:#954F72;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri",sans-serif;
+	color:windowtext;}
+=2EMsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri",sans-serif;
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3D"#0563C1" v=
+link=3D"#954F72"><div class=3DWordSection1><p class=3DMsoNormal>Hallo alle =
+zusammen,<o:p></o:p></p><p class=3DMsoNormal>kurz zum WE.<o:p></o:p></p><p =
+class=3DMsoNormal>Es sind leider viele nicht da, so dass Harry beschlossen =
+hat, dass wir am Samstag &#8222;knackig&#8220; ab 9.00 Uhr (treffen), 9.30 =
+Uhr (eingespielt und gestimmt beginnen) Proben, nur Vesperpause machen und =
+<o:p></o:p></p><p class=3DMsoNormal>um 14 Uhr aufh=F6ren.<o:p></o:p></p><p =
+class=3DMsoNormal>F=FCr alle die nicht da sind: bitte die Stimmen =FCben, v=
+=2Ea. auch die beiden letzten S=E4tze von Carmen, die wir am Samstag proben=
+ werden!<o:p></o:p></p><p class=3DMsoNormal>F=FCr die die kommen, bitte all=
+e S=E4tze ausgedruckt dabei haben, dass wir nicht auch noch gemeinsame Zeit=
+ mit Notenausdruck und &#8211;suche verdaddeln.<o:p></o:p></p><p class=3DMs=
+oNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Danke, liebe Gr=FC=DFe un=
+d bis Samstag<o:p></o:p></p><p class=3DMsoNormal>Martina<o:p></o:p></p><p c=
+lass=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>P.S. Am Samstag =
+um 17 Uhr ist auch Mitgliederversammlung. Nicht vergessen <span style=3D'fo=
+nt-family:Wingdings'>J</span><o:p></o:p></p></div>
+<br /><br />
+<hr style=3D'border:none; color:#909090; background-color:#B0B0B0; height: =
+1px; width: 99%;' />
+<table style=3D'border-collapse:collapse;border:none;'>
+	<tr>
+		<td style=3D'border:none;padding:0px 15px 0px 8px'>
+			<a href=3D"https://www.avast.com/antivirus">
+				<img border=3D0 src=3D"http://static.avast.com/emails/avast-mail-stamp.=
+png" alt=3D"Avast logo" />
+			</a>
+		</td>
+		<td>
+			<p style=3D'color:#3d4d5a; font-family:"Calibri","Verdana","Arial","Helv=
+etica"; font-size:12pt;'>
+				Diese E-Mail wurde von Avast Antivirus-Software auf Viren gepr=FCft.
+				<br><a href=3D"https://www.avast.com/antivirus">www.avast.com</a>
+			</p>
+		</td>
+	</tr>
+</table>
+<br />
+</body></html>
+------=_NextPart_000_0159_01D17FC9.18EE75D0--
+

@@ -1,0 +1,54 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp118699pdb;
+        Mon, 10 Mar 2014 11:52:33 -0700 (PDT)
+X-Received: by 10.15.22.201 with SMTP id f49mr24862335eeu.18.1394477553228;
+        Mon, 10 Mar 2014 11:52:33 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id g5si36234494eew.168.2014.03.10.11.52.32
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 10 Mar 2014 11:52:33 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb102)
+ with ESMTPS (Nemesis) id 0MclFF-1Wf1fa41M9-00HwzY for
+ <ingo.skupin@gmail.com>; Mon, 10 Mar 2014 19:52:32 +0100
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.web.de (mxweb102) with
+ ESMTPS (Nemesis) id 0LrMbw-1XJcGp41CW-0138qr for <ingo.skupin@web.de>; Mon,
+ 10 Mar 2014 19:52:31 +0100
+Received: from mout.gmx.net ([212.227.17.22]) by mx-ha.gmx.net (mxgmx006) with
+ ESMTPS (Nemesis) id 0LeiZ4-1Wx1Dp1yFq-00qTJq; Mon, 10 Mar 2014 19:52:11 +0100
+Received: from [84.133.251.222] by 3capp-gmx-bs23 with HTTP; Mon, 10 Mar
+ 2014 19:52:11 +0100
+MIME-Version: 1.0
+Message-ID: <trinity-36d692d2-92e4-4a9f-831a-7736560c462a-1394477531029@3capp-gmx-bs23>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de,
+ "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>
+Subject: =?UTF-8?Q?St=C3=A4ndle_am_17=2E3=2E?=
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 10 Mar 2014 19:52:11 +0100
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:RoI9n+GaTApPTtlHu2/zDivl6ocaB8ivYxwVP5/FqId
+ WfX2q53OHJWBtZYV+7V6pxkGiLO9C6s7vnkOdxmu8Li7kRZ3Ts
+ eEBANqC8NXBkvnrIeSSNnH/L9ErvKQZa/qdmtJeZ+uvbxz62Vm
+ lnUwAJkTITXrAZ9wRnRkrl/03I3CNJsIkDRKt+MOp0Chy60Zjy
+ xh92do7FhLQ4M7pG0Psn/Uldi3Xt8Vd1O7tq9evj4oSCbHv8DI
+ s9T/figEf1NWeo8ybTAJMfMFEWqao33dNbrO1G/mWE5ONz5+y5 xcTT4M=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>am Montag 17.M&auml;rz haben wir ein St&auml;ndle zu spielen bei Arnold Eppinger!</div>
+
+<div>Wellinger Str.</div>
+
+<div>das Geb&auml;ude hinter der Firma Getr&auml;nkie Niefer!</div>
+
+<div>Uhrzeit 19 Uhr!&nbsp;</div>
+
+<div>Gru&szlig; Timo</div></div></body></html>

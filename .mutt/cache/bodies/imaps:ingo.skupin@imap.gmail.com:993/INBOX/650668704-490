@@ -1,0 +1,134 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.39.69 with SMTP id f5cs196509vce;
+        Sat, 10 Sep 2011 05:35:22 -0700 (PDT)
+Received: by 10.223.74.83 with SMTP id t19mr113516faj.114.1315658121345;
+        Sat, 10 Sep 2011 05:35:21 -0700 (PDT)
+Return-Path: <czec@czec.de>
+Received: from fmmailgate02.web.de (fmmailgate02.web.de [217.72.192.227])
+        by mx.google.com with ESMTP id f17si2705573fak.127.2011.09.10.05.35.19;
+        Sat, 10 Sep 2011 05:35:20 -0700 (PDT)
+Received-SPF: neutral (google.com: 217.72.192.227 is neither permitted nor denied by domain of czec@czec.de) client-ip=217.72.192.227;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.72.192.227 is neither permitted nor denied by domain of czec@czec.de) smtp.mail=czec@czec.de
+Received:  from mx31.web.de  ( [172.20.6.155])
+	by fmmailgate02.web.de (Postfix) with ESMTP id AD3041AAB5218
+	for <ingo.skupin@gmail.com>; Sat, 10 Sep 2011 14:35:19 +0200 (CEST)
+Received: from [91.198.250.30] (helo=mx3.heinlein-support.de)
+	by mx31.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1R2MmD-0000Fp-00; Sat, 10 Sep 2011 14:35:17 +0200
+Received: from mail.jpberlin.de (mail.jpberlin.de [213.203.238.11])
+	(using TLSv1 with cipher ADH-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mx3.heinlein-support.de (Postfix) with ESMTPS id 023802FE83;
+	Sat, 10 Sep 2011 14:35:16 +0200 (CEST)
+Received: from hefe.heinlein-support.de (hefe.heinlein-support.de [91.198.250.172])
+	by plasma.jpberlin.de (Postfix) with ESMTP id D5BAB83239;
+	Sat, 10 Sep 2011 14:35:15 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at heinlein-support.de
+Received: from plasma.jpberlin.de ([91.198.250.140])
+	by hefe.heinlein-support.de (hefe.heinlein-support.de [91.198.250.172]) (amavisd-new, port 10024)
+	with ESMTP id u+gD0eo+QtNd; Sat, 10 Sep 2011 14:35:13 +0200 (CEST)
+Received: from webmail.jpberlin.de (sinatra4.heinlein-support.de [91.198.250.117])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate)
+	(Authenticated sender: czec@czec.de)
+	by plasma.jpberlin.de (Postfix) with ESMTPSA id 4B24682FB5;
+	Sat, 10 Sep 2011 14:35:12 +0200 (CEST)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8;
+ format=flowed
+Date: Sat, 10 Sep 2011 14:35:12 +0200
+From: czec@czec.de
+To: <sciarrino-teilnehmer@bachakademie.de>
+Cc: <a.lehker@web.de>, <a.volle@gmx.de>, <adrian@domeyer-tue.de>,
+ <agster-hof@t-online.de>, <akraft3@gmx.net>, <andreasjordan@hotmail.com>,
+ <angelika@steeb-family.de>, <angelika_kehrer@web.de>,
+ <annagreguric@googlemail.com>, <Annette.Jickeli@gmx.de>,
+ <annette@familie-kress.de>, <ann-ette@familie-kress.de>,
+ <ann-kathrin-knab@gmx.de>, <armin.stuber@gmx.de>, <benjaminknab@me.com>,
+ <Boebel-Lude@web.de>, <byurichoi@googlemail.com>, <carina.hoppenz@gmx.de>,
+ <carla@guggenberger-mail.de>, <Carlotta.preiss@web.de>, <caroksalat@gmx.de>,
+ <Carolin.Kirschner@t-online.de>, <cofritz@t-online.de>,
+ <colien.schreiber@web.de>, <corinna-haenssler@kabelbw.de>, <curly_@gmx.de>,
+ <dagmarta@t-online.de>, <daniel.frosch@gmx.de>, <daphne.sophia@web.de>,
+ <david-kramer@gmx.net>, <Denise.Hofmann1209@arcor.de>,
+ <didavhle@t-online.de>, <dowa.waibel@t-online.de>, <drummertweety@web.de>,
+ <dwertz@gmx.de>, <ej.harter@t-online.de>, <elisabeth.o@hotmail.de>,
+ <ELSAWALTER@gmx.de>, <emil@czec.de>, <estherb92@web.de>,
+ <evabasset@yahoo.de>, <frank.dvorschak@gmx.de>, <haeusser.b@alice-dsl.net>,
+ <hannah1wagner@web.de>, <hofmann.bri@googlemail.com>, <Hrstorz@aol.com>,
+ <ingo.skupin@web.de>, <janin.gehler@freenet.de>, <jenni_blumhardt91@web.de>,
+ <jenniferwolf_96@yahoo.com>, <johannes.alsheimer@arcor.de>,
+ <johannes_hammer@live.de>, <joscha.wurzel@gmx.de>, <julia.klatt@gmx.de>,
+ <katja.fischer@stuttgart.de>, <klafri99@gmx.de>, <klauskirschlager@web.de>,
+ <kling-kong@web.de>, <L.Pas@hotmail.de>, <laura.sch@hotmail.de>,
+ <lemkesusanne@yahoo.de>, <Lena-Haasis@gmx.de>, <leseratte.charly@gmx.de>,
+ <lilli.kiefer@web.de>, <lis@weltie.com>, <lisi70@hotmail.de>,
+ <lucie.haas@gmx.net>, <magdalenahutt@web.de>, <marenlukas@operamail.com>,
+ <marietheresheilig@yahoo.de>, <melike@uni-hohenheim.de>, <Merli.E@web.de>,
+ <mia.katzi@freenet.de>, <michl.oe@gmx.de>, <miriampascal@arcor.de>,
+ <mk.grau@web.de>, <moritz_spang@web.de>, <NatalieKuebler@gmx.de>,
+ <natifunk@gmx.de>, <nbreckwoldt@web.de>, <Neundorfer.Prade@t-online.de>,
+ <nika.e@gmx.de>, <niklas@pempe-tuebingen.de>, <nina.gehler@freenet.de>,
+ <nullia.neminem@web.de>, <oliviazak@web.de>, <oskar.p-s@web.de>,
+ <pbotsch@online.de>, <pola.sonje@gmx.de>, <ppdkaestl@t-online.de>,
+ <raphael@rothschink.de>, <rebecca.rohner@freenet.de>, <rebecca.sonn@web.de>,
+ <robert.p-s@web.de>, <sajeb@t-online.de>, <sanke@seah.de>,
+ <sarah-zerfass@t-online.de>, <schuler.gabriele@arcor.de>,
+ <sonja.P96@web.de>, <sophie.shen@gmx.de>, <sue.heim@web.de>,
+ <tatjana-sax@gmx.de>, <Thomas.Rudlaff@T-online.de>, <tobias.lauster@gmx.de>,
+ <torben_m@gmx.net>, <U.PI@gmx.net>, <uniestahl@t-online.de>,
+ <wiebke0909@web.de>, <wollny.julia@me.com>, <wona@gmx.de>,
+ <zoe.frank@web.de>, <Boebel-Lude@web.de>, <gregor.boehmerle@web.de>,
+ <info@josefdistler.de>, <tanja_heinkel@web.de>, <SabineHolzinger@gmx.de>,
+ <roodsen@gmx.de>, <claudia.kees@t-online.de>, <NatalieKuebler@gmx.de>,
+ <mlkysela@web.de>, <boebbelemaier@web.de>, <G.Pas-VanRiet@gmx.de>,
+ <ingo.sadewasser@freenet.de>, <seidlerh@aol.com>, <mail@johannes-tress.de>
+Subject: letzte Meldung
+Message-ID: <7859d4ac19ea91785dc2cf32933cf814@czec.de>
+X-Sender: czec@czec.de
+User-Agent: RoundCube Webmail/0.4
+Content-Transfer-Encoding: quoted-printable
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+Liebe Musiker,
+
+das Wetter ist pr=C3=A4chtig und wir werden morgen also das Meer nach=20
+Stuttgart holen - zumindest akustisch.
+
+Folgende letze Dinge bitte ich zu beachten:
+- bitte m=C3=B6glichst leichtes Gep=C3=A4ck
+- Gep=C3=A4ck/Instr.-Aufbewahrung in der Pause wird organisiert
+- Freizeittips f=C3=BCr die Pause: Max-Eyth-See, Neckarschleife,=20
+Schnarrenberg, Kurpark Bad Cannstatt ... es gibt viel zu entdecken in=20
+dieser f=C3=BCr manchen unbekannten Ecke Stuttgarts
+- Vesper: Bitte etwas zu Trinken und Essen einpacken. Wir sorgen f=C3=BCr=
+=20
+Obst, Brot, Wasser und Snacks, aber jeder sollte eine Grundausstattung=20
+bei sich haben.
+- Wer nach diesem Ritt noch nicht genug Musik hatte: Es gibt 50=20
+Freikarten f=C3=BCr das Konzert mit dem European Union Youth Orchestra ab=
+ends=20
+um 19 Uhr in der Liederhalle (Elgar, Britten, Vaughan Williams -=20
+Ashkenazy): Bitte bei Bedarf bei mir abholen.
+
+Zeitplan:
+10.30 Uhr Vorprobe Sax
+11.00 Uhr Tutti
+12.30 Uhr Durchlauf
+13.15 Uhr Pause
+15.00 Uhr Konzert 1
+16.30 Uhr Konzert 2
+18.00 Ende
+
+Liebe Gr=C3=BC=C3=9Fe, schlaft alle gut und bis morgen.
+--=20
+Christian Zech
+INTERNATIONALE BACHAKADEMIE STUTTGART
+Musikvermittlung
+Johann-Sebastian-Bach-Platz
+70178 Stuttgart
+tel 0711 - 61921 - 24 (di/mi/do) fax - 30
+mobil 0173 - 914 2780
+http://musikvermittlung.bachakademie.de
+--
+

@@ -1,0 +1,87 @@
+Return-Path: <wwwrun@mx07.uni-tuebingen.de>
+Received: from lmtpproxyd (dmail03.mail.localhost [10.23.21.43])
+	 by ma03.mail.localhost (Cyrus v2.4.18) with LMTPSA
+	 (version=TLSv1/SSLv3 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256/256 verify=YES);
+	 Wed, 27 Apr 2016 14:47:19 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mailserv03.uni-tuebingen.de ([unix socket])
+	 by mailserv03.uni-tuebingen.de (Cyrus v2.4.18) with LMTPA;
+	 Wed, 27 Apr 2016 14:47:19 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mx07.uni-tuebingen.de (mx07.uni-tuebingen.de [134.2.5.217])
+	by mailserv03.uni-tuebingen.de (Postfix) with ESMTPS id 1D0913AA478
+	for <zxmxu55@mailserv03.uni-tuebingen.de>; Wed, 27 Apr 2016 14:47:19 +0200 (CEST)
+Received: from mx07.uni-tuebingen.de (localhost [127.0.0.1])
+	by mx07.uni-tuebingen.de (8.14.3/8.14.3) with ESMTP id u3RClI9q027286
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <ingo.skupin@student.uni-tuebingen.de>; Wed, 27 Apr 2016 14:47:19 +0200
+Received: (from wwwrun@localhost)
+	by mx07.uni-tuebingen.de (8.14.3/8.14.3/Submit) id u3RClIhm027282;
+	Wed, 27 Apr 2016 14:47:18 +0200
+Message-Id: <201604271247.u3RClIhm027282@mx07.uni-tuebingen.de>
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=utf-8
+MIME-Version: 1.0
+X-Mailer: MIME::Lite 3.029 (F2.76; T1.38; A2.04; B3.07_01; Q3.07)
+Date: Wed, 27 Apr 2016 14:47:18 +0200
+From: praxis-beruf@mnf.uni-tuebingen.de
+To: ingo.skupin@student.uni-tuebingen.de
+Subject: =?UTF-8?Q?Angebot einer Exkursion zur AVAT Automation GmbH?=
+Precedence: bulk
+X-Comment: Unirundmail
+
+ ********************************************************************
+ * Dies ist eine von der Universitaetsleitung genehmigte Rundmail.  *
+ ********************************************************************
+ Liebe Studierende der Informatik,
+=20
+ das Team von Praxis&Beruf an der MNF hat das Angebot erhalten, eine Exkurs=
+ion
+ zu dem T=C3=BCbinger Unternehmen AVAT Automation GmbH zu unternehmen. Die =
+Exkursion
+ richtet sich speziell an Studierende der Informatik und m=C3=B6chte Euch d=
+ie
+ Gelegenheit bieten, Euch =C3=BCber Berufsm=C3=B6glichkeiten und Arbeitsfel=
+der beim
+ Unternehmen zu informieren sowie Kontakt zu einem potentiellen Arbeitgeber=
+ zu
+ kn=C3=BCpfen.
+=20
+ Um einen =C3=9Cberblick =C3=BCber m=C3=B6gliche TeilnehmerInnen zu bekomme=
+n, bitte ich
+ Interessierte um eine kurze R=C3=BCckmeldung an folgende Email-Adresse:
+ tina.trost@uni-tuebingen.de=20
+=20
+ Die T=C3=BCbinger Firma AVAT Automation GmbH ist ein mittelst=C3=A4ndische=
+s Unternehmen,
+ das Leitsysteme f=C3=BCr die Versorgungs-und Verfahrenstechnik sowie
+ Steuerungssysteme f=C3=BCr Gro=C3=9Fmotoren entwickelt. Die Firma bietet i=
+mmer wieder
+ Arbeitspl=C3=A4tze f=C3=BCr Informatiker an. Weitere Infos zum Unternehmen=
+ findet Ihr
+ unter http://www.avat.de
+=20
+ Ich freue mich auf Eure R=C3=BCckmeldungen und hoffe, dass reges Interesse
+ Eurerseits den Startschuss zur Planung einer Exkursion zur AVAT Automation=
+ GmbH
+ liefert.
+=20
+ Viele Gr=C3=BC=C3=9Fe
+ Tina Trost
+=20
+ Eberhard Karls Universit=C3=A4t T=C3=BCbingen
+ Mathematisch-Naturwissenschaftliche Fakult=C3=A4t
+ Dekanat
+ Tina Trost
+ ESIT-Projekt/ Berufswege-Veranstaltungen
+ Auf der Morgenstelle 8
+ 72076 T=C3=BCbingen
+=20
+ Telefon +49 7071 29-72750
+ tina.trost@uni-tuebingen.de
+=20
+=20
+ "BMBF-Qualit=C3=A4tspakt-Projekt ESIT - Erfolgreich studieren in T=C3=BCbi=
+ngen
+ ESIT-Projektleitung Dezernat Studium und Lehre"

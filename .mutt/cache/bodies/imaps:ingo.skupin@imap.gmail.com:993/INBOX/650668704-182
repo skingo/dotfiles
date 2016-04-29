@@ -1,0 +1,138 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.93.73 with SMTP id u9cs9791vcm;
+        Sun, 3 Jul 2011 08:36:27 -0700 (PDT)
+Received: by 10.223.96.130 with SMTP id h2mr4728661fan.142.1309707386371;
+        Sun, 03 Jul 2011 08:36:26 -0700 (PDT)
+Return-Path: <no-reply@dropbox.com>
+Received: from fmmailgate02.web.de (fmmailgate02.web.de [217.72.192.227])
+        by mx.google.com with ESMTP id w20si1695044faf.206.2011.07.03.08.36.25;
+        Sun, 03 Jul 2011 08:36:25 -0700 (PDT)
+Received-SPF: neutral (google.com: 217.72.192.227 is neither permitted nor denied by domain of no-reply@dropbox.com) client-ip=217.72.192.227;
+DomainKey-Status: bad (test mode)
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.72.192.227 is neither permitted nor denied by domain of no-reply@dropbox.com) smtp.mail=no-reply@dropbox.com; domainkeys=hardfail (test mode) header.From=no-reply@dropbox.com
+Received:  from mx44.web.de  ( [172.20.4.110])
+	by fmmailgate02.web.de (Postfix) with ESMTP id F1EEB1A41B0AC
+	for <ingo.skupin@gmail.com>; Sun,  3 Jul 2011 17:36:24 +0200 (CEST)
+Received: from [199.47.217.137] (helo=sjc-smtp2.sjc.dropbox.com)
+	by mx44.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1QdOie-0001xo-00
+	for ingo.skupin@web.de; Sun, 03 Jul 2011 17:36:24 +0200
+Received: from sjc-web28.sjc.dropbox.com (sjc-web28.sjc.dropbox.com [10.10.115.156])
+	by sjc-smtp2.sjc.dropbox.com (Postfix) with ESMTP id AC76A7600A1
+	for <ingo.skupin@web.de>; Sun,  3 Jul 2011 15:36:23 +0000 (UTC)
+DomainKey-Signature: a=rsa-sha1; s=m1; d=dropbox.com; c=simple; q=dns;
+	b=FZT6KsPtj7CKSZSu/vb1ih0eF8Aj6FD2pBLOpkqEpOq6NM2Mm4a/dxFiqKv/AkYU0
+	tbOxG5XEEfbU0FLCshK1UOuT/cwWgwT14yU++cZiCjZOSwbZFyM4EyhEsxyziY3/k9Y
+	96Z0ZWAYWOLGba6/2HW6jY4ao0G7gBvf2kJ6Cu4=
+Received: from sjc-web28.sjc.dropbox.com (localhost [127.0.0.1])
+	by sjc-web28.sjc.dropbox.com (Postfix) with ESMTP id A8DBC9805BB
+	for <ingo.skupin@web.de>; Sun,  3 Jul 2011 15:36:23 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============3221389453485917997=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+Subject: Dropbox-Weiterempfehlungsstatus
+Date: Sun, 03 Jul 2011 15:36:23 +0000
+Message-Id: <20110703153623.A8DBC9805BB@sjc-web28.sjc.dropbox.com>
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+--===============3221389453485917997==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ingo,
+
+Klaus Skupin hat Dropbox aufgrund deiner Einladung installiert. Zum Dank =
+haben wir dir 250 MB Bonus-Speicherplatz geschenkt. Du hast jetzt 2,5 GB =
+Speicherplatz bei Dropbox!
+
+Falls du noch mehr Speicherplatz brauchst:
+
+- lade mehr Freunde ein: http://www.dropbox.com/link/21.4zTteHP-4c=20
+- schau dir unsere Upgrade-M=C3=B6glichkeiten an: http://www.dropbox.com/=
+link/29.FI1KnEZOsg
+
+Vielen Dank!
+- Das Dropbox-Team
+--===============3221389453485917997==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"650" align=3D"center" style=3D"font-size: 14px;" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+        <tr id=3D"topshadow">
+            <td height=3D"10" width=3D"10" background=3D"https://www.drop=
+box.com/static/images/emails/shadow_tl.gif" bgcolor=3D"#ffffff"></td>
+            <td height=3D"10" background=3D"https://www.dropbox.com/stati=
+c/images/emails/shadow_top.gif" bgcolor=3D"#ffffff"> </td>
+            <td height=3D"10" width=3D"10" background=3D"https://www.drop=
+box.com/static/images/emails/shadow_tr.gif" bgcolor=3D"#ffffff"> </td>
+        </tr>
+       =20
+        <tr id=3D"header">
+            <td width=3D"10" background=3D"https://www.dropbox.com/static=
+/images/emails/shadow_left.gif" bgcolor=3D"#ffffff" rowspan=3D"2"></td>
+            <td height=3D"102" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/header_bg.gif" bgcolor=3D"#e6f1fb" align=3D"center">
+                <table width=3D"95%"><tr>
+                    <td align=3D"left">
+                        <img src=3D"https://www.dropbox.com/static/images=
+/emails/email_logo.gif"/>
+                    </td>
+                </tr></table>
+            </td>
+            <td width=3D"10" background=3D"https://www.dropbox.com/static=
+/images/emails/shadow_right.gif" bgcolor=3D"#ffffff" rowspan=3D"2"> </td>
+        </tr>
+       =20
+        <tr id=3D"content">
+            <td bgcolor=3D"#f4faff" align=3D"center">
+                <table width=3D"95%" cellpadding=3D"30">
+                    <tr>
+                        <td align=3D"left">
+                            <font face=3D"Lucida Grande, Segoe UI, Arial,=
+ Verdana, Lucida Sans Unicode, Tahoma, Sans Serif">
+    Hallo Ingo,<br/><br/>
+Klaus Skupin hat Dropbox aufgrund deiner Einladung installiert. Zum Dank =
+haben wir dir 250 MB Bonus-Speicherplatz geschenkt. Du hast jetzt 2,5 GB =
+Speicherplatz bei Dropbox!<br/><br/>
+Falls du noch mehr Speicherplatz brauchst:<br/>
+<ul><li><a href=3D"http://www.dropbox.com/link/21.kk_pqwGQ2c">lade mehr F=
+reunde ein</a></li>
+<li><a href=3D"http://www.dropbox.com/link/29.QXlbps63F9">schau dir unser=
+e Upgrade-M=C3=B6glichkeiten an</a></li></ul>
+Vielen Dank!<br/>
+- Das Dropbox-Team<br/>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+       =20
+        <tr id=3D"bottomshadow">
+            <td height=3D"10" width=3D"10" background=3D"https://www.drop=
+box.com/static/images/emails/shadow_bl.gif" bgcolor=3D"#ffffff"></td>
+            <td height=3D"10" background=3D"https://www.dropbox.com/stati=
+c/images/emails/shadow_bottom.gif" bgcolor=3D"#ffffff"> </td>
+            <td height=3D"10" width=3D"10" background=3D"https://www.drop=
+box.com/static/images/emails/shadow_br.gif" bgcolor=3D"#ffffff"> </td>
+        </tr>
+       =20
+    <tr id=3D"copyright">
+        <td></td>
+        <td align=3D"right">
+            <img src=3D"https://www.dropbox.com/static/images/emails/gray=
+_logo.gif" alt=3D"" align=3D"absmiddle"/>
+            <span style=3D"font-family: 'Lucida Grande', 'Segoe UI', Aria=
+l, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 11px;=
+ color: #888;">&copy;&nbsp;2011&nbsp;Dropbox</span>
+        </td>
+        <td></td>
+    </tr>
+
+    </table>
+--===============3221389453485917997==--

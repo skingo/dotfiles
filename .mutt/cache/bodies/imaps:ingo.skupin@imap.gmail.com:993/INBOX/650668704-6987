@@ -1,0 +1,55 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp25109pdb;
+        Sat, 18 Jan 2014 08:25:28 -0800 (PST)
+X-Received: by 10.14.221.193 with SMTP id r41mr395522eep.92.1390062328049;
+        Sat, 18 Jan 2014 08:25:28 -0800 (PST)
+Return-Path: <Musikverein.Notzingen@gmx.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTPS id d41si27881526eep.113.2014.01.18.08.25.27
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 18 Jan 2014 08:25:28 -0800 (PST)
+Received-SPF: pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.14 as permitted sender) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.14 as permitted sender) smtp.mail=Musikverein.Notzingen@gmx.de
+Received: from mout.gmx.net ([212.227.15.18]) by mx-ha.web.de (mxweb109) with
+ ESMTPS (Nemesis) id 0McBcB-1VnrAe1NjD-00JdQw for <ingo.skupin@gmail.com>;
+ Sat, 18 Jan 2014 17:25:27 +0100
+Received: from mout.gmx.net ([212.227.15.19]) by mx-ha.gmx.net (mxgmx010) with
+ ESMTPS (Nemesis) id 0Lxcct-1VFafu25Wt-017AM1; Sat, 18 Jan 2014 17:25:25 +0100
+Received: from 3capp-gmx-bs49.server.lan ([172.19.170.102]) by
+ mrigmx.server.lan (mrigmx001) with ESMTP (Nemesis) id
+ 0LgKlO-1Vai3d17VU-00nifz for <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>;
+ Sat, 18 Jan 2014 17:25:25 +0100
+Received: from [109.192.67.99] by 3capp-gmx-bs49.server.lan with HTTP; Sat
+ Jan 18 17:25:25 CET 2014
+MIME-Version: 1.0
+Message-ID: <trinity-1ac87332-e498-4d75-9cf2-546e3259dc01-1390062325095@3capp-gmx-bs49>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de,
+ BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de,
+ JBO%Musikverein.Notzingen@gmx.de
+Subject: Kuchenspende
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 18 Jan 2014 17:25:25 +0100 (CET)
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:QCqreCOdSk64Nyp2vD1jgtF5fKxA9p+U5ishVVYeMQN
+ F5b5dnqo8g35z6uk6b9VJPxXLgAkJK1cJ66su9GuSmSJR2Qqjw
+ vPzAYUXBuGexswXZlRr7cGGR7jZJfzApmBzpnJBqzScozkQPaS
+ 32poSts7s4cercaEH0rhtgD22JIVAxnlvIe8KQAHDTN8f2eIM2
+ oLTv6D7NHlxD0FSMnok8avnNhDOl6L/T19uhXSVhdA2iQ8eZcj
+ jepRQm5rvaPgJQuVwkBqfZrlsO5AaEaG15W5TQHsdnPoY+vUdS XZve9I=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo alle zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>wir brauchen noch weitere Kuchenspenden f&uuml;r das&nbsp;Winterkonzert n&auml;chste Woche. Denkt bitte deshalb daran den Kuchenzettel in der&nbsp;n&auml;chsten Probe abzugeben, oder schreibt uns eine E-mail.&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>Liebe Gr&uuml;&szlig;e&nbsp;</div>
+
+<div>Vera&nbsp;</div></div></body></html>

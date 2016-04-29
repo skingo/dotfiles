@@ -1,0 +1,81 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.199.77 with SMTP id er13cs92241vcb;
+        Tue, 18 Oct 2011 04:15:42 -0700 (PDT)
+Received: by 10.223.60.73 with SMTP id o9mr3456241fah.18.1318936541101;
+        Tue, 18 Oct 2011 04:15:41 -0700 (PDT)
+Return-Path: <S.Pfister@dkfz-heidelberg.de>
+Received: from mailhost4.inet.dkfz-heidelberg.de (mailhost4.inet.dkfz-heidelberg.de. [193.174.53.139])
+        by mx.google.com with ESMTPS id b19si594441fam.172.2011.10.18.04.15.40
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 18 Oct 2011 04:15:41 -0700 (PDT)
+Received-SPF: pass (google.com: domain of S.Pfister@dkfz-heidelberg.de designates 193.174.53.139 as permitted sender) client-ip=193.174.53.139;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of S.Pfister@dkfz-heidelberg.de designates 193.174.53.139 as permitted sender) smtp.mail=S.Pfister@dkfz-heidelberg.de
+Received: from dkfzmh02.ad.dkfz-heidelberg.de (dkfzmh02.inet.dkfz-heidelberg.de [193.174.53.81])
+	by mailhost2.inet.dkfz-heidelberg.de (8.13.8/8.13.8) with ESMTP id p9IBFbs2004006
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=FAIL);
+	Tue, 18 Oct 2011 13:15:37 +0200
+Received: from dkfzmh03.ad.dkfz-heidelberg.de (193.174.53.54) by dkfzmh02
+ (193.174.53.81) with Microsoft SMTP Server (TLS) id 8.1.436.0; Tue, 18 Oct
+ 2011 13:15:37 +0200
+Received: from DKFZEX01.ad.dkfz-heidelberg.de ([193.174.53.79]) by
+ dkfzmh03.ad.dkfz-heidelberg.de ([193.174.53.54]) with mapi; Tue, 18 Oct 2011
+ 13:15:37 +0200
+From: "Pfister, Stefan" <S.Pfister@Dkfz-Heidelberg.de>
+To: "Pfister, Martina" <MPfister@geuder.de>
+CC: Ingo Skupin gmail <ingo.skupin@googlemail.com>,
+        "Harry D. Bath"
+	<harryd.bath@t-online.de>,
+        Sabine Pfister <pfistersabine@googlemail.com>,
+        "rainerpfister@blackforestentertainment.org"
+	<rainerpfister@blackforestentertainment.org>
+Date: Tue, 18 Oct 2011 13:15:27 +0200
+Subject: =?utf-8?B?UmU6IEFXOiBuw6RjaHN0ZXMgV29jaGVuZW5kZQ==?=
+Thread-Topic: =?utf-8?B?QVc6IG7DpGNoc3RlcyBXb2NoZW5lbmRl?=
+Thread-Index: AcyNh0KasXMMFn+LQkG3puZlft/73Q==
+Message-ID: <F4C457BB-A480-46DE-81AC-AFAEB66F1884@dkfz-heidelberg.de>
+References: <1AA994205155AD4A861C5853D563F59A030DDE4B@exchange1.geuder.local>
+ <4E9D49D8.3060305@googlemail.de>
+ <1AA994205155AD4A861C5853D563F59A03E8537F@exchange1.geuder.local>
+In-Reply-To: <1AA994205155AD4A861C5853D563F59A03E8537F@exchange1.geuder.local>
+Accept-Language: de-DE
+Content-Language: de-DE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: de-DE
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+TGllYmVyIEluZ28sDQoNCmthbm5zdCBEdSBuaWNodCB3ZW5pZ3N0ZW5zIGFuIGVpbmVtIFRlaWwg
+ZGVyIFByb2JlIHRlaWxuZWhtZW4/IERhcyB3w6RyZSBzZWhyIGbDtnJkZXJsaWNoIGbDvHIgZGll
+IGdhbnplIEdydXBwZSENCg0KU3RlZmFuDQoNClBEIERyLiBTdGVmYW4gUGZpc3Rlcg0KTW9sZWN1
+bGFyIEdlbmV0aWNzIG9mIENoaWxkaG9vZCBCcmFpbiBUdW1vcnMNCkdlcm1hbiBDYW5jZXIgUmVz
+ZWFyY2ggQ2VudGVyDQpIZWlkZWxiZXJnIFVuaXZlcnNpdHkgSG9zcGl0YWwNCg0KQW0gMTguMTAu
+MjAxMSB1bSAxMjoyNiBzY2hyaWViICJQZmlzdGVyLCBNYXJ0aW5hIiA8TVBmaXN0ZXJAZ2V1ZGVy
+LmRlPjoNCg0KPiBIYWxsbyBJbmdvLA0KPiANCj4gU2NoYWRlLCBkaWUgUHJvYmUgaXN0IHdpY2h0
+aWcsIHdlaWwgd2lyIGphIHNvIHZpZWxlIG5ldWUgU3TDvGNrZSBzcGllbGVuIQ0KPiBXaXIgdHJl
+ZmZlbiB1bnMgYW0gU29ubnRhZyB1bSAxNjowMCBVaHIsIEFuc3BpZWxwcm9iZSB1bSAxNjozMCBV
+aHIuDQo+IEtvbnplcnQgYmVnaW5udCB1bSAxODozMCBVaC4NCj4gDQo+IExHDQo+IE1hcnRpbmEN
+Cj4gDQo+IA0KPiANCj4gTWl0IGZyZXVuZGxpY2hlbiBHcsO8w59lbg0KPiANCj4gR0VVREVSIEFH
+DQo+IA0KPiBwcGEuIE1hcnRpbmEgUGZpc3Rlcg0KPiBKdXJpc3Rpbg0KPiBCZXJlaWNoc2xlaXRl
+cmluDQo+IFN0cmF0ZWdpZSAmIFVudGVybmVobWVuc2VudHdpY2tsdW5nDQo+IA0KPiANCj4gVGVs
+ZWZvbi1Oci46IDA2MjIxLTMwNi04ODkNCj4gVGVsZWZheC1Oci46IDA2MjIxLTMwNi04NjANCj4g
+RS1NYWlsLUFkcmVzc2U6IE1QZmlzdGVyQEdldWRlci5kZQ0KPiBJbnRlcm5ldDogd3d3LmdldWRl
+ci5kZQ0KPiANCj4gX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fX19fX19fX19fX18NCj4gDQo+IFNpdHogZGVyIEdlc2VsbHNjaGFmdCAvIENvbXBhbnkgSGVh
+ZHF1YXJ0ZXJzDQo+IEdldWRlciBBa3RpZW5nZXNlbGxzY2hhZnQNCj4gSGVydHpzdHJhw59lIDQN
+Cj4gNjkxMjYgSEVJREVMQkVSRw0KPiBHRVJNQU5ZDQo+IFRlbC9QaG9uZSArNDkgNjIyMSAzMDY2
+DQo+IEZheCArNDkgNjIyMSAzMDMxMjINCj4gaW5mb0BnZXVkZXIuZGUgPG1haWx0bzppbmZvQGdl
+dWRlci5kZT4gDQo+IHd3dy5nZXVkZXIuZGUgPGh0dHA6Ly93d3cuZ2V1ZGVyLmRlPiANCj4gDQo+
+IFJlZ2lzdGVyZWludHJhZ3VuZyAvIENvbW1lcmNpYWwgUmVnaXN0cnkNCj4gQW10c2dlcmljaHQg
+TWFubmhlaW0sIEhSQiAzMzY1MzENCj4gRGlzdHJpY3QgQ291cnQgTWFubmhlaW0sIENvbW1lcmNp
+YWwgUmVnaXN0cnkgTm8gMzM2NTMxDQo+IA0KPiBWb3JzdGFuZCAvIE1hbmFnZW1lbnQgQm9hcmQN
+Cj4gVm9sa2VyIEdldWRlcg0KPiANCj4gVm9yc2l0emVuZGVyIGRlcyBBdWZzaWNodHNyYXRlcyAv
+IENoYWlybWFuIG9mIHRoZSBTdXBlcnZpc29yeSBCb2FyZA0KPiBIYW5zIEdldWRlcg0KPiANCj4g
+DQo+IC0tLS0tVXJzcHLDvG5nbGljaGUgTmFjaHJpY2h0LS0tLS0NCj4gVm9uOiBJbmdvIFNrdXBp
+biBnbWFpbCBbbWFpbHRvOmluZ28uc2t1cGluQGdvb2dsZW1haWwuY29tXSANCj4gR2VzZW5kZXQ6
+IERpZW5zdGFnLCAxOC4gT2t0b2JlciAyMDExIDExOjQyDQo+IEFuOiBQZmlzdGVyLCBNYXJ0aW5h
+DQo+IEJldHJlZmY6IG7DpGNoc3RlcyBXb2NoZW5lbmRlDQo+IA0KPiBIYWxsbywNCj4gDQo+IGlj
+aCBrYW5uIG7DpGNoc3RlbiBTYW1zdGFnIG5pY2h0IHp1ciBQcm9iZSBrb21tZW4gdW5kIHdvbGx0
+ZSBkZXNoYWxiIGZyYWdlbiwgd2llIGRlbm4gZGVyIFplaXRwbGFuIGbDvHIgZGVuIFNvbm50YWcg
+YXVzc2llaHQuDQo+IA0KPiBMaWViZSBHcsO8w59lLA0KPiBJbmdvDQo+IA0K

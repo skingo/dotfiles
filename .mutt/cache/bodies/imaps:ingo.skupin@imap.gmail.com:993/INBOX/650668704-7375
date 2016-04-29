@@ -1,0 +1,246 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp37841pdb;
+        Sat, 12 Apr 2014 12:51:39 -0700 (PDT)
+X-Received: by 10.15.27.195 with SMTP id p43mr39521734eeu.2.1397332298396;
+        Sat, 12 Apr 2014 12:51:38 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id p8si15152936eew.336.2014.04.12.12.51.37
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256/256);
+        Sat, 12 Apr 2014 12:51:38 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@gmail.com
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb008)
+ with ESMTPS (Nemesis) id 0Lzc1q-1X4MVG2Wxu-014h2d for
+ <ingo.skupin@gmail.com>; Sat, 12 Apr 2014 21:51:37 +0200
+Received: from mail-oa0-f41.google.com ([209.85.219.41]) by mx-ha.web.de
+ (mxweb008) with ESMTPS (Nemesis) id 0MgtG4-1WLunY2Wn2-00M2cH for
+ <ingo.skupin@web.de>; Sat, 12 Apr 2014 21:51:36 +0200
+Received: by mail-oa0-f41.google.com with SMTP id j17so7661213oag.14
+        for <multiple recipients>; Sat, 12 Apr 2014 12:51:35 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date:message-id:subject
+         :from:to:cc:content-type;
+        bh=xFX9Z3jRxfNbFZUEbRprLrHsD4r0QPaT62fJ6+8d2SI=;
+        b=ZUrfNrRJFmVmBkT0u5PoYtIciu76RHQgtw7JUSJQ7KhOEVq7CWSa4FMy9h6Eg+CtHv
+         BfAO47TAFwlT+CBZFkmlTkNUtJ+xt913/9Q6DA6Di4CtVLGIvU9y1JImPtvIQwfETuY5
+         LWTlcHslCPQNFk1AyNk2KsJ2GYyraYjuqmgTcU965IzuyEiwFcNHRIgv0LYITSoR4+bf
+         cNSNb48A0MxRip4fXOEIGjBe8dISDAHq9ENsqgHLF/v+5BP2NxCgqGFVWa02mfotuBYb
+         M/VgXqMAC+cuPyGjBw8iBjVp+CbPUQ38jlwZxcUI3VCQx26c8MovQLh9vXOwu6AX6Yn/
+         /6CQ==
+MIME-Version: 1.0
+X-Received: by 10.182.40.201 with SMTP id z9mr25583238obk.45.1397332295186;
+ Sat, 12 Apr 2014 12:51:35 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.76.69.134 with HTTP; Sat, 12 Apr 2014 12:51:35 -0700 (PDT)
+In-Reply-To: <4F91222C659D5B4E8C89CE4D710BB08EFFD98A1402@DKFZEX01.ad.dkfz-heidelberg.de>
+References: <359C8784E284224CAB196A0069F3EE79FFB29B0249@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A0F1C@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A1090@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A1298@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A1402@DKFZEX01.ad.dkfz-heidelberg.de>
+Date: Sat, 12 Apr 2014 21:51:35 +0200
+X-Google-Sender-Auth: JXxwjNWpS4Gfj8KWsb_YT1PFQ5s
+Message-ID: <CAN1A5uCw_e23_oPqm_Ok92TbqbQqLA4N2MAeQMMd+OsW=LtxFQ@mail.gmail.com>
+Subject: Re: USA-Reise Update V
+From: Florian Sebert <florian@floriansebert.de>
+To: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+Cc: Sabine Pfister <pfistersabine@googlemail.com>, Steffen Sautter <steffen.sautter@web.de>, 
+	Yannick Frey <yannick.frey1994@web.de>, Tizian Decker <tizian_decker@web.de>, 
+	Lena Hahn <LenaHahn20@web.de>, "raphael@rothschink.de" <raphael@rothschink.de>, 
+	Ingo Skupin <ingo.skupin@web.de>, Lukas Fischer <l.fischer@3-1415.de>, 
+	Julia Wollny <wollny.julia@me.com>, Rainer Pfister <rainer.pfister@me.com>, 
+	"Dr. Stefan Wiehr" <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>, 
+	Pfister <kinderaerztin_susanne@t-online.de>, 
+	"tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>, 
+	"decker.mitat@onlinehome.de" <decker.mitat@onlinehome.de>, 
+	"harryd.bath@t-online.de" <harryd.bath@t-online.de>, "mpfister@geuder.de" <mpfister@geuder.de>, 
+	"martina@pfister-heidelberg.de" <martina@pfister-heidelberg.de>
+Content-Type: multipart/alternative; boundary=001a11c33b021680ba04f6ddc7c7
+
+--001a11c33b021680ba04f6ddc7c7
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+die folgenden Telefonnummern haben mich erreicht:
+
+  Daniel Metzger 347-218-3958 <347-267-2655>  Florian Sebert
+404-307-0494  Tizian
+Decker 404-234-7492  Elisabeth Decker 404-242-0958  Karlheinz Decker
+404-234-8435  Yannick Frey 404-202-0709  Stefan Wiehr
+516-353-5854<5163535854>  Rainer
+Pfister 516-713-8954 <5167138954>
+Viele Gr=FC=DFe
+Florian
+
+
+2014-04-11 7:44 GMT+02:00 Pfister, Stefan <S.Pfister@dkfz-heidelberg.de>:
+
+> Hallo zusammen,
+>
+> hier nun die letzte Version des Ablaufplans vor der Reise. Ich bringe
+> diese morgen ALLEN ausgedruckt mit.
+>
+> Viele Gr=FC=DFe,
+>
+> Stefan
+>
+> ________________________________________
+> Von: Pfister, Stefan
+> Gesendet: Freitag, 4. April 2014 23:18
+> An: Pfister, Stefan; Sabine Pfister; Steffen Sautter; Yannick Frey; Tizia=
+n
+> Decker; Lena Hahn; Florian Sebert; raphael@rothschink.de; Ingo Skupin;
+> Lukas Fischer; Julia Wollny; Rainer Pfister; Dr. Stefan Wiehr; Daniel
+> Metzger; Pfister; tkonwitschny@yahoo.de; decker.mitat@onlinehome.de;
+> harryd.bath@t-online.de; mpfister@geuder.de; martina@pfister-heidelberg.d=
+e
+> Betreff: USA-Reise Update V
+>
+> Hallo zusammen,
+>
+> nachdem ich leider morgen nicht in der Probe sein kann, aber stattdessen
+> in die USA fliegen muss, wollte ich Euch vorher noch das aktualisierte un=
+d
+> nun fast vollst=E4ndige Programm zukommen lassen.
+>
+> Ein wichtiger Punkt, auf den mich Daniel noch hingewiesen hat, ist, dass
+> bitte jeder einen eigenen Notenst=E4nder mitnehmen soll, bei manchen
+> Auftritten kann es gut sein, dass wir dn brauchen.
+>
+> Bitte meldet Euch, falls Ihr noch Fragen habt, oder mit dem Englisch nich=
+t
+> zurecht kommt!? Wir haben nur deshalb alles auf Englisch gemacht, weil wi=
+r
+> dann f=FCr die Gastgeber nicht noch ein zus=E4tzliches Programm brauchen.
+>
+> Viele Gr=FC=DFe und bis n=E4chstes Wochenende!
+>
+> Stefan
+>
+
+
+
+--=20
+Dr. Florian Sebert
+d-fine GmbH
+Munich Office
+Bavariafilmplatz 8, 82031 Gr=FCnwald
+Mobil +49 (0)162 2631334
+Tel    +49 (0)89 7908617 391
+Fax   +49 (0)89 7908617 202
+www.d-fine.de
+
+--001a11c33b021680ba04f6ddc7c7
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hallo zusammen,<div><br></div><div>die folgenden Telefonnu=
+mmern haben mich erreicht:</div><div><br></div><div><table border=3D"0" cel=
+lpadding=3D"0" cellspacing=3D"0" width=3D"224" style=3D"border-collapse:col=
+lapse;width:168pt">
+
+ <colgroup><col width=3D"137" style=3D"width:103pt">
+ <col width=3D"87" style=3D"width:65pt">
+ </colgroup><tbody><tr height=3D"20" style=3D"height:15pt">
+  <td height=3D"20" width=3D"137" style=3D"height:15pt;width:103pt">Daniel =
+Metzger</td>
+  <td width=3D"87" style=3D"width:65pt"><a href=3D"tel:347-267-2655"><span =
+style=3D"color:black;text-decoration:none">347-218-3958</span></a></td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt">
+  <td height=3D"20" style=3D"height:15pt">Florian Sebert</td>
+  <td>404-307-0494</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt">
+  <td height=3D"20" class=3D"" style=3D"height:15pt">Tizian Decker</td>
+  <td>404-234-7492</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt">
+  <td height=3D"20" class=3D"" style=3D"height:15pt">Elisabeth Decker</td>
+  <td>404-242-0958</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt">
+  <td height=3D"20" class=3D"" style=3D"height:15pt">Karlheinz Decker</td>
+  <td>404-234-8435</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt">
+  <td height=3D"20" class=3D"" style=3D"height:15pt">Yannick Frey</td>
+  <td>404-202-0709</td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt">
+  <td height=3D"20" class=3D"" style=3D"height:15pt">Stefan Wiehr</td>
+  <td><a href=3D"tel:5163535854" target=3D"_blank" value=3D"+15163535854" s=
+tyle=3D"white-space:pre-wrap"><span style=3D"color:black;text-decoration:no=
+ne">516-353-5854</span></a></td>
+ </tr>
+ <tr height=3D"20" style=3D"height:15pt">
+  <td height=3D"20" class=3D"" style=3D"height:15pt">Rainer Pfister</td>
+  <td><a href=3D"tel:5167138954" target=3D"_blank" value=3D"+15167138954"><=
+span style=3D"color:black;text-decoration:none">516-713-8954</span></a></td=
+>
+ </tr></tbody></table><br></div><div>Viele Gr=FC=DFe</div><div>Florian</div=
+></div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">2014-0=
+4-11 7:44 GMT+02:00 Pfister, Stefan <span dir=3D"ltr">&lt;<a href=3D"mailto=
+:S.Pfister@dkfz-heidelberg.de" target=3D"_blank">S.Pfister@dkfz-heidelberg.=
+de</a>&gt;</span>:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Hallo zusammen,<br>
+<br>
+hier nun die letzte Version des Ablaufplans vor der Reise. Ich bringe diese=
+ morgen ALLEN ausgedruckt mit.<br>
+<br>
+Viele Gr=FC=DFe,<br>
+<br>
+Stefan<br>
+<br>
+________________________________________<br>
+Von: Pfister, Stefan<br>
+Gesendet: Freitag, 4. April 2014 23:18<br>
+An: Pfister, Stefan; Sabine Pfister; Steffen Sautter; Yannick Frey; Tizian =
+Decker; Lena Hahn; Florian Sebert; <a href=3D"mailto:raphael@rothschink.de"=
+>raphael@rothschink.de</a>; Ingo Skupin; Lukas Fischer; Julia Wollny; Raine=
+r Pfister; Dr. Stefan Wiehr; Daniel Metzger; Pfister; <a href=3D"mailto:tko=
+nwitschny@yahoo.de">tkonwitschny@yahoo.de</a>; <a href=3D"mailto:decker.mit=
+at@onlinehome.de">decker.mitat@onlinehome.de</a>; <a href=3D"mailto:harryd.=
+bath@t-online.de">harryd.bath@t-online.de</a>; <a href=3D"mailto:mpfister@g=
+euder.de">mpfister@geuder.de</a>; <a href=3D"mailto:martina@pfister-heidelb=
+erg.de">martina@pfister-heidelberg.de</a><br>
+
+Betreff: USA-Reise Update V<br>
+<div class=3D"HOEnZb"><div class=3D"h5"><br>
+Hallo zusammen,<br>
+<br>
+nachdem ich leider morgen nicht in der Probe sein kann, aber stattdessen in=
+ die USA fliegen muss, wollte ich Euch vorher noch das aktualisierte und nu=
+n fast vollst=E4ndige Programm zukommen lassen.<br>
+<br>
+Ein wichtiger Punkt, auf den mich Daniel noch hingewiesen hat, ist, dass bi=
+tte jeder einen eigenen Notenst=E4nder mitnehmen soll, bei manchen Auftritt=
+en kann es gut sein, dass wir dn brauchen.<br>
+<br>
+Bitte meldet Euch, falls Ihr noch Fragen habt, oder mit dem Englisch nicht =
+zurecht kommt!? Wir haben nur deshalb alles auf Englisch gemacht, weil wir =
+dann f=FCr die Gastgeber nicht noch ein zus=E4tzliches Programm brauchen.<b=
+r>
+
+<br>
+Viele Gr=FC=DFe und bis n=E4chstes Wochenende!<br>
+<br>
+Stefan<br>
+</div></div></blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>=
+Dr. Florian Sebert<br>d-fine GmbH<br>Munich Office<br>Bavariafilmplatz 8, 8=
+2031 Gr=FCnwald<br>Mobil +49 (0)162 2631334<br>Tel =A0 =A0+49 (0)89 7908617=
+ 391<br>
+Fax =A0 +49 (0)89 7908617 202<br><a href=3D"http://www.d-fine.de" target=3D=
+"_blank">www.d-fine.de</a>
+</div>
+
+--001a11c33b021680ba04f6ddc7c7--

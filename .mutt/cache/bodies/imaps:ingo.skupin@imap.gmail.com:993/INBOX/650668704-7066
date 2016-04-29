@@ -1,0 +1,126 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp138968pdb;
+        Wed, 29 Jan 2014 16:01:49 -0800 (PST)
+X-Received: by 10.15.75.67 with SMTP id k43mr6335167eey.59.1391040108305;
+        Wed, 29 Jan 2014 16:01:48 -0800 (PST)
+Return-Path: <L.Fischer@3-1415.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id y48si7225779eew.142.2014.01.29.16.01.47
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 29 Jan 2014 16:01:48 -0800 (PST)
+Received-SPF: neutral (google.com: 212.227.15.4 is neither permitted nor denied by best guess record for domain of L.Fischer@3-1415.de) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 212.227.15.4 is neither permitted nor denied by best guess record for domain of L.Fischer@3-1415.de) smtp.mail=L.Fischer@3-1415.de;
+       dkim=pass (test mode) header.i=@3-1415.de
+Received: from mo4-p00-ob.smtp.rzone.de ([81.169.146.216]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0MhB9h-1VvEvi1X7Z-00MK8V for
+ <ingo.skupin@gmail.com>; Thu, 30 Jan 2014 01:01:47 +0100
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; t=1391040106; l=1839;
+	s=domk; d=3-1415.de;
+	h=Content-Transfer-Encoding:Content-Type:In-Reply-To:References:
+	Subject:CC:To:MIME-Version:From:Date:X-RZG-CLASS-ID:X-RZG-AUTH;
+	bh=XnBw4bR2DTCdN9aPoxelFROmgjM=;
+	b=dUSQutkhgw1ZAcl7oLt04oev2mhry0UyVyUdFtR6sLSrrzBJc43cRrk/CEegekOtC4p
+	eVoSS9aLaeGa9als3Hz5g4aCL1aNWMB3QJN7WuxEo61B0J+z+iHzOnETVoUXSvgbAtH7H
+	33lEuim2jQ6RlT7NoEV+eR2voQxDo4POpCA=
+X-RZG-AUTH: :ICICfFOrc/oov7XdMPZS+An+TOwdMN9zM5SvLZSWyGxMPJ8ZOvwMlL9y9P7zmkDPUw==
+X-RZG-CLASS-ID: mo00
+Received: from [192.168.178.45] (p4FF569EB.dip0.t-ipconnect.de [79.245.105.235])
+	by smtp.strato.de (RZmta 32.22 DYNA|AUTH)
+	with ESMTPSA id h0671dq0U01fYpT
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate);
+	Thu, 30 Jan 2014 01:01:41 +0100 (CET)
+Message-ID: <52E99664.9060901@3-1415.de>
+Date: Thu, 30 Jan 2014 01:01:40 +0100
+From: Lukas Fischer <L.Fischer@3-1415.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: Martina <martina@pfister-heidelberg.de>, 
+ Sabine Pfister <pfistersabine@googlemail.com>,
+ Steffen Sautter <steffen.sautter@web.de>, 
+ Florian Sebert <florian@floriansebert.de>,
+ Yannick Frey <yannick.frey1994@web.de>, 
+ Tizian Decker <tizian_decker@web.de>,
+ Lena Hahn <LenaHahn20@web.de>, raphael@rothschink.de, 
+ Julia Wollny <wollny.julia@me.com>,
+ Ingo Skupin <ingo.skupin@web.de>, tkonwitschny@yahoo.de, 
+ Rainer Pfister <rainer.pfister@me.com>,
+ "Dr. Stefan Wiehr" <stefan@wiehr.de>, s.pfister@dkfz.de, 
+ "'Harry D. Bath'" <harryd.bath@t-online.de>
+CC: ruth-1935@web.de, kinderaerztin_susanne@t-online.de, 
+ Gerhard Nagel <grnagel@web.de>
+Subject: Re: aktualisierter Terminplan
+References: <01af01cf1d47$88cdb5a0$9a6920e0$@pfister-heidelberg.de>
+In-Reply-To: <01af01cf1d47$88cdb5a0$9a6920e0$@pfister-heidelberg.de>
+X-Enigmail-Version: 1.6
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hallo zusammen,
+
+ich habe den Terminplan zur Diskussion unter dem Punkt "Termine
+Verwaltung" gestellt:
+	http://saxophon-ensemble.de/index.php/intern/feierliste.html
+Über den Knopf "Add comment" (oben rechts) kann bei Diskussionsbedarf
+einfach auf Probleme verwiesen werden.
+
+Für den Login könnt ihr folgenden Zugang verwenden:
+Nutzer: 	ensemble
+Passphrase: 	Tü2Murica!
+
+Bei Problemen könnt ihr mich jederzeit erreichen!
+
+Grüße
+Lukas
+
+
+Am 30.01.2014 00:12, schrieb Martina:
+> Hallo zusammen,
+> 
+> anbei noch mal ein aktualisierter Zeitplan (entsprechend unseres 
+> Abstimmtermins bei der letzten Probe)
+> 
+> Bitte noch mal gegenchecken und Feedback an mich bis FREITAG
+> (31.01.2014 ;-)). Kurzes Ja o.k. und Nein, Änderungswunsch xyz
+> genügt
+> 
+> 
+> 
+> @Hardy: Der Wettbewerb wurde abgesagt, wir würden jetzt gerne am
+> 10.05. auf einen anderen gehen, könntest Du da auch? Ansonsten kann
+> Rainer am 14./15.06. nicht und am 18./19.10, wäre da jeweils was
+> bei Dir zu machen?
+> 
+> 
+> 
+> @Harry: gibt es schon was Neues bzgl. Nürtingenkonzert, hatten wir
+> für den 15.06. angedacht
+> 
+> 
+> 
+> Bzgl. Benefizkonzert Weilheim habe ich bisher noch nichts erreicht
+> 
+> 
+> 
+> Gruß
+> 
+> Tine
+> 
+> 
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://www.enigmail.net/
+
+iQEcBAEBAgAGBQJS6ZZkAAoJEFOYM1E91uODcK4H/Rnm+BrrhhO87Y35HZBFweKs
+QPuM81Pc1Jrv6CXnp/NdISiZxxjunD8X5ffhCmUMUaL8QCstuCoMrLmYOz2iGw9V
+brgOcTymgfXP3IlI0ALkNjl7cTdVqEnimXgiAoqgqHRvbhAnpUsJXn/boG8bWZD0
+HGu8a5jdmFxbXq1dbxOr/lvuxdXPqiVJQKnmXJE3JJIhG1ebAP8fJVj9nvE7PDFP
+74BWwi7/gqtCLO646QVetum/kT1KgA/MRgQTbXH9v9mj58acjHgtf7ilBFQKfx1S
+uzUU40P5AzDDXoGr8CjSsYpOW8Nl0R/n9L7eqtMYkn4pJnS/7nTXMeRYJNUj2C0=
+=Ark+
+-----END PGP SIGNATURE-----

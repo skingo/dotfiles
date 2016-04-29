@@ -1,0 +1,206 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp359175pdb;
+        Thu, 3 Apr 2014 08:09:04 -0700 (PDT)
+X-Received: by 10.204.3.67 with SMTP id 3mr192310bkm.157.1396537743424;
+        Thu, 03 Apr 2014 08:09:03 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id l41si8443656eef.128.2014.04.03.08.09.02
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256/256);
+        Thu, 03 Apr 2014 08:09:03 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@gmail.com
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb108)
+ with ESMTPS (Nemesis) id 0LzdPS-1X9tb50VYw-014iPw for
+ <ingo.skupin@gmail.com>; Thu, 03 Apr 2014 17:09:02 +0200
+Received: from mail-ob0-f178.google.com ([209.85.214.178]) by mx-ha.web.de
+ (mxweb108) with ESMTPS (Nemesis) id 0LdpJ1-1WwVRO0VPP-00j2nx for
+ <ingo.skupin@web.de>; Thu, 03 Apr 2014 17:09:01 +0200
+Received: by mail-ob0-f178.google.com with SMTP id wp18so2091335obc.9
+        for <multiple recipients>; Thu, 03 Apr 2014 08:08:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date:message-id:subject
+         :from:to:cc:content-type;
+        bh=oaYb/zky6jdbziBdGW54cXzVHe6ZlXkH6fi4KA5ARjc=;
+        b=EdDqIpKQc2ucsIysnmUruiyJ6SRQTO270aoz0FpOh+mIGgLEWL0jTdv1rHHcrJtKle
+         1tVRQoTJJyXeBmFh9IGWCkWMHWMDtGYbfBvFCXi3syaT2PEebN/YZ0zWdaE+e7M/FDa8
+         1ELroJ8M6M1YUvFmNQw2QlaxEK31Q8rFtOFziZ9FJ13uJaBAMLESauX/Etma4hmfP24S
+         Sr2Omv8MY0BIrDgB8/k7g3dFfIWhgFAaISRBAEKdbgdU1FoACit5bTBXMx5GW2lmPwzq
+         MG4Z5tD+WGSudZfGxP6RJ0y7JfUj9nK2FzQT8QgOQOS/lJ2LVbjSDDSJLON68CayqtW5
+         ZlUg==
+MIME-Version: 1.0
+X-Received: by 10.60.58.7 with SMTP id m7mr3729840oeq.59.1396537739661; Thu,
+ 03 Apr 2014 08:08:59 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.76.69.134 with HTTP; Thu, 3 Apr 2014 08:08:59 -0700 (PDT)
+In-Reply-To: <533D0317.4000206@onlinehome.de>
+References: <359C8784E284224CAB196A0069F3EE79FFB29B0249@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A0F1C@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A1090@DKFZEX01.ad.dkfz-heidelberg.de>
+	<93914461-8504-406C-B716-45B817896E07@me.com>
+	<533D0317.4000206@onlinehome.de>
+Date: Thu, 3 Apr 2014 17:08:59 +0200
+X-Google-Sender-Auth: qIWq-7QRudtwDFui29BQZeLI77Y
+Message-ID: <CAN1A5uAyt+Rq9Ky4ahx0oD21Wrk=qXMZ1iGLgkFWETsno7zbDw@mail.gmail.com>
+Subject: Re: Telefonieren in den USA ...
+From: Florian Sebert <florian@floriansebert.de>
+To: =?ISO-8859-1?Q?Privat=2D_und_Gesch=E4ftskonto?= <decker.mitat@onlinehome.de>
+Cc: Rainer Pfister <rainer.pfister@me.com>, Stefan Pfister <S.Pfister@dkfz-heidelberg.de>, 
+	"Dr. Sabine Pfister" <pfistersabine@googlemail.com>, Steffen Sautter <steffen.sautter@web.de>, 
+	Yannick Frey <yannick.frey1994@web.de>, Tizian Decker <tizian_decker@web.de>, 
+	Lena Hahn <LenaHahn20@web.de>, "raphael@rothschink.de" <raphael@rothschink.de>, 
+	Ingo Skupin <ingo.skupin@web.de>, Lukas Fischer <l.fischer@3-1415.de>, 
+	Julia Wollny <wollny.julia@me.com>, Stefan Wiehr <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>, 
+	"Dr. Susanne Pfister" <kinderaerztin_susanne@t-online.de>, 
+	"tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>, "Harry D. Bath" <harryd.bath@t-online.de>, 
+	Martina Pfister <mpfister@geuder.de>, Martina Pfister <martina@pfister-heidelberg.de>
+Content-Type: multipart/alternative; boundary=089e01538c56e3576804f624c76c
+
+--089e01538c56e3576804f624c76c
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+ich schlage vor, dass alle, die sich f=FCr eine lokale SIM-Karte f=FCr die
+Dauer des Aufenthalts in den USA entscheiden, mir ihre Nummer mitteilen.
+
+Kurz vor Beginn der Reise w=FCrde ich dann allen eine Liste der Teilnehmer
+zusammen mit deren jeweiliger US-Telefonnummer zur Verf=FCgung stellen.
+
+Viele Gr=FC=DFe
+Florian
+
+
+2014-04-03 8:43 GMT+02:00 Privat- und Gesch=E4ftskonto <
+decker.mitat@onlinehome.de>:
+
+> Gute Idee! Wir haben das =C4quivalent bei Cellion bestellt
+> http://www.cellion.de; da bekommt man auch eine amerikanische SIM-Karte,
+> mit der man nur die tats=E4chlich gef=FChrten Telefonate bezahlt, zu eine=
+m
+> ziemlich g=FCnstigen Tarif. Auf Wunsch kann man eine Datenoption dazu buc=
+hen.
+>
+> Wir freuen uns auch sehr auf die Reise!
+>
+> Liebe Gr=FC=DFe, bis bald
+>
+> Elisabeth Hermann-Decker
+>
+> Am 02.04.2014 22:52, schrieb Rainer Pfister:
+>
+>  Hallo an alle,
+>>
+>> ich habe da noch einen Hinweis an alle, die ihr deutsches "mobile phone"
+>> in Amerika nutzen wollen.
+>>
+>> Generell geht das - je nach Handy - problemlos. Die Kosten zum Abrufen
+>> von E-Mails, zum Surfen und zum Telefonieren sind jedoch exorbitant. Ega=
+l
+>> bei welchem Anbieter. Daher ein Tipp von mir: besorgt euch f=FCr euer Ha=
+ndy
+>> eine amerikanische SIM-Karte. Ich habe meine unter
+>> http://www.simlystore.com bestellt und kurze Zeit sp=E4ter erhalten. Die
+>> Kartengr=F6=DFe und die einzelnen Optionen k=F6nnt ihr euch selbst
+>> zusammenstellen. Au=DFerdem bekommt ihr dann eine Rufnummer aus den Staa=
+ten.
+>> Ich denke, dass wir uns auf unserer Tour durch die USA auch mal
+>> kurzschlie=DFen und abstimmen k=F6nnen sollten, auch wenn wir nicht im P=
+ulk
+>> unterwegs sind.
+>>
+>> Pr=FCft das einfach mal f=FCr euch - ich finde diese L=F6sung echt klass=
+e. Ich
+>> freue mich auf unsere Reise :-))
+>>
+>> Viele Gr=FC=DFe und alles Gute
+>>
+>> Rainer
+>>
+>
+>
+
+
+--=20
+Dr. Florian Sebert
+d-fine GmbH
+Munich Office
+Bavariafilmplatz 8, 82031 Gr=FCnwald
+Mobil +49 (0)162 2631334
+Tel    +49 (0)89 7908617 391
+Fax   +49 (0)89 7908617 202
+www.d-fine.de
+
+--089e01538c56e3576804f624c76c
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hallo zusammen,<div><br></div><div>ich schlage vor, dass a=
+lle, die sich f=FCr eine lokale SIM-Karte f=FCr die Dauer des Aufenthalts i=
+n den USA entscheiden, mir ihre Nummer mitteilen.</div><div><br></div><div>=
+Kurz vor Beginn der Reise w=FCrde ich dann allen eine Liste der Teilnehmer =
+zusammen mit deren jeweiliger US-Telefonnummer zur Verf=FCgung stellen.</di=
+v>
+<div><br></div><div>Viele Gr=FC=DFe</div><div>Florian</div></div><div class=
+=3D"gmail_extra"><br><br><div class=3D"gmail_quote">2014-04-03 8:43 GMT+02:=
+00 Privat- und Gesch=E4ftskonto <span dir=3D"ltr">&lt;<a href=3D"mailto:dec=
+ker.mitat@onlinehome.de" target=3D"_blank">decker.mitat@onlinehome.de</a>&g=
+t;</span>:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Gute Idee! Wir haben das =C4quivalent bei Ce=
+llion bestellt <a href=3D"http://www.cellion.de" target=3D"_blank">http://w=
+ww.cellion.de</a>; da bekommt man auch eine amerikanische SIM-Karte, mit de=
+r man nur die tats=E4chlich gef=FChrten Telefonate bezahlt, zu einem ziemli=
+ch g=FCnstigen Tarif. Auf Wunsch kann man eine Datenoption dazu buchen.<br>
+
+<br>
+Wir freuen uns auch sehr auf die Reise!<br>
+<br>
+Liebe Gr=FC=DFe, bis bald<br>
+<br>
+Elisabeth Hermann-Decker<br>
+<br>
+Am 02.04.2014 22:52, schrieb Rainer Pfister:<div class=3D"HOEnZb"><div clas=
+s=3D"h5"><br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">
+Hallo an alle,<br>
+<br>
+ich habe da noch einen Hinweis an alle, die ihr deutsches &quot;mobile phon=
+e&ldquo; in Amerika nutzen wollen.<br>
+<br>
+Generell geht das - je nach Handy - problemlos. Die Kosten zum Abrufen von =
+E-Mails, zum Surfen und zum Telefonieren sind jedoch exorbitant. Egal bei w=
+elchem Anbieter. Daher ein Tipp von mir: besorgt euch f=FCr euer Handy eine=
+ amerikanische SIM-Karte. Ich habe meine unter <a href=3D"http://www.simlys=
+tore.com" target=3D"_blank">http://www.simlystore.com</a> bestellt und kurz=
+e Zeit sp=E4ter erhalten. Die Kartengr=F6=DFe und die einzelnen Optionen k=
+=F6nnt ihr euch selbst zusammenstellen. Au=DFerdem bekommt ihr dann eine Ru=
+fnummer aus den Staaten. Ich denke, dass wir uns auf unserer Tour durch die=
+ USA auch mal kurzschlie=DFen und abstimmen k=F6nnen sollten, auch wenn wir=
+ nicht im Pulk unterwegs sind.<br>
+
+<br>
+Pr=FCft das einfach mal f=FCr euch - ich finde diese L=F6sung echt klasse. =
+Ich freue mich auf unsere Reise :-))<br>
+<br>
+Viele Gr=FC=DFe und alles Gute<br>
+<br>
+Rainer<br>
+</blockquote>
+<br>
+</div></div></blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>=
+Dr. Florian Sebert<br>d-fine GmbH<br>Munich Office<br>Bavariafilmplatz 8, 8=
+2031 Gr=FCnwald<br>Mobil +49 (0)162 2631334<br>Tel &nbsp; &nbsp;+49 (0)89 7=
+908617 391<br>
+Fax &nbsp; +49 (0)89 7908617 202<br><a href=3D"http://www.d-fine.de" target=
+=3D"_blank">www.d-fine.de</a>
+</div>
+
+--089e01538c56e3576804f624c76c--

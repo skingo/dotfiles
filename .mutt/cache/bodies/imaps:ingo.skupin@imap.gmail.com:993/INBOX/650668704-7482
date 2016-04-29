@@ -1,0 +1,90 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.124.193 with SMTP id mk1csp38232pdb;
+        Wed, 30 Apr 2014 09:33:12 -0700 (PDT)
+X-Received: by 10.194.9.8 with SMTP id v8mr3592611wja.53.1398875590966;
+        Wed, 30 Apr 2014 09:33:10 -0700 (PDT)
+Return-Path: <silkeczarn@yahoo.de>
+Received: from nm3-vm4.bullet.mail.ir2.yahoo.com (nm3-vm4.bullet.mail.ir2.yahoo.com. [212.82.96.93])
+        by mx.google.com with ESMTPS id ed13si1157648wic.105.2014.04.30.09.33.10
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Wed, 30 Apr 2014 09:33:10 -0700 (PDT)
+Received-SPF: none (google.com: silkeczarn@yahoo.de does not designate permitted sender hosts) client-ip=212.82.96.93;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: silkeczarn@yahoo.de does not designate permitted sender hosts) smtp.mail=silkeczarn@yahoo.de;
+       dkim=pass header.i=@yahoo.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=yahoo.de
+Received: from [212.82.98.54] by nm3.bullet.mail.ir2.yahoo.com with NNFMP; 30 Apr 2014 16:33:10 -0000
+Received: from [46.228.39.67] by tm7.bullet.mail.ir2.yahoo.com with NNFMP; 30 Apr 2014 16:33:10 -0000
+Received: from [127.0.0.1] by smtp104.mail.ir2.yahoo.com with NNFMP; 30 Apr 2014 16:33:10 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.de; s=s1024; t=1398875590; bh=3HpODS1atH5MbwzdhIJ5ek/r8mtm0u4Uc2Y/iqHzQho=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Message-ID:Date:From:User-Agent:MIME-Version:To:Subject:References:In-Reply-To:Content-Type:Content-Transfer-Encoding; b=407a/YZT/h5Ard/yrDsbPDZ3nztsAFQa5R9MH86JFJ8RuiO3rDaDUCyfULLtObjD48sePpqX+drgVKGAi7ZBQhhTE29YuxUtajwte88CkxX4CfMrQagUFO3EYlwzrGOpNjNzdsagj5wWyffmln7xgDPxjevsJYUuIzKTP9dD5tc=
+X-Yahoo-Newman-Id: 93363.88145.bm@smtp104.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: TxhKYSoVM1nlqs_8rUGjN9y3d4jSwaR2gV1jf1GI77Fggad
+ XJFvMZ0EZ.rovTWwi91sMNUIfxCm8mZlnuHsxPxNJ5XW_RtvpmMn.pq0rsOE
+ 2rIptgr9QPjK8Wdc3OfaJ8zNM6gJ4N9u5VpuaptFkKYK0eGkoMCU.wZCt1TU
+ KXIX7hxAgAk.l9s7nhonFUi7aUyRqvQTrjlCZS0f.wln8RTP_T5RzFiKIvB.
+ cnyKVQYTNUIL2qQAJoi4sGAkW5le53bsi4.vy_gdR_B5uvIahvh8aBN75ItN
+ Sv9s26JlM0cWAiXAJCr.BnFzPcoNN1dkzsm6M5EmRqfw5KH7rFt5kd_gHxLa
+ Re7gnnCWC8WkpNaNZ7n1s52VUFE0xHYS4zkR_dT8c0OsDLznklcAYKlTE3yD
+ 6aiegkFQlqFp0EBYQuHJ1yzqZr57gmMIDN4fqu1angqRjg3t6._LZ_NMyohq
+ 4Unox5lxJIN8BmEas9wLio3Joovb2FnGkjtt_wA.eWRqMRcS6IdIqv8M1U8j
+ GoatKcVaFLajC4phptOxzsiTLVNbqiA--
+X-Yahoo-SMTP: DpzBWgGswBBCrqc17gq8BnpqtJD1tMY-
+X-Rocket-Received: from [127.0.0.1] (silkeczarn@95.113.136.233 with plain [188.125.69.59])
+        by smtp104.mail.ir2.yahoo.com with SMTP; 30 Apr 2014 16:33:09 +0000 UTC
+Message-ID: <536125BE.7040808@yahoo.de>
+Date: Wed, 30 Apr 2014 18:33:02 +0200
+From: Silke Czarnetzki <silkeczarn@yahoo.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Subject: Re: Functional Programming
+References: <5360FED4.7050206@yahoo.de> <53610F6F.4090904@gmail.com>
+In-Reply-To: <53610F6F.4090904@gmail.com>
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Ganz deiner Meinung. Hatte nur vorm aufn Bus rennen nicht mehr genug 
+Zeit meine aufzuschreiben.
+Dann lass doch Freitag aufm Sand treffen. Leg die Uhrzeit fest.
+
+LG,
+Silke
+
+Am 30.04.2014 16:57, schrieb Ingo Skupin:
+> Hi,
+>
+> ich bin für ne Mischung aus A und C, aufteilen find ich blöd.
+> Ich werd mir morgen vermutlich schon was anschauen und anfangen, bin 
+> aber am Freitag bis um 14:00 auch frei, wir könnten uns also zum 
+> Beispiel einfach mittags treffen und ein bisschen was zusammen 
+> machen/mergen.
+> Dann kann man für den Rest ja vllt aufteilen, je nachdem, wies halt 
+> aussieht.
+>
+> Gruß,
+> Ingo
+>
+>
+> On 30.04.2014 15:47, Silke Czarnetzki wrote:
+>> Moin Ingo,
+>>
+>> hab mal nur das Blatt zu FP überflogen und gedacht ich frag vorher 
+>> mal, wie wir's mit der Arbeitsteilung machen.
+>>
+>> Plan A: Ich bin Freitag aufm Sand, wir machen die Grundlagen zusammen 
+>> oder so weit wie wir kommen, damit die Implementation halbwegs gleich 
+>> ist und können dann in Ruhe uns dransetzen wann wer Lust hat und 
+>> mergen oder so irgendwie...
+>> Plan B: 2 Aufgaben, jeder irgendwie eine
+>> Plan C: Jeder fröhlich drauf los und mergen wie's halt hinhaut oder 
+>> auch nicht
+>>
+>> Was meinen?
+>>
+>> LG,
+>> Silke
+>
+>
+

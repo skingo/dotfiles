@@ -1,0 +1,1258 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.136.161 with SMTP id qb1csp14009lbb;
+        Thu, 11 Apr 2013 03:09:19 -0700 (PDT)
+X-Received: by 10.52.25.99 with SMTP id b3mr3723471vdg.99.1365674959158;
+        Thu, 11 Apr 2013 03:09:19 -0700 (PDT)
+Return-Path: <YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315@emea.e.paypal.com>
+Received: from outbound.emea.e.paypal.com (outbound.emea.e.paypal.com. [96.47.30.224])
+        by mx.google.com with ESMTP id b4si2916958vdw.83.2013.04.11.03.09.16;
+        Thu, 11 Apr 2013 03:09:18 -0700 (PDT)
+Received-SPF: pass (google.com: domain of YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315@emea.e.paypal.com designates 96.47.30.224 as permitted sender) client-ip=96.47.30.224;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315@emea.e.paypal.com designates 96.47.30.224 as permitted sender) smtp.mail=YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315@emea.e.paypal.com;
+       dkim=pass header.i=@e.paypal.de;
+       dmarc=pass (p=REJECT dis=none) d=paypal.de
+Return-Path: <YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315@emea.e.paypal.com>
+DKIM-Signature: v=1; a=rsa-sha1; d=e.paypal.de; s=ED-DKIM-V3; c=simple/simple;
+	q=dns/txt; i=@e.paypal.de; t=1365674955;
+	h=From;
+	bh=n/FkJTBBH/I/wCTqGCULDk8UhdM=;
+	b=lsKM7nD9fOmu9YQ2LjH9QRtAfW5Tt9iR1MWwn5X69bUXb5/CmsVOs64cg972yub1
+	PdFg3i4bOg2Sn4BQxdzecc3n5OHbxdIGx/eQIG1QG1em5qwXLh9spHfZ/CT2KkzD
+	Ny4OgkZv49ihHl+aLLVPjoovKdhyYM8naYjPVVZMNVU=;
+Received: from [127.0.0.1] ([127.0.0.1:55930])
+	by bm1-26.bo3.e-dialog.com (envelope-from <YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315@emea.e.paypal.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id C4/F4-02565-BCB86615; Thu, 11 Apr 2013 06:09:15 -0400
+Date: Thu, 11 Apr 2013 06:09:15 -0400
+Content-Type: multipart/alternative; boundary="-_-_-_-_-_1234567890"
+Content-Transfer-Encoding: binary
+MIME-Version: 1.0
+From: "PayPal" <paypal@e.paypal.de>
+Reply-To: "PayPal" <noreply@e.paypal.de>
+To: ingo.skupin@gmail.com
+Subject: =?UTF-8?B?SW5nbyBTa3VwaW46IElociBMb3MgZsO8ciBkaWU=?=
+ =?UTF-8?B?IEFwcmlsLVNvbmRlcmFrdGlvbiBzaWNoZXJu?=
+Message-Id: <26861-83-YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315@e-dialog.com>
+X-Mail-From: YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315@emea.e.paypal.com
+X-Match: emea.e.paypal.com
+X-RCPT-To: ingo.skupin@gmail.com
+X-Mailer: EDMAIL R6.00.02
+
+This is a multi-part message in MIME format...
+
+---_-_-_-_-_1234567890
+Content-Type: text/plain; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+F=C3=BCr die Original-HTML-Version dieser E-Mail folgen Sie bitte diesem Li=
+nk:
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/OJI1YV/X8/t?a=
+=3DYG8Y4TQ&b=3DPRI1BJ&c=3D1AKPB59&d=3DLQKLKVY&e=3D1&f=3Da7f858b76df70f84773f
+PayPal
+
+
+=20=09
+Ihr April wird mobil
+
+
+
+Hallo Ingo Skupin,
+
+Haben Sie sich schon Ihr Los f=C3=BCr das PayPal-Gewinnspiel "Der April wir=
+d mobil" gesichert?
+Es winken mehr als 60 Preise im Wert von 12.000 Euro. Bereits ab dem ersten=
+ mobilen Einkauf
+bei unseren Gewinnspiel-Partnern sind Sie dabei. Unsere Aktion endet am 30.=
+ April =E2=80=93 also ran
+ans Smartphone oder Tablet!
+
+
+Viele Gr=C3=BC=C3=9Fe
+Ihr Team von PayPal=20
+
+
+=20=20=09
+April wird mobil - Sonderaktion
+
+mehr als 60 Preise im Wert von 12.000 Euro
+
+Jetzt teilnehmen:
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/5CG5BJ/X8/t
+
+---------------
+
+Nur f=C3=BCr PayPal-Kunden: aktuelle Angebote in der Einkaufswelt
+
+---------------
+
+LED-Fernseher 32LS345S von LG
+
+nur 249 Euro bei Saturn
+
+Zum brillianten Empfang:
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/NSYUD2/X8/t
+
+---------------
+
+HP Touchscreen-Laptop und H=C3=BClle
+
+bis zu 5 Prozent extra bei hp
+
+Zum Touch-Erlebnis:
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/FX79ZG/X8/t
+
+---------------=09
+=20=09
+Fr=C3=BChjahrstrends shoppen
+
+bis zu -70 Prozent bei Marc O'Polo
+
+Jetzt Angebote sichern:
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/QFQTE5/X8/t
+
+---------------
+
+Zauberhafte Blumen und Geschenke
+
+-20 Prozent Rabatt bei Valentins - Blumen & Geschenke
+
+Zu den Fr=C3=BChlingsgef=C3=BChlen:
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/NSYUD7/X8/t
+
+---------------
+
+
+Passwort vergessen? Passwort zur=C3=BCcksetzen:=20
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/WLNOFE/X8/t
+
+
+Brauchen Sie Hilfe? Kontakt aufnehmen:=20
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/5CG5BU/X8/t
+
+Wo m=C3=B6chten Sie einkaufen? Shops finden:
+https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/ZBUVPR/X8/t
+
+
+-----------------
+
+Diese PayPal-Benachrichtigung wurde an ingo.skupin@gmail.com gesendet, weil=
+ Sie in Ihren E-Mail-Einstellungen unter "Neues von PayPal" den Erhalt akti=
+viert haben. Um diese Einstellungen zu =C3=A4ndern, klicken Sie hier. https=
+://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/TPJGJO/X8/t?a=3D08U=
+76574485696134&b=3DftBUH9veuKMAEKYDNDGLbXyjGSR9Wu2K&c=3DPPP&d=3D26619634&e=
+=3D26622445&f=3DPPP =C3=84nderungen werden innerhalb von zehn Tagen wirksam=
+.=20
+
+Copyright (C) 1999-2013 PayPal. Alle Rechte vorbehalten. PayPal (Europe) S.=
+=C3=A0 r.l. et Cie, S.C.A., Soci=C3=A9t=C3=A9 en Commandite par Actions. Ei=
+ngetragener Firmensitz: 22-24 Boulevard Royal, L-2449 Luxembourg RCS Luxemb=
+ourg B 118 349.
+
+[[YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f315]]
+
+---_-_-_-_-_1234567890
+Content-Type: text/html; charset=UTF-8
+Content-Disposition: inline
+Content-Transfer-Encoding: quoted-printable
+
+<!--To read this email in a web browser please open this URL: http://view.e=
+d4.net/v/YG8Y4TQ/PRI1BJ/1AKPB59/LQKLKVY/MAILACTION=3D1&FORMAT=3DH -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8" />
+<meta name=3D"format-detection" content=3D"telephone=3Dno" />
+<title>Ingo Skupin: Ihr Los f=C3=BCr die April-Sonderaktion sichern</title>
+<style type=3D"text/css">
+.ReadMsgBody {width: 100%;}=09
+.ExternalClass {width: 100%;}=09
+
+.applelinks a {	color:#bbbbbb !important;
+text-decoration:none !important;}
+
+=09
+@media screen and (max-device-width: 480px) {
+
+/* -------------------------------generic------------------------------- */
+table[class=3Dnomob], span[class=3Dnomob], td[class=3Dnomob], img[class=3Dn=
+omob] {
+display:none !important;}
+
+table[class=3Dnobk], span[class=3Dnobk], td[class=3Dnobk], img[class=3Dnobk=
+] {
+background:none!important;}
+
+table[class=3Demail320resize], td[class=3Demail320resize] {
+width:320px!important;}
+
+table[class=3Demail300resize], td[class=3Demail300resize] {
+width:300px!important;
+margin: 0px 10px!important;}
+
+/* -------------------------------shell------------------------------- */
+
+/* header */
+*[class=3Dresize10width] {
+width: 10px!important;}
+
+*[class=3Dresize8width] {
+width: 8px!important;}
+
+*[class=3Dresize50width] {
+width: 50px!important;}
+
+*[class=3Dresize28height] {
+height: 28px!important;}
+
+/*Images*/
+
+img[class=3Dbannermob] {
+width: 300px !important; height: 151px !important;}
+
+img[class=3Dresize5] {
+width: 5px !important;}
+
+img[class=3Dresize8] {
+width: 8px !important;}
+
+img[class=3Dresize10] {
+width: 10px !important;}
+
+img[class=3Dresize50] {
+width: 50px !important;}
+
+img[class=3Dresize5h] {
+height: 5px !important;}
+
+img[class=3Dresize6h] {
+height: 6px !important;}
+
+img[class=3Dresize8h] {
+height: 8px !important;}
+
+img[class=3Dresize10h] {
+height: 10px !important;}
+
+img[class=3Dresize12h] {
+height: 12px !important;}
+
+img[class=3Dresize13h] {
+height: 13px !important;}
+
+img[class=3Dresize20h] {
+height: 20px !important;}
+
+img[class=3Dresize24h] {
+height: 24px !important;}
+
+img[class=3Dresize26h] {
+height: 26px !important;}
+
+img[class=3Dresize30h] {
+height: 30px !important;}
+
+img[class=3Dresize95]{
+	width: 95px !important;
+	height:auto!important;
+}
+
+img[class=3Dresize17width]{
+	width: 17px !important;
+}
+
+img[class=3Dresize280]{
+	width: 280px !important;
+}
+
+img[class=3Dresize300]{
+	width: 280px !important;
+	margin: 8px 0px 14px 0px!important;
+}
+
+img[class=3Dresize300hero1]{
+	width: 300px !important;
+	height: auto!important;
+}=20
+
+img[class=3Dresize300hero2]{
+	width: 300px !important;
+	height:150px!important;
+	background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPa=
+lEU_Mobile_Optimisation_Project_USD/html2/images/img_hero_nl_mobile.png) no=
+-repeat!important;
+}=20
+
+img[class=3Dresize320]{
+	width: 320px !important;
+}
+
+
+/*BACKGROUND IMAGES*/
+
+td[class=3DsmallDivider] {
+background-repeat:no-repeat!important;
+width:280px!important;
+height: auto!important;
+margin-bottom: 15px!important;}
+
+td[class=3DeduTop] {
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPal=
+EU_Mobile_Optimisation_Project_USD/html/images/img_eduTopMOB.gif)!important;
+background-position:top!important;
+background-repeat:no-repeat!important;
+height:14px!important;
+width:280px!important;}
+
+td[class=3DeduBottom] {
+background:url(https://image.paypal-communication.com/paypal/2012_Q2/PayPal=
+EU_Mobile_Optimisation_Project_USD/html/images/img_eduBottomMOB.gif)!import=
+ant;
+background-position:top!important;
+background-repeat:no-repeat!important;
+height:14px!important;
+width:280px!important;}
+
+
+/*font sizes*/
+
+*[class=3Dfontsize12]{
+	font-size: 12px !important;
+	line-height: 16px !important;
+}
+
+td[class=3Dfontsize16]{
+	font-size: 16px !important;
+	line-height: 19px !important;
+}
+
+
+
+
+td[class=3Dfontsize18]{
+	font-size: 18px !important;
+	line-height: 21px !important;
+}
+
+
+
+*[class=3Dfontsize18blue]{
+	font-size: 18px !important;
+	line-height: 21px !important;
+	color:#0079c1!important;
+	text-decoration:none!important;
+}
+
+*[class=3Dmiddlealign]{
+	margin: 0 auto!important;
+}
+
+
+
+/* footer */
+td[class=3Demailcolsplit280] {
+width:280px!important;
+float:left!important;}
+
+td[class=3Demailcolsplit300] {
+width:290px!important;
+float:left!important;}
+
+*[id=3Dpadding14bottom] {
+margin-bottom:16px!important;}
+=09
+*[id=3Dpadding14] {
+margin:16px 0px!important;}
+
+*[class=3Dresize11font] {
+font-size:11px!important;
+line-height: 15px!important;}
+
+*[class=3Dresize14height] {
+height: 14px!important;}
+
+*[class=3Dresize14font] {
+font-size:14px!important;
+line-height: 18px!important;}
+
+
+/* CTA */
+*[class=3Dfooter300cta] {
+font-size: 14px!important;
+color:#FFF!important;
+width:280px!important;
+float:left!important;
+text-align:center!important;
+margin: 0px 0px 4px 0px!important;
+padding: 2px 0px 2px 0px!important;
+border: 0px!important;
+border-radius: 10px !important;
+background-color:#0079c1 !important;}
+
+
+*[class=3Dblueband78width] {
+width: 78px!important;
+height: auto!important;
+margin: 12px  0px!important;}
+
+}
+</style>
+<link REL=3D"SHORTCUT ICON" HREF=3D"">
+<meta name=3D"viewport" content=3D"width=3D320" />
+</head>
+<div style=3D"background:#ffffff;padding:0; margin:0;">
+<body style=3D"padding:0; margin:0;-webkit-text-size-adjust:none;" bgcolor=
+=3D"#ffffff">
+<span class=3D"nomob"><img class=3D"resize5" style=3D"display:block;" src=
+=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=3D"" wi=
+dth=3D"21" height=3D"1" /></span>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" heig=
+ht=3D"100%" bgcolor=3D"#ffffff">
+<tr>
+<td align=3D"center" valign=3D"top">
+      <span class=3D"resize10width"><img class=3D"resize10width" style=3D"d=
+isplay:block;" src=3D"https://image.paypal-communication.com/sp.gif" border=
+=3D"0" alt=3D"" width=3D"35" height=3D"1" /></span>
+=20=20=20=20=20=20
+<table class=3D"email320resize" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"640">
+<tr>
+<td align=3D"left" valign=3D"top">
+<table class=3D"email300resize" style=3D"background-repeat: no-repeat;" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#56=
+5559" background=3D"https://image.paypal-communication.com/paypal/2012_Q2/P=
+ayPalEU_Mobile_Optimisation_Project_USD/html/shell/img_header_bk_v2.gif">
+<tr>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"https://image.payp=
+al-communication.com/sp.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1=
+" /></td>
+<td align=3D"right" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"left" valign=3D"top"><img style=3D"display:block;" src=3D"http=
+://img.ed4.net/spacer50.gif" alt=3D"" width=3D"1" height=3D"12" /></td>
+</tr>
+<tr>
+<td style=3D"font-family:Arial, Helvetica, sans-serif; color:#bbbbbb; font-=
+size:11px; text-decoration:none; line-height:16px; font-weight:normal;" ali=
+gn=3D"right" valign=3D"top">=20
+Probleme mit der Darstellung? <a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/XT30N=
+J/X8/h?a=3DYG8Y4TQ&b=3DPRI1BJ&c=3D1AKPB59&d=3DLQKLKVY&e=3D1&f=3Da7f858b76df=
+70f84773f" style=3D"font-family:Arial, Helvetica, sans-serif; color:#bbbbbb=
+; font-size:11px; text-decoration:underline; line-height:16px; font-weight:=
+normal;" target=3D"_blank"
+><span><font style=3D"font-family:Arial, Helvetica, sans-serif; color:#bbbb=
+bb; font-size:11px; text-decoration:underline; line-height:16px; font-weigh=
+t:normal;"><b>Online-Version ansehen</b></font></span></a>
+ <span class=3D"nomob"><a
+ href=3D"#" style=3D"font-family:Arial, Helvetica, sans-serif; color:#bbbbb=
+b; font-size:11px; text-decoration:none; line-height:16px; font-weight:norm=
+al;"
+></a></span> </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img style=3D"display:block;" src=3D"http=
+://img.ed4.net/spacer50.gif" alt=3D"" width=3D"1" height=3D"12" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"https://image.payp=
+al-communication.com/sp.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1=
+" /></td>
+</tr>
+</table>
+<table class=3D"email300resize" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" bgcolor=3D"#F5F5F5">
+<tr>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"https://image.payp=
+al-communication.com/sp.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1=
+" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td colspan=3D"2" align=3D"left" valign=3D"top"><img class=3D"resize28heigh=
+t" style=3D"display:block;" src=3D"https://image.paypal-communication.com/s=
+p.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"15" /></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/5CG5B=
+T/X8/h" style=3D"font-family:Arial, Helvetica, sans-serif; color:#00447c; f=
+ont-size:20px; text-decoration:none; line-height:22px; font-weight:bold;" t=
+arget=3D"_blank"
+><img style=3D"display:block;" src=3D"https://image.paypal-communication.co=
+m/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/shell/img_lo=
+go.gif" border=3D"0" alt=3D"PayPal" width=3D"118" height=3D"30" /></a></td>
+<td align=3D"right" valign=3D"top"><img style=3D"display:block;" src=3D"htt=
+ps://image.paypal-communication.com/paypal/2012_Q2/PayPalEU_Mobile_Optimisa=
+tion_Project_USD/html/shell/img_blue_band.gif" border=3D"0" alt=3D"" width=
+=3D"118" height=3D"30" /></td>
+</tr>
+<tr>
+<td colspan=3D"2" align=3D"left" valign=3D"top"><img style=3D"display:block=
+;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=
+=3D"" width=3D"1" height=3D"13" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"nomob" width=3D"35" align=3D"left" valign=3D"top"><img style=
+=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" b=
+order=3D"0" alt=3D"" width=3D"35" height=3D"1" /></td>
+</tr>
+</table>
+<table class=3D"email300resize" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" bgcolor=3D"#c5c6c8">
+<tr>
+<td height=3D"1" align=3D"left" valign=3D"top"><img style=3D"display:block;=
+" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=3D=
+"" width=3D"1" height=3D"1" /></td>
+</tr>
+</table>
+<table class=3D"email300resize" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top">&nbs=
+p;</td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"emailcolsplit280" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td height=3D"21" align=3D"left" valign=3D"top"><img style=3D"display:block=
+;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=
+=3D"" width=3D"1" height=3D"21" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 24px; co=
+lor: #0079c1; text-decoration: none; line-height: 28px;" align=3D"left" val=
+ign=3D"top">Ihr April wird  mobil
+                  <span style=3D"color: #0079c1;">
+                    </span></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img class=3D"resize16height" style=3D"di=
+splay:block;" src=3D"https://image.paypal-communication.com/sp.gif" border=
+=3D"0" alt=3D"" width=3D"1" height=3D"21" /></td>
+</tr>
+<tr>
+<td class=3D"fontsize12" style=3D"font-family: Arial, Helvetica, sans-serif=
+; font-size: 14px; color: #717074; text-decoration: none; line-height: 18px=
+;" align=3D"left" valign=3D"top">Hallo <b>Ingo Skupin</b>!<br />
+                  <br />
+                 Haben Sie sich schon Ihr Los f=C3=BCr das PayPal-Gewinnspi=
+el <a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/V1F6R=
+J/X8/h" style=3D"color: #0079c1; text-decoration: none;" target=3D"_blank" =
+class=3D"fontsize12"
+><b>&quot;Der April wird mobil&quot;   </b></a>  gesichert? Es winken mehr =
+als 60 Preise im Wert von 12.000 Euro. Bereits ab dem ersten mobilen Einkau=
+f bei unseren Gewinnspiel-Partnern sind Sie dabei. Unsere Aktion  endet am =
+30. April =E2=80=93 also ran ans Smartphone oder Tablet! <br />
+                 <br />Viele Gr&uuml;&szlig;e<br />
+=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20=20
+                  Ihr Team von PayPal</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img class=3D"resize12height" style=3D"di=
+splay:block;" src=3D"https://image.paypal-communication.com/sp.gif" border=
+=3D"0" alt=3D"" width=3D"1" height=3D"21" /></td>
+</tr>
+<tr>
+<td class=3D"nomob" height=3D"30" align=3D"left" valign=3D"top"><img style=
+=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" b=
+order=3D"0" alt=3D"" width=3D"1" height=3D"30" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit280" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top">&nbsp;</td>
+<td width=3D"284" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top">&nbsp;</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img class=3D"resize280" style=3D"display=
+:block;" src=3D"https://image.paypal-communication.com/paypal/2012_Q2/PayPa=
+lEU_Mobile_Optimisation_Project_USD/html/images/img_heroTop.gif" border=3D"=
+0" alt=3D"" width=3D"284" height=3D"10" /></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/D4AE2=
+2/X8/h" target=3D"_blank"
+><img class=3D"resize280" style=3D"display:block;" src=3D"https://image.pay=
+pal-communication.com/paypal_eu/images/2013/Q2/April/DE_1425/img_Hero_Mobil=
+.jpg" border=3D"0" alt=3D"SONDER AKTION" width=3D"284" height=3D"262" /></a=
+></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td width=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#fdfdfd"><img styl=
+e=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+<td width=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#f8f8f8"><img styl=
+e=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+<td width=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#f0f0f0"><img styl=
+e=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+<td width=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#e7e7e7"><img styl=
+e=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+<td align=3D"center" valign=3D"middle" bgcolor=3D"#FFFFFF"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/JIWF4=
+W/X8/h" target=3D"_blank" class=3D"button_replace"
+><img style=3D"display:block;" src=3D"https://image.paypal-communication.co=
+m/paypal_eu/images/2013/Q2/April/DE_1425/cta_Jetzt_teilnehmen.gif" border=
+=3D"0" alt=3D"Jetzt teilnehmen" width=3D"236" height=3D"34" /></a></td>
+<td width=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#e7e7e7"><img styl=
+e=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+<td width=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#f0f0f0"><img styl=
+e=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+<td width=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#f8f8f8"><img styl=
+e=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+<td width=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#ffffff"><img styl=
+e=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif" =
+border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img class=3D"resize280" style=3D"display=
+:block;" src=3D"https://image.paypal-communication.com/paypal/2012_Q2/PayPa=
+lEU_Mobile_Optimisation_Project_USD/html/images/img_heroBottom.gif" border=
+=3D"0" alt=3D"" width=3D"284" height=3D"25" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgco=
+lor=3D"#FFFFFF">
+<tr>
+<td width=3D"572" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td class=3D"nomob" style=3D"font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 18px; color: #717074; text-decoration: none; line-height: 24px;" al=
+ign=3D"left" valign=3D"top">Nur f=C3=BCr PayPal-Kunden: aktuelle Angebote i=
+n der Einkaufswelt</td>
+</tr>
+<tr>
+<td height=3D"19" align=3D"left" valign=3D"top"><img class=3D"resize26h" st=
+yle=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif=
+" border=3D"0" alt=3D"" width=3D"1" height=3D"19" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"https://image.payp=
+al-communication.com/sp.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1=
+" /></td>
+</tr>
+</table>
+<!--DIVIDER START-->
+<table class=3D"nomob" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%">
+<tr>
+<td align=3D"center" valign=3D"top"><img class=3D"resize300" style=3D"displ=
+ay:block;" src=3D"https://image.paypal-communication.com/paypal/2012_Q2/Pay=
+PalEU_Mobile_Optimisation_Project_USD/html/images/img_divider.gif" border=
+=3D"0" alt=3D"" width=3D"640" height=3D"10" /></td>
+</tr>
+</table>
+<table class=3D"email300resize" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top">&nbs=
+p;</td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"emailcolsplit280" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top" background=3D"https://image.paypal-commun=
+ication.com/paypal/2012_Q4/PayPalEU_Mobile_Optimisation_Project_XMAS/html/U=
+K/img_divider_v2.gif"><img class=3D"resize26h" style=3D"display:block;" src=
+=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=3D"" wi=
+dth=3D"1" height=3D"1" /></td>
+</tr>
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=
+=3D"" width=3D"1" height=3D"4" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; co=
+lor: #0079c1; text-decoration: none; line-height: 20px;" align=3D"left" val=
+ign=3D"top">LED-Fernseher  32LS345S von LG</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/OJI1Y=
+E/X8/h" target=3D"_blank"
+><img class=3D"resize280" style=3D"display:block;" src=3D"https://image.pay=
+pal-communication.com/paypal_eu/images/2013/Q2/April/DE_1425/img_saturn.jpg=
+" border=3D"0" alt=3D"nur 249 Euro bei Saturn" width=3D"284" height=3D"283"=
+ /></a></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"center" valign=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/D4AE2=
+7/X8/h" target=3D"_blank" class=3D"button_replace"
+><img style=3D"display:block;" src=3D"https://image.paypal-communication.co=
+m/paypal_eu/images/2013/Q2/April/DE_1425/cta_Zum_brillanten_Empfang.gif" bo=
+rder=3D"0" alt=3D"Zum brillanten Empfang" width=3D"284" height=3D"27" /></a=
+></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img class=3D"resize26h" style=3D"display=
+:block;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"19" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit280" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img class=3D"resize5" st=
+yle=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif=
+" border=3D"0" alt=3D"" width=3D"21" height=3D"1" /></td>
+<td width=3D"284" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top" background=3D"https://image.paypal-commun=
+ication.com/paypal/2012_Q4/PayPalEU_Mobile_Optimisation_Project_XMAS/html/U=
+K/img_divider_v2.gif"><img class=3D"resize26h" style=3D"display:block;" src=
+=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=3D"" wi=
+dth=3D"1" height=3D"1" /></td>
+</tr>
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=
+=3D"" width=3D"1" height=3D"4" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; co=
+lor: #0079c1; text-decoration: none; line-height: 20px;" align=3D"left" val=
+ign=3D"top">HP Touchscreen-Laptop und H=C3=BClle</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/YHPC3=
+L/X8/h" target=3D"_blank"
+><img class=3D"resize280" style=3D"display:block;" src=3D"https://image.pay=
+pal-communication.com/paypal_eu/images/2013/Q2/April/DE_1425/img_HP.jpg" bo=
+rder=3D"0" alt=3D"bis zu 5 Prozent extra bei HP" width=3D"284" height=3D"28=
+3" /></a></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"center" valign=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/FX797=
+W/X8/h" target=3D"_blank" class=3D"button_replace"
+><img style=3D"display:block;" src=3D"https://image.paypal-communication.co=
+m/paypal_eu/images/2013/Q2/April/DE_1425/cta_Zum_TouchErlebnis.gif" border=
+=3D"0" alt=3D"Zum Touch-Erlebnis" width=3D"284" height=3D"27" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img class=3D"resize26h" style=3D"display=
+:block;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"19" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"https://image.payp=
+al-communication.com/sp.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1=
+" /></td>
+</tr>
+</table>
+<!--DIVIDER END-->
+<!--DIVIDER START-->
+<table class=3D"nomob" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%">
+<tr>
+<td align=3D"center" valign=3D"top"><img class=3D"resize300" style=3D"displ=
+ay:block;" src=3D"https://image.paypal-communication.com/paypal/2012_Q2/Pay=
+PalEU_Mobile_Optimisation_Project_USD/html/images/img_divider.gif" border=
+=3D"0" alt=3D"" width=3D"640" height=3D"10" /></td>
+</tr>
+</table>
+<table class=3D"email300resize" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" bgcolor=3D"#FFFFFF">
+<tr>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top">&nbs=
+p;</td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"emailcolsplit280" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top" background=3D"https://image.paypal-commun=
+ication.com/paypal/2012_Q4/PayPalEU_Mobile_Optimisation_Project_XMAS/html/U=
+K/img_divider_v2.gif"><img class=3D"resize26h" style=3D"display:block;" src=
+=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=3D"" wi=
+dth=3D"1" height=3D"1" /></td>
+</tr>
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=
+=3D"" width=3D"1" height=3D"4" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; co=
+lor: #0079c1; text-decoration: none; line-height: 20px;" align=3D"left" val=
+ign=3D"top">Fr=C3=BChjahrstrends shoppen</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/OJI1I=
+J/X8/h" target=3D"_blank"
+><img class=3D"resize280" style=3D"display:block;" src=3D"https://image.pay=
+pal-communication.com/paypal_eu/images/2013/Q2/April/DE_1425/img_MarcoPolo.=
+jpg" border=3D"0" alt=3D"bis zu -70 Prozent bei Marc O'Polo" width=3D"284" =
+height=3D"283" /></a></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"center" valign=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/LQK3K=
+9/X8/h" target=3D"_blank" class=3D"button_replace"
+><img style=3D"display:block;" src=3D"https://image.paypal-communication.co=
+m/paypal_eu/images/2013/Q2/April/DE_1425/cta_Jetzt_Angebote_sichern.gif" bo=
+rder=3D"0" alt=3D"Jetzt Angebote sichern" width=3D"284" height=3D"27" /></a=
+></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img class=3D"resize26h" style=3D"display=
+:block;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"19" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit280" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img class=3D"resize5" st=
+yle=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif=
+" border=3D"0" alt=3D"" width=3D"21" height=3D"1" /></td>
+<td width=3D"284" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top" background=3D"https://image.paypal-commun=
+ication.com/paypal/2012_Q4/PayPalEU_Mobile_Optimisation_Project_XMAS/html/U=
+K/img_divider_v2.gif"><img class=3D"resize26h" style=3D"display:block;" src=
+=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=3D"" wi=
+dth=3D"1" height=3D"1" /></td>
+</tr>
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0" alt=
+=3D"" width=3D"1" height=3D"4" /></td>
+</tr>
+<tr>
+<td style=3D"font-family: Arial, Helvetica, sans-serif; font-size: 16px; co=
+lor: #0079c1; text-decoration: none; line-height: 20px;" align=3D"left" val=
+ign=3D"top">Zauberhafte Blumen und Geschenke</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/V1F6F=
+T/X8/h" target=3D"_blank"
+><img class=3D"resize280" style=3D"display:block;" src=3D"https://image.pay=
+pal-communication.com/paypal_eu/images/2013/Q2/April/DE_1425/img_Valentin.j=
+pg" border=3D"0" alt=3D"20 Prozent Rabatt bei Valentins - Blumen &amp; Gesc=
+henke" width=3D"284" height=3D"283" /></a></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"center" valign=3D"middle">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" align=3D"center">
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/D4AEA=
+K/X8/h" target=3D"_blank" class=3D"button_replace"
+><img style=3D"display:block;" src=3D"https://image.paypal-communication.co=
+m/paypal_eu/images/2013/Q2/April/DE_1425/cta_Zu_den_Fruehlingsgefuehlen.gif=
+" border=3D"0" alt=3D"Zu den Fr=C3=BChlingsgef=C3=BChlen" width=3D"284" hei=
+ght=3D"27" /></a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img class=3D"resize26h" style=3D"display=
+:block;" src=3D"https://image.paypal-communication.com/sp.gif" border=3D"0"=
+ alt=3D"" width=3D"1" height=3D"18" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"https://image.payp=
+al-communication.com/sp.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1=
+" /></td>
+</tr>
+</table>
+<table class=3D"nomob" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"left" valign=3D"top"><img style=3D"display:block;" src=3D"http=
+s://image.paypal-communication.com/sp.gif" border=3D"0" alt=3D"" width=3D"1=
+" height=3D"10" /></td>
+</tr>
+</table>
+<!--DIVIDER END-->
+<!--DIVIDER START-->
+<table class=3D"nomob" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" wid=
+th=3D"100%">
+<tr>
+<td align=3D"center" valign=3D"top">&nbsp;</td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"#" target=3D"_blank"
+><img style=3D"display:block;" src=3D"https://image.paypal-communication.co=
+m/sp.gif" border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></a></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"left" valign=3D"top"><img style=3D"display:block;" src=3D"http=
+s://image.paypal-communication.com/sp.gif" border=3D"0" alt=3D"" width=3D"1=
+" height=3D"10" /></td>
+</tr>
+</table>
+<!--DIVIDER END-->=20=20
+=20=20=20=20=20=20=20=20=20=20
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top">
+=20=20=20=20
+<table class=3D"email300resize" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%">
+<tr>
+<td height=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#e5e5e5"><img sty=
+le=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif"=
+ border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+</tr>
+<tr>
+<td height=3D"1" align=3D"left" valign=3D"top" bgcolor=3D"#FFFFFF"><img sty=
+le=3D"display:block;" src=3D"https://image.paypal-communication.com/sp.gif"=
+ border=3D"0" alt=3D"" width=3D"1" height=3D"1" /></td>
+</tr>
+</table>
+<table class=3D"email300resize" border=3D"0" cellspacing=3D"0" cellpadding=
+=3D"0" width=3D"100%" bgcolor=3D"#F5F5F5">
+<tr>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"http://img.ed4.net=
+/spacer50.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1" /></td>
+<td align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"emailcolsplit280" width=3D"206" align=3D"left" valign=3D"top">
+<table id=3D"padding14" class=3D"email280resize" border=3D"0" cellspacing=
+=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"9" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D"9" =
+height=3D"1" /></td>
+<td width=3D"62" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"1" height=3D"21" /></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/GKMSM=
+E/X8/h" target=3D"_blank"
+><img style=3D"display:block;s" src=3D"https://image.paypal-communication.c=
+om/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/shell/img_r=
+eset.gif" border=3D"0" alt=3D"Passwort vergessen" width=3D"62" height=3D"60=
+" /></a></td>
+</tr>
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"1" height=3D"21" /></td>
+</tr>
+</table>
+</td>
+<td width=3D"8" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D"8" =
+height=3D"1" /></td>
+<td class=3D"resize14font" style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-size: 12px; color: #717074; text-decoration: none; line-height: 16=
+px;" align=3D"left" valign=3D"middle">Passwort vergessen? <br /><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/PRELE=
+U/X8/h" style=3D"color: #0079c1; text-decoration: none;" target=3D"_blank"
+><b><span><font class=3D"resize14font" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; color:#0079c1; font-size:12px; text-decoration:none; line-he=
+ight:16px;">Passwort zur&uuml;cksetzen</font></span></b></a></td>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"15" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit280" width=3D"202" align=3D"left" valign=3D"top">
+<table id=3D"padding14bottom" class=3D"email280resize" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"9" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D"9" =
+height=3D"1" /></td>
+<td width=3D"62" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"1" height=3D"21" /></td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/S3SBS=
+H/X8/h" target=3D"_blank"
+><img style=3D"display:block;s" src=3D"https://image.paypal-communication.c=
+om/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/shell/img_c=
+ontact.gif" border=3D"0" alt=3D"Hilfe Center" width=3D"62" height=3D"60" />=
+</a></td>
+</tr>
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"1" height=3D"21" /></td>
+</tr>
+</table>
+</td>
+<td width=3D"8" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D"8" =
+height=3D"1" /></td>
+<td class=3D"resize14font" style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-size: 12px; color: #717074; text-decoration: none; line-height: 16=
+px;" align=3D"left" valign=3D"middle">Brauchen Sie Hilfe?<br /><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/GKMSM=
+S/X8/h" style=3D"color: #0079c1; text-decoration: none;" target=3D"_blank"
+><b><span><font class=3D"resize14font" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; color:#0079c1; font-size:12px; text-decoration:none; line-he=
+ight:16px;">Kontakt aufnehmen</font></span></b></a></td>
+<td align=3D"left" valign=3D"top"><img class=3D"nomob" style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"15" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"emailcolsplit280" width=3D"162" align=3D"left" valign=3D"top">
+<table id=3D"padding14bottom" class=3D"email280resize" border=3D"0" cellspa=
+cing=3D"0" cellpadding=3D"0">
+<tr>
+<td width=3D"9" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D"9" =
+height=3D"1" /></td>
+<td width=3D"62" align=3D"left" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"1" height=3D"21" /></td>
+</tr>
+<tr>
+<td width=3D"62" align=3D"left" valign=3D"top"><a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/OJI1I=
+L/X8/h" target=3D"_blank"
+><img style=3D"display:block;s" src=3D"https://image.paypal-communication.c=
+om/paypal/2012_Q2/PayPalEU_Mobile_Optimisation_Project_USD/html/shell/img_s=
+tore.gif" border=3D"0" alt=3D"Shops finden" width=3D"62" height=3D"60" /></=
+a></td>
+</tr>
+<tr>
+<td class=3D"nomob" align=3D"left" valign=3D"top"><img style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"1" height=3D"21" /></td>
+</tr>
+</table>
+</td>
+<td width=3D"8" align=3D"left" valign=3D"top"><img style=3D"display:block;"=
+ src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D"8" =
+height=3D"1" /></td>
+<td class=3D"resize14font" style=3D"font-family: Arial, Helvetica, sans-ser=
+if; font-size: 12px; color: #717074; text-decoration: none; line-height: 16=
+px;" align=3D"left" valign=3D"middle">Wo m&ouml;chten Sie einkaufen? <br />=
+<a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/UUR8R=
+O/X8/h" style=3D"color: #0079c1; text-decoration: none;" target=3D"_blank"
+><b><span><font class=3D"resize14font" style=3D"font-family:Arial, Helvetic=
+a, sans-serif; color:#0079c1; font-size:12px; text-decoration:none; line-he=
+ight:16px;">Shops finden</font></span></b></a></td>
+<td align=3D"left" valign=3D"top"><img class=3D"nomob" style=3D"display:blo=
+ck;" src=3D"http://img.ed4.net/spacer50.gif" border=3D"0" alt=3D"" width=3D=
+"10" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+<td width=3D"35" align=3D"left" valign=3D"top"><img class=3D"resize10width"=
+ style=3D"display:block;" src=3D"http://img.ed4.net/spacer50.gif" border=3D=
+"0" alt=3D"" width=3D"35" height=3D"1" /></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<table class=3D"email300resize" style=3D"background-repeat: no-repeat;" bor=
+der=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" bgcolor=3D"#77=
+767b" background=3D"https://image.paypal-communication.com/paypal/2012_Q2/P=
+ayPalEU_Mobile_Optimisation_Project_USD/html/shell/img_footer_bk.gif">
+<tr>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"http://img.ed4.net=
+/spacer50.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1" /></td>
+<td align=3D"right" valign=3D"top">
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0" width=3D"100%">
+<tr>
+<td align=3D"left" valign=3D"top"><img style=3D"display:block;" src=3D"http=
+://img.ed4.net/spacer50.gif" alt=3D"" width=3D"1" height=3D"13" /></td>
+</tr>
+<tr>
+<td class=3D"applelinks" style=3D"font-family:Arial, Helvetica, sans-serif;=
+ color:#bbbbbb; font-size:10px; text-decoration:none; line-height:15px; fon=
+t-weight:normal;" align=3D"left" valign=3D"top"><a style=3D"font-family:Ari=
+al, Helvetica, sans-serif; color:#bbbbbb; font-size:10px; text-decoration:n=
+one; line-height:15px; font-weight:normal;">Diese PayPal-Benachrichtigung w=
+urde an </a><a
+ href=3D"#" style=3D"font-family:Arial, Helvetica, sans-serif; color:#bbbbb=
+b; font-size:10px; text-decoration:none; line-height:15px; font-weight:norm=
+al;"
+>ingo.skupin@gmail.com</a> gesendet, weil Sie in Ihren E-Mail-Einstellungen=
+ unter "Neues von PayPal" den Erhalt aktiviert haben. Um diese Einstellunge=
+n zu &auml;ndern, klicken Sie <a
+ href=3D"https://email-edg.paypal.com/r/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/S3SBS=
+O/X8/h?a=3D08U76574485696134&b=3DftBUH9veuKMAEKYDNDGLbXyjGSR9Wu2K&c=3DPPP&d=
+=3D26619634&e=3D26622445&f=3DPPP" style=3D"font-family:Arial, Helvetica, sa=
+ns-serif; color:#bbbbbb; font-size:10px; text-decoration:underline; line-he=
+ight:15px; font-weight:normal;" target=3D"_blank"
+><span><font style=3D"font-family:Arial, Helvetica, sans-serif; color:#bbbb=
+bb; font-size:10px; text-decoration:underline; line-height:15px; font-weigh=
+t:normal;">hier</font></span></a>.  &Auml;nderungen werden innerhalb von ze=
+hn Tagen wirksam. <br />
+<br />
+Copyright &copy; 1999&ndash;2013 PayPal. Alle Rechte vorbehalten. PayPal (E=
+urope)=20
+S.&agrave; r.l. et Cie, S.C.A., Soci&eacute;t&eacute; en Commandite par Act=
+ions. Eingetragener=20
+Firmensitz: 22-24 Boulevard Royal, L-2449 Luxembourg RCS Luxembourg B 118 3=
+49. </td>
+</tr>
+<tr>
+<td align=3D"left" valign=3D"top"><img style=3D"display:block;" src=3D"http=
+://img.ed4.net/spacer50.gif" alt=3D"" width=3D"1" height=3D"20" /></td>
+</tr>
+</table>
+</td>
+<td class=3D"resize10width" width=3D"35" align=3D"left" valign=3D"top"><img=
+ class=3D"resize10width" style=3D"display:block;" src=3D"http://img.ed4.net=
+/spacer50.gif" border=3D"0" alt=3D"" width=3D"35" height=3D"1" /></td>
+</tr>
+</table></td>
+</tr>
+</table>
+<table border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+<tr>
+<td align=3D"left" valign=3D"top"><img style=3D"display:block;" src=3D"http=
+s://image.paypal-communication.com/sp.gif" alt=3D"" width=3D"1" height=3D"1=
+4" /></td>
+</tr>
+</table>
+<!--end of master table--></td>
+</tr>
+</table>
+</body>
+</div>
+</html><!-- [[YG8Y4TQ-PRI1BJ-YGTZV3-YHPZPI1-NSIDKF-M-M2-20130411-b08e78b48f=
+315]] --><img height=3D"1" width=3D"1" src=3D"https://email-edg.paypal.com/=
+o/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/VTMC/MS"><img height=3D"1" width=3D"1" src=
+=3D"https://email-edg.paypal.com/o/YG8Y4TQ/YGTZV3/YHPZPI1/NSIDKF/VTMC/52">
+
+---_-_-_-_-_1234567890--
+

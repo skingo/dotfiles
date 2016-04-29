@@ -1,0 +1,48 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.170 with SMTP id i10csp20123pdr;
+        Thu, 26 Jun 2014 05:22:31 -0700 (PDT)
+X-Received: by 10.194.134.70 with SMTP id pi6mr17802159wjb.1.1403785350887;
+        Thu, 26 Jun 2014 05:22:30 -0700 (PDT)
+Return-Path: <ingo.skupin@student.uni-tuebingen.de>
+Received: from mx08.uni-tuebingen.de (mx08.uni-tuebingen.de. [134.2.5.218])
+        by mx.google.com with ESMTPS id cy7si9571458wjb.50.2014.06.26.05.22.29
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Thu, 26 Jun 2014 05:22:30 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@student.uni-tuebingen.de does not designate permitted sender hosts) client-ip=134.2.5.218;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@student.uni-tuebingen.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@student.uni-tuebingen.de
+Received: from android-e2d9a5a3aa82d716.fritz.box (HSI-KBW-046-005-018-027.hsi8.kabel-badenwuerttemberg.de [46.5.18.27])
+	(authenticated bits=0)
+	by mx08.uni-tuebingen.de (8.14.3/8.14.3) with ESMTP id s5QCMNY8023044
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <ingo.skupin@gmail.com>; Thu, 26 Jun 2014 14:22:29 +0200
+User-Agent: K-9 Mail for Android
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----TRPEZQRH9H8OETX1PZFWFZPMI5IRCF"
+Content-Transfer-Encoding: 8bit
+Subject: Foo
+From: Ingo Skupin <ingo.skupin@student.uni-tuebingen.de>
+Date: Thu, 26 Jun 2014 14:22:23 +0200
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Message-ID: <9fd43578-c261-4e18-9531-6441d7cdc4f0@email.android.com>
+X-AntiVirus: checked by Avira MailGate (version: 3.2.1.26; AVE: 8.3.20.16; VDF: 7.11.157.6; host: mx08); id=22014-ZdOZHa
+
+------TRPEZQRH9H8OETX1PZFWFZPMI5IRCF
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain;
+ charset=UTF-8
+
+Bar
+-- 
+Sent from my Android device with K-9 Mail. Please excuse my brevity.
+------TRPEZQRH9H8OETX1PZFWFZPMI5IRCF
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Bar<br>
+-- <br>
+Sent from my Android device with K-9 Mail. Please excuse my brevity.
+------TRPEZQRH9H8OETX1PZFWFZPMI5IRCF--
+

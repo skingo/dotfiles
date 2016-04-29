@@ -1,0 +1,161 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.61.1 with SMTP id l1csp8097lbr;
+        Sun, 21 Apr 2013 21:24:15 -0700 (PDT)
+X-Received: by 10.194.92.176 with SMTP id cn16mr29970898wjb.51.1366604655287;
+        Sun, 21 Apr 2013 21:24:15 -0700 (PDT)
+Return-Path: <thomas.ringhoffer@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.15.18])
+        by mx.google.com with ESMTP id x41si28862094eey.82.2013.04.21.21.24.14;
+        Sun, 21 Apr 2013 21:24:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of thomas.ringhoffer@gmx.de designates 212.227.15.18 as permitted sender) client-ip=212.227.15.18;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of thomas.ringhoffer@gmx.de designates 212.227.15.18 as permitted sender) smtp.mail=thomas.ringhoffer@gmx.de
+Received: from mailout-de.gmx.net ([10.1.76.10]) by mrigmx.server.lan
+ (mrigmx001) with ESMTP (Nemesis) id 0MVGca-1U0zku0RbS-00YffE for
+ <ingo.skupin@gmail.com>; Mon, 22 Apr 2013 06:24:14 +0200
+Received: (qmail invoked by alias); 22 Apr 2013 04:24:13 -0000
+Received: from HSI-KBW-149-172-176-96.hsi13.kabel-badenwuerttemberg.de (EHLO [192.168.178.35]) [149.172.176.96]
+  by mail.gmx.net (mp010) with SMTP; 22 Apr 2013 06:24:13 +0200
+X-Authenticated: #764207
+X-Provags-ID: V01U2FsdGVkX19p2Nkx8Ldp/AFna4Bd6dcMwNDo+gLaKbdK4cVmop
+	50SwnO3PLsd5ro
+Subject: Fwd: JBO-Proben
+References: <trinity-4c237521-8dab-4c94-aa40-e1a59cdc5432-1366574893026@3capp-gmx-bs47>
+From: Thomas Ringhoffer <thomas.ringhoffer@gmx.de>
+Content-Type: multipart/alternative;
+	boundary=Apple-Mail-0E8FE05B-6FBD-4934-A283-FC7DE98BEA21
+X-Mailer: iPad Mail (10B329)
+Message-Id: <82101992-78F2-451D-B66F-BCDA8E5A27CE@gmx.de>
+Date: Mon, 22 Apr 2013 06:28:00 +0200
+To: #20 JBO <thomas.ringhoffer@gmx.de>,
+ Kerstin Hummel<kerstin.hummel@kabelbw.de>,
+ Leona Skupin<leona.skupin@web.de>,
+ Vera Ringhoffer<vera.ringhoffer@web.de>,
+ Alina Bosch<alina.bosch@hotmail.de>,
+ Mirjam Hemberger<mirjam-hemberger@t-online.de>,
+ Mirjam Hemberger<miri.hemberger@online.de>,
+ Laura Henzler<laura.henzler@kabelbw.de>,
+ Katharina Gotthardt<kathi.gotthardt@gmx.de>,
+ Julia Hangkamer-Kühnen<jule.hk@googlemail.com>,
+ Heike Besenfelder<heikebesenfelder@gmx.de>,
+ Anika Umhey<anika.umhey@gmx.de>,
+ Lisa Ensminger<lisaensminger@web.de>,
+ Lisa Ensminger<lisaensminger@gmx.de>,
+ Natalie Machanek<nmachanek@web.de>,
+ Sabrina Machanek<smachanek@web.de>,
+ Ulrike Jost<ulrikejost97@gmx.de>,
+ Ulrike Jost<umaajost@t-online.de>,
+ Sofia Gommel<sofia-gommel@web.de>,
+ Helena Kiltz<helenakiltz@web.de>,
+ Tamara Schweizer<tamara-schweizer@gmx.de>,
+ Sarah Ringhoffer<sarah.ringhoffer@gmx.de>,
+ Elena Groß<ele.gross@gmx.de>,
+ Caroline Machanek<cmachanek@web.de>,
+ Jasmina Andorf<jadorf@gmx.de>,
+ Melanie Hauser<melanie.hauser@gmx.net>,
+ Elisa Lottig<elisa.lottig@kabelbw.de>,
+ Shari Huber<sharilouisa@gmx.de>,
+ Tobias Lauster<tobias.lauster@gmx.de>,
+ Tim Welzl<tim.tja@t-online.de>,
+ Tim Welzl<no.samt@t-online.de>,
+ Rebecca Sonn<rebecca.sonn@web.de>,
+ Katharina Maier<KML.Ma@web.de>,
+ Ingo Skupin<ingo.skupin@gmail.com>,
+ Ingo Skupin<ingo.skupin@web.de>,
+ Dale Grill<dalegrill@googlemail.com>,
+ Dale Grill<dalegrill@gmx.net>,
+ Dale Grill<dalegrill@gmail.com>,
+ Andreas Pleger<A.Pleger@foni.net>,
+ Jonas Pfeifer<pfeifer.jonas@googlemail.com>,
+ Jonas Pfeifer<pfeifer.jonas@web.de>,
+ Jonas Pfeifer<pfeifer.jonas@gmail.com>,
+ Jens Ringhoffer<jens.ringhoffer@gmx.de>,
+ Sarah Keck<sarahmagdalena_keck@web.de>,
+ Philipp Mayer<mayer-fertigungstechnik@t-online.de>,
+ Louis Groß<23louis05@gmx.de>,
+ Louis Groß<dagmar.koeber@gmx.de>,
+ Teresa Pleger<teresa.pleger@web.de>,
+ Julian Sparrer<julian-sparrer@web.de>,
+ Benjamin Deuschle<benjamin.deuschle@gmx.de>,
+ Benjamin Deuschle<benjamin.deuschle@web.de>,
+ Alexander Beck<beck.notzingen@t-online.de>,
+ Jörg Ruff<joergruff@web.de>,
+ Klaus Jürgen Weiler<GWeiler@t-online.de>,
+ Dominik Pleger<D-Pleger@web.de>,
+ Simon Keck<simon_keck@web.de>,
+ Simon Keck<simon.keck92@googlemail.com>,
+ Maximilian Scherbaum<max_vom_haldenberg@gmx.de>,
+ Maximilian Scherbaum<maximilian.scherbaum@web.de>,
+ Sebastian Kasputtis<skas@gmx.de>,
+ Günther Claß<guenther_class@gmx.de>,
+ Kay Kirchmann<kay.kirchmann@gmx.de>,
+ Kay Kirchmann<master.killer@gmx.de>,
+ Patrick Vollmer<paddie-vollmer@web.de>,
+ Alexander Zweifel<a.zweifel95@gmail.com>,
+ Marvin Bombis<MarvinBombis@web.de>,
+ Alexander Klon<alex.sebastian-k@web.de>
+Content-Transfer-Encoding: 7bit
+Mime-Version: 1.0 (1.0)
+X-Y-GMX-Trusted: 0
+
+
+--Apple-Mail-0E8FE05B-6FBD-4934-A283-FC7DE98BEA21
+Content-Type: text/plain;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+
+> Hallo,
+>=20
+> bis zum D=C3=A4tscherfest sind es zwar 3 Dienstage, wir haben aber nur noc=
+h 2 Proben
+>=20
+> Bitte kommt am Dienstag in die JBO-Probe, Rainer wird die Probe leiten, da=
+ ich beruflich in M=C3=BCnchen sein werde.
+>=20
+> Am Dienstag, 30.April, findet in der Gemeindehalle der "Tanz in den Mai" s=
+tatt. Deshalb wird an diesem Dienstag keine Probe stattfinden.
+>=20
+> Am Dienstag, 7.Mai, werde ich wieder da sein.
+>=20
+> Deshalb besucht bitte unbedingt die 2 Proben. Danke.
+>=20
+> Herzlichen Gru=C3=9F
+>=20
+> Thomas
+
+--Apple-Mail-0E8FE05B-6FBD-4934-A283-FC7DE98BEA21
+Content-Type: text/html;
+	charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<html><head><meta http-equiv=3D"content-type" content=3D"text/html; charset=3D=
+utf-8"></head><body dir=3D"auto"><div><br></div><blockquote type=3D"cite"><d=
+iv><div style=3D"font-family: Verdana;font-size: 12.0px;"><div>
+<div name=3D"quote" style=3D"margin:10px 5px 5px 10px; padding: 10px 0 10px 1=
+0px; border-left:2px solid #C3D9E5; word-wrap: break-word; -webkit-nbsp-mode=
+: space; -webkit-line-break: after-white-space;">
+<div style=3D"margin:0 0 10px 0;">Hallo,</div>
+
+<div name=3D"quoted-content"><br>
+bis zum D=C3=A4tscherfest sind es zwar 3 Dienstage, wir haben aber nur noch 2=
+ Proben<br>
+<br>
+Bitte kommt am Dienstag in die JBO-Probe, Rainer wird die Probe leiten, da i=
+ch beruflich in M=C3=BCnchen sein werde.<br>
+<br>
+Am Dienstag, 30.April, findet in der Gemeindehalle der "Tanz in den Mai" sta=
+tt. Deshalb wird an diesem Dienstag keine Probe stattfinden.<br>
+<br>
+Am Dienstag, 7.Mai, werde ich wieder da sein.<br>
+<br>
+Deshalb besucht bitte unbedingt die 2 Proben. Danke.<br>
+<br>
+Herzlichen Gru=C3=9F<br>
+<br>
+Thomas</div>
+</div>
+</div></div>
+</div></blockquote></body></html>=
+
+--Apple-Mail-0E8FE05B-6FBD-4934-A283-FC7DE98BEA21--

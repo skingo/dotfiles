@@ -1,0 +1,119 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp317063pdb;
+        Wed, 23 Oct 2013 15:54:07 -0700 (PDT)
+X-Received: by 10.15.44.202 with SMTP id z50mr608673eev.68.1382568846466;
+        Wed, 23 Oct 2013 15:54:06 -0700 (PDT)
+Return-Path: <thomas.ringhoffer@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.17.21])
+        by mx.google.com with ESMTPS id z7si22102175eey.116.2013.10.23.15.54.05
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 23 Oct 2013 15:54:06 -0700 (PDT)
+Received-SPF: pass (google.com: domain of thomas.ringhoffer@gmx.de designates 212.227.17.21 as permitted sender) client-ip=212.227.17.21;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of thomas.ringhoffer@gmx.de designates 212.227.17.21 as permitted sender) smtp.mail=thomas.ringhoffer@gmx.de
+Received:  from [192.168.178.35] ([109.192.67.99]) by mail.gmx.com (mrgmx003)
+ with ESMTPSA (Nemesis) id 0MaqqY-1VFo2m1Cbi-00KMK4 for
+ <ingo.skupin@gmail.com>; Thu, 24 Oct 2013 00:54:05 +0200
+Subject: Probetag am Samstag
+From: Thomas <thomas.ringhoffer@gmx.de>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPad Mail (11A501)
+Message-Id: <564920DC-3E16-4C7B-A6C6-6FB8E8D09068@gmx.de>
+Date: Thu, 24 Oct 2013 00:53:51 +0200
+To: #10 BO Alle <rainer.pfister@me.com>,
+ Dietmar Späth<dietmar.spaeth@freenet.de>,
+ Vera Ringhoffer<vera.ringhoffer@web.de>,
+ Nora Walz<nora7487@t-online.de>,
+ Leona Skupin<leona.skupin@web.de>,
+ Julia Hangkamer-Kühnen<jule.hk@googlemail.com>,
+ Laura Henzler<laura.henzler@kabelbw.de>,
+ Kerstin Hummel<kerstin.hummel@kabelbw.de>,
+ Thomas Ringhoffer<thomas.ringhoffer@gmx.de>,
+ Sabrina Reimers<sabrinareimers@gmx.de>,
+ Timo Frank<timo.frank9@gmx.de>,
+ Marina Guber<marina_guber@web.de>,
+ Claudia Holzinger<clholzinger@t-online.de>,
+ Diana Matrohs<diana.matrohs@t-online.de>,
+ Sven Kebache<sven.kebache@web.de>,
+ Sabrina Machanek<smachanek@web.de>,
+ Natalie Machanek<nmachanek@web.de>,
+ Claudia Frank<claudia.matthias@gmx.de>,
+ Claudia Frank<claudiundmatze@arcor.de>,
+ Helena Kiltz<helenakiltz@web.de>,
+ Tamara Schweizer<tamara-schweizer@gmx.de>,
+ Ulrike Jost<ulrikejost97@gmx.de>,
+ Caroline Machanek<cmachanek@web.de>,
+ Gudrun Benzel<info@benzel-raum.de>,
+ Matthias Frank<matzefrank@gmx.de>,
+ René Kirchmann<rene_kirchmann@gmx.de>,
+ René Kirchmann<rene.kirchmann@googlemail.com>,
+ Tobias Lauster<tobias.lauster@gmx.de>,
+ Christoph Maier<OperatorFromHell@gmx.de>,
+ Ingo Skupin<ingo.skupin@gmail.com>,
+ Ingo Skupin<ingo.skupin@web.de>,
+ Dale Grill<dalegrill@gmx.net>,
+ Dale Grill<dalegrill@gmail.com>,
+ Peter Jung<Peter.Jung@aei.com>,
+ Daniel Ruff<daniel.ruff@web.de>,
+ Markus Hoyler<mdmhoyler@gmx.de>,
+ Ludwig Bippus<Ludwig239@gmx.de>,
+ Manuel Ruff<strafejump@gmx.de>,
+ Joachim Klima<jklima@web.de>,
+ Joachim Klima<jo.klima@googlemail.com>,
+ Jens Ringhoffer<jens.ringhoffer@gmx.de>,
+ Sarah Keck<sarahmagdalena_keck@web.de>,
+ Jörg Ruff<joergruff@web.de>,
+ Markus Mezger<markus_me@gmx.de>,
+ Jürgen Scherbaum<familie.scherbaum@kabelbw.de>,
+ Jonas Pfeifer<pfeifer.jonas@gmail.com>,
+ Stefan Ringhoffer<geckanful@googlemail.com>,
+ Stefan Ringhoffer<stefan.ringhoffer@hotmail.de>,
+ Benjamin Deuschle<benjamin.deuschle@gmx.de>,
+ Jürgen Ringhoffer<ringhoffer@gmx.net>,
+ Timo Eberle<timo_eberle@web.de>,
+ Wolfgang Ruff<freestylerrulez@arcor.de>,
+ Wolfgang Ruff<wolfgangruff@gmx.de>,
+ Georg Frank<georgfrank@gmx.net>,
+ Georg Frank<gfi-industrievertretung@t-online.de>,
+ Klaus Jürgen Weiler<GWeiler@t-online.de>,
+ Sebastian Kasputtis<skas@gmx.de>,
+ Werner Scherbaum<fahna-maro@web.de>,
+ Maximilian Scherbaum<max_vom_haldenberg@gmx.de>,
+ Maximilian Scherbaum<maximilian.scherbaum@web.de>,
+ Simon Keck<simon.keck92@googlemail.com>,
+ Manfred Ruff<manne.ruff@web.de>,
+ Kay Kirchmann<kay.kirchmann@gmx.de>,
+ Kay Kirchmann<master.killer@gmx.de>,
+ Edmund Deuschle<edmund.deuschle@gmx.de>,
+ Günther Claß<guenther_class@gmx.de>,
+ Rainer Wendling<rainer@rainer-wendling.de>,
+ Ralf Wendling<wendling.ralf@gmail.com>,
+ Alexander Zweifel<a.zweifel95@gmail.com>,
+ Alexander Klon<alex.sebastian-k@web.de>,
+ Patrick Vollmer<paddie-vollmer@web.de>,
+ Britta Braun<brittabraun@ymail.com>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+X-Provags-ID:  V03:K0:AsTj+ovF9enNOGsI4e3moFKCF5RVNWeRv06VCXUaXe+rOLdBHck
+ TNcLYILC5EIAnfOek4LW2S1wIp5w9H1WsPc/3KqckrGshg28L3QRmnPzeY58fOtTa9N6tPx
+ yuMmxkPjt9LyykjE4jfa/D2K6P4dliYjJy4P+MMwJiEP2fGkoODlp1yxwI+tT57ws42gZab
+ iTh8YvTEyc3fyFIw1lNAA==
+
+Hallo an alle,
+
+Hiermit m=C3=B6chte ich nochmals alle an den Probetag am Samstag in der Geme=
+indehalle erinnern.
+Beginn ist um 9:30 Uhr. Ab 13 Uhr wird gemeinsam mit Nowelli geprobt.
+Vermutlich ist ca. 17 Uhr Ende. Dann werden noch Nowelli mit kleiner Combo p=
+roben.
+
+Wer Kaffee trinken m=C3=B6chte, bitte denkt daran, eine eigene Tasse mitzubr=
+ingen.
+
+Bitte kommt alle.
+
+Herzlichen Gru=C3=9F
+Thomas
+

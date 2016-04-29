@@ -1,0 +1,393 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp146665pdb;
+        Mon, 7 Oct 2013 13:19:11 -0700 (PDT)
+X-Received: by 10.15.48.67 with SMTP id g43mr52197373eew.17.1381177149228;
+        Mon, 07 Oct 2013 13:19:09 -0700 (PDT)
+Return-Path: <stevekoch@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.17.20])
+        by mx.google.com with ESMTPS id h5si24779515eeg.200.1969.12.31.16.00.00
+        (version=TLSv1.2 cipher=AES128-SHA bits=128/128);
+        Mon, 07 Oct 2013 13:19:09 -0700 (PDT)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 212.227.17.20 as permitted sender) client-ip=212.227.17.20;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of stevekoch@gmx.de designates 212.227.17.20 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received:  from Arbeitstier ([95.208.248.179]) by mail.gmx.com (mrgmx101) with
+ ESMTPA (Nemesis) id 0MIzGn-1VVD4i1545-002Uf1 for <ingo.skupin@gmail.com>;
+ Mon, 07 Oct 2013 22:19:08 +0200
+Message-ID: <489964EB790746959F1134E9448B1D76@Arbeitstier>
+From: <stevekoch@gmx.de>
+To: "Anja Rentz" <anjarentz@arcor.de>,
+	<rs@mut-anhaenger.de>,
+	<f.a.brodbeck@kabelbw.de>,
+	<luisa.schroth@web.de>,
+	<hennrich-paul@web.de>,
+	<sara.eberspaecher@live.de>,
+	<sarah-petzoldt@freenet.de>,
+	<tanja.beichter@gmx.de>,
+	<anja-s96@web.de>,
+	<david.eisele@arcor.de>,
+	<ralf.krasselt@arcor.de>,
+	<annika.steib@hotmail.com>,
+	<christine.dieter.bayer@t-online.de>,
+	<sonja.christiane@web.de>,
+	<uli.mueller@online.de>,
+	<luisa.frietsch@t-online.de>,
+	"Felix Wetzel" <felix@fam-wetzel.com>,
+	<benjamin@steiner.org>,
+	<vera.ringhoffer@web.de>,
+	<v.tomschi@web.de>,
+	"Lotta Zeiger" <lotta@zeiger-web.de>,
+	"Paul Jacot" <paul.jacot@gmx.net>,
+	"Th. Rotter" <T.Rotter@t-online.de>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	<ingo.skupin@gmail.com>,
+	"Vanessa Wuensch" <vanessa.wuensch@web.de>,
+	"Luisa Engel" <engel.luisa@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	<Baurlu@web.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	<nmachanek@web.de>,
+	<smachanek@web.de>,
+	<uli__kurz@t-online.de>,
+	"Christian Baur" <chrisbaur@hotmail.de>,
+	"Marian Basta" <m-basta@web.de>,
+	<jakob.krenn@t-online.de>,
+	"Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+	<felix.koschei@freenet.de>,
+	<oliiiiver@hotmail.de>,
+	<jonaskolibius@web.de>,
+	<janina_schott@web.de>,
+	"Philip Koschei" <koschi_99@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	=?utf-8?Q?Michael_Pf=C3=A4nder?= <Michi110793@aol.com>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Christoph Korschinek" <christoph@korschinek.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	"Annika Vesenmaier" <an.ve@arcor.de>,
+	=?utf-8?Q?David_K=C3=BCchle?= <D1V23@aol.com>,
+	"Lisa Richter" <lisarichter93@hotmail.de>,
+	=?utf-8?Q?Philipp_Gr=C3=B6ber?= <groeber_95@web.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	"Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Kristina Kraemer" <kristina.kraemer@akris.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	<nils.fischer98@gmx.de>,
+	<david@kuechle-salach.de>,
+	"Thorsten Schmidt" <Thorsten.Schmidt_Schmidt@web.de>,
+	"Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+	"Tobias Beichter" <tobias.beichter@gmx.de>,
+	"Christine Zeller" <chrisi.zeller@web.de>,
+	"Matthias Albrecht" <matze.albrecht@web.de>,
+	"Carolin Brodbeck" <carolin.brodbeck@freenet.de>,
+	<Piluep@gmx.de>,
+	<florian@r-k-r.de>,
+	<nina.fischer96@gmx.de>,
+	<miroll@arcor.de>,
+	<se.pree@web.de>,
+	<katja@landhaeusser.co>,
+	<bastian.otto@fnks.de>,
+	"Alexander Zweifel" <a.zweifel95@googlemail.com>,
+	<tobias.fath@googlemail.com>,
+	<ilona.borchardt@gmx.de>,
+	<s-haberkern@gmx.de>,
+	<luisa.heilemann@gmx.de>,
+	<bene.strambach@t-online.de>,
+	<fabi.lang@gmx.net>,
+	<richardg.xyz@gmail.com>,
+	"Theresa Siegler" <theresa.siegler@googlemail.com>,
+	"Lisa Speidel" <lisaspeidel@t-online.de>,
+	"Andreas Kerner" <kerner.owen@web.de>
+Subject: Termine KJO Probenwochenende
+Date: Mon, 7 Oct 2013 22:19:01 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_001B_01CEC3AB.3987AD20"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+X-Provags-ID:  V03:K0:RgR/zrdhUg10OsYtuKg+FRR+95Ed84VqKMPrnVPcYY0UUH51Bph
+ 5iiQ/an3+aarH4/dgdTh1l6AK1/ftd6/+/QKiGeH6Qdrr/jQv7jBnbjHFuVJf2tjvTqafGD
+ Q7R3QAhXbWrVlgoQ+MDCvCDQAmuvwCyBu59daUIin7BrXf7UyBV7YFZuY9DEhu3lpY6VCoW
+ S0I9tT54MkC2vo7+dyeAg==
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_001B_01CEC3AB.3987AD20
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+hier nochmal der aktuelle vollst=C3=A4ndige Zeitplan f=C3=BCrs ProWe
+Freitag 18.10.2013
+Satzprobe nur BLECH PLUS TIEFES HOLZ (Bassklarinetten und Fagotte) 19:30 =
+=E2=80=93 22:00 Uhr im Probelokal in Wernau
+Samstag 19.10.2013
+9:00 =E2=80=93 15:15 Uhr Satzproben in allen Registern mit Dozenten. =
+Spielbeginn ist um 9:00 Uhr! Die Probe findet wie gewohnt in der =
+Fritz-Ruoff-Schule statt.
+Mittagspause
+ca. 15:15 Uhr =E2=80=93 17:45 Uhr Gesamtes Holz und Blech Satzproben.
+18:00 =E2=80=93ca. 19:00 Uhr Gesamtprobe
+Sonntag
+9:00 =E2=80=93 ca. 16:00 Uhr Gesamtprobe Fritz-Ruoff-Schule.
+Nochmal die Bitte an jeden seine Stimme gut auf dieses Wochenende =
+vorzubereiten, es bringt leider sehr wenig wenn sich die Dozenten noch =
+mit technischen Schwierigkeiten herumschlagen m=C3=BCssen.
+Wir haben dieses mal wieder sehr gute Dozenten gewinnen k=C3=B6nnen. =
+Dieses ProWe ist f=C3=BCr unseren Erfolg in B=C3=BChl entscheidend, was =
+allerdings nur gelingen kann wenn wir m=C3=B6glichst vollz=C3=A4hlig =
+proben k=C3=B6nnen.
+Noch eine Probe die bitte jeder m=C3=B6glich machen sollte:
+Freitag 8.11.2013 um 19:30 Uhr in Wernau!!!
+Das ist sozusagen die Generalprobe f=C3=BCr den Wettbewerb.
+Wir werden am Tag des Wettbewerbs (9.11) morgens vor der Abfahrt =
+nochmals eine kurze Probe einlegen. Diese findet auch in Wernau statt =
+und beginnt voraussichtlich um 8:30 Uhr.=20
+Bis zum Probenwochenende,
+Viele Gr=C3=BC=C3=9Fe
+Stefan 
+------=_NextPart_000_001B_01CEC3AB.3987AD20
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Hallo=20
+zusammen,</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">hier=20
+nochmal der aktuelle vollst=C3=A4ndige Zeitplan f=C3=BCrs =
+ProWe</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"><STRONG>Freitag=20
+18.10.2013</STRONG></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"><STRONG></STRONG>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Satzprobe=20
+nur BLECH PLUS TIEFES HOLZ (Bassklarinetten und Fagotte) 19:30 =E2=80=93 =
+22:00 Uhr im=20
+Probelokal in Wernau</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"><STRONG>Samstag=20
+19.10.2013</STRONG></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"><STRONG></STRONG>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">9:00=20
+=E2=80=93 15:15 Uhr Satzproben in allen Registern mit Dozenten. =
+Spielbeginn ist um 9:00=20
+Uhr! Die Probe findet wie gewohnt in der Fritz-Ruoff-Schule =
+statt.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Mittagspause</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">ca.=20
+15:15 Uhr =E2=80=93 17:45 Uhr Gesamtes Holz und Blech =
+Satzproben.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">18:00=20
+=E2=80=93ca. 19:00 Uhr Gesamtprobe</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"><STRONG>Sonntag</STRONG></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"><STRONG></STRONG>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">9:00=20
+=E2=80=93 ca. 16:00 Uhr Gesamtprobe Fritz-Ruoff-Schule.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Nochmal=20
+die Bitte an jeden seine Stimme gut auf dieses Wochenende vorzubereiten, =
+es=20
+bringt leider sehr wenig wenn sich die Dozenten noch mit technischen=20
+Schwierigkeiten herumschlagen m=C3=BCssen.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Wir=20
+haben dieses mal wieder sehr gute Dozenten gewinnen k=C3=B6nnen. Dieses =
+ProWe ist f=C3=BCr=20
+unseren Erfolg in B=C3=BChl entscheidend, was allerdings nur gelingen =
+kann wenn wir=20
+m=C3=B6glichst vollz=C3=A4hlig proben k=C3=B6nnen.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Noch=20
+eine Probe die bitte jeder m=C3=B6glich machen sollte:</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"><STRONG>Freitag=20
+8.11.2013 um 19:30 Uhr in Wernau!!!</STRONG></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"><STRONG></STRONG>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Das=20
+ist sozusagen die Generalprobe f=C3=BCr den Wettbewerb.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Wir=20
+werden am Tag des Wettbewerbs (9.11) morgens vor der Abfahrt nochmals =
+eine kurze=20
+Probe einlegen. Diese findet auch in Wernau statt und beginnt =
+voraussichtlich um=20
+8:30 Uhr. </DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Bis=20
+zum Probenwochenende,</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Viele=20
+Gr=C3=BC=C3=9Fe</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Stefan</DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline"></DIV>&nbsp;</DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_001B_01CEC3AB.3987AD20--
+

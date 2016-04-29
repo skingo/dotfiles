@@ -1,0 +1,169 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.108.207 with SMTP id h198csp656879ivc;
+        Sun, 24 Apr 2016 11:04:23 -0700 (PDT)
+X-Received: by 10.194.90.3 with SMTP id bs3mr30740729wjb.105.1461521063648;
+        Sun, 24 Apr 2016 11:04:23 -0700 (PDT)
+Return-Path: <info@musikverein-notzingen.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id ad3si20154092wjc.239.2016.04.24.11.04.23
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 24 Apr 2016 11:04:23 -0700 (PDT)
+Received-SPF: neutral (google.com: 212.227.15.4 is neither permitted nor denied by best guess record for domain of info@musikverein-notzingen.de) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@musikverein-notzingen.de;
+       spf=neutral (google.com: 212.227.15.4 is neither permitted nor denied by best guess record for domain of info@musikverein-notzingen.de) smtp.mailfrom=info@musikverein-notzingen.de
+Received: from [212.227.15.17] ([212.227.15.17]) by mx-ha.web.de (mxweb005)
+ with ESMTPS (Nemesis) id 0M5uwr-1beWw201Jx-00xsyZ for
+ <ingo.skupin@gmail.com>; Sun, 24 Apr 2016 20:04:23 +0200
+Received: from mo4-p04-ob.smtp.rzone.de ([81.169.146.176]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0Lynwt-1bp1Zw01CB-016AQn for
+ <ingo.skupin@web.de>; Sun, 24 Apr 2016 20:04:23 +0200
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; t=1461521062; l=1835;
+	s=domk; d=musikverein-notzingen.de;
+	h=Content-Type:MIME-Version:Subject:To:Reply-To:From:Date;
+	bh=m0GgXKhu93iOA1v9IfbiZgiHR7bQUHJ2F/Y7D+AMLB0=;
+	b=ApT12fNHfU39mp67No8PrxyMyQmYd9CPSM/gSO2VyT4XnxjhZqzudGitw4/Tortxuqg
+	TOdiD81Bk6oSI7g6YvjVbBkgjyFzQ6q5gg0ggFx9pC9RIv7bZXHFr1Icux3Yu5fOVWldo
+	HFPC8EPCHKgcLxrH3SVfYrGnaudGC+xjf3s=
+X-RZG-CLASS-ID: mo04
+X-RZG-AUTH: :JWICemClbuyO56osRnRUFLbRpRCxaQGqBEGe5oFuFOTsHwwyK1cEoZT6a/WEQZD5UbOv8+AxbUc=
+Received: from patina.store (com4.strato.de [81.169.145.237])
+	by smtp-ox.front (RZmta 37.24 AUTH)
+	with ESMTPSA id Z01207s3OI3rb3r
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-SHA (curve X9_62_prime256v1 with 256 ECDH bits, eq. 3072 bits RSA))
+	(Client did not present a certificate);
+	Sun, 24 Apr 2016 20:03:53 +0200 (CEST)
+Date: Sun, 24 Apr 2016 20:03:53 +0200 (CEST)
+From: Musikverein Notzingen <info@musikverein-notzingen.de>
+Reply-To: Musikverein Notzingen <info@musikverein-notzingen.de>
+To: "Andorf, Jasmina" <jadorf@gmx.de>, 
+	"Ansorge, Anna" <anna.ansorge@t-online.de>, 
+	"Berber, Isil" <f.berber@gmx.de>, 
+	"Besenfelder, Heike" <heikebesenfelder@gmx.de>, 
+	"Bombis, Marvin" <MarvinBombis@web.de>, 
+	"Braun, Britta" <brittabraun@ymail.com>, 
+	=?UTF-8?Q?=22Class=2C_G=C3=BCnther=22?= <guenther_class@gmx.de>, 
+	"Deuschle, Benjamin" <benjamin.deuschle@gmx.de>, 
+	"Diehl, Niklas" <wir@lars-diehl.de>, 
+	"Ensminger, Lisa" <lisaensminger@gmx.de>, 
+	"Gardian, Sara" <tanja.gardian@gmx.de>, 
+	"Gross, Elena" <ele.gross@gmx.de>, 
+	"Gross, Lotta" <dagmar.koeber@gmx.de>, 
+	"Grundmann, Lena" <lena.grundmann@t-online.de>, 
+	"Hagmayer, Marlene" <silke.hagmayer@hagmayer.de>, 
+	"Hauser, Melanie" <melanie.hauser@gmx.net>, 
+	"Hornig, Mathis" <familie_hornig@t-online.de>, 
+	"Huber, Shari" <sharilouisa@gmx.de>, 
+	"Jagiella, Max" <susanne@schullerer.de>, 
+	"Jost, Ulrike" <ulrikejost97@gmx.de>, 
+	"Keck, Sarah" <sarahmagdalena_keck@web.de>, 
+	"Keck, Simon" <simon.keck92@googlemail.com>, 
+	"Kiltz, Emmi-Lyn" <ursel.rudolf@kiltz-bauunternehmung.de>, 
+	"Kiltz, Helena" <helenakiltz@web.de>, 
+	"Kirchmann, Kay" <kay.kirchmann@gmx.de>, 
+	"Klon, Alexander" <babylonis.alex@googlemail.com>, 
+	"Kurz, Leni" <be.ku.no@freenet.de>, 
+	"Landhaeusser, Klara" <t.landhaeusser@gmx.de>, 
+	"Lauster, Tobias" <tobias.lauster@gmx.de>, 
+	"Loser, Maja" <elke.loser@gmx.de>, 
+	"Machanek, Caroline" <cmachanek@web.de>, 
+	"Machanek, Natalie" <nmachanek@web.de>, 
+	"Martini, Julius" <martini.andrea@arcor.de>, 
+	"Mayer, Philipp" <mayer-fertigungstechnik@t-online.de>, 
+	"Ouerghi, Stella" <nette.o@web.de>, 
+	"Pfeifer, Jonas" <pfeifer.jonas@gmail.com>, 
+	"Pleger, Andreas" <A.Pleger@foni.net>, 
+	"Pleger, Dominik" <D-Pleger@web.de>, 
+	"Pleger, Theresa" <teresa.pleger@web.de>, 
+	"Prell, Paula" <prell-notzingen@web.de>, 
+	"Ringhoffer, Jens" <jens.ringhoffer@gmx.de>, 
+	"Ringhoffer, Sarah" <sarah.ringhoffer@gmx.de>, 
+	"Ringhoffer, Stefan" <stefan.ringhoffer@hotmail.de>, 
+	"Ringhoffer, Thomas" <thomas.ringhoffer@gmx.de>, 
+	"Ringhoffer, Vera" <vera.ringhoffer@web.de>, 
+	"Schaich, Oliver" <Oliiiiver@hotmail.de>, 
+	"Scherbaum, Maximilian" <familie.scherbaum@web.de>, 
+	"Schur, Lennart Reik" <karin.schur@googlemail.com>, 
+	"Schweizer, Tamara" <tamara-schweizer@gmx.de>, 
+	"Siegler, Jasmin" <siegler@kabelbw.de>, 
+	"Skupin, Ingo" <ingo.skupin@web.de>, 
+	"Skupin, Leona" <leona.skupin@web.de>, 
+	"Spanninger, Lea Marie" <simone@spanninger.de>, 
+	"Steinbrenner, Celina" <tdsteinbrenner@gmx.de>, 
+	"Stern, Tom" <family.stern@online.de>, 
+	"Vollmer, Patrick" <paddie-vollmer@web.de>, 
+	"Weiler, Andreas" <GWeiler@t-online.de>, 
+	"Weiler, Klaus" <klausweiler321@gmail.com>, 
+	"Wild, Lara-Sophie" <diewilden@kabelbw.de>, 
+	"Windisch, Ajana" <swindisch@kabelbw.de>, 
+	"Wollny, Julia" <wollny.julia@me.com>, 
+	"Zweifel, Alexander" <a.zweifel95@gmail.com>, 
+	Verteiler_JBO <Verteiler_JBO@musikverein-notzingen.de>
+Message-ID: <1923726580.1395282.1461521033454.JavaMail.open-xchange@patina.store>
+Subject: =?UTF-8?Q?Noch_2_Proben_zum_D=C3=A4tscherfest?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1395280_1252231007.1461521033296"
+X-Priority: 3
+Importance: Medium
+X-Mailer: Open-Xchange Mailer v7.6.2-Rev51
+X-Originating-Client: open-xchange-appsuite
+X-UI-Out-Filterresults: notjunk:1;V01:K0:5MvJsr45UmY=:u+sHMriRtattplLhZBVCgP
+ 9PqfFKwR8ahZLPSCKGrsxiWUovwwOA1ysfy+IodzuzyPmFYVqjp/u1cHszclX9c4g7DZMnWDx
+ jW16jyPU7Dru7du4RO/7QerAt3boxbhVwVU7tqHW/g/Qhi5ESC5OIuvR6xR+HSOD28raCBSpW
+ 8hWPZLRWA+EMIbY7AENYk0LWBL/ECF1CDuMIRaJMmBNIN9YpQ0RxoABcJpyqq3xD8xd3inE78
+ p9m8K5hRY3PTggBwwRzv5gJ07YNpPFltDi+TcR0Vx+fC1Y7qiIGqFbPL0LA0jt7oUqPutgM5K
+ VRIiv6kVtKkm6qiJJY9tqQkcXRzLA2Ps9Szefi1MIG5Opl96P3fAIrqrMWOe84OA1JjM8DxVV
+ +dxjgdv96unKozxL1gQR+1ih7oaPe/a/7apw8/iVTWIELaP5X077HaloYFyhQGECHOu9XgM2O
+ /2xTJwOLdp7Fyp3K868Z3U8H/e753pdOxvxRbVBIr2CDdgCBK0ohJVe09DzyURsAOgQdWZMEq
+ pi62M8+VhzwZn75N54Qm0LdXjP6r3+0EToiQLz5kX77T3qr4Q5v9W4Ag34S/PypnfjUh6CChv
+ 2LTesVG7+n5jn/vW6gTfkylaurjqaD4gX06s8JbBznPD9+RQYy8g2MvxT2m6nz5W5PV6XhbDR
+ 7+fAQ0BIhx8Sy1LxcXXecOLXl5b6TByZkppFlCHj6dRxwwUTRCtnHV84mrymOne3aXvbGnN0s
+ 4KSsd6AxNbZsS55jCR4NV585bKoWlvAIqr3O9OCviyAMNannacquwsOzMrc+A8ktneg6cHgsZ
+ ITPegZdLaYwiGObc7gL0OuHLb7V1KSF47OUaOBb3R11lgUlSp9fycZxOe58678z58j+vrdgqP
+ 5+cOLUo9Xx3FdNcjgER3Kp4eAl3NzXBhw4ZkCP7kfJIVSjSQ5DM6/5Q9v53VbF9yWRg6v0JWY
+ zrmXCTOfrCx4EBoiJA4/ByT9QcqVdN1QmPOipUWme72b49K7w/IQh
+
+------=_Part_1395280_1252231007.1461521033296
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo an alle,
+
+wir haben noch 2 Proben zur Vorbereitung auf den D=C3=A4tscherfestauftritt =
+des JBO.
+
+Das JBO wird am Sonntag, 08. Mai 2016  von 13:30 - 15 Uhr auftreten.
+
+Ich bitte alle unbedingt die 2 verbleibenden Proben zu besuchen.
+
+Danke.
+
+
+Danach wird werden wir uns auf das Sommer Open Air vorbereiten.
+
+Im Jugendausschuss wurde als Thema "Irland" ausgew=C3=A4hlt.
+
+Nach dem D=C3=A4tscherfest wird es also neue St=C3=BCcke geben, entweder ir=
+ische Musik,
+oder mit Bezug zu Irland.
+
+
+Bis Dienstag
+
+Herzlichen Gru=C3=9F
+
+Thomas
+------=_Part_1395280_1252231007.1461521033296
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+ </head><body><p>Hallo an alle,<br></p><p>wir haben noch 2 Proben zur Vorbereitung auf den D&#228;tscherfestauftritt des JBO.<br></p><p>Das JBO wird am Sonntag, 08. Mai 2016&#160; von 13:30 - 15 Uhr auftreten.<br></p><p>Ich bitte alle unbedingt die 2 verbleibenden Proben zu besuchen.<br></p><p>Danke.<br></p><p><br></p><p>Danach wird werden wir uns auf das Sommer Open Air vorbereiten.<br></p><p>Im Jugendausschuss wurde als Thema &#34;Irland&#34; ausgew&#228;hlt.<br></p><p>Nach dem D&#228;tscherfest wird es also neue St&#252;cke geben, entweder irische Musik, oder mit Bezug zu Irland.<br></p><p><br></p><p>Bis Dienstag<br></p><p>Herzlichen Gru&#223;<br></p><p>Thomas<br></p></body></html>
+------=_Part_1395280_1252231007.1461521033296--

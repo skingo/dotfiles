@@ -1,0 +1,115 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.215.3 with SMTP id hc3cs55429vcb;
+        Sun, 24 Jul 2011 12:50:55 -0700 (PDT)
+Received: by 10.101.214.10 with SMTP id r10mr3294797anq.115.1311537054812;
+        Sun, 24 Jul 2011 12:50:54 -0700 (PDT)
+Return-Path: <noreply-bc04aac@plus.google.com>
+Received: from mail-yw0-f71.google.com (mail-yw0-f71.google.com [209.85.213.71])
+        by mx.google.com with ESMTPS id c17si7706788anh.136.2011.07.24.12.50.54
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 24 Jul 2011 12:50:54 -0700 (PDT)
+Received-SPF: pass (google.com: domain of noreply-bc04aac@plus.google.com designates 209.85.213.71 as permitted sender) client-ip=209.85.213.71;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of noreply-bc04aac@plus.google.com designates 209.85.213.71 as permitted sender) smtp.mail=noreply-bc04aac@plus.google.com; dkim=pass header.i=@plus.google.com
+Received: by ywa12 with SMTP id 12so4880948ywa.2
+        for <ingo.skupin@googlemail.com>; Sun, 24 Jul 2011 12:50:54 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=plus.google.com; s=beta;
+        h=mime-version:x-notifications:x-notification-id:x-sender-id
+         :x-notification-category:x-notification-type:references:date
+         :message-id:subject:from:to:content-type;
+        bh=ewRiD7T64ivT1XBYtoDAqD/Nlnr4W9a24CkEogJJ4p0=;
+        b=cxcQE1fUbM8IWNgAM04Is9w2emIapf0iaiLnhSili/tcRDfI2xyUwg11ZAqgoU8Mdi
+         iF+7T0SIcMACZhycKvDYXF8SW40zfUmE+TrbBFQWNBRrVV7Zmla7RkQJvHEmeS2z9TCm
+         3cMWbSJGcXKpRxt+xyxH3rXc/JSt3ZjRFSRws=
+MIME-Version: 1.0
+Received: by 10.52.74.73 with SMTP id r9mr1002278vdv.47.1311537054623; Sun, 24
+ Jul 2011 12:50:54 -0700 (PDT)
+X-Notifications: XEAAAACExyuLMuR5sWnNlfaUdqJE
+X-Notification-ID: z12njvcxcly0vdqzu04cjpg4wymwvpvz55c
+X-Sender-ID: 102072103001064953470
+X-Notification-Category: STREAM
+X-Notification-Type: STREAM_POST_SHARED
+References: <z12qu5eislnxsxzhv04cjpg4wymwvpvz55c@plus.google.com>
+Date: Sun, 24 Jul 2011 12:50:54 -0700 (PDT)
+Message-ID: <z12njvcxcly0vdqzu04cjpg4wymwvpvz55c@plus.google.com>
+Subject: hallo hallo. einadung
+From: "Jonas Pfeifer (Google+)" <noreply-bc04aac@plus.google.com>
+To: ingo.skupin@googlemail.com
+Content-Type: multipart/alternative; boundary=20cf3071ca6a4029d004a8d60440
+
+--20cf3071ca6a4029d004a8d60440
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+WW91IGhhdmUgcmVjZWl2ZWQgdGhpcyBtZXNzYWdlIGJlY2F1c2UgSm9uYXMgUGZlaWZlciBzaGFy
+ZWQgaXQgd2l0aCAgDQppbmdvLnNrdXBpbkBnb29nbGVtYWlsLmNvbS4NCg0KImhhbGxvIGhhbGxv
+Lg0KZWluYWR1bmciDQoNCkFjY2VwdCB0aGUgaW52aXRhdGlvbiB0byB2aWV3IHRoZSBmdWxsIHBv
+c3Q6ICANCmh0dHBzOi8vcGx1cy5nb29nbGUuY29tL18vbm90aWZpY2F0aW9ucy9lbWxpbms/ZW1y
+ZWNpcGllbnQ9MTA4MDg5Mjg3NDIxNDc3NzI1NDY0JmVtaWQ9Q09DeWdLTGdtcW9DRlEtYzNBb2RX
+Ym9TRkEmcGF0aD0lMkYxMDIwNzIxMDMwMDEwNjQ5NTM0NzAlMkZwb3N0cyUyRllTY25ZM3dCNVln
+JTNGZ3BpbnYlM0RBR1hiRkd6RnQ0QXhlRTIyRUI4aGI3X05jRHFxM0k3WjRRVGhOR1Y3RFZzUFpH
+NWlKaTBsWUxzSG4tVlQ2Vll3ZG9sMHpMMEo0YjZGUDZGajBFUVFWdk1jdE1LdnRLekI5MG1naTRF
+T3Bob0F5S1pNUF9fem82SSUyNmhsJTNEZW5fR0INCg0KVGhlIEdvb2dsZSsgcHJvamVjdCBtYWtl
+cyBzaGFyaW5nIG9uIHRoZSB3ZWIgbW9yZSBsaWtlIHNoYXJpbmcgaW4gIA0KcmVhbC1saWZlLiBM
+ZWFybiBtb3JlOiBodHRwOi8vd3d3Lmdvb2dsZS5jb20vKy9sZWFybm1vcmUvDQotLS0tLS0tLS0t
+LS0tLS0tLS0tLS0tLS0NCllvdSBoYXZlIHJlY2VpdmVkIHRoaXMgbWVzc2FnZSBiZWNhdXNlIEpv
+bmFzIFBmZWlmZXIgc2hhcmVkIGl0IHdpdGggIA0KaW5nby5za3VwaW5AZ29vZ2xlbWFpbC5jb20u
+IENsaWNrIGhlcmUgdG8gdW5zdWJzY3JpYmUgZnJvbSB0aGVzZSBlbWFpbHM6ICANCmh0dHBzOi8v
+cGx1cy5nb29nbGUuY29tL18vbm90aWZpY2F0aW9ucy9lbWxpbms/ZW1yZWNpcGllbnQ9MTA4MDg5
+Mjg3NDIxNDc3NzI1NDY0JmVtaWQ9Q09DeWdLTGdtcW9DRlEtYzNBb2RXYm9TRkEmcGF0aD0lMkZu
+b25wbHVzJTJGZW1haWxzZXR0aW5ncyUzRmdwaW52JTNEQUdYYkZHekZ0NEF4ZUUyMkVCOGhiN19O
+Y0RxcTNJN1o0UVRoTkdWN0RWc1BaRzVpSmkwbFlMc0huLVZUNlZZd2RvbDB6TDBKNGI2RlA2Rmow
+RVFRVnZNY3RNS3Z0S3pCOTBtZ2k0RU9waG9BeUtaTVBfX3pvNkklMjZlc3QlM0RBREg1dThVR2FX
+aXM3Zy1kR3ZvbHB4NGZ0RHJQLVhKeWQ3bnJyeWpFQ1hsVjAwSVlGcFJDNVBKRTNDd2NWcko2d2xP
+RUtNWnY4dHJoMGR1a2lzVXZ1TElEWWd3b0xrdUpqa3I1cUpub0RReThIWkt4cUpvRG5rSmhtRV9o
+cVRtMF9sMmVFbHI3Y0tGNDRZTVJZYjl2bWljZDVHZEljX0pkR3clMjZobCUzRGVuX0dCDQoNCg==
+--20cf3071ca6a4029d004a8d60440
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><div style=3D"border:solid 1px #dfdfdf;color:#686868;font:13px =
+Arial"><div style=3D"background-color:#fff;padding:20px;"><table cellpaddin=
+g=3D0 cellspacing=3D0><tr><td style=3D"padding-right:15px;vertical-align:to=
+p"><a href=3D"https://plus.google.com/_/notifications/emlink?emrecipient=3D=
+108089287421477725464&emid=3DCOCygKLgmqoCFQ-c3AodWboSFA&path=3D%2F102072103=
+001064953470"><img style=3D"border:solid 1px #cccccc;" width=3D"75" height=
+=3D"75" src=3D"https://lh5.googleusercontent.com/--BmUFl4myfA/AAAAAAAAAAI/A=
+AAAAAAAA64/y_IvUOXgdq0/s75-k-a/photo.jpg" /></a></td><td style=3D"width:578=
+px;color:#333;font:13px Arial;vertical-align:top;"><div style=3D"padding-bo=
+ttom:10px">hallo hallo. <br />einadung</div><a href=3D"https://plus.google.=
+com/_/notifications/emlink?emrecipient=3D108089287421477725464&emid=3DCOCyg=
+KLgmqoCFQ-c3AodWboSFA&path=3D%2F102072103001064953470%2Fposts%2FYScnY3wB5Yg=
+%3Fgpinv%3DAGXbFGzFt4AxeE22EB8hb7_NcDqq3I7Z4QThNGV7DVsPZG5iJi0lYLsHn-VT6VYw=
+dol0zL0J4b6FP6Fj0EQQVvMctMKvtKzB90mgi4EOphoAyKZMP__zo6I%26hl%3Den_GB" style=
+=3D"color:#3366CC;text-decoration:none;">View or comment on Jonas Pfeifer's=
+ post &raquo;</a><div style=3D"margin-top:20px;border-top:solid 1px #dfdfdf=
+"><div style=3D"padding:15px 0;color:#686868;font:16px Arial;">The Google+ =
+project makes sharing on the web more like sharing in real-life.</div><a st=
+yle=3D"display:inline-block;padding:7px 15px;background-color:#d44b38; colo=
+r:#fff;font-size:13px; font-weight:bold;border-radius:2px;border:solid 1px =
+#c43b28; white-space:nowrap;text-decoration:none" href=3D"https://plus.goog=
+le.com/_/notifications/emlink?emrecipient=3D108089287421477725464&emid=3DCO=
+CygKLgmqoCFQ-c3AodWboSFA&path=3D%2Fwelcome%3Fgpinv%3DAGXbFGzFt4AxeE22EB8hb7=
+_NcDqq3I7Z4QThNGV7DVsPZG5iJi0lYLsHn-VT6VYwdol0zL0J4b6FP6Fj0EQQVvMctMKvtKzB9=
+0mgi4EOphoAyKZMP__zo6I">Join Google+</a></div></td></tr></table></div><div =
+style=3D"border-top:solid 1px #dfdfdf;padding:0 20px; background-color:#f5f=
+5f5"><table cellpadding=3D0 cellspacing=3D0 style=3D"height:50px"><tbody><t=
+r><td style=3D"vertical-align:middle;width:100%; color:#636363;font:11px Ar=
+ial; line-height:120%">You have received this message because <a href=3D"ht=
+tps://plus.google.com/_/notifications/emlink?emrecipient=3D1080892874214777=
+25464&emid=3DCOCygKLgmqoCFQ-c3AodWboSFA&path=3D%2F102072103001064953470%3Fg=
+pinv%3DAGXbFGzFt4AxeE22EB8hb7_NcDqq3I7Z4QThNGV7DVsPZG5iJi0lYLsHn-VT6VYwdol0=
+zL0J4b6FP6Fj0EQQVvMctMKvtKzB90mgi4EOphoAyKZMP__zo6I%26hl%3Den_GB" style=3D"=
+color:#3366CC;text-decoration:none;">Jonas Pfeifer</a> shared it with ingo.=
+skupin@googlemail.com. <a href=3D"https://plus.google.com/_/notifications/e=
+mlink?emrecipient=3D108089287421477725464&emid=3DCOCygKLgmqoCFQ-c3AodWboSFA=
+&path=3D%2Fnonplus%2Femailsettings%3Fgpinv%3DAGXbFGzFt4AxeE22EB8hb7_NcDqq3I=
+7Z4QThNGV7DVsPZG5iJi0lYLsHn-VT6VYwdol0zL0J4b6FP6Fj0EQQVvMctMKvtKzB90mgi4EOp=
+hoAyKZMP__zo6I%26est%3DADH5u8UGaWis7g-dGvolpx4ftDrP-XJyd7nrryjECXlV00IYFpRC=
+5PJE3CwcVrJ6wlOEKMZv8trh0dukisUvuLIDYgwoLkuJjkr5qJnoDQy8HZKxqJoDnkJhmE_hqTm=
+0_l2eElr7cKF44YMRYb9vmicd5GdIc_JdGw%26hl%3Den_GB" style=3D"color:#3366CC;te=
+xt-decoration:none;">Unsubscribe</a> from these emails.<br></td><td><img sr=
+c=3D"https://ssl.gstatic.com/s2/oz/images/notifications/logo/google-plus-66=
+17a72bb36cc548861652780c9e6ff1.png" /></td></tr></tbody></table></div></div=
+></body></html>
+--20cf3071ca6a4029d004a8d60440--

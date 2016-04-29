@@ -1,0 +1,67 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.6.14 with SMTP id 14cs8535vcx;
+        Sun, 6 Nov 2011 10:02:24 -0800 (PST)
+Received: by 10.52.74.69 with SMTP id r5mr24295026vdv.51.1320602543086;
+        Sun, 06 Nov 2011 10:02:23 -0800 (PST)
+Return-Path: <matzemuellerwhm@aol.com>
+Received: from imr-ma05.mx.aol.com (imr-ma05.mx.aol.com. [64.12.100.31])
+        by mx.google.com with ESMTP id gg6si3600574vcb.124.2011.11.06.10.02.23;
+        Sun, 06 Nov 2011 10:02:23 -0800 (PST)
+Received-SPF: pass (google.com: domain of matzemuellerwhm@aol.com designates 64.12.100.31 as permitted sender) client-ip=64.12.100.31;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of matzemuellerwhm@aol.com designates 64.12.100.31 as permitted sender) smtp.mail=matzemuellerwhm@aol.com; dkim=neutral (body hash did not verify) header.i=@mx.aol.com
+Received: from mtaout-db03.r1000.mx.aol.com (mtaout-db03.r1000.mx.aol.com [172.29.51.195])
+	by imr-ma05.mx.aol.com (8.14.1/8.14.1) with ESMTP id pA6I2KfQ003855
+	for <ingo.skupin@googlemail.com>; Sun, 6 Nov 2011 13:02:20 -0500
+Received: from [192.168.2.129] (p5492FF39.dip.t-dialin.net [84.146.255.57])
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(No client certificate requested)
+	by mtaout-db03.r1000.mx.aol.com (MUA/Third Party Client Interface) with ESMTPSA id 3447BE0000B4
+	for <ingo.skupin@googlemail.com>; Sun,  6 Nov 2011 13:02:19 -0500 (EST)
+Message-ID: <4EB6CBA7.4020107@aol.com>
+Date: Sun, 06 Nov 2011 19:02:15 +0100
+From: =?ISO-8859-15?Q?Matthias_M=FCller?= <matzemuellerwhm@aol.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20110929 Thunderbird/7.0.1
+MIME-Version: 1.0
+To: Ingo Skupin gmail <ingo.skupin@googlemail.com>
+Subject: Re: ETI =?ISO-8859-15?Q?=DCbungsblatt_2_v2?=
+References: <4EB6C3A2.5000805@googlemail.de>
+In-Reply-To: <4EB6C3A2.5000805@googlemail.de>
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+x-aol-global-disposition: G
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=mx.aol.com;
+	s=20110426; t=1320602539;
+	bh=OtiOwT96HlKLGQl6pG+xakTeF6+ZoC8jB/qAwIVNczM=;
+	h=From:To:Subject:Message-ID:Date:MIME-Version:Content-Type;
+	b=CbbB4v/PJVuENT1FT604az+STkNnxi2qkeocoE2g9lkGaamu10mCBVq3joJ5o1INW
+	 dq49UyT1fwwI4kgARmEqPIvShiiDUISpCodY6Ja36oOXKQjlwCoiABxGI4BSiF1SxW
+	 HnVhqPiPiBZu5o/ZQQzntivY68v7gcKTFFuLkfdM=
+X-AOL-SCOLL-SCORE: 0:2:215971344:93952408  
+X-AOL-SCOLL-URL_COUNT: 0  
+x-aol-sid: 3039ac1d33c34eb6cbab1d7d
+X-AOL-IP: 84.146.255.57
+
+bei aufgabe 6.1 hast 1/(1/R...) im prinzip is des dann R... oder bin ich 
+grad verdreht?
+aber ((R...)^-1)^-1 is doch R... .
+Ansonsten muss ich gestehn hätt ich paar Fragezeichen, is aber schwer zu 
+erklären,
+zb is entlade Strom bei nem Kondensator identisch zum ladestrom?
+mir wäre es evtl au ne Hilfe wenn wir die aufgaben evtl mal in 
+hohlstunden zusammen durchgehen könnten,
+ist mir aufgefallen, weil solangsam fang ich glaub sonst an den 
+anschluss zu verpassen.
+Grüßle,
+Matze.
+
+Am 06.11.2011 18:28, schrieb Ingo Skupin gmail:
+> Hi,
+>
+> hier kommt meine neue Version, die Bonusaufgabe mach ich morgen, mich 
+> hat grad ein kleiner Rechenfehler fast um den Verstand gebracht^^
+> Schau es bitte mal durch und sag mir, ob du Fehler findest, meine 
+> eigenen find ich immer selber net -.-
+>
+> Grüße,
+> Ingo
+

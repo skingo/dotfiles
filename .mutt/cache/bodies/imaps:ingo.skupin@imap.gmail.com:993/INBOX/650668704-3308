@@ -1,0 +1,253 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.54.134 with SMTP id q6csp91233vcg;
+        Sun, 15 Jul 2012 09:51:41 -0700 (PDT)
+Received: by 10.216.86.74 with SMTP id v52mr4555400wee.4.1342371100164;
+        Sun, 15 Jul 2012 09:51:40 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTP id f20si18470012wiw.5.2012.07.15.09.51.39;
+        Sun, 15 Jul 2012 09:51:40 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from mailout-de.gmx.net ([213.165.64.23]) by mx-ha.web.de (mxweb102)
+ with ESMTP (Nemesis) id 0LczYi-1TYHFr2nzc-00iOfr for <ingo.skupin@gmail.com>;
+ Sun, 15 Jul 2012 18:51:39 +0200
+Received: (qmail invoked by alias); 15 Jul 2012 16:51:38 -0000
+Received: from HSI-KBW-078-043-052-231.hsi4.kabel-badenwuerttemberg.de (EHLO [192.168.0.104]) [78.43.52.231]
+  by mail.gmx.net (mp069) with SMTP; 15 Jul 2012 18:51:38 +0200
+X-Authenticated: #28002735
+X-Provags-ID: V01U2FsdGVkX1/M4stAQYvMErBWdHt+cjKMhxtz6bzoBmwOqEEpr0
+	2o6tBamVDlNEA6
+Message-ID: <5002F516.9060109@gmx.de>
+Date: Sun, 15 Jul 2012 18:51:34 +0200
+From: Benjamin Deuschle <benjamin.deuschle@gmx.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.0; rv:13.0) Gecko/20120614 Thunderbird/13.0.1
+MIME-Version: 1.0
+To: Musikverein gmx <musikverein.notzingen@gmx.de>
+CC: Forkl Fabian <fafo-lindorf@gmx.de>, Jonas Beck <jo_phy@web.de>, 
+ Katharina Maier <KML.Ma@web.de>,
+ Oliver Schaich <Oliiiiver@hotmail.de>, 
+ Rebecca Sonn <rebecca.sonn@web.de>,
+ =?ISO-8859-1?Q?Sascha_Schr=F6ter?= <sascha.schroeter2@gmx.net>, 
+ Simon Vogel <simon@vogel-lindorf.de>,
+ Thomas Ringhoffer <thomas.ringhoffer@gmx.de>, 
+ Alina Bosch <alina_bosch@hotmail.de>,
+ Alina Bosch <marion.bosch@hotmail.de>, 
+ Heike Besenfelder <heikebesenfelder@gmx.de>,
+ =?ISO-8859-1?Q?Julia_Hangkamer-K=FChnen?= <jule.hk@googlemail.com>, 
+ Katharina Gotthardt <kathi.cmgotthardt@arcor.de>,
+ Katharina Gotthardt <kathi.gotthardt@gmx.de>, 
+ Kerstin Hummel <k.a.s.h@web.de>,
+ Kerstin Hummel <kerstin.manuel@kabelbw.de>, 
+ Laura Henzler <laura.henzler@kabelbw.de>,
+ Leona Skupin <leona.skupin@t-online.de>, 
+ Leona Skupin <leona.skupin@web.de>,
+ Mirjam Hemberger <mirjam-hemberger@t-online.de>, 
+ Nora Walz <nora7487@t-online.de>,
+ Vera Ringhoffer <vera.ringhoffer@web.de>, 
+ Anika Umhey <zupu2005@arcor.de>,
+ Caroline Jasmin Machanek <cmachanek@web.de>, =?ISO-8859-1?Q?Elena_Gro=DF?=
+ <ele.gross@gmx.de>, Helena Kiltz <helenakiltz@web.de>, 
+ Jasmina Andorf <jadorf@gmx.de>,
+ Lisa Ensminger <lisaensminger@gmx.de>, Lisa Ensminger <no-enzes@web.de>, 
+ Marina Guber <marina_guber@web.de>,
+ Melanie Hauser <melanie.hauser@gmx.net>, 
+ Natalie Machanek <nmachanek@web.de>,
+ Sabrina Machanek <smachanek@web.de>, 
+ Sarah Ringhoffer <sarah.ringhoffer@gmx.de>,
+ Shari Huber <sharilouisa@gmx.de>, Sofia Gommel <sofia-gommel@web.de>, 
+ Tamara Schweizer <tamara-schweizer@gmx.de>,
+ Ulrike Jost <ulrikejost97@gmx.de>, Ulrike Jost <umaajost@t-online.de>, 
+ Annika Hauser <annika.hauser@gmx.net>,
+ Dale Grill <dalegrill@googlemail.com>, Ingo Skupin <ingo.skupin@web.de>, 
+ Samuel Bosler <ku.bosler@web.de>,
+ Tobias Lauster <tobias.lauster@gmx.de>, 
+ Alexander Beck <beck.notzingen@t-online.de>,
+ Benjamin Deuschle <benjamin.deuschle@web.de>, 
+ Stefan Ringhoffer <stefan.ringhoffer@hotmail.de>,
+ Jens Ringhoffer <jens.ringhoffer@gmx.de>, 
+ Jonas Pfeifer <jonas.pfeifer@web.de>,
+ Julian Sparrer <gabi.sparrer@gmx.de>, Ludwig Bippus <Ludwig239@gmx.de>, 
+ Manuel Ruff <strafejump@gmx.de>,
+ Philipp Mayer <mayer-fertigungstechnik@t-online.de>, 
+ Sarah Keck <beate_keck@web.de>,
+ Sarah Keck <sarahmagdalena_keck@web.de>, 
+ Teresa Pleger <teresa.pleger@web.de>,
+ =?ISO-8859-1?Q?J=F6rg_Ruff?= <joergruff@web.de>, =?ISO-8859-1?Q?Klaus_?=
+ =?ISO-8859-1?Q?J=FCrgen_Weiler?= <GWeiler@t-online.de>, 
+ familie.scherbaum@kabelbw.de, 
+ Maximilian Scherbaum <familie.scherbaum@web.de>,
+ Maximilian Scherbaum <max_vom_haldenberg@gmx.de>, 
+ Sebastian Kasputtis <skas@gmx.de>,
+ Simon Keck <simon.keck92@googlemail.com>, 
+ Edmund Deuschle <edmund.deuschle@gmx.de>,
+ =?ISO-8859-1?Q?G=FCnther_Cla=DF?= <guenther_class@gmx.de>, 
+ Kay Kirchmann <Kay.Kirchmann@gmx.de>,
+ 'Alexander Klon' <alex.sebastian-k@web.de>, 
+ Alexander Zweifel <a.zweifel95@gmail.com>,
+ Marvin Bombis <MarvinBombis@web.de>, 
+ Patrick Vollmer <paddie-vollmer@web.de>
+Subject: =?ISO-8859-1?Q?Z=FCrich_AfterShowParty?=
+References: <6A4C5A107BEF49A39C5F9D57C332CACB@MUSIKZIMMER>
+In-Reply-To: <6A4C5A107BEF49A39C5F9D57C332CACB@MUSIKZIMMER>
+Content-Type: multipart/alternative;
+ boundary="------------050501070200090806060006"
+X-Y-GMX-Trusted: 0
+
+This is a multi-part message in MIME format.
+--------------050501070200090806060006
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo alle zusammen,
+
+wir dachten uns, das des gute Ergebnis das wir in Zürich erreicht haben 
+eigentlich noch ordentlich gefeiert gehört! Als Location würden wir wie 
+mal wieder den altbewährten Schafstall bei uns nutzen. Für Essen und 
+Trinken wird selbstverständlich gesorgt, wir würden dann eben wie immer 
+ein Kässle aufstellen wo jeder sein Geld reintun darf.
+
+Zur Terminfindung gibts die Doodle Umfrage in dem Link, des ist auch 
+gleichzeitig die Zusage!
+
+http://www.doodle.com/pnederuvwne4xydn
+
+Wenn jemand noch was helfen will, zum Beispiel ein Salat mitbringen oder 
+auf- und abbauen darf gern Bescheid sagen!
+
+Für die wo nicht wissen wo es stattfindet gibt's dann noch ne 
+Anfahrtsbeschreibung!
+
+
+--------------050501070200090806060006
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+    <meta content="text/html; charset=ISO-8859-1"
+      http-equiv="Content-Type">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    <meta http-equiv="Content-Type" content="text/html;
+      charset=ISO-8859-1">
+    <!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Normal</w:View>
+  <w:Zoom>0</w:Zoom>
+  <w:HyphenationZone>21</w:HyphenationZone>
+  <w:PunctuationKerning/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:DontGrowAutofit/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Normale Tabelle";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]-->
+    <p class="MsoNormal"><span style="font-family:Calibri">Hallo alle
+        zusammen,<o:p></o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri"><o:p>&nbsp;</o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri">wir dachten
+        uns, das des
+        gute Ergebnis das wir in Z&uuml;rich erreicht haben eigentlich noch
+        ordentlich
+        gefeiert geh&ouml;rt! Als Location w&uuml;rden wir wie mal wieder den
+        altbew&auml;hrten Schafstall
+        bei uns nutzen. F&uuml;r Essen und Trinken wird selbstverst&auml;ndlich
+        gesorgt, wir
+        w&uuml;rden dann eben wie immer ein K&auml;ssle aufstellen wo jeder sein
+        Geld reintun
+        darf.<o:p></o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri">Zur
+        Terminfindung gibts
+        die Doodle Umfrage in dem Link, des ist auch gleichzeitig die
+        Zusage!<o:p></o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri"><a
+          href="http://www.doodle.com/pnederuvwne4xydn">http://www.doodle.com/pnederuvwne4xydn</a><o:p></o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri"><o:p>&nbsp;</o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri"><o:p>&nbsp;</o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri">Wenn jemand
+        noch was
+        helfen will, zum Beispiel ein Salat mitbringen oder auf- und
+        abbauen darf gern Bescheid
+        sagen!<o:p></o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri"><o:p>&nbsp;</o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri"><o:p>&nbsp;</o:p></span></p>
+    <p class="MsoNormal"><span style="font-family:Calibri">F&uuml;r die wo
+        nicht wissen wo
+        es stattfindet gibt&#8217;s dann noch ne Anfahrtsbeschreibung!<o:p></o:p></span></p>
+    <meta name="ProgId" content="Word.Document">
+    <meta name="Generator" content="Microsoft Word 11">
+    <meta name="Originator" content="Microsoft Word 11">
+    <link rel="File-List"
+href="file:///C:%5CUsers%5CBenni%5CAppData%5CLocal%5CTemp%5Cmsohtml1%5C01%5Cclip_filelist.xml">
+    <style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:swiss;
+	mso-font-pitch:variable;
+	mso-font-signature:-1610611985 1073750139 0 0 159 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;
+	text-underline:single;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;
+	mso-header-margin:35.4pt;
+	mso-footer-margin:35.4pt;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+  </body>
+</html>
+
+--------------050501070200090806060006--

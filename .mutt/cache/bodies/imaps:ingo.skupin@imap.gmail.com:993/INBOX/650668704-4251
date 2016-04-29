@@ -1,0 +1,79 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp968642vcb;
+        Wed, 14 Nov 2012 06:32:10 -0800 (PST)
+Received: by 10.14.203.132 with SMTP id f4mr87905314eeo.11.1352903529329;
+        Wed, 14 Nov 2012 06:32:09 -0800 (PST)
+Return-Path: <juliaschlag@googlemail.com>
+Received: from lvps83-169-1-93.dedicated.hosteurope.de (lvps83-169-1-93.dedicated.hosteurope.de. [83.169.1.93])
+        by mx.google.com with ESMTPS id j5si24060996eeo.122.2012.11.14.06.32.08
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 14 Nov 2012 06:32:09 -0800 (PST)
+Received-SPF: neutral (google.com: 83.169.1.93 is neither permitted nor denied by domain of juliaschlag@googlemail.com) client-ip=83.169.1.93;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 83.169.1.93 is neither permitted nor denied by domain of juliaschlag@googlemail.com) smtp.mail=juliaschlag@googlemail.com; dkim=pass header.i=@gmail.com
+Received: (qmail 26227 invoked by uid 110); 14 Nov 2012 15:32:08 +0100
+Delivered-To: 6-saxophon@concertband.de
+X-Spam-Checker-Version: SpamAssassin 3.2.4 (2008-01-01) on
+	lvps83-169-1-93.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=-0.0 required=7.0 tests=AWL,MIME_QP_LONG_LINE,
+	RCVD_IN_DNSWL_LOW autolearn=no version=3.2.4
+Received: (qmail 25958 invoked by uid 110); 14 Nov 2012 15:32:03 +0100
+Delivered-To: 6-alle@concertband.de
+Received: (qmail 25928 invoked from network); 14 Nov 2012 15:32:02 +0100
+Received: from mail-bk0-f49.google.com (209.85.214.49)
+  by n178-77-93-160.cnet.hosteurope.de with (RC4-SHA encrypted) SMTP; 14 Nov 2012 15:32:02 +0100
+Received: by mail-bk0-f49.google.com with SMTP id j4so253743bkw.8
+        for <alle@concertband.de>; Wed, 14 Nov 2012 06:32:01 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=content-type:content-transfer-encoding:subject:from:message-id:date
+         :to:mime-version:x-mailer;
+        bh=EcjwTZ5053qWhrOaFGo8Sd3/ACeRywXBxLXoLf7Yex4=;
+        b=ShuuN/je8YPz5xJDWVEgt0G3R0cMTx0ZP12x1PgWf8tI+jE0lIFViQdPiDQw7/GQuZ
+         ih8GlNHLD1+HU69zGq+jnolskv3YQKNxAnR6+gvL+zYBLgp46YiKNuOUybaI9rexG6KQ
+         EpWLAe/iyKojcpNc+U5U6g9YgzqyFjmqheLbTi4GZvDYHeiCzvv3RaEdQMl9DH94UWd3
+         /xpfOH+S79yKSzQASYEs+COJcPYxnoymDl5aOOVAZBNi+0O+09eJjZWs4UwaYrBUQ6Cs
+         UN81oI9UNHJVdUSwI7Uxyi9eFHTnB1+HH3eAFlrovWqLq3dfTkHx13ikfsvl4TY4YSNX
+         L6BA==
+Received: by 10.204.152.75 with SMTP id f11mr7271635bkw.23.1352903521554;
+        Wed, 14 Nov 2012 06:32:01 -0800 (PST)
+Return-Path: <juliaschlag@googlemail.com>
+Received: from [192.168.2.104] (p57B4A896.dip.t-dialin.net. [87.180.168.150])
+        by mx.google.com with ESMTPS id g8sm8153296bkv.6.2012.11.14.06.31.59
+        (version=SSLv3 cipher=OTHER);
+        Wed, 14 Nov 2012 06:32:00 -0800 (PST)
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+Subject: Egon Schmid (via Doodle)
+From: Julia Schlag <juliaschlag@googlemail.com>
+Message-Id: <A35C96D6-D023-4678-A7B2-B2FC3142841F@googlemail.com>
+Date: Wed, 14 Nov 2012 15:31:56 +0100
+To: "alle@concertband.de" <alle@concertband.de>
+Mime-Version: 1.0 (1.0)
+X-Mailer: iPhone Mail (10A523)
+
+Hallo zusammen,
+
+Wie gestern in der Probe bekanntgegeben ist letzte Woche Donnerstag Egon Sch=
+mid im Krankenhaus verstorben.=20
+
+Die Trauerfeier und Urnenbeisetzung findet am Dienstag, den 20.11.2012 um 14=
+ Uhr auf dem ev. Friedhof in Hohenheim statt.=20
+
+Bitte tr=C3=A4gt euch ein - mit Namen und Instrument - ob ihr kommen k=C3=B6=
+nnt. Sch=C3=B6n w=C3=A4re wenn wir mit dem Gesamtorchester spielen k=C3=B6nn=
+ten.=20
+
+Vielen Dank,=20
+
+http://doodle.com/w4krbricpmwtgyqu
+
+
+Viele Gr=C3=BC=C3=9Fe,=20
+Julia
+
+
+
+Geigersbergstr. 11
+74343 Sachsenheim
+0173-9710018=

@@ -1,0 +1,78 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.16.141 with SMTP id g13csp12350lbd;
+        Sat, 2 Feb 2013 07:27:11 -0800 (PST)
+X-Received: by 10.180.93.100 with SMTP id ct4mr2800935wib.32.1359818830882;
+        Sat, 02 Feb 2013 07:27:10 -0800 (PST)
+Return-Path: <judithlink@gmx.de>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id r8si3961318wje.228.2013.02.02.07.27.10
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 02 Feb 2013 07:27:10 -0800 (PST)
+Received-SPF: fail (google.com: domain of judithlink@gmx.de does not designate 5.35.244.247 as permitted sender) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=hardfail (google.com: domain of judithlink@gmx.de does not designate 5.35.244.247 as permitted sender) smtp.mail=judithlink@gmx.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 7D55AAC8FF2; Sat,  2 Feb 2013 16:26:40 +0100 (CET)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	lvps5-35-244-247.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=0.0 required=7.0 tests=FREEMAIL_FROM,HTML_MESSAGE,
+	RCVD_IN_DNSWL_NONE autolearn=ham version=3.3.1
+X-Original-To: saxophon@concertband.de
+Delivered-To: saxophon@concertband.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 51FF9AC8FD7; Sat,  2 Feb 2013 16:26:38 +0100 (CET)
+X-Original-To: alle@concertband.de
+Delivered-To: alle@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mout.gmx.net (mout.gmx.net [212.227.15.19])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTP id 82FB0AC8C6C
+	for <alle@concertband.de>; Sat,  2 Feb 2013 16:26:36 +0100 (CET)
+Received: from mailout-de.gmx.net ([10.1.76.27]) by mrigmx.server.lan
+ (mrigmx002) with ESMTP (Nemesis) id 0LxrgI-1V4iQi0wXE-015Igt for
+ <alle@concertband.de>; Sat, 02 Feb 2013 16:26:36 +0100
+Received: (qmail invoked by alias); 02 Feb 2013 15:26:35 -0000
+Received: from unknown (EHLO [10.171.75.45]) [89.204.139.45]
+  by mail.gmx.net (mp027) with SMTP; 02 Feb 2013 16:26:35 +0100
+X-Authenticated: #33822022
+X-Provags-ID: V01U2FsdGVkX1+10ck4Rsq1qWPz5KDu6PAp/3d2brWcilkVsU5moW
+	ted9Ujbi67IRrJ
+User-Agent: GMX Mail for Android
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----YW9S9HODAINXEHX5E4T6BFGBBH26K0"
+Subject: Fotos
+From: judithlink <JudithLink@gmx.de>
+Date: Sat, 02 Feb 2013 16:26:28 +0100
+To: alle@concertband.de
+Message-ID: <b439bd95-c764-4999-9b30-33ce4b9651d8@email.android.com>
+X-Y-GMX-Trusted: 0
+
+------YW9S9HODAINXEHX5E4T6BFGBBH26K0
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+eine Freundin von mir kommt, um Bilder während der Probe zu machen. 
+
+Bis gleich, 
+Judith
+-- 
+Diese Nachricht wurde von meinem Android Mobiltelefon mit GMX Mail gesendet.
+------YW9S9HODAINXEHX5E4T6BFGBBH26K0
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,<br>
+<br>
+eine Freundin von mir kommt, um Bilder während der Probe zu machen. <br>
+<br>
+Bis gleich, <br>
+Judith<br>
+-- <br>
+Diese Nachricht wurde von meinem Android Mobiltelefon mit GMX Mail gesendet.
+------YW9S9HODAINXEHX5E4T6BFGBBH26K0--
+

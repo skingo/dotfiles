@@ -1,0 +1,65 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp76131pdb;
+        Mon, 28 Oct 2013 06:55:09 -0700 (PDT)
+X-Received: by 10.15.31.9 with SMTP id x9mr2705431eeu.53.1382968508971;
+        Mon, 28 Oct 2013 06:55:08 -0700 (PDT)
+Return-Path: <Musikverein.Notzingen@gmx.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id b42si14783233eem.162.2013.10.28.06.55.08
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 28 Oct 2013 06:55:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.3 as permitted sender) smtp.mail=Musikverein.Notzingen@gmx.de
+Received:  from mout.gmx.net ([212.227.15.18]) by mx-ha.web.de (mxweb103) with
+ ESMTPS (Nemesis) id 0MPEfE-1VfD7z0hxQ-004Wt7 for <ingo.skupin@gmail.com>;
+ Mon, 28 Oct 2013 14:55:08 +0100
+Received:  from mout.gmx.net ([212.227.15.18]) by mx-ha.gmx.net (mxgmx005)
+ with ESMTPS (Nemesis) id 0MIP9j-1VXD382aAZ-004A7f; Mon, 28 Oct 2013 14:54:57
+ +0100
+Received:  from 3capp-gmx-bs64.server.lan ([172.19.170.148]) by
+ mrigmx.server.lan (mrigmx001) with ESMTP (Nemesis) id
+ 0LcmGP-1Vzv1C14Ap-00k8aJ for <JBO%Musikverein.Notzingen@gmx.de>; Mon, 28 Oct
+ 2013 14:54:57 +0100
+Received: from [217.66.32.202] by 3capp-gmx-bs64.server.lan with HTTP; Mon
+ Oct 28 14:54:57 CET 2013
+MIME-Version: 1.0
+Message-ID: <trinity-30a130c1-d56a-48b9-8ff8-a1d7cd8bcdfb-1382968497086@3capp-gmx-bs64>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_JBO%Musikverein.Notzingen@gmx.de"
+ <JBO%Musikverein.Notzingen@gmx.de>
+Subject: JBO-und BO-Probe Herbstferien
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 28 Oct 2013 14:54:57 +0100 (CET)
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:u82yhgIus3f88A9x8njuLf/8MVDPzqmDo1+jhovrtUm
+ pKY96N/Ls+uvJQaSlSMyHlck6FSj4RxZ9j0okyWLFvO3yQzYLr
+ fmB4VUkuJxELLWAmnCgEIi+ffC8rfHH8DzBTFU2+xlxgcAIl0Z
+ L1jtpkcBg/jkCv7O6M0GNav9jMqK8T9WIQpvhTFIqFps+Tqe3R
+ EVUYABywos2QGRo2RSQakWgVcj6zZ1EaC2FHasROJrR/JlYAuA
+ CdWy1XiRuwFlBmcq9FhTTrSAM5ymc1V0czmp7/ve1ed/+Clf6W KPRM68=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo an alle,</div>
+
+<div>&nbsp;</div>
+
+<div>nur zur Erinnerung :</div>
+
+<div>morgen findet ganz normal die JBO- und die BO-Probe statt.</div>
+
+<div>Ein paar wenige haben sich bei mir abgemeldet, da sie verreist sind.</div>
+
+<div>Alle anderen sind bitte morgen in der Probe.</div>
+
+<div>&nbsp;</div>
+
+<div>Ansonsten w&uuml;nsche ich euch sch&ouml;ne Ferien.</div>
+
+<div>&nbsp;</div>
+
+<div>Herzlichen Gru&szlig;</div>
+
+<div>Thomas</div></div></body></html>

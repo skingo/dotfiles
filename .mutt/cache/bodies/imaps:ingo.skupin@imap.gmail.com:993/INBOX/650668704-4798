@@ -1,0 +1,368 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.38.225 with SMTP id j1csp253736lbk;
+        Tue, 22 Jan 2013 09:00:26 -0800 (PST)
+X-Received: by 10.112.40.2 with SMTP id t2mr142460lbk.97.1358874026396;
+        Tue, 22 Jan 2013 09:00:26 -0800 (PST)
+Return-Path: <comm-bounces+BBC-Message-A3JRYM8ZMJ5CUY@marketplace.amazon.de>
+Received: from smtp-out-127-6.amazon.com (smtp-out-127-6.amazon.com. [176.32.127.6])
+        by mx.google.com with ESMTP id fm1si7908223lbb.15.2013.01.22.09.00.26;
+        Tue, 22 Jan 2013 09:00:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of comm-bounces+BBC-Message-A3JRYM8ZMJ5CUY@marketplace.amazon.de designates 176.32.127.6 as permitted sender) client-ip=176.32.127.6;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of comm-bounces+BBC-Message-A3JRYM8ZMJ5CUY@marketplace.amazon.de designates 176.32.127.6 as permitted sender) smtp.mail=comm-bounces+BBC-Message-A3JRYM8ZMJ5CUY@marketplace.amazon.de;
+       dkim=pass header.i=qypydvsz7kdyxt8@amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=qypydvsz7kdyxt8@marketplace.amazon.de;
+  q=dns/txt; s=amazon201209; t=1358874032; x=1390410032;
+  h=date:from:reply-to:to:message-id:subject:mime-version;
+  bh=GpA0GXEmTBVCS4dNn7ehKHs+i7ZlSuEzUcTenrMMzkc=;
+  b=jyV2I/G5c61G09RSqEKwmttx9N73uRNp97MYBQ2KDH9mhH0RTTdfxrcV
+   K1nVvQVjpfxe+G4QhZJNmwdLI9tq446ups17R8NGQZtAP5ulO7VDbQmkf
+   kKL/OgGFadBZVy51RUlos5M81mgQ62BFBSegJGMELqaG7Z2BVM9xmGDyR
+   I=;
+Date: Tue, 22 Jan 2013 17:00:25 +0000
+From: RAOULANDY - Amazon Marketplace <qypydvsz7kdyxt8@marketplace.amazon.de>
+Reply-To: RAOULANDY - Amazon Marketplace <qypydvsz7kdyxt8@marketplace.amazon.de>
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.20130122170025230df1034b004a85996b6ffa693dc713@1358874025434.rte-svc-eu-1b-i-0eff6845.eu-west-1.amazon.com>
+Subject: RAOULANDY / Bestellung ausgeliefert
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_4998593_24420721.1358874025429"
+Bounces-to: comm-bounces+BBC-Message-A3JRYM8ZMJ5CUY@marketplace.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-AMAZON-CATEGORY: BBC-Message
+X-Original-MessageID: <urn.correios.msg.20130122170025230df1034b004a85996b6ffa693dc713@1358874025434.rte-svc-eu-1b-i-0eff6845.eu-west-1.amazon.com>
+
+------=_Part_4998593_24420721.1358874025429
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+=09<body>
+=09=09<div id=3D"amznCommMgrHeader" alt=3D"amznCommMgrHeader" style=3D"back=
+ground-color: #e0e0e0; border: 1px solid #a0a0a5; padding: 2px">
+=09=09=09=09=09=09<b>Wichtiger Hinweis: Wenn Sie dieser E-Mail antworten, w=
+ird Amazon.de Ihre E-Mail-Adresse mit einer von Amazon bereitgestellten Adr=
+esse ersetzen, um Ihre Identit=C3=A4t zu sch=C3=BCtzen, und die Nachricht i=
+n Ihrem Namen weiterleiten. Um einen m=C3=B6glichen Betrug zu verhindern, s=
+etzt Amazon.de Filtertechniken ein. Nachrichten, die diesen Filter nicht pa=
+ssieren, werden nicht weitergeleitet. Amazon.de beh=C3=A4lt Kopien aller =
+=C3=BCber diesen Service gesendeten und empfangenen E-Mails, einschlie=C3=
+=9Flich der Nachricht, die Sie hier eingeben. Amazon.de wird diese Kopien i=
+nsbesondere zur Kl=C3=A4rung von eingereichten A-bis-z-Garantie-Antr=C3=A4g=
+en heranziehen. Indem Sie diesen Dienst nutzen, erkl=C3=A4ren Sie sich mit =
+diesem Vorgehen einverstanden.</b>
+=09=09</div>
+=09=09<div> <div bgcolor=3D"ffffff">
++++++++++++++++++++++++++++++++++++++++ <br/>
+Datum: 22.01.2013 <br/>
+Betreff: RAOULANDY / Bestellung ausgeliefert <br/>
++++++++++++++++++++++++++++++++++++++++ <br/>
+Ihre Kundennummer lautet: 674440 <br/>
++++++++++++++++++++++++++++++++++++++++ <br/>
+ <br/>
+[#AID335497396] <br/>
+ <br/>
+  <br/>
+Ingo Skupin <br/>
+Ro&szlig;w&auml;lder Str. 50  <br/>
+  <br/>
+D-73274 Notzingen <br/>
+Deutschland <br/>
+ <br/>
++++++++++++++++++++++++++++++++++++++++ <br/>
+ <br/>
+Sehr geehrte/ r Ingo Skupin, <br/>
+ <br/>
+wir freuen uns, Ihnen mitteilen zu k&ouml;nnen, dass Ihre Bestellung vom 21=
+.01.2013 00:53:51 &uuml;ber amazon mit der Rechnungsnummer 1300730 nun fert=
+ig verpackt und am 22.01.2013 als Kostenloser Einfachversand Deutschland an=
+ unserem Logistik-Partner DHL &uuml;bergeben wurde. <br/>
+ <br/>
+Den aktuellen Status zu Ihrem Vorgang sowie den Link zur <b>RECHNUNG</b> un=
+d <b>SENDUNGSVERFOLGUNG</b> finden Sie auf dieser Webseite: <br/>
+ <br/>
+<a href=3D"https://www.afterbuy.de/fb.aspx?ui=3D4e11a9e0-b6a4-4338-918a-b69=
+75beb915f">https://www.afterbuy.de/fb.aspx?ui=3D4e11a9e0-b6a4-4338-918a-b69=
+75beb915f</a> <br/>
+ <br/>
+&Uuml;ber das WIDERRUFSRECHT von VERBRAUCHERN im Sinne des &sect; 13 BGB un=
+d die WIDERRUFSFOLGEN unterrichten wir Sie detailliert am ENDE dieser Mitte=
+ilung. <br/>
+ <br/>
+Diese Sendung enth&auml;lt folgende Artikel: <br/>
+ <br/>
+Artikelnummer: 39517305441859<br/> <br/>
+1 x Alkoholtester 'AT6360' mit Atemluftsensor<br/> <br/>
+ <br/>
+und wurde wie von Ihnen gew&uuml;nscht, an die folgend genannte Adresse: <b=
+r/>
+ <br/>
+ <br/>
+Ingo Skupin <br/>
+Ro&szlig;w&auml;lder Str. 50 <br/>
+ <br/>
+D-73274 Notzingen <br/>
+Deutschland <br/>
+ <br/>
+versandt. <br/>
+ <br/>
+Die Zustellung innerhalb von Deutschland erfolgt von Montag bis Samstag &uu=
+ml;ber unsere Logistik-Partner Deutsche Post AG* oder DHL. Die Laufzeit bet=
+r&auml;gt voraussichtlich 1 bis *4 Werktage. <br/>
+ <br/>
+Bei Wahl der Option EXPRESSVERSAND, erfolgt die Zustellung &uuml;ber DHL EX=
+PRESS! Die Sendung ist in diesem Fall am n&auml;chsten Arbeitstag (Mo.-Fr.)=
+ zu erwarten. <br/>
+ <br/>
+Bei internationalen Sendungen sind die Laufzeiten abh&auml;ngig vom jeweili=
+gen Bestimmungsland! <br/>
+ <br/>
+Die f&uuml;r Ihr Land zu erwartenden Laufzeiten finden Sie auf dieser Webse=
+ite: <br/>
+ <br/>
+<a href=3D"http://daten.raoulandy.de/laufzeit.pdf">http://daten.raoulandy.d=
+e/laufzeit.pdf</a> <br/>
+ <br/>
+ <br/>
+Bitte beachten Sie, dass eine SENDUNGSVERVOLGUNG beim EINFACHVERSAND als Br=
+ief-, B&uuml;cher-, P&auml;ckchen- und Warensendungen derzeit NICHT m&ouml;=
+glich ist!  <br/>
+ <br/>
+F&uuml;r den Fall, dass zum Zeitpunkt der Zustellung niemand anwesend ist, =
+erhalten Sie eine Benachrichtigung von Ihrem Zusteller! In diesem Fall wird=
+ die Sendung in Ihrer zust&auml;ndigen Filiale hinterlegt und dort in der R=
+egel sieben Tage aufbewahrt, bevor die Sendung an uns zur&uuml;ckgesandt wi=
+rd. <br/>
+ <br/>
+F&uuml;r R&uuml;ckfragen stehen wir Ihnen selbstverst&auml;ndlich jederzeit=
+ gerne zur Verf&uuml;gung.  <br/>
+ <br/>
+Wir bedanken uns f&uuml;r Ihren Auftrag und w&uuml;nschen Ihnen viel Freude=
+ mit den bestellten Artikeln. <br/>
+ <br/>
+***************************************************************************=
+***************************************************************************=
+*** <br/>
+ANFANG DER BELEHRUNG DES VERBRAUCHERS <br/>
+ <br/>
+Widerrufsbelehrung  <br/>
+ <br/>
+Widerrufsrecht <br/>
+ <br/>
+Sie k&ouml;nnen Ihre Vertragserkl&auml;rung innerhalb von 14 Tagen ohne Ang=
+abe von Gr&uuml;nden in Textform (z.B. Brief, Fax, E-Mail) oder - wenn Ihne=
+n die Sache vor Fristablauf &uuml;berlassen wird - auch durch R&uuml;cksend=
+ung der Sache widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung in=
+ Textform, jedoch nicht vor Eingang der Ware beim Empf&auml;nger (bei der w=
+iederkehrenden Lieferung gleichartiger Waren nicht vor Eingang der ersten T=
+eillieferung) und auch nicht vor Erf&uuml;llung unserer Informationspflicht=
+en gem&auml;&szlig; Artikel 246 &sect; 2 in Verbindung mit &sect; 1 Absatz =
+1 und 2 EGBGB sowie unserer Pflichten gem&auml;&szlig; &sect; 312g Absatz 1=
+ Satz 1 BGB in Verbindung mit Artikel 246 &sect; 3 EGBGB. Zur Wahrung der W=
+iderrufsfrist gen&uuml;gt die rechtzeitige Absendung des Widerrufs oder der=
+ Sache.  <br/>
+ <br/>
+Der Widerruf ist zu richten an:  <br/>
+ <br/>
+RAOULANDY <br/>
+Inhaber Raoul Steinborn <br/>
+Iglauer Strasse 6 <br/>
+12623 Berlin (Deutschland) <br/>
+Fax-Nr: +49 (30) 56592384 <br/>
+eMail: [E-Mail-Adresse entfernt] <br/>
+ <br/>
+Widerrufsfolgen  <br/>
+ <br/>
+Im Falle eines wirksamen Widerrufs sind die beiderseits empfangenen Leistun=
+gen zur&uuml;ckzugew&auml;hren und ggf. gezogene Nutzungen (z.B. Zinsen) he=
+rauszugeben. K&ouml;nnen Sie uns die empfangene Leistung sowie Nutzungen (z=
+.B. Gebrauchsvorteile) nicht oder teilweise nicht oder nur in verschlechter=
+tem Zustand zur&uuml;ckgew&auml;hren beziehungsweise herausgeben, m&uuml;ss=
+en Sie uns insoweit Wertersatz leisten. F&uuml;r die Verschlechterung der S=
+ache und f&uuml;r gezogene Nutzungen m&uuml;ssen Sie Wertersatz nur leisten=
+, soweit die Nutzungen oder die Verschlechterung auf einen Umgang mit der S=
+ache zur&uuml;ckzuf&uuml;hren ist, der &uuml;ber die Pr&uuml;fung der Eigen=
+schaften und der Funktionsweise hinausgeht. Unter &quot;Pr&uuml;fung der Ei=
+genschaften und der Funktionsweise&quot; versteht man das Testen und Auspro=
+bieren der jeweiligen Ware, wie es etwa im Ladengesch&auml;ft m&ouml;glich =
+und &uuml;blich ist. Paketversandf&auml;hige Sachen sind auf unsere Gefahr =
+zur&uuml;ckzusenden. Sie haben die regelm&auml;&szlig;igen Kosten der R&uum=
+l;cksendung zu tragen, wenn die gelieferte Ware der bestellten entspricht u=
+nd wenn der Preis der zur&uuml;ckzusendenden Sache einen Betrag von 40,- Eu=
+ro nicht &uuml;bersteigt oder wenn Sie bei einem h&ouml;heren Preis der Sac=
+he zum Zeitpunkt des Widerrufs noch nicht die Gegenleistung oder eine vertr=
+aglich vereinbarte Teilzahlung erbracht haben. Anderenfalls ist die R&uuml;=
+cksendung f&uuml;r Sie kostenfrei. Nicht paketversandf&auml;hige Sachen wer=
+den bei Ihnen abgeholt. Verpflichtungen zur Erstattung von Zahlungen m&uuml=
+;ssen innerhalb von 30 Tagen erf&uuml;llt werden. Die Frist beginnt f&uuml;=
+r Sie mit der Absendung Ihrer Widerrufserkl&auml;rung oder der Sache, f&uum=
+l;r uns mit deren Empfang.  <br/>
+ <br/>
+ENDE DER WIDERRUFSBELEHRUNG <br/>
+ <br/>
+Ausnahmen  <br/>
+ <br/>
+Dieses Recht besteht nicht bei Fernabsatzvertr&auml;gen zur Lieferung von A=
+udio- oder Videoaufzeichnungen oder von Software, sofern die gelieferten Da=
+tentr&auml;ger vom Verbraucher entsiegelt worden sind.  <br/>
+***************************************************************************=
+***************************************************************************=
+*** <br/>
+ <br/>
+ALLGEMEINE GESCH&Auml;FTSBEDINGUNGEN <br/>
+ <br/>
+&sect;1 Geltungsbereich, Kundeninformationen <br/>
+ <br/>
+Die folgenden Allgemeinen Gesch&auml;ftsbedingungen regeln das Vertragsverh=
+&auml;ltnis zwischen Raoul Steinborn, RAOULANDY und den Verbrauchern und Un=
+ternehmern, die von uns Waren kaufen. Entgegenstehende oder von unseren Ges=
+ch&auml;ftsbedingungen abweichende Bedingungen des Unternehmers werden von =
+uns nicht anerkannt. Die Vertragssprache ist Deutsch.  <br/>
+ <br/>
+&sect;2 Vertragsschluss  <br/>
+ <br/>
+(1) Verbindliches Angebot <br/>
+ <br/>
+Unsere Angebote auf Amazon Marketplace stellen ein verbindliches Angebot an=
+ Sie dar, diese Waren zu kaufen.  <br/>
+ <br/>
+(2) Bestellung &uuml;ber das Warenkorbsystem <br/>
+ <br/>
+Zun&auml;chst legen Sie die Ware in den Einkaufswagen. Um in den Bestellpro=
+zess zu gelangen, m&uuml;ssen Sie auf den Button &quot;Zur Kasse gehen&quot=
+; klicken. Dann geben Sie Ihre E-Mail-Adresse ein und legen als neuer Kunde=
+ ein Passwort an. Bestandskunden loggen sich direkt mit dem Passwort ein. N=
+ach Eingabe Ihrer Daten, insbesondere zur Rechnungs- und Lieferadresse und =
+zur gew&uuml;nschten Zahlart, und mit dem Anklicken des Bestellbuttons nehm=
+en Sie unser verbindliches Angebot an und schlie&szlig;en den Kaufvertrag a=
+b. Sie erhalten auch automatisch und zus&auml;tzlich von Amazon eine Bestel=
+lbest&auml;tigung. <br/>
+ <br/>
+(3) Bestellung &uuml;ber die &quot;1-Click-kaufen&quot;-Funktion <br/>
+ <br/>
+Um die &quot;1-Click-kaufen&quot;-Funktion nutzen zu k&ouml;nnen, m&uuml;ss=
+en Sie sich zun&auml;chst bei Amazon einloggen und dann diese Funktion eins=
+chalten. Die Festlegung der Adresse und Zahlungsart f&uuml;hrt zu einer Bes=
+chleunigung des Bestellvorgangs, d.h. Sie k&ouml;nnen nach Aktivierung dies=
+er Funktion bereits durch das Anklicken des Buttons &quot;Jetzt mit 1-Click=
+-kaufen&quot; ein verbindliches Angebot abgeben und den Kaufvertrag damit s=
+chlie&szlig;en.  <br/>
+ <br/>
+&sect;3 Kundeninformation: Speicherung des Vertragstextes <br/>
+ <br/>
+Wir speichern den Vertragstext mit Angaben zum Artikel nicht. Sie k&ouml;nn=
+en den Vertragstext aber &uuml;ber Ihren pers&ouml;nlichen Amazon Account &=
+quot;Mein Konto&quot; einsehen. Unter der Rubrik &quot;Meine Bestellungen&q=
+uot; k&ouml;nnen Sie Ihre aufgegebenen Bestellungen abrufen.  <br/>
+ <br/>
+&sect;4 Kundeninformation: Korrekturhinweis  <br/>
+ <br/>
+(1) Warenkorbsystem <br/>
+ <br/>
+Sie k&ouml;nnen Ihre Eingaben w&auml;hrend des Bestellvorgangs jederzeit &a=
+uml;ndern oder l&ouml;schen. Falls Sie den Bestellprozess komplett abbreche=
+n m&ouml;chten, k&ouml;nnen Sie auch einfach Ihr Browser-Fenster schlie&szl=
+ig;en. Auf einer &Uuml;bersichtsseite am Ende des Bestellvorgangs haben Sie=
+ ebenfalls noch einmal die M&ouml;glichkeit, Ihre Angaben zu &uuml;berpr&uu=
+ml;fen. Nach Anklicken des Bestellbuttons wird Ihre Erkl&auml;rung dann ver=
+bindlich.  <br/>
+ <br/>
+(2) 1-Click-Funktion <br/>
+ <br/>
+Bei Nutzung der 1-Click-kaufen-Funktion ist eine Korrektur nach Bet&auml;ti=
+gung des Buttons nicht mehr m&ouml;glich. Mit dem Anklicken des &quot;Jetzt=
+ mit 1-Click-kaufen&quot;-Buttons geben Sie bereits eine verbindliche Beste=
+llung ab.  <br/>
+ <br/>
+&sect;5 R&uuml;cksendekosten im Fall des Widerrufs <br/>
+ <br/>
+Sie haben im Fall des Widerrufs die Kosten der R&uuml;cksendung zu tragen, =
+wenn die gelieferte Ware der bestellten entspricht und wenn der Preis der z=
+ur&uuml;ckzusendenden Sache einen Betrag von 40,- Euro nicht &uuml;bersteig=
+t oder wenn Sie bei einem h&ouml;heren Preis der Sache zum Zeitpunkt des Wi=
+derrufs noch nicht die Gegenleistung oder eine vertraglich vereinbarte Teil=
+zahlung erbracht haben. Sie m&uuml;ssen auch nur die regelm&auml;&szlig;ige=
+n Kosten der R&uuml;cksendung tragen. Mehrkosten, die z.B. durch eine &Auml=
+;nderung unseres Gesch&auml;ftssitzes oder durch den von uns gew&uuml;nscht=
+en Einsatz teurer Transportdienste entstehen, gehen zu unseren Lasten.  <br=
+/>
+ <br/>
+&sect;6 Verj&auml;hrung Ihrer Gew&auml;hrleistungsanspr&uuml;che  <br/>
+ <br/>
+(1) Gew&auml;hrleistung gegen&uuml;ber Verbrauchern bei Gebrauchtware <br/>
+ <br/>
+Ihre Gew&auml;hrleistungsanspr&uuml;che wegen M&auml;ngel bei Gebrauchtware=
+ verj&auml;hren in einem Jahr ab &Uuml;bergabe der verkauften Sache an Sie.=
+ Von dieser Regelung ausgenommen sind Schadensersatzanspr&uuml;che, Anspr&u=
+uml;che wegen M&auml;ngel, die wir arglistig verschwiegen, und Anspr&uuml;c=
+he aus einer Garantie, die wir f&uuml;r die Beschaffenheit der Sache &uuml;=
+bernommen haben. F&uuml;r diese ausgenommenen Anspr&uuml;che gelten die ges=
+etzlichen Verj&auml;hrungsfristen.  <br/>
+ <br/>
+(2) Gew&auml;hrleistung gegen&uuml;ber Unternehmern <br/>
+ <br/>
+Ihre Gew&auml;hrleistungsanspr&uuml;che wegen M&auml;ngel der Kaufsache ver=
+j&auml;hren in einem Jahr ab Gefahr&uuml;bergang. Von dieser Regelung ausge=
+nommen sind Schadensersatzanspr&uuml;che, Anspr&uuml;che wegen M&auml;ngel,=
+ die wir arglistig verschwiegen, und Anspr&uuml;che aus einer Garantie, die=
+ wir f&uuml;r die Beschaffenheit der Sache &uuml;bernommen haben. Ebenfalls=
+ ausgenommen ist der R&uuml;ckgriffsanspruch nach &sect; 478 BGB. F&uuml;r =
+diese ausgenommenen Anspr&uuml;che gelten die gesetzlichen Verj&auml;hrungs=
+fristen.  <br/>
+ <br/>
+&sect;7 Haftungsbeschr&auml;nkung <br/>
+ <br/>
+Wir schlie&szlig;en die Haftung f&uuml;r leicht fahrl&auml;ssige Pflichtver=
+letzungen aus, sofern diese keine vertragswesentlichen Pflichten, Sch&auml;=
+den aus der Verletzung des Lebens, des K&ouml;rpers oder der Gesundheit, Ga=
+rantien oder Anspr&uuml;che nach dem Produkthaftungsgesetz betreffen. Gleic=
+hes gilt f&uuml;r Pflichtverletzungen unserer Erf&uuml;llungsgehilfen und u=
+nserer gesetzlichen Vertreter. Zu den vertragswesentlichen Pflichten geh&ou=
+ml;rt insbesondere die Pflicht, Ihnen die Sache zu &uuml;bergeben und Ihnen=
+ das Eigentum daran zu verschaffen. Weiterhin haben wir Ihnen die Sache fre=
+i von Sach- und Rechtsm&auml;ngeln zu verschaffen.  <br/>
+ <br/>
+Ende der Allgemeinen Gesch&auml;ftsbedingungen <br/>
+***************************************************************************=
+***************************************************************************=
+*** <br/>
+ <br/>
+ <br/>
+Mit freundlichen Gr&uuml;ssen<br/>IHR RAOULANDY TEAM<br/><br/>+++++++++++++=
+++++++++++++++++++++++++++<br/>RAOULANDY =3D Inhaber Raoul Steinborn<br/>Ma=
+rienburger Str. 23 in D-10405 Berlin<br/>Fon  : 0180 5555 866* / Fax: +49 (=
+030) 56592384<br/>Shop: www.raoulandy.de / Mail: [E-Mail-Adresse entfernt]<=
+br/>UST.-ID-NR. DE243916025<br/>+++++++++++++++++++++++++++++++++++++++<br/=
+><br/>ACHTUNG SEHR WICHTIG! <br/><br/>Aufgrund des t&auml;glichen hohen Anf=
+rageaufkommens ist eine telefonische Betreuung zurzeit nur bedingt m&ouml;g=
+lich.<br/><br/>Aus diesem Grund bitten wir Sie, Ihre Anfragen bevorzugt via=
+ Mail zu senden. Diese werden wir so schnell wie nur m&ouml;glich beantwort=
+en.<br/><br/>Bitte beachten Sie, dass unser Service an Wochenenden sowie ge=
+setzlichen Feiertagen und den damit verbundenen Br&uuml;ckentagen nicht zur=
+ Verf&uuml;gung steht. Sollte es aus vorgenannten Gr&uuml;nden zur verz&oum=
+l;gerten Beantwortung Ihrer Anfrage kommen, bitten wir Sie um Ihr Verst&aum=
+l;ndnis. <br/><br/>Bitte geben Sie bei allen Ihren Anfragen stets Ihre Kund=
+ennummer an. Sie helfen uns damit, die Bearbeitungszeiten wesentlich zu red=
+uzieren.<br/><br/>*14 Cent (inkl.MwSt.) pro Minute aus dem deutschen Festne=
+tz, im Mobilfunkbereich maximal 42 Cent (inkl.MwSt.) pro Minute.
+</div></div>
+=09=09<div id=3D"amznCommMgrFooter" alt=3D"amznCommMgrFooter" style=3D"back=
+ground-color: #e0e0e0; border: 1px solid #a0a0a5; padding: 2px">
+=09=09    Wir m=C3=B6chten, dass Sie stets mit Vertrauen einkaufen, wenn Si=
+e Produkte auf Amazon.de erwerben. Hier finden Sie n=C3=A4here Informatione=
+n =C3=BCber sichere Online-Eink=C3=A4ufe (http://www.amazon.de/gp/help/cust=
+omer/display.html?nodeId=3D13023711) und unsere Garantie f=C3=BCr den siche=
+ren Einkauf (http://www.amazon.de/gp/help/customer/display.html?nodeId=3D88=
+6414).<br/>
+=09=09    <br/>
+=09=09    <br/>
+=09=09    <br/>
+=09=09    [commMgrTok:A3JRYM8ZMJ5CUY]
+=09=09</div>
+=09</body>
+</html>
+
+------=_Part_4998593_24420721.1358874025429--

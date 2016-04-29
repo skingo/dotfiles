@@ -1,0 +1,1126 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.140.197 with SMTP id j5cs124433vcu;
+        Wed, 30 Nov 2011 12:15:12 -0800 (PST)
+Received: by 10.204.132.89 with SMTP id a25mr3863115bkt.85.1322684110405;
+        Wed, 30 Nov 2011 12:15:10 -0800 (PST)
+Return-Path: <20111130201509e04c80a657934e56a80677d5771310a7@bounces.amazon.com>
+Received: from mm-notify-out-21101.amazon.com (mm-notify-out-21101.amazon.com. [194.154.193.200])
+        by mx.google.com with ESMTP id dy14si4597541bkb.110.2011.11.30.12.15.09;
+        Wed, 30 Nov 2011 12:15:10 -0800 (PST)
+Received-SPF: pass (google.com: domain of 20111130201509e04c80a657934e56a80677d5771310a7@bounces.amazon.com designates 194.154.193.200 as permitted sender) client-ip=194.154.193.200;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of 20111130201509e04c80a657934e56a80677d5771310a7@bounces.amazon.com designates 194.154.193.200 as permitted sender) smtp.mail=20111130201509e04c80a657934e56a80677d5771310a7@bounces.amazon.com; dkim=pass header.i=bestellbestaetigung@amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=amazon.de; i=bestellbestaetigung@amazon.de; q=dns/txt;
+  s=rte02; t=1322684110; x=1354220110;
+  h=date:from:to:message-id:subject:mime-version:
+   content-type:bounces-to:x-amazon-mail-relay-type:
+   x-amazon-rte-version;
+  z=Date:=20Wed,=2030=20Nov=202011=2020:15:09=20+0000=20(UTC
+   )|From:=20"bestellbestaetigung@amazon.de"=20<bestellbesta
+   etigung@amazon.de>|To:=20"ingo.skupin@googlemail.com"=20<
+   ingo.skupin@googlemail.com>|Message-ID:=20<urn.correios.m
+   sg.20111130201509e04c80a657934e56a80677d5771310a7@1322684
+   109306.rte-svc-eu-1b-i-c09c82b6.eu-west-1.amazon.com>
+   |Subject:=20Ihre=20Bestellung=20bei=20Amazon.de
+   |MIME-Version:=201.0|Content-Type:=20multipart/mixed=3B
+   =20=0D=0A=09boundary=3D"----=3D_Part_196510_11567787.1322
+   684109304"|Bounces-to:=2020111130201509e04c80a657934e56a8
+   0677d5771310a7@bounces.amazon.com
+   |X-AMAZON-MAIL-RELAY-TYPE:=20notification
+   |X-AMAZON-RTE-VERSION:=202.0;
+  bh=1IYoyxqztiBKpBiOs+49e/DcVWSSvLgSa2XHIZP9gZI=;
+  b=nlQ4pQTQvPqYpIimCp4jzjpS2Cg2GaFheUJ6bIQ4HotqPxMKjHWAmYit
+   dhiJzibpN3/uWx3VWJlTTF6s4CCtgA==;
+Date: Wed, 30 Nov 2011 20:15:09 +0000 (UTC)
+From: "bestellbestaetigung@amazon.de" <bestellbestaetigung@amazon.de>
+To: "ingo.skupin@googlemail.com" <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.20111130201509e04c80a657934e56a80677d5771310a7@1322684109306.rte-svc-eu-1b-i-c09c82b6.eu-west-1.amazon.com>
+Subject: Ihre Bestellung bei Amazon.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_196510_11567787.1322684109304"
+Bounces-to: 20111130201509e04c80a657934e56a80677d5771310a7@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+
+------=_Part_196510_11567787.1322684109304
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_196511_5422706.1322684109304"
+
+------=_Part_196511_5422706.1322684109304
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Vielen Dank f=C3=BCr Ihre Bestellung bei Amazon.de! Die Einzelheiten zu Ihr=
+er Bestellung sind unten aufgef=C3=BChrt.
+
+M=C3=B6chten Sie Ihre Bestellung =C3=A4ndern?
+Wenn Sie Ihre Bestellung =C3=BCberpr=C3=BCfen oder =C3=A4ndern m=C3=B6chten=
+, besuchen Sie unsere Homepage unter www.Amazon.de und klicken Sie auf den =
+Button "Mein Konto", den Sie oben rechts auf jeder Seite finden.
+***********************************************************
+RECHNUNGS- UND VERSANDINFORMATIONEN
+***********************************************************
+E-Mail-Adresse:=09ingo.skupin@googlemail.com
+Rechnungsadresse:
+
+Ingo Skupin
+Ro=C3=9Fw=C3=A4lder Str. 50
+Notzingen, Baden-W=C3=BCrttemberg 73274
+Deutschland
+
+Gesamtsumme dieser Bestellung: EUR 180,56
+
+***********************************************************
+=09EINZELHEITEN DER BESTELLUNG
+***********************************************************
+
+Ihre Bestellung wurde in 2 Einheiten aufgeteilt.
+
+Bestellung #1
+
+Bestellung wird in einer Komplettlieferung verschickt
+***********************************************************
+Bestellnummer:=09=09=09302-8386226-9526704
+Ihre Bestellungs=C3=BCbersicht finden Sie hier online: https://www.amazon.d=
+e/gp/css/history/view.html
+
+Versand:=09=09Standardversand
+Bevorzugte Versandart:=09=09Komplettversand: Meine bestellten Artikel in so=
+ wenige Einzellieferungen wie m=C3=B6glich zusammenfassen
+
+Artikel:                      EUR 150,42
+Verpackung & Versand:         EUR 0,00
+                              ---------
+Gesamtsumme ohne MwSt.:       EUR 150,42
+MwSt.:*                       EUR 28,58
+                              ---------
+Gesamtbetrag:                 EUR 179,00
+
+Lieferanschrift
+
+Ingo Skupin
+Ro=C3=9Fw=C3=A4lder Str. 50
+Notzingen, Baden-W=C3=BCrttemberg 73274
+Deutschland
+
+Lieferung voraussichtlich: 3. Dezember 2011
+
+1 "Acer S242HLABID 60,9 cm (24 Zoll) Slim LED Monitor (VGA, DVI, HDMI, Kont=
+rast 12.000.000:1, 2ms Reaktionszeit)"
+Zubeh=C3=B6r; EUR 179,00
+Auf Lager.
+Verkauf durch: Amazon EU S.a.r.L.
+
+Bestellung #2: Mediawebstore   - Preise inkl. Mwst - Verk=C3=A4uferinfo, Wi=
+derrufsrecht & Versandkosten unter Verk=C3=A4ufer Hilfe
+***********************************************************
+Bestellnummer:=09=09=09302-4990875-5640301
+Ihre Bestellungs=C3=BCbersicht finden Sie hier online: https://www.amazon.d=
+e/gp/css/history/view.html
+
+Versand:=09=09Standardversand
+Bevorzugte Versandart:=09=09Komplettversand: Meine bestellten Artikel in so=
+ wenige Einzellieferungen wie m=C3=B6glich zusammenfassen
+
+Artikel:                      EUR 1,56
+Verpackung & Versand:         EUR 0,00
+                              ---------
+Gesamtbetrag:                 EUR 1,56
+
+Lieferanschrift
+
+Ingo Skupin
+Ro=C3=9Fw=C3=A4lder Str. 50
+Notzingen, Baden-W=C3=BCrttemberg 73274
+Deutschland
+
+Lieferung voraussichtlich: 2. Dezember 2011 - 6. Dezember 2011
+
+1 "HDMI Kabel 1.3 / 1.3b FULL HD 1080p 1,5m"
+Zubeh=C3=B6r; EUR 1,56
+Auf Lager.
+Verkauf durch: Mediawebstore   - Preise inkl. Mwst - Verk=C3=A4uferinfo, Wi=
+derrufsrecht & Versandkosten unter Verk=C3=A4ufer Hilfe
+
+***********************************************************
+Sie suchen ein Geschenk und sind sich nicht sicher, was Sie kaufen sollen?
+Geschenkgutscheine von Amazon.de gibt es f=C3=BCr jeden Betrag von 5 =C2=A4=
+ bis 500 =C2=A4.
+Wir versenden Ihren Gutschein per E-Mail oder per Post -- das perfekte Gesc=
+henk, wenn es schnell gehen soll.
+Erfahren Sie mehr unter http://www.amazon.de/exec/obidos/tg/stores/static/-=
+/gifts/gift-certificates/.
+***********************************************************
+Sie haben Fragen? Unsere Online-Hilfe steht Ihnen 24 Stunden am Tag zur Ver=
+f=C3=BCgung: http://www.amazon.de/hilfe
+
+***********************************************************
+Bitte beachten Sie: Diese E-Mail dient lediglich der Best=C3=A4tigung des E=
+inganges Ihrer Bestellung und stellt noch keine Annahme Ihres Angebotes auf=
+ Abschluss eines Kaufvertrages dar. Ihr Kaufvertrag f=C3=BCr einen Artikel =
+kommt zu Stande, wenn wir Ihre Bestellung annehmen, indem wir Ihnen eine E-=
+Mail mit der Benachrichtigung zusenden, dass der Artikel an Sie abgeschickt=
+ wurde. Dies ist eine automatisch versendete Nachricht. Bitte antworten Sie=
+ nicht auf dieses Schreiben, da die Adresse nur zur Versendung von E-Mails =
+eingerichtet ist. Sie erreichen uns =C3=BCber das Kontaktformular http://ww=
+w.amazon.de/kontakt auf unseren Hilfe-Seiten.
+Nochmals vielen Dank f=C3=BCr Ihren Besuch.
+-------------------------------------------------------------=20
+Amazon.de
+G=C3=BCnstige Preise bei Elektronik & Foto, DVD, Musik, B=C3=BCcher, Games,=
+ Spielzeug & mehr
+http://www.amazon.de
+-------------------------------------------------------------
+
+------=_Part_196511_5422706.1322684109304
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Ihre Bestellung bei Amazon.de</title>
+</head>
+<body bgcolor=3D"#FFFFFF" link=3D"#0066CC">
+ =20
+
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+  <tr bgcolor=3D"#FFFFFF">
+    <td align=3D"left"><a href=3D"http://www.amazon.de/exec/obidos/tg/brows=
+e/-/301128"><img src=3D"https://images-na.ssl-images-amazon.com/images/G/03=
+/general/de-logo-153x37._V192569596_.gif" width=3D"153" alt=3D"Amazon.de" h=
+eight=3D"37" border=3D"0" /></a></td>
+    <td align=3D"right"><img src=3D"https://images-na.ssl-images-amazon.com=
+/images/G/03/general/helpnav_de_01._V210853741_.gif" width=3D"274" usemap=
+=3D"#help_nav_map" height=3D"22" border=3D"0" /></td>
+  </tr>
+</table>
+
+<map name=3D"help_nav_map">
+<area shape=3Drect coords=3D"0,0,29,19" href=3D"http://www.amazon.de/gp/car=
+t/view.html/ref=3Dcs_nav_top_4" alt=3D"Einkaufswagen" />
+<area shape=3Drect coords=3D"29,0,126,19" href=3D"http://www.amazon.de/exec=
+/obidos/registry/wishlist/ref=3Dcs_nav_top_2" alt=3D"Wunschzettel" />
+<area shape=3D"rect" href=3D"http://www.amazon.de/exec/obidos/account-acces=
+s-login/ref=3Dcs_nav_top_3" coords=3D"126,0,230,19" alt=3D"Mein Konto" />
+<area shape=3D"rect" href=3D"http://www.amazon.de/exec/obidos/tg/browse/-/5=
+04874/ref=3Dcs_nav_top_4" coords=3D"230,0,272,19" alt=3D"Hilfe" />
+</map>
+
+
+
+<table width=3D"90%" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" align=
+=3D"center" bgcolor=3D"#006699">
+  <tr>
+    <td>
+      <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"5=
+" align=3D"center">
+        <tr valign=3D"top">
+          <td bgcolor=3D"#FFFFFF">
+            <font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+              <p><b>Vielen Dank f=C3=BCr Ihre Bestellung, Ingo Skupin!</b><=
+/p>
+
+              <p><b>M=C3=B6chten Sie Ihre Bestellung =C3=A4ndern?</b><br />
+                Wenn Sie Ihre Bestellung =C3=BCberpr=C3=BCfen oder =C3=A4nd=
+ern m=C3=B6chten, besuchen Sie unsere Homepage unter www.Amazon.de und klic=
+ken Sie auf den Button "Mein Konto", den Sie oben rechts auf jeder Seite fi=
+nden.<br />
+              </p>
+            </font>
+            <table cellpadding=3D"4" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+              <tr>
+=09        <td colspan=3D"2" bgcolor=3D"#006699">
+=09          <font color=3D"#ffffff"  face=3D"verdana,arial,helvetica" size=
+=3D"-1" ><b>Bestellinformation:</b></font>
+=09        </td>
+              </tr>
+              <tr>
+=09        <td colspan=3D"2">
+                  <font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+                    <b>E-Mail-Adresse:</b>&nbsp;&nbsp;ingo.skupin@googlemai=
+l.com
+=09          </font>
+=09        </td>
+              </tr>
+              <tr>
+=09        <td colspan=3D"2">
+=09          <table width=3D"100%" cellspacing=3D0 cellpadding=3D0>
+=09            <tr>
+=09              <td valign=3D"top" width=3D"50%" style=3D"padding-right:1e=
+m">
+                        <font  face=3D"verdana,arial,helvetica" size=3D"-1"=
+ >
+=09=09          <b>Rechnungsadresse:</b><br />
+                            Ingo Skupin<br/>Ro=C3=9Fw=C3=A4lder Str. 50<br/=
+>Notzingen, Baden-W=C3=BCrttemberg 73274<br/>Deutschland<br/><br/>
+=09=09        </font>
+=09              </td>
+=09              <td valign=3D"top" width=3D"50%">
+                        <font  face=3D"verdana,arial,helvetica" size=3D"-1"=
+ >
+                        <b>Versandadresse</b><br />
+                        Ingo Skupin<br/>Ro=C3=9Fw=C3=A4lder Str. 50<br/>Not=
+zingen, Baden-W=C3=BCrttemberg 73274<br/>Deutschland<br/><br/>
+=09=09        </font>
+=09              </td>
+=09            </tr>
+=09          </table>
+=09        </td>
+              </tr>
+              <tr>
+=09        <td colspan=3D"2">
+                  <font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+=09            <b>Gesamtsumme dieser Bestellung: EUR 180,56</b>
+=09          </font>
+=09        </td>
+              </tr>
+
+
+
+
+
+                    <tr>
+                        <td colspan=3D"2" bgcolor=3D"#006699">
+                        <font color=3D"#ffffff"  face=3D"verdana,arial,helv=
+etica" size=3D"-1" ><b>Bestellungs=C3=BCbersicht:</b></font>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td colspan=3D"2"><font  face=3D"verdana,arial,helv=
+etica" size=3D"-1" > Ihre Bestellung wurde in 2 Einheiten aufgeteilt. </fon=
+t></td>
+                    </tr>
+
+
+
+
+                   <tr>
+                        <td bgcolor=3D#EEEEEE>
+
+
+                        <font  face=3D"verdana,arial,helvetica" size=3D"-1"=
+  color=3D"#CC6600"><b>
+
+                      Bestellung #1
+                      : Bestellung wird in einer Komplettlieferung verschic=
+kt
+
+                        </b></font>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <table border=3D"0" cellpadding=3D"1" cellspacing=
+=3D"0" width=3D"100%">
+
+
+
+                            <tr>
+                                <td nowrap=3D"nowrap">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                <b>Bestellnummer:</b>
+                                </font>
+                                </td>
+                                <td width=3D"98%">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                <a href=3D"https://www.amazon.de/gp/css/his=
+tory/view.html/ref=3Dox_oce_order_history">302-8386226-9526704</a>
+                                </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td nowrap=3D"nowrap">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                    <b>Versand:</b>
+                                </font>
+                                </td>
+                                <td width=3D"98%">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                  Standardversand
+                                </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td nowrap=3D"nowrap"><font  face=3D"verdan=
+a,arial,helvetica" size=3D"-1" ><b>Bevorzugte Versandart:</b></font></td>
+                                <td width=3D"98%"><font  face=3D"verdana,ar=
+ial,helvetica" size=3D"-1" >Komplettversand: Meine bestellten Artikel in so=
+ wenige Einzellieferungen wie m=C3=B6glich zusammenfassen</font></td>
+                            </tr>
+
+                           =20
+
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                Artikel: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 150,42=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                Verpackung & Versand: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 0,00=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            &nbsp;
+          </td>
+          <td>
+            ------
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                Gesamtsumme ohne MwSt.: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 150,42=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                MwSt.:* &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 28,58=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            &nbsp;
+          </td>
+          <td>
+            ------
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                <b>=20
+                  Gesamtbetrag: &nbsp;
+                </b>
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                <b>=20
+                  EUR 179,00=20
+                </b>
+              </font>
+            </span>
+          </td>
+        </tr>
+
+
+
+
+
+
+                            <tr>
+                                <td colspan=3D"2">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                <br />&nbsp;<br />
+
+
+   =20
+
+
+
+
+
+
+
+              <b>Lieferung voraussichtlich: </b>3. Dezember 2011
+
+
+
+
+
+
+
+
+
+
+
+
+                                </font>
+                                <table>
+
+                                    <tr valign=3D"top">
+                                        <td>
+                                        </td>
+                                        <td><font  face=3D"verdana,arial,he=
+lvetica" size=3D"-1" ><b>1</b></font></td>
+
+
+<td>
+<font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+  <b>"Acer S242HLABID 60,9 cm (24 Zoll) Slim LED Monitor (VGA, DVI, HDMI, K=
+ontrast 12.000.000:1, 2ms Reaktionszeit)"</b><br />
+     Zubeh=C3=B6r;
+
+
+    <span class=3D"price">EUR 179,00</span><br />
+
+
+     Auf Lager.<br />&nbsp;&nbsp;
+
+  Verkauf durch: <a href=3D"http://www.amazon.de/gp/help/seller/home.html/r=
+ef=3Dox_oce_seller_home?ie=3DUTF8&amp;seller=3DA3JWKAKR8XB7XF">Amazon EU S.=
+a.r.L.</a>
+
+
+
+</font>
+</td>
+
+
+                                     </tr>
+
+
+
+                                </table>
+                               =20
+
+
+                                </td>
+                            </tr>
+                        </table>
+=09</td>
+      </tr>
+
+
+
+                   <tr>
+                        <td bgcolor=3D#EEEEEE>
+
+
+                        <font  face=3D"verdana,arial,helvetica" size=3D"-1"=
+  color=3D"#CC6600"><b>
+
+                      Bestellung #2
+                      : Mediawebstore   - Preise inkl. Mwst - Verk=C3=A4ufe=
+rinfo, Widerrufsrecht & Versandkosten unter Verk=C3=A4ufer Hilfe
+
+                        </b></font>
+
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>
+                        <table border=3D"0" cellpadding=3D"1" cellspacing=
+=3D"0" width=3D"100%">
+
+
+
+                            <tr>
+                                <td nowrap=3D"nowrap">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                <b>Bestellnummer:</b>
+                                </font>
+                                </td>
+                                <td width=3D"98%">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                <a href=3D"https://www.amazon.de/gp/css/his=
+tory/view.html/ref=3Dox_oce_order_history">302-4990875-5640301</a>
+                                </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td nowrap=3D"nowrap">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                    <b>Versand:</b>
+                                </font>
+                                </td>
+                                <td width=3D"98%">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                  Standardversand
+                                </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td nowrap=3D"nowrap"><font  face=3D"verdan=
+a,arial,helvetica" size=3D"-1" ><b>Bevorzugte Versandart:</b></font></td>
+                                <td width=3D"98%"><font  face=3D"verdana,ar=
+ial,helvetica" size=3D"-1" >Komplettversand: Meine bestellten Artikel in so=
+ wenige Einzellieferungen wie m=C3=B6glich zusammenfassen</font></td>
+                            </tr>
+
+                           =20
+
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                Artikel: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 1,56=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                Verpackung & Versand: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 0,00=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            &nbsp;
+          </td>
+          <td>
+            ------
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                <b>=20
+                  Gesamtbetrag: &nbsp;
+                </b>
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                <b>=20
+                  EUR 1,56=20
+                </b>
+              </font>
+            </span>
+          </td>
+        </tr>
+
+
+
+
+
+
+                            <tr>
+                                <td colspan=3D"2">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                <br />&nbsp;<br />
+
+
+   =20
+
+
+
+
+
+
+
+              <b>Lieferung voraussichtlich: </b>2. Dezember 2011 - 6. Dezem=
+ber 2011
+
+
+
+
+
+
+
+
+
+
+
+
+                                </font>
+                                <table>
+
+                                    <tr valign=3D"top">
+                                        <td>
+                                        </td>
+                                        <td><font  face=3D"verdana,arial,he=
+lvetica" size=3D"-1" ><b>1</b></font></td>
+
+
+<td>
+<font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+  <b>"HDMI Kabel 1.3 / 1.3b FULL HD 1080p 1,5m"</b><br />
+     Zubeh=C3=B6r;
+
+
+    <span class=3D"price">EUR 1,56</span><br />
+
+
+     Auf Lager.<br />&nbsp;&nbsp;
+
+  Verkauf durch: <a href=3D"http://www.amazon.de/gp/help/seller/home.html/r=
+ef=3Dox_oce_seller_home?ie=3DUTF8&amp;seller=3DA1DS2PP1JR96N6">Mediawebstor=
+e   - Preise inkl. Mwst - Verk=C3=A4uferinfo, Widerrufsrecht & Versandkoste=
+n unter Verk=C3=A4ufer Hilfe</a>
+
+
+
+</font>
+</td>
+
+
+                                     </tr>
+
+
+
+                                </table>
+                               =20
+
+
+                                </td>
+                            </tr>
+                        </table>
+=09</td>
+      </tr>
+
+
+
+=09=09=09<tr>
+=09=09=09  <td>
+=09  <hr noshade=3D"noshade" size=3D"1" />
+
+
+
+
+
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1" >
+ &nbsp;
+    </font>
+</p>
+
+
+
+<p> <font face=3D"verdana,arial,helvetica" size=3D"-1"><b>Sie ben=C3=B6tige=
+n Hilfe beim Pr=C3=BCfen und =C3=84ndern Ihrer Bestellungen?</b> <br />
+Umfassende Informationen dar=C3=BCber, wie Sie Ihre Bestellungen aufrufen, =
+pr=C3=BCfen und verwalten k=C3=B6nnen, finden Sie auf unseren Hilfeseiten u=
+nter www.amazon.de/hilfe/. <br /></font> </p>
+
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1">
+       Bitte beachten Sie: Diese E-Mail dient lediglich der Best=C3=A4tigun=
+g des Einganges Ihrer Bestellung und stellt noch keine Annahme Ihres Angebo=
+tes auf Abschluss eines Kaufvertrages dar. Ihr Kaufvertrag f=C3=BCr einen A=
+rtikel kommt zu Stande, wenn wir Ihre Bestellung annehmen, indem wir Ihnen =
+eine E-Mail mit der Benachrichtigung zusenden, dass der Artikel an Sie abge=
+schickt wurde. Dies ist eine automatisch versendete Nachricht. Bitte antwor=
+ten Sie nicht auf dieses Schreiben, da die Adresse nur zur Versendung von E=
+-Mails eingerichtet ist. Sie erreichen uns =C3=BCber das Kontaktformular ht=
+tp://www.amazon.de/kontakt auf unseren Hilfe-Seiten.
+    </font>
+    </p>
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1">
+       Nochmals vielen Dank f=C3=BCr Ihren Besuch.
+    </font>
+     </p>
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1">
+      <b>
+=09<a href=3D"http://www.amazon.de/ref=3Dox_oce_homepage">Amazon.de</a></b>
+
+      <br /><b>
+=09G=C3=BCnstige Preise bei Elektronik & Foto, DVD, Musik, B=C3=BCcher, Gam=
+es, Spielzeug & mehr
+      </b>
+    </font>
+    </p>
+
+
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1">
+      <img src=3D"https://images-na.ssl-images-amazon.com/images/G/03/x-loc=
+ale/common/icons/icon-unsubscribe._V192195749_.gif" width=3D"17" height=3D"=
+15" border=3D"0" />&nbsp;
+      M=C3=B6chten Sie E-Mails nicht im HTML-Format erhalten&#63;
+
+
+  <a href=3D"https://www.amazon.de/gp/gss/ccp/ref=3Dox_oce_email_preference=
+">Bitte hier klicken</a>
+  </font>
+      </p>
+=09=09=09  </td>
+=09=09=09</tr>
+=09=09      </table>
+ </td>
+                   <td valign=3D"top"  bgcolor=3D"#e1e4da" width=3D"180">
+
+
+
+
+
+<table border=3D"0" width=3D"100%" cellpadding=3D"1" cellspacing=3D"0" bgco=
+lor=3D"#006699"><tr><td><table border=3D"0" cellpadding=3D"1" cellspacing=
+=3D"0" width=3D"100%"><tr><td class=3D"h1" bgcolor=3D"#006699" valign=3D"to=
+p" align=3D"center"><b><font color=3D#FFFFFF>Empfehlungen f=C3=BCr Ihren n=
+=C3=A4chsten Besuch:</b><br /></font></td></tr><tr><td bgcolor=3D"#FFFFFF" =
+align=3Dcenter>
+
+
+<a href=3D"http://www.amazon.de/exec/obidos/ASIN/B0049HABPO/ref=3Dpe_thx_si=
+ms_1">Comag HD 25 HDTV Satelliten-Receiver (HDMI, Scart-Anschluss, USB 2.0)=
+ schwarz</a><br /><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></td></tr></table><br /><table border=3D"0" width=3D"100%=
+" cellpadding=3D"1" cellspacing=3D"0" bgcolor=3D"#006699"><tr><td><table bo=
+rder=3D"0" width=3D"100%" cellpadding=3D"5" cellspacing=3D"0"><tr><td align=
+=3Dcenter bgcolor=3D"FFFFFF">
+
+
+<a href=3D"http://www.amazon.de/exec/obidos/ASIN/B0015Y65CW/ref=3Dpe_thx_si=
+ms_2">2m HDMI Kabel St/St HDMI Anschlusskabel schwarz, vergoldete Stecker</=
+a><br /><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></td></tr></table><br /><table border=3D"0" width=3D"100%=
+" cellpadding=3D"1" cellspacing=3D"0" bgcolor=3D"#006699"><tr><td><table bo=
+rder=3D"0" width=3D"100%" cellpadding=3D"5" cellspacing=3D"0"><tr><td align=
+=3Dcenter bgcolor=3D"FFFFFF">
+
+
+<a href=3D"http://www.amazon.de/exec/obidos/ASIN/B003L1ZYYM/ref=3Dpe_thx_si=
+ms_3">AmazonBasics Hochgeschwindigkeits-HDMI-Kabel mit Ethernet (2,0 Meter)=
+</a><br /><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></td></tr></table><br /><table border=3D"0" width=3D"100%=
+" cellpadding=3D"1" cellspacing=3D"0" bgcolor=3D"#006699"><tr><td><table bo=
+rder=3D"0" width=3D"100%" cellpadding=3D"5" cellspacing=3D"0"><tr><td align=
+=3Dcenter bgcolor=3D"FFFFFF">
+
+
+<a href=3D"http://www.amazon.de/exec/obidos/ASIN/B002HRYJ9W/ref=3Dpe_thx_si=
+ms_4">HDMI-Adapter f=C2=A8=C2=B9r Apple mini DisplayPort (Display Port) Mac=
+Book Pro & MacBook Air</a><br /><br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></td></tr></table><br />
+
+
+
+  <b class=3D"small">
+  <img src=3D"https://images-na.ssl-images-amazon.com/images/G/03/x-locale/=
+common/orange-arrow._V192196120_.gif" width=3D"11" height=3D"12" border=3D"=
+0" />
+  Alle Ihre <a href=3D"http://www.amazon.de/gp/yourstore/recs">Empfehlungen=
+</a>
+  </b>
+ =20
+
+                   </td>
+                   </tr>
+                </table>
+              </td>
+             </tr>
+         </table>
+</body>
+</html>
+
+------=_Part_196511_5422706.1322684109304--
+
+------=_Part_196510_11567787.1322684109304--
+

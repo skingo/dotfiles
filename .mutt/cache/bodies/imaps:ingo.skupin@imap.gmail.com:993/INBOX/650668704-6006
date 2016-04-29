@@ -1,0 +1,190 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp263630pdd;
+        Tue, 9 Jul 2013 13:24:18 -0700 (PDT)
+Return-Path: <3cXHcUQkJC1o36L2KHAC68E2AD.4GEAF8G.KCMHAF8E2AD.4GE@M3KW2WVRGUFZ5GODRSRYTGD7.apphosting.bounces.google.com>
+Received-SPF: pass (google.com: domain of 3cXHcUQkJC1o36L2KHAC68E2AD.4GEAF8G.KCMHAF8E2AD.4GE@M3KW2WVRGUFZ5GODRSRYTGD7.apphosting.bounces.google.com designates 10.182.71.44 as permitted sender) client-ip=10.182.71.44
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of 3cXHcUQkJC1o36L2KHAC68E2AD.4GEAF8G.KCMHAF8E2AD.4GE@M3KW2WVRGUFZ5GODRSRYTGD7.apphosting.bounces.google.com designates 10.182.71.44 as permitted sender) smtp.mail=3cXHcUQkJC1o36L2KHAC68E2AD.4GEAF8G.KCMHAF8E2AD.4GE@M3KW2WVRGUFZ5GODRSRYTGD7.apphosting.bounces.google.com;
+       dkim=pass header.i=@google.com
+X-Received: from mr.google.com ([10.182.71.44])
+        by 10.182.71.44 with SMTP id r12mr13366625obu.25.1373401458245 (num_hops = 1);
+        Tue, 09 Jul 2013 13:24:18 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:reply-to:x-google-appengine-app-id
+         :x-google-appengine-app-id-alias:message-id:date:subject:from:to
+         :content-type;
+        bh=imJXUT4qbatZHPbVufRcx9WwaJYJo5PekSpzZNB0GeY=;
+        b=bRrSV7wrAJUTjEh7MbyEJ8zeBkmJi7StzBuTZGUEZIshO9OvofYpqIFU8dr+QeDarj
+         Xekt4h4H4XKh8RFHSn8p34m8UMvGv3ANmxjjpwbeSqyFMvJrnO4eM5ViVfCCSQZIa12K
+         H30+M5KXVzZ8GaFJPq1MkdhgNXQgtmx2i9isxHwrIZCg/U15M9R66DaHnQErlBtsUpXr
+         kyixDyMCkMD1PIIdjpv1ZptMYJ2dYFOaY/PSKYcQqEsmiEp8Y9WjHQs4TRwOSjQW+Rro
+         lIgpRPAWiGPixkrkRZ1Dx7Z+kujgCPKw6u+ybjKASjmpFJSHbbD/gqbPDlD+zMI6vy8T
+         Gn1Q==
+MIME-Version: 1.0
+X-Received: by 10.182.71.44 with SMTP id r12mr5895829obu.25.1373401457739;
+ Tue, 09 Jul 2013 13:24:17 -0700 (PDT)
+Reply-To: Niantic Project Operations <ingress-support@google.com>
+X-Google-Appengine-App-Id: s~betaspike
+X-Google-Appengine-App-Id-Alias: betaspike
+Message-ID: <e89a8fb1fa7c05cb9704e119f2f9@google.com>
+Date: Tue, 09 Jul 2013 20:24:17 +0000
+Subject: You've Been Invited to Play Ingress
+From: Niantic Project Operations <ingress-support@google.com>
+To: ingo.skupin@gmail.com
+Content-Type: multipart/alternative; boundary=e89a8fb1fa7c05cb8d04e119f2f6
+
+--e89a8fb1fa7c05cb8d04e119f2f6
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+marcadium@gmail.com has invited you to an exclusive beta test of INGRESS.
+
+Google Play Store Logo Ingress Logo ACTIVATION CODE:
+2UM97NMP
+
+
+The Ingress has begun.Life seems "normal" but your world is being  
+infiltrated. A mysterious energy has been unlocked by a team of scientists  
+in Europe and is spreading around the world. The origin and purpose of this  
+force is unknown, but some researchers believe it is influencing the way we  
+think. We must control it or it will control us.There are two factions to  
+choose from. The Enlightened seek to spread this influence. The Resistance  
+struggle to protect what's left of our humanity.
+
+
+The World is the GameMove through the real world using your Android device  
+and the Ingress app to discover and tap sources of this mysterious energy,  
+acquire objects from Portals to aid in your quest, deploy tech to capture  
+territory, and ally with other players to advance the cause of the  
+Enlightened or the Resistance.StrategyThe struggle is being played out  
+globally. Track the progress of players around the world, plan your next  
+steps, and communicate with others using the Intel Map.What is the Niantic  
+Project?Is this just a game? An Investigation Board filled with cryptic  
+clues and secret codes awaits. Powerful secrets and game tech are there to  
+be unlocked.Bring your FriendsThe struggle to save the planet spans the  
+entire world. Groups of people acting together can be more effective than  
+individuals acting alone. And cooperation across neighborhoods, cities, and  
+countries will be needed to achieve the ultimate victory.Want to see  
+Ingress in Action?Check out the Ingress Report for the latest updates and  
+intel. Or watch these great tutorials to help get started. Ingress Report  
+on YouTube Ingress Tutorials
+
+Ingress App Screen Image
+
+
+Ingress Help Center Visit Player Help Center to learn more.
+
+Ingress Channel Subscribe to the Official Ingress YouTube Channel.
+
+Ingress Google+ Page Follow us on the Official Ingress Google+ Page.
+
+
+--e89a8fb1fa7c05cb8d04e119f2f6
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"width: 625px; font-family: 'open sans', arial, sans-serif; fo=
+nt-size: 13px; background-color: #081011; color: #79ffff; line-height: 1.3e=
+m;"><div style=3D"margin: .25em; margin-top: 10px; padding: 1.5em 1em 0; ">=
+<a href=3D"mailto:marcadium@gmail.com"><span style=3D"color: #cefdff;  text=
+-decoration:underline">marcadium@gmail.com</span></a><span style=3D"color: =
+#79ffff; "> has invited you to an exclusive beta test of INGRESS.</SPAN></d=
+iv><div style=3D"width: 600px; height: 52px; float: left; clear: both; vert=
+ical-align: middle; position: relative; margin-top: 10px; margin-bottom: 10=
+px; padding: 0 1em; "><a href=3D"https://play.google.com/store/apps/details=
+?id=3Dcom.nianticproject.ingress"><img src=3D"http://commondatastorage.goog=
+leapis.com/ingress-invite-img/playbadge.png" alt=3D"Google Play Store Logo"=
+ style=3D"width: 148px; height: 52px; margin-right: 2em; float: left;"></a>=
+<img src=3D"http://commondatastorage.googleapis.com/ingress-invite-img/ingr=
+ess_large.png" alt=3D"Ingress Logo" style=3D"width: 39px; height: 44px; mar=
+gin-right: 1em; margin-bottom: 20px; position: relative; float: left; "><sp=
+an style=3D"color: white; font-weight: bold; height: 52px; position: absolu=
+te; top: 50%; margin-top: -24px; line-height: 24px; font-size: 1.5em;">ACTI=
+VATION CODE:<br><span style=3D"color: red;">2UM97NMP</span></span></div><di=
+v style=3D"display:block; clear:both; color: #85ccd6; padding: 0 1em; "><hr=
+ style=3D"border-color: #034448; margin-top: 14px; margin-bottom: 14px; hei=
+ght:1px ; "><span style=3D"display:block;">The Ingress has begun.</span><sp=
+an style=3D"display:block; margin: 1em 0;">Life seems "normal" but your wor=
+ld is being infiltrated.  A mysterious energy has been unlocked by a team o=
+f scientists in Europe and is spreading around the world. The origin and pu=
+rpose of this force is unknown, but some researchers believe it is influenc=
+ing the way we think.  We must control it or it will control us.</span><spa=
+n style=3D"display:block; margin: 1em 0;">There are two factions to choose =
+from.  The Enlightened seek to spread this influence.  The Resistance strug=
+gle to protect what's left of our humanity.</span></div><div style=3D"backg=
+round-color: #072a2d; position: relative; float:left; border: 1px solid #7f=
+ffff; vertical-align: middle; display: inline-block; clear: both; padding: =
+1em;"><div style=3D"display: inline-block; position: relative; width: 70%; =
+padding-top:1em;"><span style=3D"display:block; color: white; font-weight: =
+bold;">The World is the Game</span><span style=3D"color: #7fffff; display: =
+block; padding: .2em .2em .8em 1em;">Move through the real world using your=
+ Android device and the Ingress app to discover and tap sources of this mys=
+terious energy, acquire objects from Portals to aid in your quest, deploy t=
+ech to capture territory, and ally with other players to advance the cause =
+of <a href=3D"http://support.google.com/ingress/answer/2852766?hl=3Den" sty=
+le=3D"color:#7fffff"><span style=3D"color: #cefdff;  text-decoration:underl=
+ine">the Enlightened or the Resistance</span></a>.</span><span style=3D"col=
+or: white; font-weight: bold;">Strategy</span><span style=3D"color: #7fffff=
+; display: block; padding: .2em .2em .8em 1em;">The struggle is being playe=
+d out globally.  Track the progress of players around the world, plan your =
+next steps, and communicate with others using the<a href=3D"http://www.ingr=
+ess.com/intel" style=3D"color:#7fffff"> <span style=3D"color: #cefdff;  tex=
+t-decoration:underline">Intel Map</span></a>.</span><span style=3D"color: w=
+hite; font-weight: bold;">What is the Niantic Project?</span><span style=3D=
+"color: #7fffff; display: block; padding: .2em .2em .8em 1em;">Is this just=
+ a game?  An <a href=3D"http://www.nianticproject.com/" style=3D"color:#7ff=
+fff"><span style=3D"color: #cefdff; text-decoration:underline">Investigatio=
+n Board</span></a> filled with cryptic clues and secret codes awaits.  Powe=
+rful secrets and game tech are there to be unlocked.</span><span style=3D"c=
+olor: white; font-weight: bold;">Bring your Friends</span><span style=3D"co=
+lor: #7fffff; display: block; padding: .2em .2em .8em 1em;">The struggle to=
+ save the planet spans the entire world.  Groups of people acting together =
+can be more effective than individuals acting alone. And cooperation across=
+ neighborhoods, cities, and countries will be needed to achieve the ultimat=
+e victory.</span><span style=3D"color: white; font-weight: bold;">Want to s=
+ee Ingress in Action?</span><span style=3D"color: #7fffff; display: block; =
+padding: .2em .2em .8em 1em;">Check out the <a href=3D"http://www.youtube.c=
+om/playlist?list=3DPLDEUWItbkQ58tbLEFP6lA1PtnPk48jDBr"><span style=3D"color=
+: #cefdff; text-decoration:underline">Ingress Report</span></a> for the lat=
+est updates and intel.  Or <a href=3D"http://www.youtube.com/playlist?list=
+=3DPLDEUWItbkQ5_z4i_FBLfjEGOz9uyFZE4c"><span style=3D"color: #cefdff; text-=
+decoration:underline">watch these great tutorials</span></a> to help get st=
+arted.</span><a href=3D"http://www.youtube.com/playlist?list=3DPLDEUWItbkQ5=
+8tbLEFP6lA1PtnPk48jDBr"><img src=3D"http://commondatastorage.googleapis.com=
+/ingress-invite-img/episode1-thumb.png" alt=3D"Ingress Report on YouTube" s=
+tyle=3D"width: 149px; height: 84px; border: 1px solid #7fffff; margin-right=
+: 1.5em; position: relative; left: 1em; "></a><a href=3D"http://www.youtube=
+.com/playlist?list=3DPLDEUWItbkQ5_z4i_FBLfjEGOz9uyFZE4c"><img src=3D"http:/=
+/commondatastorage.googleapis.com/ingress-invite-img/tinkernut-howto-thumb.=
+png" alt=3D"Ingress Tutorials" style=3D"width: 149px; height: 84px; margin-=
+right: 1em; border: 1px solid #7fffff; left: .5em; "></a></div><div style=
+=3D"display: inline-block; padding-top: 12%; padding-right:2%; float: right=
+; "><img src=3D"http://commondatastorage.googleapis.com/ingress-invite-img/=
+ss.png" alt=3D"Ingress App Screen Image" style=3D"width: 160px; height: 303=
+px; float: right; position: absolute; "></div></div><div style=3D"clear:bot=
+h; color: #7fffff; padding: .8em .2em 0 1.2em;"><span style=3D"margin: .6em=
+ 0; color: #79ffff; display:block;"><a href=3D"http://support.google.com/in=
+gress/"><img src=3D"http://commondatastorage.googleapis.com/ingress-invite-=
+img/ingress_small.png" alt=3D"Ingress Help Center" style=3D"width: 25px; he=
+ight: 29px; margin-right: 1em; float: left; position: relative; "></a><span=
+ style=3D"padding: .5em 0 0 0;">Visit <a href=3D"http://support.google.com/=
+ingress" style=3D"color:#00a8a8"><span style=3D"color: #cefdff; text-decora=
+tion:underline">Player Help Center</span></a> to learn more.</span></span><=
+/div><div style=3D"clear:both; color: #00a8a8; padding: .2em .2em .2em 1.2e=
+m;"><a href=3D"http://www.youtube.com/ingress"><img src=3D"http://commondat=
+astorage.googleapis.com/ingress-invite-img/yt_small.png" alt=3D"Ingress Cha=
+nnel" style=3D"width: 23px; height: 23px; margin-right: 1em; float: left; p=
+osition: relative; padding-top: 5px;"></a><span style=3D"margin: .6em 0; co=
+lor: #00a8a8; display:block">Subscribe to the <a href=3D"http://www.youtube=
+.com/ingress" style=3D"color:#00a8a8"><span style=3D"color: #cefdff; text-d=
+ecoration:underline">Official Ingress YouTube Channel</span></a>.</span></d=
+iv><div style=3D"clear:both; color: #00a8a8; padding: .2em .2em 1.6em 1.2em=
+;"><a href=3D"https://plus.sandbox.google.com/u/0/+Ingress/posts"><img src=
+=3D"http://commondatastorage.googleapis.com/ingress-invite-img/gplus_small.=
+png" alt=3D"Ingress Google+ Page" style=3D"width: 23px; height: 23px; margi=
+n-right: 1em; float: left; position: relative; padding-top: 5px;"></a><span=
+ style=3D"margin: .6em 0; color: #00a8a8; display:block">Follow us on the <=
+a href=3D"https://plus.google.com/u/0/+Ingress/posts" style=3D"color:#00a8a=
+8"><span style=3D"color: #cefdff; text-decoration:underline">Official Ingre=
+ss Google+ Page</span></a>.</span></div></div>
+--e89a8fb1fa7c05cb8d04e119f2f6--

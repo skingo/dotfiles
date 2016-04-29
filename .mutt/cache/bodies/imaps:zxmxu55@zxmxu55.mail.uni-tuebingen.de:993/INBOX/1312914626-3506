@@ -1,0 +1,65 @@
+Return-Path: <ingo.skupin@googlemail.com>
+Received: from lmtpproxyd (dmail03.mail.localhost [10.23.21.43])
+	 by ma03.mail.localhost (Cyrus v2.4.18) with LMTPSA
+	 (version=TLSv1/SSLv3 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256/256 verify=YES);
+	 Wed, 20 Apr 2016 11:57:41 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mailserv03.uni-tuebingen.de ([unix socket])
+	 by mailserv03.uni-tuebingen.de (Cyrus v2.4.18) with LMTPA;
+	 Wed, 20 Apr 2016 11:57:41 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mx05.uni-tuebingen.de (mx05.uni-tuebingen.de [134.2.5.215])
+	by mailserv03.uni-tuebingen.de (Postfix) with ESMTPS id 4D7C73AA484
+	for <zxmxu55@mailserv03.uni-tuebingen.de>; Wed, 20 Apr 2016 11:57:41 +0200 (CEST)
+Received: from mfilter-154-1-3.mx.srv.dfn.de (mfilter-154-1-3.mx.srv.dfn.de [194.95.238.90])
+	by mx05.uni-tuebingen.de (Postfix) with ESMTPS id 430C5400020C
+	for <ingo.skupin@student.uni-tuebingen.de>; Wed, 20 Apr 2016 11:57:41 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mfilter-154-1-3.mx.srv.dfn.de (Postfix) with ESMTP id 28289140120
+	for <ingo.skupin@student.uni-tuebingen.de>; Wed, 20 Apr 2016 11:57:41 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mgw2-erl.srv.dfn.de
+Received: from mfilter-154-1-3.mx.srv.dfn.de ([127.0.0.1])
+	by localhost (mgw2-erl.srv.dfn.de [127.0.0.1]) (amavisd-new, port 11540)
+	with ESMTP id U8DzNeXFULSe for <ingo.skupin@student.uni-tuebingen.de>;
+	Wed, 20 Apr 2016 11:57:40 +0200 (CEST)
+Received: from mail-wm0-f68.google.com (mail-wm0-f68.google.com [74.125.82.68])
+	by mfilter-154-1-3.mx.srv.dfn.de (Postfix) with ESMTPS
+	for <ingo.skupin@student.uni-tuebingen.de>; Wed, 20 Apr 2016 11:57:40 +0200 (CEST)
+Received: by mail-wm0-f68.google.com with SMTP id e201so9212347wme.2
+        for <ingo.skupin@student.uni-tuebingen.de>; Wed, 20 Apr 2016 02:57:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=from:message-id:date;
+        bh=3udiAHJd1n/U/0GHJ4xNrL7I26Z/9KiNfnSQ2aN6lhY=;
+        b=DJNfY3DdGi6AebFUYCjkzquoxClwModklHqtgF18eaa9Y1ZLJcYEsE1NppcU3e+yzT
+         +5FugeFJcQ/Fknj2YGBeSiMKLYhBCPW8p4W9mzk55SgI+W5O3oOOExCrnG/IV8CnM+q6
+         ZEOuWNOp7ruYmnCVy/5HWzr2NZhHJAL9gAwk9CWS9pkyqSM/pjKlg3u3qnyrh6FMwlQH
+         MLJ45MqbDizZy0W/HXqhjcBB37poRRH+J4Dcbpq3RJWkTrM0M2FSHVN+/0FE92FBIhD6
+         c9fkPczkyQbGwcMu6/wYOl/Ja2uQXO/JBP0gFmxl0adNYA4qAqtIewmhXz0v/yFcwVgs
+         WiLw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:message-id:date;
+        bh=3udiAHJd1n/U/0GHJ4xNrL7I26Z/9KiNfnSQ2aN6lhY=;
+        b=GfO1bQzVy86dRv8C4M2WC9D3A67rLlB0vp0vQ3Dn4x/qMVmZurVWv38b4hrBXBQzax
+         6um2hwfSmxK3NMRjzz0tsnBzciPbPP+LbmRUaQUlum/YaOe3ExBstJWLWWO+p54lIJrH
+         n1ot05VwxTtQRJkX2Dg7xvhD5+6ovPwxloy7dweiTyKHD0ELj6Oc3OJvFIL3TAYSVUKV
+         pB+JePHyjGuQENSe1tss9tcZae77fo5K7iFodvj8aNg4XwmEN2oZgt4nW8aFnxWwwHPr
+         4v0r9c/cGEcoC4UEOOvPsOKqsItgd80Truq1W485SBce/GwDhvh+KxKodc4wBnSiTMiD
+         umyQ==
+X-Gm-Message-State: AOPr4FVe0hdBCFz+5PUWYisESE5NAtIKnx5Fa96AMHf3nehjMdtsAanAl6O/fmPS6t3fpA==
+X-Received: by 10.28.96.69 with SMTP id u66mr7930003wmb.45.1461146260179;
+        Wed, 20 Apr 2016 02:57:40 -0700 (PDT)
+Received: from skinge-UX31A (HSI-KBW-109-192-195-099.hsi6.kabel-badenwuerttemberg.de. [109.192.195.99])
+        by smtp.gmail.com with ESMTPSA id r8sm1985819wme.14.2016.04.20.02.57.38
+        for <ingo.skupin@student.uni-tuebingen.de>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 20 Apr 2016 02:57:38 -0700 (PDT)
+From: skinge <ingo.skupin@googlemail.com>
+X-Google-Original-From: skinge@skinge-UX31A (skinge)
+Received: by skinge-UX31A (Postfix, from userid 1000)
+	id EE7936C473; Wed, 20 Apr 2016 11:57:37 +0200 (CEST)
+Message-Id: <20160420095737.EE7936C473@skinge-UX31A>
+Date: Wed, 20 Apr 2016 11:57:36 +0200 (CEST)
+
+ijiejifj

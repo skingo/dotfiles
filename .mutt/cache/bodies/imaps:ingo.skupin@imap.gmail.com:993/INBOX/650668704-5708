@@ -1,0 +1,87 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.92.135 with SMTP id cm7csp56285pdb;
+        Thu, 6 Jun 2013 07:29:40 -0700 (PDT)
+X-Received: by 10.14.203.7 with SMTP id e7mr16407739eeo.118.1370528979222;
+        Thu, 06 Jun 2013 07:29:39 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTP id g8si54809575eep.70.2013.06.06.07.29.38
+        for <ingo.skupin@gmail.com>;
+        Thu, 06 Jun 2013 07:29:39 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from mailhost4.inet.dkfz-heidelberg.de ([193.174.53.139]) by
+ mx-ha.web.de (mxweb001) with ESMTP (Nemesis) id 0MdJUB-1V35ur2KfL-00IXws for
+ <ingo.skupin@gmail.com>; Thu, 06 Jun 2013 16:29:38 +0200
+Received: from dkfzmh02.ad.dkfz-heidelberg.de (dkfzmh02.inet.dkfz-heidelberg.de [193.174.53.81])
+	by mailhost2.inet.dkfz-heidelberg.de (8.13.8/8.13.8) with ESMTP id r56EPwwK009082
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=FAIL);
+	Thu, 6 Jun 2013 16:25:59 +0200
+Received: from dkfzmh03.ad.dkfz-heidelberg.de (193.174.53.54) by dkfzmh02
+ (193.174.53.81) with Microsoft SMTP Server (TLS) id 8.1.436.0; Thu, 6 Jun
+ 2013 16:25:58 +0200
+Received: from DKFZEX01.ad.dkfz-heidelberg.de ([193.174.53.79]) by
+ dkfzmh03.ad.dkfz-heidelberg.de ([193.174.53.54]) with mapi; Thu, 6 Jun 2013
+ 16:25:58 +0200
+From: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+To: Martina Pfister <martina@pfister-heidelberg.de>
+CC: Sabine Pfister <pfistersabine@googlemail.com>,
+        Florian Sebert
+	<florian@floriansebert.de>,
+        Lukas Fischer <lukasfischer1@aol.com>,
+        Yannick
+ Frey <yannick.frey1994@web.de>,
+        Tizian Decker <tizian_decker@web.de>,
+        Steffen
+ Sautter <steffen.sautter@web.de>,
+        Christine Erchinger
+	<christine-erchinger@web.de>,
+        Ingo Skupin <ingo.skupin@web.de>,
+        "Dr. Stefan
+ Wiehr" <stefan@wiehr.de>,
+        Rainer Pfister <rainer.pfister@me.com>,
+        "Harry D.
+ Bath" <harryd.bath@t-online.de>,
+        Daniel Metzger <jandan@gmx.de>
+Date: Thu, 6 Jun 2013 16:25:29 +0200
+Subject: Re: Sektausschank Wassermusik
+Thread-Topic: Sektausschank Wassermusik
+Thread-Index: Ac5iwcLS2HbrsSdcQWa6JxDBscOu2A==
+Message-ID: <DD0F6810-F364-49A8-9153-5DADDA7D293F@dkfz-heidelberg.de>
+References: <7252095A-849D-40ED-9FD7-1ECC3E2A0647@pfister-heidelberg.de>
+In-Reply-To: <7252095A-849D-40ED-9FD7-1ECC3E2A0647@pfister-heidelberg.de>
+Accept-Language: de-DE
+Content-Language: de-DE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: de-DE
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+TGllYmUgTWl0c3BpZWxlciwNCg0KaGllciBzcHJpY2h0IGRlciBLYXNzaWVyOiBCaXR0ZSBmcmFn
+dCBub2NoIG1hbCBnYW56IGFrdGl2IGJlaSBFdXJlbiBGcmV1bmRlbiwgVmVyd2FuZHRlbiB1bmQg
+QmVrYW5udGVuIHJ1bSwgd2VyIGFtIFNvbm50YWcga29tbWVuIG3DtmNodGUsIGRhc3MgdW5zZXIg
+S29uemVydCBtaXQgcmVsYXRpdiBob2hlbiBBdXNnYWJlbiBrZWluIHRvdGFsZXIgRmxvcHAgd2ly
+ZC4uLmJpc2hlciBzaW5kIGJlaW0gVmVya2VocnN2ZXJlaW4gbWFnZXJlIDcgS2FydGVuIHZlcmth
+dWZ0ISEhDQoNCkVzIGxpZWd0IGFuIHVucyBhbGxlbiwgbm9jaCBiZXNzZXIgV2VyYnVuZyB6dSBt
+YWNoZW4uDQoNCkhpZXIgZWluIExpbmssIGZhbGxzIElociBFbWFpbHMgdmVyc2NoaWNrZW4gd29s
+bHQ6DQoNCmh0dHA6Ly9tLnZlbnlvby5kZS92ZXJhbnN0YWx0dW5nL3M3MDc0MzQtd2Fzc2VybXVz
+aWstbWl0LWRlbS10dWViaW5nZXItc2F4b3Bob24tZW5zZW1ibGUNCg0KVmllbGVuIERhbmsgZsO8
+ciBFdXJlIFVudGVyc3TDvHR6dW5nIQ0KDQpTdGVmYW4NCg0KUHJvZi4gRHIuIG1lZC4gU3RlZmFu
+IFBmaXN0ZXINCkRpdmlzaW9uIG9mIFBlZGlhdHJpYyBOZXVyb29uY29sb2d5IChCMDYyKQ0KR2Vy
+bWFuIENhbmNlciBSZXNlYXJjaCBDZW50ZXINCkRlcGFydG1lbnQgb2YgUGVkaWF0cmljIEhlbWF0
+b2xvZ3kgYW5kIE9uY29sb2d5DQpIZWlkZWxiZXJnIFVuaXZlcnNpdHkgSG9zcGl0YWwNCg0KDQpB
+bSAwNC4wNi4yMDEzIHVtIDAwOjI1IHNjaHJpZWIgIk1hcnRpbmEgUGZpc3RlciIgPG1hcnRpbmFA
+cGZpc3Rlci1oZWlkZWxiZXJnLmRlPG1haWx0bzptYXJ0aW5hQHBmaXN0ZXItaGVpZGVsYmVyZy5k
+ZT4+Og0KDQpIYWxsbyBhbGxlIHp1c2FtbWVuLA0KDQpoYXQgc2ljaCBiZWkgRXVjaCBqZW1hbmQg
+Z2VmdW5kZW4sIGRlciBkZW4gU2VrdGF1c3NjaGFuayBmw7xyIGRpZSBXYXNzZXJtdXNpayBtaXRi
+ZXRyZXVlbiBrYW5uLCB3w6RocmVuZCB3aXIgc2VsYnN0IHNjaG9uIGltIEVpbnNhdHogc2luZCBt
+aXQgRWluc3RpbW1lbiB1bmQNCktvbnplcnR2b3JiZXJlaXR1bmc/DQoNCkxHDQpNYXJ0aW5hDQoN
+Ck11c2lrc2NodWxlDQpUw7xiaW5nZXIgU2F4b3Bob24tRW5zZW1ibGUNCl9fX19fX19fX19fX19f
+X19fX19fX19fX19fX19fX19fXw0KDQpNYXJ0aW5hIFBmaXN0ZXINCkFtc2VsZ2Fzc2UgNC8zDQo2
+OTEyMSBIZWlkZWxiZXJnDQoNClRlbCAgKDA2IDIyIDEpIDU4IDY5IDY5DQpGYXggKDA2IDIyIDEp
+IDU4IDY5IDcwDQppbmZvQHNheG9waG9uLWVuc2VtYmxlLmRlPG1haWx0bzppbmZvQHNheG9waG9u
+LWVuc2VtYmxlLmRlPg0Kd3d3LnNheG9waG9uLWVuc2VtYmxlLmRlPGh0dHA6Ly93d3cuc2F4b3Bo
+b24tZW5zZW1ibGUuZGU+DQoNCg0KDQoNCg0KDQoNCg0K

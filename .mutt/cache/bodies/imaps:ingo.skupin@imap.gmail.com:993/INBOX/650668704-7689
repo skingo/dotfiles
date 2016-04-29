@@ -1,0 +1,233 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.170 with SMTP id i10csp100560pdr;
+        Mon, 23 Jun 2014 11:29:03 -0700 (PDT)
+X-Received: by 10.194.79.135 with SMTP id j7mr30519286wjx.56.1403548142550;
+        Mon, 23 Jun 2014 11:29:02 -0700 (PDT)
+Return-Path: <service@getgoods.de>
+Received: from admin.getgoods.de (admin.getgoods.de. [176.74.62.24])
+        by mx.google.com with ESMTPS id e8si18030002wib.22.2014.06.23.11.28.26
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 23 Jun 2014 11:28:27 -0700 (PDT)
+Received-SPF: temperror (google.com: error in processing during lookup of service@getgoods.de: DNS timeout) client-ip=176.74.62.24;
+Authentication-Results: mx.google.com;
+       spf=temperror (google.com: error in processing during lookup of service@getgoods.de: DNS timeout) smtp.mail=service@getgoods.de
+Received: from app2.getgoods.de ([10.3.227.10])
+	by admin.getgoods.de with esmtp (Exim 4.80.1)
+	(envelope-from <service@getgoods.de>)
+	id 1Wz8yW-00029v-RJ; Mon, 23 Jun 2014 20:28:16 +0200
+Received: from nginx by app2.getgoods.de with local (Exim 4.80.1)
+	(envelope-from <nginx@app2.getgoods.de>)
+	id 1Wz8yW-0003D0-Qm; Mon, 23 Jun 2014 20:28:16 +0200
+To: ingo.skupin@gmail.com
+Subject: Ihre Bestellung bei getgoods.de
+X-PHP-Originating-Script: 103:Sendmail.php
+From: getgoods.de <kundenservice@service-gg.de>
+Date: Mon, 23 Jun 2014 20:28:16 +0200
+Content-Type: multipart/alternative;
+ boundary="=_a374d6533fb19575f48efcfe551a5350"
+MIME-Version: 1.0
+Message-Id: <E1Wz8yW-0003D0-Qm@app2.getgoods.de>
+
+--=_a374d6533fb19575f48efcfe551a5350
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ingo Skupin,=0D=0A=0D=0Avielen Dank f=FCr Ihre Bestellung bei getg=
+oods.de (Bestellnummer: 153422-8092) am 23.06.2014 um 20:28.=0D=0AInform=
+ationen zu Ihrer Bestellung:=0D=0A=0D=0APos. Art.Nr.              Menge=
+         Preis        Summe=0D=0A=091    10163760             1        3=
+79,99 EUR   379,99 EUR=0D=0A=09     HTC ONE Stealth Black 32GB=0D=0A=0D=
+=0AVersandkosten: 6,99 EUR=0D=0AGesamtkosten Netto: 325,19 EUR=0D=0AGesa=
+mtkosten Brutto: 386,98 EUR=0D=0A=0D=0AGew=E4hlte Zahlungsart: PayPal=0D=
+=0APayPal ist der Online-Zahlungsservice, mit dem Sie in Online-Shops si=
+cher, einfach und schnell bezahlen und das kostenlos.=0D=0A=0D=0ARechnun=
+gsadresse:=0D=0A=0D=0AIngo Skupin=0D=0ABachgasse 26=0D=0A72070 T=FCbinge=
+n=0D=0ADeutschland=0D=0A=0D=0ATel. =0D=0A=0D=0ALieferadresse:=0D=0A=0D=
+=0AIngo Skupin=0D=0ABachgasse 26=0D=0A72070 T=FCbingen=0D=0ADeutschland=
+=0D=0ABei Fragen steht Ihnen unser Serviceteam Montag bis Freitag von 08=
+:00 - 20:00 Uhr und Samstag von 09:00 Uhr bis 16:00 Uhr unter +49 30 788=
+ 900 900 (au=DFer an Feiertagen), oder per E-Mail an service@service-gg.=
+de zur Verf=FCgung. Bitte halten Sie dazu Ihre Auftragsnummer (153422-80=
+92) bereit.=0D=0A=0D=0A=0D=0AWiderrufsrecht=0D=0A=0D=0AVerbrauchern steh=
+t ein Widerrufsrecht nach folgender Ma=DFgabe zu, wobei Verbraucher jede=
+ nat=FCrliche Person ist, die ein Rechtsgesch=E4ft zu einem Zwecke absch=
+lie=DFt, der weder ihrer gewerblichen noch ihrer selbst=E4ndigen berufli=
+chen T=E4tigkeit zugerechnet werden kann:=0D=0A=0D=0A=0D=0A*************=
+***************************=0D=0A=0D=0AWiderrufsbelehrung=0D=0A=0D=0AWid=
+errufsrecht=0D=0ASie k=F6nnen Ihre Vertragserkl=E4rung innerhalb von 14=
+ Tagen ohne Angabe von Gr=FCnden in Textform (z. B. Brief, Fax, E-Mail)=
+ oder - wenn Ihnen die Sache vor Fristablauf =FCberlassen wird =96 auch=
+ durch R=FCcksendung der Sache widerrufen. Die Frist beginnt nach Erhalt=
+ dieser Belehrung in Textform, jedoch nicht vor Eingang der Ware beim Em=
+pf=E4nger (bei der wiederkehrenden Lieferung gleichartiger Waren nicht v=
+or Eingang der ersten Teillieferung) und auch nicht vor Erf=FCllung unse=
+rer Informationspflichten gem=E4=DF Artikel 246 =A7 2 in Verbindung mit=
+ =A7 1 Absatz 1 und 2 EGBGB sowie unserer Pflichten gem=E4=DF =A7 312g A=
+bsatz 1 Satz 1 BGB in Verbindung mit Artikel 246 =A7 3 EGBGB. Zur Wahrun=
+g der Widerrufsfrist gen=FCgt die rechtzeitige Absendung des Widerrufs o=
+der der Sache. Der Widerruf ist zu richten an:=0D=0A=0D=0ADer Widerruf i=
+st zu richten an:=0D=0AGet-it-quick GmbH=0D=0AJosef-Gesing-Stra=DFe 10=
+=0D=0A15234 Frankfurt (Oder)=0D=0Akundenservice@service-gg.de=0D=0AFax:=
+ +49 30 788 900 499=0D=0A=0D=0AWiderrufsfolgen=0D=0AIm Falle eines wirks=
+amen Widerrufs sind die beiderseits empfangenen Leistungen zur=FCckzugew=
+=E4hren und ggf. gezogene Nutzungen (z. B. Zinsen) herauszugeben. K=F6nn=
+en Sie uns die empfangene Leistung sowie Nutzungen (z.B. Gebrauchsvortei=
+le) nicht oder teilweise nicht oder nur in verschlechtertem Zustand zur=
+=FCckgew=E4hren beziehungsweise herausgeben, m=FCssen Sie uns insoweit W=
+ertersatz leisten. F=FCr die Verschlechterung der Sache und f=FCr gezoge=
+ne Nutzungen m=FCssen Sie Wertersatz nur leisten, soweit die Nutzungen o=
+der die Verschlechterung auf einen Umgang mit der Sache zur=FCckzuf=FChr=
+en ist, der =FCber die Pr=FCfung der Eigenschaften und der Funktionsweis=
+e hinausgeht. Unter "Pr=FCfung der Eigenschaften und der Funktionsweise"=
+ versteht man das Testen und Ausprobieren der jeweiligen Ware, wie es et=
+wa im Ladengesch=E4ft m=F6glich und =FCblich ist.=0D=0APaketversandf=E4h=
+ige Sachen sind auf unsere Gefahr zur=FCckzusenden. Sie haben die regelm=
+=E4=DFigen Kosten der R=FCcksendung zu tragen, wenn die gelieferte Ware=
+ der bestellten entspricht und wenn der Preis der zur=FCckzusendenden Sa=
+che einen Betrag von 40 Euro nicht =FCbersteigt oder wenn Sie bei einem=
+ h=F6heren Preis der Sache zum Zeitpunkt des Widerrufs noch nicht die Ge=
+genleistung oder eine vertraglich vereinbarte Teilzahlung erbracht haben=
+. Anderenfalls ist die R=FCcksendung f=FCr Sie kostenfrei. Nicht paketve=
+rsandf=E4hige Sachen werden bei Ihnen abgeholt. Verpflichtungen zur Erst=
+attung von Zahlungen m=FCssen innerhalb von 30 Tagen erf=FCllt werden. D=
+ie Frist beginnt f=FCr Sie mit der Absendung Ihrer Widerrufserkl=E4rung=
+ oder der Sache, f=FCr uns mit deren Empfang.=0D=0A=0D=0ADas Widerrufsre=
+cht besteht nicht:=0D=0A=95=09Bei Lieferung von Waren, die nach Kundensp=
+ezifikationen angefertigt werden oder eindeutig auf die pers=F6nlichen B=
+ed=FCrfnisse zugeschnitten oder die aufgrund ihrer Beschaffenheit nicht=
+ f=FCr eine R=FCcksendung geeignet sind oder schnell verderben k=F6nnen=
+ oder deren Verfallsdatum =FCberschritten w=FCrde,=0D=0A=95=09bei Liefer=
+ung von Audio- oder Videoaufzeichnungen oder von Software, sofern die ge=
+lieferten Datentr=E4ger vom Verbraucher entsiegelt worden sind,=0D=0A=95=
+=09zur Lieferung von Zeitungen, Zeitschriften und Illustrierten, es sei=
+ denn, dass der Verbraucher seine Vertragserkl=E4rung telefonisch abgege=
+ben hat.=0D=0A=0D=0A=0D=0A=0D=0AFinanzierte Gesch=E4fte=0D=0AWenn Sie di=
+esen Vertrag durch ein Darlehen finanzieren und ihn sp=E4ter widerrufen,=
+ sind Sie auch an den Darlehensvertrag nicht mehr gebunden, sofern beide=
+ Vertr=E4ge eine wirtschaftliche Einheit bilden. Dies ist insbesondere d=
+ann anzunehmen, wenn wir gleichzeitig Ihr Darlehensgeber sind oder wenn=
+ sich Ihr Darlehensgeber im Hinblick auf die Finanzierung unserer Mitwir=
+kung bedient. Wenn uns das Darlehen bei Wirksamwerden des Widerrufs oder=
+ bei der R=FCckgabe der Ware bereits zugeflossen ist, tritt Ihr Darlehen=
+sgeber im Verh=E4ltnis zu Ihnen hinsichtlich der Rechtsfolgen des Widerr=
+ufs oder der R=FCckgabe in unsere Rechte und Pflichten aus dem finanzier=
+ten Vertrag ein. Letzteres gilt nicht, wenn der vorliegende Vertrag den=
+ Erwerb von Finanzinstrumenten (z.B. von Wertpapieren, Devisen oder Deri=
+vaten) zum Gegenstand hat. Wollen Sie eine vertragliche Bindung so weitg=
+ehend wie m=F6glich vermeiden, machen Sie von Ihrem Widerrufsrecht Gebra=
+uch und widerrufen Sie zudem den Darlehensvertrag, wenn Ihnen auch daf=
+=FCr ein Widerrufsrecht zusteht.=0D=0A=0D=0AEnde der Widerrufsbelehrung=
+=0D=0A=0D=0AAllgemeine Hinweise=0D=0A1.=09Bitte vermeiden Sie Besch=E4di=
+gungen und Verunreinigungen der Ware. Senden Sie die Ware bitte m=F6glic=
+hst in Originalverpackung mit s=E4mtlichem Zubeh=F6r und mit allen Verpa=
+ckungsbestandteilen an uns zur=FCck. Verwenden Sie ggf. eine sch=FCtzend=
+e Umverpackung. Wenn Sie die Originalverpackung nicht mehr besitzen, sor=
+gen Sie bitte mit einer geeigneten Verpackung f=FCr einen ausreichenden=
+ Schutz vor Transportsch=E4den.=0D=0A2.=09Senden Sie die Ware bitte m=F6=
+glichst nicht unfrei an uns zur=FCck.=0D=0AUm Ihre Anfrage ordnungsgem=
+=E4=DF bearbeiten zu k=F6nnen, verwenden Sie bitte das R=FCcksendeformul=
+ar, Sie erhalten dann ein Paketlabel zur kostenlosen R=FCcksendung. Zum=
+ R=FCcksendeformular=0D=0A3.=09Bitte beachten Sie, dass die vorgenannten=
+ Ziffern 1-2 nicht Voraussetzung f=FCr die wirksame Aus=FCbung des Wider=
+rufsrechts sind.=0D=0A=0D=0A=0D=0A=0D=0AWiderrufsbelehrung f=FCr die Erb=
+ringung von Dienstleistungen=0D=0A=0D=0AWiderrufsbelehrung=0D=0A=0D=0AWi=
+derrufsrecht=0D=0ASie k=F6nnen Ihre Vertragserkl=E4rung innerhalb von 14=
+ Tagen ohne Angabe von Gr=FCnden in Textform=0D=0A(z.B. Brief, Fax, E-Ma=
+il) widerrufen. Die Frist beginnt nach Erhalt dieser Belehrung in Textfo=
+rm,=0D=0Ajedoch nicht vor Vertragsschluss und auch nicht vor Erf=FCllung=
+ unserer Informationspflichten=0D=0Agem=E4=DF Artikel 246 =A7 2 in Verbi=
+ndung mit =A7 1 Absatz 1 und 2 EGBGB sowie unserer Pflichten=0D=0Agem=E4=
+=DF =A7 312g Absatz 1 Satz 1 BGB in Verbindung mit Artikel 246 =A7 3 EGB=
+GB. Zur Wahrung der=0D=0AWiderrufsfrist gen=FCgt die rechtzeitige Absend=
+ung des Widerrufs.=0D=0A=0D=0ADer Widerruf ist zu richten an:=0D=0AGet-i=
+t-quick GmbH=0D=0AJosef-Gesing-Stra=DFe 10=0D=0A15234 Frankfurt (Oder)=
+=0D=0Akundenservice@service-gg.de=0D=0AFax: +49 30 788 900 499=0D=0A=0D=
+=0AWiderrufsfolgen=0D=0AIm Falle eines wirksamen Widerrufs sind die beid=
+erseits empfangenen Leistungen zur=FCckzugew=E4hren=0D=0Aund ggf. gezoge=
+ne Nutzungen (z.B. Zinsen) herauszugeben. K=F6nnen Sie uns=0D=0Adie empf=
+angene Leistung sowie Nutzungen (z.B. Gebrauchsvorteile) nicht oder teil=
+weise=0D=0Anicht oder nur in verschlechtertem Zustand zur=FCckgew=E4hren=
+ beziehungsweise herausgeben,=0D=0Am=FCssen Sie uns insoweit Wertersatz=
+ leisten. Dies kann dazu f=FChren, dass Sie die vertraglichen=0D=0AZahlu=
+ngsverpflichtungen f=FCr den Zeitraum bis zum Widerruf gleichwohl erf=FC=
+llen=0D=0Am=FCssen. Verpflichtungen zur Erstattung von Zahlungen m=FCsse=
+n innerhalb von 30 Tagen erf=FCllt=0D=0Awerden. Die Frist beginnt f=FCr=
+ Sie mit der Absendung Ihrer Widerrufserkl=E4rung, f=FCr uns=0D=0Amit de=
+ren Empfang.=0D=0A=0D=0ABesondere Hinweise=0D=0A=0D=0AIhr Widerrufsrecht=
+ erlischt vorzeitig, wenn der Vertrag von beiden Seiten auf Ihren ausdr=
+=FCcklichen=0D=0AWunsch vollst=E4ndig erf=FCllt ist, bevor Sie Ihr Wider=
+rufsrecht ausge=FCbt haben.=0D=0AEnde der Widerrufsbelehrung=0D=0A=0D=0A=
+=0D=0AWiderrufsbelehrung Garantieverl=E4ngerung und Schutzbrief=0D=0A=0D=
+=0AWiderrufsrecht=0D=0ASie k=F6nnen Ihre Vertragserkl=E4rung innerhalb v=
+on 14 Tagen ohne Angabe von Gr=FCnden in Textform (z. B. Brief, Fax, E-M=
+ail) widerrufen.=0D=0ADie Frist beginnt, nachdem Sie den Versicherungssc=
+hein, die Vertragsbestimmungen einschlie=DFlich der Allgemeinen Versiche=
+rungsbedingungen, die weiteren Informationen nach =A7 7 Abs. 1 und 2 des=
+ Versicherungsvertragsgesetzes in Verbindung mit den =A7=A7 1 bis 4 der=
+ VVG-Informationspflichtenverordnung und diese Belehrung jeweils in Text=
+form erhalten haben. Zur Wahrung der Widerrufsfrist gen=FCgt die rechtze=
+itige Absendung des Widerrufs.=0D=0ADer Widerruf ist zu richten an:=0D=
+=0ASchutzbrief24 GmbH, Postfach 4133, 59037 Hamm=0D=0A=0D=0A************=
+****************************=0D=0A=0D=0AIhr Anbieter und Vertragspartner=
+=0D=0A=0D=0AGet-it-quick GmbH=0D=0AJosef-Gesing-Stra=DFe 10=0D=0A15234 F=
+rankfurt (Oder)=0D=0ATel.: +49 788 900 900=0D=0AFax: +49 30 788 900 499=
+=0D=0A=0D=0AGesch=E4ftsf=FChrer: Stefan Raab, Volker Oschkinat=0D=0A=0D=
+=0AAmtsgericht Frankfurt (Oder), HRB 12041=0D=0ASteuernummer: 061/109/01=
+044=0D=0AUmsatzsteuer-ID: DE 255914309=0D=0A=0D=0AMit freundlichen Gr=FC=
+=DFen=0D=0AIhr Team von der Get-it-quick GmbH
+
+--=_a374d6533fb19575f48efcfe551a5350
+Content-Type: text/html; charset=iso-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D"font-family:arial; font-size:12px;">=0D=0A<img src=3D"http=
+://www.getgoods.de/uploads/getgoods/logo/email/logo.gif" alt=3D"Logo" />=
+=0D=0A<br/>=0D=0A<br/>=0D=0AHallo Ingo Skupin,=0D=0A<br/>=0D=0A<br/>=0D=
+=0Avielen Dank f=FCr Ihre Bestellung bei getgoods.de (Bestellnummer: 153=
+422-8092) am 23.06.2014 um 20:28.=0D=0A<br/>=0D=0A<br/>=0D=0A<strong>Inf=
+ormationen zu Ihrer Bestellung:</strong></p>=0D=0A<table width=3D"80%" b=
+order=3D"0" style=3D"font-family:Arial, Helvetica, sans-serif; font-size=
+:10px;">=0D=0A=09<tr>=0D=0A=09=09<td bgcolor=3D"#F7F7F2" style=3D"border=
+-bottom:1px solid #cccccc;"><strong>Artikel</strong></td>=0D=0A=09=09<td=
+ bgcolor=3D"#F7F7F2" style=3D"border-bottom:1px solid #cccccc;"><strong>=
+Pos.</strong></td>=0D=0A=09=09<td bgcolor=3D"#F7F7F2" style=3D"border-bo=
+ttom:1px solid #cccccc;"><strong>Art-Nr.</strong></td>=0D=0A=09=09<td bg=
+color=3D"#F7F7F2" style=3D"border-bottom:1px solid #cccccc;"><strong>Men=
+ge</strong></td>=0D=0A=09=09<td bgcolor=3D"#F7F7F2" style=3D"border-bott=
+om:1px solid #cccccc;"><strong>Preis</strong></td>=0D=0A=09=09<td bgcolo=
+r=3D"#F7F7F2" style=3D"border-bottom:1px solid #cccccc;"><strong>Summe</=
+strong></td>=0D=0A=09</tr>=0D=0A=09<tr>=0D=0A=09=09<td rowspan=3D"2" sty=
+le=3D"border-bottom:1px solid #cccccc;"><img src=3D"http://www.getgoods.=
+de/images/articles/fe/fe34118d7ee2373a67e54082d2f4b0fd_1.jpg" alt=3D"HTC=
+ ONE Stealth Black 32GB" /></td>=0D=0A=09=09<td>1    </td>=0D=0A=09=09<t=
+d>10163760            </td>=0D=0A=09=09<td>1     </td>=0D=0A=09=09<td> =
+ 379,99 EUR</td>=0D=0A=09=09<td>  379,99 EUR</td>=0D=0A=09</tr>=0D=0A=09=
+<tr>=0D=0A=09=09<td colspan=3D"5" style=3D"border-bottom:1px solid #cccc=
+cc;">    HTC ONE Stealth Black 32GB</td>=0D=0A=09</tr>=0D=0A</table>=0D=
+=0A<br/>=0D=0A<br/>=0D=0AVersandkosten: 6,99 EUR<br/>=0D=0AGesamtkosten=
+ Netto: 325,19 EUR<br/>=0D=0AGesamtkosten Brutto: 386,98 EUR<br/>=0D=0A<=
+br/>=0D=0A<strong>Gew=E4hlte Zahlungsart:</strong> PayPal<br/>=0D=0APayP=
+al ist der Online-Zahlungsservice, mit dem Sie in Online-Shops sicher, e=
+infach und schnell bezahlen und das kostenlos.=0D=0A<br/>=0D=0A<br/>=0D=
+=0A<strong>Gew=E4hlte Versandart:</strong> DHL Standard<br/>=0D=0A=09Wir=
+ versenden grunds=E4tzlich versichert mit DHL Paket.=0D=0A<br/>=0D=0A<br=
+/>=0D=0A<strong>Rechnungsadresse:</strong><br/>=0D=0A<br/>=0D=0AIngo Sku=
+pin<br/>=0D=0ABachgasse 26<br/>=0D=0A72070 T=FCbingen<br/>=0D=0ADeutschl=
+and=0D=0A<br /><br />=0D=0ATel. =0D=0A<br/>=0D=0A<br/>=0D=0A<strong>Lief=
+eradresse:</strong><br/><br/>=0D=0A=09Ingo Skupin<br/>=0D=0A=09Bachgasse=
+ 26<br/>=0D=0A=0972070 T=FCbingen<br/>=0D=0A=09Deutschland<br/>=0D=0A<br=
+/>=0D=0ABei Fragen steht Ihnen unser Serviceteam Montag bis Freitag von=
+ 09:00 Uhr bis 17:30 Uhr unter +49 30 788 900 900 (au=DFer an Feiertagen=
+), oder per E-Mail an kundenservice@service-gg.de zur Verf=FCgung. Bitte=
+ halten Sie dazu Ihre Bestellnummer (153422-8092) bereit.=0D=0A<br/>=0D=
+=0A<br/>=0D=0AIhr Anbieter und Vertragspartner=0D=0A<br/>=0D=0A<br/>=0D=
+=0AGet-it-quick GmbH<br/>=0D=0AJosef-Gesing-Stra=DFe 10<br/>=0D=0A15234=
+ Frankfurt (Oder)<br/>=0D=0ATel.: +49 30 788 900 900<br/>=0D=0AFax: +49=
+ 30 788 900 499=0D=0A<br/>=0D=0A<br/>=0D=0AGesch=E4ftsf=FChrer: Stefan R=
+aab, Volker Oschkinat<br/>=0D=0AAmtsgericht: Amberg, HRB 5357<br />=0D=
+=0ASteuernummer: 201/115/21000<br />=0D=0A<br/>=0D=0A<br/>=0D=0AMit freu=
+ndlichen Gr=FC=DFen<br/>=0D=0AIhr Team von der Get-it-quick GmbH=0D=0A</=
+div>
+
+--=_a374d6533fb19575f48efcfe551a5350--

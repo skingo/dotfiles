@@ -1,0 +1,333 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp73286pdb;
+        Wed, 26 Mar 2014 16:09:33 -0700 (PDT)
+X-Received: by 10.15.82.132 with SMTP id a4mr13186145eez.47.1395875372387;
+        Wed, 26 Mar 2014 16:09:32 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id t3si105588eeg.301.2014.03.26.16.09.31
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 26 Mar 2014 16:09:32 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass (test mode) header.i=@3-1415.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb004)
+ with ESMTPS (Nemesis) id 0LufPU-1XB3D11nTU-00zms0 for
+ <ingo.skupin@gmail.com>; Thu, 27 Mar 2014 00:09:31 +0100
+Received: from mo4-p00-ob.smtp.rzone.de ([81.169.146.161]) by mx-ha.web.de
+ (mxweb004) with ESMTPS (Nemesis) id 0LgaNJ-1WpvQc1n41-00o1Hd for
+ <ingo.skupin@web.de>; Thu, 27 Mar 2014 00:09:31 +0100
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; t=1395875371; l=15773;
+	s=domk; d=3-1415.de;
+	h=Content-Type:In-Reply-To:References:Subject:To:MIME-Version:From:
+	Date:X-RZG-CLASS-ID:X-RZG-AUTH;
+	bh=XS9RuOaTOYgJ8XjGGF0uO+jDD/k=;
+	b=GPuoRscAb9mKoYKJJqrAZ7Dy5O67MVAGhw+LjgrOZiTFV0KomvxcKDgDuCfoKOx850/
+	Yw73gjuTg1Fedp6p09rjAhEwR6zz2gfV8M+N3kmpCtund3lIpBjIzfTb0SKKS2xu3Q5vE
+	Ts6dGmBORjRGwySVTX22F0lmPrVd1vTRsPA=
+X-RZG-AUTH: :ICICfFOrc/oov7XdMPZS+An+TOwdMN9zM5SvLZSWyGxMPJoRI+AKlSvMJu5hLGYyl8U=
+X-RZG-CLASS-ID: mo00
+Received: from [192.168.2.101] (pD9F8A279.dip0.t-ipconnect.de [217.248.162.121])
+	by smtp.strato.de (RZmta 32.31 DYNA|AUTH)
+	with ESMTPSA id z06320q2QN9AI2q
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate);
+	Thu, 27 Mar 2014 00:09:10 +0100 (CET)
+Message-ID: <53335E15.4050406@3-1415.de>
+Date: Thu, 27 Mar 2014 00:09:09 +0100
+From: Lukas Fischer <L.Fischer@3-1415.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>, 
+ Sabine Pfister <pfistersabine@googlemail.com>,
+ Steffen Sautter <steffen.sautter@web.de>, 
+ Yannick Frey <yannick.frey1994@web.de>,
+ Tizian Decker <tizian_decker@web.de>, Lena Hahn <LenaHahn20@web.de>, 
+ Florian Sebert <florian@floriansebert.de>,
+ "raphael@rothschink.de" <raphael@rothschink.de>, 
+ Ingo Skupin <ingo.skupin@web.de>,
+ Julia Wollny <wollny.julia@me.com>, 
+ Rainer Pfister <rainer.pfister@me.com>,
+ "Dr. Stefan Wiehr" <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>, 
+ Pfister <kinderaerztin_susanne@t-online.de>,
+ "tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>, 
+ "decker.mitat@onlinehome.de" <decker.mitat@onlinehome.de>,
+ "harryd.bath@t-online.de" <harryd.bath@t-online.de>, 
+ "mpfister@geuder.de" <mpfister@geuder.de>,
+ "martina@pfister-heidelberg.de" <martina@pfister-heidelberg.de>
+Subject: Re: USA-Reise Update IV
+References: <359C8784E284224CAB196A0069F3EE79FFB29B0249@DKFZEX01.ad.dkfz-heidelberg.de>,<4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de> <4F91222C659D5B4E8C89CE4D710BB08EFFD98A0F1C@DKFZEX01.ad.dkfz-heidelberg.de>
+In-Reply-To: <4F91222C659D5B4E8C89CE4D710BB08EFFD98A0F1C@DKFZEX01.ad.dkfz-heidelberg.de>
+X-Enigmail-Version: 1.6
+Content-Type: multipart/mixed;
+ boundary="------------090109070903030008060108"
+
+This is a multi-part message in MIME format.
+--------------090109070903030008060108
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hallo zusammen,
+
+
+ich habe nun die angehängte Liste erstellt. Die Größen für folgenden
+Personen sind geschätzt:
+- - Daniel
+- - Tobias
+- - Stefan W.
+Über Korrekturen hier wäre ich sehr dankbar. Der Empfehlung des
+Bestickers folgend sind alle Damengrößen eine Stufe größer ausgelegt -
+das ist keine Beleidigung sondern Reaktion auf den, Zitat: "Sehr
+italienischen Schnitt". Auch hier nehme ich bis morgen um 09.00
+Änderungen noch gerne an.
+Es werden folglich Poloshirts (Mischgewebe aus Polyester und
+Baumwolle, der höheren Belastbarkeit wegen) in schwarz mit hellgrauem
+Stick (11cmx5cm) bestellt. Den genauen Preis kann ich euch morgen
+Abend mitteilen.
+
+
+Liebe Grüße soweit
+Lukas
+
+
+
+Am 25.03.2014 21:14, schrieb Pfister, Stefan:
+> Hallo zusammen,
+> 
+> hier nun endlich der erste (noch nicht ganz finalisierte) 
+> Ablaufplan unserer ganzen Reise - Florian ganz herzlichen Dank für 
+> seine tolle Mithilfe!
+> 
+> Bitte gebt uns gerne Rückmeldung, was Ihr gerne noch ändern wollt
+> - noch ist es (für das meiste) nicht zu spät...
+> 
+> Viele Grüße,
+> 
+> Stefan & Martina
+> 
+> 
+> 
+> ________________________________________ Von: Pfister, Stefan 
+> Gesendet: Montag, 24. März 2014 00:17 An: Pfister, Stefan; Sabine 
+> Pfister; Steffen Sautter; Yannick Frey; Tizian Decker; Lena Hahn; 
+> Florian Sebert; raphael@rothschink.de; Ingo Skupin; Lukas Fischer; 
+> Julia Wollny; Rainer Pfister; Dr. Stefan Wiehr; Daniel Metzger; 
+> Pfister; tkonwitschny@yahoo.de; decker.mitat@onlinehome.de; 
+> harryd.bath@t-online.de; mpfister@geuder.de; 
+> martina@pfister-heidelberg.de Betreff: USA-Reise Update III
+> 
+> Ihr Lieben,
+> 
+> heute wieder ein kleines Update zu unserer Reise: 1.) Am 12.4. um 
+> 19 Uhr haben wir noch ein Abschiedskonzert im Musikzentrum in 
+> Pfrondorf (auf Spendenbasis) mit em Repertoire der Reise - bitte 
+> macht dafür kräftig Werbung (@Lukas: Könntest Du es auch 
+> baldmöglichst auf die Homepage stellen?) 2.) Treffen ist in 
+> Stuttgart am 13.4. um 8:30 3.) WICHTIG: Alle brauchen ein gültiges 
+> ESTA (Visums-Ersatz, muss vorher beantragt sein, s. meine früheren 
+> Emails!) UND einen noch für mindestens 6 Monate über die Reise 
+> hinaus gültigen Reisepass (beides müssten nach meinen
+> Informationen unterdessen alle haben, muss aber auch MITGEBRACHT
+> werden). 4.) Jeder darf 18 kg Gepäck aufgeben (den Rest brauchen
+> wir für die großen Instrumente), die "kleineren" Instumente (Sopran
+> bis Tenor) sollten als Handgepäck mitgenommen werden. Zusätzlich
+> geht dann nur noch ein kleines Handgepäckstück, z.B. eine kleine
+> Tasche. 5.) Wir sind insgesamt in 3 Gastfamilien. Neben den
+> obligatorischen TSE-CDs, die das Ensemble zur Verfügung stellen
+> wird, wäre es super, wenn jeder von Euch sich noch was Kleines
+> einfallen lassen könnte, z.B. als Erinnerung an Tübingen oder so?
+> 6.) Die Zusatz-Ausflüge in Washington und New York sind noch in
+> Planung, bis jetzt sind Monuments in the Dark, Arlington und Spy
+> Museum in Washington, sowie Empire State Building und State of
+> Liberty/Ellis Island in NYC die Favoriten. 7.) WICHTIG: Für die 
+> Musikinstrumentenversicherung bräuchte ich, möglichst im Laufe der 
+> kommenden Woche, von ALLEN den Hersteller, Baujahr und Wert (incl. 
+> Koffer) Eures Instrumentes. Wir prüfen gerade, ob es nicht 
+> günstiger ist, über den Blasmusikverband eine Versicherung für das 
+> ganze Jahr abzuschließen, da hätte ja sicher niemand was dagegen. 
+> Hat jemand bereits eine Musikinstrumentenversicherung? Wenn ja, 
+> würde diese Konzertreisen ins außer-europäische Ausland umfassen? 
+> 8.) Brauchen wir noch ein Tour-T-Shirt? Wenn ja, Freiwillige vor, 
+> die das in die Hand nehmen und einen Vorschlag erarbeiten! 9.) 
+> Dasselbe gilt für unsere neu zu gestaltenden Ensemble-Krawatten 
+> (bzw Halstücher für die Mädels)! 10.) Diejenigen, die bereit sind, 
+> einen Teil der Strecke Atlanta - Talahassee - Atanta mit einem der 
+> Minivans zu fahren, sollten bitte einen gültigen Führerschein 
+> mitbringen. 11.) Das (fast) endgültige Programm schicken wir Euch 
+> dann in den nächsten Tagen?
+> 
+> Gibt es weitere Fragen?
+> 
+> Wir freuen uns sehr auf die Reise!
+> 
+> Euer Orga-Team
+> 
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://www.enigmail.net/
+
+iQEcBAEBAgAGBQJTM14VAAoJEFOYM1E91uODtB0H/3tAN/3vyZQL9z3B8Ep7k+mM
+n8YN+I5uTxEu5JuOhSme82iwATzzePVaGB6GVslf5lIabAE+1KdZTHIb0lJobC2j
+pxub69t3eY925gRLkTbDMh/kMd0CntNtCIeGbub1e3TaHXSYn8R9GZxJ06SpUvyD
+km2kcaukAjFLH43e+FS7/ntbp0q+cais0qbYMliV3adFXAmDL4y0OLp+rNiiIc4S
+QkCbgOvNJjwO1uSPXRSBws4Up5HvfqI8rtERYYWPM0ttOmTa4zYTY9ARFELFgxKn
+0uMUp3iqRLv1d/kjc+f9DBIJNse1COY6BGnXs8xD9ZauNG03RcSyofcc4M56w48=
+=Vp7w
+-----END PGP SIGNATURE-----
+
+--------------090109070903030008060108
+Content-Type: application/vnd.ms-excel;
+ name="2014-03-26_ReisePolohemden.xls"
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment;
+ filename="2014-03-26_ReisePolohemden.xls"
+
+0M8R4KGxGuEAAAAAAAAAAAAAAAAAAAAAOwADAP7/CQAGAAAAAAAAAAAAAAABAAAADAAAAAAA
+AAAAEAAAAgAAAAEAAAD+////AAAAAAAAAAD/////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+///////////////////////////////////9//////////7///8EAAAABQAAAAYAAAAHAAAA
+CAAAAAkAAAAKAAAACwAAAP7///8NAAAA/v//////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+/////////////////////////////////////////////////////////////////////1IA
+bwBvAHQAIABFAG4AdAByAHkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAWAAUA////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAA/v///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///////////////8AAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP//
+/////////////wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAP7///8AAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAA////////////////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAA/v///wAAAAAAAAAAAQAAAAIAAAADAAAABAAAAAUAAAAGAAAABwAAAAgA
+AAAJAAAACgAAAAsAAAAMAAAADQAAAA4AAAAPAAAAEAAAABEAAAASAAAAEwAAABQAAAAVAAAA
+FgAAABcAAAAYAAAAGQAAABoAAAAbAAAAHAAAAB0AAAAeAAAAHwAAACAAAAAhAAAAIgAAACMA
+AAAkAAAAJQAAACYAAAAnAAAAKAAAACkAAAAqAAAAKwAAACwAAAAtAAAALgAAAC8AAAAwAAAA
+MQAAADIAAAAzAAAANAAAADUAAAA2AAAANwAAADgAAAA5AAAAOgAAADsAAAA8AAAAPQAAAD4A
+AAD+////QAAAAP7////+////QwAAAEQAAAD+////RgAAAP7/////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////
+//////////////////////////////////////////////////////////////////8JCBAA
+AAYFALsNzAcAAAAABgAAAOEAAgCwBMEAAgAAAOIAAABcAHAABAAAQ2FsYyAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAg
+ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIEIAAgCwBGEBAgAAAMAB
+AAA9AQIAAQCcAAIADgCvAQIAAAC8AQIAAAA9ABIAAAAAAABAACA4AAAAAAABAKkAQAACAAAA
+jQACAAAAIgACAAAADgACAAEAtwECAAAA2gACAAAAMQAaAMgAAAD/f5ABAAAAAgAABQFBAHIA
+aQBhAGwAMQAaAMgAAAD/f5ABAAAAAAAABQFBAHIAaQBhAGwAMQAaAMgAAAD/f5ABAAAAAAAA
+BQFBAHIAaQBhAGwAMQAaAMgAAAD/f5ABAAAAAAAABQFBAHIAaQBhAGwAHgQMAKQABwAAR0VO
+RVJBTOAAFAAAAKQA9f8gAAAAAAAAAAAAAADAIOAAFAABAAAA9f8gAAD0AAAAAAAAAADAIOAA
+FAABAAAA9f8gAAD0AAAAAAAAAADAIOAAFAACAAAA9f8gAAD0AAAAAAAAAADAIOAAFAACAAAA
+9f8gAAD0AAAAAAAAAADAIOAAFAAAAAAA9f8gAAD0AAAAAAAAAADAIOAAFAAAAAAA9f8gAAD0
+AAAAAAAAAADAIOAAFAAAAAAA9f8gAAD0AAAAAAAAAADAIOAAFAAAAAAA9f8gAAD0AAAAAAAA
+AADAIOAAFAAAAAAA9f8gAAD0AAAAAAAAAADAIOAAFAAAAAAA9f8gAAD0AAAAAAAAAADAIOAA
+FAAAAAAA9f8gAAD0AAAAAAAAAADAIOAAFAAAAAAA9f8gAAD0AAAAAAAAAADAIOAAFAAAAAAA
+9f8gAAD0AAAAAAAAAADAIOAAFAAAAAAA9f8gAAD0AAAAAAAAAADAIOAAFAAAAKQAAQAgAAAA
+AAAAAAAAAADAIOAAFAABACsA9f8gAADwAAAAAAAAAADAIOAAFAABACkA9f8gAADwAAAAAAAA
+AADAIOAAFAABACwA9f8gAADwAAAAAAAAAADAIOAAFAABACoA9f8gAADwAAAAAAAAAADAIOAA
+FAABAAkA9f8gAADwAAAAAAAAAADAIJMCBAAAgAD/kwIEABCAA/+TAgQAEYAG/5MCBAASgAT/
+kwIEABOAB/+TAgQAFIAF/2ABAgABAIUAEAD/BQAAAAAIAFRhYmVsbGUxjAAEADEAMQDBAQgA
+wQEAAFSNAQDrAFoADwAA8FIAAAAAAAbwGAAAAAAEAAACAAAAAQAAAAEAAAABAAAAAQAAADMA
+C/ASAAAAvwAIAAgAgQEJAAAIwAFAAAAIQAAe8RAAAAANAAAIDAAACBcAAAj3AAAQ/ACaAUoA
+AAAfAAAADgAARmxvcmlhbiBTZWJlcnQBAABNAQAAbQ4AAFNhYmluZSBQZmlzdGVyAQAAVwEA
+AGwMAABMZW5hIFBmaXN0ZXIBAABLDQAAVGl6aWFuIERlY2tlcgsAAEhlcnIgRGVja2VyAgAA
+eGwLAABGcmF1IERlY2tlcgMAAHh4bA0AAFNhcmFoIFBmaXN0ZXIOAABNb3JpdHogUGZpc3Rl
+cg8AAE1hcnRpbmEgUGZpc3Rlcg4AAFN0ZWZhbiBQZmlzdGVyDAAAWWFubmljayBGcmV5CwAA
+SW5nbyBTa3VwaW4OAABSYWluZXIgUGZpc3Rlcg8AAFN0ZWZmZW4gU2F1dHRlcg0AAEhhcnJ5
+IEQuIEJhdGgNAABMdWthcyBGaXNjaGVyEQAAUmFwaGFlbCBSb3RzY2hpbmsMAABKdWxpYSBX
+b2xsbnkMAABTdGVmYW4gV2llaHIBAAB4DgAARGFuaWVsIE1ldHpnZXISAABUb2JpYXMgS29u
+d2l0c2NobnkJAABMZW5hIEhhaG4HAABSRVNFUlZF/wAKAB8AQgQAAAwAAABjCBUAYwgAAAAA
+AAAAAAAAFQAAAAAAAAACCgAAAAkIEAAABhAAuw3MBwAAAAAGAAAADAACAGQADwACAAEAEQAC
+AAAAEAAIAPyp8dJNYlA/XwACAAEAgAAIAAAAAAAAAAAAJQIEAAAAAAGBAAIAwQQqAAIAAAAr
+AAIAAACCAAIAAQAUAAcABAAAJkMmQRUADQAKAAAmQ1NlaXRlICZQgwACAAAAhAACAAAAJgAI
+ADMzMzMzM+k/JwAIADMzMzMzM+k/KAAIAGZmZmZmZvA/KQAIAGZmZmZmZvA/oQAiAAkAZAAB
+AAEAAQCCACwBLAEzMzMzMzPpPzMzMzMzM+k/AQBVAAIACgB9AAwAAAAAAMIVDwAAAAAAfQAM
+AAEAAQAZAw8AAAAAAH0ADAACAAIAfQQPAAAAAAB9AAwAAwADAJ0EDwAAAAAAfQAMAAQAAAGI
+Cw8AAAAAAAACDgAAAAAAGwAAAAAABQAAAAgCEAAAAAAABAD9AAAAAAAAAQ8ACAIQAAEAAAAE
+AAABAAAAAAABDwAIAhAAAgAAAAQA/QAAAAAAAAEPAAgCEAADAAAABAD9AAAAAAAAAQ8ACAIQ
+AAQAAAAEAP0AAAAAAAABDwAIAhAABQAAAAQA/QAAAAAAAAEPAAgCEAAGAAAABAD9AAAAAAAA
+AQ8ACAIQAAcAAAAEAP0AAAAAAAABDwAIAhAACAAAAAQA/QAAAAAAAAEPAAgCEAAJAAAABAD9
+AAAAAAAAAQ8ACAIQAAoAAAAEAP0AAAAAAAABDwAIAhAACwAAAAQA/QAAAAAAAAEPAAgCEAAM
+AAAABAD9AAAAAAAAAQ8ACAIQAA0AAAAEAP0AAAAAAAABDwAIAhAADgABAAQA/QAAAAAAAAEP
+AAgCEAAPAAAABAD9AAAAAAAAAQ8ACAIQABAAAAAEAPIAAAAAAAABDwAIAhAAEQAAAAQA/QAA
+AAAAAAEPAAgCEAASAAAABAD9AAAAAAAAAQ8ACAIQABMAAAAFAP0AAAAAAAABDwAIAhAAFAAA
+AAUA/QAAAAAAAAEPAAgCEAAVAAAABQD9AAAAAAAAAQ8ACAIQABYAAAAEAP0AAAAAAAABDwAI
+AhAAFwAAAAQAAAEAAAAAAAEPAAgCEAAYAAAABADyAAAAAAAAAQ8ACAIQABoAAwAEAAABAAAA
+AAABDwD9AAoAAAAAAA8AAAAAAP0ACgAAAAEADwABAAAA/QAKAAAAAgAPAAIAAAB+AgoAAAAD
+AA8ACgAAAP0ACgABAAAADwADAAAA/QAKAAEAAQAPAAQAAAD9AAoAAQACAA8ABQAAAH4CCgAB
+AAMADwAKAAAA/QAKAAIAAAAPAAYAAAD9AAoAAgABAA8ABwAAAL0AEgACAAIADwByAQAADwAG
+AAAAAwD9AAoAAwAAAA8ACAAAAP0ACgADAAEADwABAAAA/QAKAAMAAgAPAAIAAAB+AgoAAwAD
+AA8ABgAAAP0ACgAEAAAADwAJAAAA/QAKAAQAAQAPAAEAAAD9AAoABAACAA8ACgAAAH4CCgAE
+AAMADwAGAAAA/QAKAAUAAAAPAAsAAAD9AAoABQABAA8ABAAAAP0ACgAFAAIADwAMAAAAfgIK
+AAUAAwAPAAYAAAD9AAoABgAAAA8ADQAAAP0ACgAGAAEADwAHAAAAvQASAAYAAgAPADICAAAP
+AAoAAAADAP0ACgAHAAAADwAOAAAA/QAKAAcAAQAPAAcAAAC9ABIABwACAA8AYgIAAA8ACgAA
+AAMA/QAKAAgAAAAPAA8AAAD9AAoACAABAA8ABAAAAP0ACgAIAAIADwAKAAAAfgIKAAgAAwAP
+AAoAAAD9AAoACQAAAA8AEAAAAP0ACgAJAAEADwABAAAA/QAKAAkAAgAPAAwAAAB+AgoACQAD
+AA8ACgAAAP0ACgAKAAAADwARAAAA/QAKAAoAAQAPAAEAAAD9AAoACgACAA8ABQAAAH4CCgAK
+AAMADwAGAAAA/QAKAAsAAAAPABIAAAD9AAoACwABAA8AAQAAAP0ACgALAAIADwACAAAAfgIK
+AAsAAwAPAAoAAAD9AAoADAAAAA8AEwAAAP0ACgAMAAEADwABAAAA/QAKAAwAAgAPAAoAAAB+
+AgoADAADAA8ADgAAAP0ACgANAAAADwAUAAAA/QAKAA0AAQAPAAEAAAD9AAoADQACAA8ABQAA
+AH4CCgANAAMADwAGAAAA/QAKAA4AAQAPAAEAAAD9AAoADgACAA8ACgAAAH4CCgAOAAMADwAG
+AAAA/QAKAA8AAAAPABUAAAD9AAoADwABAA8AAQAAAP0ACgAPAAIADwAKAAAAfgIKAA8AAwAP
+AAoAAAD9AAoAEAAAAA8AFgAAAP0ACgAQAAEADwABAAAA/QAKABAAAgAPAAIAAAB+AgoAEAAD
+AA8ACgAAAP0ACgARAAAADwAXAAAA/QAKABEAAQAPAAEAAAD9AAoAEQACAA8ABQAAAH4CCgAR
+AAMADwAGAAAA/QAKABIAAAAPABgAAAD9AAoAEgABAA8AAQAAAP0ACgASAAIADwAFAAAAfgIK
+ABIAAwAPAAYAAAD9AAoAEwAAAA8AGQAAAP0ACgATAAEADwABAAAA/QAKABMAAgAPAAIAAAB+
+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
+/v///wAAAAAAAAAA
+--------------090109070903030008060108--

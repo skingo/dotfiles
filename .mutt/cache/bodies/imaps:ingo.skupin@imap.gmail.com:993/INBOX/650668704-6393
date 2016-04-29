@@ -1,0 +1,58 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp59333pdb;
+        Wed, 28 Aug 2013 23:26:16 -0700 (PDT)
+X-Received: by 10.15.81.132 with SMTP id x4mr187088eey.100.1377757575271;
+        Wed, 28 Aug 2013 23:26:15 -0700 (PDT)
+Return-Path: <Musikverein.Notzingen@gmx.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id c49si1652243eeg.57.1969.12.31.16.00.00
+        (version=TLSv1.2 cipher=AES128-SHA bits=128/128);
+        Wed, 28 Aug 2013 23:26:15 -0700 (PDT)
+Received-SPF: pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.3 as permitted sender) smtp.mail=Musikverein.Notzingen@gmx.de
+Received:  from mout.gmx.net ([212.227.15.15]) by mx-ha.web.de (mxweb102) with
+ ESMTPS (Nemesis) id 0LflVW-1VpcEB3CNG-00pPKr for <ingo.skupin@gmail.com>;
+ Thu, 29 Aug 2013 08:26:14 +0200
+Received:  from mout.gmx.net ([212.227.15.19]) by mx-ha.gmx.net (mxgmx010)
+ with ESMTPS (Nemesis) id 0MIiGe-1VCikk3BOa-002Gji; Thu, 29 Aug 2013 08:26:02
+ +0200
+Received:  from 3capp-gmx-bs06.server.lan ([172.19.170.55]) by
+ mrigmx.server.lan (mrigmx001) with ESMTP (Nemesis) id
+ 0Lm9fT-1VoGQl0yR7-00ZfAs for <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>;
+ Thu, 29 Aug 2013 08:26:02 +0200
+Received: from [109.192.66.103] by 3capp-gmx-bs06.server.lan with HTTP; Thu
+ Aug 29 08:26:02 CEST 2013
+MIME-Version: 1.0
+Message-ID: <trinity-cf78fa14-a013-46e2-bca9-c6fc434d4a5b-1377757562057@3capp-gmx-bs06>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_Holz+Dirigent Blasorchester"
+ <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>,
+ "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>
+Subject: Erste Probe
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 29 Aug 2013 08:26:02 +0200 (CEST)
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:6a3Bxb3ce9rQr3ewx5Buj5L5/cSNtaRbRYSFssOPV8t
+ J+u7k9exegkunH+4uJQsWaLKE+6nkngnfIY2Ze0SF3oSJlmCSy
+ ns0lITTgSCaEzAalD/jRvibETD8NFWJPw/ihGwT9oHLuFjfFIx
+ 46POF0QaUY8k8Tm2iSml6/nppfsiGJ3bi3Z4D+ukA3ZEu9iEgB
+ 0GdxxNQKNSH/CDcl/gKhBE14+2VtDR6nY9tnIWJE5KcHTEcPwh
+ kqj6HtgESbJsVqh4dZRfPCCsgn4UYL+4/vgCqfSjKczJvlEVe+ KltQoo=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>die erste Probe findet wie immer Dienstags statt.</div>
+
+<div>Also Di.: 03.09.2013, 20.00 Uhr (nicht wie im Bl&auml;ttle 04.09.)</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig;</div>
+
+<div>Georg</div></div></body></html>

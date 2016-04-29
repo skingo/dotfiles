@@ -1,0 +1,57 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.140.192.77 with SMTP id n74csp2119179qha;
+        Sun, 15 Mar 2015 13:46:02 -0700 (PDT)
+X-Received: by 10.195.13.104 with SMTP id ex8mr114278985wjd.12.1426452362230;
+        Sun, 15 Mar 2015 13:46:02 -0700 (PDT)
+Return-Path: <n.allgaier@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.15.18])
+        by mx.google.com with ESMTPS id da7si14072454wjc.12.2015.03.15.13.46.01
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 15 Mar 2015 13:46:02 -0700 (PDT)
+Received-SPF: pass (google.com: domain of n.allgaier@gmx.de designates 212.227.15.18 as permitted sender) client-ip=212.227.15.18;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of n.allgaier@gmx.de designates 212.227.15.18 as permitted sender) smtp.mail=n.allgaier@gmx.de
+Received: from [91.89.52.171] by 3capp-gmx-bs44.server.lan (via HTTP); Sun,
+ 15 Mar 2015 21:46:01 +0100
+MIME-Version: 1.0
+Message-ID: <trinity-e687e5d5-2a0f-4111-958d-5c75cfefb36a-1426452361450@3capp-gmx-bs44>
+From: "Nicolas Allgaier" <n.allgaier@gmx.de>
+To: n.allgaier@gmx.de
+Cc: "Orpheo Saxophone Quartett" <orpheo-sax-quartett@gmx.de>, "Ingo Skupin"
+ <ingo.skupin@gmail.com>, "Yvonne Gretzinger" <yvonne.gretzinger@gmx.de>,
+ "Tobias Gruber" <tobias.gruber@posteo.de>
+Subject: Treffpunkt Kultunacht
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 15 Mar 2015 21:46:01 +0100
+Importance: normal
+Sensitivity: Normal
+In-Reply-To: <54FC197A.40503@posteo.de>
+References: <54FC197A.40503@posteo.de>
+X-UI-Message-Type: mail
+X-Priority: 3
+X-Provags-ID: V03:K0:jQrZ4kScQCL9j9WxO2hrHHtYzi0CePe02vvpBtcHp8u
+ bGNA/lexaliVpZVZHf5yjNporcDBrFBbjDH19CsnB8vQNg4cHb
+ AxOlVNO6mHX/vPdRLqJ/GNh04LVsvEzduxnFNwxGGjb7/fey4t
+ EGmRkELMK8UsxSYCfsbkQ4fk0/Lj5y10CwxDa2I9rschasx1Ia
+ ctQ+KRFz4VtyfQ7mk4Ie/IqfgRIH9jtYB3slgqrFZs+esKcee0
+ K1dLm2BsFHa/MHIk4p5IQ76VVDPo+8aXWBe5AajibA4OjTWwqp ONiCrY=
+X-UI-Out-Filterresults: notjunk:1;
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>
+<div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>wir haben jetzt die R&uuml;ckmeldung, dass wir ab 17.00 Uhr in Kreissparkasse reink&ouml;nnen.</div>
+
+<div>Dann treffen wir uns Samstag, 17.00 Uhr vor dem Haupteingang.</div>
+
+<div>&nbsp;</div>
+
+<div>Viele Gr&uuml;&szlig;e</div>
+
+<div>Nico</div>
+
+<div>&nbsp;</div>
+</div></div></body></html>

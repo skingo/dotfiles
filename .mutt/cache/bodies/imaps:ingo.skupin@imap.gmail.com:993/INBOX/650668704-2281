@@ -1,0 +1,137 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.70.4 with SMTP id b4csp78615vcj;
+        Mon, 2 Apr 2012 14:10:08 -0700 (PDT)
+Received: by 10.180.78.40 with SMTP id y8mr23720095wiw.15.1333400998879;
+        Mon, 02 Apr 2012 14:09:58 -0700 (PDT)
+Return-Path: <20120402210957f23ce3a8d95247b4a387018dbc6278ba@bounces.amazon.com>
+Received: from mm-notify-out-21101.amazon.com (mm-notify-out-21101.amazon.com. [194.154.193.200])
+        by mx.google.com with ESMTP id k41si19935546weq.70.2012.04.02.14.09.58;
+        Mon, 02 Apr 2012 14:09:58 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 20120402210957f23ce3a8d95247b4a387018dbc6278ba@bounces.amazon.com designates 194.154.193.200 as permitted sender) client-ip=194.154.193.200;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of 20120402210957f23ce3a8d95247b4a387018dbc6278ba@bounces.amazon.com designates 194.154.193.200 as permitted sender) smtp.mail=20120402210957f23ce3a8d95247b4a387018dbc6278ba@bounces.amazon.com; dkim=pass header.i=versandbestaetigung@amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple;
+  d=amazon.de; i=versandbestaetigung@amazon.de; q=dns/txt;
+  s=rte02; t=1333400998; x=1364936998;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-type:content-transfer-encoding:bounces-to:
+   x-amazon-mail-relay-type:x-amazon-rte-version;
+  bh=FNi03w88ym2S6/W3oCmSc9ck5AyOsjYcT6PgeiKQ91U=;
+  b=Z6AWMi5vXOrdkXHiPk4TRpoNHXhAGlCKMFTaY7kaleuMvtvWaSCQ1guO
+   f+GrGD7UO9uGnPpzxTEuccLV51bC3Q==;
+Date: Mon, 2 Apr 2012 21:09:57 +0000 (UTC)
+From: "Amazon.de" <versandbestaetigung@amazon.de>
+Reply-To: "versandbestaetigung@amazon.de" <versandbestaetigung@amazon.de>
+To: "ingo.skupin@googlemail.com" <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.20120402210957f23ce3a8d95247b4a387018dbc6278ba@1333400997989.rte-svc-eu-14003.dub4.amazon.com>
+Subject: Ihre Amazon.de-Bestellung 302-3079884-4796357 wurde versandt
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Bounces-to: 20120402210957f23ce3a8d95247b4a387018dbc6278ba@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+
+
+
+Sehr geehrte(r) ingo.skupin@googlemail.com,
+
+heute wurden von MEDIMOPS Artikel Ihrer Bestellung vom April 01, 2012 versa=
+ndt.
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+VERSANDDETAILS
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+MEDIMOPS enthielt die folgenden Artikel im Paket 1 dieser Lieferung:=20
+
+1 Agnes.
+
+Versandunternehmen: Deutsche Post
+Versanddatum: April 02, 2012
+Versandgeschwindigkeit: Standard
+
+Ihre Lieferanschrift:
+
+    Ingo Skupin
+   =20
+    Ro=C3=9Fw=C3=A4lder Str. 50
+    Notzingen, Baden-W=C3=BCrttemberg 73274
+    Deutschland
+
+Falls die Bestellung weitere Artikel enth=C3=A4lt, empfangen Sie per E-Mail=
+ eine Best=C3=A4tigung, wann diese Artikel versandt werden.
+
+FRAGEN?=20
+
+Falls Sie Fragen zu dieser Bestellung einschlie=C3=9Flich des Versandstatus=
+ haben, k=C3=B6nnen Sie hier nachsehen: http://www.amazon.de/gp/css/history=
+/view.html oder eine E-Mail schreiben an: https://www.amazon.de/gp/help/con=
+tact/contact.html?ie=3DUTF8&marketplaceID=3D4&orderID=3D302-3079884-4796357=
+&sellerID=3D508544291, um sich direkt an MEDIMOPS zu wenden.
+
+**************************************************
+Tipps f=C3=BCr einen sicheren Einkauf
+Amazon.de investiert viel Arbeit in den Schutz unserer Kunden. Beachten Sie=
+ zu Ihrer Sicherheit Folgendes, wenn Sie Artikel kaufen, die von anderen Ve=
+rk=C3=A4ufern als Amazon.de angeboten werden:=20
+
+* Platzieren Sie die Bestellungen immer direkt bei Amazon.de =C3=BCber den =
+Einkaufswagen. Senden Sie das Geld f=C3=BCr Ihre Bestellungen nie per =C3=
+=9Cberweisung oder Scheck direkt an Verk=C3=A4ufer. Wir k=C3=B6nnen f=C3=BC=
+r Transaktionendie, au=C3=9Ferhalb von Amazon.de Marketplace abgewickelt un=
+d bezahlt werden, keine Garantie =C3=BCbernehmen.=20
+
+* Achten Sie auf E-Mails, in denen Sie zu direkten Zahlungen aufgefordert w=
+erden, in denen eine Zahlung an internationale Standorte verlangt wird oder=
+ pers=C3=B6nliche Daten angefordert werden. Amazon.de wird Ihnen nie eine E=
+-Mail mit der Aufforderung senden, f=C3=BCr Marketplace-Transaktionen au=C3=
+=9Ferhalb des Einkaufswagens zu bezahlen. Auch werden Sie nicht aufgeforder=
+t, pers=C3=B6nliche Daten wie Kreditkartennummern oder ein Passwort via E-M=
+ail zu best=C3=A4tigen. Falls eine bestimmte E-Mail verd=C3=A4chtig oder un=
+gew=C3=B6hnlich ist, wenden Sie sich direkt an uns.=20
+
+Wenn Sie auff=C3=A4llige Aktivit=C3=A4ten an verkaeufer-performance@amazon.=
+de berichten, k=C3=B6nnen wir die Marketplace-Sicherheit verbessern und Ihn=
+en in Zukunft einen noch besseren Service bieten.=20
+
+Weitere Tipps f=C3=BCr einen sicheren Einkauf finden Sie hier unter "Sicher=
+heit beim Kaufen und Verkaufen =C3=BCber Amazon.de":
+
+http://www.amazon.de/gp/help/customer/display.html/028-5677144-1120549?ie=
+=3DUTF8&nodeId=3D13023711
+
+**************************************************
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+EMPFANG
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+
+Datum:                April 01, 2012
+
+Amazon Bestellnummer:      302-3079884-4796357
+
+1 Agnes., EUR 2,48
+
+---------------------------------------------------------------------
+
+               Artikelzwischensumme:  EUR 2,48
+                      Versandkosten:  EUR 3,00
+                              Summe:  EUR 5,48
+---------------------------------------------------------------------
+
+Vielen Dank f=C3=BCr Ihren Einkauf bei Amazon.de.
+
+http://www.amazon.de/
+Amazon.de
+
+
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.75.71 with SMTP id a7csp699503lbw;
+        Wed, 1 Jul 2015 09:36:53 -0700 (PDT)
+X-Received: by 10.180.109.6 with SMTP id ho6mr46408713wib.58.1435768613228;
+        Wed, 01 Jul 2015 09:36:53 -0700 (PDT)
+Return-Path: <n.allgaier@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.17.20])
+        by mx.google.com with ESMTPS id p3si4275820wjz.93.2015.07.01.09.36.52
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 01 Jul 2015 09:36:53 -0700 (PDT)
+Received-SPF: pass (google.com: domain of n.allgaier@gmx.de designates 212.227.17.20 as permitted sender) client-ip=212.227.17.20;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of n.allgaier@gmx.de designates 212.227.17.20 as permitted sender) smtp.mail=n.allgaier@gmx.de
+Received: from [79.245.90.91] by 3capp-gmx-bs43.server.lan (via HTTP); Wed,
+ 1 Jul 2015 18:36:51 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-b22d022b-554c-42f9-9ff4-a763864f6acd-1435768611245@3capp-gmx-bs43>
+From: "Nicolas Allgaier" <n.allgaier@gmx.de>
+To: "Ingo Skupin" <ingo.skupin@gmail.com>, "Orpheo Saxophone Quartett"
+ <orpheo-sax-quartett@gmx.de>, "Tobias Gruber" <tobias.gruber@posteo.de>,
+ "Yvonne Gretzinger" <yvonne.gretzinger@gmx.de>
+Subject: Neue Doodle-Umfrage bis September
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 1 Jul 2015 18:36:51 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:QWvIkUqucwlYH5VfsD/GljhbjFqLUzzKKmSJHUeDTHw
+ 6v026+lCJg4uzID2ELwp7kzZe6v6pfwM6w/7Mnj7X0cL4E4mVq
+ 5KadiBkEm85abX9TBVZdyPdDTpJElygBoowhO2VLIBHSmXPG/k
+ UVhQJC8jXO4VRoGaMglu05vgyFeGC0ViZWNa39DnyO4ctfPEMt
+ 8MuqVf6CRqAkHoxKbXOYjEDNy3WdWzS7HS2ejPvZUjAENGdnCg
+ DHG2+I192J6uOCSM3+JTQS1bjy3d7jwDnsamm+HI5afPxz6ifa UXt2yY=
+X-UI-Out-Filterresults: notjunk:1;V01:K0:2qLkklPCTwA=:vZGANJySIEYfhqsYk49Wv1
+ fAK8yB7cWHNekth9M3EtaZbTxPUyg2GUpqxr0Vin1m4U5dERa7jW4LmTaFlM0lOmNJ6Xd3o4v
+ 6E9wLBJWVkDGucmrbmyNXMhjyUF6fV2vxyRgQTvVVOfAfRV3k1+dKHp90qkAPEbGGEYnwXFbD
+ JoQ61Mew9V1Hsbhk7qb6zwN1XF+Yxa2P/Wpd2r8A5Bnam9eIafz5My+jGt3ThGurlGRE10d0T
+ O4FaT6+umgkA7ZVvQbL5H+g47zhgK7zuZu2hYgUOfXL9+Z4o3ZNQG4tjmR16Kt2WILQKB0lGo
+ 9ZD8r2wE6x4BaPg6w8KvdbfYblBxL5/zvMzDpf/8ROVW/Ce87/5vhT9jlKo4B1mehoaXK0jdD
+ wG2EeqlSY2MtARJwBEHkjv+8tSbuYjJ/pzweqEWq961df6iDQNEmCryR8dz9vDn295lCbvoUk
+ xxfc4Gakjg==
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>anbei der Link zur neuen Doodle-Umfrage:</div>
+
+<div><a href="https://3c.gmx.net/mail/client/dereferrer?redirectUrl=http%3A%2F%2Fdoodle.com%2Fxe77we5php7rwus8" target="_blank">http://doodle.com/xe77we5php7rwus8</a></div>
+
+<div>&nbsp;</div>
+
+<div>Wir br&auml;uchten noch eine Probe um neue Sachen anzuspielen und dann eine Auswahl f&uuml;r das n&auml;chste Konzert zu treffen.</div>
+
+<div>
+<div class="spaceCBefore" id="pollDescription">Evtl. k&ouml;nnen wir das mal unter der Wocheabends machen.</div>
+
+<div class="spaceCBefore">&nbsp;</div>
+
+<div class="spaceCBefore">Weiter ist die Doodle-Umfrage um Termin(e) f&uuml;r Stra&szlig;enmusik zu finden... soll ja auch was bei rumkommen, f&uuml;r unsere Proberei ;-)</div>
+
+<div class="spaceCBefore">&nbsp;</div>
+
+<div class="spaceCBefore">Viele Gr&uuml;&szlig;e</div>
+
+<div class="spaceCBefore">Nico</div>
+</div></div></body></html>

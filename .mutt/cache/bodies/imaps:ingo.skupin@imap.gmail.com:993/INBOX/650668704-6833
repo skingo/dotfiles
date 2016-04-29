@@ -1,0 +1,491 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp102168pdb;
+        Mon, 9 Dec 2013 04:29:55 -0800 (PST)
+X-Received: by 10.229.184.69 with SMTP id cj5mr32297892qcb.8.1386592195287;
+        Mon, 09 Dec 2013 04:29:55 -0800 (PST)
+Return-Path: <2013120912295002b06a5a3d0a4b5cbc20fc4c9f30aaad@bounces.amazon.de>
+Received: from smtp-out-127-8.amazon.com (smtp-out-127-8.amazon.com. [176.32.127.8])
+        by mx.google.com with ESMTP id f1si8132381qar.52.2013.12.09.04.29.54
+        for <ingo.skupin@gmail.com>;
+        Mon, 09 Dec 2013 04:29:55 -0800 (PST)
+Received-SPF: pass (google.com: domain of 2013120912295002b06a5a3d0a4b5cbc20fc4c9f30aaad@bounces.amazon.de designates 176.32.127.8 as permitted sender) client-ip=176.32.127.8;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 2013120912295002b06a5a3d0a4b5cbc20fc4c9f30aaad@bounces.amazon.de designates 176.32.127.8 as permitted sender) smtp.mail=2013120912295002b06a5a3d0a4b5cbc20fc4c9f30aaad@bounces.amazon.de;
+       dkim=pass header.i=versandbestaetigung@amazon.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=versandbestaetigung@amazon.de; q=dns/txt;
+  s=amazon201209; t=1386592252; x=1418128252;
+  h=date:from:reply-to:to:message-id:subject:mime-version;
+  bh=Irk2XLvSJ2yUVEyye4LrCfYqAi1/Z5TgMQVgTCu6EFI=;
+  b=CgYvV57SPKHBhYT6sLeJ9tcUlBaB3L8TnCRGkAfaWdA+bKM5YRrQdpQq
+   gM304bRCwhf1Ij5zytvsAbKpe7VL7Ai5pGcc4K0juOC+MZz1nhcKb7QVF
+   vjkZL7bladvXYRPF0u7kz5vx1nbg/HDQMQAj6QqzZNJXSelHFfQc5kxrN
+   M=;
+Date: Mon, 9 Dec 2013 12:29:52 +0000
+From: "Amazon.de" <versandbestaetigung@amazon.de>
+Reply-To: "versandbestaetigung@amazon.de" <versandbestaetigung@amazon.de>
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Message-ID: <urn.correios.msg.2013120912295002b06a5a3d0a4b5cbc20fc4c9f30aaad@1386592192786.rte-svc-eu-1bbig-i-dafcd596.eu-west-1.amazon.com>
+Subject: =?UTF-8?Q?Ihre_Amazon.de_Bestellung_von_"Schl=C3=BCsse?=
+ =?UTF-8?Q?lanh=C3=A4nger_-Keks-_Merle"_wurde_versandt!?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1798656_2030554755.1386592192783"
+Bounces-to: 2013120912295002b06a5a3d0a4b5cbc20fc4c9f30aaad@bounces.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.2013120912295002b06a5a3d0a4b5cbc20fc4c9f30aaad@1386592192786.rte-svc-eu-1bbig-i-dafcd596.eu-west-1.amazon.com>
+
+------=_Part_1798656_2030554755.1386592192783
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1798657_1871132808.1386592192783"
+
+------=_Part_1798657_1871132808.1386592192783
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Amazon.de Versandbest=C3=A4tigung
+Bestellnummer: #304-2792584-6481166=20
+https://www.amazon.de/ref=3DTE_3p_tex_g
+
+___________________________________________________________________________
+
+Guten Tag,=20
+
+wir m=C3=B6chten Ihnen hiermit mitteilen, dass B=C3=BCcher & Geschenke Ihre=
+ Bestellung verschickt hat.=20
+
+Ihre Sendung befindet sich nun auf dem Versandweg; eine =C3=84nderung ist n=
+icht mehr m=C3=B6glich.
+
+Lieferung voraussichtlich:
+ Samstag, 14. Dezember 2013
+
+Die Sendung geht an:
+
+   Ingo Skupin
+   Bachgasse 26
+   T=C3=BCbingen,=20
+   Baden-W=C3=BCrttemberg=20
+   72070
+   Deutschland
+
+Die Sendung wurde mit DHL versandt. Diese Sendung ist nicht nachverfolgbar.=
+ Wenn Sie wissen m=C3=B6chten, warum eine Nachverfolgung der Sendung nicht =
+m=C3=B6glich ist, besuchen Sie unsere Hilfeseite: http://www.amazon.de/gp/h=
+elp/customer/display.html/ref=3DTE_3p_tex_ntr?ie=3DUTF8&nodeId=3D200441780.=
+=20
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+Einzelheiten Ihrer Lieferung:=20
+
+1 x Schl=C3=BCsselanh=C3=A4nger -Keks- Merle         =20
+Verkauft von: B=C3=BCcher & Geschenke=09=09=09=09
+EUR 2,95
+Zustand: New
+___________________________________________________________________________
+
+   Zwischensumme: EUR 2,95
+   Verpackung und Versand: EUR 2,72
+  =20
+
+   Endbetrag: EUR 5,67
+   Zahlung =C3=BCber Bankeinzug: EUR 5,67
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D
+
+M=C3=B6chten Sie einen Artikel aus Ihrer Bestellung zur=C3=BCckgeben oder a=
+ndere Bestellungen ansehen oder ver=C3=A4ndern, k=C3=B6nnen Sie dies einfac=
+h =C3=BCber =1AMeine Bestellungen=1A auf unserer Website Amazon.de tun:
+https://www.amazon.de/meine-bestellungen?ref=3DTE_3p_tex_mcs
+
+R=C3=BCckgaben sind einfach. Besuchen Sie unser Online-R=C3=BCcksendezentru=
+m:
+www.amazon.de/ruecksendezentrum?ref=3DTE_3p_tex_or =20
+
+Falls Sie weitere Fragen zu Ihrer Bestellung haben sollten, kontaktieren Si=
+e bitte B=C3=BCcher & Geschenke:
+https://www.amazon.de/gp/help/contact-seller/contact-seller.html?ie=3DUTF8&=
+orderID=3D304-2792584-6481166&sellerID=3DA1TJR2QPNUNL4S&ref=3DTE_3p_tex_mcf=
+=20
+
+Wir freuen uns auf Ihren n=C3=A4chsten Besuch!
+Amazon.de
+
+___________________________________________________________________________
+
+
+(Dies ist eine automatisch versendete Nachricht. Bitte antworten Sie nicht =
+auf dieses Schreiben, da die Adresse nur zur Versendung von E-Mails eingeri=
+chtet ist.)
+
+=20
+
+------=_Part_1798657_1871132808.1386592192783
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+ <head>=20
+  <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8" =
+/> =20
+  <title></title>=20
+ </head>=20
+ <body style=3D"margin: 0; font: 13px/ 18px Arial, sans-serif">=20
+  <table id=3D"container" cellpadding=3D"0" style=3D"width: 655px; color: r=
+gb(51, 51, 51); margin: 0 auto; border-collapse: collapse">=20
+   <tbody>
+    <tr>=20
+     <td class=3D"frame" style=3D"padding: 0 20px 20px 20px; vertical-align=
+: top; font: 13px/ 18px Arial, sans-serif">=20
+      <table id=3D"main" cellpadding=3D"0" style=3D"width: 100%; border-col=
+lapse: collapse">=20
+       <tbody>
+        <tr>=20
+         <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans-ser=
+if">=20
+          <table id=3D"header" cellpadding=3D"0" style=3D"width: 100%; marg=
+in: 0 0 15px 0; border-collapse: collapse">=20
+           <tbody>
+            <tr>=20
+             <td rowspan=3D"2" class=3D"logo" style=3D"width: 115px; paddin=
+g: 18px 0 0 0; vertical-align: top; font: 13px/ 18px Arial, sans-serif"><a =
+href=3D"http://www.amazon.de/gp/r.html?R=3DY692Z5FAE5C7&C=3D1VSYRMGW3HNG0&H=
+=3DAJSZF2RBHUF2MDAL74B7QJ2AYRIA&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.de%2Fref=
+%3Dpe_386171_37038021_TE_3p_M3T1_g_i" title=3D"Visit www.amazon.de" style=
+=3D"text-decoration: none; color: rgb(0, 102, 153); font: 13px/ 18px Arial,=
+ sans-serif"><img alt=3D"Amazon.de" src=3D"http://g-ec2.images-amazon.com/i=
+mages/G/01/abis-ui/merchants/amazon.de" style=3D"border: 0" /></a></td>=20
+             <td class=3D"navigation" style=3D"text-align: right; padding: =
+5px 0; border-bottom: 1px solid rgb(204, 204, 204); white-space: nowrap; ve=
+rtical-align: top; font: 13px/ 18px Arial, sans-serif">=20
+              <table align=3D"right" style=3D"border-collapse: collapse">=
+=20
+               <tbody>=20
+                <tr>=20
+                 <td style=3D"padding: 0px; vertical-align: bottom; font: 1=
+3px/ 18px Arial, sans-serif"> <a href=3D"http://www.amazon.de/gp/r.html?R=
+=3DY692Z5FAE5C7&C=3D1VSYRMGW3HNG0&H=3DCMYEHNAXLQS5OFHXCZ6H1AGGQ84A&T=3DC&U=
+=3Dhttps%3A%2F%2Fwww.amazon.de%2Fgp%2Fcss%2Fyour-orders-access%2Fref%3Dpe_3=
+86171_37038021_TE_3p_M3T1_oh_tn" style=3D"border-right: 0px solid rgb(204, =
+204, 204); margin-right: 0px; padding-right: 0px; text-decoration: none; co=
+lor: rgb(0, 102, 153); font: 13px/ 18px Arial, sans-serif">Meine Bestellung=
+en</a> </td>=20
+                 <td style=3D"padding: 0px; vertical-align: bottom; font: 1=
+3px/ 18px Arial, sans-serif"> <span style=3D"text-decoration: none; color: =
+rgb(204, 204, 204); font: 15px Arial, san-serif">&nbsp;&nbsp;|&nbsp;&nbsp;<=
+/span> </td>=20
+                 <td style=3D"padding: 0px; vertical-align: bottom; font: 1=
+3px/ 18px Arial, sans-serif"> <a href=3D"http://www.amazon.de/gp/r.html?R=
+=3DY692Z5FAE5C7&C=3D1VSYRMGW3HNG0&H=3D3UKUQJAVFX2BCAWSGD3WWDQ9DX4A&T=3DC&U=
+=3Dhttps%3A%2F%2Fwww.amazon.de%2Fgp%2Fcss%2Fyour-account-access%2Fref%3Dpe_=
+386171_37038021_TE_3p_M3T1_ya_tn" style=3D"border-right: 0px solid rgb(204,=
+ 204, 204); margin-right: 0px; padding-right: 0px; text-decoration: none; c=
+olor: rgb(0, 102, 153); font: 13px/ 18px Arial, sans-serif">Mein Konto</a> =
+</td>=20
+                 <td style=3D"padding: 0px; vertical-align: bottom; font: 1=
+3px/ 18px Arial, sans-serif"> <span style=3D"text-decoration: none; color: =
+rgb(204, 204, 204); font: 15px Arial, san-serif">&nbsp;&nbsp;|&nbsp;&nbsp;<=
+/span> </td>=20
+                 <td style=3D"padding: 0px; vertical-align: bottom; font: 1=
+3px/ 18px Arial, sans-serif"> <a class=3D"last" href=3D"http://www.amazon.d=
+e/gp/r.html?R=3DY692Z5FAE5C7&C=3D1VSYRMGW3HNG0&H=3DZNXH6AKA2RAEYOFT0CCHFSYA=
+HTAA&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.de%2Fref%3Dpe_386171_37038021_TE_3p=
+_M3T1_g_tn" style=3D"border: 0; margin: 0; padding: 0; border-right: 0px so=
+lid rgb(204, 204, 204); margin-right: 0px; padding-right: 0px; text-decorat=
+ion: none; color: rgb(0, 102, 153); font: 13px/ 18px Arial, sans-serif">Ama=
+zon.de</a> </td>=20
+                </tr>=20
+               </tbody>=20
+              </table> </td>=20
+            </tr>=20
+            <tr>=20
+             <td class=3D"title" style=3D"text-align: right; padding: 7px 0=
+ 5px 0; vertical-align: top; font: 13px/ 18px Arial, sans-serif"> <h2 style=
+=3D"font-size: 20px; line-height: 24px; margin: 0; padding: 0; font-weight:=
+ normal; color: rgb(0, 0, 0) !important">Versandbest&auml;tigung</h2> Beste=
+llnummer: #<a href=3D"http://www.amazon.de/gp/r.html?R=3DY692Z5FAE5C7&C=3D1=
+VSYRMGW3HNG0&H=3DMFAAEENGAAL2KSA5EINIXLSDYIOA&T=3DC&U=3Dhttps%3A%2F%2Fwww.a=
+mazon.de%2Fgp%2Fcss%2Fsummary%2Fedit.html%2Fref%3Dpe_386171_37038021_TE_3p_=
+M3T1_od_tn%3Fie%3DUTF8%26orderID%3D304-2792584-6481166" style=3D"text-decor=
+ation: none; color: rgb(0, 102, 153); font: 13px/ 18px Arial, sans-serif">3=
+04-2792584-6481166</a> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans-ser=
+if">=20
+          <table id=3D"summary" cellpadding=3D"0" style=3D"width: 100%; bor=
+der-collapse: collapse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans=
+-serif"><span class=3D"heading" style=3D"font-size: 18px; color: rgb(204, 1=
+02, 0); margin: 15px 0 0 0; font-weight: normal">Guten Tag,</span> <p style=
+=3D"margin: 4px 0 18px 0; font: 13px/ 18px Arial, sans-serif"> wir m&ouml;c=
+hten Ihnen hiermit mitteilen, dass B&uuml;cher &amp; Geschenke Ihre Bestell=
+ung verschickt hat. <br /><br />Ihre Sendung befindet sich nun auf dem Vers=
+andweg; eine &Auml;nderung ist nicht mehr m&ouml;glich. M&ouml;chten Sie ei=
+nen Artikel aus Ihrer Bestellung zur&uuml;ckgeben oder andere Bestellungen =
+ansehen oder ver&auml;ndern, k&ouml;nnen Sie dies einfach &uuml;ber <a href=
+=3D"http://www.amazon.de/gp/r.html?R=3DY692Z5FAE5C7&C=3D1VSYRMGW3HNG0&H=3D0=
+3SZ1KSR3AG0JVAGMODCB5OYIFUA&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.de%2Fgp%2Fcs=
+s%2Fyour-orders-access%2Fref%3Dpe_386171_37038021_TE_3p_M3T1_" style=3D"tex=
+t-decoration: underline; color: rgb(0, 102, 153); font: 13px/ 18px Arial, s=
+ans-serif">Meine Bestellungen</a> auf unserer Website Amazon.de tun. </p> <=
+/td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" style=3D"vertical-align: top; font: 13px/ 18px A=
+rial, sans-serif">=20
+          <table id=3D"criticalInfo" cellpadding=3D"0" style=3D"border-top:=
+ 3px solid rgb(45, 55, 65); width: 640px; margin: 0 0 20px 0; border-collap=
+se: collapse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"font-size: 14px; padding: 11px 18px 18px 18px; ba=
+ckground-color: rgb(239, 239, 239); width: 280px; vertical-align: top; font=
+: 13px/ 18px Arial, sans-serif"> <p style=3D"color: rgb(0, 0, 0); margin: 2=
+px 0 9px 0; font: 13px/ 18px Arial, sans-serif"> <span class=3D"uniqueSpan"=
+ style=3D"font-size: 14px; color: rgb(102, 102, 102)"> Lieferung voraussich=
+tlich: </span> <br /> <strong> Mittwoch, 11. Dezember 2013 -<br /> Samstag,=
+ 14. Dezember 2013 </strong> </p> <p style=3D"color: rgb(0, 0, 0); margin: =
+2px 0 9px 0; font: 13px/ 18px Arial, sans-serif"> <a href=3D"http://www.ama=
+zon.de/gp/r.html?R=3DY692Z5FAE5C7&C=3D1VSYRMGW3HNG0&H=3D6PXBNRIAIIPI0VMXBHY=
+QZ4SE7C4A&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.de%2Fgp%2Fhelp%2Fcustomer%2Fdis=
+play.html%2Fref%3Dpe_386171_37038021_TE_3p_M3T1_ntr%3Fie%3DUTF8%26nodeId%3D=
+200441780" style=3D"font-size: 11px; color: rgb(102, 102, 102); text-decora=
+tion: underline; font: 13px/ 18px Arial, sans-serif">Warum ist meine Sendun=
+g nicht verfolgbar?</a> </p> </td>=20
+             <td style=3D"font-size: 14px; padding: 11px 18px 18px 18px; ba=
+ckground-color: rgb(239, 239, 239); width: 280px; vertical-align: top; font=
+: 13px/ 18px Arial, sans-serif"> <span style=3D"color: rgb(102, 102, 102)">=
+Die Sendung geht an:</span><br /> <p style=3D"color: rgb(0, 0, 0); margin: =
+2px 0 9px 0; font: 13px/ 18px Arial, sans-serif"> <strong> Ingo Skupin <br =
+/> Bachgasse 26 <br />=20
+                <nowrap>
+                  T&uuml;bingen, Baden-W&uuml;rttemberg 72070=20
+                </nowrap> <br /> Deutschland </strong> </p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td colspan=3D"2" style=3D"vertical-align: top; font: 13px/ 18px A=
+rial, sans-serif">=20
+          <table id=3D"trackingText" style=3D"border-collapse: collapse">=
+=20
+           <tbody>
+            <tr>=20
+             <td style=3D"font-size: 10px; color: rgb(102, 102, 102); paddi=
+ng: 0 10px 20px 10px; line-height: 16px; width: 640px; vertical-align: top;=
+ font: 13px/ 18px Arial, sans-serif"> <p style=3D"margin: 10px 0 0 0; font:=
+ 11px/ 16px Arial, sans-serif; color: rgb(51, 51, 51)"> Die Sendung wurde m=
+it DHL versandt. Diese Sendung ist nicht nachverfolgbar. </p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans-ser=
+if">=20
+          <table id=3D"orderDetails" cellpadding=3D"0" style=3D"width: 100%=
+; border-collapse: collapse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans=
+-serif"> <span class=3D"heading" style=3D"width: 640px; border-bottom: 0px =
+solid rgb(204, 204, 204); margin: 0 0 3px 0; padding: 0 0 3px 0; font-size:=
+ 18px; color: rgb(204, 102, 0); font-weight: normal">Einzelheiten Ihrer Lie=
+ferung</span>=20
+              <table id=3D"headingBottom" style=3D"margin: 3px 0 0 0; borde=
+r-top: 1px solid rgb(204, 204, 204); width: 100%; border-collapse: collapse=
+">
+               <tbody>
+                <tr>
+                 <td style=3D"vertical-align: top; font: 13px/ 18px Arial, =
+sans-serif"></td>
+                </tr>
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+            <tr>=20
+             <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans=
+-serif">&nbsp;</td>=20
+            </tr>=20
+            <tr>=20
+             <td class=3D"frame" style=3D"padding: 0 20px 20px 20px; vertic=
+al-align: top; font: 13px/ 18px Arial, sans-serif">=20
+              <table id=3D"itemDetails" cellpadding=3D"0" style=3D"width: 1=
+00%; border-collapse: collapse">=20
+               <tbody>
+                <tr>=20
+                 <td class=3D"photo" style=3D"width: 150px; text-align: cen=
+ter; padding: 0 0 30px 0; vertical-align: top; font: 13px/ 18px Arial, sans=
+-serif"> <a href=3D"http://www.amazon.de/gp/r.html?R=3DY692Z5FAE5C7&C=3D1VS=
+YRMGW3HNG0&H=3DQWGVP6DLAC3PJPBXV4YYJQVP0QCA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amaz=
+on.de%2Fdp%2FB00FW5ZQD4%2Fref%3Dpe_386171_37038021_TE_3p_M3T1_dp_i1" title=
+=3D"B00FW5ZQD4" style=3D"text-decoration: none; color: rgb(0, 102, 153); fo=
+nt: 13px/ 18px Arial, sans-serif"><img height=3D"115" src=3D"http://ecx.ima=
+ges-amazon.com/images/I/41WSKnVvb-L._SCLZZZZZZZ__SY115_SX115_.jpg" style=3D=
+"border: 0" /></a> </td>=20
+                 <td class=3D"name" style=3D"vertical-align: top; color: rg=
+b(102, 102, 102); padding: 10px 10px 30px 10px; font: 13px/ 18px Arial, san=
+s-serif"> <p style=3D"margin: 0; font-size: 12px; line-height: 14px; font: =
+13px/ 18px Arial, sans-serif"> </p>
+                  <ul style=3D"margin: 0; padding: 0">=20
+                   <li style=3D"list-style-type: none; line-height: 14px; p=
+adding: 0 0 4px 0"> <a href=3D"http://www.amazon.de/gp/r.html?R=3DY692Z5FAE=
+5C7&C=3D1VSYRMGW3HNG0&H=3DSJFFBSBRKLPLD6WCRXJY9049SWOA&T=3DC&U=3Dhttp%3A%2F=
+%2Fwww.amazon.de%2Fdp%2FB00FW5ZQD4%2Fref%3Dpe_386171_37038021_TE_3p_M3T1_dp=
+_1" style=3D"font-size: 14px; line-height: 14px; text-decoration: none; col=
+or: rgb(0, 102, 153); font: 13px/ 18px Arial, sans-serif"> Schl&uuml;sselan=
+h&auml;nger -Keks- Merle </a> <br />Verkauft von: B&uuml;cher &amp; Geschen=
+ke <br />Zustand: New<br /> </li>=20
+                  </ul> <p style=3D"margin: 0; font-size: 12px; line-height=
+: 14px; font: 13px/ 18px Arial, sans-serif"></p> </td>=20
+                 <td class=3D"price" style=3D"text-align: right; font-size:=
+ 14px; padding: 10px 0 30px 0; vertical-align: top; font: 13px/ 18px Arial,=
+ sans-serif"> <strong>EUR 2,95</strong> </td>=20
+                </tr>=20
+                <tr>=20
+                 <td colspan=3D"3" class=3D"divider" style=3D"border-top: 1=
+px solid rgb(234, 234, 234); padding: 0 0 16px 0; vertical-align: top; font=
+: 13px/ 18px Arial, sans-serif"></td>=20
+                </tr>=20
+               </tbody>
+              </table>=20
+              <table id=3D"costBreakdown" style=3D"width: 100%; border-coll=
+apse: collapse">=20
+               <tbody>
+                <tr>=20
+                 <td style=3D"width: 100%; text-align: right; line-height: =
+18px; padding: 0 0 10px 10px; vertical-align: top; font: 13px/ 18px Arial, =
+sans-serif">Zwischensumme:</td>=20
+                 <td class=3D"price" style=3D"white-space: nowrap; width: 1=
+00%; text-align: right; line-height: 18px; padding: 0 0 10px 10px; vertical=
+-align: top; font: 13px/ 18px Arial, sans-serif">EUR 2,95</td>=20
+                </tr>=20
+                <tr>=20
+                 <td style=3D"width: 100%; text-align: right; line-height: =
+18px; padding: 0 0 10px 10px; vertical-align: top; font: 13px/ 18px Arial, =
+sans-serif">Verpackung und Versand:</td>=20
+                 <td class=3D"price" style=3D"white-space: nowrap; width: 1=
+00%; text-align: right; line-height: 18px; padding: 0 0 10px 10px; vertical=
+-align: top; font: 13px/ 18px Arial, sans-serif">EUR 2,72</td>=20
+                </tr>=20
+                <tr>=20
+                 <td class=3D"total" style=3D"font-size: 14px; font-weight:=
+ bold; width: 100%; text-align: right; line-height: 18px; padding: 0 0 10px=
+ 10px; vertical-align: top; font: 13px/ 18px Arial, sans-serif"><strong>End=
+betrag:</strong></td>=20
+                 <td class=3D"total" style=3D"font-size: 14px; font-weight:=
+ bold; width: 100%; text-align: right; line-height: 18px; padding: 0 0 10px=
+ 10px; vertical-align: top; font: 13px/ 18px Arial, sans-serif"><strong>EUR=
+ 5,67</strong></td>=20
+                </tr>=20
+                <tr>=20
+                 <td style=3D"width: 100%; text-align: right; line-height: =
+18px; padding: 0 0 10px 10px; vertical-align: top; font: 13px/ 18px Arial, =
+sans-serif">Zahlung &uuml;ber Bankeinzug:</td>=20
+                 <td class=3D"price" style=3D"white-space: nowrap; width: 1=
+00%; text-align: right; line-height: 18px; padding: 0 0 10px 10px; vertical=
+-align: top; font: 13px/ 18px Arial, sans-serif">EUR 5,67</td>=20
+                </tr>=20
+               </tbody>
+              </table> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans-ser=
+if">=20
+          <table id=3D"orderDetails" cellpadding=3D"0" style=3D"width: 100%=
+; border-collapse: collapse">=20
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans-ser=
+if">=20
+          <table id=3D"division" style=3D"margin: 0 0 0 0; border-top: 1px =
+solid rgb(234, 234, 234); width: 100%; border-collapse: collapse">
+           <tbody>
+            <tr>
+             <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans=
+-serif"></td>
+            </tr>
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans-ser=
+if">=20
+          <table id=3D"closing" cellpadding=3D"0" style=3D"width: 100%; bor=
+der-collapse: collapse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans=
+-serif"> <br />R&uuml;ckgaben sind einfach. Besuchen Sie unser <a href=3D"h=
+ttp://www.amazon.de/gp/r.html?R=3DY692Z5FAE5C7&C=3D1VSYRMGW3HNG0&H=3DZ7FRYP=
+AZAQER0WABBY9AXF899FCA&T=3DC&U=3Dhttp%3A%2F%2Fwww.amazon.de%2Fgp%2Fcss%2Fre=
+turns%2Fhomepage.html%2Fref%3Dpe_386171_37038021_TE_3p_M3T1_r" style=3D"tex=
+t-decoration: underline; color: rgb(0, 102, 153); font: 13px/ 18px Arial, s=
+ans-serif">Online-R&uuml;cksendezentrum</a>.<br /> <br /> Falls Sie weitere=
+ Fragen zu Ihrer Bestellung haben sollten, kontaktieren Sie bitte <a href=
+=3D"http://www.amazon.de/gp/r.html?R=3DY692Z5FAE5C7&C=3D1VSYRMGW3HNG0&H=3D8=
+UAGHASFNHHO326VZLFU2KAM86UA&T=3DC&U=3Dhttps%3A%2F%2Fwww.amazon.de%2Fgp%2Fhe=
+lp%2Fcontact-seller%2Fcontact-seller.html%2Fref%3Dpe_386171_37038021_TE_3p_=
+M3T1_mcf%3Fie%3DUTF8%26orderID%3D304-2792584-6481166%26sellerID%3DA1TJR2QPN=
+UNL4S" style=3D"text-decoration: underline; color: rgb(0, 102, 153); font: =
+13px/ 18px Arial, sans-serif">B&uuml;cher &amp; Geschenke</a>. <p style=3D"=
+padding: 0 0 20px 0; border-bottom: 1px solid rgb(234, 234, 234); margin: 0=
+; font: 13px/ 18px Arial, sans-serif"> <br />Wir freuen uns auf Ihren n&aum=
+l;chsten Besuch!<br /> <span style=3D"padding-top: 10px; font-size: 16px; l=
+ine-height: 24px; font-weight: bold" class=3D"signature"><strong>Amazon.de<=
+/strong></span></p> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+        <tr>=20
+         <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans-ser=
+if">=20
+          <table id=3D"legalCopy" style=3D"width: 100%; margin: 20px 0 0 0;=
+ border-collapse: collapse">=20
+           <tbody>
+            <tr>=20
+             <td style=3D"vertical-align: top; font: 13px/ 18px Arial, sans=
+-serif"> <span style=3D"font-size: 11px; color: rgb(102, 102, 102); line-he=
+ight: 16px; margin: 0 0 10px 0"> <br /> (Dies ist eine automatisch versende=
+te Nachricht. Bitte antworten Sie nicht auf dieses Schreiben, da die Adress=
+e nur zur Versendung von E-Mails eingerichtet ist.)<br /> </span> </td>=20
+            </tr>=20
+           </tbody>
+          </table> </td>=20
+        </tr>=20
+       </tbody>
+      </table> </td>=20
+    </tr>=20
+   </tbody>
+  </table> =20
+ <img src=3D"http://www.amazon.de/gp/r.html?R=3DY692Z5FAE5C7&C=3D1VSYRMGW3H=
+NG0&H=3DDNLUV0M7T6FAHRXA0ZALLQFJSWSA&T=3DE&U=3Dhttp%3A%2F%2Fimages-eu.amazo=
+n.com%2Fimages%2FG%2F01%2Fnav%2Ftransp.gif" /></body>
+</html>=20
+
+------=_Part_1798657_1871132808.1386592192783--
+
+------=_Part_1798656_2030554755.1386592192783--

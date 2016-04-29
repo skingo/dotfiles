@@ -1,0 +1,136 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp224225vcb;
+        Thu, 15 Nov 2012 23:36:33 -0800 (PST)
+Received: by 10.216.195.209 with SMTP id p59mr1366407wen.138.1353051390975;
+        Thu, 15 Nov 2012 23:36:30 -0800 (PST)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id fi1si802593wib.14.2012.11.15.23.36.30;
+        Thu, 15 Nov 2012 23:36:30 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from sjc-smtp2.sjc.dropbox.com ([199.47.217.137]) by mx-ha.web.de
+ (mxweb001) with ESMTP (Nemesis) id 0MO8v6-1TcZr72pDo-005vWr for
+ <ingo.skupin@gmail.com>; Fri, 16 Nov 2012 08:36:30 +0100
+Received: from snt-web415.sjc.dropbox.com (snt-web415.sjc.dropbox.com [10.12.6.163])
+	by sjc-smtp2.sjc.dropbox.com (Postfix) with ESMTP id C5037761F44
+	for <ingo.skupin@web.de>; Fri, 16 Nov 2012 07:36:28 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1353051388; bh=3Rjz7zB0r6Iot72vtIgm0hGOkmsm/GfFjNgdzDIjV1Y=;
+	h=Content-Type:MIME-Version:From:To:Subject:Date:Reply-To:
+	 Message-Id;
+	b=plyD9ar42lH88zMVUHzPQZ0jNYF+Dn8ImjoPoLhu62BKy/E21s5d4hRS31Zgec6Ls
+	 J9FuPQZvKAPGyLRLT1E5ZWDiKtqX1fLrBMxNtcZmIwk1lLDKClXM/ZN0wV813jKp2X
+	 nZJrTjtiSaaMs/02cQLgwFdEm++XP9+c7llioUPk=
+Received: from snt-web415.sjc.dropbox.com (localhost [127.0.0.1])
+	by snt-web415.sjc.dropbox.com (Postfix) with ESMTP id C2B361840C2F
+	for <ingo.skupin@web.de>; Fri, 16 Nov 2012 07:36:28 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============2692043002690714425=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+Subject: Simon Hartmann hat „Info Basics“ für dich freigegeben
+Date: Fri, 16 Nov 2012 07:36:28 +0000
+Reply-To: obstructer@gmx.de
+Message-Id: <20121116073628.C2B361840C2F@snt-web415.sjc.dropbox.com>
+
+--===============2692043002690714425==
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ingo,
+
+Simon Hartmann hat dich mit der folgenden Nachricht zum freigegebenen Dro=
+pbox-Ordner =E2=80=9EInfo Basics=E2=80=9C eingeladen:
+
+=E2=80=9EHi Ingo,
+hab deine Dateien von Latex erhalten. Es ist aber keine permanente Freiga=
+be bei mir. Ich m=C3=BCsste also immer den Link parat haben. Deswegen der=
+ erneute Versuch einen freigegebenen Ordner zu teilen.
+Gr=C3=BC=C3=9Fe,
+Simon=E2=80=9C
+
+Sieh dir den Ordner unter http://www.dropbox.com/el/?r=3D/link/17.Z6bYAWK=
+o7Q.981720b6e03373ad%3Fk%3DcIfvSVEDtxCT8OexFl5lCDA3oxfQbCUK&b=3Dclk:25850=
+498:12152868930715465334:507:342&z=3DAADXlvJx5ujz-srTE40oOAQWYB5xfedZx6Tc=
+6uEo5E7vJw an
+--===============2692043002690714425==
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"650" align=3D"center" style=3D"font-size: 14px;" cellpadd=
+ing=3D"0" cellspacing=3D"0">
+<tr id=3D"topshadow">
+<td height=3D"10" width=3D"10" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/shadow_tl.gif" bgcolor=3D"#ffffff"></td>
+<td height=3D"10" background=3D"https://www.dropbox.com/static/images/ema=
+ils/shadow_top.gif" bgcolor=3D"#ffffff"> </td>
+<td height=3D"10" width=3D"10" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/shadow_tr.gif" bgcolor=3D"#ffffff"> </td>
+</tr>
+<tr id=3D"header">
+<td width=3D"10" background=3D"https://www.dropbox.com/static/images/emai=
+ls/shadow_left.gif" bgcolor=3D"#ffffff" rowspan=3D"2"></td>
+<td height=3D"102" background=3D"https://www.dropbox.com/static/images/em=
+ails/header_bg.gif" bgcolor=3D"#e6f1fb" align=3D"center">
+<table width=3D"95%"><tr>
+<td align=3D"left">
+<img src=3D"https://www.dropbox.com/static/images/emails/email_logo.gif" =
+/>
+</td>
+</tr></table>
+</td>
+<td width=3D"10" background=3D"https://www.dropbox.com/static/images/emai=
+ls/shadow_right.gif" bgcolor=3D"#ffffff" rowspan=3D"2"> </td>
+</tr>
+<tr id=3D"content">
+<td bgcolor=3D"#f4faff" align=3D"center">
+<table width=3D"95%" cellpadding=3D"30">
+<tr>
+<td align=3D"left">
+<font face=3D"Lucida Grande, Segoe UI, Arial, Verdana, Lucida Sans Unicod=
+e, Tahoma, Sans Serif">
+    Hallo Ingo,<br /><br />
+Simon Hartmann hat dich mit der folgenden Nachricht zum freigegebenen Dro=
+pbox-Ordner =E2=80=9EInfo Basics=E2=80=9C eingeladen:<br /><br />
+<i>=E2=80=9EHi Ingo,<br />hab deine Dateien von Latex erhalten. Es ist ab=
+er keine permanente Freigabe bei mir. Ich m=C3=BCsste also immer den Link=
+ parat haben. Deswegen der erneute Versuch einen freigegebenen Ordner zu =
+teilen.<br />Gr=C3=BC=C3=9Fe,<br />Simon=E2=80=9C</i><br /><br />
+<a href=3D"http://www.dropbox.com/el/?r=3D/link/17.ORPLkZPcFH.981720b6e03=
+373ad%3Fk%3DcIfvSVEDtxCT8OexFl5lCDA3oxfQbCUK&amp;b=3Dclk:25850498:1215286=
+8930715465334:507:342&amp;z=3DAADhz9N2qakgdUaBvH3ST_XvpMwMPAjkKSZYO1f7K-T=
+0qA">Schau dir  =E2=80=9EInfo Basics=E2=80=9C an</a>.<br />
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr id=3D"bottomshadow">
+<td height=3D"10" width=3D"10" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/shadow_bl.gif" bgcolor=3D"#ffffff"></td>
+<td height=3D"10" background=3D"https://www.dropbox.com/static/images/ema=
+ils/shadow_bottom.gif" bgcolor=3D"#ffffff"> </td>
+<td height=3D"10" width=3D"10" background=3D"https://www.dropbox.com/stat=
+ic/images/emails/shadow_br.gif" bgcolor=3D"#ffffff"> </td>
+</tr>
+<tr id=3D"copyright">
+<td></td>
+<td align=3D"right">
+<img src=3D"https://www.dropbox.com/static/images/emails/gray_logo.gif" a=
+lt=3D"" align=3D"absmiddle" />
+<span style=3D"font-family: 'Lucida Grande', 'Segoe UI', Arial, Verdana, =
+'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 11px; color: #888=
+;">&copy;&nbsp;2012&nbsp;Dropbox</span>
+</td>
+<td></td>
+</tr>
+</table><img                             src=3D"www.dropbox.com/el/?b=3Do=
+pen:25850498:12152868930715465334:507:342&z=3DAADAJAmKulSWrGoSzVFRKyHv5aK=
+Y8a_pFYza18iuyMM-3g"                             width=3D"1"             =
+                height=3D"1"                          />
+--===============2692043002690714425==--

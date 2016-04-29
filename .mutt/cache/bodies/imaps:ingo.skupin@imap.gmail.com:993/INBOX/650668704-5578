@@ -1,0 +1,87 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.92.135 with SMTP id cm7csp8773pdb;
+        Sat, 25 May 2013 04:06:03 -0700 (PDT)
+X-Received: by 10.204.57.13 with SMTP id a13mr10424564bkh.63.1369479963151;
+        Sat, 25 May 2013 04:06:03 -0700 (PDT)
+Return-Path: <account-security-noreply@account.microsoft.com>
+Received: from bay0-omc4-s5.bay0.hotmail.com (bay0-omc4-s5.bay0.hotmail.com. [65.54.190.207])
+        by mx.google.com with ESMTP id rm5si1344337bkb.127.2013.05.25.04.06.01
+        for <ingo.skupin@gmail.com>;
+        Sat, 25 May 2013 04:06:03 -0700 (PDT)
+Received-SPF: neutral (google.com: 65.54.190.207 is neither permitted nor denied by best guess record for domain of account-security-noreply@account.microsoft.com) client-ip=65.54.190.207;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 65.54.190.207 is neither permitted nor denied by best guess record for domain of account-security-noreply@account.microsoft.com) smtp.mail=account-security-noreply@account.microsoft.com
+Received: from BL2IDSTOOL1C014 ([65.54.190.200]) by bay0-omc4-s5.bay0.hotmail.com with Microsoft SMTPSVC(6.0.3790.4675);
+	 Sat, 25 May 2013 04:05:07 -0700
+Message-ID: <BL2IDSTOOL1C01492F316FD26A48000056C8A940@CEZ.ICE>
+X-Message-Routing: sKFde7CS5BHygFZaC4gFZWeHmOM+Rjf1iOmv8meDbQqeD+9kHFgbAflrz5UYy6v/Ov/vRliTx0hzi7ScTgwYCoH5DCnmK2fnZLBVmJwhLsoYw0AvQMgwWtpkeyNv3705UFNVolfkQdt+6fzjBtMLlPKlrGw==
+Return-Path: account-security-noreply@account.microsoft.com
+Date: Sat, 25 May 2013 04:05:23 -0700
+From: Microsoft account team <account-security-noreply@account.microsoft.com>
+Subject: Verify your email address
+To: <ingo.skupin@gmail.com>
+X-Priority: 3
+X-MSAMetaData: CnWmOcCXFAnnNTSnt4r1cYL6QptV5AijmO/9jnsjyAMmYiLAzqYw7D6RGhJsBrfsDn0QJCke3wuYHHzg+8d4eN7RRFjp81f6X2iWzECi3d7mODxf7z0JjUTs6aJFtS+7x/cD/eRaIdyj4WIaRmc8BDAw8IRcJxXsFpMZx5TPeCQb
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="------=_Next_Part_0749630995.633"
+X-OriginalArrivalTime: 25 May 2013 11:05:07.0920 (UTC) FILETIME=[B7A15500:01CE5937]
+
+
+--------=_Next_Part_0749630995.633
+Content-Type: text/plain;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+Hi ingo.skupin@gmail.com,
+
+To finish setting up this Microsoft account, we just need to make sure this email address is yours.
+
+Click this link to verify your account:
+https://account.live.com/Email/Verify?otc=*Ct8y0FSxfxdHChY69XvgNqSwUDTntPE2YNmGgLlxg9!mSC2eWO!44CQbdWxAlrOmPWht74SPZoKY3nDM3FfbWKA$&mn=ingo.skupin%40gmail.com&ru=https://login.live.com/login.srf%3fid%3d80500%26cbinst%3d0xff68001f%26uitheme%3dwin_3_19%26vv%3d1450%26username%3dingo.skupin%2540gmail.com%26mkt%3dEN-GB%26wreply%3dhttps%253a%252f%252flogin.live.com%252flogin.srf%253flc%253d2057%2526uiflavor%253d4%2526id%253d80500%2526mkt%253den-GB%2526cbinst%253d0xff68001f%2526uitheme%253dwin_3_19%2526username%253dingo.skupin%252540gmail.com%2526actionid%253d7%26uiflavor%3dWin8Wiz%26lc%3d2057%26sutk%3d1369479905882&cxt=EV
+
+If you didn't make this request, use this link to cancel it:
+https://account.live.com/Email/Remove?otc=*Ct8y0FSxfxdHChY69XvgNqSwUDTntPE2YNmGgLlxg9!mSC2eWO!44CQbdWxAlrOmPWht74SPZoKY3nDM3FfbWKA$&mn=ingo.skupin%40gmail.com&ru=https://login.live.com/login.srf%3fid%3d80500%26cbinst%3d0xff68001f%26uitheme%3dwin_3_19%26vv%3d1450%26username%3dingo.skupin%2540gmail.com%26mkt%3dEN-GB%26wreply%3dhttps%253a%252f%252flogin.live.com%252flogin.srf%253flc%253d2057%2526uiflavor%253d4%2526id%253d80500%2526mkt%253den-GB%2526cbinst%253d0xff68001f%2526uitheme%253dwin_3_19%2526username%253dingo.skupin%252540gmail.com%2526actionid%253d7%26uiflavor%3dWin8Wiz%26lc%3d2057%26sutk%3d1369479905882&cxt=EV
+
+Thanks,
+The Microsoft account team
+
+
+--------=_Next_Part_0749630995.633
+Content-Type: text/html;
+	charset="Windows-1252"
+Content-Transfer-Encoding: 8bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" dir="ltr"> 
+<head>
+<style type="text/css">
+ .link:link, .link:active, .link:visited {
+       color:#2672ec !important;
+       text-decoration:none !important;
+ }
+
+ .link:hover {
+       color:#4284ee !important;
+       text-decoration:none !important;
+ }
+</style>
+<title></title>
+</head>
+<body>
+<table dir="ltr">
+      <tr><td id="i1" style="padding:0; font-family:'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:17px; color:#707070">Microsoft account</td></tr>
+      <tr><td id="i2" style="padding:0; font-family:'Segoe UI Light', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:41px; color:#2672ec">Verify your email address</td></tr>
+      <tr><td id="i4" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:12px; color:#2a2a2a">To finish setting up this Microsoft account, we just need to make sure this email address is yours.</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:12px; color:#2a2a2a">
+         <table border="0" cellspacing="0"><tr><td bgcolor="#2672ec" style="background-color:#2672ec; padding-top: 5px; padding-right: 20px; padding-bottom: 5px; padding-left: 20px; min-width:50px;"><a id="i5" style="font-family: 'Segoe UI Semibold', 'Segoe UI Bold', 'Segoe UI', 'Helvetica Neue Medium', Arial, sans-serif; font-size:12px; text-align:center; text-decoration:none; font-weight:600; letter-spacing:0.02em; color:#fff;" href="https://account.live.com/Email/Verify?otc=*Ct8y0FSxfxdHChY69XvgNqSwUDTntPE2YNmGgLlxg9!mSC2eWO!44CQbdWxAlrOmPWht74SPZoKY3nDM3FfbWKA$&mn=ingo.skupin%40gmail.com&ru=https://login.live.com/login.srf%3fid%3d80500%26cbinst%3d0xff68001f%26uitheme%3dwin_3_19%26vv%3d1450%26username%3dingo.skupin%2540gmail.com%26mkt%3dEN-GB%26wreply%3dhttps%253a%252f%252flogin.live.com%252flogin.srf%253flc%253d2057%2526uiflavor%253d4%2526id%253d80500%2526mkt%253den-GB%2526cbinst%253d0xff68001f%2526uitheme%253dwin_3_19%2526username%253dingo.skupin%252540gmail.com%2526actionid%253
+d7%26uiflavor%3dWin8Wiz%26lc%3d2057%26sutk%3d1369479905882&cxt=EV">Verify <span dir="ltr">ingo.skupin@gmail.com</span></a></td></tr></table>
+      </td></tr>
+      <tr><td id="i6" style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:12px; color:#2a2a2a">If you didn't make this request, <a id="iCancel" class="link" style="color:#2672ec; text-decoration:none" href="https://account.live.com/Email/Remove?otc=*Ct8y0FSxfxdHChY69XvgNqSwUDTntPE2YNmGgLlxg9!mSC2eWO!44CQbdWxAlrOmPWht74SPZoKY3nDM3FfbWKA$&mn=ingo.skupin%40gmail.com&ru=https://login.live.com/login.srf%3fid%3d80500%26cbinst%3d0xff68001f%26uitheme%3dwin_3_19%26vv%3d1450%26username%3dingo.skupin%2540gmail.com%26mkt%3dEN-GB%26wreply%3dhttps%253a%252f%252flogin.live.com%252flogin.srf%253flc%253d2057%2526uiflavor%253d4%2526id%253d80500%2526mkt%253den-GB%2526cbinst%253d0xff68001f%2526uitheme%253dwin_3_19%2526username%253dingo.skupin%252540gmail.com%2526actionid%253d7%26uiflavor%3dWin8Wiz%26lc%3d2057%26sutk%3d1369479905882&cxt=EV">click here</a> to cancel.</td></tr>
+      <tr><td style="padding:0; padding-top:25px; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:12px; color:#2a2a2a">Thanks,</td></tr>
+      <tr><td id="i8" style="padding:0; font-family:'Segoe UI', Tahoma, Verdana, Arial, sans-serif; font-size:12px; color:#2a2a2a">The Microsoft account team</td></tr>
+</table>
+</body>
+</html>
+
+--------=_Next_Part_0749630995.633--

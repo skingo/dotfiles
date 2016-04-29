@@ -1,0 +1,82 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.170 with SMTP id i10csp21808pdr;
+        Sun, 22 Jun 2014 06:19:20 -0700 (PDT)
+X-Received: by 10.194.59.65 with SMTP id x1mr19332690wjq.60.1403443160035;
+        Sun, 22 Jun 2014 06:19:20 -0700 (PDT)
+Return-Path: <skupin.notzingen@kabelbw.de>
+Received: from fep21.mx.upcmail.net (fep21.mx.upcmail.net. [62.179.121.41])
+        by mx.google.com with ESMTP id d20si11940813wic.36.2014.06.22.06.19.19
+        for <ingo.skupin@gmail.com>;
+        Sun, 22 Jun 2014 06:19:20 -0700 (PDT)
+Received-SPF: none (google.com: skupin.notzingen@kabelbw.de does not designate permitted sender hosts) client-ip=62.179.121.41;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: skupin.notzingen@kabelbw.de does not designate permitted sender hosts) smtp.mail=skupin.notzingen@kabelbw.de
+Received: from edge01.upcmail.net ([192.168.13.236])
+          by viefep21-int.chello.at
+          (InterMail vM.8.01.05.13 201-2260-151-135-20130320) with ESMTP
+          id <20140622131918.QZCD2745.viefep21-int.chello.at@edge01.upcmail.net>;
+          Sun, 22 Jun 2014 15:19:18 +0200
+Received: from viepmrape12.upcmail.net ([192.168.13.91])
+	by edge01.upcmail.net with edge
+	id HRKJ1o00p1xsKPk01RKJPt; Sun, 22 Jun 2014 15:19:18 +0200
+X-SourceIP: 192.168.13.91
+X-Authenticated-Sender: 401708.625289@kabelbw.de
+Date: Sun, 22 Jun 2014 15:19:18 +0200 (CEST)
+From: "401708.625289@kabelbw.de" <skupin.notzingen@kabelbw.de>
+Reply-To: "401708.625289@kabelbw.de" <skupin.notzingen@kabelbw.de>
+To: Ingo Skupin <ingo.skupin@googlemail.com>, 
+	"leona.skupin@web.de" <leona.skupin@web.de>
+Message-ID: <1349022734.178232.1403443158684.open-xchange@webmail.kabelbw.de>
+In-Reply-To: <53A3336D.2010903@gmail.com>
+References: <53A3336D.2010903@gmail.com>
+Subject: =?UTF-8?Q?Gr=C3=BC=C3=9Fe_aus_Barcelona?=
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_178231_409337725.1403443158671"
+X-Priority: 3
+Importance: Medium
+X-Mailer: Open-Xchange Mailer v-
+X-Originating-IP: 81.184.4.123
+
+------=_Part_178231_409337725.1403443158671
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hola =C2=A1
+wir sind gut angekommen und gestern und heute schon viel herumgewalzt.
+Jetzt machen wir gerade Siesta im Hotel, bevor es heute abend wieder auf di=
+e
+Gass' geht.
+Bis Bald und LG
+Iris und Klaus
+------=_Part_178231_409337725.1403443158671
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type"/>
+ </head><body style="">
+ 
+ 
+  <div>
+   Hola
+   <strong> &#161;</strong>
+  </div> 
+  <div>
+   wir sind gut angekommen und gestern und heute schon viel herumgewalzt.
+  </div> 
+  <div>
+   Jetzt machen wir gerade Siesta im Hotel, bevor es heute abend wieder auf die Gass&#39; geht.
+   <strong><br/></strong>
+  </div> 
+  <div>
+   Bis Bald und LG
+  </div> 
+  <div>
+   Iris und Klaus
+  </div>
+ 
+</body></html>
+------=_Part_178231_409337725.1403443158671--

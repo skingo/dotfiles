@@ -1,0 +1,93 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.155.5 with SMTP id q5csp29130vcw;
+        Mon, 13 Feb 2012 11:04:33 -0800 (PST)
+Received: by 10.14.127.195 with SMTP id d43mr5633423eei.102.1329159872566;
+        Mon, 13 Feb 2012 11:04:32 -0800 (PST)
+Return-Path: <Musikverein.Notzingen@gmx.de>
+Received: from fmmailgate03.web.de (fmmailgate03.web.de. [217.72.192.234])
+        by mx.google.com with ESMTP id z48si9789288eeb.88.2012.02.13.11.04.32;
+        Mon, 13 Feb 2012 11:04:32 -0800 (PST)
+Received-SPF: fail (google.com: domain of Musikverein.Notzingen@gmx.de does not designate 217.72.192.234 as permitted sender) client-ip=217.72.192.234;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of Musikverein.Notzingen@gmx.de does not designate 217.72.192.234 as permitted sender) smtp.mail=Musikverein.Notzingen@gmx.de
+Received:  from mx28.web.de  ( [172.20.6.143])
+	by fmmailgate03.web.de (Postfix) with ESMTP id 36BCF1B169729
+	for <ingo.skupin@gmail.com>; Mon, 13 Feb 2012 20:04:30 +0100 (CET)
+Received: from [213.165.64.23] (helo=mailout-de.gmx.net)
+	by mx28.web.de with smtp (WEB.DE 4.110 #1)
+	id 1Rx1CP-0005Jm-00
+	for ingo.skupin@web.de; Mon, 13 Feb 2012 20:04:30 +0100
+Received: (qmail 32619 invoked by alias); 13 Feb 2012 19:04:29 -0000
+Delivered-To: GMX delivery to jugendaussschuss%musikverein.notzingen@gmx.de
+Received: (qmail 32576 invoked by uid 0); 13 Feb 2012 19:04:29 -0000
+Received: from 84.146.107.68 by www015.gmx.net with HTTP;
+ Mon, 13 Feb 2012 20:04:28 +0100 (CET)
+Content-Type: multipart/alternative;
+ boundary="========GMXBoundary19071329159868979041"
+Date: Mon, 13 Feb 2012 20:04:28 +0100
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+Message-ID: <20120213190428.19070@gmx.net>
+MIME-Version: 1.0
+Subject: =?iso-8859-1?Q?Termin_f=FCr_Jugendausschusssitzung?=
+To: Jugendaussschuss%Musikverein.Notzingen@gmx.de
+X-Authenticated: #685400
+X-Mailer: WWW-Mail 6100 (Global Message Exchange)
+X-Priority: 3
+X-Provags-ID: V01U2FsdGVkX1/yZSF7yzLyDbMrRDEURXcTPCjxLcKdt/vZrXdm3o
+ qmKC9bUjbklU5KyWyU5s3XvvXZx/Gy4J6hlQ== 
+X-GMX-UID: 6ztLbxdmeSEqVjkWYXQhOGV+IGRvbwB0
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+--========GMXBoundary19071329159868979041
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+
+ich wollte mal fagen ob wir uns mal wieder für eien Sitzung treffen?
+Da wir ja im April die Veranstaltung haben und man da bestimmt was 
+vorbereiten muss wäre ein Treffen in der nächsten Zeit bestimmt Sinnvoll. 
+Ich hab in den Protokollen geschaut normal war immer eine Sitzung so anfang 
+März.
+Es wäre nicht schlecht wenn mal jeder in seinem Terminplan schauen könnte 
+ob wir es hinbekommen ende Februar anfang März eine Ausschusssitzung zu 
+machen.
+
+
+mit freundlichen Grüßen
+Ludwig Bippus    
+-- 
+Musikverein Notzingen-Wellingen e.V.
+eMail: musikverein.notzingen@gmx.de
+Internet: http://www.musikverein-notzingen.de
+
+Ihr GMX Postfach immer dabei: die kostenlose GMX Mail App für Android.
+Komfortabel, sicher und schnell: www.gmx.de/android
+
+--========GMXBoundary19071329159868979041
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+    <head>
+        <title></title>
+       =20
+    </head>
+    <body>
+        Hallo,<br /><br />ich wollte mal fagen ob wir uns mal wieder f&uuml=
+;r eien Sitzung treffen?<br />Da wir ja im April die Veranstaltung haben un=
+d man da bestimmt was vorbereiten muss w&auml;re ein Treffen in der n&auml;=
+chsten Zeit bestimmt Sinnvoll. Ich hab in den Protokollen geschaut normal w=
+ar immer eine Sitzung so anfang M&auml;rz.<br />Es w&auml;re nicht schlecht=
+ wenn mal jeder in seinem Terminplan schauen k&ouml;nnte ob wir es hinbekom=
+men ende Februar anfang M&auml;rz eine Ausschusssitzung zu machen.<br /><br=
+ /><br />mit freundlichen Gr&uuml;&szlig;en<br />Ludwig Bippus
+    <div class=3D"signature"><br /><br /><br />-- <br />Musikverein=C2=A0No=
+tzingen-Wellingen=C2=A0e.V.=0D<br />
+eMail:=C2=A0musikverein.notzingen@gmx.de=0D<br />
+Internet:=C2=A0http://www.musikverein-notzingen.de<br />
+<br />
+Ihr GMX Postfach immer dabei: die kostenlose GMX Mail App f=C3=BCr Android.=
+<br />Komfortabel, sicher und schnell: www.gmx.de/android</div></body>
+</html>
+
+--========GMXBoundary19071329159868979041--

@@ -1,0 +1,82 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.86.206 with SMTP id t14cs35590vcl;
+        Mon, 24 Oct 2011 10:11:05 -0700 (PDT)
+Received: by 10.205.83.78 with SMTP id af14mr2345870bkc.69.1319476264786;
+        Mon, 24 Oct 2011 10:11:04 -0700 (PDT)
+Return-Path: <johannes.mueller-roth@student.uni-tuebingen.de>
+Received: from mx05.uni-tuebingen.de (mx05.uni-tuebingen.de. [134.2.3.4])
+        by mx.google.com with ESMTPS id o13si1907598fal.3.2011.10.24.10.11.04
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 24 Oct 2011 10:11:04 -0700 (PDT)
+Received-SPF: pass (google.com: domain of johannes.mueller-roth@student.uni-tuebingen.de designates 134.2.3.4 as permitted sender) client-ip=134.2.3.4;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of johannes.mueller-roth@student.uni-tuebingen.de designates 134.2.3.4 as permitted sender) smtp.mail=johannes.mueller-roth@student.uni-tuebingen.de
+Received: from [192.168.1.19] (dslb-088-064-134-089.pools.arcor-ip.net [88.64.134.89])
+	(authenticated bits=0)
+	by mx05.uni-tuebingen.de (8.13.6/8.13.6) with ESMTP id p9OHAvLV029643
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <ingo.skupin@googlemail.com>; Mon, 24 Oct 2011 19:11:03 +0200
+Message-ID: <4EA59C1A.9070901@student.uni-tuebingen.de>
+Date: Mon, 24 Oct 2011 19:10:50 +0200
+From: =?ISO-8859-15?Q?Johannes_M=FCller-Roth?=
+ <johannes.mueller-roth@student.uni-tuebingen.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20110929 Thunderbird/7.0.1
+MIME-Version: 1.0
+To: Ingo Skupin gmail <ingo.skupin@googlemail.com>
+Subject: Re: =?ISO-8859-15?Q?=DCbungsblatt_nr1_update?=
+References: <4EA58AA8.8080807@googlemail.de> <4EA58BF9.200@mueller-roth.de> <4EA58CA1.3000101@googlemail.de>
+In-Reply-To: <4EA58CA1.3000101@googlemail.de>
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+X-AntiVirus-Spam-Check: clean (checked by Avira MailGate: version: 3.2.1.23;
+ spam filter version: 3.2.0/2.3; host: mx05)
+X-AntiVirus: checked by Avira MailGate (version: 3.2.1.23; AVE: 8.2.5.34; VDF: 7.11.10.215; host: mx05); id=15010-YzRjGl
+
+hi,
+also hochgeladen isses jetzt mal. ich hab drübergeschaut und unsere 
+namen reingemacht.
+jetzt versuch ichs noch auszudrucken, aber DrRacket ist da ziemlich 
+bescheuert gemacht...
+
+Danke an dieser stelle nochmal fürs machen und die saubere kommentierung ;)
+
+Gruß
+
+
+Am 24.10.2011 18:04, schrieb Ingo Skupin gmail:
+> hi,
+>
+> also online müssen wir auf jeden Fall abgeben, ab schriftlich auch 
+> Pflicht ist, weiss ich nicht, aber ich denke, es ist auf alle Fälle 
+> besser, auch schriftlich was abzugeben, dann kann der Tutor die 
+> Aufgaben auch korrigiert zurückgeben.
+>
+> LG
+> Ingo
+>
+> Am 24.10.2011 18:02, schrieb Johannes Müller-Roth:
+>> hi,
+>>
+>> haha ich dachte grad: huch is der schnell:D habs garnicht gesehen, 
+>> dass es an die andere adresse war... (landen bei mir alle in 
+>> thunderbird)
+>> ich wohn noch zu hause, dh das mit dem drucken ist kein problem ;)
+>> ich werds gleich nochmal durchgehen.
+>> wie müssen wirs denn abgeben? online oder ausgedruckt?
+>>
+>> LG
+>> Johannes
+>>
+>> Am 24.10.2011 17:56, schrieb Ingo Skupin gmail:
+>>> Tach,
+>>>
+>>> hier ist auch der Rest.
+>>> Hast du noch irgendwelche Ergänzungen/Verbesserungsvorschläge?
+>>> Und vor allem: kannst du des Zeug auch ausdrucken?
+>>> Sonst muss ich halt schauen, dass ich des morgen noch rechtzeitig im 
+>>> Poolraum ausdrucken kann.
+>>> Achso: man müsste bei den Racket-Dateien noch unsere Namen und 
+>>> unseren Tutor eintragen, des hab ich vergessen.
+>>>
+>>> LG
+>>> Ingo
+>

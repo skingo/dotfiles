@@ -1,0 +1,107 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp517702ivc;
+        Sat, 9 Apr 2016 06:58:06 -0700 (PDT)
+X-Received: by 10.107.132.78 with SMTP id g75mr15078387iod.50.1460210286908;
+        Sat, 09 Apr 2016 06:58:06 -0700 (PDT)
+Return-Path: <bounces+848413-e7d8-ingo.skupin=gmail.com@sgmail.github.com>
+Received: from o5.sgmail.github.com (o5.sgmail.github.com. [192.254.113.10])
+        by mx.google.com with ESMTPS id n6si8067174igk.95.2016.04.09.06.58.06
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 09 Apr 2016 06:58:06 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of bounces+848413-e7d8-ingo.skupin=gmail.com@sgmail.github.com designates 192.254.113.10 as permitted sender) client-ip=192.254.113.10;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@github.com;
+       dkim=pass header.i=@sendgrid.info;
+       spf=pass (google.com: best guess record for domain of bounces+848413-e7d8-ingo.skupin=gmail.com@sgmail.github.com designates 192.254.113.10 as permitted sender) smtp.mailfrom=bounces+848413-e7d8-ingo.skupin=gmail.com@sgmail.github.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=github.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=github.com; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-id:list-archive:list-post:list-unsubscribe; 
+	s=s20150108; bh=6u+BN4GLMbTxChZ2mWE5CrRd6y0=; b=l6gD9Hbng6XMkqLo
+	/gYLRK8B9zeWCu6QMT74H84AUlB2LQH6gR1CKq11MQ1Xo/yjHt1iYsq5TkzHh8T7
+	EdRCw9Ipm1eWGm0Hp2GTZGXxHrQxYMMgen6C8NPUZCmiI+FKkn7oI1y74uysXbIx
+	xt31YJm5s6c0mdD62hCxiP2nU0c=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=from:reply-to:to:subject:mime-version:content-type:content-transfer-encoding:list-id:list-archive:list-post:list-unsubscribe:x-feedback-id; 
+	s=smtpapi; bh=6u+BN4GLMbTxChZ2mWE5CrRd6y0=; b=CsMlvo8Njqtp6Mh5A2
+	4/LvYuo2WscXu3q5jBAFb68IjZ7BgPt3e88owLslj/wp3YfS8XTPuwUepFl2277B
+	YPFNK9ls6V09kekdLS/cku6aBaDDlpKew3Lf5sdFZyeqheVx+fZn+zsRmI6iWWtI
+	3+TuQuiyn6+ldEypplD+R0YjE=
+Received: by filter0627p1mdw1.sendgrid.net with SMTP id filter0627p1mdw1.15269.57090A6D8A
+        2016-04-09 13:58:05.988154407 +0000 UTC
+Received: from github-smtp2b-ext-cp1-prd.iad.github.net (github-smtp2b-ext-cp1-prd.iad.github.net [192.30.253.17])
+	by ismtpd0002p1iad1.sendgrid.net (SG) with ESMTP id aq88JO-ETbmRlt79avsjcQ
+	for <ingo.skupin@gmail.com>; Sat, 09 Apr 2016 13:58:05.952 +0000 (UTC)
+Date: Sat, 09 Apr 2016 06:58:05 -0700
+From: Noitidart <notifications@github.com>
+Reply-To: sflip/dotfiles <reply+00a24d34e4e336f582c23d81c57136fcd1918dafecde9f0292cf000000011320cc6d92a169ce08c50ad8@reply.github.com>
+To: sflip/dotfiles <dotfiles@noreply.github.com>
+Message-ID: <sflip/dotfiles/issues/2@github.com>
+Subject: [sflip/dotfiles] xcb_grab_key js-ctypes (#2)
+Mime-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="--==_mimepart_57090a6dbe038_16d03fe12c58b2c094898";
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Precedence: list
+X-GitHub-Sender: Noitidart
+X-GitHub-Recipient: skingo
+List-ID: sflip/dotfiles <dotfiles.sflip.github.com>
+List-Archive: https://github.com/sflip/dotfiles
+List-Post: <mailto:reply+00a24d34e4e336f582c23d81c57136fcd1918dafecde9f0292cf000000011320cc6d92a169ce08c50ad8@reply.github.com>
+List-Unsubscribe: <mailto:unsub+00a24d34e4e336f582c23d81c57136fcd1918dafecde9f0292cf000000011320cc6d92a169ce08c50ad8@reply.github.com>,
+ <https://github.com/notifications/unsubscribe/AKJNNHoY6-U_OJffWfbay5wDvQcsAy1Gks5p17BtgaJpZM4IDnmg>
+X-Auto-Response-Suppress: All
+X-GitHub-Recipient-Address: ingo.skupin@gmail.com
+X-SG-EID: Ayd+lkoWOqSx00FwpgBejNdCn6eOef5aLnIaV7SqvaQv/Ah1TpO0WbZteqK7UduOmdEIyofDo+Em8a
+ vovlDCutUaR/FQ8rZOXpCJUGUhcQSMILv2Vz5hm+GmDkpyJ5Nh8c3dRP1XAqDbY6axPzMGNbcqUMI0
+ WsytgnlOXzyZXDZclwS1K0Pc+r2KDzqCUw4ZJruQo74rU3DErDw+A5yn0fhoiFrC9ETjWpFwjJzViA
+ s=
+X-Feedback-ID: 848413:6xvVEJqleZlAW7/vhv7PzD/cv5tamo2SWZDKyvugGvg=:6xvVEJqleZlAW7/vhv7PzD/cv5tamo2SWZDKyvugGvg=:SG
+
+----==_mimepart_57090a6dbe038_16d03fe12c58b2c094898
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+Hi there,
+I noticed you are using js-ctypes and xcb to grab a key.
+
+I am trying to do the same, I get no errors, however the grab doesn't happen :(
+
+Were you able to succesfully grab?
+
+Here is my code: https://github.com/Noitidart/NativeShot/blob/master/modules/hotkey/HotkeyWorker.js#L376-L459
+
+I do that from a ChromeWorker, would you have some time to help with advice/input please?
+
+---
+You are receiving this because you are subscribed to this thread.
+Reply to this email directly or view it on GitHub:
+https://github.com/sflip/dotfiles/issues/2
+----==_mimepart_57090a6dbe038_16d03fe12c58b2c094898
+Content-Type: text/html;
+ charset=UTF-8
+Content-Transfer-Encoding: 7bit
+
+<p>Hi there,<br>
+I noticed you are using js-ctypes and xcb to grab a key.</p>
+
+<p>I am trying to do the same, I get no errors, however the grab doesn't happen :(</p>
+
+<p>Were you able to succesfully grab?</p>
+
+<p>Here is my code: <a href="https://github.com/Noitidart/NativeShot/blob/master/modules/hotkey/HotkeyWorker.js#L376-L459">https://github.com/Noitidart/NativeShot/blob/master/modules/hotkey/HotkeyWorker.js#L376-L459</a></p>
+
+<p>I do that from a ChromeWorker, would you have some time to help with advice/input please?</p>
+
+<p style="font-size:small;-webkit-text-size-adjust:none;color:#666;">&mdash;<br />You are receiving this because you are subscribed to this thread.<br />Reply to this email directly or <a href="https://github.com/sflip/dotfiles/issues/2">view it on GitHub</a><img alt="" height="1" src="https://github.com/notifications/beacon/AKJNNMiGpLwIcaT8kS821rmTjk4U2Tyuks5p17BtgaJpZM4IDnmg.gif" width="1" /></p>
+<div itemscope itemtype="http://schema.org/EmailMessage">
+<div itemprop="action" itemscope itemtype="http://schema.org/ViewAction">
+  <link itemprop="url" href="https://github.com/sflip/dotfiles/issues/2"></link>
+  <meta itemprop="name" content="View Issue"></meta>
+</div>
+<meta itemprop="description" content="View this Issue on GitHub"></meta>
+</div>
+
+----==_mimepart_57090a6dbe038_16d03fe12c58b2c094898--

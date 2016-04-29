@@ -1,0 +1,93 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.9.197 with SMTP id c5csp615lbb;
+        Mon, 22 Apr 2013 12:01:45 -0700 (PDT)
+X-Received: by 10.205.104.138 with SMTP id dm10mr5321952bkc.51.1366657305087;
+        Mon, 22 Apr 2013 12:01:45 -0700 (PDT)
+Return-Path: <info@eis.de>
+Received: from srv02.eis.de (srv02.eis.de. [80.87.114.14])
+        by mx.google.com with ESMTP id j7si9467883bki.215.2013.04.22.12.01.44;
+        Mon, 22 Apr 2013 12:01:45 -0700 (PDT)
+Received-SPF: pass (google.com: domain of info@eis.de designates 80.87.114.14 as permitted sender) client-ip=80.87.114.14;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of info@eis.de designates 80.87.114.14 as permitted sender) smtp.mail=info@eis.de;
+       dkim=fail header.i=@eis.de
+Received: by srv02.eis.de (Postfix, from userid 99)
+	id CCBA1A2003B; Mon, 22 Apr 2013 21:01:44 +0200 (CEST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 srv02.eis.de CCBA1A2003B
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=eis.de; s=default;
+	t=1366657304; bh=ZL3jOZs+aJoAyNz9BkCOZg3zeQhoWStCAgo12kmqBbg=;
+	h=To:Subject:From:Reply-To:Content-Type:Message-Id:Date;
+	b=oXBD6kn8GRngr1dgFKbPqxL7OILOYbkBA9W2FIYHGibjVjBSWF2dTNEND0afRaQ+x
+	 Bi9efZ36pVw343jlHyVnE87XY6KHa4XypZfanvB86lB1h/OyaMuYOVD8Cn0ORbqNrp
+	 NG/T6kzBGDjwLmegXy9URLwLmp+D5ilswFxnkvFo=
+To: ingo.skupin@gmail.com
+Subject: Ihre Registrierung bei www.eis.de
+From: register@eis.de
+Reply-To: noreply@eis.de
+Content-Type:text/plain
+Message-Id: <20130422190144.CCBA1A2003B@srv02.eis.de>
+Date: Mon, 22 Apr 2013 21:01:44 +0200 (CEST)
+
+Sehr geehrter Herr Skupin,
+
+herzlich Willkommen und vielen Dank, dass Sie sich bei www.eis.de registriert haben. Sie können ab sofort mit Ihrer Kundennummer und Ihrem Passwort in unserem Online Shop bestellen.
+
+
+Ihre Zugangsdaten lauten wie folgt:
+=====================================================================
+Kundennummer: E204868380
+
+Ihr Passwort wird aus sicherheitstechnischen Gründen nicht in dieser Mail übermittelt. Dieses können Sie jedoch auf Wunsch separat unter folgendem Link anfordern:
+
+https://www.eis.de/shop/myaccount.phtml?action=getaccountdata&lng=de_DE
+
+Wenn Sie Ihre Daten oder Ihr Zugangspasswort ändern möchten, klicken Sie bitte auf den Menüpunkt "Kundenkonto" und geben Ihre ID und Passwort ein.
+
+Um schnell auf Ihre eventuellen Fragen eine Antwort zu erhalten, nutzen Sie bitte einfach und unkompliziert unsere ausführliche Fragen & Antworten Liste, welche Sie über folgenden Link erreichen können:
+
+http://www.eis.de/shop/faq.phtml
+
+Über Ihre Weiterempfehlung unserer einmaligen Preisstruktur würden wir uns sehr freuen; hierfür haben wir für Sie bereits ein Partnerprogramm entwickelt, welches Sie ein Leben lang an den Umsätzen Ihrer Freunde und Bekannten teilhaben lässt. Weiteres dazu finden Sie auf unserer Homepage unter dem Servicepunkt "Partnerprogramm".
+
+Mit freundlichen Grüßen
+
+Ihr eis.de-Team
+Liebt Euch günstiger
+
+Lustvoll kaufen - seriös & diskret
+
+
+=====================================================================
+Kundenservice und Verwaltung:
+
+eis.de GmbH
+Westend-Tower
+Stapenhorststr. 1
+33615 Bielefeld
+
+Fon: 0800 / 4450000
+Fax: 0800 / 4460000
+
+E-Mail: info@eis.de
+
+
+Reklamation:
+eis.de GmbH
+Abteilung Reklamation
+Lohweg 5-7
+30559 Hannover
+
+
+Verkauf der Ware im Namen von:
+
+eis.de GmbH
+Westend-Tower
+Stapenhorststr. 1
+33615 Bielefeld
+
+Geschäftsführer: Friedrich-Wilhelm Mohrmann
+
+USt.-IdentNr.: DE246954866
+Handelsregister: HRB Nr. 38482
+Amtsgericht Bielefeld
+

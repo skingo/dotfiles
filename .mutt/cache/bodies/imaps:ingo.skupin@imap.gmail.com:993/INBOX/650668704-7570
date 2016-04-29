@@ -1,0 +1,464 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.170.115.140 with SMTP id h134csp146620ykb;
+        Tue, 13 May 2014 02:10:05 -0700 (PDT)
+X-Received: by 10.15.75.9 with SMTP id k9mr1450777eey.110.1399972204540;
+        Tue, 13 May 2014 02:10:04 -0700 (PDT)
+Return-Path: <Sandra.Rodemeister@uni-hohenheim.de>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id d1si7810681eem.295.2014.05.13.02.10.03
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 13 May 2014 02:10:04 -0700 (PDT)
+Received-SPF: none (google.com: Sandra.Rodemeister@uni-hohenheim.de does not designate permitted sender hosts) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: Sandra.Rodemeister@uni-hohenheim.de does not designate permitted sender hosts) smtp.mail=Sandra.Rodemeister@uni-hohenheim.de;
+       dkim=pass header.i=@uni-hohenheim.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id CA03BAC8A0A; Tue, 13 May 2014 11:09:33 +0200 (CEST)
+X-Original-To: pause@concertband.de
+Delivered-To: pause@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from smtp1.rz.uni-hohenheim.de (smtp1.rz.uni-hohenheim.de [144.41.4.41])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTP id 11527AC846C;
+	Tue, 13 May 2014 11:09:33 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uni-hohenheim.de;
+	 h=content-language:x-mailer:content-type:content-type
+	:mime-version:message-id:date:date:subject:subject:from:from; s=
+	main; t=1399971833; x=1401786234; bh=KPk1KFdSl8vrjC2tTHkOKkTsMOM
+	XOJRctBCCOsRTcxg=; b=WzgcTH64tKLlBJZfz56TvkKUCbQ22vWbUiu+32ZFxTL
+	PZ6wAIt27jrb/CqScBZ87E97njSbbcQLBkLADgLZUU04TC/paAqBteATqQ+65TYe
+	OugWFTNjEHs87Cx7XM9YRhx3qV0p8UqyL+ZEmRm2tq9d2uYMphcl8fEfEOLQVvxM
+	=
+X-Virus-Scanned: amavisd-new at uni-hohenheim.de
+Received: from mailserv.rz.uni-hohenheim.de (dovecot1.rz.uni-hohenheim.de [144.41.4.87])
+	by smtp1.rz.uni-hohenheim.de (Postfix) with ESMTP;
+	Tue, 13 May 2014 11:03:53 +0200 (CEST)
+Received: from C3PO (c3po.biochemie.uni-hohenheim.de [144.41.33.193])
+	by mailserv.rz.uni-hohenheim.de (Postfix) with ESMTP id 3FFA2190202;
+	Tue, 13 May 2014 11:03:52 +0200 (CEST)
+From: "Sandra Rodemeister" <Sandra.Rodemeister@uni-hohenheim.de>
+To: <alle@concertband.de>,
+	<pause@concertband.de>
+Subject: Projektorchester Oktober 2014
+Date: Tue, 13 May 2014 11:03:51 +0200
+Message-ID: <003001cf6e8a$42506160$c6f12420$@uni-hohenheim.de>
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	boundary="----=_NextPart_000_0031_01CF6E9B.05DC3EA0"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac9uiIdbZZSsFvNKRC+EGIjlmiYBPQ==
+Content-Language: de
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0031_01CF6E9B.05DC3EA0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_001_0032_01CF6E9B.05DC3EA0"
+
+
+------=_NextPart_001_0032_01CF6E9B.05DC3EA0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+=20
+
+nachdem nun die R=FCckmeldefrist f=FCr unser Projektorchester im Oktober
+abgelaufen ist, haben wir einen ersten =DCberblick =FCber die m=F6gliche =
+Besetzung
+bekommen. Momentan sind wir jedoch leider noch nicht spielf=E4hig.
+
+Einige von euch haben aber bereits angedeutet, dass sie Musiker/innen
+kennen, die evtl. gerne mitspielen w=FCrden.
+
+Daher nun der Aufruf an euch =96 streut bitte die Info weitr=E4umig an =
+m=F6gliche
+interessierte und in Frage kommende Leute.
+
+Wir ben=F6tigen momentan noch:
+
+=20
+
+1 x Piccolo
+
+1 x Fl=F6te
+
+1 x Oboe
+
+1 x Fagott
+
+5 x Klarinette
+
+1 x Tenor-Sax
+
+1 x Bari-Sax
+
+1 x Kontrabass
+
+4 x Percussion
+
+=20
+
+Bitte wendet euch einfach an mich, wenn ihr noch jemanden wisst =96 =
+gerne
+k=F6nnt ihr den entsprechenden Personen auch meine Mailadresse =
+weitergeben,
+damit sie sich direkt an mich wenden, das geht auch J
+
+=20
+
+Sollten uns wider Erwarten ein Ansturm an Anfragen treffen, m=FCssen wir =
+dann
+im Einzelnen noch =FCberlegen, auf welche Weise wir eine Auswahl =
+treffen.
+Momentan sind wir aber einfach nur froh, wenn wir noch ein paar =
+Mitspieler
+finden.
+
+Bitte habt Verst=E4ndnis daf=FCr, dass wir nur noch externe Mitspieler =
+(also
+Nicht-CBler) f=FCr die Instrumente aufnehmen, bei denen momentan noch =
+Mangel
+herrscht. Danke!
+
+=20
+
+Zur Weiterleitung hier nochmal alle Termine in K=FCrze:
+
+Di, 09.09.14, 19.00-21.00                              Anspielprobe
+
+=20
+
+angegeben sind hier jeweils die maximalen Probenzeiten
+Fr, 10.10.14, 19.00-22.00                              Probe
+
+Sa, 11.10.14, 09.30-21.00                             Probentag
+
+
+So, 12.10.14, 10.00-17.00                             Probentag
+
+=20
+
+Di, 14.10.14, 19.00-22.00                              Generalprobe
+
+=20
+
+Sa, 18.10.14, nachmittags                            Konzert bei =
+=84Flashing
+Winds=93, MH Stuttgart
+
+So, 19.10.14, nachmittags                           Benefizkonzert
+St.Antonius-Kirche, Plieningen
+
+=20
+
+Die entsprechenden Infos werden in K=FCrze auch im =F6ffentlichen =
+Bereich
+unserer HP erscheinen (danke, Peter!) =96 dann k=F6nnt ihr Interessenten =
+auch
+einfach dorthin verweisen.
+
+=20
+
+Also, wie gesagt =96 bitte macht flei=DFig Werbung, es w=E4re echt =
+wichtig, dass
+wir ein spielf=E4higes Orchester zusammenbekommen. Vielen lieben Dank!
+
+=20
+
+Viele Gr=FC=DFe,
+
+Sandra
+
+
+------=_NextPart_001_0032_01CF6E9B.05DC3EA0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+14 (filtered medium)"><!--[if !mso]><style>v\:* =
+{behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1028" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hallo =
+zusammen,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>nachdem nun die R=FCckmeldefrist f=FCr unser =
+Projektorchester im Oktober abgelaufen ist, haben wir einen ersten =
+=DCberblick =FCber die m=F6gliche Besetzung bekommen. Momentan sind wir =
+jedoch leider noch nicht spielf=E4hig.<o:p></o:p></p><p =
+class=3DMsoNormal>Einige von euch haben aber bereits angedeutet, dass =
+sie Musiker/innen kennen, die evtl. gerne mitspielen =
+w=FCrden.<o:p></o:p></p><p class=3DMsoNormal>Daher nun der Aufruf an =
+euch &#8211; streut bitte die Info weitr=E4umig an m=F6gliche =
+interessierte und in Frage kommende Leute.<o:p></o:p></p><p =
+class=3DMsoNormal>Wir ben=F6tigen momentan noch:<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+lang=3DEN-US>1 x Piccolo<o:p></o:p></span></p><p class=3DMsoNormal><span =
+lang=3DEN-US>1 x Fl=F6te<o:p></o:p></span></p><p class=3DMsoNormal><span =
+lang=3DEN-US>1 x Oboe<o:p></o:p></span></p><p class=3DMsoNormal>1 x =
+Fagott<o:p></o:p></p><p class=3DMsoNormal>5 x =
+Klarinette<o:p></o:p></p><p class=3DMsoNormal>1 x =
+Tenor-Sax<o:p></o:p></p><p class=3DMsoNormal><span lang=3DEN-US>1 x =
+Bari-Sax<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US>1 =
+x Kontrabass<o:p></o:p></span></p><p class=3DMsoNormal><span =
+lang=3DEN-US>4 x Percussion<o:p></o:p></span></p><p =
+class=3DMsoNormal><span lang=3DEN-US><o:p>&nbsp;</o:p></span></p><p =
+class=3DMsoNormal>Bitte wendet euch einfach an mich, wenn ihr noch =
+jemanden wisst &#8211; gerne k=F6nnt ihr den entsprechenden Personen =
+auch meine Mailadresse weitergeben, damit sie sich direkt an mich =
+wenden, das geht auch <span lang=3DEN-US =
+style=3D'font-family:Wingdings'>J</span><o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Sollten uns =
+wider Erwarten ein Ansturm an Anfragen treffen, m=FCssen wir dann im =
+Einzelnen noch =FCberlegen, auf welche Weise wir eine Auswahl treffen. =
+Momentan sind wir aber einfach nur froh, wenn wir noch ein paar =
+Mitspieler finden.<o:p></o:p></p><p class=3DMsoNormal>Bitte habt =
+Verst=E4ndnis daf=FCr, dass wir nur noch externe Mitspieler (also =
+Nicht-CBler) f=FCr die Instrumente aufnehmen, bei denen momentan noch =
+Mangel herrscht. Danke!<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Zur =
+Weiterleitung hier nochmal alle Termine in K=FCrze:<o:p></o:p></p><p =
+class=3DMsoNormal style=3D'text-align:justify'>Di, 09.09.14, =
+19.00-21.00=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0 Anspielprobe<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'><o:p>&nbsp;</o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'><!--[if gte vml 1]><v:shapetype =
+id=3D"_x0000_t75" coordsize=3D"21600,21600" o:spt=3D"75" =
+o:preferrelative=3D"t" path=3D"m@4@5l@4@11@9@11@9@5xe" filled=3D"f" =
+stroked=3D"f">
+<v:stroke joinstyle=3D"miter" />
+<v:formulas>
+<v:f eqn=3D"if lineDrawn pixelLineWidth 0" />
+<v:f eqn=3D"sum @0 1 0" />
+<v:f eqn=3D"sum 0 0 @1" />
+<v:f eqn=3D"prod @2 1 2" />
+<v:f eqn=3D"prod @3 21600 pixelWidth" />
+<v:f eqn=3D"prod @3 21600 pixelHeight" />
+<v:f eqn=3D"sum @0 0 1" />
+<v:f eqn=3D"prod @6 1 2" />
+<v:f eqn=3D"prod @7 21600 pixelWidth" />
+<v:f eqn=3D"sum @8 21600 0" />
+<v:f eqn=3D"prod @7 21600 pixelHeight" />
+<v:f eqn=3D"sum @10 21600 0" />
+</v:formulas>
+<v:path o:extrusionok=3D"f" gradientshapeok=3D"t" o:connecttype=3D"rect" =
+/>
+<o:lock v:ext=3D"edit" aspectratio=3D"t" />
+</v:shapetype><v:shape =
+id=3D"Geschweifte_x0020_Klammer_x0020_rechts_x0020_2" =
+o:spid=3D"_x0000_s1027" type=3D"#_x0000_t75" =
+style=3D'position:absolute;left:0;text-align:left;margin-left:240.05pt;ma=
+rgin-top:4.6pt;width:9.75pt;height:36pt;z-index:251657216;visibility:visi=
+ble;mso-width-percent:0;mso-height-percent:0;mso-wrap-distance-left:9pt;m=
+so-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bott=
+om:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:te=
+xt;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso=
+-width-percent:0;mso-height-percent:0;mso-width-relative:page;mso-height-=
+relative:page'>
+<v:imagedata src=3D"cid:image002.png@01CF6E9B.05AB6AA0" o:title=3D"" />
+<o:lock v:ext=3D"edit" aspectratio=3D"f" />
+</v:shape><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;position:absolute;z-index:251657216;left:0px=
+;margin-left:320px;margin-top:6px;width:13px;height:48px'><img =
+width=3D13 height=3D48 src=3D"cid:image002.png@01CF6E9B.05AB6AA0" =
+v:shapes=3D"Geschweifte_x0020_Klammer_x0020_rechts_x0020_2"></span><![end=
+if]><!--[if gte vml 1]><v:shape id=3D"_x0000_s1026" type=3D"#_x0000_t75" =
+alt=3D"angegeben sind hier jeweils &#13;&#10;die maximalen =
+Probenzeiten&#13;&#10;" =
+style=3D'position:absolute;left:0;text-align:left;margin-left:246.8pt;mar=
+gin-top:2.8pt;width:165pt;height:33pt;z-index:251658240;visibility:visibl=
+e;mso-width-percent:0;mso-height-percent:200;mso-wrap-distance-left:9pt;m=
+so-wrap-distance-top:0;mso-wrap-distance-right:9pt;mso-wrap-distance-bott=
+om:0;mso-position-horizontal:absolute;mso-position-horizontal-relative:te=
+xt;mso-position-vertical:absolute;mso-position-vertical-relative:text;mso=
+-width-percent:0;mso-height-percent:200;mso-width-relative:margin;mso-hei=
+ght-relative:margin'>
+<v:imagedata src=3D"cid:image003.emz@01CF6E9B.05AB6AA0" o:title=3D"" />
+</v:shape><![endif]--><![if !vml]><span =
+style=3D'mso-ignore:vglayout;position:absolute;z-index:251658240;left:0px=
+;margin-left:329px;margin-top:4px;width:220px;height:44px'><img =
+width=3D220 height=3D44 src=3D"cid:image004.png@01CF6E9B.05AB6AA0" =
+alt=3D"angegeben sind hier jeweils &#13;&#10;die maximalen =
+Probenzeiten&#13;&#10;" v:shapes=3D"_x0000_s1026"></span><![endif]>Fr, =
+10.10.14, =
+19.00-22.00=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0 Probe<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'>Sa, 11.10.14, =
+09.30-21.00=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0 =
+Probentag=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0  <o:p></o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'>So, 12.10.14, =
+10.00-17.00=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0 Probentag<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'><o:p>&nbsp;</o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'>Di, 14.10.14, =
+19.00-22.00=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0=A0=A0 Generalprobe<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'><o:p>&nbsp;</o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'>Sa, 18.10.14, =
+nachmittags=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0=A0 Konzert bei &#8222;Flashing Winds&#8220;, MH =
+Stuttgart<o:p></o:p></p><p class=3DMsoNormal =
+style=3D'text-align:justify'>So, 19.10.14, =
+nachmittags=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=A0=
+=A0=A0=A0=A0=A0 Benefizkonzert St.Antonius-Kirche, =
+Plieningen<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Die entsprechenden Infos werden in K=FCrze auch im =
+=F6ffentlichen Bereich unserer HP erscheinen (danke, Peter!) &#8211; =
+dann k=F6nnt ihr Interessenten auch einfach dorthin =
+verweisen.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Also, wie gesagt &#8211; bitte macht flei=DFig =
+Werbung, es w=E4re echt wichtig, dass wir ein spielf=E4higes Orchester =
+zusammenbekommen. Vielen lieben Dank!<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Viele =
+Gr=FC=DFe,<o:p></o:p></p><p =
+class=3DMsoNormal>Sandra<o:p></o:p></p></div></body></html>
+------=_NextPart_001_0032_01CF6E9B.05DC3EA0--
+
+------=_NextPart_000_0031_01CF6E9B.05DC3EA0
+Content-Type: image/png;
+	name="image002.png"
+Content-Transfer-Encoding: base64
+Content-ID: <image002.png@01CF6E9B.05AB6AA0>
+
+iVBORw0KGgoAAAANSUhEUgAAAA0AAAAwCAYAAADKD/APAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAADASURBVEhL7ZarDsJAEEVX8glIJBKJRFYikUgk
+EolDIiuRSCQSiUTyCXwCEu5hR7MzhiDmJCedNr37aJrJFnGQF9nLjgceRnImV/Isb/YsxEQyczi4
+kMda+hnIZy1jvOwaIkNGhow/D13ltJZ+NnJXyxg0HYLDz10AZnxI+gYDLGWTuWR/dCmCDPKVrTxJ
+9wdhGewpBEuhiYbIH9bIkJEh4zchegLNxA0HD5qJ63A1lmt5l80ADYT18/JeNg5SpbwBSFg6VkOB
+GE8AAAAASUVORK5CYII=
+
+------=_NextPart_000_0031_01CF6E9B.05DC3EA0
+Content-Type: application/octet-stream;
+	name="image003.emz"
+Content-Transfer-Encoding: base64
+Content-ID: <image003.emz@01CF6E9B.05AB6AA0>
+
+H4sIAAAAAAACC+1YfWiVVRh/7t2917u51UV2deqyuzF1zlXDBgpRnn04N5oy1hIXptucLsuP1fRu
+irWr7o/KUAuClKJIUhliiWKCEwcKTYsKkpCa9KFQkskiiRXT2+/33vfc+7r5jovr+gE98HvPc57z
+8Z7znOfjPa9DRFYCYZN6wT8EaKqbJDLJIxKYM69MxCFtAZEtaHTqDrp0g3GJnHKIrACsdOGCRzK3
+uAUTSD4QADDddIdySCZ4H+D0dX/PYXUm2HcRUAWwb7ZySSp40iSVHOVzMIeWFyinMReWAQrNzlKj
+om0uJVF+LFo5JgNIAXyApmQwPqAXyAcmA+x7Hya08tWQNWPBXPMf0B2KKO2gEIR3ZpdIPfS7Qhrk
+JTxvD6nNfjm3xS/NW4+NWhvyy19LFteyHsDrv0CdR92Fes0mv+z6ramWMt3OttSOLuf9l5tqzW0Y
+Z8K9z3xY7yyyj7BTfgzvF6X7vW8y1j1Het74HMD7xpfU13JOvO6HWVjHhyuX1FaibP75qWcaUXIN
+BVu6nI1B8XK01j1fMRJ+DMbzPDkPz588yFmDB6GJL/UBxpZUWrG4AFCaKatEGbEzSmP2UgU+IKuF
+dmSdX695sB1Z5bkYo9d2N9tX5Xq/XNwQsa9Qa8S+WA9g/edQpw31oF7XFrEvynQ72xJtX16812pf
+pajTvhaipH01o0yUfVnP047//5x3GG4FczHoVuPIvXTOzGf7sOt3AeazPCWSAxljBHMVHxHE+EnK
+reOTPKiSovxNxmIoyRhrcNNVNLYhX3qiY7Msc1rzaDxzWvNpoue3rmd5fu8sY1N4WHnrGobrP/dg
+5RMcn6IkpHXOOGQ1wlePhivqpnxTnoV+XqAB0LGYYwjo93GjGMQ7Ude+zk6axzyhBRAUAHwfqRc8
+v6/cwEC4PzwQ/sp5LI0g3x/WY0dZ5kFXY93mGopQNykU5bkG2tgOl0gHQBuz0w+mo72ZFONvZ/9E
+2OQMJY5M7Mpn7kzkA4WvyBJIiq17s3u3V4krA2N57vwe5TRJGFyorL4U+/bMg5xnwjF2OrXzmXjG
+xrPmkfjwjBHq627QSzx6zFGxu4NXOdzpcHwvoO8cxvFZHmiS16rmz01LmcDrQVpFeWk1yvNAjtdD
+Se3sz1E4WqrnFsuBLzMvoeJqKpoHbzy4ffRAPZ07ubm8tgX3hpOE47M1+xohbK8oLappW/x7T5aj
+W/lcB1tf+faFukvp7o6L5x/o271TNU35emfy2uXO9xLB1lx5uflqSWtL48lxWIpUzJlfeqC4bjN0
+oZxebcdaJwghN9BE5VCFkOQCjDUE6EQEzxo+Bl8BuaEoKmCaZONJX2LcY2zKhWIzAcYm673Naufx
+nOdI+tv5fqL8aPj9BGAxO4pcKhZfsqAnL6BLxjPWnwQUUABQuwHAYcKHkkR5LzCNFZC1zvMlhsap
+yBp4ntVAMyblvLZ3Whl6p+05stvzzsSrfJ30PbaXHiJnIev+MxyeDUNq9wSK2p2Bovy3/EKIdHpm
+bfeL/6d/gh0oY/RJiwghcmWbX/rA+1D+8sj1YPjNMa3tWGS68zjUcdy7vv96cNff14OjZKNja0Zk
+hsvoewro3HPYmKNv1V7PuD1dBt8Ledni08FT6lq7CBHRD0vqqx/tby89HaQeSD6sa25pRUmGszsl
+FfzTm84E9684lJL/caexv0WQjYWM9qxl1Fvpm37pP3E6OGfBmeD11KzvFPotBKLv7rvWfrM77ViM
+pa9wK2NMnvOxTjnIuKNeBcOgRGUfAqg9vWawUaLdVEZrEYZ+SOpAtR531CZZZqAB5WoJSAv+UKyW
+RnDPgVuGPxYBeR5lK7ACfzFaUMd3iWGPg0sciiFnyfVQSTj6G2Rso4xjuX72031Gm3LWkwCOZ/tk
+gPvnvTnX5B0os02e+7HyZZA3AgsBm+9stJBi3z15arg8Xlhy5300sgbqoxpIjI8WlrQ7C0tiPgoN
+wSdC4x9dRzvGaw2i7knlSwfctLEqx+sensHNfNToiAd99I2M2JhE+mj66qE+SlsY7KNnERsYH4iV
+/7GP1uB9hwHaeBdg56PUpZ2PVqFN/0e6FR/YiMlpJ/H6gDWn2uXIQhWNRTf8gx3ef7AR0L36HTz8
+3pg7fcUuFdNLFvbq5X7Nkj7CemLzt684sbFhcP4ePjZ4N32UBNOTVJR2sUHnaMaGbRnoDDp8dLcn
+kbEh48WhsYE+cjtjw6/YJ/P3WOAIMBXg2Q2mCRDYxYYQ2hqNDB2QVcjkbeBZrjTzeBUy9xr8wWBW
+32Dk7rUGTztkfmXJd6YCzMUE5bqu+1DOXMz+jGUsCcpZekyefdiu5bcSrxoxfiEQb7zKU8Pl7JnI
+2XfaLyNrSKxfzkTOnhl3zm5bNuCmXXXHmbO3Z4joMYn0y551Q/2StnA7/bIG7/sUoF/yUjsVuJlf
+Mq7Z+WUV2gL4ok5GeSs+0IfJLwLx+sC9krPjWadXJdn8e4v99x7JHT2+Nbhs1hD7fzSSNbhU7DvB
+ah9Wvgy2UwjkAjZ2EEITYNxfDD4LAi/QADCGw4QMG2VM1dQLJl9XUPJnFv9DT5NOizR2JzLnt7QN
+ZbMh4vuY47nuTMAHcN1OFdsr7m6SDpB8APl/AUPMf7V4IAAA
+
+------=_NextPart_000_0031_01CF6E9B.05DC3EA0
+Content-Type: image/png;
+	name="image004.png"
+Content-Transfer-Encoding: base64
+Content-ID: <image004.png@01CF6E9B.05AB6AA0>
+
+iVBORw0KGgoAAAANSUhEUgAAANwAAAAsCAYAAAAOyNaYAAAAAXNSR0ICQMB9xQAAAAlwSFlzAAAO
+xAAADsQBlSsOGwAAABl0RVh0U29mdHdhcmUATWljcm9zb2Z0IE9mZmljZX/tNXEAAAS0SURBVHja
+7VxtcusgDORc/vVO43O0N/ANcgv/7UF8GF7j2DEIISSwm9jZnfFMUxcQQis+ysZ5AAAOx8/Pz9f3
+97dzcAUAgHAAAMIBAADCAQAIBwAACAcAINxxmPzQOd+Pr2p/9L2rb38aOu+64bcXlj61tUnb6Ybp
+xT579RiCcCAcCAfCgXAHWF9FOIzhZQg39s47tz1b9rs7pfPDOPju+f7380SCx8Xl3dOLj6z2/D0J
+svqyy2ANebvK5eV+sb551kGDpVDfFP++7wXCZfvEBWiuj9Se3o+knXiGy/tqHqOw0bEn9dGZS7Ip
+P8Pxfr4k4SY/jlPGoQ+nhA6eHbN6aQ6kLSjizM07uNv+uL5szq7W8jTdzjaGwZULfqm+RwDG/XZZ
+wuVtkgM27mNal/eyL+RxIjaFBIvel21i7c/6+aIzXBpkKxHSrBoRgzrqTtbcO5otW8py2T60u6I8
+u8xbyJEue0rBH9SXs0WxpBSTkNhHabkmEyr1VTiDPWbOeYZe3otjKtpECXfO5WUV4dKlXZ5wETG4
+rLqtEdLlokszdkvZLOFqykf9SknnXHl2YetLlmCGPRzj640HUh8NhCv6Kphp775Yk8hsV4tNXAKh
+fr4i4WhWKsxwyUz0+/O4EDYlgLBMaClbMcMVy+cIp/KLUF/DDCcSTuxj2wyXIEwez2XyukeksaO1
+KWMj2Wpcj3A0A8+flYSL/japON67sO1Wli3u4XTlTYRbg8xKuMSW5VChlXBiHw2EK/pq63tHDjm6
+jhyomGzK2Rj6+YqEewbvOv33QmDRICAnUo7bUGfeNZVdTuGGnlkGa8srCEeXSOoDDC4xBXYO/Q6E
+k/poIVzJV0FCC3289ImfoTQ2BZ+zfr4k4eqRHBmvmU+RnlrKAk2j9qJ/fF8Tf0+47HL0uLJA06Cd
+9kTw4wkXDmDVUqClLGDHsnTD7HZmwgEACAfCAQAIBwAgHAAAIBwAfArh4qtHewkfj8KR9p1Fs/Vu
+dr57zIBwH0U4qj9sP6p/b8Kx0icQLke4T8ZxhAsJllwCOD3hmAQDwkUMExTJFqUxDQKqgr4HVXh3
+M75ZklOe87dSJNHjPu3a+65TkidX2JL+cGpteveUUYNXKeAtanVab0ndTe7pcpe4rfacn3AlRbJF
+aZxm3VQ9TpYaQTtF5XmgoC7Zs2e7+r7rlOTsDEf8XfpahFIZvQJeqX73FlU+8/UJ8a3rXew5J+GK
+ei2L0tgLTmUcJ0liqC5q+dx1usHbp11r33VK8nQPV/juEk5nVtItqhXwFvU7HQ9dnYn/97DntIQr
+KpItqt42wuWV52Gg0uVFO+HUivedlOSyKiJTR7LHG2UZlVoBX2mzoU7W/432fPQMpw0cMfBF5fn2
+vu8z3+A1HtGute9/SLjGGc5kMxfwhjo1M5zVh+clXFGRbFEaNxBOoTx/tKnbw+3Zrr7vBxGOaZfb
+o9Up4HUiY16Zrasz3XK02HN6wvmCItmiNG4gnKA8p2v4+NSydUlpVLzvoCS3E45rlx6q1CrgLWp1
+rSo//wVByeGc1Z5LEA4AABAOAEA4AABAOAAA4QAAhAMAAIQDABAOAAAV4e4/4MGD59jndrv9uxPu
+PwhhZLzLma33AAAAAElFTkSuQmCC
+
+------=_NextPart_000_0031_01CF6E9B.05DC3EA0--
+

@@ -1,0 +1,38 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.76.206 with SMTP id d14cs11256vck;
+        Fri, 15 Jul 2011 08:45:22 -0700 (PDT)
+Received: by 10.223.6.198 with SMTP id a6mr5524153faa.128.1310744721565;
+        Fri, 15 Jul 2011 08:45:21 -0700 (PDT)
+Return-Path: <yannick.frey1994@web.de>
+Received: from fmmailgate04.web.de (fmmailgate04.web.de [217.72.192.242])
+        by mx.google.com with ESMTP id e20si1735559faa.124.2011.07.15.08.45.21;
+        Fri, 15 Jul 2011 08:45:21 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of yannick.frey1994@web.de designates 217.72.192.242 as permitted sender) client-ip=217.72.192.242;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of yannick.frey1994@web.de designates 217.72.192.242 as permitted sender) smtp.mail=yannick.frey1994@web.de
+Received:  from mxint02.web.de  ( [172.20.0.43])
+	by fmmailgate04.web.de (Postfix) with ESMTP id 2BB286CDBEB8
+	for <ingo.skupin@gmail.com>; Fri, 15 Jul 2011 17:45:21 +0200 (CEST)
+Received: from web.de by mxint02.web.de with esmtp  (WEB.DE 4.110 #2)
+	 id 1QhkZs-0000XP-00 ; Fri, 15 Jul 2011 17:45:20 +0200
+Received:  from mwmweb032  ( [172.20.18.41])
+	by fmmailgate06.web.de (Postfix) with ESMTP id A453E8A20D9;
+	Fri, 15 Jul 2011 17:45:20 +0200 (CEST)
+Received:  from [79.197.239.30]  by  mwmweb032  with HTTP; Fri
+ Jul 15 17:45:20 CEST 2011
+Date: Fri, 15 Jul 2011 17:45:20 +0200 (CEST)
+From: "Yannick Frey" <yannick.frey1994@web.de>
+To: steffen.sautter@web.de, ingo.skupin@web.de
+Message-ID: <2138223665.1132237.1310744720667.JavaMail.fmail@mwmweb032>
+Subject: Fahrt nach Bebenhausen
+MIME-Version: 1.0
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: 7bit
+X-Priority: 3
+Importance: normal
+Sensitivity: Normal
+X-Provags-ID: V01U2FsdGVkX19ZVaKaHWL9EaoQZs8w+rhzRieOlZry4XXe8q8rPNG8p/xikvc0NQ6k
+ fSpUEkeFh8wxjvDlnSsTL7nTstFDieMN
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+<html><head></head><body bgcolor='#FFFFFF' style='font-size:12px;background-color:#FFFFFF;font-family:Verdana, Arial, sans-serif;'>Hallo zusammen,<br/><br/>wie siehts am Sonntag aus mit fahren? Fahrt ihr von zu hause aus?<br/>K&ouml;nnte ich irgendwo mitfahren? Harry kommt ja direkt von Sindelfingen nach Bebenhausen und f&auml;hrt dann seperat.<br/><br/>Gru&szlig; Yannick&nbsp;&nbsp;<br><br><table cellpadding="0" cellspacing="0" border="0"><tr><td bgcolor="#000000"><img src="https://img.ui-portal.de/p.gif" width="1" height="1" border="0" alt="" /></td></tr><tr><td style="font-family:verdana; font-size:12px; line-height:17px;">NEU: FreePhone - kostenlos mobil telefonieren!				&nbsp;&nbsp;&nbsp;<br>Jetzt informieren: <a href="http://produkte.web.de/go/webdefreephone"><b>http://produkte.web.de/go/webdefreephone</b></a></td></tr></table>
+</body></html>

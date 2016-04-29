@@ -1,0 +1,68 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.108.207 with SMTP id h198csp1070823ivc;
+        Mon, 25 Apr 2016 08:23:12 -0700 (PDT)
+X-Received: by 10.112.148.227 with SMTP id tv3mr14372302lbb.20.1461597792079;
+        Mon, 25 Apr 2016 08:23:12 -0700 (PDT)
+Return-Path: <charles.paperman@gmail.com>
+Received: from mail-lf0-x230.google.com (mail-lf0-x230.google.com. [2a00:1450:4010:c07::230])
+        by mx.google.com with ESMTPS id tf5si12083554lbb.46.2016.04.25.08.23.11
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 25 Apr 2016 08:23:12 -0700 (PDT)
+Received-SPF: pass (google.com: domain of charles.paperman@gmail.com designates 2a00:1450:4010:c07::230 as permitted sender) client-ip=2a00:1450:4010:c07::230;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com;
+       spf=pass (google.com: domain of charles.paperman@gmail.com designates 2a00:1450:4010:c07::230 as permitted sender) smtp.mailfrom=charles.paperman@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-lf0-x230.google.com with SMTP id j11so112425822lfb.1;
+        Mon, 25 Apr 2016 08:23:11 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:date:message-id:subject:from:to;
+        bh=ZOOThvaFA5gp2y6+PJ8Hj3Ipo1wha4f+ewGWC0rlZlw=;
+        b=i48iWLH+RA8IJ2GiXfuSW3OZRCIi03BtmhO+AcXY1IQOJ4CPWRJ2wMWLLEqwO8izB8
+         KeXPUBe5bYCn46Ofj/0YItcQYsGwTTuKhXdJcuzNZLEwFa7RawzlPXhAS2WOw/ZnY7V1
+         wfPjoh1MbG/mC+tEB1A6lFQRtYQUlMhJoda3zgAM7RQbkNyOFk1dLY+4QH0E4cmTtrKD
+         XKFZN38zDOmskr0csv11wwOD9rop3qdDrn4DgN89FknUG146hPt8nRgXk6A2eYS7EgfU
+         L/8la5kcvMj+7v5/WJjvS5solwQw7shrSylhFmXqkrhmtsMgPv5bnB17F64F9a8TNDfQ
+         p6xw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:date:message-id:subject:from:to;
+        bh=ZOOThvaFA5gp2y6+PJ8Hj3Ipo1wha4f+ewGWC0rlZlw=;
+        b=djlpBCb6kEvrxWeJse2mieH0WK5ApL9zyxPxn2Z2gxxaxaKveruGVT3Hhd5u1CVoUr
+         ZsDhRyXFRSJYxj1g3S9xl7Q9J3G/TvoHe2zIRmPMxmMIqK4O0St3LBnlGLNNe3tfDa7v
+         xxAE9XA4womCGa2hoVbaf3nNeOLW7lMLpBZefOxsB2d5cJH934YoBlubnnHBTRxXNsAF
+         T5DxHEQIdDKIYc5NZGZqbafQ/G5utMzTqrlpJBQ5Ed1y/D2jeQJafBWrmJQOZ+rR/JTH
+         agkLsH2BN574Tevchut489FW0iSJBAlJTTyXkpXo0zfqBHwzo7PlxFWSe2nCSh8dvL/q
+         wiKQ==
+X-Gm-Message-State: AOPr4FX66y3rYjbnq7FBPJg1Nny17W7cZzcLO1FtTUDvWOjtRPBVEuELE9T158NR+FoPZbzhLWXWuJf77oBbog==
+MIME-Version: 1.0
+X-Received: by 10.25.149.204 with SMTP id x195mr14322080lfd.33.1461597791576;
+ Mon, 25 Apr 2016 08:23:11 -0700 (PDT)
+Received: by 10.25.165.82 with HTTP; Mon, 25 Apr 2016 08:23:11 -0700 (PDT)
+Date: Mon, 25 Apr 2016 17:23:11 +0200
+Message-ID: <CAHEmHdR8CN1GXPVz25iFBouBRktRH_VPfjYweqCyh6rL53K8WA@mail.gmail.com>
+Subject: Monad meeting
+From: Charles Paperman <charles.paperman@gmail.com>
+To: Sebastian Schoener <sebastianschoener@googlemail.com>, 
+	Ingo Skupin <ingo.skupin@googlemail.com>, Andreas Krebs <akrebs2111@googlemail.com>
+Content-Type: multipart/alternative; boundary=001a1140160c2bec72053150c1d7
+
+--001a1140160c2bec72053150c1d7
+Content-Type: text/plain; charset=UTF-8
+
+Is everybody available for Thu morning ?
+
+Best,
+
+Charles
+
+--001a1140160c2bec72053150c1d7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Is everybody available for Thu morning ?<div><br></div><di=
+v>Best,=C2=A0</div><div><br></div><div>Charles</div><div><br></div><div><br=
+></div></div>
+
+--001a1140160c2bec72053150c1d7--

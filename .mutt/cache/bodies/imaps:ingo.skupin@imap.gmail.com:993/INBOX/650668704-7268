@@ -1,0 +1,382 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp58519pdb;
+        Wed, 26 Mar 2014 10:56:33 -0700 (PDT)
+X-Received: by 10.205.104.5 with SMTP id dk5mr1093719bkc.86.1395856592745;
+        Wed, 26 Mar 2014 10:56:32 -0700 (PDT)
+Return-Path: <mailer@doodle.com>
+Received: from worker1.doodle.com (worker1.doodle.com. [188.92.145.81])
+        by mx.google.com with ESMTPS id ot9si9854491bkb.28.2014.03.26.10.56.32
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 26 Mar 2014 10:56:32 -0700 (PDT)
+Received-SPF: pass (google.com: domain of mailer@doodle.com designates 188.92.145.81 as permitted sender) client-ip=188.92.145.81;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of mailer@doodle.com designates 188.92.145.81 as permitted sender) smtp.mail=mailer@doodle.com
+Received: from worker1.doodle.com (localhost [127.0.0.1])
+	by worker1.doodle.com (Postfix) with ESMTP id DD7AD104E339
+	for <ingo.skupin@googlemail.com>; Wed, 26 Mar 2014 18:56:31 +0100 (CET)
+Date: Wed, 26 Mar 2014 18:56:31 +0100 (CET)
+From: Doodle <mailer@doodle.com>
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Message-ID: <614788930.8451.1395856591904.WELCOME_EMAIL.doodle@worker1>
+Subject: Welcome to your Doodle account
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_8450_595715092.1395856591904"
+
+------=_Part_8450_595715092.1395856591904
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Ingo Skupin,
+
+Thank you for choosing Doodle. You have sucessfully created a new
+Doodle account. Your user name is ingo.skupin@googlemail.com. Should
+Doodle ever ask you for a password you can use the following:
+ozhStRZRWU1teP8K
+
+Here are some things you can do to get started with your Doodle
+account.
+
+* Discover your Doodle account
+  http://support.doodle.com/customer/en/portal/articles/746424
+  More security, efficiency and personalization
+
+* Connect your calendar
+  http://doodle.com/account#calendars
+  No more back and forth between Doodle and your calendar
+
+* Set up your MeetMe page
+  http://doodle.com/about/meetMe.html
+  Let your co-workers and friends see when you are available
+
+- Your Doodle Team
+
+----------------------------------------------------------------------
+
+We have sent you this e-mail because you signed up for a Doodle
+account. If you did not sign up for any Doodle account, you can ignore
+this e-mail.
+
+----
+
+Doodle AG, Werdstrasse 21, 8021 Z=C3=BCrich
+
+------=_Part_8450_595715092.1395856591904
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>=
+<META http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf-8"></=
+head><body>
+    <div marginwidth=3D"0" marginheight=3D"0" style=3D"background-color:#ff=
+ffff;margin:0;padding:0">
+    =09<div style=3D"display: none !important;">Welcome! Check out what you=
+ can do with your new Doodle account.</div>
+    =09<center>
+        =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" height=
+=3D"100%" width=3D"100%" style=3D"background-color:#ffffff;height:100%!impo=
+rtant;margin:0;padding:0;width:100%!important">
+            =09<tr>
+                =09<td align=3D"center" valign=3D"top">
+                    =09<table border=3D"0" cellpadding=3D"0" cellspacing=3D=
+"0" width=3D"480" style=3D"background-color:#ffffff">
+                    =09=09<tr>
+=09=09    =09=09=09=09=09=09=09<td colspan=3D"4" height=3D"28"></td>
+=09=09   =09=09=09=09=09</tr>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<tr>
+=09<td>
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"480"=
+ id=3D"templateHeader" style=3D"background-color:#FFFFFF; border-bottom:0;"=
+>
+=09=09=09<tr>
+=09=09    =09<td colspan=3D"4" height=3D"28"></td>
+=09=09    </tr>
+=09=09    <tr>
+=09=09    =09<td class=3D"headerContent" width=3D"15" style=3D"padding:0;te=
+xt-align:right;vertical-align:bottom;"></td>
+=09=09        <td class=3D"headerContent logo" width=3D"120" height=3D"26" =
+style=3D"padding:0;text-align:left;vertical-align:bottom;">
+=09=09        =09<a href=3D"https://doodle.com/?tmail=3Dwelcome_email&amp;t=
+link=3Dlogo"><img style=3D"border:none;" src=3D"https://doodle.com/graphics=
+/mails0/logo.png?tmail=3Dwelcome_email&amp;tlink=3Dopened" height=3D"26" />=
+</a>
+=09=09      =09</td>
+=09=09=09    <td class=3D"headerContent myDoodle" width=3D"330" align=3D"ri=
+ght" style=3D"padding:0;text-align:right;vertical-align:bottom;">
+=09=09=09    =09
+=09=09=09        =09<a href=3D"https://doodle.com/dashboard?tmail=3Dwelcome=
+_email&amp;tlink=3Dlogin" style=3D"color:#0066dd;font-family:'Helvetica Neu=
+e', Arial, sans-serif;font-weight:normal;text-decoration:none; font-size: 1=
+2px; line-height:15px;">Visit your dashboard</a>
+=09=09=09    =09
+=09=09=09    </td>
+=09=09        <td class=3D"headerContent" width=3D"15" style=3D"color:#2020=
+20;font-family:'Helvetica Neue', Arial, sans-serif;font-size:34px;font-weig=
+ht:bold;line-height:15px;padding:0;text-align:right;vertical-align:bottom;"=
+></td>
+=09=09    </tr>
+=09=09    <tr>
+=09=09    =09<td colspan=3D"4" height=3D"12"></td>
+=09=09    </tr>
+=09=09</table>
+=09</td>
+</tr>
+
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<tr>
+=09<td valign=3D"top" style=3D"border-top: 1px #e0e7f0 solid; background-co=
+lor: #f5f9fd; font-size: 16px; text-align: left">
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09<tbody>
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top" style=3D"padding: 20px 15px 0 15px;">
+=09=09=09=09=09=09<div style=3D"color: #222222; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 25px; text-align: left=
+">
+=09=09=09=09=09=09=09Hi Ingo Skupin,
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09</td>
+</tr>
+<tr>
+=09<td valign=3D"top" style=3D"background-color: #f5f9fd; font-size: 16px; =
+text-align: left">
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09<tbody>
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top" style=3D"padding-left: 15px; padding-righ=
+t: 15px;">
+=09=09=09=09=09=09<div style=3D"color: #575757; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 18px; text-align: left=
+">
+=09=09=09=09=09=09=09&nbsp;
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>=20
+=09</td>
+</tr>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<tr>
+=09<td valign=3D"top" style=3D"padding:0 15px 20px 15px; background-color: =
+#f5f9fd; font-size: 16px; text-align: left; ">
+=09=09
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09<tbody>
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<div style=3D"color: #575757; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 25px; text-align: left=
+">
+=09=09=09=09=09=09=09Thank you for choosing Doodle. You have sucessfully cr=
+eated a new Doodle account. Your user name is <span style=3D"color:#222222"=
+>ingo.skupin@googlemail.com</span>. Should Doodle ever ask you for a passwo=
+rd you can use the following: <span style=3D"color:#222222">ozhStRZRWU1teP8=
+K</span>
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09=09
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09<tbody>
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<div style=3D"color: #575757; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 25px; text-align: left=
+">
+=09=09=09=09=09=09=09&nbsp;
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09=09
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09<tbody>
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<div style=3D"color: #575757; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 25px; text-align: left=
+">
+=09=09=09=09=09=09=09Here are some things you can do to get started with yo=
+ur Doodle account.
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09=09
+=09</td>
+</tr>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<tr>
+=09<td valign=3D"top" style=3D"padding:0 15px 30px 15px; background-color: =
+#f5f9fd; font-size: 16px; text-align: left">
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09<tbody>
+=09=09=09=09<tr>
+=09=09    =09=09<td colspan=3D"2" height=3D"20"></td>
+=09=09    =09</tr>
+=09=09=09
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top" style=3D"width: 59px;">
+=09=09=09=09=09=09<img src=3D"http://doodle.com/graphics/mails0/doodleFeatu=
+res.png" style=3D"padding-right: 21px; padding-left: 6px;" />
+=09=09=09=09=09</td>
+=09=09=09=09=09<td>
+=09=09=09=09=09=09<div style=3D"color: #575757; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 25px; text-align: left=
+">
+=09=09=09=09=09=09=09<a href=3D"http://support.doodle.com/customer/en/porta=
+l/articles/746424" style=3D"color: #0066DD; font-family: 'Helvetica Neue', =
+Arial, sans-serif; font-size: 16px; line-height: 21px; text-decoration: non=
+e;">Discover your Doodle account &raquo;</a>
+=09=09=09=09=09=09=09<br />=20
+=09=09=09=09=09=09=09More security, efficiency and personalization
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09
+=09=09=09=09<tr>
+=09=09    =09=09<td colspan=3D"2" height=3D"30"></td>
+=09=09    =09</tr>
+
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<img src=3D"http://doodle.com/graphics/mails0/cal.png" st=
+yle=3D"padding-right: 21px; padding-left: 6px;" />
+=09=09=09=09=09</td>
+=09=09=09=09=09<td>
+=09=09=09=09=09=09<div style=3D"color: #575757; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 25px; text-align: left=
+">
+=09=09=09=09=09=09=09<a href=3D"http://doodle.com/account#calendars" style=
+=3D"color: #0066DD; font-family: 'Helvetica Neue', Arial, sans-serif; font-=
+size: 16px; line-height: 21px; text-decoration: none;">Connect your calenda=
+r &raquo;</a>
+=09=09=09=09=09=09=09<br /> No more back and forth between Doodle and your =
+calendar
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09=09
+=09=09=09=09<tr>
+=09=09    =09=09<td colspan=3D"2" height=3D"30"></td>
+=09=09    =09</tr>
+=09=09=09=09
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<img src=3D"http://doodle.com/graphics/mails0/meetMe.png"=
+ style=3D"padding-right: 21px; padding-left: 6px;" />
+=09=09=09=09=09</td>
+=09=09=09=09=09<td>
+=09=09=09=09=09=09<div style=3D"color: #575757; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 25px; text-align: left=
+">
+=09=09=09=09=09=09=09<a href=3D"http://doodle.com/about/meetMe.html" style=
+=3D"color: #0066DD; font-family: 'Helvetica Neue', Arial, sans-serif; font-=
+size: 16px; line-height: 21px; text-decoration: none;">Set up your MeetMe p=
+age &raquo;</a>
+=09=09=09=09=09=09=09<br /> Let your co-workers and friends see when you ar=
+e available
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>=20
+=09</td>
+</tr>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<tr>
+=09<td valign=3D"top" style=3D"padding:0 15px 20px 15px; background-color: =
+#f5f9fd; font-size: 16px; text-align: left; ">
+=09=09
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09<tbody>
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top">
+=09=09=09=09=09=09<div style=3D"color: #575757; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 16px; line-height: 25px; text-align: left=
+">
+=09=09=09=09=09=09=09- Your Doodle Team
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>
+=09=09
+=09</td>
+</tr>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<tr>
+=09<td valign=3D"top" style=3D"font-size: 16px; text-align: left; border-to=
+p: 1px #F5F9FD solid;">
+=09=09<table border=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D=
+"0" style=3D"vertical-align: middle;" width=3D"480px">
+=09=09  =09<tr>
+=09=09  =09=09<td height=3D"24"></td>
+=09=09  =09</tr>
+=09=09  =09
+=09=09  =09<tr>
+=09=09    =09<td valign=3D"top" style=3D"padding:0 15px 9px 15px; font-fami=
+ly:'Helvetica Neue', Arial, sans-serif; text-align: left;color:#999999; fon=
+t-size:12px; line-height:16px; text-decoration:none;">
+=09=09        =09We have sent you this e-mail because you signed up for a D=
+oodle account. If you did not sign up for any Doodle account, you can ignor=
+e this e-mail.
+=09=09        </td>
+=09=09    </tr>
+=09=09    <tr>
+=09=09    =09<td height=3D"12"></td>
+=09=09    </tr>
+=09=09   =20
+=09=09</table>
+=09</td>
+</tr>
+=09=09=09=09=09=09=09
+=09=09=09=09=09=09=09=09<tr>
+=09
+=09=09<td valign=3D"top" style=3D" font-size: 16px; text-align: left;">
+=09
+=09
+=09=09<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%=
+">
+=09=09=09<tbody>
+=09=09=09=09<tr>
+=09=09=09=09=09<td valign=3D"top" style=3D"padding:12px 15px 20px 15px;">
+=09=09=09=09=09=09<div style=3D"color: #999999; font-family: 'Helvetica Neu=
+e', Arial, sans-serif; font-size: 12px; line-height: 17px; text-align: left=
+">
+=09=09=09=09=09=09=09Doodle AG, Werdstrasse 21, 8021 Z=C3=BCrich
+=09=09=09=09=09=09</div>
+=09=09=09=09=09</td>
+=09=09=09=09</tr>
+=09=09=09</tbody>
+=09=09</table>=20
+=09</td>
+</tr>
+=09=09=09=09=09=09=09
+                        </table>
+                        <br>
+                    </td>
+                </tr>
+            </table>
+        </center>
+    </div>
+</body></html>
+------=_Part_8450_595715092.1395856591904--

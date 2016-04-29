@@ -1,0 +1,71 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.38.225 with SMTP id j1csp54149lbk;
+        Wed, 9 Jan 2013 23:55:21 -0800 (PST)
+X-Received: by 10.180.109.10 with SMTP id ho10mr7624266wib.9.1357804520836;
+        Wed, 09 Jan 2013 23:55:20 -0800 (PST)
+Return-Path: <stefan.limberger@uni-hohenheim.de>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id v2si1182031wiw.25.2013.01.09.23.55.18
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Wed, 09 Jan 2013 23:55:20 -0800 (PST)
+Received-SPF: neutral (google.com: 5.35.244.247 is neither permitted nor denied by best guess record for domain of stefan.limberger@uni-hohenheim.de) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 5.35.244.247 is neither permitted nor denied by best guess record for domain of stefan.limberger@uni-hohenheim.de) smtp.mail=stefan.limberger@uni-hohenheim.de;
+       dkim=hardfail header.i=@uni-hohenheim.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id C5806AC8FB7; Thu, 10 Jan 2013 08:54:48 +0100 (CET)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	lvps5-35-244-247.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.2 required=7.0 tests=DKIM_SIGNED,RCVD_IN_DNSWL_MED,
+	RP_MATCHES_RCVD,T_DKIM_INVALID autolearn=ham version=3.3.1
+X-Original-To: saxophon@concertband.de
+Delivered-To: saxophon@concertband.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id F2B1AAC8FBF; Thu, 10 Jan 2013 08:54:44 +0100 (CET)
+X-Original-To: alle@concertband.de
+Delivered-To: alle@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from smtp1.rz.uni-hohenheim.de (smtp1.rz.uni-hohenheim.de [144.41.4.41])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTP id E4C4EAC8F8F
+	for <alle@concertband.de>; Thu, 10 Jan 2013 08:54:43 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; d=uni-hohenheim.de; h=
+	content-transfer-encoding:content-type:content-type:in-reply-to
+	:references:subject:subject:mime-version:user-agent:from:from
+	:date:date:message-id:received:received; s=default; t=
+	1357804482; x=1359618882; bh=fuzKRvl2AlU2aKpskoL0p6KiC3Ur1AQVI+w
+	lfuDOVcM=; b=ZVelGl98BhiOeDr7DvaxhzyRVkbNuLbsZbl33wD6jtID0nNiWUb
+	deXEkkr0scKC/uUPbbC9b1DDfdNkQIMi6lUcXR+8Fh+sX+2GyMQVi4FLtAwteQCJ
+	lALMA5JX/jGMT4M5Qs6Ascg/x+sdDumB0l2Wea9VU+8dhfUAP2oUt7Q4=
+X-Virus-Scanned: amavisd-new at uni-hohenheim.de
+Received: from mailserv.rz.uni-hohenheim.de (dovecot1.rz.uni-hohenheim.de [144.41.4.87])
+	by smtp1.rz.uni-hohenheim.de (Postfix) with ESMTP;
+	Thu, 10 Jan 2013 08:54:42 +0100 (CET)
+Received: from [192.168.0.180] (HSI-KBW-095-208-156-074.hsi5.kabel-badenwuerttemberg.de [95.208.156.74])
+	by mailserv.rz.uni-hohenheim.de (Postfix) with ESMTP id 888371900DA;
+	Thu, 10 Jan 2013 08:54:41 +0100 (CET)
+Message-ID: <50EE73C2.7030407@uni-hohenheim.de>
+Date: Thu, 10 Jan 2013 08:54:42 +0100
+From: Stefan Limberger <stefan.limberger@uni-hohenheim.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Thunderbird/17.0
+MIME-Version: 1.0
+To: Corinna Breyer <corinna.breyer@gmx.de>
+CC: alle@concertband.de
+Subject: =?ISO-8859-1?Q?D=E4mpfertasche?=
+References: <003d01cdee8b$b8112a90$28337fb0$@gmx.de>
+In-Reply-To: <003d01cdee8b$b8112a90$28337fb0$@gmx.de>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+habe am Dienstag vermutlich meine Dämpfertasche mit meiner kompletten 
+Dämpfersammlung im Euroforum liegen lassen.
+
+Wollte daher fragen, ob zufällig jemand die Tasche gesehen hat oder weiß 
+wo sie sein könnte.
+
+Vielen Dank im Voraus schon mal und eine schöne Woche noch.
+
+Gruß Stefan

@@ -1,0 +1,44 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.108.207 with SMTP id h198csp1383374ivc;
+        Mon, 18 Apr 2016 10:48:36 -0700 (PDT)
+X-Received: by 10.194.3.105 with SMTP id b9mr40360891wjb.140.1461001715823;
+        Mon, 18 Apr 2016 10:48:35 -0700 (PDT)
+Return-Path: <mailer@doodle.com>
+Received: from worker2.doodle.com (worker2.doodle.com. [94.230.219.152])
+        by mx.google.com with ESMTPS id a7si17907230wjn.75.2016.04.18.10.48.35
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 18 Apr 2016 10:48:35 -0700 (PDT)
+Received-SPF: pass (google.com: domain of mailer@doodle.com designates 94.230.219.152 as permitted sender) client-ip=94.230.219.152;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of mailer@doodle.com designates 94.230.219.152 as permitted sender) smtp.mailfrom=mailer@doodle.com
+Received: from worker2.doodle.com (localhost [127.0.0.1])
+	by worker2.doodle.com (Postfix) with ESMTP id 5E69B7DC04F
+	for <ingo.skupin@gmail.com>; Mon, 18 Apr 2016 19:48:35 +0200 (CEST)
+Date: Mon, 18 Apr 2016 19:48:35 +0200 (CEST)
+From: Doodle <mailer@doodle.com>
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Message-ID: <1734000001.3210084.1461001715384.POLL_ADMIN_PARTICIPATELINK@worker2.doodle.com>
+Subject: Doodle: Link for poll "Probentermine KJO-Sax-Ensemble"
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hi Ingo Skupin,
+
+You have initiated a poll "Probentermine KJO-Sax-Ensemble" at Doodle.
+The link to your poll is:
+
+http://doodle.com/poll/af7v635wtbdszqgs
+
+Share this link with all those who should cast their votes. Do not
+forget to cast your vote, too.
+
+(If you did not initiate this poll, somebody must accidentally have
+used your e-mail address; simply ignore this e-mail, please.)
+
+- Your Doodle Team
+
+----
+
+Doodle AG, Werdstrasse 21, 8021 Z=C3=BCrich

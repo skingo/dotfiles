@@ -1,0 +1,287 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.124.193 with SMTP id mk1csp11225pdb;
+        Wed, 30 Apr 2014 03:12:05 -0700 (PDT)
+X-Received: by 10.15.31.70 with SMTP id x46mr3344205eeu.26.1398852724289;
+        Wed, 30 Apr 2014 03:12:04 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id q5si30259342eem.51.2014.04.30.03.12.03
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 30 Apr 2014 03:12:04 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb102)
+ with ESMTPS (Nemesis) id 0LvmSG-1Wvm2x10bE-017YzS for
+ <ingo.skupin@gmail.com>; Wed, 30 Apr 2014 12:12:03 +0200
+Received: from mout.web.de ([212.227.15.14]) by mx-ha.web.de (mxweb102) with
+ ESMTPS (Nemesis) id 0LynOd-1WuPX210Ol-016B9F for <ingo.skupin@web.de>; Wed,
+ 30 Apr 2014 12:12:03 +0200
+Received: from YannickLaptop ([79.248.246.193]) by smtp.web.de (mrweb004) with
+ ESMTPSA (Nemesis) id 0MNP6P-1WmKJ33i6D-0070bL; Wed, 30 Apr 2014 12:11:33
+ +0200
+Message-ID: <80D9412E2C55431AA27C4C294D702C10@YannickLaptop>
+From: "Yannick Frey" <yannick.frey1994@web.de>
+To: "Florian Sebert" <florian@floriansebert.de>,
+	"Tobias Moritz" <tkonwitschny@yahoo.de>
+Cc: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>,
+	"Steffen Sautter" <steffen.sautter@web.de>,
+	"Tizian Decker" <tizian_decker@web.de>,
+	"Lena Hahn" <LenaHahn20@web.de>,
+	<raphael@rothschink.de>,
+	"Ingo Skupin" <ingo.skupin@web.de>,
+	"Lukas Fischer" <l.fischer@3-1415.de>,
+	"Julia Wollny" <wollny.julia@me.com>,
+	"Rainer Pfister" <rainer.pfister@me.com>,
+	"Dr. Stefan Wiehr" <stefan@wiehr.de>,
+	"Daniel Metzger" <jandan@gmx.de>,
+	"Pfister" <kinderaerztin_susanne@t-online.de>,
+	<decker.mitat@onlinehome.de>,
+	<harryd.bath@t-online.de>,
+	<mpfister@geuder.de>,
+	<martina@pfister-heidelberg.de>,
+	"Sabine Pfister" <sabinepfister2011@gmail.com>
+References: <359C8784E284224CAB196A0069F3EE79FFB29B0249@DKFZEX01.ad.dkfz-heidelberg.de><4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de><4F91222C659D5B4E8C89CE4D710BB08EFFD98A0F1C@DKFZEX01.ad.dkfz-heidelberg.de><4F91222C659D5B4E8C89CE4D710BB08EFFD98A1090@DKFZEX01.ad.dkfz-heidelberg.de><4F91222C659D5B4E8C89CE4D710BB08EFFD98A1298@DKFZEX01.ad.dkfz-heidelberg.de><CAN1A5uAgENXgdtO0zt4pAWE9qGX2wRYzoSij5ZjdSat5XWq7Yg@mail.gmail.com><CAN1A5uAKtZ9FnKPu_FkqDRjp067sCsA6UFGjK9svVTKVyzK1kg@mail.gmail.com><CAN1A5uAUFTGY2WfB=a1Y3zS0v4gfkrEW2e3x+H20uvnsesaDMg@mail.gmail.com><53603E2D.5050001@yahoo.de> <CAN1A5uDL2JL3G85teoaFOcmc02MjSsRUb9OGZTrKY_DUU-0KGQ@mail.gmail.com>
+In-Reply-To: <CAN1A5uDL2JL3G85teoaFOcmc02MjSsRUb9OGZTrKY_DUU-0KGQ@mail.gmail.com>
+Subject: Re: Bilder
+Date: Wed, 30 Apr 2014 12:11:34 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_000C_01CF646D.545197C0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 14.0.8117.416
+X-MimeOLE: Produced By Microsoft MimeOLE V14.0.8117.416
+X-Provags-ID:  V03:K0:2noLXpO6xj3YzekOt/5JDevEK393aEd/T8OSis5sCIHkwWeaqho
+ qxbkeGHATJn+rLf33uX+j539W30zWJcxyTBLmXnSHNvZ7o2XAQQCLOcvZy/L+Lge65LET29
+ nCrhsdcyzEwDLqtf97R+XOWFWvZ9Me0jWWFudFjtNzDrCvZ3sBqjfahw/s/NROWRPvDQFHv
+ t65RWWuAI7HJKGdTs0SXQ==
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_000C_01CF646D.545197C0
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Ich h=C3=A4tte noch einen kleinen Verbesserungsvorschlag:
+Der Speicher auf der Dropbox ist sehr klein (vor allem bei frisch =
+angemeldeten).
+Stattdessen k=C3=B6nnten wir das ganze =C3=BCber Google Drive machen, da =
+gibts mehr Speicher und die meisten d=C3=BCrften Google Drive sowieso =
+schon haben (alle die ein Android-Betriebssystem nutzen).
+Was haltet ihr davon?
+
+Gru=C3=9F Yannick
+
+
+
+From: Florian Sebert=20
+Sent: Wednesday, April 30, 2014 9:31 AM
+To: Tobias Moritz=20
+Cc: Pfister, Stefan ; Steffen Sautter ; Yannick Frey ; Tizian Decker ; =
+Lena Hahn ; raphael@rothschink.de ; Ingo Skupin ; Lukas Fischer ; Julia =
+Wollny ; Rainer Pfister ; Dr. Stefan Wiehr ; Daniel Metzger ; Pfister ; =
+decker.mitat@onlinehome.de ; harryd.bath@t-online.de ; =
+mpfister@geuder.de ; martina@pfister-heidelberg.de ; Sabine Pfister=20
+Subject: Re: Bilder
+
+
+Vooooll gut!
+
+
+
+2014-04-30 2:05 GMT+02:00 Tobias Moritz <tkonwitschny@yahoo.de>:
+
+  Hallo ihr Lieben,
+
+  ich und Lukas haben ein bisschen recherchiert, wie wir die Bilder am =
+besten an einem Ort sammeln. Die beste M=C3=B6glichkeit scheint die =
+=C3=BCber "Dropbox" zu sein.
+
+  Das ganze funktioniert recht einfach:
+
+  Ihr bekommt zus=C3=A4tzlich zu dieser Mail nun eine weitere Mail von =
+Dropbox. Klickt einfach auf den Link "Ordner ansehen".
+  Falls ihr noch kein Dropbox-Account habt, registriert euch kurz (geht =
+schnell und ohne pers=C3=B6nliche Daten) in den daf=C3=BCr vorgesehenen =
+Feldern. Andernfalls meldet euch mit eurem Konto an! Wenn das geklappt =
+hat, seit ihr auch schon im Bilderordner. Ladet dann einfach eure Bilder =
+in den Ordner mit eurem Namen. Geht per Drag & Drop oder =C3=BCber den =
+Button "Hochladen".
+
+  Kurzer hinweis: Befreit eure Bildersammlung vor dem Upload bitte von =
+unscharfen Bildern! Falls ihr Serienaufnahmen habt, m=C3=BCsst ihr ja =
+nicht gleich alle hochladen, sondern nur eins :)=20
+  So k=C3=B6nnen wir viel Zeit sparen beim Ausw=C3=A4hlen.
+  Die Frist l=C3=A4uft vorerst bis zum 10. Mai!!! W=C3=A4re also super =
+bis dahin m=C3=B6glichst alles beisammen zu haben :)
+
+  In diesem Sinne.... Sch=C3=B6nen Start in den Mai!
+
+  Gr=C3=BC=C3=9Fe
+
+
+--=20
+Tobias Moritz
+Wilhelmstr. 17
+73230 Kirchheim unter Teck
+
+Mobil: +49 (0)157 / 77 63 85 26
+Home: +49 (0)7021 / 94 71 00 3
+
+
+
+
+--=20
+Dr. Florian Sebert
+d-fine GmbH
+Munich Office
+Bavariafilmplatz 8, 82031 Gr=C3=BCnwald
+Mobil +49 (0)162 2631334
+Tel    +49 (0)89 7908617 391
+Fax   +49 (0)89 7908617 202
+www.d-fine.de 
+------=_NextPart_000_000C_01CF646D.545197C0
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META content=3Dtext/html;charset=3Dutf-8 http-equiv=3DContent-Type>
+<META name=3DGENERATOR content=3D"MSHTML 11.00.9600.17037"></HEAD>
+<BODY id=3DMailContainerBody=20
+style=3D"PADDING-TOP: 15px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px" =
+leftMargin=3D0=20
+topMargin=3D0 CanvasTabStop=3D"true" name=3D"Compose message area">
+<DIV><FONT face=3DCalibri>Ich h=C3=A4tte noch einen kleinen=20
+Verbesserungsvorschlag:</FONT></DIV>
+<DIV><FONT face=3DCalibri>Der Speicher auf der Dropbox ist sehr klein =
+(vor allem=20
+bei frisch angemeldeten).</FONT></DIV>
+<DIV><FONT face=3DCalibri>Stattdessen k=C3=B6nnten wir das ganze =
+=C3=BCber Google Drive=20
+machen, da gibts mehr Speicher und die meisten d=C3=BCrften Google Drive =
+sowieso=20
+schon haben (alle die ein Android-Betriebssystem nutzen).</FONT></DIV>
+<DIV><FONT face=3DCalibri>Was haltet ihr davon?</FONT></DIV>
+<DIV><FONT face=3DCalibri></FONT>&nbsp;</DIV>
+<DIV><FONT face=3DCalibri>Gru=C3=9F Yannick</FONT></DIV>
+<DIV><FONT face=3DCalibri></FONT>&nbsp;</DIV>
+<DIV style=3D"FONT: 10pt Tahoma">
+<DIV><BR></DIV>
+<DIV style=3D"BACKGROUND: #f5f5f5">
+<DIV style=3D"font-color: black"><B>From:</B> <A =
+title=3Dflorian@floriansebert.de=20
+href=3D"mailto:florian@floriansebert.de">Florian Sebert</A> </DIV>
+<DIV><B>Sent:</B> Wednesday, April 30, 2014 9:31 AM</DIV>
+<DIV><B>To:</B> <A title=3Dtkonwitschny@yahoo.de=20
+href=3D"mailto:tkonwitschny@yahoo.de">Tobias Moritz</A> </DIV>
+<DIV><B>Cc:</B> <A title=3DS.Pfister@dkfz-heidelberg.de=20
+href=3D"mailto:S.Pfister@dkfz-heidelberg.de">Pfister, Stefan</A> ; <A=20
+title=3Dsteffen.sautter@web.de =
+href=3D"mailto:steffen.sautter@web.de">Steffen=20
+Sautter</A> ; <A title=3Dyannick.frey1994@web.de=20
+href=3D"mailto:yannick.frey1994@web.de">Yannick Frey</A> ; <A=20
+title=3Dtizian_decker@web.de href=3D"mailto:tizian_decker@web.de">Tizian =
+Decker</A>=20
+; <A title=3DLenaHahn20@web.de href=3D"mailto:LenaHahn20@web.de">Lena =
+Hahn</A> ; <A=20
+title=3Draphael@rothschink.de=20
+href=3D"mailto:raphael@rothschink.de">raphael@rothschink.de</A> ; <A=20
+title=3Dingo.skupin@web.de href=3D"mailto:ingo.skupin@web.de">Ingo =
+Skupin</A> ; <A=20
+title=3Dl.fischer@3-1415.de href=3D"mailto:l.fischer@3-1415.de">Lukas =
+Fischer</A> ;=20
+<A title=3Dwollny.julia@me.com href=3D"mailto:wollny.julia@me.com">Julia =
+Wollny</A>=20
+; <A title=3Drainer.pfister@me.com =
+href=3D"mailto:rainer.pfister@me.com">Rainer=20
+Pfister</A> ; <A title=3Dstefan@wiehr.de =
+href=3D"mailto:stefan@wiehr.de">Dr. Stefan=20
+Wiehr</A> ; <A title=3Djandan@gmx.de =
+href=3D"mailto:jandan@gmx.de">Daniel=20
+Metzger</A> ; <A title=3Dkinderaerztin_susanne@t-online.de=20
+href=3D"mailto:kinderaerztin_susanne@t-online.de">Pfister</A> ; <A=20
+title=3Ddecker.mitat@onlinehome.de=20
+href=3D"mailto:decker.mitat@onlinehome.de">decker.mitat@onlinehome.de</A>=
+ ; <A=20
+title=3Dharryd.bath@t-online.de=20
+href=3D"mailto:harryd.bath@t-online.de">harryd.bath@t-online.de</A> ; <A =
+
+title=3Dmpfister@geuder.de =
+href=3D"mailto:mpfister@geuder.de">mpfister@geuder.de</A>=20
+; <A title=3Dmartina@pfister-heidelberg.de=20
+href=3D"mailto:martina@pfister-heidelberg.de">martina@pfister-heidelberg.=
+de</A> ;=20
+<A title=3Dsabinepfister2011@gmail.com=20
+href=3D"mailto:sabinepfister2011@gmail.com">Sabine Pfister</A> </DIV>
+<DIV><B>Subject:</B> Re: Bilder</DIV></DIV></DIV>
+<DIV><BR></DIV>
+<DIV dir=3Dltr>Vooooll gut!</DIV>
+<DIV class=3Dgmail_extra><BR><BR>
+<DIV class=3Dgmail_quote>2014-04-30 2:05 GMT+02:00 Tobias Moritz <SPAN=20
+dir=3Dltr>&lt;<A=20
+title=3D"mailto:tkonwitschny@yahoo.de&#10;STRG + Klicken, um =
+Verkn=C3=BCpfung zu folgen"=20
+href=3D"mailto:tkonwitschny@yahoo.de"=20
+target=3D_blank>tkonwitschny@yahoo.de</A>&gt;</SPAN>:<BR>
+<BLOCKQUOTE class=3Dgmail_quote=20
+style=3D"PADDING-LEFT: 1ex; MARGIN: 0px 0px 0px 0.8ex; BORDER-LEFT: #ccc =
+1px solid">
+  <DIV text=3D"#000000" bgcolor=3D"#FFFFFF">Hallo ihr Lieben,<BR><BR>ich =
+und Lukas=20
+  haben ein bisschen recherchiert, wie wir die Bilder am besten an einem =
+Ort=20
+  sammeln. Die beste M=C3=B6glichkeit scheint die =C3=BCber "Dropbox" zu =
+sein.<BR><BR>Das=20
+  ganze funktioniert recht einfach:<BR><BR>Ihr bekommt zus=C3=A4tzlich =
+zu dieser Mail=20
+  nun eine weitere Mail von Dropbox. Klickt einfach auf den Link =
+<B>"Ordner=20
+  ansehen".</B><BR>Falls ihr noch kein Dropbox-Account habt, registriert =
+euch=20
+  kurz (geht schnell und ohne pers=C3=B6nliche Daten) in den daf=C3=BCr =
+vorgesehenen=20
+  Feldern. Andernfalls meldet euch mit eurem Konto an! Wenn das geklappt =
+hat,=20
+  seit ihr auch schon im Bilderordner. Ladet dann einfach eure Bilder in =
+den=20
+  Ordner mit eurem Namen. Geht per Drag &amp; Drop oder =C3=BCber den =
+Button=20
+  "Hochladen".<BR><BR>Kurzer hinweis: Befreit eure Bildersammlung vor =
+dem Upload=20
+  bitte von unscharfen Bildern! Falls ihr Serienaufnahmen habt, =
+m=C3=BCsst ihr ja=20
+  nicht gleich alle hochladen, sondern nur eins :) <BR>So k=C3=B6nnen =
+wir viel Zeit=20
+  sparen beim Ausw=C3=A4hlen.<BR><B>Die Frist l=C3=A4uft vorerst bis zum =
+10.=20
+  Mai</B><B>!!!</B> W=C3=A4re also super bis dahin m=C3=B6glichst alles =
+beisammen zu haben=20
+  :)<BR><BR>In diesem Sinne.... Sch=C3=B6nen Start in den =
+Mai!<BR><BR>Gr=C3=BC=C3=9Fe<SPAN=20
+  class=3DHOEnZb><FONT color=3D#888888><BR><BR><PRE cols=3D"72">--=20
+Tobias Moritz
+Wilhelmstr. 17
+73230 Kirchheim unter Teck
+
+Mobil: <A href=3D"tel:%2B49%20%280%29157%20%2F%2077%2063%2085%2026" =
+target=3D_blank value=3D"+4915777638526">+49 (0)157 / 77 63 85 26</A>
+Home: <A href=3D"tel:%2B49%20%280%297021%20%2F%2094%2071%2000%203" =
+target=3D_blank value=3D"+4970219471003">+49 (0)7021 / 94 71 00 =
+3</A></PRE></FONT></SPAN></DIV></BLOCKQUOTE></DIV><BR><BR=20
+clear=3Dall>
+<DIV><BR></DIV>-- <BR>Dr. Florian Sebert<BR>d-fine GmbH<BR>Munich=20
+Office<BR>Bavariafilmplatz 8, 82031 Gr=C3=BCnwald<BR>Mobil +49 (0)162 =
+2631334<BR>Tel=20
+&nbsp; &nbsp;+49 (0)89 7908617 391<BR>Fax &nbsp; +49 (0)89 7908617 =
+202<BR><A=20
+href=3D"http://www.d-fine.de" target=3D_blank>www.d-fine.de</A> =
+</DIV></BODY></HTML>
+
+------=_NextPart_000_000C_01CF646D.545197C0--
+

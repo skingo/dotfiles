@@ -1,0 +1,109 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp116007pdb;
+        Mon, 19 Aug 2013 13:24:01 -0700 (PDT)
+X-Received: by 10.14.8.72 with SMTP id 48mr25607315eeq.25.1376943840078;
+        Mon, 19 Aug 2013 13:24:00 -0700 (PDT)
+Return-Path: <no-reply@dropbox.com>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id q8si11170911eem.150.1969.12.31.16.00.00
+        (version=TLSv1.2 cipher=AES128-SHA bits=128/128);
+        Mon, 19 Aug 2013 13:24:00 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning no-reply@dropbox.com does not designate 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning no-reply@dropbox.com does not designate 212.227.17.11 as permitted sender) smtp.mail=no-reply@dropbox.com;
+       dkim=pass (test mode) header.i=@dropbox.com;
+       dmarc=pass (p=NONE dis=NONE) d=dropbox.com
+Received:  from sjc-smtp11.sjc.dropbox.com ([199.47.219.203]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0LrM5s-1WEQp03UVA-0139dd for
+ <ingo.skupin@gmail.com>; Mon, 19 Aug 2013 22:23:59 +0200
+Received: from sjc-web263.sjc.dropbox.com (sjc-web263.sjc.dropbox.com [10.10.111.171])
+	by sjc-smtp11.sjc.dropbox.com (Postfix) with ESMTP id 1C858B41306
+	for <ingo.skupin@web.de>; Mon, 19 Aug 2013 20:23:57 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1376943837; bh=O6AHLBmfHxDBmXByFGU5GPZ2mn6JSQ5T6melgJGJ4mw=;
+	h=Content-Type:MIME-Version:From:To:Subject:Date:Message-Id;
+	b=T4p0XogcetA/phiqNNCT0RpKAiQE9X8QBaLJuX10LOS3JlldiBCt05TnilGgLLvtD
+	 y7T+x+fqqVcylIJQUm+Hr/CJG2rNrDCM2VoRSt1XQqPDSkt+iJYcWZw5uJqlTxg1Nt
+	 PzE560M6vPBxnLB2WfSicMCezGRlpA181pW8tv60=
+Received: from sjc-web263.sjc.dropbox.com (localhost [127.0.0.1])
+	by sjc-web263.sjc.dropbox.com (Postfix) with ESMTP id 18100860AD8
+	for <ingo.skupin@web.de>; Mon, 19 Aug 2013 20:23:57 +0000 (UTC)
+Content-Type: multipart/alternative;
+ boundary="===============1056135155599169698=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+Subject: =?utf-8?q?Sie_haben_einen_neuen_Computer_mit_Dropbox_verkn=C3=BCpft=0D=0A?=
+Date: Mon, 19 Aug 2013 20:23:57 +0000
+Message-Id: <20130819202357.18100860AD8@sjc-web263.sjc.dropbox.com>
+
+--===============1056135155599169698==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+Wir sehen, dass Sie einen neuen Computer =E2=80=9Eskinge-UX31A=E2=80=9C zu =
+Ihrer Dropbox hinzugef=C3=BCgt haben.  Gro=C3=9Fartig!
+
+Auf Ihrer Kontoseite k=C3=B6nnen Sie diesen und alle anderen von Ihnen hinz=
+ugef=C3=BCgten Computer =C3=BCberpr=C3=BCfen:
+https://www.dropbox.com/l/hgpcr2lJ0jT9jlgEvhCAmB/account/manage
+
+Viel Spa=C3=9F beim Dropboxen!
+Das Dropbox-Team
+
+P.=C2=A0S. Wenn Sie diese =C3=84nderung nicht vorgenommen haben, benachrich=
+tigen Sie uns bitte:
+https://www.dropbox.com/l/bb5vlv26dQXnDRaif4Awzt/support
+--===============1056135155599169698==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"></head><body style=3D"widt=
+h: 100% !important; margin: 0; padding: 0; -webkit-text-size-adjust: 100%; =
+-ms-text-size-adjust: 100%;" marginheight=3D"0" marginwidth=3D"0"><center><=
+table cellpadding=3D"8" cellspacing=3D"0" style=3D"background-color: #fffff=
+f; background: #ffffff; width: 100% !important; margin: 0; padding: 0; *wid=
+th:528px;" border=3D"0"><tr><td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0"><t=
+r><td bgcolor=3D"#b9e1fb" align=3D"center" style=3D"font-size: 0px;" height=
+=3D"1"><img src=3D"https://www.dropbox.com/static/images/emails/email_heade=
+r.jpg" alt=3D"" style=3D"width:100%; max-height:129px; *width:528px; *heigh=
+t:129px;"></td></tr><tr><td><table cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"border-left: 1px #b9e1fb solid; border-right: 1px #b9e1fb solid; borde=
+r-bottom: 1px #b9e1fb solid; -webkit-border-radius: 0px 0px 4px 4px; border=
+-radius: 0px 0px 4px 4px; -moz-border-radius-bottomright: 4px; -moz-border-=
+radius-bottomleft: 4px;" border=3D"0" align=3D"center"><tr><td colspan=3D"3=
+" height=3D"36"></td></tr><tr><td width=3D"36"></td>
+<td width=3D"454" style=3D"font-size: 14px; color: #444444; font-family: 'O=
+pen Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicod=
+e', Tahoma, 'Sans Serif'; border-collapse: collapse;" align=3D"left" valign=
+=3D"top">   Liebe Nutzerin, lieber Nutzer,<br><br>    wie wir sehen, haben =
+Sie einen neuen Computer =E2=80=9Eskinge-UX31A=E2=80=9C mit Ihrer Dropbox v=
+erkn=C3=BCpft. Hervorragend!<br><br>    Sie k=C3=B6nnen alle von Ihnen hinz=
+ugef=C3=BCgten Computer auf Ihrer <a href=3D"https://www.dropbox.com/l/9MQ7=
+O7VxO5j7YIDUPcC7rC/account/manage">Kontoseite</a> =C3=BCberpr=C3=BCfen.<br>=
+<br>      Frohes Dropboxen!<br>  Das Dropbox-Team<br><br>    P.S. Wenn Sie =
+diese =C3=84nderung nicht vorgenommen haben, <a href=3D"https://www.dropbox=
+.com/l/VRfE45QkOzzlifyyzZz3Eu/support">benachrichtigen Sie uns bitte</a>. <=
+/td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: 'Ope=
+n Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode'=
+, Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;" valign=3D"top"><td=
+ width=3D"400" align=3D"left"></td>
+<td width=3D"128" align=3D"right">=C2=A9 2013 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/tsxTaeAdrB4RMYk5cScU6m" heig=
+ht=3D"1" />
+--===============1056135155599169698==--

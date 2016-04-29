@@ -1,0 +1,51 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.148 with SMTP id d20cs5882vcj;
+        Wed, 17 Aug 2011 05:24:57 -0700 (PDT)
+Received: from mr.google.com ([10.204.188.129])
+        by 10.204.188.129 with SMTP id da1mr592912bkb.378.1313583896927 (num_hops = 1);
+        Wed, 17 Aug 2011 05:24:56 -0700 (PDT)
+Received: by 10.204.188.129 with SMTP id da1mr408493bkb.378.1313583896260;
+        Wed, 17 Aug 2011 05:24:56 -0700 (PDT)
+Return-Path: <no-reply@sw-tuebingen-hohenheim.de>
+Received: from www153.your-server.de (www153.your-server.de [213.133.104.153])
+        by mx.google.com with ESMTPS id c5si1290847fam.33.2011.08.17.05.24.54
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Wed, 17 Aug 2011 05:24:55 -0700 (PDT)
+Received-SPF: neutral (google.com: 213.133.104.153 is neither permitted nor denied by best guess record for domain of no-reply@sw-tuebingen-hohenheim.de) client-ip=213.133.104.153;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 213.133.104.153 is neither permitted nor denied by best guess record for domain of no-reply@sw-tuebingen-hohenheim.de) smtp.mail=no-reply@sw-tuebingen-hohenheim.de
+Received: from [83.169.19.157] (helo=localhost)
+	by www153.your-server.de with esmtpa (Exim 4.72)
+	(envelope-from <no-reply@sw-tuebingen-hohenheim.de>)
+	id 1QtfB0-0007ZB-LZ
+	for ingo.skupin@gmail.com; Wed, 17 Aug 2011 14:24:54 +0200
+Date: Wed, 17 Aug 2011 14:24:54 +0200
+Message-Id: <E1QtfB0-0007ZB-LZ@www153.your-server.de>
+Subject: Ihr Zugangs-Kennwort beim Studentenwerk (Skupin , Ingo)
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="UTF-8"
+MIME-Version: 1.0
+From: no-reply@sw-tuebingen-hohenheim.de
+To: ingo.skupin@gmail.com
+X-Authenticated-Sender: wohnheimverwaltung@sw-tuebingen-hohenheim.de
+X-Virus-Scanned: Clear (ClamAV 0.97.2/13448/Wed Aug 17 12:16:50 2011)
+
+Sehr geehrte(r) Ingo Skupin,
+
+anbei übersenden wir Ihnen die Zugangsdaten:
+
+Name:    Skupin
+Vorname: Ingo
+E-Mail:  INGO.SKUPIN@GMAIL.COM
+Zugangs-Kennwort: 522512
+
+
+Mit besten Grüßen
+
+Ihr Wohnheimverwaltungs-Team
+
+==================================
+Studentenwerk
+www.studentenwerk.de
+
+
+

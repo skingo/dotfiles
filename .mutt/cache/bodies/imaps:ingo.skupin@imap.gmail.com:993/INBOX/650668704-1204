@@ -1,0 +1,70 @@
+Delivered-To: ingo.skupin@googlemail.com
+Received: by 10.220.5.198 with SMTP id 6cs52811vcw;
+        Sat, 26 Nov 2011 11:39:07 -0800 (PST)
+Received: by 10.204.156.219 with SMTP id y27mr39228687bkw.125.1322336345070;
+        Sat, 26 Nov 2011 11:39:05 -0800 (PST)
+Return-Path: <201111261929220dd8495538794d6bbdc823ebbc1d0139@bounces.amazon.com>
+Received: from smtp-out-193-193.amazon.com (smtp-out-193-193.amazon.com. [194.154.193.193])
+        by mx.google.com with ESMTP id a23si13274159fak.74.2011.11.26.11.39.04;
+        Sat, 26 Nov 2011 11:39:05 -0800 (PST)
+Received-SPF: pass (google.com: domain of 201111261929220dd8495538794d6bbdc823ebbc1d0139@bounces.amazon.com designates 194.154.193.193 as permitted sender) client-ip=194.154.193.193;
+DomainKey-Status: good
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of 201111261929220dd8495538794d6bbdc823ebbc1d0139@bounces.amazon.com designates 194.154.193.193 as permitted sender) smtp.mail=201111261929220dd8495538794d6bbdc823ebbc1d0139@bounces.amazon.com; domainkeys=pass header.From=payments-messages@amazon.com
+DomainKey-Signature: s=rte02; d=amazon.com; c=nofws; q=dns;
+  h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:
+   Content-Type:Content-Transfer-Encoding:Bounces-to:
+   X-AMAZON-MAIL-RELAY-TYPE:X-AMAZON-RTE-VERSION;
+  b=cC4bzKSIQWgI3SHHW22fQTKgZROoHKJNYUDJQQmP5FTH6ybHaSpbLUjo
+   50Cvw3gkmOq1TJpebjxAKEDMYbsTwQ==;
+Date: Sat, 26 Nov 2011 19:29:22 +0000 (UTC)
+From: "Amazon.de" <payments-messages@amazon.com>
+Reply-To: "Amazon.de" <payments-messages@amazon.com>
+To: "ingo.skupin@googlemail.com" <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.201111261929220dd8495538794d6bbdc823ebbc1d0139@1322335762852.rte-svc-eu-1b-i-7e051e08.eu-west-1.amazon.com>
+Subject: =?UTF-8?Q?Gutschriftbest=C3=A4tigung_f=C3=BCr_Be?=
+ =?UTF-8?Q?stellung_303-1967522-8239542?=
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Bounces-to: 201111261929220dd8495538794d6bbdc823ebbc1d0139@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+
+Guten Tag,
+
+Amazon.de informiert zu Ihrer Gutschrift.
+
+Wir best=C3=A4tigen die Erstattung von 179,00 =E2=82=AC f=C3=BCr Ihre Beste=
+llung 303-1967522-8239542.
+
+Die Erstattung bezieht sich auf folgende(n) Artikel :
+
+    Artikel : Acer S242HLABID 60,9 cm (24 Zoll) Slim LED Monitor (VGA, DVI,=
+ HDMI, Kontrast 12.000.000:1, 2ms Reaktionszeit)
+    Menge : 1
+    ASIN : B0046H4TJQ
+    Grund der Erstattung : R=C3=BCcksendung durch Kunden
+
+    Und so setzt sich die Erstattung zusammen:
+ =20
+        Artikel Erstattung : 150,42 =E2=82=AC
+        Artikel erstattete Mehrwertsteuer : 28,58 =E2=82=AC
+
+Die Erstattung erfolgt wie im Folgenden aufgef=C3=BChrt:
+
+* auf Ihr Bankkonto: 179,00 =E2=82=AC
+
+Dieser Betrag wurde auf die von Ihnen verwendete Zahlungsart angewiesen und=
+ wird dort als Guthaben erscheinen, sobald Ihre Bank die Gutschrift bearbei=
+tet hat.
+
+Bei Fragen besuchen Sie bitte unsere Hilfeseiten :
+http://www.amazon.de/gp/help/customer/display.html?nodeId=3D504874
+
+Vielen Dank f=C3=BCr Ihren Einkauf bei Amazon.de.
+
+Freundliche Gr=C3=BC=C3=9Fe
+
+Amazon.de Kundenservice
+http://www.amazon.de
+

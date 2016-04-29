@@ -1,0 +1,161 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp28686pdt;
+        Fri, 11 Jul 2014 06:18:54 -0700 (PDT)
+X-Received: by 10.70.42.203 with SMTP id q11mr24167664pdl.1.1405084734029;
+        Fri, 11 Jul 2014 06:18:54 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTPS id po7si2460292pbb.66.2014.07.11.06.18.53
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 11 Jul 2014 06:18:53 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@3-1415.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb001)
+ with ESMTPS (Nemesis) id 0Lamsa-1WLEPL3zBY-00kMKG for
+ <ingo.skupin@gmail.com>; Fri, 11 Jul 2014 15:18:52 +0200
+Received: from mo4-p00-ob.smtp.rzone.de ([81.169.146.216]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0Md2N0-1XMZdx3z1e-00IHZC for
+ <ingo.skupin@web.de>; Fri, 11 Jul 2014 15:18:51 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; t=1405084731; l=2712;
+	s=domk; d=3-1415.de;
+	h=Content-Transfer-Encoding:Content-Type:In-Reply-To:References:
+	Subject:CC:To:MIME-Version:From:Date;
+	bh=0tCqMr5hDcdSMYPTVujdCJWF2pM=;
+	b=JIF+M2ND/AaUkGQuM+yrwNZ6QN9/cnQyfk9BAMbYPQJlDaf4h/+PPzoEB3hzr/gZxrx
+	IIhocCr5GcfGvPs0YoNyfJPrQnotjeypQhGEnW72mPl6CjQhn9aSgG5C8gT6AFStv4wF1
+	+zxYP5wGXFomwNR6QXE3OlbI+PrOsMN64c8=
+X-RZG-AUTH: :ICICfFOrc/oov7XdMPZS+An+TOwdMN9zM5SvLZSWyGxMPJkUJeANmRDk3Lpk/okq
+X-RZG-CLASS-ID: mo00
+Received: from [141.58.43.136] (s-8d3a2b88.on.site.uni-stuttgart.de [141.58.43.136])
+	by smtp.strato.de (RZmta 35.2 AUTH)
+	with ESMTPSA id C02116q6BDHwE7L
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate);
+	Fri, 11 Jul 2014 15:17:58 +0200 (CEST)
+Message-ID: <53BFE405.8010702@3-1415.de>
+Date: Fri, 11 Jul 2014 15:17:57 +0200
+From: Lukas Fischer <L.Fischer@3-1415.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: Martina <martina@pfister-heidelberg.de>, 
+ Daniel Metzger <jandan@gmx.de>,
+ "Dr. Stefan Wiehr" <stefan@wiehr.de>, 
+ Yannick Frey <yannick.frey1994@web.de>,
+ Ingo Skupin <ingo.skupin@web.de>, tkonwitschny@yahoo.de, 
+ 'Florian Sebert' <fmsebert@gmail.com>,
+ Tizian Decker <tizian_decker@web.de>, raphael@rothschink.de
+CC: Rainer Pfister <rainer.pfister@me.com>, s.pfister@dkfz.de
+Subject: Re: WG: WG: Probewochenende und Abschied Yannick
+References: <004a01cf9c0e$71d78a60$55869f20$@pfister-heidelberg.de> <77EADAD6-582B-464B-A7BA-8D1272336FC3@me.com> <000d01cf9c1d$49341b50$db9c51f0$@pfister-heidelberg.de> <53BE5A52.1070004@3-1415.de> <001701cf9c21$4000c5c0$c0025140$@pfister-heidelberg.de>
+In-Reply-To: <001701cf9c21$4000c5c0$c0025140$@pfister-heidelberg.de>
+X-Enigmail-Version: 1.6
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hallo zusammen,
+
+
+ich habe gerade eine Mobile SAT- Schüssel nebst Kabel organisiert.
+Nötig sind nun noch:
+- - Receiver
+- - Beamer
+- - Leinwand
+Theoretisch könnte man letztere beiden Objekte im Kreismedienzentrum
+ausleihen, das geht aber nun nicht mehr, da es bereits geschlossen ist.
+Vielleicht findet jemand eine andere Lösung, in diesem Fall meldet
+euch bitte SCHNELL so dass ich die Schüssel und das Kabel abholen kann.
+
+
+Liebe Grüße
+Lukas
+
+Am 10.07.2014 11:28, schrieb Martina:
+> s.u. sonst noch jemand eine Idee? :-)
+> 
+> -----Ursprüngliche Nachricht----- Von: Lukas Fischer
+> [mailto:L.Fischer@3-1415.de] Gesendet: Donnerstag, 10. Juli 2014
+> 11:18 An: Martina Betreff: Re: WG: Probewochenende und Abschied
+> Yannick
+> 
+> -----BEGIN PGP SIGNED MESSAGE----- Hash: SHA1
+> 
+> Hallo Martina,
+> 
+> als Verein haben wir Zugang zum Kreismedienzentrum Tübingen und
+> könnten damit dort neben einem Beamer eine Leinwand ausleihen.
+> Fehlt nur noch hinreichend schnelles Internet oder ein DVB-T Stick.
+> Damit kann ich aber leider nicht dienen.
+> 
+> Liebe Grüße Lukas
+> 
+> Am 10.07.2014 10:59, schrieb Martina:
+>> s.u., sonst jemand einen Plan B?
+>> 
+>> 
+>> 
+>> *Von:*Rainer Pfister [mailto:rainer.pfister@me.com] *Gesendet:* 
+>> Donnerstag, 10. Juli 2014 10:57 *An:* Martina *Betreff:* Re: 
+>> Probewochenende und Abschied Yannick
+>> 
+>> 
+>> 
+>> Hi Tine,
+>> 
+>> 
+>> 
+>> klar habe ich eine Idee, wie man das mit dem Fußballspielschauen
+>>  hinbekommen kann. Das Problem ist nur, dass mein komplettes
+>> Equipment in Notzingen ist (Public Viewing mit dem Musikverein)
+>> und ich keinerlei Möglichkeit habe, an dieses vor dem kommenden
+>> Dienstag ranzukommen.
+>> 
+>> 
+>> 
+>> Tut mir Leid.
+>> 
+>> 
+>> 
+>> Liebes Grüßle und bis bald,
+>> 
+>> 
+>> 
+>> Dein Schwoger
+>> 
+>> Von meinem iPhone gesendet
+>> 
+>> 
+>> 
+>> Rainer Pfister
+>> 
+>> Herwigweg 18
+>> 
+>> 72074 Tübingen
+>> 
+>> 
+>> 
+>> Tel.: 0172 1311820
+>> 
+> 
+> 
+> 
+> --- Diese E-Mail ist frei von Viren und Malware, denn der avast!
+> Antivirus Schutz ist aktiv. http://www.avast.com
+> 
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://www.enigmail.net/
+
+iQEcBAEBAgAGBQJTv+QFAAoJEFOYM1E91uODTgoIAL5Pc8DM5wkEbmeyZzzFpLeE
+BHv4m5b83A5AiKE5PKlbazDizfjuBdQqpP3sfWixHcY3/mVcoMxBTdgeVtIx3ff6
+eAupApYGrykLIVFsxD+Z0bQrD5PnT695yh0hlTrsB+9O5HZ62+TwGWEqwYFAY0/D
+p1nXzc8zZ/6NVgfkVavkau03D9vgDEO36xRrtz1awROz6LHcq1lAb1aUT4rERBMO
+blCOBgYh7+NdMkBLVhZW7nW9/Zk1cIKptqduP4tk0k3m1+0vWfQZ9TV/x6x3f5UX
+aQqPvc5G0BrJBQekasCVY9Z3CCXSXzoXnFpcMQ+Zp+kkR4+k+nUAJ5/8+nWG8ZQ=
+=TCI2
+-----END PGP SIGNATURE-----

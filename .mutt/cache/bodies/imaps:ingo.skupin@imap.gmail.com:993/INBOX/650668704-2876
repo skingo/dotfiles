@@ -1,0 +1,182 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.143.76.9 with SMTP id d9csp174458wfl;
+        Tue, 22 May 2012 00:34:44 -0700 (PDT)
+Received: by 10.180.82.198 with SMTP id k6mr18065017wiy.20.1337672083187;
+        Tue, 22 May 2012 00:34:43 -0700 (PDT)
+Return-Path: <stevekoch@gmx.de>
+Received: from mailout-de.gmx.net (mailout-de.gmx.net. [213.165.64.23])
+        by mx.google.com with SMTP id o5si23053288wee.1.2012.05.22.00.34.42;
+        Tue, 22 May 2012 00:34:43 -0700 (PDT)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 213.165.64.23 as permitted sender) client-ip=213.165.64.23;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of stevekoch@gmx.de designates 213.165.64.23 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: (qmail invoked by alias); 22 May 2012 07:34:41 -0000
+Received: from p57B44F6F.dip.t-dialin.net (EHLO skoch) [87.180.79.111]
+  by mail.gmx.net (mp019) with SMTP; 22 May 2012 09:34:41 +0200
+X-Authenticated: #10157959
+X-Provags-ID: V01U2FsdGVkX19cdrN9ZP9cDlfqkx+guX2wF8XEOqrG0oLFFCPNNq
+	l6gEyIPLUMUL/T
+Message-ID: <83B589FEB63A41F891FC5A5CC681A289@skoch>
+From: "Stefan Koch" <stevekoch@gmx.de>
+To: "Erik Gebauer" <gebauer.erik@web.de>,
+	"Eric Seliger" <e.seliger@yahoo.de>,
+	"Jan Kaltenecker" <kaltenecker.jan@googlemail.com>,
+	<carolin_michel92@web.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	"Kristina Kraemer" <kristina.kraemer@akris.de>,
+	"Alexandra Gress" <alexandra_gress@web.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Jasmin Wagner" <JasminFVWagner@t-online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	=?utf-8?Q?Philipp_Gr=C3=B6ber?= <groeber_95@web.de>,
+	"Lisa Richter" <lisarichter93@hotmail.de>,
+	=?utf-8?Q?David_K=C3=BCchle?= <D1V23@aol.com>,
+	"Annika Vesenmaier" <an.ve@arcor.de>,
+	"Theresa Siegler" <theresa.siegler@googlemail.com>,
+	"Lisa Speidel" <lisaspeidel@t-online.de>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Fanny Rothe" <fanny@wolber-rothe.de>,
+	"Gina Maier" <gina.maier@web.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Christoph Korschinek" <christoph@korschinek.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	=?utf-8?Q?Michael_Pf=C3=A4nder?= <Michi110793@aol.com>,
+	"Steffen Sigmund" <j.sigmund@t-online.de>,
+	=?utf-8?Q?Florian_Strau=C3=9F?= <strauss-florian@web.de>,
+	"Jens Veeser" <jens@veeser.net>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Christoph Koschei" <koschi_99@web.de>,
+	<janina_schott@web.de>,
+	<jonaskolibius@web.de>,
+	<oliiiiver@hotmail.de>,
+	<florian-floriaus@web.de>,
+	<nico.felbinger@web.de>,
+	<felix.koschei@freenet.de>,
+	"Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+	<jakob.krenn@t-online.de>,
+	"Marian Basta" <m-basta@web.de>,
+	"Marvin Schaich" <Marvin.Schaich@t-online.de>,
+	<chrisbaur@hotmail.de>,
+	<matze.albrecht@web.de>,
+	<uli__kurz@t-online.de>,
+	<smachanek@web.de>,
+	<nmachanek@web.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	<Baurlu@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	"Steffen Ruf" <steffen.ruf@kjo-esslingen.de>,
+	"Simone S" <SimoneSeybold@gmx.de>,
+	<engel.luisa@web.de>,
+	"Tina Bidlingmaier" <tina_bidlingmaier@yahoo.de>,
+	<vanessa.wuensch@web.de>,
+	<ingo.skupin@gmail.com>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	"Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+	"Paul Jacot" <paul.jacot@gmx.net>,
+	<Sascha.schroeter@gmx.net>,
+	"Th. Rotter" <T.Rotter@t-online.de>
+Subject: KJO Termine vor den Sommerferien
+Date: Tue, 22 May 2012 09:33:29 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_01AC_01CD37FD.F2179DE0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 15.4.3508.1109
+X-MimeOLE: Produced By Microsoft MimeOLE V15.4.3508.1109
+X-Y-GMX-Trusted: 0
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_01AC_01CD37FD.F2179DE0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+danke f=C3=BCr die R=C3=BCckmeldung der Adressen. Damit k=C3=B6nnen wir =
+die Noten nun vorab verschicken. Wir sind im Moment daran das Programm =
+f=C3=BCr den Herbst diesen Jahres zu erstellen. Sehr wahrscheinlich ist =
+ein Doppelkonzert mit dem KJO B=C3=B6blingen, welches hier stattfinden =
+wird. Wir haben uns entschlossen vor den Sommerferien noch zweimal zu =
+proben. Davon soll der erste Termin eine =C3=B6ffentliche Probe sein, wo =
+alle Interessierten dazukommen k=C3=B6nnen und der zweite eine normale =
+Probe. Diese beiden Proben werden nur halbtags stattfinden. =
+Informationen zum Herbst 2012 kommen dann demn=C3=A4chst mit den Noten =
+per Post und zur Sicherheit auch per Email.=20
+
+Probentermine vor den Sommerferien
+
+Samstag, 30. Juni 2012         9:00 =E2=80=93 13:00           =
+Fritz-Ruoff-Schule N=C3=BCrtingen
+Samstag, 14. Juli 2012          9:00 =E2=80=93 13:00           =
+Fritz-Ruoff-Schule N=C3=BCrtingen
+
+
+Viele Gr=C3=BC=C3=9Fe
+Stefan
+
+------=_NextPart_000_01AC_01CD37FD.F2179DE0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: 'Calibri'; COLOR: #000000; FONT-SIZE: 12pt">
+<DIV=20
+style=3D"FONT-STYLE: normal; DISPLAY: inline; FONT-FAMILY: 'Calibri'; =
+COLOR: #000000; FONT-SIZE: small; FONT-WEIGHT: normal; TEXT-DECORATION: =
+none">
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-FAMILY: 'Calibri'; COLOR: #000000; FONT-SIZE: 12pt">
+<DIV>Hallo zusammen,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>danke f=C3=BCr die R=C3=BCckmeldung der Adressen. Damit k=C3=B6nnen =
+wir die Noten nun=20
+vorab verschicken. Wir sind im Moment daran das Programm f=C3=BCr den =
+Herbst diesen=20
+Jahres zu erstellen. Sehr wahrscheinlich ist ein Doppelkonzert mit dem =
+KJO=20
+B=C3=B6blingen, welches hier stattfinden wird. Wir haben uns =
+entschlossen vor den=20
+Sommerferien noch zweimal zu proben. Davon soll der erste Termin eine=20
+=C3=B6ffentliche Probe sein, wo alle Interessierten dazukommen =
+k=C3=B6nnen und der zweite=20
+eine normale Probe. Diese beiden Proben werden nur halbtags stattfinden. =
+
+Informationen zum Herbst 2012 kommen dann demn=C3=A4chst mit den Noten =
+per Post und=20
+zur Sicherheit auch per Email. </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Probentermine vor den Sommerferien</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Samstag, 30. Juni =
+2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9:00=20
+=E2=80=93 =
+13:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+Fritz-Ruoff-Schule N=C3=BCrtingen</DIV>
+<DIV>Samstag, 14. Juli=20
+2012&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 9:00 =
+=E2=80=93=20
+13:00&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=20
+Fritz-Ruoff-Schule N=C3=BCrtingen</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Viele Gr=C3=BC=C3=9Fe</DIV>
+<DIV>Stefan</DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_01AC_01CD37FD.F2179DE0--
+

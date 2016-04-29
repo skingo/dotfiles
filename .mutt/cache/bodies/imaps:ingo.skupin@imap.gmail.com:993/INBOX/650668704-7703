@@ -1,0 +1,122 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.170 with SMTP id i10csp17109pdr;
+        Thu, 26 Jun 2014 04:30:32 -0700 (PDT)
+X-Received: by 10.194.200.37 with SMTP id jp5mr2539572wjc.120.1403782231693;
+        Thu, 26 Jun 2014 04:30:31 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id m7si11782518wic.62.2014.06.26.04.30.28
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 26 Jun 2014 04:30:29 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de;
+       dkim=pass (test mode) header.i=@dropbox.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=dropbox.com
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb103)
+ with ESMTPS (Nemesis) id 0Lp4Qq-1WUNZ13b8e-00erb2 for
+ <ingo.skupin@gmail.com>; Thu, 26 Jun 2014 13:30:28 +0200
+Received: from sjd-ra1-9d.sjc.dropbox.com ([108.160.165.96]) by mx-ha.web.de
+ (mxweb103) with ESMTPS (Nemesis) id 0MbNjU-1XGgnX3auy-00ImLM for
+ <ingo.skupin@web.de>; Thu, 26 Jun 2014 13:30:27 +0200
+Received: from snt-rf15-11c.sjc.dropbox.com (snt-rf15-11c.sjc.dropbox.com [10.12.135.151])
+	by sjd-ra1-9d.sjc.dropbox.com (Postfix) with ESMTP id 0205E6002EEAB
+	for <ingo.skupin@web.de>; Thu, 26 Jun 2014 11:30:26 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1403782226; bh=XLYmYcbpQrLGsEZwgzbJZ3NPfSe3W25jo13BTO4kRI0=;
+	h=From:To:CC:Subject:Date;
+	b=CyO5ihJE00JOqWwvht3Lej1xMKi/XlTVY5LDpKpsdl81jvzUE2AThmx5Zj6ZUKtxi
+	 7QwhkWHRupluW6qi4aQchQmCYiXVHKhtqVEUtkw1hGlsnqU1aiMOwdHDYzP6rLgl7h
+	 gmZjFZ5wc/NqTtqCC5zz3R8MC3oLV9KT7IiF5c4k=
+Content-Type: multipart/alternative;
+ boundary="===============0155406948769998145=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+CC: 
+Subject: =?utf-8?q?Sie_haben_an_Android_device_mit_Dropbox_verbunden=2E=0D=0A?=
+Date: Thu, 26 Jun 2014 11:30:26 +0000
+Message-ID: <20140626113026.10725.63323@snt-rf15-11c.sjc.dropbox.com>
+
+--===============0155406948769998145==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+Sie haben an Android device mit Dropbox verbunden. Wunderbar!
+
+Sie k=C3=B6nnen das f=C3=BCr dieses und jedes andere verbundene Ger=C3=A4t =
+auf Ihrer Kontoseite =C3=BCberpr=C3=BCfen[1].
+
+Viel Spa=C3=9F beim Dropboxen!
+Das Dropbox-Team
+
+P.=C2=A0S. Wenn Sie diese =C3=84nderung nicht vorgenommen haben, benachrich=
+tigen Sie uns bitte[2].
+
+[1]: https://www.dropbox.com/l/MlElYU44l0a3vweTteJifq??text=3D1
+[2]: https://www.dropbox.com/l/M9wOayEjwPAhP29xd1Hesi/support??text=3D1
+--===============0155406948769998145==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"><style>
+        @font-face {
+            font-family: "proxima_nova";
+            src: url("https://www.dropbox.com/static/fonts/proximanova/prox=
+ima-nova-regular.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+        a {
+            color: #007ee6;
+            text-decoration: none;
+        }
+        </style></head><body style=3D"padding: 0; width: 100% !important; -=
+webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;" marg=
+inheight=3D"0" marginwidth=3D"0"><center><table cellpadding=3D"8" cellspaci=
+ng=3D"0" style=3D"*width: 540px; padding: 0; width: 100% !important; backgr=
+ound: #ffffff; margin: 0; background-color: #ffffff;" border=3D"0"><tr><td =
+valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px; -we=
+bkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px=
+;" border=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"6"></td></=
+tr><tr style=3D"line-height: 0px;"><td width=3D"100%" style=3D"font-size: 0=
+px;" align=3D"center" height=3D"1"><img width=3D"40px" style=3D"max-height:=
+ 73px; width: 40px; *width: 40px; *height: 73px;" alt=3D"" src=3D"https://w=
+ww.dropbox.com/static/images/emails/glyph/glyph_34@2x.png"></td></tr><tr><t=
+d><table cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: 25px;" b=
+order=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"30"></td></tr>=
+<tr><td width=3D"36"></td>
+<td width=3D"454" align=3D"left" style=3D"color: #444444; border-collapse: =
+collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida =
+Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans S=
+erif'; max-width: 454px;" valign=3D"top">Hallo,<br><br>Sie haben an Android=
+ device mit Dropbox verbunden. Wunderbar!<br><br>Sie k=C3=B6nnen das f=C3=
+=BCr dieses und jedes andere verbundene Ger=C3=A4t auf Ihrer <a href=3D"htt=
+ps://www.dropbox.com/l/yJyloSHCXOBAQtpB0FNqPF?">Kontoseite</a> =C3=BCberpr=
+=C3=BCfen.<br><br>Frohes Dropboxen!<br>  Das Dropbox-Team<br><br>P.S. Wenn =
+Sie diese =C3=84nderung nicht vorgenommen haben, <a href=3D"https://www.dro=
+pbox.com/l/IbVQ5M1HiqVOa0kfKrLm2y/support?">benachrichtigen Sie uns bitte</=
+a>.</td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: prox=
+ima_nova, 'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida=
+ Sans Unicode', Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;"><td =
+width=3D"400" align=3D"left"></td>
+<td width=3D"128" align=3D"right">=C2=A9 2014 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/CDZa6FAFlxmmwXuXgSPuCN?" hei=
+ght=3D"1" />
+--===============0155406948769998145==--

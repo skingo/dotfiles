@@ -1,0 +1,120 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp108368ivc;
+        Tue, 5 Apr 2016 00:07:58 -0700 (PDT)
+X-Received: by 10.28.153.65 with SMTP id b62mr16169145wme.36.1459840078618;
+        Tue, 05 Apr 2016 00:07:58 -0700 (PDT)
+Return-Path: <info@musikverein-notzingen.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id fy10si35472592wjc.144.2016.04.05.00.07.58
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 05 Apr 2016 00:07:58 -0700 (PDT)
+Received-SPF: neutral (google.com: 212.227.15.4 is neither permitted nor denied by best guess record for domain of info@musikverein-notzingen.de) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@musikverein-notzingen.de;
+       spf=neutral (google.com: 212.227.15.4 is neither permitted nor denied by best guess record for domain of info@musikverein-notzingen.de) smtp.mailfrom=info@musikverein-notzingen.de
+Received: from [212.227.15.17] ([212.227.15.17]) by mx-ha.web.de (mxweb001)
+ with ESMTPS (Nemesis) id 0MJA2U-1ap0320LRi-002s2m for
+ <ingo.skupin@gmail.com>; Tue, 05 Apr 2016 09:07:58 +0200
+Received: from mi4-p00-ob.smtp.rzone.de ([81.169.146.144]) by mx-ha.web.de
+ (mxweb001) with ESMTPS (Nemesis) id 0MItBp-1apH1z0LJR-002b3v for
+ <ingo.skupin@web.de>; Tue, 05 Apr 2016 09:07:58 +0200
+X-RZG-FWD-BY: Verteiler_BO@musikverein-notzingen.de
+Received: from mailin.rzone.de ([unix socket])
+	by mailin.rzone.de (RZmta 37.22) with LMTPA;
+	Tue, 5 Apr 2016 09:07:41 +0200 (CEST)
+Authentication-Results: strato.com 1;
+	spf=none
+		smtp.mailfrom="info@musikverein-notzingen.de";
+	dkim=pass
+		header.d=musikverein-notzingen.de;
+	domainkeys=none;
+	dkim-adsp=pass
+		header.from="info@musikverein-notzingen.de"
+X-Strato-MessageType: email
+X-RZG-CLASS-ID: mi
+Received-SPF: none
+	client-ip=2a01:238:20a:202:5300::3;
+	helo="mo6-p00-ob.smtp.rzone.de";
+	envelope-from="info@musikverein-notzingen.de";
+	receiver=smtpin.rzone.de;
+	identity=mailfrom;
+Received: from mo6-p00-ob.smtp.rzone.de ([IPv6:2a01:238:20a:202:5300::3])
+	by smtpin.rzone.de (RZmta 37.22 OK)
+	with ESMTPS id E0414es3577fYcO
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (curve secp521r1 with 521 ECDH bits, eq. 15360 bits RSA))
+	(Client CN "*.smtp.rzone.de", Issuer "TeleSec ServerPass DE-2" (verified OK (+EmiG)))
+	(Client hostname verified OK)
+	for <Verteiler_BO@musikverein-notzingen.de>;
+	Tue, 5 Apr 2016 09:07:41 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; t=1459840061; l=1566;
+	s=domk; d=musikverein-notzingen.de;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Subject:
+	References:In-Reply-To:To:Reply-To:From:Date;
+	bh=ZZPx+DCpodT2nfTQSVyWt1VW3CC2R0EhpnIuOPf1AGM=;
+	b=NmXglBb/v6+lHRRszCeFJ73KhLXG236DHV6J6zmtcaxDNqAQWwUMNqACpRTkdPUxPaV
+	Furmuzl+/lwO08stoBOu4Z2f1yX6dFyOpV4CxIVVlDSL56ulR4drjzE7jTZU2UkdzjUMN
+	obkqPgJPAYyhvHX1SEe2odV+bqeOgMrTZSM=
+X-RZG-AUTH: :JWICemClbuyO56osRnRUFLbRpRCxaQGqBEGe5oFuFOTsHwwyK1cEoZT6a/WEQZD5UbOv8+AxbUc=
+X-RZG-CLASS-ID: mo00
+Received: from patina.store (com4.strato.de [81.169.145.237])
+	by smtp-ox.front (RZmta 37.22 AUTH)
+	with ESMTPSA id 9068a9s3577fCpl
+	(using TLSv1.2 with cipher ECDHE-RSA-AES128-SHA (curve X9_62_prime256v1 with 256 ECDH bits, eq. 3072 bits RSA))
+	(Client did not present a certificate)
+	for <Verteiler_BO@musikverein-notzingen.de>;
+	Tue, 5 Apr 2016 09:07:41 +0200 (CEST)
+Date: Tue, 5 Apr 2016 09:07:41 +0200 (CEST)
+From: Musikverein Notzingen <info@musikverein-notzingen.de>
+Reply-To: Musikverein Notzingen <info@musikverein-notzingen.de>
+To: Verteiler_BO <Verteiler_BO@musikverein-notzingen.de>
+Message-ID: <1810033278.29702.1459840061517.JavaMail.open-xchange@patina.store>
+In-Reply-To: <trinity-e7f9d17b-f088-4210-a53d-88ac8dfd521b-1459803808481@msvc-mesg-gmx015>
+References: <trinity-e7f9d17b-f088-4210-a53d-88ac8dfd521b-1459803808481@msvc-mesg-gmx015>
+Subject: =?UTF-8?Q?Fwd:_Arbeitspl=C3=A4ne_D=C3=A4tscherfest?=
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+X-Priority: 3
+Importance: Medium
+X-Mailer: Open-Xchange Mailer v7.6.2-Rev51
+X-Originating-Client: open-xchange-appsuite
+X-UI-Out-Filterresults: notjunk:1;V01:K0:3EUgLZjlYSo=:d2O+i/cD6/T+LezJOjTDEt
+ 3PhWhB2WpTyqLH9M18pDv4T5Bmk0Py9UiiAmcqFmtuE2es9JK/0PsNVnCyfyyozj0ljCT3ciI
+ wL/02o4HG0a3Vc/hhjqjhC77iz0oBaIfH1aQ2R8IoH+cujoaNrHUCiRuW5TJmSWmE+3mO3bIA
+ D41yjwXaC1v/4MuaiPXVmAeg2h2Rxxb2iKj2pdDkr7ELgwIFeHr8mCpZyDT9UgywxDB82vw46
+ kYdAisWG8Z4XB6TVt6l4Q+jijCtxdJERYNoR36LNTvUH4am+sHtd7cR03suS1sMOU4OA+9aM2
+ ry/MvltkTCy7fsaIqmO/WQgPX6Y2/CnXTvjh7HT0Qlbs366dxGvyvz+Yokx0kwQOTScRgz4vb
+ InlIi74oIyAC62KdzROQubTG9cf1fGFHm8e8r3J49Ql6BmkXNPhyx/Bex2Da79wQhBe/p3nXX
+ gT5MPwPsx/gU58WEFSHLogkGMIkR0x1SmUTRKhsiR5dVP3pc0L2lDfn+SQ68oVRSf5rcfSgo2
+ NB6IQUX3Za0tDYBddJrx4Hd2wSEFmh53Ac4lkN59nA2oO0JQD/M7HBDbNZjVzF3ColqmkoWD6
+ xG/fiQB7TeHCNHmkmw1zmpnjuvai2S6zWC8loMw6yMvAUl7U3I+pBBMOZKa8XjkLIYktDZ+FT
+ lg5bonvYFFuaZ3q/BgIJwDPu2Q2WfYPA2xS4pvV0RMrF2tjzqD8eilmaZ+M81T58tNUA5KRyH
+ c8MOtx1zcHTv7nOKgWfcBKbUWlk+WdoYgZ/wOdCjeIXZH7LY8w9OPKWY08TL5tAcXumUW9EyH
+ EdYidq2mspifWQXIo2AwDRPllggPcXtssK2fVMnIH75zd2GdgyUG9R8u1MC+mmuk9pHSyFr8w
+ nUy97PY6LewZFx6UWUm8Zx1M0a+1OgCkXG7TZ5pq98yVtCCMfthn8V3ShiJcMJZAFR3nlyc6G
+ 65owoMa6WCXyVT2rE8BePln9p5rmuk5+Yxb+4VffIrlfXJ7EB0kCM
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3DUTF-8=
+"/>
+ </head><body><p><br></p><br><blockquote type=3D"cite">---------- Urspr&#25=
+2;ngliche Nachricht ----------<br>Von: Claudia Frank &#60;claudia_frank@gmx=
+.de&#62;<br>An: info@musikverein-notzingen.de<br>Datum: 4. April 2016 um 23=
+:03<br>Betreff: Arbeitspl&#228;ne D&#228;tscherfest <br><br>Hallo zusammen,=
+<br> <br> <br> Timo hat es ja schon geschrieben &#8211; das D&#228;tscherfe=
+st ist nicht mehr weit weg.<br> In der Probe gibt&#8217;s die Arbeitspl&#22=
+8;ne f&#252;rs Zelt. Bitte &#252;berlegt euch schon mal, wo und wann ihr he=
+lfen k&#246;nnt und kommt auf den Dan zu.<br> <br> Ihr k&#246;nnt euch zum =
+Eintragen auch gerne jederzeit per Handy/Mail an uns wenden:<br> Dan: 0160/=
+98109121 oder <a href=3D"http://daniel.ruff">daniel.ruff</a>@web.de<br> Mar=
+kus: 0173/6711572 oder mguber@web.de<br> Claudi: 0178/1802852 oder claudia_=
+frank@gmx.de<br> <br> Bitte denkt auch an den Auf- und Abbau am Mittwochnac=
+hmittag, Freitag, Samstagmorgen und Montag.<br> Auch hier wird jede helfend=
+e Hand gebraucht.<br> <br> Die D&#228;tscherfrauen und &#8211;m&#228;nner k=
+&#246;nnen sich gern an Margit wenden (2511 oder margitfrank@gmx.net).<br> =
+<br> <br> <br> Danke euch allen und viele Gr&#252;&#223;e von<br> Dan, Mark=
+us und Claudi<br> <br></blockquote><br>&#160;<p>;</p></body></html>

@@ -1,0 +1,51 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.161.73 with SMTP id q9csp53292vcx;
+        Sun, 2 Dec 2012 08:03:20 -0800 (PST)
+Received: by 10.216.29.208 with SMTP id i58mr2283464wea.67.1354464199385;
+        Sun, 02 Dec 2012 08:03:19 -0800 (PST)
+Return-Path: <dennis.zimmer1993@gmail.com>
+Received: from mail-we0-f176.google.com (mail-we0-f176.google.com [74.125.82.176])
+        by mx.google.com with ESMTPS id y34si6796805wen.25.2012.12.02.08.03.19
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sun, 02 Dec 2012 08:03:19 -0800 (PST)
+Received-SPF: pass (google.com: domain of dennis.zimmer1993@gmail.com designates 74.125.82.176 as permitted sender) client-ip=74.125.82.176;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of dennis.zimmer1993@gmail.com designates 74.125.82.176 as permitted sender) smtp.mail=dennis.zimmer1993@gmail.com; dkim=pass header.i=@gmail.com
+Received: by mail-we0-f176.google.com with SMTP id r5so721563wey.7
+        for <ingo.skupin@googlemail.com>; Sun, 02 Dec 2012 08:03:19 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=i5OcFXvJHScVRlSfUubryIiGtoFYsfCq9rZjf8fNMoc=;
+        b=zx/LtPRu+kFOJu85KFeczVmcRixdOFF+GQMQC6lEJ68xukcN1uNn6TRr9ZMoFCYIEb
+         AOuO1Nu2uzOl7b5dsFYkL7D6N2eQkXJHyhcjJGQHep3p0YvqYjkzqkq3FX3F37EFheqU
+         9Wdq4YjNWzRISjr4kDH3Ag/+fnyyHI52mLcxqKr3CBel89nW+zE/UqMOyFjatQqk3PLk
+         a+0hsSJeYdZga4vilrlZODbdvBsEXUoGLjmWrneRfFGMMrmNEYdlCE/Lh1+ozq/8ZYQ9
+         SaIHTqSpQ0seLUcwajNp1zY1Qiv6856nOM96yd94FVYGiraCHlwaVT/w9T9kgY/NnLXS
+         Z+OQ==
+Received: by 10.180.94.226 with SMTP id df2mr5712420wib.11.1354464199039;
+        Sun, 02 Dec 2012 08:03:19 -0800 (PST)
+Return-Path: <dennis.zimmer1993@gmail.com>
+Received: from [127.0.0.1] (HSI-KBW-095-208-046-015.hsi5.kabel-badenwuerttemberg.de. [95.208.46.15])
+        by mx.google.com with ESMTPS id fv2sm7394084wib.4.2012.12.02.08.03.17
+        (version=SSLv3 cipher=OTHER);
+        Sun, 02 Dec 2012 08:03:18 -0800 (PST)
+Message-ID: <50BB7BC4.4060000@gmail.com>
+Date: Sun, 02 Dec 2012 17:03:16 +0100
+From: Dennis Zimmer <dennis.zimmer1993@gmail.com>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:17.0) Gecko/17.0 Thunderbird/17.0
+MIME-Version: 1.0
+To: Ingo Skupin gmail <ingo.skupin@googlemail.com>
+Subject: ETI =?ISO-8859-15?Q?=DC6?=
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hey
+ich hätte ne kleine Verständnisfrage:
+
+Bei der Aufgabe 3 hat U0 5V.
+Sind dadurch nich automatisch T1, T2, T5 immer geöffnet?
+
+bzw wie/wo werden dann die 2 eingänge relevant?
+
+grüße

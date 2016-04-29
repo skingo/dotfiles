@@ -1,0 +1,126 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp111946pdd;
+        Fri, 12 Jul 2013 01:05:23 -0700 (PDT)
+X-Received: by 10.14.199.134 with SMTP id x6mr45954345een.114.1373616322334;
+        Fri, 12 Jul 2013 01:05:22 -0700 (PDT)
+Return-Path: <jonas.gawehn@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.15.15])
+        by mx.google.com with ESMTP id u9si31740933eeg.321.2013.07.12.01.05.21
+        for <ingo.skupin@gmail.com>;
+        Fri, 12 Jul 2013 01:05:22 -0700 (PDT)
+Received-SPF: pass (google.com: domain of jonas.gawehn@gmx.de designates 212.227.15.15 as permitted sender) client-ip=212.227.15.15;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of jonas.gawehn@gmx.de designates 212.227.15.15 as permitted sender) smtp.mail=jonas.gawehn@gmx.de
+Received: from [192.168.178.22] ([178.2.234.76]) by mail.gmx.com (mrgmx103)
+ with ESMTPSA (Nemesis) id 0LpbfG-1UI9n72a8c-00fQQE; Fri, 12 Jul 2013 10:05:05
+ +0200
+Subject: =?iso-8859-1?Q?Trompetenaushilfe_f=FCr_morgen_in_Ochsenwang?=
+Mime-Version: 1.0 (Apple Message framework v1085)
+Content-Type: text/plain; charset=iso-8859-1
+From: Jonas Gawehn <jonas.gawehn@gmx.de>
+X-Priority: 3
+In-Reply-To: <76DAAF23D80A40D1B33EE429C331404D@Arbeitstier>
+Date: Fri, 12 Jul 2013 10:05:00 +0200
+Cc: "Anja Rentz" <anjarentz@arcor.de>,
+ <rs@mut-anhaenger.de>,
+ <f.a.brodbeck@kabelbw.de>,
+ <luisa.schroth@web.de>,
+ <hennrich-paul@web.de>,
+ <sara.eberspaecher@live.de>,
+ <sarah-petzoldt@freenet.de>,
+ <tanja.beichter@gmx.de>,
+ <anja-s96@web.de>,
+ <david.eisele@arcor.de>,
+ <ralf.krasselt@arcor.de>,
+ <annika.steib@hotmail.com>,
+ <christine.dieter.bayer@t-online.de>,
+ <sonja.christiane@web.de>,
+ <uli.mueller@online.de>,
+ <luisa.frietsch@t-online.de>,
+ "Felix Wetzel" <felix@fam-wetzel.com>,
+ <benjamin@steiner.org>,
+ <vera.ringhoffer@web.de>,
+ <v.tomschi@web.de>,
+ "Lotta Zeiger" <lotta@zeiger-web.de>,
+ "Paul Jacot" <paul.jacot@gmx.net>,
+ "Th. Rotter" <T.Rotter@t-online.de>,
+ "Tobias Geiger" <tobias.geiger1995@gmx.de>,
+ <ingo.skupin@gmail.com>,
+ "Vanessa Wuensch" <vanessa.wuensch@web.de>,
+ "Luisa Engel" <engel.luisa@web.de>,
+ <kaltenecker.jan@googlemail.com>,
+ <Baurlu@web.de>,
+ "Tobias Lauster" <tobias.lauster@gmx.de>,
+ <nmachanek@web.de>,
+ <smachanek@web.de>,
+ <uli__kurz@t-online.de>,
+ "Christian Baur" <chrisbaur@hotmail.de>,
+ "Marvin Schaich" <Marvin.Schaich@t-online.de>,
+ "Marian Basta" <m-basta@web.de>,
+ <jakob.krenn@t-online.de>,
+ "Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+ <felix.koschei@freenet.de>,
+ <nico.felbinger@web.de>,
+ <florian-floriaus@web.de>,
+ <oliiiiver@hotmail.de>,
+ <jonaskolibius@web.de>,
+ <janina_schott@web.de>,
+ "Philip Koschei" <koschi_99@web.de>,
+ "Anja Michel" <anja_michel91@web.de>,
+ "Viktor Hahnemann" <viktor_hahnemann@web.de>,
+ "Marius Gawehn" <marius_gawehn@arcor.de>,
+ "Christian Schweizer" <Christian.Schweizer@t-online.de>,
+ =?iso-8859-1?Q?Florian_Strau=DF?= <strauss-florian@web.de>,
+ =?iso-8859-1?Q?Michael_Pf=E4nder?= <Michi110793@aol.com>,
+ "Sinja Wernz" <sinja_wernz@web.de>,
+ "Ingo Skupin" <ingo.skupin@t-online.de>,
+ "Christoph Korschinek" <christoph@korschinek.de>,
+ "Fanny Rothe" <fanny@wolber-rothe.de>,
+ "Florian Schneider" <schneider.florian1@gmx.de>,
+ "Robin Kiebele" <r.kiebele@gmx.net>,
+ "Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+ "Annika Vesenmaier" <an.ve@arcor.de>,
+ =?iso-8859-1?Q?David_K=FCchle?= <D1V23@aol.com>,
+ "Lisa Richter" <lisarichter93@hotmail.de>,
+ =?iso-8859-1?Q?Philipp_Gr=F6ber?= <groeber_95@web.de>,
+ "Pia Weber" <weberpia@arcor.de>,
+ "Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+ "Anna Hofmann" <anna-maria.hofmann@online.de>,
+ "Lena Schneider" <lena-schneider@t-online.de>,
+ "Lena Schroth" <lena-schroth@web.de>,
+ "Marco Diez" <marcodiez@gmx.de>,
+ "Kristina Kraemer" <kristina.kraemer@akris.de>,
+ "Denis Trautwein" <denis.trautwein@gmx.de>,
+ <nils.fischer98@gmx.de>,
+ <annabelnannt@gmx.de>,
+ <david@kuechle-salach.de>,
+ "Thorsten Schmidt" <Thorsten.Schmidt_Schmidt@web.de>,
+ "Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+ "Tobias Beichter" <tobias.beichter@gmx.de>,
+ "Christine Zeller" <chrisi.zeller@web.de>,
+ "Matthias Albrecht" <matze.albrecht@web.de>,
+ "Carolin Brodbeck" <carolin.brodbeck@freenet.de>
+Content-Transfer-Encoding: quoted-printable
+Message-Id: <EEEF52C8-B820-4533-8B2C-D542241BB5B2@gmx.de>
+References: <76DAAF23D80A40D1B33EE429C331404D@Arbeitstier>
+To: <stevekoch@gmx.de> <stevekoch@gmx.de>
+X-Mailer: Apple Mail (2.1085)
+X-Provags-ID:  V03:K0:6qwiFFe7sgUGeTnrdzCFC2d20BZexujTgEL8PfQBCJDQrrK6Mkm
+ gY418HeKnQijyVlFraifEtbrjpgFtbCOrSD/1jwf734UHzsJB0Gv/3KdYueCHgJhI7MG8bs
+ f3G704JPlI8TI+U99vb46QEqA0ZwiKsDbKwwVD7ABDp/+Js9K3U9PJl96l8j6/JygJu+y4i
+ en35kINqnr94KPIzEmp7Q==
+
+Liebe Trompeterinnen und Trompeter,
+
+wir haben im Verein (Bissingen) einen kleinen Notfall. Morgen spielen =
+wir in Ochsenwang beim Festzug (12:30) und anschlie=DFend im Festzelt =
+(bis 17:00), aber wir br=E4uchten dringend eine Aushilfe an der Trompete =
+wegen einer kurzfristigen Absage. Wer hat morgen noch nichts vor und =
+kann mitmachen? Wir spielen des =FCbliche Zeug. Ihr werdet auch entlohnt =
+werden f=FCr den Aufwand. Meldet euch bitte so schnell wie m=F6glich bei =
+mir: 0175 5500959.=20
+
+Danke schonmal und ein sch=F6nes Wochenende zusammen!
+
+Viele Gr=FC=DFe
+Jonas=

@@ -1,0 +1,154 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp52283pdd;
+        Fri, 5 Jul 2013 01:16:56 -0700 (PDT)
+X-Received: by 10.68.17.169 with SMTP id p9mr8793369pbd.17.1373012216226;
+        Fri, 05 Jul 2013 01:16:56 -0700 (PDT)
+Return-Path: <smtp-errors@mailbox.evernote.com>
+Received: from ms-out.evernote.com (ms-out.evernote.com. [204.154.94.85])
+        by mx.google.com with ESMTPS id tg10si4124441pbc.117.2013.07.05.01.16.56
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Fri, 05 Jul 2013 01:16:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of smtp-errors@mailbox.evernote.com designates 204.154.94.85 as permitted sender) client-ip=204.154.94.85;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of smtp-errors@mailbox.evernote.com designates 204.154.94.85 as permitted sender) smtp.mail=smtp-errors@mailbox.evernote.com;
+       dkim=pass header.i=@evernote.com;
+       dmarc=pass (p=NONE dis=NONE) d=evernote.com
+Received: from ns318v.ba1.enops.net (ns318v.ba1.enops.net [10.8.94.18])
+	by ms-out.evernote.com (Postfix) with ESMTP id B5858EF6779
+	for <ingo.skupin@googlemail.com>; Fri,  5 Jul 2013 01:16:55 -0700 (PDT)
+X-DKIM: OpenDKIM Filter v2.0.1 ms-out.evernote.com B5858EF6779
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=evernote.com;
+	s=ms-out; t=1373012215;
+	bh=mbdSI4Z3HjNkGM2YiT1Xc4P0yw4Q4Nufn3i8K73IEjM=;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:
+	 Content-Type;
+	b=Tovekw8IArkS37TjE/LzbGjI9cv/Fkqe5pMzIeSXg8hcSZEf/4Nl5isrpX5lBpDLL
+	 WOb7tTjfw+lg3HYXbWE7q7oIhqRxw6kIetpez9xXKAyzTTMk+Q+/0eD6YufIAZrfWW
+	 5JjeOwtbvVlzWaBYD6SIiLoyeRG54nhYo0eaxsOI=
+Received: internal
+Date: Fri, 5 Jul 2013 08:16:55 +0000 (GMT)
+From: Evernote <no-reply@evernote.com>
+Reply-To: Evernote <no-reply@evernote.com>
+To: ingo.skupin@googlemail.com
+Message-ID: <6629938.13581373012215695.JavaMail.tomcat@ns318v>
+Subject: Evernote auf dem Computer installieren
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_1368_1922986584.1373012215695"
+
+------=_Part_1368_1922986584.1373012215695
+Content-Type: text/plain;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Evernote ist n=C3=BCtzlicher bei Installation auf allen Ger=C3=A4ten.
+
+=C3=96ffnen Sie diese E-Mail auf Ihrem Computer und klicken Sie danach auf =
+den Link unten.
+
+Evernote herunterladen
+https://www.evernote.com/getit?utm_source=3Den-android-xauth-new&utm_medium=
+=3Din-app-upsell&utm_campaign=3Den-android-xauth-new-upsell&email_name=3Dde=
+sktopUpsell&email_guid=3D0ca99a45-d07b-42da-8eea-95ee5f8398c7&email_link=3D=
+download_button
+
+Ihr Evernote-Team
+------=_Part_1368_1922986584.1373012215695
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset=3D"utf-8">
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1=
+">
+
+</head>
+<body style=3D"background: #E6E6E6;color: #4D4B48;font-family: Helvetica, A=
+rial, Verdana, sans-serif;font-size: 13px;line-height: 18px;margin-top: 20p=
+x;margin-right: 20px;margin-bottom: 20px;">
+  <table class=3D"email-container" width=3D"584" style=3D"margin: 0 auto; m=
+ax-width: 584px;">
+    <tr>
+      <td>
+        <table class=3D"header" width=3D"584" style=3D"background: #F6F4F4;=
+ border: 1px solid #A8ADAD; padding: 20px;">
+          <tr>
+            <td background=3D"https://www.evernote.com/redesign/global/img/=
+mail-evernote-logo.png" style=3D"background-repeat:no-repeat"><a href=3D"#"=
+ class=3D"logo" style=3D"color: #5FB336; text-decoration: none; display: bl=
+ock; height: 48px; text-indent: -9999px; width: 222px;">&nbsp;</a></td>
+          </tr>
+        </table>
+        <table class=3D"email-content" cellpadding=3D"24" style=3D"margin: =
+0 auto; max-width: 584px; background: #FFF; border: 1px solid #A8ADAD; widt=
+h: 584px;">
+  <tr>
+    <td>
+      <p style=3D"margin-top: 0; margin-bottom: 12px;">Evernote ist n=C3=BC=
+tzlicher bei Installation auf allen Ger=C3=A4ten.</p>
+
+      <p style=3D"margin-top: 0; margin-bottom: 12px;">=C3=96ffnen Sie dies=
+e E-Mail auf Ihrem Computer und klicken Sie danach auf den Link unten.</p>
+
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"butt=
+on" style=3D"margin: 18px 0;">
+        <tr>
+          <td height=3D"44" align=3D"center" background=3D"/redesign/global=
+/img/mail-premium-button-background.png" style=3D"background-repeat:repeat-=
+x; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3=
+px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius:3px; b=
+ackground-position:top left; background-color:#45a32f; border:1px solid #3e=
+7a52; color:#FFFFFF; font-weight:normal; white-space:nowrap; height:44px;">
+            <a href=3D"https://www.evernote.com/getit?utm_source=3Den-andro=
+id-xauth-new&amp;utm_medium=3Din-app-upsell&amp;utm_campaign=3Den-android-x=
+auth-new-upsell&amp;email_name=3DdesktopUpsell&amp;email_guid=3D0ca99a45-d0=
+7b-42da-8eea-95ee5f8398c7&amp;email_link=3Ddownload_button" style=3D"color:=
+#FFFFFF; cursor:pointer; font-size:16px; text-align:center; text-decoration=
+:none; vertical-align:baseline; font-weight:normal;">
+              <!--[if gte mso 9]>&nbsp;&nbsp;<![endif]-->
+              <span style=3D"padding: 16px 40px; color: #FFF">Evernote heru=
+nterladen</span>
+              <!--[if gte mso 9]>&nbsp;&nbsp;<![endif]-->
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <p style=3D"margin-top: 0; margin-bottom: 12px;">Ihr Evernote-Team</p=
+>
+    </td>
+  </tr>
+</table>
+        <table class=3D"footer" width=3D"584" cellpadding=3D"20" style=3D"b=
+ackground: url(https://www.evernote.com/redesign/global/img/mail-drop-shado=
+w.png) 50% -2px transparent scroll no-repeat;color: #747778;font-size: 11px=
+;line-height: 15px;margin-bottom: 20px;text-align: center;">
+          <tr>
+            <td>
+              <p style=3D"margin-top: 0;margin-bottom: 0;margin-right: 0;ma=
+rgin-left: 0;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;paddin=
+g-left: 0px;">Bei technischen Problemen kontaktieren Sie uns =C3=BCber unse=
+re <a href=3D'http://evernote.com/contact/support/?email_name=3DdesktopUpse=
+ll&email_guid=3D0ca99a45-d07b-42da-8eea-95ee5f8398c7&email_link=3Dfooter_su=
+pport_link' target=3D'_blank' style=3D'color: #4A8DB8; text-decoration: non=
+e;'>Support-Seite</a>.</p>
+
+              <p style=3D"margin-top: 0;margin-bottom: 0;margin-right: 0;ma=
+rgin-left: 0;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;paddin=
+g-left: 0px;">Evernote Corp., 305 Walnut Street, Redwood City, CA 94063, US=
+A</p>
+            </td>
+          </tr>
+        </table><!--end .footer-->
+      </td>
+    </tr>
+  </table><!--end .email-container-->
+</body>
+</html>
+
+------=_Part_1368_1922986584.1373012215695--
+

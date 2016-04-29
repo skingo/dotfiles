@@ -1,0 +1,249 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp45940pdb;
+        Thu, 20 Feb 2014 13:46:34 -0800 (PST)
+X-Received: by 10.14.182.5 with SMTP id n5mr4347975eem.68.1392932793544;
+        Thu, 20 Feb 2014 13:46:33 -0800 (PST)
+Return-Path: <stevekoch@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.15.18])
+        by mx.google.com with ESMTPS id x48si11660579eep.3.2014.02.20.13.46.32
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 20 Feb 2014 13:46:33 -0800 (PST)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 212.227.15.18 as permitted sender) client-ip=212.227.15.18;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of stevekoch@gmx.de designates 212.227.15.18 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: from Arbeitstier ([95.208.248.72]) by mail.gmx.com (mrgmx002) with
+ ESMTPA (Nemesis) id 0LsTDk-1XIRQg37zU-0121fa for <ingo.skupin@gmail.com>;
+ Thu, 20 Feb 2014 22:46:31 +0100
+Message-ID: <194A591DFACE4E709854DA817E4C7317@Arbeitstier>
+From: <stevekoch@gmx.de>
+To: "Anja Rentz" <anjarentz@arcor.de>,
+	<rs@mut-anhaenger.de>,
+	<f.a.brodbeck@kabelbw.de>,
+	<luisa.schroth@web.de>,
+	<hennrich-paul@web.de>,
+	=?utf-8?Q?Sara_Ebersp=C3=A4cher?= <sara.eberspaecher@live.de>,
+	<tanja.beichter@gmx.de>,
+	<anja-s96@web.de>,
+	<david.eisele@arcor.de>,
+	<ralf.krasselt@arcor.de>,
+	<annika.steib@hotmail.com>,
+	<christine.dieter.bayer@t-online.de>,
+	=?utf-8?Q?Sonja_M=C3=BCller?= <sonja.christiane@web.de>,
+	<uli.mueller@online.de>,
+	<luisa.frietsch@t-online.de>,
+	"Felix Wetzel" <felix@fam-wetzel.com>,
+	<benjamin@steiner.org>,
+	<vera.ringhoffer@web.de>,
+	<v.tomschi@web.de>,
+	"Lotta Zeiger" <lotta@zeiger-web.de>,
+	"Paul Jacot" <paul.jacot@gmx.net>,
+	"Th. Rotter" <T.Rotter@t-online.de>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	<ingo.skupin@gmail.com>,
+	"Vanessa Wuensch" <vanessa.wuensch@web.de>,
+	"Luisa Engel" <engel.luisa@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	<Baurlu@web.de>,
+	<nmachanek@web.de>,
+	<smachanek@web.de>,
+	<uli__kurz@t-online.de>,
+	"Christian Baur" <chrisbaur@hotmail.de>,
+	"Marian Basta" <m-basta@web.de>,
+	<jakob.krenn@t-online.de>,
+	<felix.koschei@freenet.de>,
+	<oliiiiver@hotmail.de>,
+	<jonaskolibius@web.de>,
+	<janina_schott@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	=?utf-8?Q?Michael_Pf=C3=A4nder?= <Michi110793@aol.com>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	=?utf-8?Q?Philipp_Gr=C3=B6ber?= <groeber_95@web.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	<nils.fischer98@gmx.de>,
+	<david@kuechle-salach.de>,
+	"Thorsten Schmidt" <Thorsten.Schmidt_Schmidt@web.de>,
+	"Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+	"Tobias Beichter" <tobias.beichter@gmx.de>,
+	"Christine Zeller" <chrisi.zeller@web.de>,
+	"Matthias Albrecht" <matze.albrecht@web.de>,
+	"Carolin Brodbeck" <carolin.brodbeck@freenet.de>,
+	<Piluep@gmx.de>,
+	<florian@r-k-r.de>,
+	<nina.fischer96@gmx.de>,
+	<miroll@arcor.de>,
+	<se.pree@web.de>,
+	<katja@landhaeusser.co>,
+	<bastian.otto@fnks.de>,
+	"Alexander Zweifel" <a.zweifel95@googlemail.com>,
+	<tobias.fath@googlemail.com>,
+	<ilona.borchardt@gmx.de>,
+	<luisa.heilemann@gmx.de>,
+	<bene.strambach@t-online.de>,
+	<richardg.xyz@gmail.com>,
+	=?utf-8?Q?Sascha_Schr=C3=B6ter?= <schroeter1992@icloud.com>,
+	"Hannah Linsenmayer" <hannah-linsenmayer@t-online.de>
+Subject: =?utf-8?Q?Probe_am_Samstag_in_Wernau_nicht?=
+	=?utf-8?Q?_in_N=C3=BCrtingen?=
+Date: Thu, 20 Feb 2014 22:42:09 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01CF2E8C.FD39B370"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+X-Provags-ID:  V03:K0:YbDQuEEiT1lCWvA6eRnFio4s5UlcMMgNah5Ed9s/Y81KLyC6TMG
+ ZEKawufDzGn8JhqyLHg3P4GVJKOCCaTfveSQRP0k5F4e7ZZF351YaTaSQ7ZD3kmWsz0wJkV
+ ZxYhBbdcmyK8ywN9zv0e3vcs+HpUIf1Uyv531UR3v80AEhX8C+QbYBs1fg1TPgvV9y4pz88
+ zMlnAkL/4RZlInAwkOVfQ==
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_0037_01CF2E8C.FD39B370
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+nur kurz die Erinnerung an die Probe n=C3=A4chsten Samstag 22.2.2014. =
+Aufgrund von Umbauarbeiten in der Schule findet diese im Haus der Musik =
+in Wernau statt (siehe Google-Link), nicht in N=C3=BCrtingen! =
+Probezeiten wie immer. Bitte seid p=C3=BCnktlich um 8:45 Uhr da.=20
+Wir werden mittags keine Pizza holen, bitte bringt eigene Verpflegung =
+mit. In der N=C3=A4he befindet sich auch ein D=C3=B6ner.
+Au=C3=9Ferdem nochmals die Erinnerung an den Teilnehmerbeitrag f=C3=BCr =
+Riva, der Stichtag daf=C3=BCr ist der 22. Februar. Es fehlen leider =
+immer noch ein paar =C3=9Cberweisungen.
+Bis Samstag,
+Viele Gr=C3=BC=C3=9Fe
+Stefan
+https://www.google.de/maps/dir//Bahnhofsplatz+17-19,+73249+Wernau+%28Neck=
+ar%29/@48.6940263,9.4140977,21z/data=3D!4m13!1m4!3m3!1s0x4799bfb211b88995=
+:0xb46dcf10837bef8d!2sWernau+%28Neckar%29!3b1!4m7!1m0!1m5!1m1!1s0x4799be5=
+4e1aa53e5:0xa9972f2a55e282dd!2m2!1d9.4140178!2d48.694049
+------=_NextPart_000_0037_01CF2E8C.FD39B370
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'><FONT=20
+size=3D3 face=3DCalibri>Hallo zusammen,</FONT></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>nur=20
+kurz die Erinnerung an die Probe n=C3=A4chsten Samstag 22.2.2014. =
+Aufgrund von=20
+Umbauarbeiten in der Schule findet diese im Haus der Musik in Wernau =
+statt=20
+(siehe Google-Link), nicht in N=C3=BCrtingen! Probezeiten wie immer. =
+Bitte seid=20
+p=C3=BCnktlich um 8:45 Uhr da. </DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>Wir=20
+werden mittags keine Pizza holen, bitte bringt eigene Verpflegung mit. =
+In der=20
+N=C3=A4he befindet sich auch ein D=C3=B6ner.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>Au=C3=9Ferdem=20
+nochmals die Erinnerung an den Teilnehmerbeitrag f=C3=BCr Riva, der =
+Stichtag daf=C3=BCr=20
+ist der 22. Februar. Es fehlen leider immer noch ein paar=20
+=C3=9Cberweisungen.</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>Bis=20
+Samstag,</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>Viele=20
+Gr=C3=BC=C3=9Fe</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>Stefan</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'>&nbsp;</DIV></DIV>
+<DIV>
+<DIV=20
+style=3D'FONT-SIZE: small; TEXT-DECORATION: none; FONT-FAMILY: =
+"Calibri"; FONT-WEIGHT: normal; COLOR: #000000; FONT-STYLE: normal; =
+DISPLAY: inline'><A=20
+title=3Dhttps://www.google.de/maps/dir//Bahnhofsplatz+17-19,+73249+Wernau=
++%28Neckar%29/@48.6940263,9.4140977,21z/data=3D!4m13!1m4!3m3!1s0x4799bfb2=
+11b88995:0xb46dcf10837bef8d!2sWernau+%28Neckar%29!3b1!4m7!1m0!1m5!1m1!1s0=
+x4799be54e1aa53e5:0xa9972f2a55e282dd!2m2!1d9.4140178!2d48.694049=20
+href=3D"https://www.google.de/maps/dir//Bahnhofsplatz+17-19,+73249+Wernau=
++%28Neckar%29/@48.6940263,9.4140977,21z/data=3D!4m13!1m4!3m3!1s0x4799bfb2=
+11b88995:0xb46dcf10837bef8d!2sWernau+%28Neckar%29!3b1!4m7!1m0!1m5!1m1!1s0=
+x4799be54e1aa53e5:0xa9972f2a55e282dd!2m2!1d9.4140178!2d48.694049">https:/=
+/www.google.de/maps/dir//Bahnhofsplatz+17-19,+73249+Wernau+%28Neckar%29/@=
+48.6940263,9.4140977,21z/data=3D!4m13!1m4!3m3!1s0x4799bfb211b88995:0xb46d=
+cf10837bef8d!2sWernau+%28Neckar%29!3b1!4m7!1m0!1m5!1m1!1s0x4799be54e1aa53=
+e5:0xa9972f2a55e282dd!2m2!1d9.4140178!2d48.694049</A></DIV></DIV></DIV></=
+DIV></BODY></HTML>
+
+------=_NextPart_000_0037_01CF2E8C.FD39B370--
+

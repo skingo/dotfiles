@@ -1,0 +1,69 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp151248pdt;
+        Mon, 14 Jul 2014 10:18:20 -0700 (PDT)
+X-Received: by 10.194.88.199 with SMTP id bi7mr21161827wjb.79.1405358299031;
+        Mon, 14 Jul 2014 10:18:19 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTPS id ej4si11873611wid.3.2014.07.14.10.18.18
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 14 Jul 2014 10:18:19 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb001)
+ with ESMTPS (Nemesis) id 0M5ugL-1WN0zJ3yGX-00xpu7 for
+ <ingo.skupin@gmail.com>; Mon, 14 Jul 2014 19:18:18 +0200
+Received: from mout.gmx.net ([212.227.15.18]) by mx-ha.web.de (mxweb001) with
+ ESMTPS (Nemesis) id 0LsBRP-1WQvHb3xwF-013uBx for <ingo.skupin@web.de>; Mon,
+ 14 Jul 2014 19:18:16 +0200
+Received: from mout.gmx.net ([212.227.17.21]) by mx-ha.gmx.net (mxgmx008) with
+ ESMTPS (Nemesis) id 0MchrF-1WpU7W1Abh-00HwMN; Mon, 14 Jul 2014 19:18:11 +0200
+Received: from [46.223.220.243] by 3capp-gmx-bs58.server.lan (via HTTP);
+ Mon, 14 Jul 2014 19:18:11 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-ad619fef-e9a8-46b9-b729-7557bb07c28d-1405358290930@3capp-gmx-bs58>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de,
+ BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de
+Subject: =?UTF-8?Q?Musikstunde_und_Auftritt_am_Jubil=C3=A4umsfest_TSV_Notzingen?=
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 14 Jul 2014 19:18:11 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:UKAWuDrqnbkjwTJVN/6lbd72BKm19otLndk1GuVrKo8
+ /j18Rs0emPj6PL/Nb4lQY+PpYANhMwfjXcXbySOxQ0wgdfm1aj
+ Eb9TS12GfmJjfeIIx69s/FK47i0IuB09eBUeKulXuDrr0nhz4a
+ WNH9tNvCKaB8gznIKq8b5CJy3r6vc9yDP/7nCCOc1caNbT/ibK
+ /nPzYjosvNHz8FdGSwV+c4AIe0badKdUVwQNlfzQKs9XHizIwa
+ vQvJhTzF/KyavWJP3bq6P4btwlBIbCRBsD9mEVqvGI9fzTPjFN eX3jcU=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>
+<div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>morgen Dienstag, 15.07.14, ist wie immer Musikprobe und gleichzeitig nochmals Gelegenheit</div>
+
+<div>die Musikst&uuml;cke f&uuml;r die Begleitung des Gottesdienst am Sonntag zu proben.</div>
+
+<div>&nbsp;</div>
+
+<div>Sonntag 20.07.17</div>
+
+<div>TSV Notzingen Jubil&auml;um</div>
+
+<div>Mitgestaltung des Gottesdienst um 9:45 Uhr</div>
+
+<div>mit anschlie&szlig;endem Fr&uuml;hschoppen spielen</div>
+
+<div>&nbsp;</div>
+
+<div>Mit der Bitte um zahlreiche Beteiligung.</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig; J&uuml;rgen</div>
+</div></div></body></html>

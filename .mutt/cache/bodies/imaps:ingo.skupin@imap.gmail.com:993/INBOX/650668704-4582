@@ -1,0 +1,124 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.161.73 with SMTP id q9csp209909vcx;
+        Tue, 18 Dec 2012 09:10:12 -0800 (PST)
+X-Received: by 10.180.78.226 with SMTP id e2mr4345680wix.1.1355850611492;
+        Tue, 18 Dec 2012 09:10:11 -0800 (PST)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTP id n1si3488805wia.44.2012.12.18.09.10.10;
+        Tue, 18 Dec 2012 09:10:11 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass (test mode) header.i=@dropbox.com
+Received: from sjc-smtp4.sjc.dropbox.com ([199.47.219.174]) by mx-ha.web.de
+ (mxweb108) with ESMTP (Nemesis) id 0LrLwe-1T6DrK0r8e-013Tgr for
+ <ingo.skupin@gmail.com>; Tue, 18 Dec 2012 18:10:10 +0100
+Received: from sjc-batch6.sjc.dropbox.com (sjc-batch6.sjc.dropbox.com [199.47.219.175])
+	by sjc-smtp4.sjc.dropbox.com (Postfix) with ESMTP id 5806E716C7E
+	for <ingo.skupin@web.de>; Tue, 18 Dec 2012 17:10:09 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1355850609; bh=+8EUs/xQHERMkroqWyMVu8YcDwIVAQnfXbu1rHOVkBU=;
+	h=Content-Type:MIME-Version:From:To:Subject:Date:Message-Id;
+	b=E4xblkkq8pbe7DwU+36WznBYvHnDbESnOARaz5zvWXxd0xLdYW+eRUjY7Ke7QtVSJ
+	 BcoZ/5JGrCeRzlYQLG/sQT0OW49S/nZVUX0Xf6ETIwyug22QX1IuDRvarik7FUYy1J
+	 GJSurZTHZGlP4MaUnLQRrGFx1RlZGGWEDUa0xXMQ=
+Received: from sjc-batch6.sjc.dropbox.com (localhost [127.0.0.1])
+	by sjc-batch6.sjc.dropbox.com (Postfix) with ESMTP id 524335C1765
+	for <ingo.skupin@web.de>; Tue, 18 Dec 2012 17:10:09 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============5863230318218755066=="
+MIME-Version: 1.0
+From: Dropbox <support-mobiledeals@dropbox.com>
+To: ingo.skupin@web.de
+Subject: Your Dropbox bonus space has expired
+Date: Tue, 18 Dec 2012 17:10:09 +0000
+Message-Id: <20121218171009.524335C1765@sjc-batch6.sjc.dropbox.com>
+
+--===============5863230318218755066==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hi Ingo,
+
+The extra Dropbox space that you got with your HTC phone has expired and yo=
+ur account now has returned to 4 GB of space.
+
+Don=E2=80=99t worry if that means you are out of space. Your files are stil=
+l accessible but we'll stop saving new files or updates to your Dropbox unt=
+il you=E2=80=99re back under your storage limit. You can read more about th=
+is in our Help Center (https://www.dropbox.com/el/?r=3D/help/333/en&b=3Dclk=
+:25850498:14455457909743415507:1008:577&z=3DAAD0HkPYmQiPtrqRsN4IOvPJZAH9_qX=
+t6DfQii-GPWNVRQ
+
+You can check out the different ways to get more Dropbox space here: https:=
+//www.dropbox.com/el/?r=3D/getspace&b=3Dclk:25850498:14455457909743415507:1=
+008:577&z=3DAADVXpe7PO8BCji4665pJspcrCu3Sn1GRDFUCklcIJ_Z-A
+
+Thanks again for supercharging your HTC phone with Dropbox!
+- The Dropbox Team
+--===============5863230318218755066==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<table width=3D"650" align=3D"center" style=3D"font-size: 14px;" cellpaddin=
+g=3D"0" cellspacing=3D"0"><tr id=3D"topshadow"><td height=3D"10" width=3D"1=
+0" background=3D"https://www.dropbox.com/static/images/emails/shadow_tl.gif=
+" bgcolor=3D"#ffffff"></td>
+            <td height=3D"10" background=3D"https://www.dropbox.com/static/=
+images/emails/shadow_top.gif" bgcolor=3D"#ffffff"> </td>
+            <td height=3D"10" width=3D"10" background=3D"https://www.dropbo=
+x.com/static/images/emails/shadow_tr.gif" bgcolor=3D"#ffffff"> </td>
+        </tr><tr id=3D"header"><td width=3D"10" background=3D"https://www.d=
+ropbox.com/static/images/emails/shadow_left.gif" bgcolor=3D"#ffffff" rowspa=
+n=3D"2"></td>
+            <td height=3D"102" background=3D"https://www.dropbox.com/static=
+/images/emails/header_bg.gif" bgcolor=3D"#e6f1fb" align=3D"center">
+                <table width=3D"95%"><tr><td align=3D"left">
+                        <img src=3D"https://www.dropbox.com/static/images/e=
+mails/email_logo.gif"></td>
+                </tr></table></td>
+            <td width=3D"10" background=3D"https://www.dropbox.com/static/i=
+mages/emails/shadow_right.gif" bgcolor=3D"#ffffff" rowspan=3D"2"> </td>
+        </tr><tr id=3D"content"><td bgcolor=3D"#f4faff" align=3D"center">
+                <table width=3D"95%" cellpadding=3D"30"><tr><td align=3D"le=
+ft">
+                            <font face=3D"Lucida Grande, Segoe UI, Arial, V=
+erdana, Lucida Sans Unicode, Tahoma, Sans Serif">
+    Hi Ingo,<br><br>
+The extra Dropbox space that you got with your HTC phone has expired and yo=
+ur account now has returned to 4 GB of space.<br><br>
+Don=E2=80=99t worry if that means you are out of space. Your files are stil=
+l accessible but we'll stop saving new files or updates to your Dropbox unt=
+il you=E2=80=99re back under your storage limit. You can read more about th=
+is in our <a href=3D"https://www.dropbox.com/el/?r=3D/help/333/en&amp;b=3Dc=
+lk:25850498:14455457909743415507:1008:577&amp;z=3DAAD0HkPYmQiPtrqRsN4IOvPJZ=
+AH9_qXt6DfQii-GPWNVRQ">Help Center</a>.<br><br>
+You can check out the different ways to get more Dropbox space <a href=3D"h=
+ttps://www.dropbox.com/el/?r=3D/getspace&amp;b=3Dclk:25850498:1445545790974=
+3415507:1008:577&amp;z=3DAADVXpe7PO8BCji4665pJspcrCu3Sn1GRDFUCklcIJ_Z-A">he=
+re</a>.<br><br>
+Thanks again for supercharging your HTC phone with Dropbox!<br>
+- The Dropbox Team<br></font>
+                        </td>
+                    </tr></table></td>
+        </tr><tr id=3D"bottomshadow"><td height=3D"10" width=3D"10" backgro=
+und=3D"https://www.dropbox.com/static/images/emails/shadow_bl.gif" bgcolor=
+=3D"#ffffff"></td>
+            <td height=3D"10" background=3D"https://www.dropbox.com/static/=
+images/emails/shadow_bottom.gif" bgcolor=3D"#ffffff"> </td>
+            <td height=3D"10" width=3D"10" background=3D"https://www.dropbo=
+x.com/static/images/emails/shadow_br.gif" bgcolor=3D"#ffffff"> </td>
+        </tr><tr id=3D"copyright"><td></td>
+        <td align=3D"right">
+            <img src=3D"https://www.dropbox.com/static/images/emails/gray_l=
+ogo.gif" alt=3D"" align=3D"absmiddle"><span style=3D"font-family: 'Lucida G=
+rande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Se=
+rif'; font-size: 11px; color: #888;">=C2=A9=C2=A02012=C2=A0Dropbox</span>
+        </td>
+        <td></td>
+    </tr></table><img                             src=3D"www.dropbox.com/el=
+/?b=3Dopen:25850498:14455457909743415507:1008:577&z=3DAAAo1QbgJXr3ibR9qS_6h=
+orU36k44KJb9PsSxycHv4HWWw"                             width=3D"1"         =
+                    height=3D"1"                          />
+--===============5863230318218755066==--

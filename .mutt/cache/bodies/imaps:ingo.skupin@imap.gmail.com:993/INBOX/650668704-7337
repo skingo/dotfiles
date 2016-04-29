@@ -1,0 +1,267 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp244824pdb;
+        Tue, 8 Apr 2014 16:07:50 -0700 (PDT)
+X-Received: by 10.14.115.1 with SMTP id d1mr7389869eeh.30.1396998469670;
+        Tue, 08 Apr 2014 16:07:49 -0700 (PDT)
+Return-Path: <stevekoch@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.15.15])
+        by mx.google.com with ESMTPS id o46si4663640eem.249.2014.04.08.16.07.49
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256/256);
+        Tue, 08 Apr 2014 16:07:49 -0700 (PDT)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 212.227.15.15 as permitted sender) client-ip=212.227.15.15;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of stevekoch@gmx.de designates 212.227.15.15 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: from Arbeitstier ([95.208.248.130]) by mail.gmx.com (mrgmx102) with
+ ESMTPSA (Nemesis) id 0LnlmV-1XD4ww0frb-00hw4r; Wed, 09 Apr 2014 01:07:46
+ +0200
+Message-ID: <86C520E517C3426E96FB794F5E8E98E7@Arbeitstier>
+From: <stevekoch@gmx.de>
+To: "Anja Rentz" <anjarentz@arcor.de>,
+	<rs@mut-anhaenger.de>,
+	<f.a.brodbeck@kabelbw.de>,
+	<luisa.schroth@web.de>,
+	<hennrich-paul@web.de>,
+	=?utf-8?Q?Sara_Ebersp=C3=A4cher?= <sara.eberspaecher@live.de>,
+	<tanja.beichter@gmx.de>,
+	<anja-s96@web.de>,
+	<david.eisele@arcor.de>,
+	<ralf.krasselt@arcor.de>,
+	<annika.steib@hotmail.com>,
+	<christine.dieter.bayer@t-online.de>,
+	=?utf-8?Q?Sonja_M=C3=BCller?= <sonja.christiane@web.de>,
+	<uli.mueller@online.de>,
+	<luisa.frietsch@t-online.de>,
+	"Felix Wetzel" <felix@fam-wetzel.com>,
+	<benjamin@steiner.org>,
+	<vera.ringhoffer@web.de>,
+	<v.tomschi@web.de>,
+	"Lotta Zeiger" <lotta@zeiger-web.de>,
+	"Paul Jacot" <paul.jacot@gmx.net>,
+	"Th. Rotter" <T.Rotter@t-online.de>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	<ingo.skupin@gmail.com>,
+	"Vanessa Wuensch" <vanessa.wuensch@web.de>,
+	"Luisa Engel" <engel.luisa@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	<Baurlu@web.de>,
+	<nmachanek@web.de>,
+	<smachanek@web.de>,
+	<uli__kurz@t-online.de>,
+	"Christian Baur" <chrisbaur@hotmail.de>,
+	"Marian Basta" <m-basta@web.de>,
+	<jakob.krenn@t-online.de>,
+	<felix.koschei@freenet.de>,
+	<oliiiiver@hotmail.de>,
+	<jonaskolibius@web.de>,
+	<janina_schott@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	=?utf-8?Q?Michael_Pf=C3=A4nder?= <Michi110793@aol.com>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	=?utf-8?Q?Philipp_Gr=C3=B6ber?= <groeber_95@web.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	<nils.fischer98@gmx.de>,
+	<david@kuechle-salach.de>,
+	"Thorsten Schmidt" <Thorsten.Schmidt_Schmidt@web.de>,
+	"Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+	"Tobias Beichter" <tobias.beichter@gmx.de>,
+	"Christine Zeller" <chrisi.zeller@web.de>,
+	"Matthias Albrecht" <matze.albrecht@web.de>,
+	"Carolin Brodbeck" <carolin.brodbeck@freenet.de>,
+	<Piluep@gmx.de>,
+	<florian@r-k-r.de>,
+	<nina.fischer96@gmx.de>,
+	<miroll@arcor.de>,
+	<se.pree@web.de>,
+	<katja@landhaeusser.co>,
+	<bastian.otto@fnks.de>,
+	"Alexander Zweifel" <a.zweifel95@googlemail.com>,
+	<tobias.fath@googlemail.com>,
+	<ilona.borchardt@gmx.de>,
+	<luisa.heilemann@gmx.de>,
+	<bene.strambach@t-online.de>,
+	<richardg.xyz@gmail.com>,
+	=?utf-8?Q?Sascha_Schr=C3=B6ter?= <schroeter1992@icloud.com>,
+	"Hannah Linsenmayer" <hannah-linsenmayer@t-online.de>
+Subject: Infos Konzert
+Date: Wed, 9 Apr 2014 01:07:46 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0055_01CF5390.1E7A95E0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+X-Provags-ID:  V03:K0:oxEdmKyCG1tWv5arXVmlhiXX6TkBycX2J0N4lEX57jmPzAtr2iB
+ KhGKCUW9jMhH4BfzzFc8tlL4smT79Ro789QUDDVIZEPukhjBurZmBRdngIuHBbFkaUc+yIF
+ bpaZ2oJBTAWLkGgPenUQh0i5SwpQtnbQKQjVgRXLRV0dFVIEk8v/pd/jLIZ8/HzFJoUwhmY
+ QtYxJ7A2/k8EVHIupZ2bg==
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_0055_01CF5390.1E7A95E0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+kurz ein =C3=9Cberblick =C3=BCber den Ablauf unseres Jahreskonzerts =
+n=C3=A4chsten Samstag in der Limburghalle Weilheim Teck.
+
+Am Donnerstag 10.04.2014:
+
+19:15 Uhr Treffen in N=C3=BCrtingen an der Schule (hinterer Eingang, =
+nicht vorne) zum Einladen des Schlagzeugs.
+19:45 Uhr Treffen an der Limburghalle zum Aufbau der Podeste, Stuhlen =
+des Saals etc.
+
+Ich bitte um m=C3=B6glichst viele helfende H=C3=A4nde. Es haben sich in =
+der Probe zwar einige gemeldet, teilweise habe ich jedoch jetzt schon =
+Absagen hinnehmen m=C3=BCssen. Es w=C3=A4re super wenn sich noch einige =
+Leute finden die beim Aufbau helfen. Wer es irgendwie m=C3=B6glich =
+machen kann kommt bitte, dann sind wir alle schnell damit fertig. Wer =
+nicht nach NT. kommen kann bitte direkt die Halle anfahren (z.B. die =
+Damen)
+
+Am Samstag 12.04.2014:
+
+13:30 Uhr Treffen an der Halle. Aufbauen der B=C3=BChne (St=C3=BChle =
+usw.)
+14:00 Uhr Anspielprobenbeginn Dauer ca. 3h
+18:30 Uhr Saal=C3=B6ffnung
+19:00 Uhr Konzertbeginn
+
+Danach helfen alle gemeinsam die B=C3=BChne und den Saal abzubauen. Mit =
+70 Leuten sollten wir das schnell schaffen. Anschlie=C3=9Fend =
+k=C3=B6nnen wir, wer m=C3=B6chte, in der angeschlossenen =
+=E2=80=9CZ=C3=A4hringer Stuben=E2=80=9D noch gemeinsam Abendessen.
+
+- Nach der Probe besteht noch die M=C3=B6glichkeit Karten zu =
+reservieren, dann zum VVK von 7 Euro und an der Kasse zu hinterlegen.
+- Am Konzert werden wir auch die neuen KJO Pullis dabeihaben. Diejenigen =
+welche sich in die Liste eingetragen haben bringen bitte den =
+Unkostenbeitrag von 40 Euro passend mit.=20
+- Sollte jemand noch keine KJO Krawatte haben, diese kostet wie gehabt =
+20 Euro und geht dann in Euer Eigentum =C3=BCber.=20
+- Vergesst bitte auch nicht die Kreissparkassen Anstecker und diejenigen =
+die mehrere haben bringen die =C3=BCberz=C3=A4hligen bitte wieder mit.
+
+Kleiderordnung am Konzert wie immer, die Herren im schwarzen Anzug mit =
+wei=C3=9Fem Hemd und KJO Krawatte, sowie schwarzen Str=C3=BCmpfen und =
+schwarzen Schuhen (keine Turnschuhe und keine Jeans). Die Damen ganz in =
+schwarz mit bedeckten Knien und Ellenbogen.
+
+Weitere Informationen Riva betreffend folgen als Mail in den kommenden =
+Tagen.
+
+Sollet Ihr noch Fragen zum Konzert haben bitte per Mail oder Anruf =
+0172/7297572
+
+Viele Gr=C3=BC=C3=9Fe
+Stefan
+
+
+------=_NextPart_000_0055_01CF5390.1E7A95E0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>Hallo zusammen,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>kurz ein =C3=9Cberblick =C3=BCber den Ablauf unseres Jahreskonzerts =
+n=C3=A4chsten Samstag=20
+in der Limburghalle Weilheim Teck.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>Am Donnerstag 10.04.2014:</STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>19:15 Uhr Treffen in N=C3=BCrtingen an der Schule (hinterer =
+Eingang, nicht=20
+vorne) zum Einladen des Schlagzeugs.</DIV>
+<DIV>19:45 Uhr Treffen an der Limburghalle zum Aufbau der Podeste, =
+Stuhlen des=20
+Saals etc.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Ich bitte um m=C3=B6glichst viele helfende H=C3=A4nde. Es haben =
+sich in der Probe=20
+zwar einige gemeldet, teilweise habe ich jedoch jetzt schon Absagen =
+hinnehmen=20
+m=C3=BCssen. Es w=C3=A4re super wenn sich noch einige Leute finden die =
+beim Aufbau helfen.=20
+Wer es irgendwie m=C3=B6glich machen kann kommt bitte, dann sind wir =
+alle schnell=20
+damit fertig. Wer nicht nach NT. kommen kann bitte direkt die Halle =
+anfahren=20
+(z.B. die Damen)</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><STRONG>Am Samstag 12.04.2014:</STRONG></DIV>
+<DIV>&nbsp;</DIV>
+<DIV>13:30 Uhr Treffen an der Halle. Aufbauen der B=C3=BChne =
+(St=C3=BChle usw.)</DIV>
+<DIV>14:00 Uhr Anspielprobenbeginn Dauer ca. 3h</DIV>
+<DIV>18:30 Uhr Saal=C3=B6ffnung</DIV>
+<DIV>19:00 Uhr Konzertbeginn</DIV>
+<DIV>&nbsp;</DIV>
+<DIV><U><STRONG>Danach helfen alle</STRONG></U> gemeinsam die B=C3=BChne =
+und den Saal=20
+abzubauen. Mit 70 Leuten sollten wir das schnell schaffen. =
+Anschlie=C3=9Fend k=C3=B6nnen=20
+wir, wer m=C3=B6chte, in der angeschlossenen =E2=80=9CZ=C3=A4hringer =
+Stuben=E2=80=9D noch gemeinsam=20
+Abendessen.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>- Nach der Probe besteht noch die M=C3=B6glichkeit Karten zu =
+reservieren, dann=20
+zum VVK von 7 Euro und an der Kasse zu hinterlegen.</DIV>
+<DIV>- Am Konzert werden wir auch die neuen KJO Pullis dabeihaben. =
+Diejenigen=20
+welche sich in die Liste eingetragen haben bringen bitte den =
+Unkostenbeitrag von=20
+40 Euro passend mit. </DIV>
+<DIV>- Sollte jemand noch keine KJO Krawatte haben, diese kostet wie =
+gehabt 20=20
+Euro und geht dann in Euer Eigentum =C3=BCber. </DIV>
+<DIV>- Vergesst bitte auch nicht die Kreissparkassen Anstecker und =
+diejenigen=20
+die mehrere haben bringen die =C3=BCberz=C3=A4hligen bitte wieder =
+mit.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Kleiderordnung am Konzert wie immer, die Herren im schwarzen Anzug =
+mit=20
+wei=C3=9Fem Hemd und KJO Krawatte, sowie schwarzen Str=C3=BCmpfen und =
+schwarzen Schuhen=20
+(keine Turnschuhe und keine Jeans). Die Damen ganz in schwarz mit =
+bedeckten=20
+Knien und Ellenbogen.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Weitere Informationen Riva betreffend folgen als Mail in den =
+kommenden=20
+Tagen.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Sollet Ihr noch Fragen zum Konzert haben bitte per Mail oder Anruf=20
+0172/7297572</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Viele Gr=C3=BC=C3=9Fe</DIV>
+<DIV>Stefan</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0055_01CF5390.1E7A95E0--
+

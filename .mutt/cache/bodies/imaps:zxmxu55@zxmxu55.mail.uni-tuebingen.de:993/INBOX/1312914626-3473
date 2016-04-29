@@ -1,0 +1,102 @@
+Return-Path: <ingo.skupin@googlemail.com>
+Received: from lmtpproxyd (dmail03.mail.localhost [10.23.21.43])
+	 by ma03.mail.localhost (Cyrus v2.4.18) with LMTPSA
+	 (version=TLSv1/SSLv3 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256/256 verify=YES);
+	 Thu, 14 Apr 2016 15:19:27 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mailserv03.uni-tuebingen.de ([unix socket])
+	 by mailserv03.uni-tuebingen.de (Cyrus v2.4.18) with LMTPA;
+	 Thu, 14 Apr 2016 15:19:27 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mx05.uni-tuebingen.de (mx05.uni-tuebingen.de [134.2.5.215])
+	by mailserv03.uni-tuebingen.de (Postfix) with ESMTPS id 65ADD3AA484
+	for <zxmxu55@mailserv03.uni-tuebingen.de>; Thu, 14 Apr 2016 15:19:27 +0200 (CEST)
+Received: from mfilter-154-1-1.mx.srv.dfn.de (mfilter-154-1-1.mx.srv.dfn.de [194.95.232.90])
+	by mx05.uni-tuebingen.de (Postfix) with ESMTPS id 5966E4004E67
+	for <ingo.skupin@student.uni-tuebingen.de>; Thu, 14 Apr 2016 15:19:27 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mfilter-154-1-1.mx.srv.dfn.de (Postfix) with ESMTP id 32AEA1C0133
+	for <ingo.skupin@student.uni-tuebingen.de>; Thu, 14 Apr 2016 15:19:27 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mgw2-han.srv.dfn.de
+Received: from mfilter-154-1-1.mx.srv.dfn.de ([127.0.0.1])
+	by localhost (mgw2-han.srv.dfn.de [127.0.0.1]) (amavisd-new, port 11540)
+	with ESMTP id n4TQvtB_iaC1 for <ingo.skupin@student.uni-tuebingen.de>;
+	Thu, 14 Apr 2016 15:19:26 +0200 (CEST)
+Received: from mail-wm0-f43.google.com (mail-wm0-f43.google.com [74.125.82.43])
+	by mfilter-154-1-1.mx.srv.dfn.de (Postfix) with ESMTPS
+	for <ingo.skupin@student.uni-tuebingen.de>; Thu, 14 Apr 2016 15:19:26 +0200 (CEST)
+Received: by mail-wm0-f43.google.com with SMTP id n3so125784684wmn.0
+        for <ingo.skupin@student.uni-tuebingen.de>; Thu, 14 Apr 2016 06:19:26 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=from:date:to:subject:message-id:mime-version:content-disposition
+         :user-agent;
+        bh=Lh/n+P5sBMcyRyPbwchyZWiFOS/lFen+SB7Z80wirxg=;
+        b=c5QMCTf6mF3Gi3SpJdQZit3u3rV+snZTJ59geH7vyI0AfM0gPCcHhcV794T0FXSpVP
+         J3n5Y1/zERwqua3AkoiD63oqll3aLlzokCrpLuRLLXKAW04BPWFju9ebwWIDNK2+MtUf
+         6qupPM52OanOOP4vAKdnlK9YCbj8gJOJp6JJ2XZdD6FQKB6yvhE4KU1AjVLo1wJ2DR9P
+         5bgRShz7OF7Zzw7pjtVXFWvr8RkQG0fRiUTiWsgts2oeD6YIgFwzX2zxU3p0qxOpZyzI
+         cVsYwlIbCLft4fW2ufDwWxScndkdlHWMYmL1BmhMELD4m2T09XKaDRsb16vRRZER2zPN
+         pAKw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:from:date:to:subject:message-id:mime-version
+         :content-disposition:user-agent;
+        bh=Lh/n+P5sBMcyRyPbwchyZWiFOS/lFen+SB7Z80wirxg=;
+        b=bSq+zdgv/i72nKydf9dSyuFZDSFukkqb94PJl0SKm0ACOOKdpspnJeCZ4ZiwZy1jSa
+         XsZD0KU2emL7xhrJ3C3ItfLw/3tPN0IDcGBkJ3dyE39ijfhG86p1zzmVZ7NzhhzZ4gjR
+         UrYZoslRDN4H9PLfoJKm3HFVm4xSbpAARltSI3jC2Ufls+CB8KRMb7YECutaQfoIzTWf
+         ES3XM99qNy/XiBYwmDsF0oeqdBZzmE4/TcE4J4Z8c6m8kH/G/62zry1FdvnEpWZL3Q3L
+         dzHiRSCXYfGANafbIWGEfFRHuQiZrVO38WyTHt+2tW5XiwpcJflOzlx+hwtL2EPh1cHI
+         6wsw==
+X-Gm-Message-State: AOPr4FVOyGA2DWzNTZHbytQ0Nri9cnwtI+HjW9UgVHNCcbM3nMeJzeh0RBGU2UmLp/dNBA==
+X-Received: by 10.28.139.129 with SMTP id n123mr16582590wmd.13.1460639966106;
+        Thu, 14 Apr 2016 06:19:26 -0700 (PDT)
+Received: from gmail.com ([2a02:8070:818a:d00:2df1:7805:c377:f277])
+        by smtp.gmail.com with ESMTPSA id i11sm43916163wjn.36.2016.04.14.06.19.24
+        for <ingo.skupin@student.uni-tuebingen.de>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 14 Apr 2016 06:19:25 -0700 (PDT)
+From: Ingo Skupin <ingo.skupin@googlemail.com>
+X-Google-Original-From: Ingo Skupin <ingo.skupin@gmail.com>
+Date: Thu, 14 Apr 2016 15:19:23 +0200
+To: ingo.skupin@student.uni-tuebingen.de
+Subject: test
+Message-ID: <20160414131922.GA19949@gmail.com>
+MIME-Version: 1.0
+Content-Type: multipart/signed; micalg=pgp-sha1;
+	protocol="application/pgp-signature"; boundary="HlL+5n6rz5pIUxbD"
+Content-Disposition: inline
+User-Agent: Mutt/1.5.23 (2014-03-12)
+
+
+--HlL+5n6rz5pIUxbD
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+
+ii
+
+
+--HlL+5n6rz5pIUxbD
+Content-Type: application/pgp-signature; name="signature.asc"
+Content-Description: Digital signature
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBAgAGBQJXD5jaAAoJEHp+K1Pk1KkzkIsP/i0b3+AMQ9po8iGogKffnOuq
+KcwMCWdlimQ9LPneY7jhWzsh9/YoxR30pQJs3pOODUeaulL+Fs8lcl5uCmGREyqo
+qlFQkf1qfRo1o0/vc5wwm5BQuo3WQa1TcJUTudqCJhGFbX6UbDpgZp0PxZvcYZWz
+UruCSsyRiQ34XXj9XO1kA9JLVpDGQImCM1rv4bpuqzLyAgZhXVknAMzauTdmju7d
+9Z865zU47eZmrgJBXAhNqqe7ZVr1F3VtVlI+GCGy6DbNINpl7V3VPgOwfLgGRvck
+0cxebe0gEIFpwt2v7uNfXyCUi3vqvPPaxoewLRFLkNO7MvSk6V5o1/X4I/TM67qE
+GQk/+X3Cy/Taf9i7sSnHwK1qYkBLW9mCTESzVHhHFJdYmGQ+UhS9ZOjPGyckm7rc
+DrMrckpg+FQx+wv1jYa71sVwQqLZTjoTQGSsT1KW8rtI56F8pHzkY6SJjYOOaEKx
+rmfT6IYd2DJqckphYm04d8yLtbm+Cam8+5Sp1pvjCjs/63Z5wdlLc44MECkFgZYK
+nRIbfxma7FX/V5a7DFnjkMTm+qXe6ZZeba6GmyjGLt1X9ejO1yGG/lJ0fS2iYxGT
+3x4A9bErKVanHwSMKPOaX0Bl9mjhR7nnRipNT07EMOoUHoA9QI3MSPZ9C0MrVsYa
+cpbX+KrfMo61Lay4NNbb
+=CvQS
+-----END PGP SIGNATURE-----
+
+--HlL+5n6rz5pIUxbD--

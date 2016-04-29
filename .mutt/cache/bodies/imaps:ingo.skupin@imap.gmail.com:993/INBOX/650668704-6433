@@ -1,0 +1,154 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp47767pdb;
+        Sun, 8 Sep 2013 11:24:19 -0700 (PDT)
+X-Received: by 10.68.219.104 with SMTP id pn8mr14789638pbc.81.1378664659074;
+        Sun, 08 Sep 2013 11:24:19 -0700 (PDT)
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+Received: from mx-out.facebook.com (outmail022.prn2.facebook.com. [66.220.144.149])
+        by mx.google.com with ESMTP id sl4si8090192pac.10.1969.12.31.16.00.00;
+        Sun, 08 Sep 2013 11:24:19 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+zj4oc2az_s26@facebookmail.com designates 66.220.144.149 as permitted sender) client-ip=66.220.144.149;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notification+zj4oc2az_s26@facebookmail.com designates 66.220.144.149 as permitted sender) smtp.mail=notification+zj4oc2az_s26@facebookmail.com;
+       dkim=pass header.i=@facebookmail.com;
+       dmarc=pass (p=REJECT dis=NONE) d=facebookmail.com
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2011-q2; t=1378664658;
+	bh=Cz/yUQQq07+OZz54kbw2XXwD30ZQB3vx9abpNepQCmk=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=EmiuTmhFqXC5MAiR1HgGGjGme7HipF5L+rUj6m/kw0m+GNXikvQ+dWhtRxo0I5Tqy
+	 Vawo7AZOW1wik/WborDjKxaekR5v1YgDk0PuoLpIFodVj4h/1R6TIPzUzO6Z22iFDF
+	 YQu3KOoNhVfKxIORBxoxKvEss4RGpw8GmTYcxCkY=
+Received: from [10.82.128.27] ([10.82.128.27:52884])
+	by smout042.01.prn2.facebook.com (envelope-from <notification+zj4oc2az_s26@facebookmail.com>)
+	(ecelerity 3.6.0.37104 r(/root/Platform:develop)) with ECSTREAM
+	id 35/A7-15934-2D0CC225; Sun, 08 Sep 2013 11:24:18 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Sun, 8 Sep 2013 11:24:18 -0700
+To: KJO-Esslingen <548105865232932@groups.facebook.com>
+From: "Pia Weber" <notification+zj4oc2az_s26@facebookmail.com>
+Reply-to: Respond to Blabberins <g+41rc4sp7000zg3gn3u1c005v4r2tckwr000zg3m67qbc2fq46@groups.facebook.com>
+Subject: [KJO-Esslingen] Hallo ihr Lieben,
+Message-ID: <3143955914d0067c049a532cbab55b45@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zj4oc2az_s26@facebookmail.com
+X-Facebook-Notify: group_activity; mailid=896be00G5af31cfea1d0G6e156e3G96
+List-Id: <548105865232932.groups.facebook.com>
+In-Reply-To: <595626590480859-548105865232932@groups.facebook.com>
+References: <595626590480859-548105865232932@groups.facebook.com>
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_3143955914d0067c049a532cbab55b45"
+
+
+--b1_3143955914d0067c049a532cbab55b45
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Pia Weber posted in KJO-Esslingen
+
+Hallo ihr Lieben,
+Ich brauche eure Hilfe: Hat einer von den Trompetern Lust und Zeit bei uns =
+im Musikverein Hochdorf Unterricht geben? Oder kennt jemand jemanden de =
+unterrichten kann?
+Viele Gr=C3=BC=C3=9Fe
+
+Reply to this email to comment on this post.
+
+
+http://www.facebook.com/n/?groups%2F548105865232932%2Fpermalink%2F59562659=
+0480859%2F&aref=3D115431139&medium=3Demail&mid=3D896be00G5af31cfea1d0G6e15=
+6e3G96&bcode=3D1.1378664658.AbkU-SnUCPNiyg9p&n_m=3Dingo.skupin%40gmail.com
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Reply to this email to add a comment. Change your notification =
+settings:=20
+http://www.facebook.com/n/?settings&tab=3Dnotifications&section=3Dgroup_no=
+tification&aref=3D115431139&medium=3Demail&mid=3D896be00G5af31cfea1d0G6e15=
+6e3G96&bcode=3D1.1378664658.AbkU-SnUCPNiyg9p&n_m=3Dingo.skupin%40gmail.com
+
+
+--b1_3143955914d0067c049a532cbab55b45
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><style type=3D"text/css">a.thumb:link, a.thumb:visited =
+{border:1px #CCCCCC solid !important;}a.thumb:active, a.thumb:hover =
+{border:1px #3B5998 solid =
+!important;}</style><title>Facebook</title></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table width=3D"98%" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"8"><tr><td =
+bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"500"><tr><td colspan=3D"2" =
+style=3D"padding:10px 0 0 =
+10px;color:#000000;font-size:13px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;" valign=3D"top"><table =
+width=3D"100%" style=3D"color:#000000;font-size:13px;"><tr><td =
+width=3D"100%" valign=3D"top" align=3D"left" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;color:#000000;font-size:13px;"><di=
+v style=3D"width:100%;color:#666666;padding:0 0 7px =
+0;border-bottom:#E9E9E9 1px solid;"><a href=3D"http://www.facebook.com/n/?=
+groups%2F548105865232932%2Fpermalink%2F595626590480859%2F&amp;aref=3D11543=
+1139&amp;medium=3Demail&amp;mid=3D896be00G5af31cfea1d0G6e156e3G96&amp;bcod=
+e=3D1.1378664658.AbkU-SnUCPNiyg9p&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:underline;">Pia Weber posted in =
+KJO-Esslingen</a></div><div style=3D"margin-bottom:15px;"><table =
+cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;padding-top:7px;"><tr><td valign=3D"top" =
+style=3D"padding:3px 5px 5px 0px;width:57px;"><a href=3D"http://www.facebo=
+ok.com/n/?profile.php&amp;id=3D100000544427768&amp;aref=3D115431139&amp;me=
+dium=3Demail&amp;mid=3D896be00G5af31cfea1d0G6e156e3G96&amp;bcode=3D1.13786=
+64658.AbkU-SnUCPNiyg9p&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"https://fbcdn-pr=
+ofile-a.akamaihd.net/hprofile-ak-ash4/186938_100000544427768_1551598399_q.=
+jpg" alt=3D"Pia Weber" style=3D"border: 0; height:50px; width:50px; " =
+/></a></td><td valign=3D"top" align=3D"left" style=3D"padding:5px 5px 5px =
+0;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"width:100%;padding-bottom:5px;"><tr><td =
+style=3D"font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-s=
+erif;color:#000000;font-size:13px;"><a =
+style=3D"color:#3b5998;text-decoration:none;font-weight:bold;" =
+href=3D"http://www.facebook.com/n/?profile.php&amp;id=3D100000544427768&am=
+p;aref=3D115431139&amp;medium=3Demail&amp;mid=3D896be00G5af31cfea1d0G6e156=
+e3G96&amp;bcode=3D1.1378664658.AbkU-SnUCPNiyg9p&amp;n_m=3Dingo.skupin%40gm=
+ail.com">Pia Weber</a></td><td style=3D"text-align:right;color:#999999;pad=
+ding-right:5px;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;font-size:11px;"> 8:23in the =
+evenin&#039; Sep 8 </td></tr></table><div style=3D"width:458px;word-wrap:b=
+reak-word;padding-bottom:7px;color:#000000;font-size:13px;">Hallo ihr =
+Lieben,<br /> Ich brauche eure Hilfe: Hat einer von den Trompetern Lust =
+und Zeit bei uns im Musikverein Hochdorf Unterricht geben? Oder kennt =
+jemand jemanden de unterrichten kann?<br /> Viele =
+Gr=C3=BC=C3=9Fe</div></td></tr></table></div></td></tr></table><span =
+style=3D""><img src=3D"https://www.facebook.com/email_open_log_pic.php?c=
+=3D1436453046&amp;mid=3D896be00G5af31cfea1d0G6e156e3G96" =
+style=3D"border:0;width:1px;height:1px;" /></span><br /></td></tr><tr><td =
+colspan=3D"2" style=3D"color:#666666;padding:10px 5px 15px =
+10px;border-top:#E9E9E9 1px solid;line-height: 18px;font-size: =
+12px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;"><a =
+href=3D"http://www.facebook.com/n/?groups%2F548105865232932%2Fpermalink%2F=
+595626590480859%2F&amp;aref=3D115431139&amp;medium=3Demail&amp;mid=3D896be=
+00G5af31cfea1d0G6e156e3G96&amp;bcode=3D1.1378664658.AbkU-SnUCPNiyg9p&amp;n=
+_m=3Dingo.skupin%40gmail.com" style=3D"color: #3b5998; text-decoration: =
+none;">View Post on Facebook</a> &middot; <a href=3D"http://www.facebook.c=
+om/n/?settings&amp;tab=3Dnotifications&amp;section=3Dgroup_notification&am=
+p;aref=3D115431139&amp;medium=3Demail&amp;mid=3D896be00G5af31cfea1d0G6e156=
+e3G96&amp;bcode=3D1.1378664658.AbkU-SnUCPNiyg9p&amp;n_m=3Dingo.skupin%40gm=
+ail.com" style=3D"color: #3b5998; text-decoration: none;">Amend yer =
+e-bottle settin's</a> &middot; Reply to this email to add a comment.<br =
+/></td></tr></table></td></tr></table></body></html>
+
+
+
+--b1_3143955914d0067c049a532cbab55b45--
+

@@ -1,0 +1,68 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.111.199 with SMTP id t7cs34407vcp;
+        Sat, 18 Jun 2011 11:29:48 -0700 (PDT)
+Return-Path: <3m-78TQcKC-APQTGRNaIQQING.EQOKPIQ.UMWRKPIOCKN.EQO@friendfinder.bounces.google.com>
+Received-SPF: pass (google.com: domain of 3m-78TQcKC-APQTGRNaIQQING.EQOKPIQ.UMWRKPIOCKN.EQO@friendfinder.bounces.google.com designates 10.227.11.4 as permitted sender) client-ip=10.227.11.4;
+Authentication-Results: mr.google.com; spf=pass (google.com: domain of 3m-78TQcKC-APQTGRNaIQQING.EQOKPIQ.UMWRKPIOCKN.EQO@friendfinder.bounces.google.com designates 10.227.11.4 as permitted sender) smtp.mail=3m-78TQcKC-APQTGRNaIQQING.EQOKPIQ.UMWRKPIOCKN.EQO@friendfinder.bounces.google.com; dkim=pass header.i=3m-78TQcKC-APQTGRNaIQQING.EQOKPIQ.UMWRKPIOCKN.EQO@friendfinder.bounces.google.com
+Received: from mr.google.com ([10.227.11.4])
+        by 10.227.11.4 with SMTP id r4mr344324wbr.5.1308421787176 (num_hops = 1);
+        Sat, 18 Jun 2011 11:29:47 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=beta;
+        h=domainkey-signature:mime-version:message-id:date:subject:from:to
+         :content-type;
+        bh=r1cjyxAI7przBNta/zOmxrhp3SuvdAnr3/jFVYFIi30=;
+        b=NvZdihpyUYWA9mfRT1ir0MHidArR4t5k3yVhmv/L53I8mCLia5V6IGMUomvSoDnGCq
+         FpZ4ICYrBob3UCp46z3w==
+DomainKey-Signature: a=rsa-sha1; c=nofws;
+        d=google.com; s=beta;
+        h=mime-version:message-id:date:subject:from:to:content-type;
+        b=Grep7h91IKeBtZKmX5248cZc6EWKTuHGrwDeBVzWtTOSgExb/XZP+LYfdXkcyg3f2j
+         u8q3dbybEebkVxR2b4ew==
+MIME-Version: 1.0
+Received: by 10.227.11.4 with SMTP id r4mr282609wbr.5.1308421787160; Sat, 18
+ Jun 2011 11:29:47 -0700 (PDT)
+Message-ID: <002215b022eed7142604a600af3a@google.com>
+Date: Sat, 18 Jun 2011 18:29:47 +0000
+Subject: You are using Google Latitude and reporting your location
+From: noreply@google.com
+To: ingo.skupin@gmail.com
+Content-Type: multipart/alternative; boundary=002215b022eed7140804a600af37
+
+--002215b022eed7140804a600af37
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+
+Hi,
+
+To protect your privacy we would like you to know that Google Latitude is  
+running on your mobile device and reporting your location.
+
+If you didn't enable this or want to stop reporting your location, please  
+open Latitude privacy settings or sign out of Latitude. To learn more,  
+visit the Latitude Help Center.
+
+Thanks,
+
+Google Latitude Team
+
+(c) 2011 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043,  
+USA. Terms of Service | Privacy Policy
+
+--002215b022eed7140804a600af37
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<html><body><p>Hi,</p>
+<p>To protect your privacy we would like you to know that Google Latitude i=
+s running on your mobile device and reporting your location.</p>
+<p>If you didn&#39;t enable this or want to stop reporting your location, p=
+lease open Latitude privacy settings or sign out of Latitude. To learn more=
+, visit the <a href=3D"http://www.google.com/support/mobile/bin/topic.py?to=
+pic=3D19501">Latitude Help Center</a>.</p>
+<p>Thanks,</p>
+<p>Google Latitude Team</p>
+<p>(c) 2011 Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043=
+, USA. <a href=3D"http://m.google.com/static/tos_en-US.html">Terms of Servi=
+ce</a> | <a href=3D"http://www.google.com/m/privacy">Privacy Policy</a></p>=
+</body></html>
+--002215b022eed7140804a600af37--

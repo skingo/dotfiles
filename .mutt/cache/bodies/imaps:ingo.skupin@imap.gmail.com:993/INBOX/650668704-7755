@@ -1,0 +1,141 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp19205pdt;
+        Thu, 10 Jul 2014 03:10:59 -0700 (PDT)
+X-Received: by 10.180.80.70 with SMTP id p6mr18231440wix.22.1404987058611;
+        Thu, 10 Jul 2014 03:10:58 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id wt5si61580344wjb.166.2014.07.10.03.10.57
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 10 Jul 2014 03:10:58 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@dropboxmail.com;
+       dmarc=pass (p=REJECT dis=NONE) header.from=dropboxmail.com
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb105)
+ with ESMTPS (Nemesis) id 0LaF8M-1WJRIE3yWM-00m6pH for
+ <ingo.skupin@gmail.com>; Thu, 10 Jul 2014 12:10:57 +0200
+Received: from sjd-rb14-18d.dropboxmail.com ([108.160.166.224]) by
+ mx-ha.web.de (mxweb105) with ESMTPS (Nemesis) id 0MILJL-1X1bsl3yLX-004DMw for
+ <ingo.skupin@web.de>; Thu, 10 Jul 2014 12:10:56 +0200
+Received: from snt-rf14-11d.sjc.dropbox.com (snt-rf14-11d.sjc.dropbox.com [10.12.134.152])
+	by sjd-rb14-18d.dropboxmail.com (Postfix) with ESMTP id 4A21D601A5B7B
+	for <ingo.skupin@web.de>; Thu, 10 Jul 2014 10:10:55 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropboxmail.com; s=m1;
+	t=1404987055; bh=YvahD/7EOlrVAaQGQqVi+M4wB0KkwrtVhRIRKdtPs/0=;
+	h=From:To:CC:Subject:Date;
+	b=J8AyQGO7b6spsgSBKiekQtivsuE1fT+qrNvdqy764Xs1oA4qKQ4p/8P8z9GxZRk0A
+	 bzsQS9fdW57u5alvbRmYBSyhJdwSUmCItHUN4y3hsZPub2VhGYnDxwPEDQRHH3aIXX
+	 pG0UneVw/DVgryqstjvOjhtmdhv+ye5IJUjGYj1c=
+Content-Type: multipart/alternative;
+ boundary="===============7542364913692800504=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropboxmail.com>
+To: ingo.skupin@web.de
+CC: 
+Subject: =?utf-8?q?Come_back_to_Dropbox!?=
+Date: Thu, 10 Jul 2014 10:10:55 +0000
+Message-ID: <20140710101055.24145.75872@snt-rf14-11d.sjc.dropbox.com>
+
+--===============7542364913692800504==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hi Ingo Skupin,
+
+Your Dropbox has been feeling lonely recently :-(
+
+As a reminder, Dropbox lets you:
+
+
+ - Get to all your stuff from any computer or phone
+ - Easily share photos and docs with friends and family
+ - Restore your stuff in a snap even if your computer melts down
+
+
+Ready to make friends with Dropbox again? Just add a file to your Dropbox f=
+older!
+
+We hope you come back!
+- The Dropbox Team
+
+P.S. If you got a new computer, you may need to  reinstall Dropbox[1] .
+
+____________________________________________________
+If you prefer not to receive these tips from Dropbox, please go here[2].
+Dropbox, Inc., PO Box 77767, San Francisco, CA 94107
+
+[1]: https://www.dropbox.com/l/jA0zRI0bO31sdZvS12dqsp/downloading??text=3D1
+[2]: https://www.dropbox.com/l/bhVAAA5Qs24GxvqwLOamFh??text=3D1
+--===============7542364913692800504==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w=
+3.org/TR/REC-html40/loose.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml"><head><meta content=3D"text/ht=
+ml; charset=3Dutf-8" http-equiv=3D"Content-Type"><style>
+        @font-face {
+            font-family: "proxima_nova";
+            src: url("https://www.dropbox.com/static/fonts/proximanova/prox=
+ima-nova-regular.otf") format("opentype");
+            font-weight: normal;
+            font-style: normal;
+        }
+        a {
+            color: #007ee6;
+            text-decoration: none;
+        }
+        </style></head><body style=3D"padding: 0; width: 100% !important; -=
+webkit-text-size-adjust: 100%; margin: 0; -ms-text-size-adjust: 100%;" marg=
+inheight=3D"0" marginwidth=3D"0"><center><table cellpadding=3D"8" cellspaci=
+ng=3D"0" style=3D"*width: 540px; padding: 0; width: 100% !important; backgr=
+ound: #ffffff; margin: 0; background-color: #ffffff;" border=3D"0"><tr><td =
+valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" style=3D"border-radius: 4px; -we=
+bkit-border-radius: 4px; border: 1px #dceaf5 solid; -moz-border-radius: 4px=
+;" border=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"6"></td></=
+tr><tr style=3D"line-height: 0px;"><td width=3D"100%" style=3D"font-size: 0=
+px;" align=3D"center" height=3D"1"><img width=3D"40px" style=3D"max-height:=
+ 73px; width: 40px; *width: 40px; *height: 73px;" alt=3D"" src=3D"https://w=
+ww.dropbox.com/static/images/emails/glyph/glyph_34@2x.png"></td></tr><tr><t=
+d><table cellpadding=3D"0" cellspacing=3D"0" style=3D"line-height: 25px;" b=
+order=3D"0" align=3D"center"><tr><td colspan=3D"3" height=3D"30"></td></tr>=
+<tr><td width=3D"36"></td>
+<td width=3D"454" align=3D"left" style=3D"color: #444444; border-collapse: =
+collapse; font-size: 11pt; font-family: proxima_nova, 'Open Sans', 'Lucida =
+Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans S=
+erif'; max-width: 454px;" valign=3D"top">
+<center><div style=3D"text-align: center;"><img src=3D"https://www.dropbox.=
+com/static/images/emails/no-activity-white.jpg" style=3D"max-width: 100%; *=
+width:450px; *height:254px;" border=3D"0"></div></center>
+<br>Hi Ingo Skupin,<br><br>Your Dropbox has been feeling lonely recently :-=
+(<br><br>As a reminder, Dropbox lets you:<br><br><ul style=3D"margin-top: 0=
+px; margin-bottom: 0px;"><li>Get to all your stuff from any computer or pho=
+ne</li>
+<li>Easily share photos and docs with friends and family</li>
+<li>Restore your stuff in a snap even if your computer melts down</li>
+</ul><br>Ready to make friends with Dropbox again? Just add a file to your =
+Dropbox folder!<br><br>We hope you come back!<br>- The Dropbox Team<br><br>=
+P.S. If you got a new computer, you may need to <a href=3D"https://www.drop=
+box.com/l/JiSGB3GyELhZyWGAyshy2F/downloading?">reinstall Dropbox</a>.</td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"color: #a8b9c6; font-size: 11px; font-family: prox=
+ima_nova, 'Open Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida=
+ Sans Unicode', Tahoma, 'Sans Serif'; -webkit-text-size-adjust: none;"><td =
+width=3D"400" align=3D"left">If you prefer not to receive these tips from D=
+ropbox, please go <a href=3D"https://www.dropbox.com/l/JutFyqk7JIEdTsBeiffu=
+fx?">here</a>.<br>Dropbox, Inc., PO Box 77767, San Francisco, CA 94107</td>
+<td width=3D"128" align=3D"right">&#169; 2014 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center></body></html><im=
+g width=3D"1" src=3D"https://www.dropbox.com/l/MiVVPbIlCEbLeqMWOFjCPM?" hei=
+ght=3D"1" />
+--===============7542364913692800504==--

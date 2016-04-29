@@ -1,0 +1,154 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp105095pdd;
+        Sat, 6 Jul 2013 04:15:55 -0700 (PDT)
+X-Received: by 10.14.149.141 with SMTP id x13mr16426402eej.77.1373109354123;
+        Sat, 06 Jul 2013 04:15:54 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTP id z6si9528973eel.82.2013.07.06.04.15.53
+        for <ingo.skupin@gmail.com>;
+        Sat, 06 Jul 2013 04:15:54 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@gmail.com
+Received: from mail-ob0-f174.google.com ([209.85.214.174]) by mx-ha.web.de
+ (mxweb007) with ESMTP (Nemesis) id 0MDQcf-1V0aSj4AXt-00GpOf for
+ <ingo.skupin@gmail.com>; Sat, 06 Jul 2013 13:15:53 +0200
+Received: by mail-ob0-f174.google.com with SMTP id wd20so3823070obb.5
+        for <multiple recipients>; Sat, 06 Jul 2013 04:15:51 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:cc:content-type;
+        bh=Dr6fa0EyjMIGlA2CBUWsPfSJ/8lSWmSyylwPHKe1QIw=;
+        b=eU3VWLmWMsLz0iMQd4DqdMX99vhaGpfUeORp/TsgRrScInohsC0NzNVOibu1ktrC8C
+         +NMrZL3p1gp86yXKsKQXX2O41cfQNhcdqBDT5so52Ehn5UrfQEgOK4BNEEVzz92/0BYm
+         cNnK+xV3Qy4gNrTSWEcRtERg4IH1W//KYJff/PaFxRjbiLz8JKwrhtpYDWnhaqPS9l4y
+         Top1glUkaqOm8uaBCT/g98hdgGWUpVbls0T8lwNzoJhMWCQaiQ4TeZuyIOQIamIQazYd
+         EQvHFUEq8QINISYiSPI/Um7860Y9VnBMkyTGMA/NXAIz7DarsTnSWNNrWttGswbZsCRO
+         Umkg==
+MIME-Version: 1.0
+X-Received: by 10.60.124.228 with SMTP id ml4mr14741182oeb.47.1373109351531;
+ Sat, 06 Jul 2013 04:15:51 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.76.23.8 with HTTP; Sat, 6 Jul 2013 04:15:51 -0700 (PDT)
+Date: Sat, 6 Jul 2013 13:15:51 +0200
+X-Google-Sender-Auth: teMNI843HOqp0t9IHRWvV-y0w7M
+Message-ID: <CAN1A5uAYoGpkHbp4nyxBObcZrcEQq86Z71kZnDL52=z5wunEgA@mail.gmail.com>
+Subject: Probe
+From: Florian Sebert <florian@floriansebert.de>
+To: "Harry D. Bath" <harryd.bath@t-online.de>
+Cc: Martina Pfister <martina@pfister-heidelberg.de>, "Pfister, Martina" <MPfister@geuder.de>, 
+	Stefan Wiehr <stefan@wiehr.de>, Stefan Pfister <s.pfister@dkfz-heidelberg.de>, 
+	Lukas Fischer <lukasfischer1@aol.com>, Sabine Pfister <pfistersabine@googlemail.com>, 
+	Rainer Pfister <rainer.pfister@me.com>, Tizian Decker <tizian_decker@web.de>, 
+	Ingo Skupin <ingo.skupin@web.de>, Yannick Frey <yannick.frey1994@web.de>, 
+	Hartmut Nagel <hartmut_nagel@web.de>
+Content-Type: multipart/alternative; boundary=047d7b3a928622cb6104e0d5ef0f
+
+--047d7b3a928622cb6104e0d5ef0f
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Lieber Harry,
+
+f=FCr das Ensemble bedauere ich es sehr, dass ich die Probe heute vorzeitig
+verlassen habe.
+
+Allerdings gibt es f=FCr alles Grenzen. Und eine solche war f=FCr mich heut=
+e
+erreicht.
+
+Schon bei der ersten Probe, w=E4hrend derer wir Cimarosa in meiner
+Anwesenheit geprobt haben, waren wir aneinander geraten, weil ich es nicht
+einsah, wegen - hoch gegriffen - 20 Noten eine geschlagene Stunde im
+Proberaum zu sitzen und zu warten. Zeit, mit der ich wei=DF Gott Besseres
+anzufangen wei=DF. Ich habe damals schon nicht verstanden, warum du das St=
+=FCck
+- trotz meiner Nachfrage - nicht einfach am Ende der Probe einstudieren
+wolltest.
+
+Im Vorfeld der heutigen Probe habe ich Martina und dir geschrieben, dass
+ich wegen einer beruflichen Verpflichtung ab 15:30 Uhr nicht mehr w=FCrde m=
+it
+proben k=F6nnen.
+
+Dieses Mal wurde Cimarose prompt sogar zuallererst geprobt. W=E4re es nicht
+m=F6glich gewesen das St=FCck ans Ende der Probe zu verlegen? Hattest du
+vielleicht gewusst, dass Lukas gehen w=FCrde? Warum hat man mir dann nicht
+Bescheid gegeben, dass ich sp=E4ter zur Probe kommen k=F6nnte? Und falls du
+schon wusstest, dass du die Besetzung =E4ndern w=FCrdest, warum hast du mir=
+ das
+nicht gesagt, als wir mit dem St=FCck zu proben begannen? Umgekehrt, falls =
+du
+das erst w=E4hrend der Probe entschieden hast - w=E4hrend derer ich keine z=
+wei
+Schritte von meinem Stuhl entfernt vor der T=FCre statt auf meinem Stuhl
+D=E4umchen gedreht habe - warum hast du mir nicht gleich Bescheid gegeben?
+Riechen kann ich es jedenfalls nicht.
+
+Die Art und Weise, wie du mich dann am Ende angefahren hast, war
+schlie=DFlich der Grund, warum ich gegangen bin. Du hast v=F6llig Recht; du
+musst mir nicht hinterher laufen. So wie ich nicht in der Probe ewig auf
+das Proben warten muss. Das kann man anders l=F6sen.
+
+Nach dem Mittagessen heute probt ihr ohnehin nur noch eine Stunde bevor ich
+wieder gehen m=FCsste. Falls Interesse daran besteht, dass ich an der
+morgigen Probe (und zuk=FCnftigen Proben) teilhabe, w=FCrde ich mich freuen
+mitzuspielen, vorausgesetzt, dass wir uns einmal sachlich =FCber das Thema
+unterhalten. In diesem Fall bitte ich um kurze Nachricht.
+
+Viele Gr=FC=DFe
+Florian
+
+PS: Diese Mail geht CC an das Ensemble weil ich mich den anderen
+Mitgliedern gegen=FCber f=FCr mein Verhalten rechtfertigen m=F6chte.
+
+--047d7b3a928622cb6104e0d5ef0f
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Lieber Harry,<div><br></div><div>f=FCr das Ensemble bedauere ich es sehr, d=
+ass ich die Probe heute vorzeitig verlassen habe.</div><div><br></div><div>=
+Allerdings gibt es f=FCr alles Grenzen. Und eine solche war f=FCr mich heut=
+e erreicht.</div>
+
+<div><br></div><div>Schon bei der ersten Probe, w=E4hrend derer wir Cimaros=
+a in meiner Anwesenheit geprobt haben, waren wir aneinander geraten, weil i=
+ch es nicht einsah, wegen - hoch gegriffen - 20 Noten eine geschlagene Stun=
+de im Proberaum zu sitzen und zu warten. Zeit, mit der ich wei=DF Gott Bess=
+eres anzufangen wei=DF. Ich habe damals schon nicht verstanden, warum du da=
+s St=FCck - trotz meiner Nachfrage - nicht einfach am Ende der Probe einstu=
+dieren wolltest.</div>
+
+<div><br></div><div>Im Vorfeld der heutigen Probe habe ich Martina und dir =
+geschrieben, dass ich wegen einer beruflichen Verpflichtung ab 15:30 Uhr ni=
+cht mehr w=FCrde mit proben k=F6nnen.</div><div><br></div><div>Dieses Mal w=
+urde Cimarose prompt sogar zuallererst geprobt. W=E4re es nicht m=F6glich g=
+ewesen das St=FCck ans Ende der Probe zu verlegen? Hattest du vielleicht ge=
+wusst, dass Lukas gehen w=FCrde? Warum hat man mir dann nicht Bescheid gege=
+ben, dass ich sp=E4ter zur Probe kommen k=F6nnte? Und falls du schon wusste=
+st, dass du die Besetzung =E4ndern w=FCrdest, warum hast du mir das nicht g=
+esagt, als wir mit dem St=FCck zu proben begannen? Umgekehrt, falls du das =
+erst w=E4hrend der Probe entschieden hast - w=E4hrend derer ich keine zwei =
+Schritte von meinem Stuhl entfernt vor der T=FCre statt auf meinem Stuhl D=
+=E4umchen gedreht habe - warum hast du mir nicht gleich Bescheid gegeben? R=
+iechen kann ich es jedenfalls nicht.</div>
+
+<div><br></div><div>Die Art und Weise, wie du mich dann am Ende angefahren =
+hast, war schlie=DFlich der Grund, warum ich gegangen bin. Du hast v=F6llig=
+ Recht; du musst mir nicht hinterher laufen. So wie ich nicht in der Probe =
+ewig auf das Proben warten muss. Das kann man anders l=F6sen.</div>
+
+<div><br></div><div>Nach dem Mittagessen heute probt ihr ohnehin nur noch e=
+ine Stunde bevor ich wieder gehen m=FCsste. Falls Interesse daran besteht, =
+dass ich an der morgigen Probe (und zuk=FCnftigen Proben) teilhabe, w=FCrde=
+ ich mich freuen mitzuspielen, vorausgesetzt, dass wir uns einmal sachlich =
+=FCber das Thema unterhalten. In diesem Fall bitte ich um kurze Nachricht.<=
+br>
+<br>Viele Gr=FC=DFe<br>Florian<br><br>PS: Diese Mail geht CC an das Ensembl=
+e weil ich mich den anderen Mitgliedern gegen=FCber f=FCr mein Verhalten re=
+chtfertigen m=F6chte.<br></div>
+
+--047d7b3a928622cb6104e0d5ef0f--

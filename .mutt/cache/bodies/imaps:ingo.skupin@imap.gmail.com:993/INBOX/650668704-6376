@@ -1,0 +1,1088 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp152377pdb;
+        Mon, 26 Aug 2013 06:59:42 -0700 (PDT)
+X-Received: by 10.68.176.132 with SMTP id ci4mr15695401pbc.7.1377525582446;
+        Mon, 26 Aug 2013 06:59:42 -0700 (PDT)
+Return-Path: <20130826135936c8d39cc6dabd428495dddc40fb897820@bounces.amazon.de>
+Received: from smtp-out-127-105.amazon.com (smtp-out-127-105.amazon.com. [176.32.127.105])
+        by mx.google.com with ESMTP id ei3si11331349pbb.217.1969.12.31.16.00.00;
+        Mon, 26 Aug 2013 06:59:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 20130826135936c8d39cc6dabd428495dddc40fb897820@bounces.amazon.de designates 176.32.127.105 as permitted sender) client-ip=176.32.127.105;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 20130826135936c8d39cc6dabd428495dddc40fb897820@bounces.amazon.de designates 176.32.127.105 as permitted sender) smtp.mail=20130826135936c8d39cc6dabd428495dddc40fb897820@bounces.amazon.de;
+       dkim=pass header.i=bestellbestaetigung@amazon.de;
+       dmarc=pass (p=NONE dis=NONE) d=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=bestellbestaetigung@amazon.de; q=dns/txt;
+  s=amazon201209; t=1377525578; x=1409061578;
+  h=date:from:to:message-id:subject:mime-version;
+  bh=Gc/TollvLBpE999BeBHeH+6HbO9Dxy6t1O6FtosEROs=;
+  b=EgO2ZHPI9brlA28Uxg8c1KxI5rMUFusgmWhXzUGMtp41gYoU1X8jJ7YW
+   R//K3GEjwZ4lxEiwD5ni2gnziNy820ggOPxj4BV7rwqv7AfQNvthYsV6Z
+   wYY/2fcAVROZ8NJAHcaJU5r2pJK72S1XZCIu1CmQ/Z99l3KbDBRffrZxF
+   k=;
+Date: Mon, 26 Aug 2013 13:59:36 +0000
+From: "bestellbestaetigung@amazon.de" <bestellbestaetigung@amazon.de>
+To: "ingo.skupin@googlemail.com" <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.20130826135936c8d39cc6dabd428495dddc40fb897820@1377525576380.rte-svc-eu-1abig-i-d09e309a.eu-west-1.amazon.com>
+Subject: Ihre Bestellung bei Amazon.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_760932_349944978.1377525576376"
+Bounces-to: 20130826135936c8d39cc6dabd428495dddc40fb897820@bounces.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.20130826135936c8d39cc6dabd428495dddc40fb897820@1377525576380.rte-svc-eu-1abig-i-d09e309a.eu-west-1.amazon.com>
+
+------=_Part_760932_349944978.1377525576376
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_760933_1715019760.1377525576376"
+
+------=_Part_760933_1715019760.1377525576376
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Vielen Dank f=C3=BCr Ihre Bestellung bei Amazon.de! Die Einzelheiten zu Ihr=
+er Bestellung sind unten aufgef=C3=BChrt.
+
+M=C3=B6chten Sie Ihre Bestellung =C3=A4ndern?
+
+  Wenn Sie Ihre Bestellung =C3=BCberpr=C3=BCfen oder =C3=A4ndern m=C3=B6cht=
+en, besuchen Sie unsere Homepage unter www.Amazon.de und klicken Sie auf de=
+n Button "Mein Konto", den Sie oben rechts auf jeder Seite finden.
+***********************************************************
+RECHNUNGS- UND VERSANDINFORMATIONEN
+***********************************************************
+E-Mail-Adresse:=09ingo.skupin@googlemail.com
+Rechnungsadresse:
+
+Ingo Skupin
+Ro=C3=9Fw=C3=A4lder Str. 50
+Notzingen, Baden-W=C3=BCrttemberg 73274
+Deutschland
+
+Gesamtsumme dieser Bestellung: EUR 18,59
+
+***********************************************************
+=09EINZELHEITEN DER BESTELLUNG
+***********************************************************
+
+Einzelheiten zum Versand=20
+
+Bestellung wird in einer Komplettlieferung verschickt
+
+***********************************************************
+Bestellnummer:=09=09=09303-3414863-5274709
+Ihre Bestellungs=C3=BCbersicht finden Sie hier online: https://www.amazon.d=
+e/gp/css/order-history/ref=3Dox_oce_txt_order_summary_de
+
+Versand:=09=09Standardversand
+
+Artikel:                      EUR 17,37
+Verpackung & Versand:         EUR 0,00
+                              ---------
+Gesamtsumme ohne MwSt.:       EUR 17,37
+MwSt.:                        EUR 1,22
+                              ---------
+Gesamtbetrag:                 EUR 18,59
+
+Lieferanschrift
+
+Ingo Skupin
+Ro=C3=9Fw=C3=A4lder Str. 50
+Notzingen, Baden-W=C3=BCrttemberg 73274
+Deutschland
+
+Lieferung voraussichtlich: 29. August 2013
+
+1 "The Key to Rebecca (Signet)"
+Follett, Ken; Taschenbuch; EUR 6,00=20
+Auf Lager.
+Verkauf durch: Amazon EU S.a.r.L.
+
+1 "Lie Down with Lions (Signet)"
+Follett, Ken; Taschenbuch; EUR 5,60=20
+Auf Lager.
+Verkauf durch: Amazon EU S.a.r.L.
+
+1 "Hornet Flight"
+Follett, Ken; Taschenbuch; EUR 6,99=20
+Auf Lager.
+Verkauf durch: Amazon EU S.a.r.L.
+
+***********************************************************
+Sie suchen ein Geschenk und sind sich nicht sicher, was Sie kaufen sollen?
+Geschenkgutscheine von Amazon.de gibt es f=C3=BCr jeden Betrag von 5 =E2=82=
+=AC bis 500 =E2=82=AC.
+Wir versenden Ihren Gutschein per E-Mail oder per Post -- das perfekte Gesc=
+henk, wenn es schnell gehen soll.
+
+  Erfahren Sie mehr unter http://www.amazon.de/exec/obidos/tg/stores/static=
+/-/gifts/gift-certificates/.
+***********************************************************
+
+  Sie haben Fragen? Unsere Online-Hilfe steht Ihnen 24 Stunden am Tag zur V=
+erf=C3=BCgung: http://www.amazon.de/hilfe
+
+***********************************************************
+Bitte beachten Sie: Diese E-Mail dient lediglich der Best=C3=A4tigung des E=
+inganges Ihrer Bestellung und stellt noch keine Annahme Ihres Angebotes auf=
+ Abschluss eines Kaufvertrages dar. Ihr Kaufvertrag f=C3=BCr einen Artikel =
+kommt zu Stande, wenn wir Ihre Bestellung annehmen, indem wir Ihnen eine E-=
+Mail mit der Benachrichtigung zusenden, dass der Artikel an Sie abgeschickt=
+ wurde. Dies ist eine automatisch versendete Nachricht. Bitte antworten Sie=
+ nicht auf dieses Schreiben, da die Adresse nur zur Versendung von E-Mails =
+eingerichtet ist. Sie erreichen uns =C3=BCber das Kontaktformular http://ww=
+w.amazon.de/kontakt auf unseren Hilfe-Seiten.
+Nochmals vielen Dank f=C3=BCr Ihren Besuch.
+-------------------------------------------------------------=20
+
+  Amazon.de
+
+  G=C3=BCnstige Preise f=C3=BCr Elektronik & Foto, Filme, Musik, B=C3=BCche=
+r, Games, Spielzeug & mehr
+
+  http://www.amazon.de
+-------------------------------------------------------------
+
+------=_Part_760933_1715019760.1377525576376
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+
+
+
+
+
+
+
+
+ =20
+
+ =20
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.=
+w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+    <title>Ihre Bestellung bei Amazon.de</title>
+</head>
+<body bgcolor=3D"#FFFFFF" link=3D"#0066CC">
+ =20
+
+
+<table border=3D"0" width=3D"100%" cellspacing=3D"0" cellpadding=3D"0">
+  <tr bgcolor=3D"#FFFFFF">
+    <td align=3D"left">
+     =20
+
+ =20
+
+  <a href=3D"http://www.amazon.de/ref=3Dox_oce_topnav_home_de"><img src=3D"=
+https://images-na.ssl-images-amazon.com/images/G/03/x-locale/common/amazon-=
+logo._V175169559_.gif" width=3D"168" alt=3D"Amazon.de" height=3D"45" border=
+=3D"0" /></a>
+    </td>
+    <td align=3D"right" class=3D"topnav_header" style=3D"font-size:12px;tex=
+t-decoration:none;color:black"><b>
+      <a href=3D"http://www.amazon.de/gp/cart/view.html/ref=3Dox_oce_cart_d=
+e"><img src=3D"https://images-na.ssl-images-amazon.com/images/G/03/x-locale=
+/common/icons/topnav-cart._V192196534_.gif" width=3D"19" alt=3D"EINKAUFSWAG=
+EN" height=3D"16" border=3D"0" />&nbsp;EINKAUFSWAGEN</a>
+    |
+      <a href=3D"http://www.amazon.de/gp/registry/wishlist/ref=3Dox_oce_wl_=
+de">WUNSCHZETTEL</a>
+    |=20
+      <a href=3D"http://www.amazon.de/gp/css/homepage.html/ref=3Dox_oce_yr_=
+de">MEIN KONTO</a>
+    |
+      <a href=3D"http://www.amazon.de/gp/help/customer/display.html/ref=3Do=
+x_oce_nav_top_hlp_de">HILFE</a>
+    </b></td>
+  </tr>
+</table>
+
+
+
+
+
+<table width=3D"90%" border=3D"0" cellspacing=3D"0" cellpadding=3D"1" align=
+=3D"center" bgcolor=3D"#006699">
+  <tr>
+    <td>
+      <table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"5=
+" align=3D"center">
+        <tr valign=3D"top">
+          <td bgcolor=3D"#FFFFFF">
+            <font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+              <p><b>
+
+                Vielen Dank f=C3=BCr Ihre Bestellung, Ingo Skupin!
+              </b></p>
+
+
+              <p><b>M=C3=B6chten Sie Ihre Bestellung =C3=A4ndern?</b><br />
+              =20
+
+  Wenn Sie Ihre Bestellung =C3=BCberpr=C3=BCfen oder =C3=A4ndern m=C3=B6cht=
+en, besuchen Sie unsere Homepage unter www.Amazon.de und klicken Sie auf de=
+n Button "Mein Konto", den Sie oben rechts auf jeder Seite finden.<br />
+              </p>
+            </font>
+            <table cellpadding=3D"4" cellspacing=3D"0" border=3D"0" width=
+=3D"100%">
+              <tr>
+=09        <td colspan=3D"2" bgcolor=3D"#006699">
+=09          <font color=3D"#ffffff"  face=3D"verdana,arial,helvetica" size=
+=3D"-1" ><b>Bestellinformation:</b></font>
+=09              </td>
+                </tr>
+              <tr>
+=09        <td colspan=3D"2">
+                  <font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+                    <b>E-Mail-Adresse:</b>&nbsp;&nbsp;ingo.skupin@googlemai=
+l.com
+=09          </font>
+=09        </td>
+              </tr>
+              <tr>
+=09        <td colspan=3D"2">
+=09          <table width=3D"100%" cellspacing=3D0 cellpadding=3D0>
+=09            <tr>
+=09              <td valign=3D"top" width=3D"50%" style=3D"padding-right:1e=
+m">
+                        <font  face=3D"verdana,arial,helvetica" size=3D"-1"=
+ >
+=09=09          <b>Rechnungsadresse:</b><br />
+                            Ingo Skupin<br/>Ro=C3=9Fw=C3=A4lder Str. 50<br/=
+>Notzingen, Baden-W=C3=BCrttemberg 73274<br/>Deutschland<br/><br/>
+=09=09         </font>
+=09               </td>
+                       <td valign=3D"top" width=3D"50%">=20
+                         <font  face=3D"verdana,arial,helvetica" size=3D"-1=
+" >
+                         <b>Versandadresse</b><br />
+                        Ingo Skupin<br/>Ro=C3=9Fw=C3=A4lder Str. 50<br/>Not=
+zingen, Baden-W=C3=BCrttemberg 73274<br/>Deutschland<br/><br/>
+=09=09          </font>
+=09                </td>
+=09              </tr>
+=09            </table>
+=09          </td>
+              </tr>
+              <tr>
+=09        <td colspan=3D"2">
+                  <font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+=09            <b>Gesamtsumme dieser Bestellung: EUR 18,59</b>
+=09          </font>
+=09          </td>
+              </tr>
+
+
+
+
+              <tr>
+                <td colspan=3D"2" bgcolor=3D"#006699">
+                  <font color=3D"#ffffff"  face=3D"verdana,arial,helvetica"=
+ size=3D"-1" ><b>Bestellungs=C3=BCbersicht:</b></font>
+                </td>
+              </tr>
+
+
+
+
+              <tr>
+                <td bgcolor=3D#EEEEEE>
+
+
+                  <font  face=3D"verdana,arial,helvetica" size=3D"-1"  colo=
+r=3D"#CC6600"><b>
+
+                      Einzelheiten zum Versand
+                      : Bestellung wird in einer Komplettlieferung verschic=
+kt
+
+                  </b></font>
+
+                </td>
+              </tr>
+              <tr>
+                <td>
+                  <table border=3D"0" cellpadding=3D"1" cellspacing=3D"0" w=
+idth=3D"100%">
+
+
+
+                            <tr>
+                                <td nowrap=3D"nowrap">
+                                  <font  face=3D"verdana,arial,helvetica" s=
+ize=3D"-1" >
+                                    <b>Bestellnummer:</b>
+                                   </font>
+                                </td>
+                                <td width=3D"98%">
+                                  <font  face=3D"verdana,arial,helvetica" s=
+ize=3D"-1" >
+                                    <a href=3D"https://www.amazon.de/gp/css=
+/order-history/ref=3Dox_oce_order_history_de">303-3414863-5274709</a>
+                                  </font>
+                                </td>
+                            </tr>
+                            <tr>
+                                <td nowrap=3D"nowrap">
+                                <font  face=3D"verdana,arial,helvetica" siz=
+e=3D"-1" >
+                                    <b>Versand:</b>
+                                </font>
+                                </td>
+                                <td width=3D"98%">
+                                  <font  face=3D"verdana,arial,helvetica" s=
+ize=3D"-1" >
+                                    Standardversand
+                                  </font>
+                                </td>
+                            </tr>
+
+                           =20
+
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                Artikel: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 17,37=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                Verpackung & Versand: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 0,00=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            &nbsp;
+          </td>
+          <td>
+            ------
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                Gesamtsumme ohne MwSt.: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 17,37=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">=20
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                MwSt.: &nbsp;
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                EUR 1,22=20
+              </font>
+            </span>
+          </td>
+        </tr>
+        <tr>
+          <td>
+            &nbsp;
+          </td>
+          <td>
+            ------
+          </td>
+        </tr>
+        <tr>
+          <td nowrap=3D"nowrap">
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                <b>=20
+                  Gesamtbetrag: &nbsp;
+                </b>
+              </font>
+            </span>
+          </td>
+          <td>
+            <span class=3D"small">
+              <font face=3D"verdana,arial,helvetica" size=3D"-1">
+                <b>=20
+                  EUR 18,59=20
+                </b>
+              </font>
+            </span>
+          </td>
+        </tr>
+
+
+
+
+
+
+                            <tr>
+                                <td colspan=3D"2">
+                                  <font  face=3D"verdana,arial,helvetica" s=
+ize=3D"-1" >
+                                  <br />&nbsp;<br />
+
+
+   =20
+
+
+
+
+
+
+
+
+                  <b>Lieferung voraussichtlich: </b>29. August 2013
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                  </font>
+                                  <table>
+
+                                    <tr valign=3D"top">
+                                        <td>
+                                        </td>
+                                        <td><font  face=3D"verdana,arial,he=
+lvetica" size=3D"-1" ><b>1</b></font></td>
+
+
+<td>
+<font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+  <b>"The Key to Rebecca (Signet)"</b><br />
+     Follett, Ken;
+     Taschenbuch;
+
+
+    <span class=3D"price">EUR 6,00 </span><br />
+
+
+
+     Auf Lager.<br />&nbsp;&nbsp;
+
+  Verkauf durch: <a href=3D"http://www.amazon.de/gp/help/seller/home.html/r=
+ef=3Dox_oce_seller_home_de?ie=3DUTF8&amp;seller=3DA3JWKAKR8XB7XF">Amazon EU=
+ S.a.r.L.</a>
+
+
+
+</font>
+</td>
+
+
+                                     </tr>
+
+
+                                    <tr valign=3D"top">
+                                        <td>
+                                        </td>
+                                        <td><font  face=3D"verdana,arial,he=
+lvetica" size=3D"-1" ><b>1</b></font></td>
+
+
+<td>
+<font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+  <b>"Lie Down with Lions (Signet)"</b><br />
+     Follett, Ken;
+     Taschenbuch;
+
+
+    <span class=3D"price">EUR 5,60 </span><br />
+
+
+
+     Auf Lager.<br />&nbsp;&nbsp;
+
+  Verkauf durch: <a href=3D"http://www.amazon.de/gp/help/seller/home.html/r=
+ef=3Dox_oce_seller_home_de?ie=3DUTF8&amp;seller=3DA3JWKAKR8XB7XF">Amazon EU=
+ S.a.r.L.</a>
+
+
+
+</font>
+</td>
+
+
+                                     </tr>
+
+
+                                    <tr valign=3D"top">
+                                        <td>
+                                        </td>
+                                        <td><font  face=3D"verdana,arial,he=
+lvetica" size=3D"-1" ><b>1</b></font></td>
+
+
+<td>
+<font  face=3D"verdana,arial,helvetica" size=3D"-1" >
+  <b>"Hornet Flight"</b><br />
+     Follett, Ken;
+     Taschenbuch;
+
+
+    <span class=3D"price">EUR 6,99 </span><br />
+
+
+
+     Auf Lager.<br />&nbsp;&nbsp;
+
+  Verkauf durch: <a href=3D"http://www.amazon.de/gp/help/seller/home.html/r=
+ef=3Dox_oce_seller_home_de?ie=3DUTF8&amp;seller=3DA3JWKAKR8XB7XF">Amazon EU=
+ S.a.r.L.</a>
+
+
+
+</font>
+</td>
+
+
+                                     </tr>
+
+
+
+                                </table>
+                               =20
+
+
+                                </td>
+                            </tr>
+
+
+
+                  </table>
+=09              </td>
+              </tr>
+
+
+
+                <tr>
+=09=09  <td>
+=09           <hr noshade=3D"noshade" size=3D"1" />
+
+
+
+
+
+
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1" >
+ &nbsp;
+    </font>
+</p>
+
+
+
+
+<p> <font face=3D"verdana,arial,helvetica" size=3D"-1"><b>Sie ben=C3=B6tige=
+n Hilfe beim Pr=C3=BCfen und =C3=84ndern Ihrer Bestellungen?</b> <br />
+
+
+  Umfassende Informationen dar=C3=BCber, wie Sie Ihre Bestellungen aufrufen=
+, pr=C3=BCfen und verwalten k=C3=B6nnen, finden Sie auf unseren Hilfeseiten=
+ unter www.amazon.de/hilfe/.<br><br>Wir weisen darauf hin, dass Verkaeufer =
+moeglicherweise zusaetzliche Informationen wie beispielsweise die USt-Ident=
+ifikationsnummer oder USt-Schluessel anfragen werden um korrekte Rechnungen=
+ ausstellen zu koennen. <br /></font> </p>
+
+
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1">
+       Bitte beachten Sie: Diese E-Mail dient lediglich der Best=C3=A4tigun=
+g des Einganges Ihrer Bestellung und stellt noch keine Annahme Ihres Angebo=
+tes auf Abschluss eines Kaufvertrages dar. Ihr Kaufvertrag f=C3=BCr einen A=
+rtikel kommt zu Stande, wenn wir Ihre Bestellung annehmen, indem wir Ihnen =
+eine E-Mail mit der Benachrichtigung zusenden, dass der Artikel an Sie abge=
+schickt wurde. Dies ist eine automatisch versendete Nachricht. Bitte antwor=
+ten Sie nicht auf dieses Schreiben, da die Adresse nur zur Versendung von E=
+-Mails eingerichtet ist. Sie erreichen uns =C3=BCber das Kontaktformular ht=
+tp://www.amazon.de/kontakt auf unseren Hilfe-Seiten.
+    </font>
+    </p>
+
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1">
+       Nochmals vielen Dank f=C3=BCr Ihren Besuch.
+    </font>
+     </p>
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1">
+      <b>
+=09
+
+  <a href=3D"http://www.amazon.de/ref=3Dox_oce_homepage_de">Amazon.de</a></=
+b>
+
+      <br /><b>
+ =20
+
+  G=C3=BCnstige Preise f=C3=BCr Elektronik & Foto, Filme, Musik, B=C3=BCche=
+r, Games, Spielzeug & mehr
+      </b>
+    </font>
+    </p>
+
+
+
+
+    <p>
+    <font face=3D"verdana,arial,helvetica" size=3D"-1">
+      <img src=3D"https://images-na.ssl-images-amazon.com/images/G/03/x-loc=
+ale/common/icons/icon-unsubscribe._V192195749_.gif" width=3D"17" height=3D"=
+15" border=3D"0" />&nbsp;
+      M=C3=B6chten Sie E-Mails nicht im HTML-Format erhalten&#63;
+
+
+  <a href=3D"https://www.amazon.de/gp/gss/ccp/ref=3Dox_oce_email_preference=
+_de">Bitte hier klicken</a>
+  </font>
+      </p>
+=09=09=09  </td>
+=09=09=09</tr>
+=09=09      </table>
+ </td>
+                   <td valign=3D"top"  bgcolor=3D"#e1e4da" width=3D"180">
+
+                     =20
+
+
+
+<table border=3D"0" width=3D"100%" cellpadding=3D"1" cellspacing=3D"0" bgco=
+lor=3D"#006699"><tr><td><table border=3D"0" cellpadding=3D"1" cellspacing=
+=3D"0" width=3D"100%"><tr><td class=3D"h1" bgcolor=3D"#006699" valign=3D"to=
+p" align=3D"center"><b><font color=3D#FFFFFF>Empfehlungen f=C3=BCr Ihren n=
+=C3=A4chsten Besuch:</b><br /></font></td></tr><tr><td bgcolor=3D"#FFFFFF" =
+align=3Dcenter>
+
+
+<a href=3D"http://www.amazon.de/exec/obidos/ASIN/0440217490/ref=3Dpe_thx_si=
+ms_1">A Dangerous Fortune</a><br /> von Ken Follett<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></td></tr></table><br /><table border=3D"0" width=3D"100%=
+" cellpadding=3D"1" cellspacing=3D"0" bgcolor=3D"#006699"><tr><td><table bo=
+rder=3D"0" width=3D"100%" cellpadding=3D"5" cellspacing=3D"0"><tr><td align=
+=3Dcenter bgcolor=3D"FFFFFF">
+
+
+<a href=3D"http://www.amazon.de/exec/obidos/ASIN/033050990X/ref=3Dpe_thx_si=
+ms_2">Jackdaws</a><br /> von Ken Follett<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></td></tr></table><br /><table border=3D"0" width=3D"100%=
+" cellpadding=3D"1" cellspacing=3D"0" bgcolor=3D"#006699"><tr><td><table bo=
+rder=3D"0" width=3D"100%" cellpadding=3D"5" cellspacing=3D"0"><tr><td align=
+=3Dcenter bgcolor=3D"FFFFFF">
+
+
+<a href=3D"http://www.amazon.de/exec/obidos/ASIN/0451204530/ref=3Dpe_thx_si=
+ms_3">Code to Zero</a><br /> von Ken Follett<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></td></tr></table><br /><table border=3D"0" width=3D"100%=
+" cellpadding=3D"1" cellspacing=3D"0" bgcolor=3D"#006699"><tr><td><table bo=
+rder=3D"0" width=3D"100%" cellpadding=3D"5" cellspacing=3D"0"><tr><td align=
+=3Dcenter bgcolor=3D"FFFFFF">
+
+
+<a href=3D"http://www.amazon.de/exec/obidos/ASIN/0451163516/ref=3Dpe_thx_si=
+ms_4">The Man from St. Petersburg (Signet)</a><br /> von Ken Follett<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+</td></tr></table></td></tr></table><br />
+
+
+
+  <b class=3D"small">
+  <img src=3D"https://images-na.ssl-images-amazon.com/images/G/03/x-locale/=
+common/orange-arrow._V192196120_.gif" width=3D"11" height=3D"12" border=3D"=
+0" />
+  Alle Ihre <a href=3D"http://www.amazon.de/gp/yourstore/recs">Empfehlungen=
+</a>
+  </b>
+ =20
+
+
+                   </td>
+                   </tr>
+                </table>
+              </td>
+             </tr>
+         </table>
+</body>
+</html>
+
+------=_Part_760933_1715019760.1377525576376--
+
+------=_Part_760932_349944978.1377525576376--

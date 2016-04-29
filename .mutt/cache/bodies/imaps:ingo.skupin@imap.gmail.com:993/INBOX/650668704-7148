@@ -1,0 +1,113 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp270198pdb;
+        Wed, 19 Feb 2014 05:58:12 -0800 (PST)
+Return-Path: <paul.louis.jacot@googlemail.com>
+Received-SPF: pass (google.com: domain of paul.louis.jacot@googlemail.com designates 10.220.191.134 as permitted sender) client-ip=10.220.191.134
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of paul.louis.jacot@googlemail.com designates 10.220.191.134 as permitted sender) smtp.mail=paul.louis.jacot@googlemail.com;
+       dkim=pass header.i=@googlemail.com
+X-Received: from mr.google.com ([10.220.191.134])
+        by 10.220.191.134 with SMTP id dm6mr31897422vcb.16.1392818291727 (num_hops = 1);
+        Wed, 19 Feb 2014 05:58:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc:content-type;
+        bh=mDrDTmXChioHJK9iwn1SjRvnT10INx7U6X2G4RcxPSg=;
+        b=zAdH+uSu7PalgiGdbjM7mxnBJVoT/YkYStQUaRZG4as5kR1MfQcPgYwxG1Z03VURin
+         Ak5pmrSkn/cOJmO/hUWRgtPb5kxcIs+VZtfF0BlggPU6hKCBgJ0mbNgyE2qrX0Wb94mr
+         Zw9W+j5oStbowfD0KehIMoHdQbtopwC4jgNLCYm7nwA7snB/6cfANkOehtPqEZg7r/oZ
+         1p0qaotjt26MYS9b9JNWHPsxqL6aOIaF08P9ZBzo46J9b+TsY6qhiFfcT4lXC/EMjCtB
+         TmCZmIPRzStic60206P1FqZ1l+POW6VZUa4DBMmXnZM7bOBvhR14QurfYcR6F4Ek6+zP
+         xohA==
+MIME-Version: 1.0
+X-Received: by 10.220.191.134 with SMTP id dm6mr25723857vcb.16.1392818291416;
+ Wed, 19 Feb 2014 05:58:11 -0800 (PST)
+Received: by 10.59.9.34 with HTTP; Wed, 19 Feb 2014 05:58:11 -0800 (PST)
+Received: by 10.59.9.34 with HTTP; Wed, 19 Feb 2014 05:58:11 -0800 (PST)
+In-Reply-To: <8D3BC7E2-6740-4E95-8D75-88D02EC86EB0@gmx.de>
+References: <8D3BC7E2-6740-4E95-8D75-88D02EC86EB0@gmx.de>
+Date: Wed, 19 Feb 2014 14:58:11 +0100
+Message-ID: <CACgbfV4VdNphHdaqSZsvq7Y1Dz+-54atq+YysaRbFh-SySz5eg@mail.gmail.com>
+Subject: Re: Satzprobe heute
+From: Paul Jacot <paul.louis.jacot@googlemail.com>
+To: Jonas Gawehn <jonas.gawehn@gmx.de>
+Cc: =?ISO-8859-1?Q?Katja_Landh=E4u=DFer?= <katja@landhaeusser.co>, 
+	Hannah Linsenmayer <hannahlinsenmayer@web.de>, Paul Jacot <paul.jacot@gmx.net>, 
+	=?ISO-8859-1?Q?Michael_Pf=E4nder?= <Michi110793@aol.com>, 
+	Luisa Heilemann <luisa.heilemann@gmx.de>, Christine Zeller <chrisi.zeller@web.de>, 
+	Anja Schneider <anja-s96@web.de>, Ingo Skupin <ingo.skupin@googlemail.com>, 
+	Sinja Wernz <sinja_wernz@web.de>, =?ISO-8859-1?Q?Sascha_Schr=F6ter?= <sascha.schroeter2@gmx.net>
+Content-Type: multipart/alternative; boundary=089e0158a82a7f225904f2c2c738
+
+--089e0158a82a7f225904f2c2c738
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+muss leider heute Absagen!! Liege seit zwei Tagen mit Fieber in Bett!
+Bitte an alle Mailfaulen weitergeben ;-)
+
+Viele Gr=FC=DFe
+
+Paul
+
+
+
+
+
+
+
+
+Gesendet mit HTC
+Am 19.02.2014 14:41 schrieb "Jonas Gawehn" <jonas.gawehn@gmx.de>:
+
+> Hallo zusammen,
+>
+> nur nochmal zur Erinnerung:
+>
+> Satzprobe Alt- und Tenorsax heute Abend um 19:30 in Wernau.
+>
+> Gesamtholzprobe am 26.2. um 19:30 in Wernau.
+>
+> Paul, ich hoffe das ist ok, wenn Ingo und ich heute nicht kommen. Am
+> Samstag und kommenden Mittwoch sind wir dann mit dabei.
+>
+> Liebe Gr=FC=DFe
+> Jonas
+>
+>
+
+--089e0158a82a7f225904f2c2c738
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<p dir=3D"ltr">Hallo zusammen,</p>
+<p dir=3D"ltr">muss leider heute Absagen!! Liege seit zwei Tagen mit Fieber=
+ in Bett!<br>
+Bitte an alle Mailfaulen weitergeben ;-)<br></p>
+<p dir=3D"ltr">Viele Gr=FC=DFe </p>
+<p dir=3D"ltr">Paul<br><br><br><br><br><br><br><br><br></p>
+<p dir=3D"ltr">Gesendet mit HTC </p>
+<div class=3D"gmail_quote">Am 19.02.2014 14:41 schrieb &quot;Jonas Gawehn&q=
+uot; &lt;<a href=3D"mailto:jonas.gawehn@gmx.de">jonas.gawehn@gmx.de</a>&gt;=
+:<br type=3D"attribution"><blockquote class=3D"gmail_quote" style=3D"margin=
+:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex">
+Hallo zusammen,<br>
+<br>
+nur nochmal zur Erinnerung:<br>
+<br>
+Satzprobe Alt- und Tenorsax heute Abend um 19:30 in Wernau.<br>
+<br>
+Gesamtholzprobe am 26.2. um 19:30 in Wernau.<br>
+<br>
+Paul, ich hoffe das ist ok, wenn Ingo und ich heute nicht kommen. Am Samsta=
+g und kommenden Mittwoch sind wir dann mit dabei.<br>
+<br>
+Liebe Gr=FC=DFe<br>
+Jonas<br>
+<br>
+</blockquote></div>
+
+--089e0158a82a7f225904f2c2c738--

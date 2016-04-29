@@ -1,0 +1,385 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.4 with SMTP id b4csp39123vcj;
+        Thu, 29 Mar 2012 20:11:37 -0700 (PDT)
+Received: by 10.180.84.164 with SMTP id a4mr1776164wiz.2.1333077096433;
+        Thu, 29 Mar 2012 20:11:36 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id fg10si1021845wib.11.2012.03.29.20.11.35;
+        Thu, 29 Mar 2012 20:11:36 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=news@email-htc.com
+Received: from mta.email-htc.com ([68.232.207.110]) by mx-ha.web.de (mxweb005)
+ with ESMTP (Nemesis) id 0MVwAy-1RkusA3iK8-00XHak for <ingo.skupin@gmail.com>;
+ Fri, 30 Mar 2012 05:11:35 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=200608; d=email-htc.com;
+ h=From:To:Subject:Date:MIME-Version:Reply-To:Message-ID:Content-Type; i=news@email-htc.com;
+ bh=l1SXs+lgwwXn5Slk9FKWkhiEObM=;
+ b=QL5Kp3uOAtEKT4uxJKa6zzoko9qzh+5nbtVbeN/W2wEHFaQbNgmdnhhBZwKRGT/ubpGW+J92WEop
+   L+q7GRJSKvqj8/xsNKihwHvjuP59yf4UuF+Ao5mDolCZkjCOgyc6UfjOAxF1IWbKCtVFnaFdO5Nz
+   +Bu3HB0l0he9axtfXAA=
+DomainKey-Signature: a=rsa-sha1; c=nofws; q=dns; s=200608; d=email-htc.com;
+ b=vt006E5ixGBHfs6pO3zcCpSg2+F7BaZyDa4Rqw3MvKZBSWLtWmM9WtXmESzymPhSCaKbesJKNb6E
+   z01+F4t8+mAW/OrD2DfLI8tntiZEgbpxuPhX82r9eCuSYnmLmeFSG+SMPE+DnO631TVnnrpOL0+U
+   kiVUlzjmgCjQq9Eus4M=;
+Received: by mta.email-htc.com (PowerMTA(TM) v3.5r16) id heki6a0ie1sk for <ingo.skupin@web.de>; Thu, 29 Mar 2012 21:11:24 -0600 (envelope-from <bounce-2048_HTML-46645268-183221-1059434-190@bounce.email-htc.com>)
+From: "HTC" <news@email-htc.com>
+To: <ingo.skupin@web.de>
+Subject: =?UTF-8?Q?Wichtiger_Hinweis_zu_einer_Service=C3=A4nderung:_bitte_?=
+ =?UTF-8?Q?beachten?=
+Date: Thu, 29 Mar 2012 21:10:47 -0600
+MIME-Version: 1.0
+Reply-To: "HTC Feedback" <reply-fece15787666067c-2048_HTML-46645268-1059434-190@email-htc.com>
+x-job: 1059434_183221
+Message-ID: <27e4e04f-9ca3-48f0-b2f7-4e2dfad6143b@xtnvmta1137.xt.local>
+Content-Type: multipart/alternative;
+	boundary="6erexpPCNqOo=_?:"
+X-UI-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+This is a multi-part message in MIME format.
+
+--6erexpPCNqOo=_?:
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Wichtiger Hinweis zu einer Serviceaänderung: bitte beachten
+Laden Sie Ihre HTCSense.com-Daten bis zum 30. April runter 
+
+http://click.email-htc.com/?qs=e6ca698de0faa8b25087213090c650831ecdf3fef51899e594418f76eeef97a8040ee6ef5901d0ca 
+
+Sehr geehrter HTCSense.com-Kunde,
+
+HTCSense.com überarbeitet derzeit seine Services und die Vorteile, die wir damit Kunden wie Ihnen zur Verfügung stellen. 
+
+Bis die neuen Services bereit sind, werden Funktionen, die bislang auf HTCSense.com verfügbar waren, außer Betrieb genommen. Wenn Sie mit HTCSense.com Ihre Kontakte, Nachrichten, Footprints oder Ihre Anruf-Historie synchronisiert haben, können Sie diese Daten bis zum 30. April 2012 herunterladen. Nach dem 30. April werden Ihre Daten nicht mehr zugänglich sein und gelöscht. 
+
+Gehen Sie wie folgt vor, um Ihre .zip-Datei herunterzuladen:
+
+-Gehen Sie auf http://click.email-htc.com/?qs=e6ca698de0faa8b255f5e89664969b994a78b7fe01a3fa4dc0ef5a80e1eb6be39cf7a667f2014438 
+-Melden Sie sich mit Ihrem HTCSense.com 
+-Benutzernamen und Ihrem Kennwort an
+-Klicken Sie im Abschnitt "Kontoübersicht" auf die Schaltfläche "Download"
+-Eine .zip-Datei mit Ihren Daten wird auf Ihren Computer heruntergeladen, welche Sie sich problemlos anzeigen lassen können
+
+Wenn Sie für Ihr Gerät die Telefonlokalisierung oder Backup-Services wünschen, gehen Sie bitte zu Google Play (früher Android Market), und laden Sie eine Anwendung herunter, die Ihren Anforderungen entspricht.
+
+Wenn Sie weitere Unterstützung benötigen, wenden Sie sich bitte an den
+http://click.email-htc.com/?qs=e6ca698de0faa8b247f78ca45d5b4153e982f79ed540292523d3b33e7810b398c82e68228344243b 
+HTC-Kundenservice.
+
+Wir bitten für die entstandenen Unannehmlichkeiten um Entschuldigung. Wir werden Sie umgehend informieren, wenn die verbesserten Services verfügbar sind.
+
+Vielen Dank,
+HTC
+
+http://click.email-htc.com/?qs=e6ca698de0faa8b297358844591c88285c8ed2563a77d0e05f4127f8f20e9a629cf2a286bc59191a 
+Kundenservice |
+http://click.email-htc.com/?qs=e6ca698de0faa8b247d907eaf9ca9d15edeb05940628fd60f02a0cd82da4ed2eec9605bef2a3c7db 
+Kontakt |
+http://click.email-htc.com/?qs=e6ca698de0faa8b2b61cfa8d4888ab534c5cd631aa038690719d3685bd616c46877b1a90342f8672 
+Datenschutz 
+
+HTC Corporation | 23 Xing-Hua Rd. | Taoyuan City | Taoyuan County 330, | Taiwan 
+
+Copyright © 2012 HTC Corporation. Alle Rechte vorbehalten.
+
+© 2012 Alle Rechte vorbehalten. HTC, das HTC-Logo, das HTC Quietly Brilliant-Logo und das HTC One-Logo sind Marken der HTC Corporation. Alle weiteren hier erwähnten Unternehmens-, Produkt- und Servicenamen sind Marken oder Servicemarken ihrer jeweiligen Eigentümer. 
+
+email_promo_sensesunset_0312_DE
+
+
+
+--6erexpPCNqOo=_?:
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+<img src="http://click.email-htc.com/open.aspx?ffcb10-fece15787666067c-fe3316787566047c7d1576-fe951570706d007e71-ff311670716c-fe5610767360017f731c-ff65157975" width="1" height="1">
+<html>
+<head>
+		<style media="all" type="text/css">
+.footertop a{color:#333333;text-decoration: none; !important;}
+	
+.footerbody a{color:#666666;text-decoration: none; !important;}
+
+.topbody a{color:#333333;text-decoration: none; !important;}
+
+.preheader a{color:#656565;text-decoration: none; !important;}
+
+.ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalClass font, .ExternalClass td, .ExternalClass div {line-height: 100%;}
+
+  </style>
+	<title>Wichtiger Hinweis zu einer Serviceaänderung: bitte beachten</title>
+</head>
+<body style="margin: 0px 0px 0px 0px; padding: 0px 0px 0px 0px; background-color: #ffffff;-webkit-text-size-adjust:none; -ms-text-size-adjust:none"><div>
+	<table border="0" cellpadding="0" cellspacing="0" width="100%" >
+	<tr>
+		<td>
+		<table border="0" cellpadding="0" cellspacing="0" align="center">
+			<tr>
+				<td>
+				<table border="0" cellpadding="0" cellspacing="0" width="651">
+					<tr>
+						<td style="background-color: #ffffff;">
+							<table border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td height="20" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" width=1 height=20 /></td>
+								</tr>
+								<tr>
+									<td align="left" width="30" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=30 /></td>
+									<td style="background-color: #ffffff;">
+										<table border="0" cellpadding="0" cellspacing="0" width="100%">
+											<tr>
+												<td width="4" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=4 /></td>
+												<td style="background-color: #ffffff;">
+													<table border="0" cellpadding="0" cellspacing="0" width="100%">
+														<tr>
+															<td align="left" align="left" style="background-color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #656565;">
+															<a href="#" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #656565; text-decoration:none;" class="preheader">Laden Sie Ihre HTCSense.com-Daten bis zum 30. April runter </a>
+															</td>
+														</tr>
+													</table>
+												</td>
+												<td valign="bottom" align="right" style="background-color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #656565;">
+												<a href="http://click.email-htc.com/?qs=e6ca698de0faa8b202ccd05bffbf88468092720e6240becd3046b9d9b7b0c10efe486a13c17e3159" style="color: #656565;">Zeigen Sie diese E-Mail-Nachricht mit Bildern an</a>.
+												</td>
+												<td width="4" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=4 /></td>
+											</tr>
+										</table>
+									</td>
+									<td align="right" width="30" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=30 /></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice02.jpg" alt="" style="display:block; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333333;" width=651 height=27 border=0 /></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td><a href="http://click.email-htc.com/?qs=e6ca698de0faa8b25087213090c650831ecdf3fef51899e594418f76eeef97a8040ee6ef5901d0ca" ><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice03b.jpg" alt="HTC | quietly brilliant" style="display:block; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333333;" width=651 height=61 border=0 /></a></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td width="67"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice04.jpg" alt="" style="display:block; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333333;" width=67 height=671 border=0 /></td>
+									<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td width="519" height="35" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=35 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												Sehr geehrter <a href="#" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; text-decoration:none;" class="topbody">HTCSense.com</a>-Kunde,	
+											</td>
+										</tr>
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												<a href="#" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; text-decoration:none;" class="topbody">HTCSense.com überarbeitet derzeit seine Services und die Vorteile, die wir damit Kunden wie Ihnen zur Verfügung stellen.</a> 
+											</td>
+										</tr>
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												<a href="#" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; text-decoration:none" class="topbody">Bis die neuen Services bereit sind, werden Funktionen, die bislang auf HTCSense.com verfügbar waren, außer Betrieb genommen. Wenn Sie mit HTCSense.com Ihre Kontakte, Nachrichten, Footprints oder Ihre Anruf-Historie synchronisiert haben, können Sie diese Daten bis zum 30. April 2012 herunterladen. Nach dem 30. April werden Ihre Daten nicht mehr zugänglich sein und gelöscht.</a>   
+											</td>
+										</tr>
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												Gehen Sie wie folgt vor, um Ihre .zip-Datei herunterzuladen:
+											</td>
+										</tr>
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												<table width="519" cellpadding="5" cellspacing="0" border="0">
+												<tr>
+												<td width="10" align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">&bull;</td>
+												<td width="509" align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												Gehen Sie auf <a href="http://click.email-htc.com/?qs=e6ca698de0faa8b2f888300011ab85268aa0eb178b658edabea68b060df591a45264a9a4f1e53d2d" style="color: rgb(105,180,15)">http://htcsense.com</a></td>
+
+												</tr>
+												<tr>
+												<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">&bull;</td>
+												<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Melden Sie sich mit Ihrem <a href="#" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; text-decoration:none;" class="topbody">HTCSense.com</a>-Benutzernamen und Ihrem Kennwort an</td>
+
+												</tr>
+												<tr>
+												<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">&bull;</td>
+												<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Klicken Sie im Abschnitt &quot;Kontoübersicht&quot; auf die Schaltfläche &quot;Download&quot;</td>
+
+												</tr>
+												<tr>
+												<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">&bull;</td>
+												<td align="left" valign="top" style="font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">Eine .zip-Datei mit Ihren Daten wird auf Ihren Computer heruntergeladen, welche Sie sich problemlos anzeigen lassen können</td>
+
+												</tr>
+												</table>
+											</td>
+										</tr>
+										
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												Wenn Sie für Ihr Gerät die Telefonlokalisierung oder Backup-Services wünschen, gehen Sie bitte zu Google Play (früher Android Market), und laden Sie eine Anwendung herunter, die Ihren Anforderungen entspricht.  
+											</td>
+										</tr>
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												Wenn Sie weitere Unterstützung benötigen, wenden Sie sich bitte an den <a href="http://click.email-htc.com/?qs=e6ca698de0faa8b247f78ca45d5b4153e982f79ed540292523d3b33e7810b398c82e68228344243b" style="color: rgb(105,180,15)">HTC-Kundenservice</a>.
+											</td>
+										</tr>
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												Wir bitten für die entstandenen Unannehmlichkeiten um Entschuldigung. Wir werden Sie umgehend informieren, wenn die verbesserten Services verfügbar sind.
+											</td>
+										</tr>
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+										<tr>
+											<td width="519" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333;">
+												Vielen Dank,<br />HTC
+											</td>
+										</tr>
+										<tr>
+											<td width="519" height="20" align="left" valign="top" style="width: 519px; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333; font-weight: bold;">
+												<img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=20 width=1 />
+											</td>
+										</tr>
+									</table>
+									</td>
+									<td width="65" align="right"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice06.jpg" alt="" style="display:block; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333333;" width=65 height=671 border=0 /></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td>
+							<table border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice10.jpg" alt="" style="display:block; font-family: Arial, Helvetica, sans-serif; font-size: 14px; color: #333333;" width=651 height=38 border=0 /></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+					<tr>
+						<td style="background-color: #ffffff;">
+							<table border="0" cellpadding="0" cellspacing="0" width="100%">
+								<tr>
+									<td align="left" width="30" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=30 /></td>
+									<td style="background-color: #ffffff;">
+									<table border="0" cellpadding="0" cellspacing="0" width="100%">
+										<tr>
+											<td style="background-color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;">
+											<table border="0" cellpadding="0" cellspacing="0">
+												<tr>
+													<td style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;"><a href="http://click.email-htc.com/?qs=e6ca698de0faa8b297358844591c88285c8ed2563a77d0e05f4127f8f20e9a629cf2a286bc59191a" style="color: #333; text-decoration:none;" class="footertop">Kundenservice</a></td>
+													<td width="15"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=15 /></td>
+													<td style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;">|</td>
+													<td width="15"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=15 /></td>
+													<td style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;"><a href="http://click.email-htc.com/?qs=e6ca698de0faa8b247d907eaf9ca9d15edeb05940628fd60f02a0cd82da4ed2eec9605bef2a3c7db" style="color: #333; text-decoration:none;" class="footertop">Kontakt</a></td>
+													<td width="15"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=15 /></td>
+													<td style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;">|</td>
+													<td width="15"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=15 /></td>
+													<td style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;"><a href="http://click.email-htc.com/?qs=e6ca698de0faa8b2b61cfa8d4888ab534c5cd631aa038690719d3685bd616c46877b1a90342f8672" style="color: #333; text-decoration:none;" class="footertop">Datenschutz</a></td>
+													<td width="15"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=15 /></td>
+													<!--<td style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;">|</td>
+													<td width="15"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=15 /></td>
+													<td style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;"><a href="http://pages.email-htc.com/htc_unsubscribe/?email=ingo.skupin@web.de&sk=ingo.skupin@web.de&jid=183221&lang=&cntry=DE" style="color: #333; text-decoration:none;" class="footertop">Unsubscribe</a></td>-->
+	<td style="font-family: Arial, Helvetica, sans-serif; font-size: 11px; color: #333;"></td>
+												</tr>
+											</table>
+											</td>
+										</tr>
+										<tr>
+											<td height="15" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=15 width=1 /></td>
+										</tr>
+										<tr>
+											<td style="background-color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666;">
+											<a href="#" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666; text-decoration:none" class="footerbody">HTC Corporation | 23 Xing-Hua Rd. | Taoyuan City | Taoyuan County 330, | Taiwan<br />
+											Copyright © 2012 HTC Corporation. Alle Rechte vorbehalten.</a>
+											</td>
+										</tr>
+										<tr>
+											<td height="15" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=15 width=1 /></td>
+										</tr>
+										<tr>
+											<td style="background-color: #ffffff; font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666;">
+											<a href="#" style="font-family: Arial, Helvetica, sans-serif; font-size: 10px; color: #666; text-decoration:none" class="footerbody">© 2012 Alle Rechte vorbehalten. HTC, das HTC-Logo, das HTC Quietly Brilliant-Logo und das HTC One-Logo sind Marken der HTC Corporation. Alle weiteren hier erwähnten Unternehmens-, Produkt- und Servicenamen sind Marken oder Servicemarken ihrer jeweiligen Eigentümer.					
+											<br /><br />
+											email_promo_sensesunset_0312_DE</a>
+											</td>
+										</tr>
+										<tr>
+											<td height="25" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=25 width=1 /></td>
+										</tr>
+									</table>
+									</td>
+									<td align="right" width="65" style="background-color: #ffffff;"><img src="http://image.email-htc.com/lib/fe951570706d007e71/m/1/HTC-BazzarVoice-spacer.gif" style="display:block;" height=1 width=65 /></td>
+								</tr>
+							</table>
+						</td>
+					</tr>
+				</table>
+				</td>
+			</tr>
+		</table>
+		</td>
+	</tr>
+	</table>
+</div></body>
+</html>
+
+
+--6erexpPCNqOo=_?:--
+

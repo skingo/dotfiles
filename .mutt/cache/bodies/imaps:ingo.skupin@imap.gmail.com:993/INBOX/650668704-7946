@@ -1,0 +1,54 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.141.6.198 with SMTP id i189csp169607qhd;
+        Mon, 25 Aug 2014 10:11:57 -0700 (PDT)
+X-Received: by 10.112.28.8 with SMTP id x8mr3605288lbg.104.1408986716531;
+        Mon, 25 Aug 2014 10:11:56 -0700 (PDT)
+Return-Path: <Musikverein.Notzingen@gmx.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id k3si539708lag.22.2014.08.25.10.11.56
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 25 Aug 2014 10:11:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.4 as permitted sender) smtp.mail=Musikverein.Notzingen@gmx.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb009)
+ with ESMTPS (Nemesis) id 0M84Cv-1WQZzf3Ayv-00vf3J; Mon, 25 Aug 2014 19:11:55
+ +0200
+Received: from mout.gmx.net ([212.227.17.20]) by mx-ha.web.de (mxweb009) with
+ ESMTPS (Nemesis) id 0LzVli-1WHT3Y3Aeo-014has for <jklima@web.de>; Mon, 25 Aug
+ 2014 19:11:54 +0200
+Received: from mout.gmx.net ([212.227.17.22]) by mx-ha.gmx.net (mxgmx101) with
+ ESMTPS (Nemesis) id 0MWlAV-1Wo2rM1JkJ-00XqVW; Mon, 25 Aug 2014 19:11:27 +0200
+Received: from [84.133.229.23] by 3capp-gmx-bs60.server.lan (via HTTP); Mon,
+ 25 Aug 2014 19:11:26 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-e682f31a-1db7-45f2-9764-ffbff55c8864-1408986686814@3capp-gmx-bs60>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_Holz+Dirigent Blasorchester"
+ <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>,
+ "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>
+Subject: =?UTF-8?Q?St=C3=A4ndle_31=2E8=2E?=
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 25 Aug 2014 19:11:26 +0200
+Importance: high
+Sensitivity: Normal
+X-Priority: 1
+X-Provags-ID: V03:K0:KyR5CIrMvCoMVpPqTVE9g5nYjthR9zYrsb/b33/f9Ja
+ Z8rE4h19AogxRGZ+0gl3WGZR/jI10BReJeWQoCWv2vNylSQRQ6
+ YOLDH/UrNR47mITLu4c8NGAuHaxhK6KQJSetYH3E94Nz/N4nSJ
+ 45vZydQX3y95zycFuFuc9Yryv5aFMIDvUN/PP5do185la6Jut3
+ imzsDpQe1Qk7y6pr+iXB9k0N6AK4VaV+KFJmfaWBDHOA7eRjDm
+ 2IzqG7IOmdcVFsfNBoVKErsNRSODDxOOVO5mb3/ZzZkPtlShH/ QWyGqk=
+X-UI-Out-Filterresults: notjunk:1;
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>Am Sonntag 31.08.14 w&auml;re ein St&auml;ndle zu spielen. 10.30 Uhr bei Hans Eberle &Ouml;tlinger str.</div>
+
+<div>Bitte bis MITTWOCH 27.8. zur&uuml;ck melden ob wir eine spielf&auml;hige Mannschaft</div>
+
+<div>zusammen bekommen.</div>
+
+<div>Gru&szlig; Timo</div></div></body></html>

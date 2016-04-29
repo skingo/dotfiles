@@ -1,0 +1,568 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp261039pdb;
+        Thu, 22 Aug 2013 03:38:47 -0700 (PDT)
+Return-Path: <ml.deutschmann@gmail.com>
+Received-SPF: pass (google.com: domain of ml.deutschmann@gmail.com designates 10.52.171.38 as permitted sender) client-ip=10.52.171.38
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of ml.deutschmann@gmail.com designates 10.52.171.38 as permitted sender) smtp.mail=ml.deutschmann@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.52.171.38])
+        by 10.52.171.38 with SMTP id ar6mr9076156vdc.22.1377167926598 (num_hops = 1);
+        Thu, 22 Aug 2013 03:38:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=ydjAZifjmozdmHccexPUgKTPKUgEvLdjEyonaia8dRQ=;
+        b=qoufFKuYBPDZsgJ3paJDdXV8PVtTS7BHkKVDpPIbFHzM4IJ35Opc4Oq6gXxnxVtvue
+         9PDTslfzD0LiDsxTF5oWYBYWn+2cIKUa0b+mphTVTpJdwiC4sNB6OCeVD9FkjuQYuN0g
+         rsrruTBxE4CsBLWKyS/KE/TYVBBFaGktxJuO4qpsmXB5NhIOe3Jq3DKElYWNNsDVIIBn
+         Kr5sTh8A827Gshu/J4I+ltyf4ZeSriYbyvlU+9yvLDt9O6gxyjFBN7fGp2v96xKCF1Mf
+         rlzpTBKvVtXuZWB16BW1RPjt5fX1J8kNpEG81eDAhii8uaphtmXgg49CVLu6A6DU2efp
+         cRUQ==
+X-Received: by 10.52.171.38 with SMTP id ar6mr9076156vdc.22.1377167926588;
+ Thu, 22 Aug 2013 03:38:46 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.52.184.73 with HTTP; Thu, 22 Aug 2013 03:38:26 -0700 (PDT)
+In-Reply-To: <5215e9e8.626bb40a.5017.ffffaca4@mx.google.com>
+References: <521486a6.626bb40a.1dfb.7c21@mx.google.com> <CAO5o5Eiqw1dC4JH=Ty9z4tbvNY3e64UndoK44e=6JxcvZvLzjQ@mail.gmail.com>
+ <CAO5o5EiV5SKCem8p86=3VnP4CKF5-C5R6uCoJ55D5Wn1-L6yrg@mail.gmail.com> <5215e9e8.626bb40a.5017.ffffaca4@mx.google.com>
+From: Merle Deutschmann <ml.deutschmann@gmail.com>
+Date: Thu, 22 Aug 2013 22:38:26 +1200
+Message-ID: <CAO5o5EhHYxvX3pN_wZJBT-6zEww4zm+-P3ruOV4YvU4TE3bGHw@mail.gmail.com>
+Subject: Re: Tag 7 ohne Teks :((
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Content-Type: multipart/alternative; boundary=047d7b6d95e60f84cf04e486e5ac
+
+--047d7b6d95e60f84cf04e486e5ac
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Ich mag ungern was hier runterladen... aber ueber gmail evtl?
+
+
+Am 22. August 2013 22:37 schrieb <ingo.skupin@googlemail.com>:
+
+> noch wach?
+> Skype?
+>
+> *From:* Merle Deutschmann
+> *Sent:* =E2=80=8EThursday=E2=80=8E, =E2=80=8E22=E2=80=8E =E2=80=8EAugust=
+=E2=80=8E, =E2=80=8E2013 =E2=80=8E12=E2=80=8E:=E2=80=8E30
+> *To:* Ingo Skupin
+>
+> pps: du bist ja suess, dass du alle umlaute anders schreibst! aber ich
+> koennte mir vorstellen, dass das hier ganz normal angezeigt wird..
+> ppps: haare waschen macht strubbelig hab ich gemerkt.. mal wieder... jetz=
+t
+> hab ich mehr zu haekeln..
+>
+>
+> Am 22. August 2013 22:28 schrieb Merle Deutschmann <
+> ml.deutschmann@gmail.com>:
+>
+>> Ingo Ingo Ingo,
+>>
+>> juhu endlich ein Computer! Hoffentlich hattest du meine eine Email
+>> bekommen und auch die anderen Sms heute..
+>> Die letzten Tage waren wir bei supernetten Gasteltern, deren Computer
+>> leider kaputt war. Dazu hatte ich dann entweder kein Netz oder aber kein
+>> W-Lan und konnte dir so noch nichtmal eine Sms schreiben -.-
+>> Wie geht es dir, wie geht es deinem Bein, sind die Haare wieder
+>> ordentlich? :) Ich haekele auch schon fleissig, es geht eigentlich auch
+>> ganz gut soweit. Allerdings habe ich heute auch gemerkt, dass es ganz
+>> schoen fest wurde und ich kaum noch durchkam..
+>> Ach Kiger :) Ich freu mich auch schon auf Thailand; hier wird immer mit
+>> "oooh" reagiert, wenn ich das erzaehle. Also, meine nun die Gasteltern, =
+die
+>> natuerlich wissen wollen, was wir so machen und so weiter.
+>> Bisher hatten wir drei Konzerte und haben schon richtig viel erlebt. Das
+>> Wetter ist bei so etwa 15 Grad eigentlich aushaltbar, nur nachts wirds
+>> kalt. Da waere ein waermender Kiger nicht schlecht =3DD Vor allem heute
+>> hatten wir ein Kirchenkonzert, das war kalt ohne Ende. Dafuer ist hier n=
+un
+>> der Ofen an und ich hab mein warmes Flies, alles gut. ICh bekomme sogar
+>> Waermflaschen ins Bett, ist das nicht suess?
+>> Bei den letzten Gasteltern gab es zwei Katzen, beide etwa ein Jahr alt,
+>> die eine total verspielt und der andere etwas schneller aufgebend. Das w=
+ar
+>> total suess: Heute morgen wollten die zwei uns kaum gehen lassen.. Richt=
+ig
+>> anhaenglich.
+>> Und die Gasteltern haben uns wieder eingeladen. Ich mag nochmal
+>> herkommen. Kommst du dann mit? Die nehmen garantiert auch uns zwei auf d=
+er
+>> Durchreise auf =3DD
+>> Die Leute hier haben so ein paar lustige Attituden uebrigens. Zunaechst
+>> fahren mal alle auf der linken Seite. Also links in den Kreisverkehr rei=
+n,
+>> Steuer auf der rechten Seite, richtig britisch. Dann erinnert auch der
+>> Akzenzt an das Empire, allerdings ein bisschen modifiziert. Aber die Art=
+,
+>> wie sie mit uns umgehen und sich sehr korrekt, aber total freundlich
+>> verhalten, passt genau auf den Stereotyp. Bei den letzten Gasteltern gab=
+s
+>> auch selbstgemachte Orangenmarmelade, hab ich allerdings wegen des
+>> selbstgemachten Mueslis nicht probiert. Ueberhaupt - hier wachsen
+>> Mandarinen an den Baeumen und - um dich neidisch zu machen =3D) -
+>> Grapefruits! Und zwar nicht bitter, sondern richtig lecker. Kiwis gibts
+>> natuerlich auch und Aepfel, hmmm. BEi Kiwis muss man denn aufpassen, nic=
+ht
+>> denselben Fehler zu machen wie ich: Kiwi ist ein Neuseelaender und ein
+>> Vogel. Kiwi fruit ist die Frucht...
+>> Jetzt gerade ist etwa 22 Uhr, wir hatten das Kirchenkonzert und sind bei
+>> den zweiten Gastfamilien auf dieser Reise. Jetzt gehts fuer ein paar Tag=
+e
+>> Schlag auf Schlag, jeden Tag woanders, Konzert, neue Familie, morgens in
+>> den Bus und weiter. Mal sehen, ob ich da oefter an einen Computer komme,
+>> das sollte eigentlich meist kein Problem sein..
+>> Gerade habe ich festgestellt, dass facebook mich nicht mehr reinlaesst -
+>> ich hab zwar angefangen, die Sicherheitsfragen zu beantworten, aber da m=
+ein
+>> Freundeskreis leider auch eine umfasst, die in der Band mitspielen wollt=
+e,
+>> die ich aber bisher nicht gesehen habe, konnte ich sie auf den Fotos nic=
+ht
+>> zuordnen und wollte das ueberspringen - und aus. Jetzt gehts nur noch vo=
+m
+>> Handy aus, also auf w-lan hoffen...
+>> DU koenntest jetzt so langsam wach werden, koennte ich mir vorstellen :)
+>> Und ja, wir stehen ziemlich frueh auf..
+>> Ach du armer, mir tats richtig leid als ich deine whats app Nachricht
+>> gelesen habe, in der du dich so geaergert hast ueber die verpassten Anru=
+fe.
+>> Wahrscheinlich haetten wir auch nur kurz reden koennen, das war von der
+>> Abflughalle aus..
+>> Die Fluege verliefen ganz gut - das mit dem rail & fly ticket hab ich di=
+r
+>> geschrieben oder? Musst ein bisschen suchen am Automaten und eben den Co=
+de
+>> da von der Reisebestaetigung dabei haben..
+>> Ich hab jetzt auch mal angefangen, ein bisschen im Thailand-Reisefuehrer
+>> zu blaettern, da steht eine Packliste an Medikamenten und allem anderen,
+>> nicht schlecht.. Imodium akut sollte man wohl wirklich nicht vergessen, =
+und
+>> sag mal, woher bekommt man eigentlich ein Moskitonetz? :D Naja, wird sch=
+on
+>> alles. ICh freu mich auf jeden Fall schon auf den Moment am Flughafen in
+>> Bangkok :) Ich wuerde dann einfach gucken, dass ich schnell meinen Rucks=
+ack
+>> bekomme und raus in die Halle gehen - da gibts ja auch Cafes und
+>> Zeitungsgeschaefte etc, da wirst du dann vermutlich auf mich warten, da =
+wo
+>> auch alle anderen warten.. (?) hmmmmmmmm du :)
+>> Nimmst du dann eigentlich auch einen Rucksack mit? Nachdem ich mir extra
+>> noch so einen Sack gekauft habe, in den man den Rucksack einpacken kann
+>> damit die Baendel da nicht ueberall rumfliegen und stoeren, hab ich in
+>> Frankfurt noch festgestellt, dass das eher unnoetig war. Damit der Rucks=
+ack
+>> auch sicher ankommt hat der Typ am Schalter den Aufkleber lieber direkt =
+am
+>> Rucksack befestigen wollen und dafuer den Sack aufgeschnitten.. also, es
+>> ist nur ein kleines Loch und schien im Endeffekt auch nicht groesser zu
+>> werden, aber ja.. =3DD
+>> Dafuer hab ich den ziemlich fix und von weit weg auf dem Band erkennen
+>> koennen.
+>> Neuseelaender gucken uebrigens arg drauf, was auf ihre Insel gebracht
+>> wird. Ich musste meine Wanderschuhe auspacken und erklaeren, was in mein=
+en
+>> Muesliriegeln drin ist. Aber alles ganz freundlich, durfte alles behalte=
+n.
+>> Oh, nimm unbedingt Handcreme und Bonbons mit in den Flieger hoch..
+>> Ziemlich trockene Luft dort und nach einem Klogang hat man trockene
+>> Haende..
+>> ach du
+>> Momentan gehts mir eigentlich super hier - es ist so viel los die ganze
+>> Zeit, dass ich zum Glueck viel Ablenkung habe. Wenn wir laengere Zeit im
+>> Bus sitzen (jeden Tag mal mehr oder weniger) haekele ich meist an den
+>> Dreads herum und wobei ich an dich denke) oder hole mein Handy auch raus
+>> wie alle anderen und hoere Musik oder schaue Fotos an (Kiger :) ) oder
+>> schaue in den Thailand-Reisefuehrer (das mach ich bald mit Kiger, uiha..=
+ )
+>> oder fange an, Terry Pratchet zu lesen (hat Kiger da wirklich schon alle
+>> gelesen? wow, das waere eine Menge...) oder schaue raus (Kiger, guck mal=
+,
+>> das ist schoen da. MMS senden klappt leider nicht -.-) hm. Oder esse.
+>> (jaaa...und hab einen Kommentar im Kopf. Oder besser ein Lachen.) Und me=
+ist
+>> wird mir irgendwann kalt oder ungemuetlich und ja. Ich glaube, wir kusch=
+eln
+>> erstmal ganz viel dann. Und planen ein bisschen ;) Die erste Nacht in
+>> irgendeinem Hostel koennten wir noch buchen evtl. Oder hast du da schon =
+was
+>> ausgeguckt?
+>>
+>> Jetzt muss ich noch gucken, dass ich meinen Pass nochmal abfotografiere =
+-
+>> irgendwie schrieb mir die eine da vom Orchester, das nach China faehrt,
+>> dass da noch was nicht so sei wie sie das haben wollten.. Oder vielleich=
+t
+>> habe ich noch eine alte Email in der ich den hochgeladen hatte..
+>>
+>> Mach es mal gut, mein Kiger :) Wach schoen auf, ich geh gleich mal
+>> schlafen, bin arg muede. Bis bald wieder hoffentlich :)
+>> Teks
+>>
+>> PS: wah, es wird hoechste Zeit dass ich dich mal wieder in natura sehe -
+>> Fotos bringen leider nichts merke ich ...
+>>
+>> Am 21. August 2013 19:10 schrieb <ingo.skupin@googlemail.com>:
+>>
+>>  Guten Tag, die Schone,
+>>>
+>>> jetzt ist es dann ne ganze Woche... :,(
+>>> AAAAber dafuer ein Tag weniger, bis wir uns wiedersehen =F0=9F=98=83
+>>> Wir frieren hier bei kalten 25=C2=B0, wie siehts bei euch so aus? =F0=
+=9F=98=9C
+>>> Heute Abend geh ich noch zum Anton, dann sehen meine Dreads auch wieder
+>>> nach was aus...
+>>> Hab gestern und vorgestern mal ein bisschen selber gehaekelt und dabei
+>>> festgestellt, dass meine Dreads offenbar tatsaechlich schon spuerbar
+>>> verfilzt sind, die Nadel geht meistens schon richtig schwer durch, das =
+ist
+>>> bei deinen leichter =F0=9F=98=9C
+>>> Hab mir grade ueberlegt, dass ich vielleicht nicht gar so viel schreibe=
+,
+>>> sonst musst du ja erst mal ne halbe Stunde lesen, bevor du antworten ka=
+nnst
+>>> (natuerlich ist das der Grund f=C3=BCr die verhaeltnismaessig kurze Mai=
+l und
+>>> nicht, dass mir jetzt grade nichts mehr einfaellt... =F0=9F=98=89 )
+>>> Und falls du dich wunderst, ich schreib bewusst alle Umlaute anders,
+>>> weil ich nicht weiss, wie es in New Zealand mit der Codierung aussieht.=
+..
+>>>
+>>> Dein heute sehr frueh (kurz nach neun!!!) aufgestandener, bald
+>>> haaregewaschener Kiger
+>>>
+>>
+>>
+>
+
+--047d7b6d95e60f84cf04e486e5ac
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Ich mag ungern was hier runterladen... aber ueber gmail ev=
+tl?</div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">Am 2=
+2. August 2013 22:37 schrieb  <span dir=3D"ltr">&lt;<a href=3D"mailto:ingo.=
+skupin@googlemail.com" target=3D"_blank">ingo.skupin@googlemail.com</a>&gt;=
+</span>:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div><div style=3D"font-family:Calibri,&quot=
+;Segoe UI&quot;,Meiryo,&quot;Microsoft YaHei UI&quot;,&quot;Microsoft Jheng=
+Hei UI&quot;,&quot;Malgun Gothic&quot;,&quot;Khmer UI&quot;,&quot;Nirmala U=
+I&quot;,Tunga,&quot;Lao UI&quot;,Ebrima,sans-serif;font-size:12pt" dir=3D"l=
+tr">
+
+<div>noch wach?<br>Skype?</div><div>=C2=A0</div><div style=3D"padding-top:5=
+px;border-top-color:rgb(229,229,229);border-top-width:1px;border-top-style:=
+solid"><div><font style=3D"line-height:15pt;letter-spacing:0.02em;font-fami=
+ly:Calibri,&quot;Segoe UI&quot;,Meiryo,&quot;Microsoft YaHei UI&quot;,&quot=
+;Microsoft JhengHei UI&quot;,&quot;Malgun Gothic&quot;,&quot;Khmer UI&quot;=
+,&quot;Nirmala UI&quot;,Tunga,&quot;Lao UI&quot;,Ebrima,sans-serif;font-siz=
+e:11pt" face=3D"Calibri, &#39;Segoe UI&#39;, Meiryo, &#39;Microsoft YaHei U=
+I&#39;, &#39;Microsoft JhengHei UI&#39;, &#39;Malgun Gothic&#39;, &#39;Khme=
+r UI&#39;, &#39;Nirmala UI&#39;, Tunga, &#39;Lao UI&#39;, Ebrima, sans-seri=
+f"><b>From:</b>=C2=A0Merle Deutschmann<br>
+
+<b>Sent:</b>=C2=A0=E2=80=8EThursday=E2=80=8E, =E2=80=8E22=E2=80=8E =E2=80=
+=8EAugust=E2=80=8E, =E2=80=8E2013 =E2=80=8E12=E2=80=8E:=E2=80=8E30<br><b>To=
+:</b>=C2=A0Ingo Skupin</font></div></div><div><div class=3D"h5"><div>=C2=A0=
+</div><div dir=3D"ltr"><div>pps: du bist ja suess, dass du alle umlaute and=
+ers schreibst! aber ich koennte mir vorstellen, dass das hier ganz normal a=
+ngezeigt wird..</div>
+
+<div>ppps: haare waschen macht strubbelig hab ich gemerkt.. mal wieder... j=
+etzt hab ich mehr zu haekeln..</div>
+
+</div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">Am 22. =
+August 2013 22:28 schrieb Merle Deutschmann <span dir=3D"ltr">&lt;<a title=
+=3D"mailto:ml.deutschmann@gmail.com" href=3D"mailto:ml.deutschmann@gmail.co=
+m" target=3D"_blank">ml.deutschmann@gmail.com</a>&gt;</span>:<br>
+
+
+
+<blockquote style=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;border-left-=
+color:rgb(204,204,204);border-left-width:1px;border-left-style:solid" class=
+=3D"gmail_quote"><div dir=3D"ltr"><div class=3D"gmail_extra">Ingo Ingo Ingo=
+, </div>
+
+<div class=3D"gmail_extra">=C2=A0</div><div class=3D"gmail_extra">
+
+juhu endlich ein Computer! Hoffentlich hattest du meine eine Email bekommen=
+=C2=A0und auch die anderen Sms heute.. </div>
+
+<div class=3D"gmail_extra">Die letzten Tage waren wir bei supernetten Gaste=
+ltern, deren Computer leider kaputt war. Dazu hatte ich dann entweder kein =
+Netz oder aber kein W-Lan und konnte dir so noch nichtmal eine Sms schreibe=
+n -.- </div>
+
+
+
+
+
+<div class=3D"gmail_extra">Wie geht es dir, wie geht es deinem Bein, sind d=
+ie Haare wieder ordentlich? :) Ich haekele auch schon fleissig, es geht eig=
+entlich auch ganz gut soweit. Allerdings habe ich heute auch gemerkt, dass =
+es ganz schoen fest wurde und ich kaum noch durchkam..</div>
+
+
+
+
+
+<div class=3D"gmail_extra">Ach Kiger :) Ich freu mich auch schon auf Thaila=
+nd; hier wird immer mit &quot;oooh&quot; reagiert, wenn ich das erzaehle. A=
+lso, meine nun die Gasteltern, die natuerlich wissen wollen, was wir so mac=
+hen und so weiter. </div>
+
+
+
+
+
+<div class=3D"gmail_extra">Bisher hatten wir drei Konzerte und haben schon =
+richtig viel erlebt. Das Wetter ist bei so etwa 15 Grad eigentlich aushaltb=
+ar, nur nachts wirds kalt. Da waere ein waermender Kiger nicht schlecht =3D=
+D Vor allem heute hatten wir ein Kirchenkonzert, das war kalt ohne Ende. Da=
+fuer ist hier nun der Ofen an und ich hab mein warmes Flies, alles gut. ICh=
+ bekomme sogar Waermflaschen ins Bett, ist das nicht suess? </div>
+
+
+
+
+
+<div class=3D"gmail_extra">Bei den letzten Gasteltern gab es zwei Katzen, b=
+eide etwa ein Jahr alt, die eine total verspielt und der andere etwas schne=
+ller aufgebend. Das war total suess: Heute morgen wollten die zwei uns kaum=
+ gehen lassen.. Richtig anhaenglich. </div>
+
+
+
+
+
+<div class=3D"gmail_extra">Und die Gasteltern haben uns wieder eingeladen. =
+Ich mag nochmal herkommen. Kommst du dann mit? Die nehmen garantiert auch u=
+ns zwei auf der Durchreise auf =3DD </div><div class=3D"gmail_extra">Die Le=
+ute hier haben so ein paar lustige Attituden uebrigens. Zunaechst fahren ma=
+l alle auf der linken Seite. Also links in den Kreisverkehr rein, Steuer au=
+f der rechten Seite, richtig britisch. Dann erinnert auch der Akzenzt an da=
+s Empire, allerdings ein bisschen modifiziert. Aber die Art, wie sie mit un=
+s umgehen und sich sehr korrekt, aber total freundlich verhalten, passt gen=
+au auf den Stereotyp. Bei den letzten Gasteltern gabs auch selbstgemachte O=
+rangenmarmelade, hab ich allerdings wegen des selbstgemachten Mueslis nicht=
+ probiert. Ueberhaupt - hier wachsen Mandarinen an den Baeumen und - um dic=
+h neidisch zu machen =3D) - Grapefruits! Und zwar nicht bitter, sondern ric=
+htig lecker. Kiwis gibts natuerlich auch und Aepfel, hmmm. BEi Kiwis muss m=
+an denn aufpassen, nicht denselben Fehler zu machen wie ich: Kiwi ist ein N=
+euseelaender und ein Vogel. Kiwi fruit ist die Frucht...</div>
+
+
+
+
+
+<div class=3D"gmail_extra">Jetzt gerade ist etwa 22 Uhr, wir hatten das Kir=
+chenkonzert und sind bei den zweiten Gastfamilien auf dieser Reise. Jetzt g=
+ehts fuer ein paar Tage Schlag auf Schlag, jeden Tag woanders, Konzert, neu=
+e Familie, morgens in den Bus und weiter. Mal sehen, ob ich da oefter an ei=
+nen Computer komme, das sollte eigentlich meist kein Problem sein..</div>
+
+
+
+
+
+<div class=3D"gmail_extra">Gerade habe ich festgestellt, dass facebook mich=
+ nicht mehr reinlaesst - ich hab zwar angefangen, die Sicherheitsfragen zu =
+beantworten, aber da mein Freundeskreis leider auch=C2=A0eine umfasst, die =
+in der Band mitspielen wollte, die ich aber bisher nicht gesehen habe, konn=
+te ich sie auf den Fotos nicht zuordnen und wollte das ueberspringen - und =
+aus. Jetzt gehts nur noch vom Handy aus, also auf w-lan hoffen...</div>
+
+
+
+
+
+<div class=3D"gmail_extra">DU koenntest jetzt so langsam wach werden, koenn=
+te ich mir vorstellen :) </div><div class=3D"gmail_extra">Und ja, wir stehe=
+n ziemlich frueh auf.. </div><div class=3D"gmail_extra">Ach du armer, mir t=
+ats richtig leid als ich deine whats app Nachricht gelesen habe, in der du =
+dich so geaergert hast ueber die verpassten Anrufe. Wahrscheinlich haetten =
+wir auch nur kurz reden koennen, das war von der Abflughalle aus..</div>
+
+
+
+
+
+<div class=3D"gmail_extra">Die Fluege verliefen ganz gut - das mit dem rail=
+ &amp; fly ticket hab ich dir geschrieben oder? Musst ein bisschen suchen a=
+m Automaten und eben den Code da von der Reisebestaetigung dabei haben..</d=
+iv>
+
+
+
+
+
+<div class=3D"gmail_extra">Ich hab jetzt auch mal angefangen, ein bisschen =
+im Thailand-Reisefuehrer zu blaettern, da steht eine Packliste an Medikamen=
+ten und allem anderen, nicht schlecht.. Imodium akut sollte man wohl wirkli=
+ch nicht vergessen, und sag mal, woher bekommt man eigentlich ein Moskitone=
+tz? :D Naja, wird schon alles. ICh freu mich auf jeden Fall schon auf den M=
+oment am Flughafen in Bangkok :) Ich wuerde dann einfach gucken, dass ich s=
+chnell meinen Rucksack bekomme und raus in die Halle gehen - da gibts ja au=
+ch Cafes und Zeitungsgeschaefte etc, da wirst du dann vermutlich auf mich w=
+arten, da wo auch alle anderen warten.. (?) hmmmmmmmm du :) </div>
+
+
+
+
+
+<div class=3D"gmail_extra">Nimmst du dann eigentlich auch einen Rucksack mi=
+t? Nachdem ich mir extra noch so einen Sack gekauft habe, in den man den Ru=
+cksack einpacken kann damit die Baendel da nicht ueberall rumfliegen und st=
+oeren, hab ich in Frankfurt noch festgestellt, dass das eher unnoetig war. =
+Damit der Rucksack auch sicher ankommt hat der Typ am Schalter den Aufklebe=
+r lieber direkt am Rucksack befestigen wollen und dafuer den Sack aufgeschn=
+itten.. also, es ist nur ein kleines Loch und schien im Endeffekt auch nich=
+t groesser zu werden, aber ja.. =3DD</div>
+
+
+
+
+
+<div class=3D"gmail_extra">Dafuer hab ich den ziemlich fix und von weit weg=
+ auf dem Band erkennen koennen. </div><div class=3D"gmail_extra">Neuseelaen=
+der gucken uebrigens arg drauf, was auf ihre Insel gebracht wird. Ich musst=
+e meine Wanderschuhe auspacken und erklaeren, was in meinen Muesliriegeln d=
+rin ist. Aber alles ganz freundlich, durfte alles behalten. </div>
+
+
+
+
+
+<div class=3D"gmail_extra">Oh, nimm unbedingt Handcreme und Bonbons mit in =
+den Flieger hoch.. Ziemlich trockene Luft dort und nach einem Klogang hat m=
+an trockene Haende.. </div><div class=3D"gmail_extra">ach du</div><div clas=
+s=3D"gmail_extra">
+
+
+
+
+
+Momentan gehts mir eigentlich super hier - es ist so viel los die ganze Zei=
+t, dass ich zum Glueck viel Ablenkung habe. Wenn wir laengere Zeit im Bus s=
+itzen (jeden Tag mal mehr oder weniger) haekele ich meist an den Dreads her=
+um und wobei ich=C2=A0an dich denke) oder hole mein Handy auch raus wie all=
+e anderen und hoere Musik oder schaue Fotos an (Kiger :) ) oder schaue in d=
+en Thailand-Reisefuehrer (das mach ich bald mit Kiger, uiha.. ) oder fange =
+an, Terry Pratchet zu lesen (hat Kiger da wirklich schon alle gelesen? wow,=
+ das waere eine Menge...) oder schaue raus (Kiger, guck mal, das ist schoen=
+ da. MMS senden klappt leider nicht -.-) hm. Oder esse. (jaaa...und hab ein=
+en Kommentar im Kopf. Oder besser ein Lachen.) Und meist wird mir irgendwan=
+n kalt oder ungemuetlich und ja. Ich glaube, wir kuscheln erstmal ganz viel=
+ dann. Und planen ein bisschen ;) Die erste Nacht in irgendeinem Hostel koe=
+nnten wir noch buchen evtl. Oder hast du da schon was ausgeguckt? </div>
+
+
+
+
+<div class=3D"gmail_extra">=C2=A0</div><div class=3D"gmail_extra">Jetzt mus=
+s ich noch gucken, dass ich meinen Pass nochmal abfotografiere - irgendwie =
+schrieb mir die eine da vom Orchester, das nach China faehrt, dass da noch =
+was nicht so sei wie sie das haben wollten.. Oder vielleicht habe ich noch =
+eine alte Email in der ich den hochgeladen hatte.. </div>
+
+
+
+
+<div class=3D"gmail_extra">=C2=A0</div><div class=3D"gmail_extra">Mach es m=
+al gut, mein Kiger :) Wach schoen auf, ich geh gleich mal schlafen, bin arg=
+ muede. Bis bald wieder hoffentlich :)</div><div class=3D"gmail_extra">Teks=
+</div>
+
+
+
+<div class=3D"gmail_extra">
+=C2=A0</div><div class=3D"gmail_extra">PS: wah, es wird hoechste Zeit dass =
+ich dich mal wieder in natura sehe - Fotos bringen leider nichts merke ich =
+...<br>
+<br></div><div class=3D"gmail_quote">Am 21. August 2013 19:10 schrieb  <spa=
+n dir=3D"ltr">&lt;<a title=3D"mailto:ingo.skupin@googlemail.com" href=3D"ma=
+ilto:ingo.skupin@googlemail.com" target=3D"_blank">ingo.skupin@googlemail.c=
+om</a>&gt;</span>:<div>
+
+<div><br>
+<blockquote style=3D"margin:0px 0px 0px 0.8ex;padding-left:1ex;border-left-=
+color:rgb(204,204,204);border-left-width:1px;border-left-style:solid" class=
+=3D"gmail_quote"><div><div style=3D"font-family:Calibri,&quot;Segoe UI&quot=
+;,Meiryo,&quot;Microsoft YaHei UI&quot;,&quot;Microsoft JhengHei UI&quot;,&=
+quot;Malgun Gothic&quot;,&quot;Khmer UI&quot;,&quot;Nirmala UI&quot;,Tunga,=
+&quot;Lao UI&quot;,Ebrima,sans-serif;font-size:12pt" dir=3D"ltr">
+
+
+
+
+
+
+<div>Guten Tag, die Schone,</div><div>=C2=A0</div><div>jetzt ist es dann ne=
+ ganze Woche... :,(</div><div>AAAAber dafuer ein Tag weniger, bis wir uns w=
+iedersehen <span style=3D"font-family:&quot;Segoe UI Symbol&quot;,&quot;App=
+le Color Emoji&quot;"><span style=3D"font-family:&quot;Segoe UI Symbol&quot=
+;,&quot;Apple Color Emoji&quot;">=F0=9F=98=83</span></span></div>
+
+
+
+
+
+
+<div>Wir frieren hier bei kalten 25=C2=B0, wie siehts bei euch so aus? <spa=
+n style=3D"font-family:&quot;Segoe UI Symbol&quot;,&quot;Apple Color Emoji&=
+quot;"><span style=3D"font-family:&quot;Segoe UI Symbol&quot;,&quot;Apple C=
+olor Emoji&quot;">=F0=9F=98=9C</span></span></div>
+
+<div>Heute Abend geh ich noch zum Anton, dann sehen meine Dreads auch wiede=
+r nach was aus...</div>
+
+
+
+
+<div>Hab gestern und vorgestern mal ein bisschen selber gehaekelt und dabei=
+ festgestellt, dass meine Dreads offenbar tatsaechlich schon spuerbar verfi=
+lzt sind, die Nadel geht meistens schon richtig schwer durch, das ist bei d=
+einen leichter <span style=3D"font-family:&quot;Segoe UI Symbol&quot;,&quot=
+;Apple Color Emoji&quot;"><span style=3D"font-family:&quot;Segoe UI Symbol&=
+quot;,&quot;Apple Color Emoji&quot;">=F0=9F=98=9C</span></span></div>
+
+
+
+
+
+
+<div>Hab mir grade ueberlegt, dass ich vielleicht nicht gar so viel schreib=
+e, sonst musst du ja erst mal ne halbe Stunde lesen, bevor du antworten kan=
+nst (natuerlich ist das der Grund f=C3=BCr die verhaeltnismaessig kurze Mai=
+l und nicht, dass mir jetzt grade nichts mehr einfaellt... <span style=3D"f=
+ont-family:&quot;Segoe UI Symbol&quot;,&quot;Apple Color Emoji&quot;"><span=
+ style=3D"font-family:&quot;Segoe UI Symbol&quot;,&quot;Apple Color Emoji&q=
+uot;">=F0=9F=98=89</span></span>=C2=A0)</div>
+
+
+
+
+
+
+<div>Und falls du dich wunderst, ich schreib bewusst alle Umlaute anders, w=
+eil ich nicht weiss, wie es in New Zealand mit der Codierung aussieht...</d=
+iv><div>=C2=A0</div><div>Dein heute sehr frueh (kurz nach neun!!!) aufgesta=
+ndener, bald haaregewaschener Kiger </div>
+
+
+
+
+
+
+</div></div></blockquote></div></div></div><div class=3D"gmail_extra"><br><=
+/div></div>
+</blockquote></div><br></div>
+</div></div></div></div></blockquote></div><br></div>
+
+--047d7b6d95e60f84cf04e486e5ac--

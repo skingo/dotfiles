@@ -1,0 +1,501 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.92.135 with SMTP id cm7csp73045pdb;
+        Fri, 24 May 2013 01:51:47 -0700 (PDT)
+X-Received: by 10.112.201.4 with SMTP id jw4mr8490730lbc.47.1369385506075;
+        Fri, 24 May 2013 01:51:46 -0700 (PDT)
+Return-Path: <comm-bounces+BBC-Message-AX04B9BRYRS7R@marketplace.amazon.de>
+Received: from smtp-out-127-12.amazon.com (smtp-out-127-12.amazon.com. [176.32.127.12])
+        by mx.google.com with ESMTP id l8si5203363lal.56.2013.05.24.01.51.45
+        for <ingo.skupin@gmail.com>;
+        Fri, 24 May 2013 01:51:46 -0700 (PDT)
+Received-SPF: pass (google.com: domain of comm-bounces+BBC-Message-AX04B9BRYRS7R@marketplace.amazon.de designates 176.32.127.12 as permitted sender) client-ip=176.32.127.12;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of comm-bounces+BBC-Message-AX04B9BRYRS7R@marketplace.amazon.de designates 176.32.127.12 as permitted sender) smtp.mail=comm-bounces+BBC-Message-AX04B9BRYRS7R@marketplace.amazon.de;
+       dkim=pass header.i=h40gx4x2d17jk87@amazon.de;
+       dmarc=pass (p=NONE dis=none) d=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=h40gx4x2d17jk87@marketplace.amazon.de;
+  q=dns/txt; s=amazon201209; t=1369385534; x=1400921534;
+  h=date:from:reply-to:to:message-id:subject:mime-version;
+  bh=r9Z8ljFyqpUMacNtCzq8OnY6ZixhtthdhFMN6+/Bv/o=;
+  b=k1eJ4iIFCUWxmhMn039JlYygDQWbm3XEQgMheK0OPJtotAWLYd6HW1DQ
+   ky7YWFpTQO52ndjHLQq53jMtw7doUy4hly0MmoEwSmiFuHKnsiclW33c5
+   pqLjkDz/JYppWTuvZy7WxeEY4KLuYPTi0Gw4LgOf3qA0pXg/BR/ua1zZg
+   E=;
+Date: Fri, 24 May 2013 08:51:44 +0000 (UTC)
+From: Easynotebooks - Amazon Marketplace <h40gx4x2d17jk87@marketplace.amazon.de>
+Reply-To: Easynotebooks - Amazon Marketplace <h40gx4x2d17jk87@marketplace.amazon.de>
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.20130524085144128cb8123bca4f46bc960273c32a576b@1369385504498.rte-svc-eu-1abig-i-d09e309a.eu-west-1.amazon.com>
+Subject: Ihre Bestellung bei www.easynotebooks.de
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_1505364_553509794.1369385504495"
+Bounces-to: comm-bounces+BBC-Message-AX04B9BRYRS7R@marketplace.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-AMAZON-CATEGORY: BBC-Message
+X-Original-MessageID: <urn.correios.msg.20130524085144128cb8123bca4f46bc960273c32a576b@1369385504498.rte-svc-eu-1abig-i-d09e309a.eu-west-1.amazon.com>
+
+------=_Part_1505364_553509794.1369385504495
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Wichtiger Hinweis: Wenn Sie dieser E-Mail antworten, wird Amazon.de Ihre E-=
+Mail-Adresse mit einer von Amazon bereitgestellten Adresse ersetzen, um Ihr=
+e Identit=C3=A4t zu sch=C3=BCtzen, und die Nachricht in Ihrem Namen weiterl=
+eiten. Um einen m=C3=B6glichen Betrug zu verhindern, setzt Amazon.de Filter=
+techniken ein. Nachrichten, die diesen Filter nicht passieren, werden nicht=
+ weitergeleitet. Amazon.de beh=C3=A4lt Kopien aller =C3=BCber diesen Servic=
+e gesendeten und empfangenen E-Mails, einschlie=C3=9Flich der Nachricht, di=
+e Sie hier eingeben. Amazon.de wird diese Kopien insbesondere zur Kl=C3=A4r=
+ung von eingereichten A-bis-z-Garantie-Antr=C3=A4gen heranziehen. Indem Sie=
+ diesen Dienst nutzen, erkl=C3=A4ren Sie sich mit diesem Vorgehen einversta=
+nden.
+
+------------- Anfang der Nachricht -------------
+
+Ihre Bestellnummer: A028-8560743-2073130
+
+Bestellkommentar:
+
+
+----------------------------------------------------------------------
+
+Guten Tag,
+
+Ihre Bestellung wird soeben in unserem Hause
+bearbeitet!
+
+Ihr Easynotebooks Team
+
+NetFactory GmbH
+Gesch=C3=A4ftsbereich Easynotebooks
+Durmersheimer Str. 159
+76189 Karlsruhe
+Deutschland
+
+Tel.: 0721-93330-66
+Fax: 0721-93330-88
+
+
+Widerrufsbelehrung:=20
+----------------------------------------------------------------------
+
+Widerrufsrecht
+
+Sie k=C3=B6nnen Ihre Vertragserkl=C3=A4rung innerhalb von
+zwei Wochen ohne Angabe von Gr=C3=BCnden in Textform
+(z. B. Brief, Fax, E-Mail) oder - wenn Ihnen die
+Sache vor Fristablauf =C3=BCberlassen wird - durch
+R=C3=BCcksendung der Sache widerrufen. Die Frist
+beginnt nach Erhalt dieser Belehrung in Textform,
+jedoch nicht vor Eingang der Ware beim Empf=C3=A4nger
+(bei der wiederkehrenden Lieferung gleichartiger
+Waren nicht vor Eingang der ersten Teillieferung)
+und auch nicht vor Erf=C3=BCllung unserer
+Informationspflichten gem=C3=A4=C3=9F =C2=A7 312c Abs. 2 BGB in
+Verbindung mit =C2=A7 1 Abs. 1, 2 und 4 BGB-InfoV. Zur
+Wahrung der Widerrufsfrist gen=C3=BCgt die rechtzeitige
+Absendung des Widerrufs oder der Sache. Der
+Widerruf ist zu richten an: NetFactory
+Gesellschaft f=C3=BCr Netzwerkl=C3=B6sungen mbH,
+Gesch=C3=A4ftsbereich Easynoteboks, Durmersheimer Str.
+159, D-76189 Karlsruhe, Fax: +49 (0)721-9 33
+30-88, E-Mail: [E-Mail-Adresse entfernt]
+
+Widerrufsfolgen
+
+Im Falle eines wirksamen Widerrufs sind die
+beiderseits empfangenen Leistungen
+zur=C3=BCckzugew=C3=A4hren und ggf. gezogene Nutzungen (z.
+B. Zinsen) herauszugeben. K=C3=B6nnen Sie uns die
+empfangene Leistung ganz oder teilweise nicht oder
+nur in verschlechtertem Zustand zur=C3=BCckgew=C3=A4hren,
+m=C3=BCssen Sie uns insoweit ggf. Wertersatz leisten.
+Bei der =C3=9Cberlassung von Sachen gilt dies nicht,
+wenn die Verschlechterung der Sache ausschlie=C3=9Flich
+auf deren Pr=C3=BCfung - wie sie Ihnen etwa im
+Ladengesch=C3=A4ft m=C3=B6glich gewesen w=C3=A4re -
+zur=C3=BCckzuf=C3=BChren ist. Im =C3=9Cbrigen k=C3=B6nnen Sie die
+Pflicht zum Wertersatz f=C3=BCr eine durch die
+bestimmungsgem=C3=A4=C3=9Fe Ingebrauchnahme der Sache
+entstandene Verschlechterung vermeiden, indem Sie
+die Sache nicht wie Ihr Eigentum in Gebrauch
+nehmen und alles unterlassen, was deren Wert
+beeintr=C3=A4chtigt. Paketversandf=C3=A4hige Sachen sind auf
+unsere Gefahr zur=C3=BCckzusenden. Sie haben die Kosten
+der R=C3=BCcksendung zu tragen, wenn die gelieferte
+Ware der bestellten entspricht und wenn der Preis
+der zur=C3=BCckzusendenden Sache einen Betrag von 40
+Euro nicht =C3=BCbersteigt oder wenn Sie bei einem
+h=C3=B6heren Preis der Sache zum Zeitpunkt des
+Widerrufs noch nicht die Gegenleistung oder eine
+vertraglich vereinbarte Teilzahlung erbracht
+haben. Anderenfalls ist die R=C3=BCcksendung f=C3=BCr Sie
+kostenfrei. Nicht paketversandf=C3=A4hige Sachen werden
+bei Ihnen abgeholt. Verpflichtungen zur Erstattung
+von Zahlungen m=C3=BCssen innerhalb von 30 Tagen
+erf=C3=BCllt werden. Die Frist beginnt f=C3=BCr Sie mit der
+Absendung Ihrer Widerrufserkl=C3=A4rung oder der Sache,
+f=C3=BCr uns mit deren Empfang.
+
+Finanzierte Gesch=C3=A4fte
+
+Haben Sie diesen Vertrag durch ein Darlehen
+finanziert und widerrufen Sie den finanzierten
+Vertrag, sind Sie auch an den Darlehensvertrag
+nicht mehr gebunden, wenn beide Vertr=C3=A4ge eine
+wirtschaftliche Einheit bilden. Dies ist
+insbesondere anzunehmen, wenn wir gleichzeitig Ihr
+Darlehensgeber sind oder wenn sich Ihr
+Darlehensgeber im Hinblick auf die Finanzierung
+unserer Mitwirkung bedient. Wenn uns das Darlehen
+bei Wirksamwerden des Widerrufs oder der R=C3=BCckgabe
+bereits zugeflossen ist, tritt Ihr Darlehensgeber
+im Verh=C3=A4ltnis zu Ihnen hinsichtlich der
+Rechtsfolgen des Widerrufs oder der R=C3=BCckgabe in
+unsere Rechte und Pflichten aus dem finanzierten
+Vertrag ein. Letzteres gilt nicht, wenn der
+vorliegende Vertrag den Erwerb von Wertpapieren,
+Devisen, Derivaten oder Edelmetallen zum
+Gegenstand hat. Wollen Sie eine vertragliche
+Bindung so weitgehend wie m=C3=B6glich vermeiden,
+widerrufen Sie beide Vertragserkl=C3=A4rungen
+gesondert.
+
+
+Allgemeine Gesch=C3=A4ftsbedingungen:
+----------------------------------------------------------------------
+
+Geltungsbereich und Einbeziehung
+
+1. Es gelten unsere Allgemeinen
+Gesch=C3=A4ftsbedingungen (AGB). Unsere AGB gelten
+ausschlie=C3=9Flich. Hiervon abweichende AGB des Kunden
+werden nur durch ausdr=C3=BCckliche Vereinbarung in
+Schriftform mit uns wirksam in diesen Vertrag
+einbezogen. Die Einbeziehung abweichender AGB nach
+Abschluss des Vertrages kann formfrei vereinbart
+werden.
+2. Gegen=C3=BCber Kunden, die Unternehmen i.S.d. =C2=A7=C2=A7 14,
+310 BGB sind (UNTERNEHMEN), gelten unsere AGB auch
+f=C3=BCr zuk=C3=BCnftige Vertr=C3=A4ge mit diesen, ohne das es
+einer erneuter Vereinbarung ihrer Einbeziehung
+bedarf.
+
+II. Vertretungsmacht von Angestellten und
+Lieferpersonen
+
+ Angestellte sind nicht bevollm=C3=A4chtigt, bei
+Vertragsschluss m=C3=BCndliche Zusicherungen abzugeben
+oder m=C3=BCndlich Zus=C3=A4tze oder =C3=84nderungen des
+Vertrages mit Kunden zu vereinbaren, es sei denn
+der Umfang ihrer Vollmacht w=C3=A4re durch Gesetz
+festgelegt. Derartige Zusicherungen, Zus=C3=A4tze oder
+=C3=84nderungen von Vertr=C3=A4gen durch Angestellte
+bed=C3=BCrfen der Schriftform oder der E-Mail-Form mit
+qualifizierter elektronischer Signatur, sofern sie
+nicht vor oder nach Abschluss des Vertrages
+erfolgen.=20
+
+III. Bindung an Angebote, Angaben bei
+Vertragsabschluss, Abweichungen von Angaben bei
+Vertragsabschluss, Vertragsunterlagen,
+R=C3=BCcksendekosten beim Widerruf
+
+1. Wir sind berechtigt, unsere Angebote bis zur
+Annahme zu widerrufen, es sei denn wir bezeichnen
+unser Angebot als bindend.
+2. Ist die Anforderung oder Bestellung des Kunden
+rechtlich als Vertragsangebot i.S.d. =C2=A7 145 BGB zu
+qualifizieren, so sind wir berechtigt, dieses
+innerhalb von 5 Werktagen durch Zusendung oder
+=C3=9Cbergabe einer schriftlichen Auftragsbest=C3=A4tigung
+oder =C3=9Cbermittlung einer mit qualifizierter
+elektronischer Signatur unterzeichneten Email
+anzunehmen. An von uns gemachte bindende Angebote
+sind wir ebenfalls 5 Werktage gebunden.
+3. In Prospekten oder =C3=A4hnlichen Unterlagen
+enthaltene produktbeschreibende Angaben sowie
+=C3=B6ffentliche =C3=84u=C3=9Ferungen von uns oder von
+Herstellern sind nicht verbindlich, es sei denn
+die dort genannte Eigenschaft wurde als
+Beschaffenheit der Ware mit dem Kunden vereinbart
+oder der Kunde kann sie aufgrund der =C3=B6ffentlichen
+=C3=84u=C3=9Ferungen erwarten.
+4. An Abbildungen, Zeichnungen, Flussdiagrammen,
+Quellcodes, Objektcodes, Datentr=C3=A4gern und
+sonstigen Unterlagen und Gegenst=C3=A4nden, die nicht
+zum Liefergegenstand als solchem oder zum
+vereinbarten Lieferungs - oder Leistungsumfang
+geh=C3=B6ren, behalten wir uns unsere Eigentums- und
+Urheberrechte vor. Sie d=C3=BCrfen Dritten nicht
+zug=C3=A4nglich gemacht werden. Dies gilt insbesondere
+von Unterlagen oder Gegenst=C3=A4nden, die von uns als
+"vertraulich" bezeichnet sind; vor ihrer
+Weitergabe an Dritte bedarf es der Benennung
+des/der Dritten durch den Kunden und unserer
+ausdr=C3=BCcklichen schriftlichen Einwilligung.
+5. Das Widerrufsrecht besteht nur f=C3=BCr Verbraucher
+und nur im Fernabsatz.
+6. Das Widerrufsrecht besteht nicht bei
+Fernabsatzvertr=C3=A4gen:
+- zur Lieferung von Waren, die nach
+Kundenspezifikation angefertigt werden oder
+eindeutig auf die pers=C3=B6nlichen Bed=C3=BCrfnisse
+zugeschnitten sind oder die auf Grund ihrer
+Beschaffenheit nicht f=C3=BCr eine R=C3=BCcksendung geeignet
+sind oder schnell verderben k=C3=B6nnen oder deren
+Verfalldatum =C3=BCberschritten w=C3=BCrde,
+- zur Lieferung von Audio- oder
+Videoaufzeichnungen oder von Software, sofern die
+gelieferten Datentr=C3=A4ger vom Verbraucher entsiegelt
+worden sind,
+- zur Lieferung von Zeitungen, Zeitschriften und
+Illustrierten,
+7. Macht der Verbraucher von seinem Widerrufsrecht
+Gebrauch, so hat er die regelm=C3=A4=C3=9Figen Kosten f=C3=BCr
+die R=C3=BCcksendung der Ware zu tragen, wenn die
+gelieferte Ware der bestellten entspricht und wenn
+der Preis der zur=C3=BCckzusendenden Sache einen Betrag
+von 40 =C2=80 nicht =C3=BCbersteigt oder wenn bei einem
+h=C3=B6heren Preis der Sache der Verbraucher die
+Gegenleistung oder eine vertraglich vereinbarte
+Teilzahlung zum Zeitpunkt des Widerrufs noch nicht
+erbracht hat.
+
+IV. Preisangaben, Preise, Zahlungsbedingungen,
+Verzug
+
+1. Der vereinbarte Preis versteht sich ab
+NetFactory, ohne Anlieferung, Verpackung,
+Versicherung oder sonstige Nebenleistungen und ist
+zahlbar ohne Abzug.
+2. Ein- und Ausfuhrz=C3=B6lle sind von dem Kunden zu
+tragen. Die Beachtung von Exportvorschriften haben
+durch den Kunden zu erfolgen.=20
+3. Wechsel und Schecks werden nicht oder lediglich
+zahlungshalber angenommen. Der Kunde hat die
+anfallenden Wechsel- und Diskontspesen sowie
+Einzugsspesen zu bezahlen. Diese sind sofort
+f=C3=A4llig. F=C3=BCr rechtzeitiges Inkasso oder
+rechtzeitigen Protest haften wir nicht, sofern uns
+hierbei nur leichte Fahrl=C3=A4ssigkeit trifft.
+4. Ger=C3=A4t der Kunde mit der Zahlung ganz oder
+teilweise in Verzug, berechnen wir vorbehaltlich
+der Geltendmachung weitergehender Rechte
+Verzugszinsen nach Ma=C3=9Fgabe der gesetzlichen
+Vorschriften.
+5. Dauert der Verzug des Kunden l=C3=A4nger als 30
+Kalendertage, l=C3=A4sst er Wechsel oder Schecks zu
+Protest gehen oder wird Antrag auf Er=C3=B6ffnung des
+Insolvenzverfahrens =C3=BCber sein Verm=C3=B6gen gestellt,
+sind wir berechtigt, s=C3=A4mtliche Forderungen gegen
+den Kunden sofort f=C3=A4llig zu stellen, s=C3=A4mtliche
+Lieferungen und Leistungen zur=C3=BCckzuhalten und
+s=C3=A4mtliche Rechte aus Eigentumsvorbehalten geltend
+zu machen.
+6. Der Kunde kann nur mit unbestrittenen oder
+rechtskr=C3=A4ftig festgestellten Forderungen
+aufrechnen. Ein Zur=C3=BCckbehaltungsrecht kann nur
+geltend gemacht werden, wenn die Anspr=C3=BCche aus dem
+gleichen Vertragsverh=C3=A4ltnis resultieren.
+
+V. Lieferung, Liefertermin,
+Selbstbelieferungsvorbehalt
+
+1. Die Lieferung erfolgt in die auf unserer
+Homepage angegebenen L=C3=A4nder.
+2. Die Ware wird mit Ausnahme der Lieferung per
+Nachnahme erst nach Eingang des vollst=C3=A4ndigen
+Kaufpreises und der Versandkosten beim Verk=C3=A4ufer
+an die angegebene Lieferadresse versendet, sofern
+nicht per Rechnung (Stammkunden) ausgeliefert
+wird.=20
+3. Bei Lagerware erfolgt die Versendung innerhalb
+von maximal 4 Arbeitstagen nach Zahlungseingang
+(bzw. bei Lieferung per Nachnahme nach
+Bestellbest=C3=A4tigung), im =C3=9Cbrigen wird Ihnen die
+Lieferfrist bei der Artikelbeschreibung angezeigt.
+4. Teillieferungen erfolgen ausschlie=C3=9Flich mit
+Ihrer Zustimmung.
+5. Es wird darum gebeten, die Ware bei Lieferung
+umgehend auf Vollst=C3=A4ndigkeit, offensichtliche
+M=C3=A4ngel und Transportsch=C3=A4den zu =C3=BCberpr=C3=BCfen und
+Beanstandungen dem Verk=C3=A4ufer und dem Spediteur
+schnellstm=C3=B6glich mitzuteilen. Ihre
+Gew=C3=A4hrleistungsanspr=C3=BCche bleiben hiervon
+unber=C3=BChrt.=20
+6. Soweit Sie Verbraucher sind,  geht die Gefahr
+des zuf=C3=A4lligen Untergangs und der zuf=C3=A4lligen
+Verschlechterung der verkauften Sache w=C3=A4hrend der
+Versendung erst mit der =C3=9Cbergabe der Ware an Sie
+=C3=BCber, unabh=C3=A4ngig davon, ob die Versendung
+versichert oder unversichert erfolgt.=20
+7. Sind Sie kein Verbraucher, erfolgt die
+Lieferung und Versendung auf Ihre Gefahr.
+8. Werden wir von unserem Zulieferer selbst
+(endg=C3=BCltig) nicht beliefert, obwohl wir diesen
+sorgf=C3=A4ltig ausgew=C3=A4hlt und die Bestellung den
+Anforderungen an unsere Lieferpflicht gen=C3=BCgt, so
+werden wir von unserer Leistungspflicht befreit,
+wenn wir dem Kunden unsere Nichtbelieferung
+anzeigen und, soweit zul=C3=A4ssig, die Abtretung der
+uns gegen den Zulieferer zustehenden Anspr=C3=BCche an
+den Kunden anbieten. Bei der Auswahl unserer
+Zulieferer haften wir nicht f=C3=BCr leicht
+fahrl=C3=A4ssiges Auswahlverschulden.
+
+VI. Eigentumsvorbehalt
+
+1. Die Ware bleibt unser Eigentum bis zur
+Bezahlung des Kaufpreises, gegen=C3=BCber UNTERNEHMEN
+bis zur Bezahlung s=C3=A4mtlicher, auch k=C3=BCnftig
+entstehender Forderungen gegen den Kunden, gleich
+aus welchem Rechtsgrund (auch Wechsel, Scheck,
+Abtretung, B=C3=BCrgschaft, Schadenersatz u. a.).
+Hierzu geh=C3=B6ren auch bedingte Forderungen.
+2. Ist der Kunde UNTERNEHMEN, darf er die
+Vorbehaltsware im ordnungsgem=C3=A4=C3=9Fen
+Gesch=C3=A4ftsbetrieb, und zwar gegen Barzahlung oder
+unter Eigentumsvorbehalt, ver=C3=A4u=C3=9Fern; zu anderen
+Verf=C3=BCgungen, insbesondere zur
+Sicherheits=C3=BCbereignung und zur Verpf=C3=A4ndung. ist er
+nicht berechtigt.
+3. Ist der Kunde UNTERNEHMEN, tritt er zur
+Sicherung unserer Anspr=C3=BCche - gleich aus welchem
+Rechtsgrund (vergl. Ziff VI.1.) - schon jetzt von
+seinen Forderungen aus Lieferungen, in denen
+unsere Vorbehaltware enthalten ist, jeweils den
+Betrag mit allen Nebenrechten an uns ab, der
+unserem Rechnungspreis einschlie=C3=9Flich Umsatzsteuer
+f=C3=BCr die enthaltene Vorbehaltsware entspricht.
+4. Ist der Kunde UNTERNEHMEN und =C3=BCbersteigt der
+Wert der Gesamtheit der uns zustehenden
+Sicherheiten die H=C3=B6he der Gesamtheit unserer
+Forderungen um mehr als 30% werden wir
+Sicherheiten nach unserer Wahl auf Verlangen des
+Kunden freigeben. F=C3=A4llt die Umsatzsteuer gem=C3=A4=C3=9F =C2=A7=C2=A7
+170 Abs. 2, 171 Abs. 2, 3 InsO bei uns an, erh=C3=B6ht
+sich diese Grenze auf 40%.
+5. Ist der Kunde UNTERNEHMEN, hat er uns den
+Zugriff Dritter auf die Vorbehaltsware oder die
+uns abgetretenen Forderungen sofort schriftlich
+mitzuteilen und uns in jeder Weise bei der
+Intervention zu unterst=C3=BCtzen. Die Kosten hierzu
+tr=C3=A4gt der Kunde, wenn die Intervention erfolgreich
+war, jedoch beim Beklagten als Kostenschuldner die
+Zwangsvollstreckung vergeblich versucht wurde.
+6. Ist der Kunde UNTERNEHMEN und wird die von uns
+gelieferte Vorbehaltsware mit einer anderen
+beweglichen Sache derart verbunden, dass beide
+wesentlicher Bestandteil einer einheitlichen Sache
+werden, so ist der Kunde verpflichtet uns anteilig
+im Verh=C3=A4ltnis des Rechnungswertes der
+Vorbehaltsware zu dem der anderen Sache
+Miteigentum an der neuen Sache zu verschaffen.
+
+VII. M=C3=A4ngel der Ware
+
+1. Ist der Kunde UNTERNEHMEN hat er die Ware
+unverz=C3=BCglich - soweit zumutbar - zu untersuchen
+und erkennbare M=C3=A4ngel schriftlich und - soweit
+zumutbar - substantiiert geltend zu machen.
+2. Ist die Ware mangelhaft und ist der Kunde
+UNTERNEHMEN, sind wir abweichend von =C2=A7 439 Abs. 1
+BGB nach unserer Wahl zur Beseitigung des Mangels
+oder Ersatzlieferung berechtigt.
+3. Ist der Kunde VERBRAUCHER gelten die
+gesetzlichen Bestimmungen.
+
+VIII. Haftungsbeschr=C3=A4nkung
+
+Die Haftung richtet sich nach den gesetzlichen
+Vorschriften.
+
+IX. G=C3=BCltigkeitsbestimmung
+
+Wenn einzelne Bestimmungen dieser AGB unwirksam
+sind oder werden, bleibt die G=C3=BCltigkeit der
+=C3=BCbrigen davon unber=C3=BChrt. An Stelle der unwirksamen
+ist eine wirksame Bestimmung zu vereinbaren, die
+dem beabsichtigen Zweck der unwirksamen Bestimmung
+unter angemessener Ber=C3=BCcksichtigung der Interessen
+des Kunden am n=C3=A4chsten kommt, wenn f=C3=BCr die
+entstandene L=C3=BCcke dispositives Recht nicht
+existiert.
+
+X. Erf=C3=BCllungsort, Gerichtsstand
+
+Ist der Kunde UNTERNEHMEN, ist Erf=C3=BCllungsort f=C3=BCr
+unsere vertraglichen Pflichten und Gerichtsstand
+f=C3=BCr s=C3=A4mtliche Streitigkeiten aus dem Vertrag
+Karlsruhe. Wir d=C3=BCrfen den Kunden auch an seinem
+Sitz oder gew=C3=B6hnlichen Aufenthalt verklagen. In
+der Kunde VERBRAUCHER, ist der Gerichtsstand
+Karlsruhe f=C3=BCr den Fall, dass der Kunde keinen
+allgemeinen Gerichtsstand in der BRD hat oder nach
+Vertragsabschluss seinen Sitz oder gew=C3=B6hnlichen
+Aufenthaltsort aus dem Geltungsbereich der BRD
+verlegt. Dies gilt auch, falls der Sitz oder
+gew=C3=B6hnliche Aufenthalt des Kunden im Zeitpunkt der
+Klageerhebung nicht bekannt ist.
+
+XI. Anwendbares Recht
+
+1. Es gilt das Recht der Bundesrepublik
+Deutschland unter Ausschluss des Einheitlichen
+Gesetzes =C3=BCber den internationalen Kauf beweglicher
+Sachen und des UN-Kaufrechts sowie des
+Internationalen Privatrechts.
+2. F=C3=BChrt die oben genannte Rechtswahl dazu, dass
+dem K=C3=A4ufer, der durch die zwingenden Bestimmungen
+des Rechts des Staates, in dem er seinen
+gew=C3=B6hnlichen Aufenthalt hat, der dadurch gew=C3=A4hrte
+Schutz entzogen wird, so gilt das Recht des
+Staates, in dem der Verbraucher seinen
+gew=C3=B6hnlichen Aufenthalt hat.
+
+XII. Datenschutz
+
+1. Die Daten des Kunden werden von uns nur im
+Rahmen der Abwicklung von Vertr=C3=A4gen erhoben. Dabei
+werden die gesetzlichen Vorgaben, insbesondere des
+Telemediengesetzes und des
+Bundesdatenschutzgesetzes beachtet. Bestands- und
+Nutzungsdaten des Kunden werden nur erhoben,
+verarbeitet oder genutzt, soweit dies f=C3=BCr die
+Abwicklung des Vertragsverh=C3=A4ltnisses erforderlich
+ist.=20
+2. Ohne Einwilligung des Kunden nutzen wir Daten
+des Kunden nicht f=C3=BCr Zwecke der Werbung, Markt-
+oder Meinungsforschung.
+
+
+---------------------------------------------------------------------------=
+-
+NetFactory Gesellschaft f=C3=BCr Netzwerkl=C3=B6sungen mbH -
+Gesch=C3=A4ftsf=C3=BChrer: Thomas Anyfantis, Michael Litinas
+- RG Mannheim HRB 107744
+        USt.-IdNr.: DE 188932174 - Steuernummer:
+35007/08419 - Finanzamt Karlsruhe Stadt
+
+
+
+------------- Ende der Nachricht -------------
+
+Um Ihre Bestellung zu stornieren, klicken Sie bitte hier: http://www.amazon=
+.de/gp/help/contact/contact.html?orderID=3D028-8560743-2073130&sellerID=3DA=
+1JKW2YIU3CC6S&cancelRequest=3D1
+
+Wir m=C3=B6chten, dass Sie stets mit Vertrauen einkaufen, wenn Sie Produkte=
+ auf Amazon.de erwerben. Hier finden Sie n=C3=A4here Informationen =C3=BCbe=
+r sichere Online-Eink=C3=A4ufe (http://www.amazon.de/gp/help/customer/displ=
+ay.html?nodeId=3D13023711) und unsere Garantie f=C3=BCr den sicheren Einkau=
+f (http://www.amazon.de/gp/help/customer/display.html?nodeId=3D886414).
+
+
+
+[commMgrTok:AX04B9BRYRS7R]
+------=_Part_1505364_553509794.1369385504495--

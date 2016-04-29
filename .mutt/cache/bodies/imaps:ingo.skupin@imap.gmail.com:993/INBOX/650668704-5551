@@ -1,0 +1,69 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.92.135 with SMTP id cm7csp20946pdb;
+        Thu, 23 May 2013 02:26:06 -0700 (PDT)
+X-Received: by 10.205.128.204 with SMTP id hf12mr5986649bkc.30.1369301165256;
+        Thu, 23 May 2013 02:26:05 -0700 (PDT)
+Return-Path: <bounce@eis.de>
+Received: from srv01.eis.de (srv01.eis.de. [80.87.114.13])
+        by mx.google.com with ESMTP id tt8si4113169bkb.237.2013.05.23.02.26.04
+        for <ingo.skupin@gmail.com>;
+        Thu, 23 May 2013 02:26:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce@eis.de designates 80.87.114.13 as permitted sender) client-ip=80.87.114.13;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of bounce@eis.de designates 80.87.114.13 as permitted sender) smtp.mail=bounce@eis.de;
+       dkim=fail header.i=@eis.de
+Received: by srv01.eis.de (Postfix, from userid 0)
+	id 8A775173349; Thu, 23 May 2013 11:26:04 +0200 (CEST)
+X-DKIM: Sendmail DKIM Filter v2.8.3 srv01.eis.de 8A775173349
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=eis.de; s=default;
+	t=1369301164; bh=bEikdwS39zvzAlZQ4ZUZwTsqY6zJ3rMZcY3tLstym2g=;
+	h=To:Subject:From:Reply-To:MIME-Version:Message-Id:Date;
+	b=e+SJKDcBFV4u5ZGsPRmaFzGGhxzRCV2mOQFFE/FflANmwO6VCozFIdiQKG6Q4nfHF
+	 fsx0nltwlq8yrnYAHu/4qXgIenuDb4Hy4ornk2nRDR/fDW1+/kx8kSNky4yh4K/9pz
+	 K43RWHeNgTfte0GT/y+XawfHLmoM1ExH6RIy4Jgw=
+To: ingo.skupin@gmail.com
+Subject: Gutschein / Ihre Meinung ist uns wichtig
+From: eis.de Gutschein <gutschein@eis.de>
+Reply-To: noreply@eis.de
+MIME-Version: 1.0
+Message-Id: <20130523092604.8A775173349@srv01.eis.de>
+Date: Thu, 23 May 2013 11:26:04 +0200 (CEST)
+
+
+Sehr geehrter Herr Skupin,
+
+wir bedanken uns für Ihren Einkauf vor vier Wochen auf www.eis.de
+
+Sie haben die Möglichkeit, die bei uns gekauften Produkte in unserem Online-Shop zu bewerten und anderen Kunden Ihre Meinung, sowie Ihre Erfahrungen mitzuteilen. Als Dankeschön erhalten Sie von uns einen Warengutschein!
+
+Sie helfen dadurch mit, eine allgemein zugängliche Produktdatenbank zu schaffen, die anderen Interessierten realitätsnahe Eindrücke von den jeweiligen Produkten vermittelt und ihnen bei der Entscheidungsfindung hilft.
+
+Für Ihre Unterstützung bedanken wir uns mit 25 Cent für jedes bewertete Produkt in Form eines Warengutscheins. Nutzen Sie für die Abgabe Ihrer Bewertungen bitte den folgenden Link:
+
+www.eis.de/gutschein
+
+Der Gutscheincode wird Ihnen nach der Erfassung per E-Mail von uns zugesandt und ist 3 Monate gültig. Sie können ihn bei einer Bestellung über Ihr Kundenkonto e204868380 einlösen, wenn auch die Zahlungsart gewählt wird.
+
+Selbstverständlich genießen Sie bei Ihrer Erfahrungsbeschreibung volle Anonymität! - Kein Name und auch keine E-Mail Adresse wird veröffentlicht. Mit Ihrer Beschreibung helfen Sie auch anderen Kunden von Ihren Erfahrungen
+zu profitieren.
+
+Vielen Dank und weiterhin viel Spaß beim Einkauf,
+
+Ihr eis.de-Team
+Der einzige Erotikshop mit TÜV-Zertifikat
+
+****************************************************************************
+
+Anbieterkennzeichnung:
+
+eis.de GmbH
+Westend-Tower
+Stapenhorststr. 1
+33615 Bielefeld
+
+Geschäftsführer: Friedrich-Wilhelm Mohrmann
+
+USt.-IdentNr.:   DE246954866
+Handelsregister: HRB Nr. 38482
+Amtsgericht  Bielefeld
+

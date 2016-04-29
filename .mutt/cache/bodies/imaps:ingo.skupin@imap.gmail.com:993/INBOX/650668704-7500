@@ -1,0 +1,271 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.124.193 with SMTP id mk1csp21729pdb;
+        Sat, 3 May 2014 12:12:39 -0700 (PDT)
+X-Received: by 10.15.54.6 with SMTP id s6mr21904798eew.4.1399144358440;
+        Sat, 03 May 2014 12:12:38 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id n46si5378004eeo.157.2014.05.03.12.12.37
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 03 May 2014 12:12:38 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de;
+       dkim=pass (test mode) header.i=@pfister-tuebingen.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb006)
+ with ESMTPS (Nemesis) id 0Lp4x2-1XJHN317hM-00erKQ for
+ <ingo.skupin@gmail.com>; Sat, 03 May 2014 21:12:37 +0200
+Received: from mo4-p05-ob.smtp.rzone.de ([81.169.146.181]) by mx-ha.web.de
+ (mxweb006) with ESMTPS (Nemesis) id 0Lkf6C-1XEteL17Ui-00aRU6 for
+ <ingo.skupin@web.de>; Sat, 03 May 2014 21:12:37 +0200
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; t=1399144357; l=8683;
+	s=domk; d=pfister-tuebingen.de;
+	h=Content-Type:MIME-Version:Date:Subject:To:From:X-RZG-AUTH:
+	X-RZG-CLASS-ID;
+	bh=EpHlwBwjRnv7Y4LZVSKA2EUteBc=;
+	b=AxOxiUPhT9bjsHWfSBiU1nStpQHS/onMpVDD/7lVlj5RUiD8eYii6S3WFMuTU8zw9ND
+	gZ5KX8SNwcjjyYbLlQCZI3qlPmT68GILGZBFJGj2dPm47BtOCzD7lwrht3glSTAIvGZQZ
+	jAE+kQQdlBnajMCHUvIgh/hCT4b7VqOrACk=
+X-RZG-CLASS-ID: mo05
+X-RZG-AUTH: :P20GfE6tW++h+U+6o9olAofN86J8+0IOZC6Ym8hc9viHZILY6zWAUig1xdV9Flc74GA+Ff1CcYtg
+Received: from SabinePC (dslb-084-057-137-013.pools.arcor-ip.net [84.57.137.13])
+	by smtp.strato.de (RZmta 32.39 DYNA|AUTH)
+	with ESMTPSA id e00b46q43JCTof3
+	(using TLSv1 with cipher ECDHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate);
+	Sat, 3 May 2014 21:12:29 +0200 (CEST)
+From: "Sabine Pfister" <sabine@pfister-tuebingen.de>
+To: "'Yannick Frey'" <yannick.frey1994@web.de>,
+	"'Steffen Sautter'" <steffen.sautter@web.de>,
+	"'Tizian Decker'" <tizian_decker@web.de>,
+	"'Lena Hahn'" <LenaHahn20@web.de>,
+	<raphael@rothschink.de>,
+	"'Lukas Fischer'" <l.fischer@3-1415.de>,
+	"'Ingo Skupin'" <ingo.skupin@web.de>,
+	"'Julia Wollny'" <wollny.julia@me.com>,
+	<tkonwitschny@yahoo.de>,
+	"'Dr. Stefan Wiehr'" <stefan@wiehr.de>,
+	"'Rainer Pfister'" <rainer.pfister@me.com>,
+	"'Daniel Metzger'" <jandan@gmx.de>,
+	"'Harry D. Bath'" <harryd.bath@t-online.de>
+Subject: Geschenk Stefan Tine und Florian
+Date: Sat, 3 May 2014 21:12:29 +0200
+Message-ID: <000801cf6703$a2865870$e7930950$@pfister-tuebingen.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0009_01CF6714.66117260"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac9nAw3MpQuK9FkzQBOmPunpw75CtQ==
+Content-Language: de
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0009_01CF6714.66117260
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+=20
+
+Lukas und ich hatten dar=C3=BCber gesprochen, dass wir Stefan, Tine und =
+Florian gerne etwas f=C3=BCr die Organisation der USA-Reise schenken =
+wollten. Wir dachten Friedrichsbau (Kabarett) f=C3=BCr Florian, =
+Theater/Konzert Heidelberger Schloss Stefan und Tine. F=C3=BCr weitere =
+Vorschl=C3=A4ge sind wir nat=C3=BCrlich dankbar. W=C3=A4re es f=C3=BCr =
+jeden in Ordnung 20 Euro beizutragen dass wir etwas f=C3=BCr die 3 =
+besorgen k=C3=B6nnen? Wenn das f=C3=BCr jemand zu viel ist oder generell =
+kein Interesse besteht, ist das nat=C3=BCrlich respektiert. Ich bitte um =
+kurze R=C3=BCckmeldung, auch falls Ihr bessere Geschenkideen habt.
+
+=20
+
+Lukas, wer besorgt was????
+
+Wir sollten alles bis zum n=C3=A4chstem Wochenende haben.
+
+=20
+
+Liebe Gr=C3=BC=C3=9Fe, Sabine, Rainer und Lena
+
+=20
+
+Von: Martina [mailto:martina@pfister-heidelberg.de]=20
+Gesendet: Donnerstag, 1. Mai 2014 00:37
+An: sabine@pfister-tuebingen.de; Florian Sebert; Yannick Frey; Steffen =
+Sautter; Tizian Decker; Lena Hahn; raphael@rothschink.de; Lukas Fischer; =
+Ingo Skupin; Julia Wollny; tkonwitschny@yahoo.de; Dr. Stefan Wiehr; =
+Rainer Pfister; 'Pfister, Stefan'; Daniel Metzger; 'Harry D. Bath'
+Betreff: WG: Infos
+
+=20
+
+Anbei wie versprochen die Wegbeschreibung.
+
+=20
+
+P.S.
+
+Liebe Gr=C3=BC=C3=9Fe an alle  von Sarah, die kam gerade aus dem Bett =
+geklettert und steht neben mir ;-)
+
+=20
+
+=20
+
+  _____ =20
+
+
+ <http://www.avast.com/>=20
+
+Diese E-Mail ist frei von Viren und Malware, denn der avast! Antivirus =
+<http://www.avast.com/>  Schutz ist aktiv.=20
+
+=20
+
+
+------=_NextPart_000_0009_01CF6714.66117260
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 14 (filtered medium)"><!--[if =
+!mso]><style>v\:* {behavior:url(#default#VML);}
+o\:* {behavior:url(#default#VML);}
+w\:* {behavior:url(#default#VML);}
+.shape {behavior:url(#default#VML);}
+</style><![endif]--><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p
+	{mso-style-priority:99;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+span.E-MailFormatvorlage18
+	{mso-style-type:personal;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.E-MailFormatvorlage20
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hallo zusammen,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Lukas und ich hatten dar=C3=BCber gesprochen, dass wir Stefan, Tine =
+und Florian gerne etwas f=C3=BCr die Organisation der USA-Reise schenken =
+wollten. Wir dachten Friedrichsbau (Kabarett) f=C3=BCr Florian, =
+Theater/Konzert Heidelberger Schloss Stefan und Tine. F=C3=BCr weitere =
+Vorschl=C3=A4ge sind wir nat=C3=BCrlich dankbar. W=C3=A4re es f=C3=BCr =
+jeden in Ordnung 20 Euro beizutragen dass wir etwas f=C3=BCr die 3 =
+besorgen k=C3=B6nnen? Wenn das f=C3=BCr jemand zu viel ist oder generell =
+kein Interesse besteht, ist das nat=C3=BCrlich respektiert. Ich bitte um =
+kurze R=C3=BCckmeldung, auch falls Ihr bessere Geschenkideen =
+habt.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Lukas, wer besorgt was????<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Wir sollten alles bis zum n=C3=A4chstem Wochenende =
+haben.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Liebe Gr=C3=BC=C3=9Fe, Sabine, Rainer und =
+Lena<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>Von:</span><=
+/b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Martina [mailto:martina@pfister-heidelberg.de] <br><b>Gesendet:</b> =
+Donnerstag, 1. Mai 2014 00:37<br><b>An:</b> sabine@pfister-tuebingen.de; =
+Florian Sebert; Yannick Frey; Steffen Sautter; Tizian Decker; Lena Hahn; =
+raphael@rothschink.de; Lukas Fischer; Ingo Skupin; Julia Wollny; =
+tkonwitschny@yahoo.de; Dr. Stefan Wiehr; Rainer Pfister; 'Pfister, =
+Stefan'; Daniel Metzger; 'Harry D. Bath'<br><b>Betreff:</b> WG: =
+Infos<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";mso-fareast-=
+language:EN-US'>Anbei wie versprochen die =
+Wegbeschreibung.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'><o:p>&nbsp;=
+</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>P.S.<o:p></=
+o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif"'>Liebe =
+Gr=C3=BC=C3=9Fe an alle &nbsp;von Sarah, die kam gerade aus dem Bett =
+geklettert und steht neben mir ;-)<o:p></o:p></span></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><o:p>&nbsp;</o:p></p><div =
+class=3DMsoNormal align=3Dcenter style=3D'text-align:center'><hr =
+size=3D1 width=3D"99%" noshade style=3D'color:#909090' =
+align=3Dcenter></div><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0 =
+style=3D'border-collapse:collapse'><tr><td style=3D'padding:0cm 11.25pt =
+0cm 6.0pt'><p class=3DMsoNormal><a href=3D"http://www.avast.com/"><span =
+style=3D'text-decoration:none'><img border=3D0 id=3D"_x0000_i1026" =
+src=3D"http://static.avast.com/emails/avast-mail-stamp.png"></span></a><o=
+:p></o:p></p></td><td style=3D'padding:.75pt .75pt .75pt .75pt'><p><span =
+style=3D'font-family:"Calibri","sans-serif";color:#3D4D5A'>Diese E-Mail =
+ist frei von Viren und Malware, denn der <a =
+href=3D"http://www.avast.com/">avast! Antivirus</a> Schutz ist aktiv. =
+<o:p></o:p></span></p></td></tr></table><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0009_01CF6714.66117260--
+

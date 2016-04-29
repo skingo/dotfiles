@@ -1,0 +1,275 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.170.115.140 with SMTP id h134csp183424ykb;
+        Sat, 17 May 2014 11:04:17 -0700 (PDT)
+X-Received: by 10.180.97.68 with SMTP id dy4mr4079554wib.49.1400349857033;
+        Sat, 17 May 2014 11:04:17 -0700 (PDT)
+Return-Path: <silkeczarn@yahoo.de>
+Received: from nm40-vm7.bullet.mail.ir2.yahoo.com (nm40-vm7.bullet.mail.ir2.yahoo.com. [212.82.97.175])
+        by mx.google.com with ESMTPS id ao2si4388676wjc.71.2014.05.17.11.04.16
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sat, 17 May 2014 11:04:17 -0700 (PDT)
+Received-SPF: none (google.com: silkeczarn@yahoo.de does not designate permitted sender hosts) client-ip=212.82.97.175;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: silkeczarn@yahoo.de does not designate permitted sender hosts) smtp.mail=silkeczarn@yahoo.de;
+       dkim=pass header.i=@yahoo.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=yahoo.de
+Received: from [212.82.98.56] by nm40.bullet.mail.ir2.yahoo.com with NNFMP; 17 May 2014 18:04:16 -0000
+Received: from [46.228.39.81] by tm9.bullet.mail.ir2.yahoo.com with NNFMP; 17 May 2014 18:04:16 -0000
+Received: from [127.0.0.1] by smtp118.mail.ir2.yahoo.com with NNFMP; 17 May 2014 18:04:16 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.de; s=s1024; t=1400349856; bh=9jgkxXd+UFZT851yzMsVvBqv3SI5G4QDK9oSg8CuzQw=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Message-ID:Date:From:User-Agent:MIME-Version:To:Subject:Content-Type; b=qox24ZvX5TWPtsoyrlGmkrAf5hN5duCkLMS07tpZlFvuGMDjm5vvCki6yTHTjgQIY+ogx55ro5RQJGv8fyemR/8r7YipYHmigmriwPDF7PUC1+/8b8b/79tQFsB5afQ/vTTX0/I1b9llhsA43b27SrHOr9HA1a/REKXV+VeUqyg=
+X-Yahoo-Newman-Id: 69235.65750.bm@smtp118.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: CSOMFhsVM1mnrSz_Hcgzopsbztf_mSGUGHR_mHkvWomH8id
+ 08VcX108A0ugzQ1SuqnkbOcEDFRNy2KI7fmym5CsvfRMJf1xYWmYCe2tHUqJ
+ OLJ7WNQef.oSUFWQ.VyMKixIR7ej.LSIeIsm9L2mBx6BWRMxK1anAzUV6y9i
+ w1_cUL2BPwT6OQ.09SbwwHVxbDzK25XZkix3F8PcnvXOP5kiI_Pplsud3Hmd
+ SDYiYuLzpQY.SjLe9jsucLnFYox.8Zu.SgLJrLKENh2qoSmyW5vflPUUq4Sv
+ 2T0_dsJyrx95Qh1ZBQZ81YqWPCXN0.sCnM7nl0t7getPTgUv3y.AFfCibNuV
+ RHoI5WUzrZi4GUJsMKuy3Ol4EQ7spJ3tOoGkEK3ySJjZdBQlnTxYoHM8oNaO
+ kRxOyrGxwnxY63unip591Sw2zxQTAXCahdZ93aJ8LamSZ2wpZ1CtOfCoDGoo
+ nudziZfIyib5x3bjiA4QbHlHIi8mpMgJar_dJdVEB5QgwhKqi0KMW0kSaHR0
+ 7JVi2BagrPPs1QpIbEwBdGB5EKz0ijBmPBVUiGuxL_DBEhh6jgQyvvhArE74
+ AEm0RMINf27b4z1Tmq6WWQVYk2d3ItcsbHFTpOPk3k9I.YQ1swXlyQa_3LHR
+ 4
+X-Yahoo-SMTP: DpzBWgGswBBCrqc17gq8BnpqtJD1tMY-
+X-Rocket-Received: from [127.0.0.1] (silkeczarn@95.113.173.4 with plain [188.125.69.59])
+        by smtp118.mail.ir2.yahoo.com with SMTP; 17 May 2014 18:04:16 +0000 UTC
+Message-ID: <5377A497.3060302@yahoo.de>
+Date: Sat, 17 May 2014 20:04:07 +0200
+From: Silke Czarnetzki <silkeczarn@yahoo.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Subject: FP
+Content-Type: multipart/mixed;
+ boundary="------------080209070602090309050602"
+
+This is a multi-part message in MIME format.
+--------------080209070602090309050602
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Moin Ingo,
+
+ich hab dir mal den Quatsch, den ich heute zusammengeschrieben habe, 
+angehängt.
+Hab mich wirklich nicht mit Ruhm bekleckert - als Ausrede: Musste heute 
+auch arbeiten, hat mir ordentlich gestunken.
+Bei der XML ist noch alles ein Geficke und nix tut. Wenn du mir spontan 
+n Tipp hast wo's hängt, ohne, dass du lang drüber schauen musst, wär ich 
+dir dankbar. Sonst frickel ich morgen weiter.
+Kannst ja sonst mal drüberschauen, ob wir so grob das gleiche überlegt 
+haben.
+Bei der 4 hab ich zwei mal Eq gebaucht - hast du's auch ohne? Mir ist 
+spontan nix eingefallen.
+
+LG,
+eine unzufriedene Silke ;P
+
+--------------080209070602090309050602
+Content-Type: text/x-haskell;
+ name="FP04.hs"
+Content-Transfer-Encoding: 7bit
+Content-Disposition: attachment;
+ filename="FP04.hs"
+
+{-# LANGUAGE FlexibleInstances    #-}
+
+module FP04 where
+
+-- FP Assignment 04. Include all your solutions in this file.
+
+import Text.PrettyPrint
+import Text.Read
+{--
+Task one
+
+1. Type of a value contains type variables and can adopt any type that results from substituting those variables
+Source: http://www.haskell.org/haskellwiki/Polymorphism#Parametric_polymorphism
+For example 
+id: a -> a
+id x = x
+can be applied to any argument x of type t and results in a value of type t
+
+2. Ad-hoc polymorphism is similar to overloading of operators in some languages
+For examle
+==
+is defined for Integer as well as for Bool values
+
+3. Real a, Fractional a
+--}
+
+-- Define natural numbers according to peano axioms
+
+data Nat = Zero | Succ Nat
+	deriving (Show)
+-- Implement Eq for natural numbers
+
+instance Eq Nat where
+	Zero == Zero = True
+	(Succ n) == (Succ m) = (n == m)
+	_ == _ = False
+
+-- Provided code for task 2 (Natural numbers)
+
+class Natural a where
+    add          :: a -> a -> a
+    safeSubtract :: a -> a -> Maybe a
+    multiply     :: a -> a -> a
+    power        :: a -> a -> a
+    zero         :: a
+    incr         :: a -> a
+    toInt        :: a -> Int
+	
+	
+-- Default implementations for power
+	
+-- Define an instance of Natural for Int
+
+instance Natural Integer where
+	add n m = n+m
+	safeSubtract n m | (n >= m)  = Just (n-m)
+					 | otherwise = Nothing
+	multiply n m = n*m
+	power n m = n^m
+	zero = 0
+	incr n = n+1
+	toInt n = fromInteger n
+	
+-- Define an instance of Natural for Nat
+
+instance Natural Nat where
+	add Zero m = m
+	add (Succ n) m = add n (Succ m)
+	
+	safeSubtract n Zero = Just n
+	safeSubtract Zero (Succ n) = Nothing
+	safeSubtract (Succ n) (Succ m)	= safeSubtract n m
+	
+	multiply Zero _ = Zero
+	multiply _ Zero = Zero
+	multiply (Succ n) m = add m (multiply n m)
+	
+	power Zero _ = Zero
+	power _ Zero = Succ Zero
+	power n (Succ m) = multiply n (power n m)
+	
+	zero = Zero
+	
+	incr n = Succ n
+	
+	toInt Zero 	   = 0
+	toInt (Succ n) = 1 + (toInt n)
+
+	
+-- Code task 3
+
+f1 r = r*sin 0.2
+f2 x = [x] : [4 ,5 ,6]
+f3 xs = map ( -1) xs
+
+-- Provided code for task 4 (XML serialization)
+
+----------------------------------------------------------------------------
+-- Types for simple XML trees
+
+data NTree a = NTree a [NTree a]
+
+data XNode = XTag String
+           | XText String
+
+type Xml = NTree XNode
+
+xt1 :: Xml
+xt1 = mkTag "foo" [ mkText "sometext"
+                  , mkTag "bar" [mkText "someothertext"]
+                  , mkEmptyTag "baz"
+                  ]
+
+----------------------------------------------------------------------------
+-- XML constructor functions
+
+mkTag :: String -> [Xml] -> Xml
+mkTag t cs = NTree (XTag t) cs
+
+mkText :: String -> Xml
+mkText t = NTree (XText t) []
+
+mkEmptyTag :: String -> Xml
+mkEmptyTag t = mkTag t []
+
+----------------------------------------------------------------------------
+-- XML pretty printing
+
+angles :: Doc -> Doc
+angles d = char '<' <> d <> char '>'
+
+openTag :: String -> Doc
+openTag = angles . text
+
+closingTag :: String -> Doc
+closingTag t = angles $ char '/' <> text t
+
+emptyTag :: String -> Doc
+emptyTag t = angles $ text t <> char '/'
+
+renderXml :: Xml -> Doc
+renderXml (NTree (XTag t) []) = emptyTag t
+renderXml (NTree (XTag t) cs) = openTag t <> hcat (map renderXml cs) <> closingTag t
+renderXml (NTree (XText t) _) = text t
+
+prettyXml :: Xml -> String
+prettyXml = render . renderXml
+
+-- Code to be written
+
+instance Show Xml where
+	show = prettyXml
+
+class XmlSer a where
+	toXml :: a -> Xml
+	fromXml :: Xml -> Maybe a
+	
+instance XmlSer Integer where
+	toXml n = mkTag "int" [mkText $ show n]
+	fromXml _ = Nothing
+
+instance XmlSer Bool where
+	toXml bool = mkTag "bool" [mkText $ show bool]
+	fromXml _ = Nothing
+	
+instance XmlSer () where
+	toXml void = mkEmptyTag "void"
+	fromXml _ = Nothing
+
+instance (XmlSer a, XmlSer b) => XmlSer (a,b) where
+	toXml (x,y) = mkTag "pair" [toXml x, toXml y]
+	fromXml _ = Nothing
+
+instance XmlSer a => XmlSer [a] where
+	toXml []  = mkEmptyTag "list"
+	toXml xs  = mkTag "list" (map mkElement xs)
+				where mkElement x = mkTag "element" [toXml x]
+	fromXml _ = Nothing
+
+instance XmlSer (Maybe a) where
+	toXml Nothing = mkEmptyTag "nothing"
+	fromXml _ = Nothing
+	
+-- Code for task 4
+
+type FMap a b = a -> Maybe b
+
+emptyMap :: FMap a b
+emptyMap = (\_ -> Nothing)
+
+(|->|) :: Eq a => a -> b -> FMap a b
+(|->|) x y = (\z -> if z == x then Just y else Nothing)
+
+find :: a -> FMap a b -> Maybe b
+find x fmap = fmap x
+
+joinMaps :: Eq b => FMap a b -> FMap a b -> FMap a b
+joinMaps fmap1 fmap2 = (\z -> if (find z fmap1) == Nothing then find z fmap2 else find z fmap1)
+--------------080209070602090309050602--

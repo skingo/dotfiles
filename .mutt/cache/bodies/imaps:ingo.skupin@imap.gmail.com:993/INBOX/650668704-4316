@@ -1,0 +1,666 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp338604vcb;
+        Mon, 19 Nov 2012 15:50:07 -0800 (PST)
+Received: by 10.14.0.3 with SMTP id 3mr11928705eea.16.1353369006415;
+        Mon, 19 Nov 2012 15:50:06 -0800 (PST)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTP id j49si18929468eep.129.2012.11.19.15.50.04;
+        Mon, 19 Nov 2012 15:50:06 -0800 (PST)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-oa0-f48.google.com ([209.85.219.48]) by mx-ha.web.de
+ (mxweb007) with ESMTP (Nemesis) id 0LzL73-1TEiYk0xfN-014zUJ for
+ <ingo.skupin@gmail.com>; Tue, 20 Nov 2012 00:50:04 +0100
+Received: by mail-oa0-f48.google.com with SMTP id h2so4675258oag.7
+        for <multiple recipients>; Mon, 19 Nov 2012 15:50:02 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:cc:content-type;
+        bh=Ww64pwxDb1sEBkgKmnct6y72CH1h6uy86HbJRLR0nH8=;
+        b=UhXyRvXTYIJBh5AJVgxOdI8t+EsTOzilhiBY3zXNuEXpYqdQJJjyKTfzIa20UbB2zb
+         4mJeD609dQMAt93HHNvhTQaCXmN/qCYeIciEosjaQD0dDCRMqUuoUoNDM0ZGREgf4/gU
+         6t752/Cjzg/RhIpuAG9ORgYNkADqrks4HPnhRV4P5SI0HNkBf7E7wLVgB6AI1I61Wgrt
+         rXZ1Bs0wr+Mu/PKPdxpztNxoKAsVpekpnBDS7BenNY2JiaL+66kr44W4P8kQPRtbVQFX
+         EjjBJQdB2dp5EH3Yi//9byYC91lGw3AVfdWxABoDshl0ADNQ/YzjswlXvytpbe/AzEls
+         XrNg==
+MIME-Version: 1.0
+Received: by 10.182.45.8 with SMTP id i8mr12160741obm.64.1353369002115; Mon,
+ 19 Nov 2012 15:50:02 -0800 (PST)
+Sender: fmsebert@gmail.com
+Received: by 10.76.12.199 with HTTP; Mon, 19 Nov 2012 15:50:02 -0800 (PST)
+In-Reply-To: <8CF94C57036D642-1994-2B866@webmail-d136.sysops.aol.com>
+References: <26DB798E-8EBD-4459-AA3B-FF78766BED42@Pfister-heidelberg.de>
+	<8CF94C57036D642-1994-2B866@webmail-d136.sysops.aol.com>
+Date: Tue, 20 Nov 2012 00:50:02 +0100
+X-Google-Sender-Auth: K-AYdF9KynGHV41TAzSMeKOeWyY
+Message-ID: <CAN1A5uCoDmnm-+zQx=JrbaMA5vSTG=F0opaBZ-kTd0VJPCMDyA@mail.gmail.com>
+Subject: Re: Probewochenende und Konzertwochenende
+From: Florian Sebert <florian@floriansebert.de>
+To: Lukas Fischer <lukasfischer1@aol.com>
+Cc: Martina Pfister <Martina@pfister-heidelberg.de>, 
+	Sabine Pfister <pfistersabine@googlemail.com>, Steffen Sautter <steffen.sautter@web.de>, 
+	Yannick Frey <yannick.frey1994@web.de>, Tizian Decker <tizian_decker@web.de>, 
+	"christine-erchinger@web.de" <christine-erchinger@web.de>, "Dr. Stefan Wiehr" <stefan@wiehr.de>, 
+	Ingo Skupin <ingo.skupin@web.de>, Rainer Pfister <rainer.pfister@me.com>, 
+	christian.hofstaetter@onlinehome.de, 
+	Stefan Pfister <s.pfister@dkfz-heidelberg.de>, "Harry D. Bath" <harryd.bath@t-online.de>, 
+	"kinderaerztin_susanne@t-online.de Pfister" <kinderaerztin_susanne@t-online.de>, Gerhard Nagel <grnagel@web.de>, 
+	"jandan@gmx.de" <jandan@gmx.de>
+Content-Type: multipart/alternative; boundary=f46d044480ed9f04b704cee1c672
+
+--f46d044480ed9f04b704cee1c672
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hey,
+
+du k=F6nntest das Passwort auf StimmverteilungAusfuellen =E4ndern...
+
+Gru=DF,
+Florian
+
+
+2012/11/20 <lukasfischer1@aol.com>
+
+> Liebes Saxophon- Ensemble,
+>
+> wie Martina bereits angedeutet hat gibt es einen "Prototyp" eines
+> gesch=FCtzten Bereiches. Ihr erreicht diesen indem ihr auf der Homepage
+>            www.saxphon-ensemble.de
+> ganz nach unten scrollt und auf den Link "intern" klickt. Ihr k=F6nnt euc=
+h
+> dort mit folgenden Daten eintragen:
+>            User: ensemble
+>            Passwort:  HarryDBath
+>
+> Es wird dann im linken Men=FC ein neuer Link "Intern" freigeschalten. Dor=
+t
+> findet ihr auch die EIntragsliste f=FCr die Weihnachtsfeier. Dort k=F6nnt=
+ ihr
+> eure Leckereien f=FCr alle Sichtbar mit einem Klick auf "Add Comment" obe=
+n
+> rechts ank=FCndigen. Ich freue mich bereits auf eure Vorschl=E4ge.
+>
+> Neben diesem fantastischen Feature werde ich au=DFerdem versuchen auch do=
+rt
+> eine aktuelle Terminliste zu halten!
+>
+> Bei Fragen stehe ich euch jederzeit zur Verf=FCgung
+> Gr=FC=DFe soweit
+> Lukas
+>
+>
+> -----Urspr=FCngliche Mitteilung-----
+> Von: Martina Pfister <Martina@Pfister-heidelberg.de**>
+> An: Sabine Pfister <pfistersabine@googlemail.com>**; Steffen Sautter <
+> steffen.sautter@web.de>; Florian Sebert <florian@floriansebert.de>;
+> Yannick Frey <yannick.frey1994@web.de>; Tizian Decker <
+> tizian_decker@web.de>; Christine Erchinger <christine-erchinger@web.de>;
+> Dr. Stefan Wiehr <stefan@wiehr.de>; Ingo Skupin <ingo.skupin@web.de>;
+> Lukas Fischer <lukasfischer1@aol.com>; Rainer Pfister <
+> rainer.pfister@me.com>; christian.hofstaetter <christian.hofstaetter@**
+> onlinehome.de <christian.hofstaetter@onlinehome.de>>; Stefan Pfister <
+> s.pfister@dkfz-heidelberg.de>**; Harry D. Bath <harryd.bath@t-online.de>;
+> kinderaerztin_susanne@t-**online.de <kinderaerztin_susanne@t-online.de>Pf=
+ister <
+> kinderaerztin_susanne@t-**online.de <kinderaerztin_susanne@t-online.de>>;
+> Gerhard Nagel <grnagel@web.de>; Daniel Metzger <jandan@gmx.de>
+> Verschickt: Mo, 19 Nov 2012 10:37 pm
+> Betreff: Probewochenende und Konzertwochenende
+>
+>
+>
+> Hallo alle zusammen,
+>
+>
+> das n=E4chste Wochenende naht:
+>
+>
+> Samstag, 24.11.
+> Treffen: 9 Uhr
+> Spielbeginn: 9:30 Uhr
+> Ziel: Programm f=FCr die beiden Konzerte am 01.12. draufschaffen :-)
+> Mittagspause: 13:00-14:30 Uhr
+> Ende: 17 Uhr
+> Im Anschlu=DF: Weihnachtsfeier
+>
+>
+> Wir k=FCmmern uns um Hauptspeise und Deko, es w=E4re super, wenn jeder vo=
+n
+> Euch einen Salat,
+> oder etwas zum Nachtisch mitbringen k=F6nnte.
+> @Lukas: gibt es die M=F6glichkeit eine Liste in den gesch=FCtzten Bereich=
+ auf
+> der Homepage zu stellen, so dass alle vom Frontend aus etwas eintragen
+> k=F6nnen?
+>
+>
+>
+>
+> Sonntag: 25.11.
+> Trotz Weihnachtsfeier :-)
+> Treff: 9 Uhr
+> Spielbeginn: 9:30 Uhr
+> Ziel: s.o.
+> Mittagspause: 13 Uhr, aber nur kurz und mit Vesper
+> Ende: 16 Uhr
+>
+>
+> Dann noch zu unserem Konzertmarathon die Woche drauf:
+>
+>
+> Samstag, 01.12.
+>
+>
+> KONZERT 1:
+>
+>
+> 9:00 Uhr Aufbau f=FCr das "Umrahmungskonzert" beim Symposium
+> Wir spielen in drei Bl=F6cken
+> Ende gegen 13 Uhr
+>
+>
+> Programm:
+>
+>
+>
+> Block I    Wassermusik Ouvert=FCre, 2. Adagio e staccato, 3 Satz
+>
+> Block II Nu=DFknacker Ouvert=FCre, March, Trepak.
+>
+> Block III Wassermusik 7. Minuet, Nr. 5 Allegro, H=F6llentanz
+>
+>
+> Wir werden aber am Wochenende auch den kompletten Nu=DFknacker, die
+> Jazz-Suite und alle S=E4tze der Serenade
+> =FCben, so dass sich hier an den Bl=F6cken noch was =E4ndern kann.
+>
+>
+>
+>
+> Was das Programm dieses Symposiums anbetrifft, so sieht das folgenderma=
+=DFen
+> aus:
+>
+>
+>
+> 1. Programm am 01.12. vormittags (Kongressuntermalung)
+>
+>
+> Der Ablauf ist wie folgt:
+>
+>
+>
+>
+> 10.30
+>
+> Begr=FC=DFung Frau Geib
+>
+> H=F6rsaal Medizin Klinik
+>
+>
+>
+> Gru=DFwort Herr Adler
+>
+> H=F6rsaal Medizin Klinik
+>
+>
+>
+> Musik Block 1
+>
+> H=F6rsaal Medizin Klinik
+>
+> Ca 11.00
+>
+> Vortrag Andreas Kulozik
+>
+> H=F6rsaal Medizin Klinik
+>
+>
+>
+> Vortrag Stefan Pfister
+>
+> H=F6rsaal Medizin Klinik
+>
+>
+>
+> Vortrag Olaf Witt
+>
+> H=F6rsaal Medizin Klinik
+>
+>
+>
+> Vortrag Peggy L=FCttich
+>
+> H=F6rsaal Medizin Klinik
+>
+> Ca 12.00
+>
+> Musik Block 2
+>
+> H=F6rsaal Medizin Klinik
+>
+>
+>
+> Schlusswort Frau Baldes
+>
+> H=F6rsaal Medizin Klinik
+>
+>
+>
+> Essen
+>
+> Foyer Med Klinik
+>
+> Ca 12:30
+>
+> Musik Block 3
+>
+> Foyer Med Klinik
+>
+> 13.15
+>
+> F=FChrungen Kinderplanet, Elternwohnen, Station K3
+>
+> Zentrum f=FCr K u J M
+>
+>
+>
+>
+>
+> KONZERT 2:
+> Danach geht es dann gleich weiter in Richtung: Jakobuskirche in
+> Heidelberg-Neuenheim.
+> Hier spielen wir ab 15 Uhr den Nu=DFknacker als "Kinderkonzert", so wie i=
+n
+> Lustnau Anfang des Jahres.
+>
+>
+> Wir werden in Heidelberg sein, so dass unser Auto f=FCr Schlagzeugtranspo=
+rt
+> etc. nicht zur Verf=FCgung steht.
+> Das k=F6nnen wir dann aber ja am Probewochenende kl=E4ren, genauso wie di=
+e
+> Besetzung beim Weihnachtsmarkt.
+> Beim Weihnachtsmarkt werden wir nur am Samstag spielen, daf=FCr mit Harry=
+,
+> und zwar von 13-14 Uhr.
+> Kann da jemand nicht?
+>
+>
+> Anbei auch die Liste er restlichen Termine dieses Jahr, mit der Bitte, di=
+e
+> Abwesenheit noch mal zu checken, ob das noch
+> so aktuell ist.
+>
+>
+>
+> Liebe Gr=FC=DFe
+>
+>
+> Tine
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+> Musikschule
+> T=FCbinger Saxophon-Ensemble
+> ______________________________**___
+>
+>
+> Martina Pfister
+> Amselgasse 4/3
+> 69121 Heidelberg
+>
+>
+> Tel  (06 22 1) 58 69 69
+> Fax (06 22 1) 58 69 70
+> info@saxophon-ensemble.de
+> www.saxophon-ensemble.de
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+
+
+
+--=20
+Dr. Florian Sebert
+d-fine GmbH
+Munich Office
+Bavariafilmplatz 8, 82031 Gr=FCnwald
+Mobil +49 (0)162 2631334
+Tel    +49 (0)89 7908617 391
+Fax   +49 (0)89 7908617 202
+www.d-fine.de
+
+--f46d044480ed9f04b704cee1c672
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div>Hey,</div><div>=A0</div><div>du k=F6nntest das Passwort auf Stimmverte=
+ilungAusfuellen =E4ndern...</div><div>=A0</div><div>Gru=DF,</div><div>Flori=
+an</div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">2012/=
+11/20  <span dir=3D"ltr">&lt;<a href=3D"mailto:lukasfischer1@aol.com" targe=
+t=3D"_blank">lukasfischer1@aol.com</a>&gt;</span><br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Liebes Saxophon- Ensemble,<br>
+<br>
+wie Martina bereits angedeutet hat gibt es einen &quot;Prototyp&quot; eines=
+ gesch=FCtzten Bereiches. Ihr erreicht diesen indem ihr auf der Homepage<br=
+>
+=A0 =A0 =A0 =A0 =A0 =A0<a href=3D"http://www.saxphon-ensemble.de" target=3D=
+"_blank">www.saxphon-ensemble.de</a><br>
+ganz nach unten scrollt und auf den Link &quot;intern&quot; klickt. Ihr k=
+=F6nnt euch dort mit folgenden Daten eintragen:<br>
+=A0 =A0 =A0 =A0 =A0 =A0User: ensemble<br>
+=A0 =A0 =A0 =A0 =A0 =A0Passwort: =A0HarryDBath<br>
+<br>
+Es wird dann im linken Men=FC ein neuer Link &quot;Intern&quot; freigeschal=
+ten. Dort findet ihr auch die EIntragsliste f=FCr die Weihnachtsfeier. Dort=
+ k=F6nnt ihr eure Leckereien f=FCr alle Sichtbar mit einem Klick auf &quot;=
+Add Comment&quot; oben rechts ank=FCndigen. Ich freue mich bereits auf eure=
+ Vorschl=E4ge.<br>
+
+<br>
+Neben diesem fantastischen Feature werde ich au=DFerdem versuchen auch dort=
+ eine aktuelle Terminliste zu halten!<br>
+<br>
+Bei Fragen stehe ich euch jederzeit zur Verf=FCgung<br>
+Gr=FC=DFe soweit<br>
+Lukas<br>
+<br>
+<br>
+-----Urspr=FCngliche Mitteilung-----<br>
+Von: Martina Pfister &lt;Martina@Pfister-heidelberg.de<u></u>&gt;<br>
+An: Sabine Pfister &lt;<a href=3D"mailto:pfistersabine@googlemail.com" targ=
+et=3D"_blank">pfistersabine@googlemail.com</a>&gt;<u></u>; Steffen Sautter =
+&lt;<a href=3D"mailto:steffen.sautter@web.de" target=3D"_blank">steffen.sau=
+tter@web.de</a>&gt;; Florian Sebert &lt;<a href=3D"mailto:florian@florianse=
+bert.de" target=3D"_blank">florian@floriansebert.de</a>&gt;; Yannick Frey &=
+lt;<a href=3D"mailto:yannick.frey1994@web.de" target=3D"_blank">yannick.fre=
+y1994@web.de</a>&gt;; Tizian Decker &lt;<a href=3D"mailto:tizian_decker@web=
+.de" target=3D"_blank">tizian_decker@web.de</a>&gt;; Christine Erchinger &l=
+t;<a href=3D"mailto:christine-erchinger@web.de" target=3D"_blank">christine=
+-erchinger@web.de</a>&gt;; Dr. Stefan Wiehr &lt;<a href=3D"mailto:stefan@wi=
+ehr.de" target=3D"_blank">stefan@wiehr.de</a>&gt;; Ingo Skupin &lt;<a href=
+=3D"mailto:ingo.skupin@web.de" target=3D"_blank">ingo.skupin@web.de</a>&gt;=
+; Lukas Fischer &lt;<a href=3D"mailto:lukasfischer1@aol.com" target=3D"_bla=
+nk">lukasfischer1@aol.com</a>&gt;; Rainer Pfister &lt;<a href=3D"mailto:rai=
+ner.pfister@me.com" target=3D"_blank">rainer.pfister@me.com</a>&gt;; christ=
+ian.hofstaetter &lt;<a href=3D"mailto:christian.hofstaetter@onlinehome.de" =
+target=3D"_blank">christian.hofstaetter@<u></u>onlinehome.de</a>&gt;; Stefa=
+n Pfister &lt;<a href=3D"mailto:s.pfister@dkfz-heidelberg.de" target=3D"_bl=
+ank">s.pfister@dkfz-heidelberg.de</a>&gt;<u></u>; Harry D. Bath &lt;<a href=
+=3D"mailto:harryd.bath@t-online.de" target=3D"_blank">harryd.bath@t-online.=
+de</a>&gt;; <a href=3D"mailto:kinderaerztin_susanne@t-online.de" target=3D"=
+_blank">kinderaerztin_susanne@t-<u></u>online.de</a> Pfister &lt;<a href=3D=
+"mailto:kinderaerztin_susanne@t-online.de" target=3D"_blank">kinderaerztin_=
+susanne@t-<u></u>online.de</a>&gt;; Gerhard Nagel &lt;<a href=3D"mailto:grn=
+agel@web.de" target=3D"_blank">grnagel@web.de</a>&gt;; Daniel Metzger &lt;<=
+a href=3D"mailto:jandan@gmx.de" target=3D"_blank">jandan@gmx.de</a>&gt;<br>
+
+Verschickt: Mo, 19 Nov 2012 10:37 pm<br>
+Betreff: Probewochenende und Konzertwochenende<div><div class=3D"h5"><br>
+<br>
+<br>
+Hallo alle zusammen,<br>
+<br>
+<br>
+das n=E4chste Wochenende naht:<br>
+<br>
+<br>
+Samstag, 24.11.<br>
+Treffen: 9 Uhr<br>
+Spielbeginn: 9:30 Uhr<br>
+Ziel: Programm f=FCr die beiden Konzerte am 01.12. draufschaffen :-)<br>
+Mittagspause: 13:00-14:30 Uhr<br>
+Ende: 17 Uhr<br>
+Im Anschlu=DF: Weihnachtsfeier<br>
+<br>
+<br>
+Wir k=FCmmern uns um Hauptspeise und Deko, es w=E4re super, wenn jeder von =
+Euch einen Salat,<br>
+oder etwas zum Nachtisch mitbringen k=F6nnte.=A0<br>
+@Lukas: gibt es die M=F6glichkeit eine Liste in den gesch=FCtzten Bereich a=
+uf der Homepage zu stellen, so dass alle vom Frontend aus etwas eintragen k=
+=F6nnen?<br>
+<br>
+<br>
+<br>
+<br>
+Sonntag: 25.11.<br>
+Trotz Weihnachtsfeier :-)<br>
+Treff: 9 Uhr<br>
+Spielbeginn: 9:30 Uhr<br>
+Ziel: s.o.<br>
+Mittagspause: 13 Uhr, aber nur kurz und mit Vesper<br>
+Ende: 16 Uhr<br>
+<br>
+<br>
+Dann noch zu unserem Konzertmarathon die Woche drauf:<br>
+<br>
+<br>
+Samstag, 01.12.<br>
+<br>
+<br>
+KONZERT 1:<br>
+<br>
+<br>
+9:00 Uhr Aufbau f=FCr das &quot;Umrahmungskonzert&quot; beim Symposium=A0<b=
+r>
+Wir spielen in drei Bl=F6cken<br>
+Ende gegen 13 Uhr<br>
+<br>
+<br>
+Programm:<br>
+<br>
+<br>
+<br>
+Block I=A0=A0=A0 Wassermusik Ouvert=FCre, 2. Adagio e staccato, 3 Satz<br>
+=A0<br>
+Block II Nu=DFknacker Ouvert=FCre, March, Trepak.<br>
+=A0<br>
+Block III Wassermusik 7. Minuet, Nr. 5 Allegro, H=F6llentanz<br>
+<br>
+<br>
+Wir werden aber am Wochenende auch den kompletten Nu=DFknacker, die Jazz-Su=
+ite und alle S=E4tze der Serenade<br>
+=FCben, so dass sich hier an den Bl=F6cken noch was =E4ndern kann.=A0<br>
+<br>
+<br>
+<br>
+<br>
+Was das Programm dieses Symposiums anbetrifft, so sieht das folgenderma=DFe=
+n aus:<br>
+<br>
+<br>
+<br>
+1. Programm am 01.12. vormittags (Kongressuntermalung)<br>
+<br>
+<br>
+Der Ablauf ist wie folgt:<br>
+<br>
+<br>
+<br>
+<br>
+10.30<br>
+<br>
+Begr=FC=DFung Frau Geib<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+<br>
+<br>
+Gru=DFwort Herr Adler<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+<br>
+<br>
+Musik Block 1<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+Ca 11.00<br>
+<br>
+Vortrag Andreas Kulozik<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+<br>
+<br>
+Vortrag Stefan Pfister<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+<br>
+<br>
+Vortrag Olaf Witt<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+<br>
+<br>
+Vortrag Peggy L=FCttich<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+Ca 12.00<br>
+<br>
+Musik Block 2<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+<br>
+<br>
+Schlusswort Frau Baldes<br>
+<br>
+H=F6rsaal Medizin Klinik<br>
+<br>
+<br>
+<br>
+Essen<br>
+<br>
+Foyer Med Klinik<br>
+<br>
+Ca 12:30<br>
+<br>
+Musik Block 3<br>
+<br>
+Foyer Med Klinik<br>
+<br>
+13.15<br>
+<br>
+F=FChrungen Kinderplanet, Elternwohnen, Station K3<br>
+<br>
+Zentrum f=FCr K u J M<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+KONZERT 2:<br>
+Danach geht es dann gleich weiter in Richtung: Jakobuskirche in Heidelberg-=
+Neuenheim.<br>
+Hier spielen wir ab 15 Uhr den Nu=DFknacker als &quot;Kinderkonzert&quot;, =
+so wie in Lustnau Anfang des Jahres.<br>
+<br>
+<br>
+Wir werden in Heidelberg sein, so dass unser Auto f=FCr Schlagzeugtransport=
+ etc. nicht zur Verf=FCgung steht.<br>
+Das k=F6nnen wir dann aber ja am Probewochenende kl=E4ren, genauso wie die =
+Besetzung beim Weihnachtsmarkt.<br>
+Beim Weihnachtsmarkt werden wir nur am Samstag spielen, daf=FCr mit Harry, =
+und zwar von 13-14 Uhr.<br>
+Kann da jemand nicht?<br>
+<br>
+<br>
+Anbei auch die Liste er restlichen Termine dieses Jahr, mit der Bitte, die =
+Abwesenheit noch mal zu checken, ob das noch<br>
+so aktuell ist.<br>
+<br>
+<br>
+<br></div></div>
+Liebe Gr=FC=DFe<br>
+<br>
+<br>
+Tine<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Musikschule<br>
+T=FCbinger Saxophon-Ensemble<br>
+______________________________<u></u>___<br>
+<br>
+<br>
+Martina Pfister<br>
+Amselgasse 4/3<br>
+69121 Heidelberg<br>
+<br>
+<br>
+Tel =A0(06 22 1) 58 69 69<br>
+Fax (06 22 1) 58 69 70<br>
+<a href=3D"mailto:info@saxophon-ensemble.de" target=3D"_blank">info@saxopho=
+n-ensemble.de</a><br>
+<a href=3D"http://www.saxophon-ensemble.de" target=3D"_blank">www.saxophon-=
+ensemble.de</a><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+=A0</blockquote></div><br><br clear=3D"all"><br>-- <br>Dr. Florian Sebert<b=
+r>d-fine GmbH<br>Munich Office<br>Bavariafilmplatz 8, 82031 Gr=FCnwald<br>M=
+obil +49 (0)162 2631334<br>Tel =A0 =A0+49 (0)89 7908617 391<br>Fax =A0 +49 =
+(0)89 7908617 202<br>
+<a href=3D"http://www.d-fine.de" target=3D"_blank">www.d-fine.de</a><br>
+</div>
+
+--f46d044480ed9f04b704cee1c672--

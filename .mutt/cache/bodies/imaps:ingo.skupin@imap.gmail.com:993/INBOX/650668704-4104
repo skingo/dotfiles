@@ -1,0 +1,123 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp516707vcb;
+        Tue, 30 Oct 2012 21:47:47 -0700 (PDT)
+Received: by 10.14.173.195 with SMTP id v43mr80263805eel.39.1351658866378;
+        Tue, 30 Oct 2012 21:47:46 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id a8si5848826eep.125.2012.10.30.21.47.44;
+        Tue, 30 Oct 2012 21:47:46 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass (test mode) header.i=@dropboxmail.com
+Received: from sjc-mailman8.dropboxmail.com ([199.47.219.165]) by mx-ha.web.de
+ (mxweb107) with ESMTP (Nemesis) id 0Lgamv-1Szq5S1vO9-00oYwl for
+ <ingo.skupin@gmail.com>; Wed, 31 Oct 2012 05:47:43 +0100
+Received: from sjc-batch2.sjc.dropbox.com (sjc-batch2.sjc.dropbox.com [199.47.217.138])
+	by sjc-mailman8.dropboxmail.com (Postfix) with ESMTP id 98932403F4A
+	for <ingo.skupin@web.de>; Wed, 31 Oct 2012 04:47:42 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropboxmail.com; s=m1;
+	t=1351658862; bh=VIIgDr744g84bmpFCfOlWKcVfDFPXhcGYWpzhPXmTeo=;
+	h=Content-Type:MIME-Version:From:To:Subject:Date:Message-Id;
+	b=vWvaqOrMWOf5/PZkzY+pJy6HTWaPTKTRHmpLKWih6DhH0SeojkJyiMY+LYSHXY6RL
+	 aGmv6adZrMfdRvZhd/Rb29l94Dbge2kCm6b9YTNXa/QsGEF4HlWNYgMy+r3e4VKdlH
+	 UPAthpIfiL/28+MDMpzoAfochK62e4XspTx/nSb8=
+Received: from sjc-batch2.sjc.dropbox.com (localhost [127.0.0.1])
+	by sjc-batch2.sjc.dropbox.com (Postfix) with ESMTP id 96909B0102C
+	for <ingo.skupin@web.de>; Wed, 31 Oct 2012 04:47:42 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============2330400486654317311=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropboxmail.com>
+To: ingo.skupin@web.de
+Subject: Share stuff from Dropbox with your Facebook Groups!
+Date: Wed, 31 Oct 2012 04:47:42 +0000
+Message-Id: <20121031044742.96909B0102C@sjc-batch2.sjc.dropbox.com>
+
+--===============2330400486654317311==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/plain; charset="utf-8"
+
+Hi Ingo,
+
+Did you know that you can share stuff from your Dropbox right inside Facebook Groups?
+
+Quickly share notes with your study group, send the latest game schedule to your basketball team, or post a birthday video to your family's group from wherever you are.
+
+To try it out, go to one of your Facebook groups (http://www.facebook.com/bookmarks/group) and click 'Add File'. Simply link Facebook to your Dropbox account and you'll be able to browse through your stuff and select what you'd like to share. Only the files you choose to add will be shared with Facebook.
+
+Docs, photos, and videos shared from Dropbox will show up on the group's wall and if you make an edit to a file you've shared, the group will get an update automatically! Check out our help center for more info (https://www.dropbox.com/el/?r=/help/383&b=clk:25850498:14481341524804203452:1170:595&z=AADH0hpg-A8WcSlemJs9YStrQm_ziDe6ov5hBC9q8QSDSQ
+
+Enjoy!
+-The Dropbox Team
+
+P.S.  Want more fun product updates? Like Dropbox on Facebook at http://www.facebook.com/dropbox
+
+
+You can unsubscribe at any point here: https://www.dropbox.com/p/67773383146/4005/174/AAB0MMrOMK4z9CM_Nd3ohpAy53vkVBpqB733kkcdSomllg
+--===============2330400486654317311==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Content-Type: text/html; charset="utf-8"
+
+<table width="650" align="center" style="font-size: 14px;" cellpadding="0" cellspacing="0">
+<tr id="topshadow">
+<td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_tl.gif" bgcolor="#ffffff"></td>
+<td height="10" background="https://www.dropbox.com/static/images/emails/shadow_top.gif" bgcolor="#ffffff"> </td>
+<td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_tr.gif" bgcolor="#ffffff"> </td>
+</tr>
+<tr id="header">
+<td width="10" background="https://www.dropbox.com/static/images/emails/shadow_left.gif" bgcolor="#ffffff" rowspan="2"></td>
+<td height="102" background="https://www.dropbox.com/static/images/emails/header_bg.gif" bgcolor="#e6f1fb" align="center">
+<table width="95%"><tr>
+<td align="left">
+<img src="https://www.dropbox.com/static/images/emails/email_logo.gif" />
+</td>
+</tr></table>
+</td>
+<td width="10" background="https://www.dropbox.com/static/images/emails/shadow_right.gif" bgcolor="#ffffff" rowspan="2"> </td>
+</tr>
+<tr id="content">
+<td bgcolor="#f4faff" align="center">
+<table width="95%" cellpadding="30">
+<tr>
+<td align="left">
+<font face="Lucida Grande, Segoe UI, Arial, Verdana, Lucida Sans Unicode, Tahoma, Sans Serif">
+Hi Ingo,<br /><br />
+Did you know that you can share stuff from your Dropbox right inside Facebook Groups? <br /><br />
+Quickly share notes with your study group, send the latest game schedule to your basketball team, or post a birthday video to your family's group from wherever you are.<br /><br />
+To try it out, go to one of your <a href="http://www.facebook.com/bookmarks/groups">Facebook groups</a> and click 'Add File'. Simply link Facebook to your Dropbox account and you'll be able to browse through your stuff and select what you'd like to share. Only the files you choose to add will be shared with Facebook.<br /><br />
+Docs, photos, and videos shared from Dropbox will show up on the group's wall and if you make an edit to a file you've shared, the group will get an update automatically! <a href="https://www.dropbox.com/el/?r=/help/383&amp;b=clk:25850498:14481341524804203452:1170:595&amp;z=AADH0hpg-A8WcSlemJs9YStrQm_ziDe6ov5hBC9q8QSDSQ">Check out our help center</a> for more info.<br /><br />
+Enjoy!<br />
+-The Dropbox Team<br /><br />
+P.S.  Want more fun product updates? <a href="http://www.facebook.com/dropbox">Like Dropbox on Facebook!</a>
+</font>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr id="bottomshadow">
+<td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_bl.gif" bgcolor="#ffffff"></td>
+<td height="10" background="https://www.dropbox.com/static/images/emails/shadow_bottom.gif" bgcolor="#ffffff"> </td>
+<td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_br.gif" bgcolor="#ffffff"> </td>
+</tr>
+<tr id="copyright">
+<td></td>
+<td>
+<table style="width: 100%;">
+<tr>
+<td style="font-family: 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 9px; color: #909090; padding-left: 45px;">
+                        If you prefer not to receive these tips from Dropbox, please click <a href="https://www.dropbox.com/p/67773383146/4005/174/AAB0MMrOMK4z9CM_Nd3ohpAy53vkVBpqB733kkcdSomllg">here</a>.
+                    </td>
+<td align="right">
+<img src="https://www.dropbox.com/static/images/emails/gray_logo.gif" alt="" align="absmiddle" />
+<span style="font-family: 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 11px; color: #888;">&copy;&nbsp;2012&nbsp;Dropbox</span>
+</td>
+</tr>
+</table>
+</td>
+<td></td>
+</tr>
+</table><img                             src="www.dropbox.com/el/?b=open:25850498:14481341524804203452:1170:595&z=AACIf87HIxFfKUbqvUwM5efV9il8xOAeylyhq99awdQErA"                             width="1"                             height="1"                          />
+--===============2330400486654317311==--

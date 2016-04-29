@@ -1,0 +1,51 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.163 with SMTP id i3csp379194pdr;
+        Wed, 11 Jun 2014 09:32:17 -0700 (PDT)
+X-Received: by 10.194.6.2 with SMTP id w2mr52196004wjw.6.1402504336483;
+        Wed, 11 Jun 2014 09:32:16 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id ci2si22757281wib.59.2014.06.11.09.32.15
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 11 Jun 2014 09:32:16 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb002)
+ with ESMTPS (Nemesis) id 0LxzCW-1WidxK338G-015Mpq for
+ <ingo.skupin@gmail.com>; Wed, 11 Jun 2014 18:32:14 +0200
+Received: from mout.gmx.net ([212.227.15.19]) by mx-ha.web.de (mxweb002) with
+ ESMTPS (Nemesis) id 0MJj8O-1WvrNC32w8-00174o for <ingo.skupin@web.de>; Wed,
+ 11 Jun 2014 18:32:14 +0200
+Received: from mout.gmx.net ([212.227.17.22]) by mx-ha.gmx.net (mxgmx110) with
+ ESMTPS (Nemesis) id 0M5I27-1WYRlA3rbj-00zZVA; Wed, 11 Jun 2014 18:31:52 +0200
+Received: from [84.133.241.160] by 3capp-gmx-bs19 with HTTP; Wed, 11 Jun
+ 2014 18:31:51 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-fbf57f07-7567-4a6f-9493-9e0c11988155-1402504311065@3capp-gmx-bs19>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_Holz+Dirigent Blasorchester"
+ <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>,
+ "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>
+Subject: Hochzeit Kay und Janine
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 11 Jun 2014 18:31:51 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:ERic1BfXsO6ErCt2iiN0/Y5Lk4gTaz1YO+MtkawxjTp
+ +uCL2tgsFjCdeP4W4kqBdwSRe1D5VVpEqQGPjP3EfL5qqCpeEr
+ j0sZd590X7rH+bTlzpo8SQO+nInUWdrDBj1gLJxC0gPxnFH0Qz
+ xfVbJZLyg1gFgLV/aENqLLg2q13yugZlU8miwsVOc28H5mCGtG
+ 5QgxTbqammy5QwUocrr1nGEKLfTOKsAi30p7zsWB/iK3f7bBGh
+ R2VV3hsnNuZGR8XN7Glq42avuj9J1NV3u8Z1QdSY7nJol3YRhq T+Dexo=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>nehmt bitte am Samstag auch die gr&uuml;ne Mappe und das Marschbuch mit, nach dem Gottesdienst</div>
+
+<div>spielen wir vor der Kirche noch ein St&auml;ndchen</div>
+
+<div>Gru&szlig; Timo</div></div></body></html>

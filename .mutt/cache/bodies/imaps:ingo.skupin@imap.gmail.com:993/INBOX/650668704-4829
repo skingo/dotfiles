@@ -1,0 +1,182 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.38.225 with SMTP id j1csp53332lbk;
+        Sun, 27 Jan 2013 12:38:47 -0800 (PST)
+X-Received: by 10.14.1.195 with SMTP id 43mr44153370eed.31.1359319127475;
+        Sun, 27 Jan 2013 12:38:47 -0800 (PST)
+Return-Path: <timo.schempp@googlemail.com>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id d45si1518710eem.95.2013.01.27.12.38.47
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 27 Jan 2013 12:38:47 -0800 (PST)
+Received-SPF: neutral (google.com: 5.35.244.247 is neither permitted nor denied by domain of timo.schempp@googlemail.com) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 5.35.244.247 is neither permitted nor denied by domain of timo.schempp@googlemail.com) smtp.mail=timo.schempp@googlemail.com;
+       dkim=pass header.i=@googlemail.com
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id D1D47AC8FDC; Sun, 27 Jan 2013 21:38:16 +0100 (CET)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	lvps5-35-244-247.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=0.2 required=7.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,FREEMAIL_FROM,FREEMAIL_REPLY,HTML_MESSAGE,RCVD_IN_DNSWL_LOW
+	autolearn=no version=3.3.1
+X-Original-To: saxophon@concertband.de
+Delivered-To: saxophon@concertband.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 7D467AC8FDC; Sun, 27 Jan 2013 21:38:14 +0100 (CET)
+X-Original-To: alle@concertband.de
+Delivered-To: alle@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mail-ea0-f182.google.com (mail-ea0-f182.google.com [209.85.215.182])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTPS id 123F2AC8EAD
+	for <alle@concertband.de>; Sun, 27 Jan 2013 21:38:12 +0100 (CET)
+Received: by mail-ea0-f182.google.com with SMTP id a12so910975eaa.41
+        for <alle@concertband.de>; Sun, 27 Jan 2013 12:38:11 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=x-received:from:to:subject:date:message-id:mime-version
+         :content-type:x-mailer:thread-index:content-language;
+        bh=JkRQtJrlDlWkikh8JAqUFnxC0WeUtutx8Sw+sdwsSUg=;
+        b=boYvfo3YuOwlByAyczWPj+U82xQpdmS5kdf1HSX5O6D7wCLxyf89Y36mT0mT0OFRXA
+         WvuzIoV8ntFGB45CK8NcqxpzioSUXzxd5pj/jl/yZZP5BfHAWkfli4kwYlt5cK4M4+A7
+         YHqgeaB21vxZ1bjpWB/Ar1of/xPKJzgy+wfl6c4CeJ651vMZ6GDUBuhByqq+rHKiqyDK
+         dJMfHZosoEQww2uk+ZAEMX1aklEYfLQquwp7Ovvxi20df9Lydj6aHAfv9yW7sN/NJVef
+         WR3Vt4yEdZZJB8YdAkRyazNNwe/fGY15zul08JSgvSnQFTt4OPlAmrVSMqMR7KYGllNY
+         JU7Q==
+X-Received: by 10.14.219.5 with SMTP id l5mr11061681eep.7.1359319091688;
+        Sun, 27 Jan 2013 12:38:11 -0800 (PST)
+Received: from TimoPC (HSI-KBW-46-237-229-251.hsi.kabel-badenwuerttemberg.de. [46.237.229.251])
+        by mx.google.com with ESMTPS id 44sm12953247eek.5.2013.01.27.12.38.10
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Sun, 27 Jan 2013 12:38:10 -0800 (PST)
+From: "Timo Schempp" <timo.schempp@googlemail.com>
+To: <alle@concertband.de>
+Subject: =?iso-8859-1?Q?Egerheimer_Hohenl=E4nder?=
+Date: Sun, 27 Jan 2013 21:42:20 +0100
+Message-ID: <001601cdfcce$ceaed800$6c0c8800$@googlemail.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0017_01CDFCD7.30745170"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac38zlLHOmw1RPz7TRuzAnUAk2pn7w==
+Content-Language: de
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0017_01CDFCD7.30745170
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+=20
+
+falls ihr nach elektronischer Blasmusik bei z=FCnftiger Blasmusik den
+Dienstagabend mit einem k=FChlen oder warmen Getr=E4nk ausklingen lassen =
+wollt,
+ist es wieder soweit:
+
+=20
+
+Die Egerheimer Hohenl=E4nder spielen kommenden Dienstag ab ca. 21.45h in =
+der
+TMS!
+
+=20
+
+Wir freuen uns auf euch!
+
+=20
+
+Viele Gr=FC=DFe
+
+=20
+
+Timo Schempp
+
+// 0176 20227326=20
+
+//  <mailto:timo-schempp@web.de> timo-schempp@web.de=20
+
+=20
+
+
+------=_NextPart_000_0017_01CDFCD7.30745170
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hallo =
+zusammen,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>falls ihr nach elektronischer Blasmusik bei =
+z=FCnftiger Blasmusik den Dienstagabend mit einem k=FChlen oder warmen =
+Getr=E4nk ausklingen lassen wollt, ist es wieder =
+soweit:<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal><b><span style=3D'color:red'>Die Egerheimer =
+Hohenl=E4nder spielen kommenden Dienstag ab ca. 21.45h in der =
+TMS!<o:p></o:p></span></b></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Wir freuen =
+uns auf euch!<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Viele Gr=FC=DFe<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal><b><span =
+lang=3DEN-US style=3D'font-size:12.0pt;mso-fareast-language:DE'>Timo =
+Schempp<o:p></o:p></span></b></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:9.0pt;mso-fareast-language:DE'>// 0176 20227326 =
+<o:p></o:p></span></p><p class=3DMsoNormal><span lang=3DEN-US =
+style=3D'font-size:9.0pt;mso-fareast-language:DE'>// </span><span =
+style=3D'font-size:9.0pt;color:black;mso-fareast-language:DE'><a =
+href=3D"mailto:timo-schempp@web.de"><span lang=3DEN-US =
+style=3D'color:black'>timo-schempp@web.de</span></a></span><span =
+style=3D'font-size:9.0pt;mso-fareast-language:DE'> <span =
+lang=3DEN-US><o:p></o:p></span></span></p><p class=3DMsoNormal><span =
+lang=3DEN-US><o:p>&nbsp;</o:p></span></p></div></body></html>
+------=_NextPart_000_0017_01CDFCD7.30745170--
+

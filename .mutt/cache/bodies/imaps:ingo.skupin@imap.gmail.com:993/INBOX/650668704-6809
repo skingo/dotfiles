@@ -1,0 +1,51 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp252471pdb;
+        Tue, 3 Dec 2013 14:30:58 -0800 (PST)
+X-Received: by 10.14.4.67 with SMTP id 43mr4598624eei.70.1386109857253;
+        Tue, 03 Dec 2013 14:30:57 -0800 (PST)
+Return-Path: <Musikverein.Notzingen@gmx.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTPS id u49si4550640eep.127.2013.12.03.14.30.56
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 03 Dec 2013 14:30:57 -0800 (PST)
+Received-SPF: pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.14 as permitted sender) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of Musikverein.Notzingen@gmx.de designates 212.227.15.14 as permitted sender) smtp.mail=Musikverein.Notzingen@gmx.de
+Received: from mout.gmx.net ([212.227.17.20]) by mx-ha.web.de (mxweb103) with
+ ESMTPS (Nemesis) id 0MeQfD-1VxVQ03xy3-00QA8k for <ingo.skupin@gmail.com>;
+ Tue, 03 Dec 2013 23:30:56 +0100
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.gmx.net (mxgmx007) with
+ ESMTPS (Nemesis) id 0Mb4Id-1W31CY1HP1-00KhlJ; Tue, 03 Dec 2013 23:30:53 +0100
+Received: from 3capp-gmx-bs15.server.lan ([172.19.170.67]) by
+ mrigmx.server.lan (mrigmx002) with ESMTP (Nemesis) id
+ 0LtTy6-1VeBNh0DmG-010xuH for <Jugendaussschuss%Musikverein.Notzingen@gmx.de>;
+ Tue, 03 Dec 2013 23:30:53 +0100
+Received: from [78.42.183.247] by 3capp-gmx-bs15.server.lan with HTTP; Tue
+ Dec 03 23:30:53 CET 2013
+MIME-Version: 1.0
+Message-ID: <trinity-868c9ca3-737b-4548-a560-5a94eafc1a02-1386109852949@3capp-gmx-bs15>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: Jugendaussschuss%Musikverein.Notzingen@gmx.de
+Subject: Kinoabend
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 3 Dec 2013 23:30:53 +0100 (CET)
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:wA/ie5O12Z5tzkchpsyk5fdFIhSUPj8f+xUc134FY6k
+ Cg4xXDt7mYl3retcdQt81OdZRRfWBXcx1rYutwayE/4j+NkNZV
+ GN6fo4Ycu0YQH78Pl0Y+LaZ5n6l3pbnCyTYPQQuz0Z4j0X/Lbe
+ CtJN9rBpOvCZXw+U5e/OKweCAoOONmgfc0mrc2sekpIPZneS5l
+ k1MXfDENGDXXyzjCsmuSVaS+urHhaxAuicO+qrbx+o4jHyqxga
+ lO9fxeV6yiLAjP+mQNIfl+PiuYhSZzIqL+xKjKEcVZGP0rTQoa aDLZxY=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>Wir treffen uns am Donnerstag um 20h zu Aufbauen und und am Freitag um 18h zum Brezeln schmieren. W&auml;re sehr gut, wenn da einige da sind, dann gehts schnell!</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig; Benni</div></div></body></html>

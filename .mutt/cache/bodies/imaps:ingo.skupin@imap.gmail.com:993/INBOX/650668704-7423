@@ -1,0 +1,53 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp252853pdb;
+        Mon, 21 Apr 2014 04:58:12 -0700 (PDT)
+X-Received: by 10.194.95.195 with SMTP id dm3mr28034094wjb.17.1398081491622;
+        Mon, 21 Apr 2014 04:58:11 -0700 (PDT)
+Return-Path: <silkeczarn@yahoo.de>
+Received: from nm36-vm7.bullet.mail.ir2.yahoo.com (nm36-vm7.bullet.mail.ir2.yahoo.com. [212.82.97.139])
+        by mx.google.com with ESMTPS id eb3si2157975wib.59.2014.04.21.04.58.10
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 21 Apr 2014 04:58:11 -0700 (PDT)
+Received-SPF: none (google.com: silkeczarn@yahoo.de does not designate permitted sender hosts) client-ip=212.82.97.139;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: silkeczarn@yahoo.de does not designate permitted sender hosts) smtp.mail=silkeczarn@yahoo.de;
+       dkim=pass header.i=@yahoo.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=yahoo.de
+Received: from [212.82.98.62] by nm36.bullet.mail.ir2.yahoo.com with NNFMP; 21 Apr 2014 11:58:10 -0000
+Received: from [46.228.39.90] by tm15.bullet.mail.ir2.yahoo.com with NNFMP; 21 Apr 2014 11:58:10 -0000
+Received: from [127.0.0.1] by smtp127.mail.ir2.yahoo.com with NNFMP; 21 Apr 2014 11:58:10 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.de; s=s1024; t=1398081490; bh=lTTPXA+//OUZ+q+EgLVKkVhHZFiAP0OseR2xYEjbMfg=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Date:Subject:Message-ID:From:To:MIME-Version:Content-Type:Content-Transfer-Encoding; b=GDJbwoPgsb3SNzOLdb4Cc/sjJf1ZsmY59YiqNFgBatag/rgZNaVQKoEMHFTq1uhCdbO6nOfR16A74kQgDlI02RlrQRnJeNGNSAg1GUuQW7TdYwGDJTYrnYxfhTYtXyu2YA0AceC39+O3a22Sw87vn4UKr4129Fwy6+B22Ca7XXk=
+X-Yahoo-Newman-Id: 479221.79677.bm@smtp127.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: uECDNcgVM1lyDfnLUyFC42nM6bAwSPRQFFsBREoZhu_Z1a0
+ 1G2TwT8i5LQ.fSqZ8f2YgEB79ypvZnxkeRIKwFA8la8kcW1SKUH_huOPXCnl
+ Ziz.tyIDRrF0pr9_xldSyN4uH96fPpIyZ81xfrtWA50LFIKlg7ih8tu8mfSl
+ FbZkQgDc5EU9EW_k1ZYjis9mMX0saB9P4VCxzBYKOSepvoPXzvUF2k.BWrs1
+ LAVYe4hhfIEsZyUV3kMCzyAh.RE.rmDBsTb23pLWvP_uY7iSHMpIkpZftfuo
+ GpBRye0Hx7qRSAnUXs9znziQJ8o5Z9Q6Wz39czN.PQY35FspKLAIGu3hK9tR
+ 4gMoamGOe8f9BBflwuYZoRae0y6zhed0sNcOkwUUdiwhrUHx2OnWa1qwEz2F
+ zsPJrAVrZBJfK.i6LiQEumwxuIsRen5xDfRczRvpawgLLOA8L1kwIXrXKUpD
+ _Hl2L8kQEIIn0Oa73yGzGNsiG91ejS_xT3F8zci8JWuC14Z2enzw0D3DrY13
+ oEQRQpC20pyOAsgLcknpj33ySwh2jlyXmiA--
+X-Yahoo-SMTP: DpzBWgGswBBCrqc17gq8BnpqtJD1tMY-
+X-Rocket-Received: from [192.168.1.58] (silkeczarn@134.2.251.1 with plain [188.125.69.59])
+        by smtp127.mail.ir2.yahoo.com with SMTP; 21 Apr 2014 11:58:10 +0000 UTC
+Date: Mon, 21 Apr 2014 13:58:39 +0200
+Subject: AW: Functional Programming
+Message-ID: <t64sua3luo1ftmwbrkuk1vby.1398081519413@email.android.com>
+From: Silke Czarnetzki <silkeczarn@yahoo.de>
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: base64
+
+SGFiIG1hbCBub2NoIFRlc3RzIGRhenVnZXNjaHJpZWJlbiB1bmQgYmlzc2NoZW4gZ2VvcmRuZXQu
+IEFiZ2FiZSBmbGllZ3QgaW0gSWxpYXMgcnVtIC0gc2NoYXUgbWFsLCBvYiBkdSBkcmF1ZiB6dWdy
+ZWlmZW4ga2FubnN0IHVuZCBvYidzIGluIE9yZG51bmcgaXN0LgoKSW5nbyBTa3VwaW4gPGluZ28u
+c2t1cGluQGdvb2dsZW1haWwuY29tPiBzY2hyaWViOgoKPkhpLAo+Cj5pY2ggaGFiIGRvY2ggc2No
+b24gWmVpdCBnZWZ1bmRlbiwgbWlyIGRhcyDDnGJ1bmdzYmxhdHQgbWFsIGFuenVzY2hhdWVuIAo+
+dW5kIHdlaWxzIGxlaWNodCB3YXIsIGhhYiBpY2hzIGF1Y2ggZ2xlaWNoIHRlaWx3ZWlzZSBnZW1h
+Y2h0LCBzbyBzaWVodHMgCj5iaXNoZXIgYXVzIChpbiByb2hlc3RlciBUZXh0Zm9ybS4uLikKPgo+
+R3J1w58sCj5JbmdvCg==
+

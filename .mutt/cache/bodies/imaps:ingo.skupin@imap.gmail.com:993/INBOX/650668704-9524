@@ -1,0 +1,64 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp1148065ivc;
+        Mon, 11 Apr 2016 00:22:07 -0700 (PDT)
+X-Received: by 10.31.21.4 with SMTP id 4mr10820163vkv.151.1460359327252;
+        Mon, 11 Apr 2016 00:22:07 -0700 (PDT)
+Return-Path: <akrebs2111@googlemail.com>
+Received: from mail-vk0-x236.google.com (mail-vk0-x236.google.com. [2607:f8b0:400c:c05::236])
+        by mx.google.com with ESMTPS id 80si5577572uas.82.2016.04.11.00.22.07
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 11 Apr 2016 00:22:07 -0700 (PDT)
+Received-SPF: pass (google.com: domain of akrebs2111@googlemail.com designates 2607:f8b0:400c:c05::236 as permitted sender) client-ip=2607:f8b0:400c:c05::236;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@googlemail.com;
+       spf=pass (google.com: domain of akrebs2111@googlemail.com designates 2607:f8b0:400c:c05::236 as permitted sender) smtp.mailfrom=akrebs2111@googlemail.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=googlemail.com
+Received: by mail-vk0-x236.google.com with SMTP id c4so200853955vkb.3;
+        Mon, 11 Apr 2016 00:22:07 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :cc;
+        bh=Cimmc6/soh9XbEl5hLLKP5p8noVUayapi7D1d1k+nSU=;
+        b=VpNbtgHjxiolFPtaII8hkvI/MRpruuVDdjWgs8hrqY4Q/tIXIDptdfYQSthhy9y3ec
+         X/cIkLXJlSH9dwvMBuJTqG7X7xqondJ6SJYzXRH+SmmL1H1pS67KgagTDcCwgcS+y5LT
+         ait7Sy0DgoTqFEDMCtOAj/Nbl5i9wbwi15N6Y5VrL/ZVCVtuylDclZceEzsxXMoBRYH1
+         v1LyGDWtgx/ngdXKbKoiXJHYIcs9/jwO1hEJ+0ZK7zv5taa+Qtf41nYlSFY2i7xB6Hdb
+         I0A44Y3LijV8y3zI+Np3FBLWdZuGgByhd0QyQ+fPQzmwO6S/1V/nntXfHtqP7aXg/WfW
+         Jimw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:from:date
+         :message-id:subject:to:cc;
+        bh=Cimmc6/soh9XbEl5hLLKP5p8noVUayapi7D1d1k+nSU=;
+        b=NMcIIWgyoGtRr2kTC7Piknq7MkIx0cxDtcp2JgNqBty+sDfWS93DG4J44RThkpDOJ0
+         mQxLSZgEDFXm+i+WVidBQr3/tBHwNK3PeVbf6PzrCxXuocakQDsAumpgzmOj/RaAL9Hs
+         OPZyS3TJldyU/K/H9r80/wpAlKS1UMtuMCsYKjkeh66UxFnFvNaDjs5fk5h1H5jIBVzH
+         KtAGu10jFZ/orZwqlga4MY+dECGmZiuiHodkZUdwUgdF3NxWx7sCTHcInrb8zhFdWzSl
+         18hsaGk/67zSLRTb4hyJD94QTp2oW7lB/PpLvFghhmJ77VxX5dO+hnt2zagw/B2hp1cj
+         B0KA==
+X-Gm-Message-State: AD7BkJLLphOkToAe/w60U0AdWiTTJ8TpyT4Kbt/tpz/6q2RUsm9tuQ+v3mznZLNotmJVLdOqEb7PyEedTDofOA==
+X-Received: by 10.176.1.74 with SMTP id 68mr9345841uak.56.1460359326909; Mon,
+ 11 Apr 2016 00:22:06 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.31.208.199 with HTTP; Mon, 11 Apr 2016 00:21:27 -0700 (PDT)
+In-Reply-To: <CAHEmHdSDC_Cx7_gGyjJbFDMnz1WDTDW_ZDZ1k7W6VroPV403zA@mail.gmail.com>
+References: <CAHEmHdSDC_Cx7_gGyjJbFDMnz1WDTDW_ZDZ1k7W6VroPV403zA@mail.gmail.com>
+From: Andreas Krebs <akrebs2111@googlemail.com>
+Date: Mon, 11 Apr 2016 09:21:27 +0200
+Message-ID: <CAM=R8OHGcBPa33+iKY1tzURuCqg0T4w83K7xzejQ_geScQJqjA@mail.gmail.com>
+Subject: Re: Monad stuff meeting
+To: Charles Paperman <charles.paperman@gmail.com>
+Cc: Sebastian Schoener <sebastianschoener@googlemail.com>, 
+	Ingo Skupin <ingo.skupin@googlemail.com>
+Content-Type: text/plain; charset=UTF-8
+
+I am really a lot interested in this, but this Thu I am in Paris.
+But go ahead and do something I catch up next week.
+
+2016-04-11 8:44 GMT+02:00 Charles Paperman <charles.paperman@gmail.com>:
+> Hey,
+>
+> what about resume our weekly meeting this week ? We can try to move on to
+> "wreath product" for monad with the extra axiom. It seems reasonable to me
+> now.

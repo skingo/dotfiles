@@ -1,0 +1,63 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp142887pdb;
+        Wed, 30 Oct 2013 09:44:35 -0700 (PDT)
+X-Received: by 10.14.7.131 with SMTP id 3mr408665eep.151.1383151474357;
+        Wed, 30 Oct 2013 09:44:34 -0700 (PDT)
+Return-Path: <gruber.tobi@gmail.com>
+Received: from mail-ea0-x22a.google.com (mail-ea0-x22a.google.com [2a00:1450:4013:c01::22a])
+        by mx.google.com with ESMTPS id w44si23407339eef.345.2013.10.30.09.44.33
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 30 Oct 2013 09:44:34 -0700 (PDT)
+Received-SPF: pass (google.com: domain of gruber.tobi@gmail.com designates 2a00:1450:4013:c01::22a as permitted sender) client-ip=2a00:1450:4013:c01::22a;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of gruber.tobi@gmail.com designates 2a00:1450:4013:c01::22a as permitted sender) smtp.mail=gruber.tobi@gmail.com;
+       dkim=pass header.i=@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-ea0-f170.google.com with SMTP id q10so665770eaj.15
+        for <ingo.skupin@googlemail.com>; Wed, 30 Oct 2013 09:44:33 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type:content-transfer-encoding;
+        bh=ZCqp78yIE6sMXNeJuakfxGzQWaRWhmeCDQ71/9xRjh4=;
+        b=xYBzcxI7+JItLwYSL7ABJaWdsThVIF0fVfNnf6gGox24wqCMZZ7NB69c2s0+642bhh
+         zO44w0fZ+6aNypZ6SpRmLVcamK9PXFAqVFRjW9X3V9xPXzd3OyWD3C8bTSVlvdhFLp02
+         2WnLdthwPbyTZ5YU/MBhTMw0D993wi1mWOwa4IiSjdaQBP1wZ3nXLlM6FTAZ9xLQ8vfT
+         1NcK2Y6JnO0nZiUhnXDaEEI+Lr4RzjJuOaNqt01nJnwFsRmwZil8ipXMiC+TdSDxNy2l
+         iQzzpvWMdA5yyrOzYuTHOvVm9++l0UWHkFgYsb1fDqODmxcxuGeg34GdW57XTQsUMZh0
+         bH3g==
+X-Received: by 10.15.100.198 with SMTP id bn46mr5814867eeb.11.1383151473597;
+        Wed, 30 Oct 2013 09:44:33 -0700 (PDT)
+Return-Path: <gruber.tobi@gmail.com>
+Received: from [192.168.178.27] (stgt-5d843405.pool.mediaWays.net. [93.132.52.5])
+        by mx.google.com with ESMTPSA id h45sm85479607eeg.5.2013.10.30.09.44.31
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Wed, 30 Oct 2013 09:44:32 -0700 (PDT)
+Message-ID: <5271376E.9000509@gmail.com>
+Date: Wed, 30 Oct 2013 17:44:30 +0100
+From: Tobias Gruber <gruber.tobi@gmail.com>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.0
+MIME-Version: 1.0
+To: Ingo Skupin <ingo.skupin@googlemail.com>, 
+ Nicolas Allgaier <n.allgaier@gmx.de>,
+ Yvonne Gretzinger <yvonne.gretzinger@gmx.de>, 
+ Tobias Gruber <gruber.tobi@gmail.com>,
+ Orpheo Saxophone Quartett <orpheo-sax-quartett@gmx.de>
+Subject: Schnupperprobe am 08.12. 18:00
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+da Ingo den 17.11. am leider nicht mehr kann und der 03.11. wegen Noten 
+und Instrumenten etwas kurzfristig ist, proben wir nun am 08.12. um 
+18:00 im Gemeindehaus der Heiligen Familie in Stuttgart-Rohr.
+
+https://maps.google.de/maps?saddr=Siriusweg&daddr=Osterbronnstra%C3%9Fe&hl=de&ie=UTF8&ll=48.71805,9.113631&spn=0.010604,0.024762&sll=48.716932,9.104533&sspn=0.010604,0.024762&geocode=FZph5wIddgqLAA%3BFQph5wIdxPuKAA&mra=dme&mrsp=1&sz=16&t=m&z=16
+
+Ich hoffe, der Termin passt bei euch allen, denn es ist unserer letzter ;)
+
+Viele Grüße,
+Tobi

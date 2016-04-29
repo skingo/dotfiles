@@ -1,0 +1,98 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.108.207 with SMTP id h198csp480847ivc;
+        Sun, 24 Apr 2016 01:51:31 -0700 (PDT)
+X-Received: by 10.28.87.18 with SMTP id l18mr5688625wmb.38.1461487891666;
+        Sun, 24 Apr 2016 01:51:31 -0700 (PDT)
+Return-Path: <info@musikverein-notzingen.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id y79si13199345wmd.12.2016.04.24.01.51.31
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 24 Apr 2016 01:51:31 -0700 (PDT)
+Received-SPF: neutral (google.com: 212.227.15.3 is neither permitted nor denied by best guess record for domain of info@musikverein-notzingen.de) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@musikverein-notzingen.de;
+       spf=neutral (google.com: 212.227.15.3 is neither permitted nor denied by best guess record for domain of info@musikverein-notzingen.de) smtp.mailfrom=info@musikverein-notzingen.de
+Received: from [212.227.15.17] ([212.227.15.17]) by mx-ha.web.de (mxweb005)
+ with ESMTPS (Nemesis) id 0MUYKJ-1bLa5Y0pVL-00RLmx for
+ <ingo.skupin@gmail.com>; Sun, 24 Apr 2016 10:51:31 +0200
+Received: from mi4-p00-ob.smtp.rzone.de ([81.169.146.146]) by mx-ha.web.de
+ (mxweb005) with ESMTPS (Nemesis) id 0MOgcQ-1apKLN0pPy-0063DW for
+ <ingo.skupin@web.de>; Sun, 24 Apr 2016 10:51:31 +0200
+X-RZG-FWD-BY: Verteiler_BO@musikverein-notzingen.de
+Received: from mailin.rzone.de ([unix socket])
+	by mailin.rzone.de (RZmta 37.24) with LMTPA;
+	Sun, 24 Apr 2016 10:50:56 +0200 (CEST)
+Authentication-Results: strato.com 1;
+	spf=none
+		smtp.mailfrom="info@musikverein-notzingen.de";
+	dkim=pass
+		header.d=musikverein-notzingen.de;
+	domainkeys=none;
+	dkim-adsp=pass
+		header.from="info@musikverein-notzingen.de"
+X-Strato-MessageType: email
+X-RZG-CLASS-ID: mi
+Received-SPF: none
+	client-ip=2a01:238:20a:202:5300::7;
+	helo="mo6-p00-ob.smtp.rzone.de";
+	envelope-from="info@musikverein-notzingen.de";
+	receiver=smtpin.rzone.de;
+	identity=mailfrom;
+Received: from mo6-p00-ob.smtp.rzone.de ([IPv6:2a01:238:20a:202:5300::7])
+	by smtpin.rzone.de (RZmta 37.24 OK)
+	with ESMTPS id 3057acs3O8ot05g
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (curve secp521r1 with 521 ECDH bits, eq. 15360 bits RSA))
+	(Client CN "*.smtp.rzone.de", Issuer "TeleSec ServerPass DE-2" (verified OK (+EmiG)))
+	(Client hostname verified OK)
+	for <Verteiler_BO@musikverein-notzingen.de>;
+	Sun, 24 Apr 2016 10:50:55 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; t=1461487855; l=239;
+	s=domk; d=musikverein-notzingen.de;
+	h=Content-Transfer-Encoding:Content-Type:MIME-Version:Date:To:Subject:
+	From;
+	bh=DicOetAYQr+Scu+EshKsHWGoCR6VlfIkAASq+0p/1J8=;
+	b=V0FX61OT63/pS5aNe43/mrKGShhmxJeRHAwE8NDbqJjn8rk72YhYm3ctMwB4wCEehpG
+	EbkRz3B9a+JvbxQTt7kXGgYeBWnWX8C20iVoP+IJmYffdC4punUZyvSLI0k9IVm8RBc4p
+	I5QbJ2ZIA9F7nh2xn77r5d09Pt1pJNUchvc=
+X-RZG-AUTH: :JWICemClbuyO56osRnRUFLbRpRCxaQGqBEGe5oFuFOTsEBE0LzRgxQjcP0TfgV7rejzqXvvwT81Yw5vfe9SlmUP7/pdy2XLKX5D9a5X5DUIus9/N
+X-RZG-CLASS-ID: mo00
+Received: from [IPv6:2a02:8070:c481:6400:10a9:c4dd:570c:1d50] ([2a02:8070:c481:6400:10a9:c4dd:570c:1d50])
+	by smtp.strato.de (RZmta 37.24 AUTH)
+	with ESMTPSA id c0069ds3O8otXXt
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-SHA (curve secp521r1 with 521 ECDH bits, eq. 15360 bits RSA))
+	(Client did not present a certificate)
+	for <Verteiler_BO@musikverein-notzingen.de>;
+	Sun, 24 Apr 2016 10:50:55 +0200 (CEST)
+From: Musikverein Notzingen <info@musikverein-notzingen.de>
+Subject: =?UTF-8?Q?Vorbereitung_D=c3=a4tscherfest?=
+To: Verteiler_BO@musikverein-notzingen.de
+Message-ID: <571C88EB.3000104@musikverein-notzingen.de>
+Date: Sun, 24 Apr 2016 10:50:51 +0200
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; rv:38.0) Gecko/20100101
+ Thunderbird/38.7.2
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+X-UI-Out-Filterresults: notjunk:1;V01:K0:naps9UjyGpc=:HT9L8lr7QNpn87gQdNN7xg
+ 1AGfEw8tcqZDfed4LOI4yJoYpsNdzqSliOotHGDY2Jw+fXXjmsC//4kjRlFiXtJcHGIzoZ9Qu
+ kmIfSezJJLlRHGSsIyrLObgDnFIeOjcFk1mwGhLaKHelOxP9COh8cCrRRoxk+YBjw67JWJIJh
+ WRa6Ke83Tfltd83iIOtxUzaSJLroYm27xMLUc3NQipXtr6IXdCgQ8nIQhRQEmaiRD01pj0wgt
+ TZR6jtEQk8ziGJKM89Kk+GXhIQJaPzQFwCe+hZnjLHSoNVjdQobg9l6kDAiQ1ywQJy7G9qcaF
+ GcZDPsyVdRugPM9UIQuIBk9SWGe5B7IlmiqXNaprqz/4fvbKo196lj0veQrYXLnRDdJKodGFT
+ CPybnxhXd7Yfu0+rrWxvqRzNZGk9vb6xcMXtW7NVU9uz8Bhi28sukkkUKIUEVkuK4CJ59Y0PG
+ HtCR53Op90apeNlGBf7wk2T0mp9tyIAEnkeukmjSkGUcToYf5/IbZORQr+lmSNW0Vf0fhHLxZ
+ eGSR0YyMxFNKQh7iEV8hBAcUIkRrSO5toSBTI7vO4eI5ai+X+Yt8HsazUnpgtveDowo3/v4fF
+ 1NEV0vPUs6vC+fnw7D87t0TvgUtqHYnqX9Uq/qzgenWLRCK5uG9rpPh0yxjxULy7iChk5trE/
+ PTTpDsPKXXNei4IxUgZWJ/KpI/L/hfhs5zuWEPKYu5xuP6/HFT4Rq62gcKHc3wk7Po59tgLb4
+ aaBFw11zhOt3KZOR/7pH5IFja3xaqWWx9iC4yMJULOC0AoWEqCo4RogpCXvn97T5tD11ULiF+
+ vSP9z5eCJoVppo97YZar9OYBKoWrTjNRNEPjyGX6Komk2LVShdcgkvefRwiT8ORI3Hi3CBAQX
+ E+DgmHCxnxiouhnepmzMA74kyp1bCyfjRrPQ0RtEmnFFBrUl6MUFcisenvkcS+KGSvoXwwG8n
+ OhbF74KnvgQyZa37vLYgHRep0dE5p5fc4/1qp2hAx0a4EgiLMQCVY
+
+Hallo zusammen,
+bitte bringt in den nächsten Proben vor dem Dätscherfest unbedingt euer 
+Marschbuch und Marschgabel mit in die Probe!
+
+Wer noch kein Marschbuch oder Marschgabel hat, bitte zeitig Jörg bzw. 
+Ludwig darauf ansprechen.

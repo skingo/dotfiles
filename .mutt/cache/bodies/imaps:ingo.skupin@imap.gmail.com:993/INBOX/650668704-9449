@@ -1,0 +1,74 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp2075286ivc;
+        Mon, 14 Mar 2016 01:41:24 -0700 (PDT)
+X-Received: by 10.28.211.1 with SMTP id k1mr17563813wmg.93.1457944884128;
+        Mon, 14 Mar 2016 01:41:24 -0700 (PDT)
+Return-Path: <sebastianschoener@googlemail.com>
+Received: from mail-wm0-x22c.google.com (mail-wm0-x22c.google.com. [2a00:1450:400c:c09::22c])
+        by mx.google.com with ESMTPS id c2si264222wmd.0.2016.03.14.01.41.23
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 14 Mar 2016 01:41:24 -0700 (PDT)
+Received-SPF: pass (google.com: domain of sebastianschoener@googlemail.com designates 2a00:1450:400c:c09::22c as permitted sender) client-ip=2a00:1450:400c:c09::22c;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of sebastianschoener@googlemail.com designates 2a00:1450:400c:c09::22c as permitted sender) smtp.mailfrom=sebastianschoener@googlemail.com;
+       dkim=pass header.i=@googlemail.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=googlemail.com
+Received: by mail-wm0-x22c.google.com with SMTP id p65so58745399wmp.0;
+        Mon, 14 Mar 2016 01:41:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=subject:to:references:from:message-id:date:user-agent:mime-version
+         :in-reply-to:content-transfer-encoding;
+        bh=uInso1MVePzcswhNmJ6tXDuW43GfOhrvKd5327ZZ2dM=;
+        b=LF6aE0lWI+T27U+n1rNhGO7nydsjNreoSZE08nv0q/vatc2954b3QnQ/7qbv0wJjrW
+         9Q4pfzn/hb7oEhKv/8q7ol3gJG3R/+E6w0W6c6CdWs8CFfm1u7McWji6xCLpm1mZCpv5
+         I4SXWRf40GYxoGPoJCGDaNaHxep69ZObOGqpMMyfafNoMMAYhoFcvraIS05wfyXwOcA7
+         04vW3NX6VKra417GrKMrFYOm7PUDFq8YSbVvLHKzoVMYJB8hTMf0BbutXdYBlRF2gZ2N
+         8uVghiv5MIKS1cnThBVCoYoqtKziOfPSIrgIRvDuJFSzMKng9S20vuJypUv4QEBD51hJ
+         q1zQ==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:subject:to:references:from:message-id:date
+         :user-agent:mime-version:in-reply-to:content-transfer-encoding;
+        bh=uInso1MVePzcswhNmJ6tXDuW43GfOhrvKd5327ZZ2dM=;
+        b=hldWhEAkLl1/MV0qeuYbfIGiV1DeMmTeOXS2d6Fod3IenX7iqyGFod5s0TvPrd1ddJ
+         vLv4vjjkacW0NZTxFzonoLoW494MWfMkN9yxUZ7fJY8OX5SCFoN+sxDwO5ft0ZAZr5HF
+         fe/laHBoANIPvrxq0VULs11xKTV0CAIBl2LA7YzuGqdM8NNgBJ6N2fmo3c82/y1afb/B
+         50P6aIs+5MKfLeQb9E3zz8qEyHgIruOKAXA+p4Vr+Ty46+Ei+irxqO9liTYTsiCEv3DG
+         +DinsUMfnozKjnKOx+8AwCBfgLIURUn4kZvDzDeSnyOMqfmgh6aPRLsauVlTcuh3nvrv
+         li/Q==
+X-Gm-Message-State: AD7BkJKeCPb99yf/aGhc0teGb4V+KYZsTICDeM9DVC/3S/82o+Q6yjD9PqNAHzrAojTTEw==
+X-Received: by 10.194.227.1 with SMTP id rw1mr22316553wjc.62.1457944883532;
+        Mon, 14 Mar 2016 01:41:23 -0700 (PDT)
+Return-Path: <sebastianschoener@googlemail.com>
+Received: from [192.168.2.103] (dslb-092-074-177-174.092.074.pools.vodafone-ip.de. [92.74.177.174])
+        by smtp.googlemail.com with ESMTPSA id u4sm21233237wjz.4.2016.03.14.01.41.22
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Mon, 14 Mar 2016 01:41:22 -0700 (PDT)
+Subject: Re: Category Theory
+To: Ingo Skupin <ingo.skupin@googlemail.com>,
+ David Binder <dbinder1989@googlemail.com>
+References: <56DD5B10.2060400@googlemail.com> <56E5E86E.5060309@gmail.com>
+From: Sebastian Schoener <sebastianschoener@googlemail.com>
+Message-ID: <56E67932.3020202@googlemail.com>
+Date: Mon, 14 Mar 2016 09:41:22 +0100
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:38.0) Gecko/20100101
+ Thunderbird/38.6.0
+MIME-Version: 1.0
+In-Reply-To: <56E5E86E.5060309@gmail.com>
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+
+On 13.03.2016 23:23, Ingo Skupin wrote:
+> ich schaff es morgen leider nicht zum Treffen, hab leider die Zeit
+> unterschätzt, die ich zum lernen brauche.
+> Nächste Woche dann hoffentlich wieder.
+
+dann treffen wir uns nächste Woche und bleiben erstmal bei abelschen
+Kategorien. Viel Erfolg bei den Prüfungen!
+
+-- 
+Regards,
+Sebastian Schoener

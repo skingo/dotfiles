@@ -1,0 +1,106 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.5.198 with SMTP id 6cs41078vcw;
+        Fri, 25 Nov 2011 15:54:23 -0800 (PST)
+Received: by 10.204.152.4 with SMTP id e4mr35349952bkw.56.1322265262017;
+        Fri, 25 Nov 2011 15:54:22 -0800 (PST)
+Return-Path: <fmsebert@gmail.com>
+Received: from fmmailgate02.web.de (fmmailgate02.web.de. [217.72.192.227])
+        by mx.google.com with ESMTP id f23si1081220fak.34.2011.11.25.15.54.21;
+        Fri, 25 Nov 2011 15:54:21 -0800 (PST)
+Received-SPF: neutral (google.com: 217.72.192.227 is neither permitted nor denied by domain of fmsebert@gmail.com) client-ip=217.72.192.227;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.72.192.227 is neither permitted nor denied by domain of fmsebert@gmail.com) smtp.mail=fmsebert@gmail.com; dkim=pass (test mode) header.i=@gmail.com
+Received:  from mx42.web.de  ( [172.20.3.10])
+	by fmmailgate02.web.de (Postfix) with ESMTP id 941A01BB07E5C
+	for <ingo.skupin@gmail.com>; Sat, 26 Nov 2011 00:54:21 +0100 (CET)
+Received: from [209.85.214.46] (helo=mail-bw0-f46.google.com)
+	by mx42.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1RU5b2-0004LO-00; Sat, 26 Nov 2011 00:54:20 +0100
+Received: by bke11 with SMTP id 11so5015227bke.19
+        for <multiple recipients>; Fri, 25 Nov 2011 15:54:20 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=sender:references:user-agent:in-reply-to:mime-version:content-type
+         :subject:from:date:to:cc:message-id;
+        bh=nQbghma1//Z0M5l42nIcfQE6tIcPXoZ9bASdn5WLX4w=;
+        b=KHd8q+96WU7/hNiAtk9yr5MORyrhjlduB/Y+icUbg/mumj2347qQVOtSE8bowRbvTy
+         uKdH9QzvAdl2vnInx/TKvNtHdopJ4EDjen+OulGuYQNBkaht7H6JJ7al3ou18UOJSkMF
+         ps3hHOONU+QuSkPqiCLbjNrHLhRf6dGpPtMrg=
+Received: by 10.204.8.77 with SMTP id g13mr34502852bkg.89.1322265260362;
+        Fri, 25 Nov 2011 15:54:20 -0800 (PST)
+Received: from [10.49.158.102] ([82.113.99.102])
+        by mx.google.com with ESMTPS id y2sm30154164fag.12.2011.11.25.15.54.17
+        (version=SSLv3 cipher=OTHER);
+        Fri, 25 Nov 2011 15:54:19 -0800 (PST)
+Sender: Florian Sebert <fmsebert@gmail.com>
+References: <417012305.3845049.1322245315276.JavaMail.fmail@mwmweb033> <4ECFF23D.40600@googlemail.com> <CAN1A5uCQuGgZajW8Kt4se0A4hjugS=4-sPUJRVbHtC6Y2Hi8Mw@mail.gmail.com> <4F91222C659D5B4E8C89CE4D710BB08E8F3BECB9DE@DKFZEX01.ad.dkfz-heidelberg.de> <1BDF6760-A35B-454A-B296-9115E20668A6@me.com>
+User-Agent: K-9 Mail for Android
+In-Reply-To: <1BDF6760-A35B-454A-B296-9115E20668A6@me.com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative; boundary="----PX2WP971IC4PQWJ67DS7WM19YW29MS"
+Subject: Re: AW: Weihnachtsfeier Saxophon-Ensemble
+From: Florian Sebert <florian@floriansebert.de>
+Date: Sat, 26 Nov 2011 00:54:08 +0100
+To: Rainer Pfister <rainer.pfister@me.com>,"Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+CC: Christine Erchinger <christine-erchinger@web.de>,"Dr. Stefan Wiehr" <stefan@wiehr.de>,"Pfister, Martina (MPfister@geuder.de)" <MPfister@geuder.de>,"pfistersabine@googlemail.com" <pfistersabine@googlemail.com>,"steffen.sautter@web.de" <steffen.sautter@web.de>,"kingsaxello@googlemail.com" <kingsaxello@googlemail.com>,"tizian_decker@web.de" <tizian_decker@web.de>,"lukasfischer1@aol.com" <lukasfischer1@aol.com>,"ingo.skupin@web.de" <ingo.skupin@web.de>,"harryd.bath@t-online.de" <harryd.bath@t-online.de>,"jandan@gmx.de" <jandan@gmx.de>,"valerie.bartel@gmx.de" <valerie.bartel@gmx.de>,"rainerpfister@blackforestentertainment.org" <rainerpfister@blackforestentertainment.org>,Anna-Nora zur Nieden <norazurnieden@googlemail.com>
+Message-ID: <17155a94-78ce-4add-8e9b-db247d9167ad@email.android.com>
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+------PX2WP971IC4PQWJ67DS7WM19YW29MS
+Content-Type: text/plain;
+ charset=UTF-8
+Content-Transfer-Encoding: 8bit
+
+Mhmm, Tiramisu, da zerreißts mich glatt...
+--
+Sent via K-9 for Android on Galaxy S2.
+
+
+
+Rainer Pfister <rainer.pfister@me.com> schrieb:
+
+Hallo alle miteinander,
+
+das wird heute Abend bestimmt ein richtig tolles Fest werden. Ich habe soeben mein Tiramisu fertiggestellt und freie mich auf euch.
+
+Bis später,
+
+Rainer
+
+Von meinem iPad gesendet :-)
+
+Am 26.11.2011 um 00:35 schrieb "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>:
+
+> Hört sich gut an! :-)
+> 
+> Bis morgen dann,
+> 
+> Stefan
+> 
+> -----Ursprüngliche Nachricht-----
+> Von: fmsebert@gmail.com [mailto:fmsebert@gmail.com] Im Auftrag von Florian Sebert
+> Gesendet: Samstag, 26. November 2011 00:22
+> Cc: Christine Erchinger; Pfister, Stefan; Dr. Stefan Wiehr; Pfister, Martina (MPfister@geuder.de); pfistersabine@googlemail.com; steffen.sautter@web.de; kingsaxello@googlemail.com; tizian_decker@web.de; lukasfischer1@aol.com; ingo.skupin@web.de; harryd.bath@t-online.de; jandan@gmx.de; valerie.bartel@gmx.de; rainerpfister@blackforestentertainment.org; Anna-Nora zur Nieden
+> Betreff: Re: Weihnachtsfeier Saxophon-Ensemble
+> 
+> So, nun haben die Geschäfte ja offensichtlich schon geschlossen...
+> 
+> Aber der Schrank gibt noch Zutaten für eine Corn Casserole her. Ob man die dann heute Abend wieder aufwärmen kann und ob die zum Fondue passt, weiß ich nicht. Aber schließlich ist Thanksgiving Weekend - so falsch kann die also nicht sein...
+> 
+> Gruß,
+> Florian
+
+
+------PX2WP971IC4PQWJ67DS7WM19YW29MS
+Content-Type: text/html;
+ charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html><head></head><body>Mhmm, Tiramisu, da zerreißts mich glatt...<br>
+--<br>
+Sent via K-9 for Android on Galaxy S2.<br><br><div class="gmail_quote"><br>
+<br>
+Rainer Pfister &lt;rainer.pfister@me.com&gt; schrieb:<blockquote class="gmail_quote" style="margin: 0pt 0pt 0pt 0.8ex; border-left: 1px solid rgb(204, 204, 204); padding-left: 1ex;">
+<pre style="white-space: pre-wrap; word-wrap:break-word; font-family: sans-serif">Hallo alle miteinander,<br /><br />das wird heute Abend bestimmt ein richtig tolles Fest werden. Ich habe soeben mein Tiramisu fertiggestellt und freie mich auf euch.<br /><br />Bis später,<br /><br />Rainer<br /><br />Von meinem iPad gesendet :-)<br /><br />Am 26.11.2011 um 00:35 schrieb "Pfister, Stefan" &lt;S.Pfister@dkfz-heidelberg.de&gt;:<br /><br />&gt; Hört sich gut an! :-)<br />&gt; <br />&gt; Bis morgen dann,<br />&gt; <br />&gt; Stefan<br />&gt; <br />&gt; -----Ursprüngliche Nachricht-----<br />&gt; Von: fmsebert@gmail.com [mailto:fmsebert@gmail.com] Im Auftrag von Florian Sebert<br />&gt; Gesendet: Samstag, 26. November 2011 00:22<br />&gt; Cc: Christine Erchinger; Pfister, Stefan; Dr. Stefan Wiehr; Pfister, Martina (MPfister@geuder.de); pfistersabine@googlemail.com; steffen.sautter@web.de; kingsaxello@googlemail.com; tizian_decker@web.de; lukasfischer1@aol.com; ingo.skupin@web.de;
+harryd.bath@t-online.de; jandan@gmx.de; valerie.bartel@gmx.de; rainerpfister@blackforestentertainment.org; Anna-Nora zur Nieden<br />&gt; Betreff: Re: Weihnachtsfeier Saxophon-Ensemble<br />&gt; <br />&gt; So, nun haben die Geschäfte ja offensichtlich schon geschlossen...<br />&gt; <br />&gt; Aber der Schrank gibt noch Zutaten für eine Corn Casserole her. Ob man die dann heute Abend wieder aufwärmen kann und ob die zum Fondue passt, weiß ich nicht. Aber schließlich ist Thanksgiving Weekend - so falsch kann die also nicht sein...<br />&gt; <br />&gt; Gruß,<br />&gt; Florian<br /></pre></blockquote></div></body></html>
+------PX2WP971IC4PQWJ67DS7WM19YW29MS--
+

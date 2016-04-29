@@ -1,0 +1,62 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.38.225 with SMTP id j1csp14736lbk;
+        Thu, 31 Jan 2013 02:52:19 -0800 (PST)
+X-Received: by 10.224.33.140 with SMTP id h12mr8551143qad.73.1359629538425;
+        Thu, 31 Jan 2013 02:52:18 -0800 (PST)
+Return-Path: <noreply@nessus.org>
+Received: from mta3.tenable.com (mta3.tenable.com. [4.79.179.94])
+        by mx.google.com with ESMTP id o18si1470023qct.200.2013.01.31.02.52.17;
+        Thu, 31 Jan 2013 02:52:18 -0800 (PST)
+Received-SPF: pass (google.com: domain of noreply@nessus.org designates 4.79.179.94 as permitted sender) client-ip=4.79.179.94;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of noreply@nessus.org designates 4.79.179.94 as permitted sender) smtp.mail=noreply@nessus.org
+X-ASG-Debug-ID: 1359629537-03851353493e26b0001-U7AXho
+Received: from bal-drup-001.dmz.tenablesecurity.com ([172.25.210.102]) by mta3.tenable.com with ESMTP id JFHqOetpfyLUAo0Z for <ingo.skupin@gmail.com>; Thu, 31 Jan 2013 05:52:17 -0500 (EST)
+X-Barracuda-Envelope-From: noreply@nessus.org
+X-Barracuda-RBL-Trusted-Forwarder: 172.25.210.102
+Received: by bal-drup-001.dmz.tenablesecurity.com (Postfix, from userid 48)
+	id 66FD942B09; Thu, 31 Jan 2013 05:52:17 -0500 (EST)
+To: ingo.skupin@gmail.com
+X-Barracuda-BWL-IP: nil
+Subject: Tenable HomeFeed Activation Code
+X-PHP-Originating-Script: 0:homefeed.php
+X-ASG-Orig-Subj: Tenable HomeFeed Activation Code
+From: Nessus Registration <noreply@nessus.org>
+X-Requester-IP-Addr: 141.70.8.98
+Message-Id: <20130131105217.66FD942B09@bal-drup-001.dmz.tenablesecurity.com>
+Date: Thu, 31 Jan 2013 05:52:17 -0500 (EST)
+X-Barracuda-Connect: UNKNOWN[172.25.210.102]
+X-Barracuda-Start-Time: 1359629537
+X-Barracuda-URL: http://172.25.210.32:8000/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at tenable.com
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.00
+X-Barracuda-Spam-Status: No, SCORE=0.00 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=9.0 tests=
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.2.121410
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+
+Thank you for registering your Nessus scanner with Tenable. The Nessus HomeFeed subscription will keep your Nessus scanner up to date with the latest plugins for vulnerability scanning.
+
+(Note: If you use Nessus in a professional capacity, you need a ProfessionalFeed subscription.)
+
+Your activation code for the Nessus HomeFeed is 
+74EA-281E-553E-6812-D8C3
+
+This is a one-time code. If you un-install and then re-install Nessus, you will need to register the scanner again and receive another Activation Code.
+
+Activating your HomeFeed Subscription
+Activate your subscription by entering the Activation Code using the procedures below:
+
+After the initial installation of Nessus, the final process will load a local configuration page in your default web browser. This page will begin a brief process to set up the scanner including creating an account, registering the scanner with your activation code, specifying a proxy (optional), downloading the plugins, and initializing Nessus for use.
+
+Please consult the Nessus 5 Installation guide located at http://www.nessus.org/products/nessus/documentation for more information on this setup process.
+
+No Internet Access on your Nessus system?
+If your Nessus installation cannot reach the Internet, you will need to follow an alternate procedure to get the URL and challenge code for downloading the latest plug-ins. You can find offline registration instructions at:
+
+http://static.tenable.com/documentation/Nessus_Activation_Code_Installation.pdf 
+
+Need help or more information?
+If you have any questions, visit the Nessus discussion forum at https://discussions.nessus.org/.

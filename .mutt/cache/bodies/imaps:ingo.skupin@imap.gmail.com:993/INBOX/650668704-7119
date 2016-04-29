@@ -1,0 +1,580 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp107810pdb;
+        Fri, 7 Feb 2014 06:03:01 -0800 (PST)
+X-Received: by 10.14.175.2 with SMTP id y2mr4297738eel.75.1391781780708;
+        Fri, 07 Feb 2014 06:03:00 -0800 (PST)
+Return-Path: <nr27@elaine-asp.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTPS id h44si8393247eew.227.2014.02.07.06.02.58
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 07 Feb 2014 06:02:59 -0800 (PST)
+Received-SPF: softfail (google.com: domain of transitioning nr27@elaine-asp.de does not designate 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning nr27@elaine-asp.de does not designate 212.227.15.4 as permitted sender) smtp.mail=nr27@elaine-asp.de;
+       dkim=neutral (bad format) header.i=@jobmensa.de
+Received: from mout-1304.artegic.net ([144.76.164.80]) by mx-ha.web.de
+ (mxweb108) with ESMTP (Nemesis) id 0M9ZgZ-1W4rk50qDv-00CxbF for
+ <ingo.skupin@gmail.com>; Fri, 07 Feb 2014 15:02:58 +0100
+Received: from wrk-1325.artegic.net (wrk-1325.artegic.net [91.250.82.82])
+	by mout-1304.artegic.net (Postfix) with ESMTP id 65D9032C0DAF
+	for <ingo.skupin@web.de>; Fri,  7 Feb 2014 15:02:57 +0100 (CET)
+Received: from wrk-1325.artegic.net (localhost [127.0.0.1])
+	by wrk-1325.artegic.net (Postfix) with ESMTP id 4500A601A9
+	for <ingo.skupin@web.de>; Fri,  7 Feb 2014 15:02:57 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=jobmensa.de;
+	s=elaine; t=1391781777;
+	bh=UMzIR3poj3QWZbXqeXOU4eBGwGrlqS97lzbQBBqrrkk=;
+	h=Date:To:From:Reply-to:Subject:List-Id;
+	b=pIu0Jdl+f3ECpx7E0hntAlNua5Ag+eOr1IKb3tYZ5ULXA2FLv1Qfqx0SsnmchYeau
+	 xsv4xSdgIUjJ0k0WCrJkPpFqJte8L94hf+JYyzNa11N42JaAJmZgaSkFUaZ5z8XPvz
+	 hJyNgzrLyDasGtkHi+FJhosbkO8jqv7q5LE3moiM=
+Date: Fri, 7 Feb 2014 15:02:57 +0100
+X-CSA-Complaints: whitelist-complaints@eco.de
+To: ingo.skupin@web.de
+From: Jobmensa <bewerbungen@jobmensa.de>
+Reply-to: bewerbungen@jobmensa.de
+Subject: AGB-Anpassung
+Message-ID: <E5-jhwaf11g-nr27/25/88498-d155@wrk-1325.artegic.net>
+X-Mailer: Elaine [Elaine 5.7]
+X-Data: E5-jhwaf11g-nr27/25/88498-d155
+List-Id: <88498-2873-1a6d.elaine-asp.de>
+MIME-Version: 1.0
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+
+<html xmlns=3D"http://www.w3.org/1999/xhtml" xmlns=3D"http://www.w3.org/1=
+999/xhtml">
+  <head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8" />
+    <title>AGB Anpassung</title>
+    <style type=3D"text/css">
+      .ExternalClass {
+      width:100%
+      }
+      .ExternalClass, .ExternalClass p, .ExternalClass span, .ExternalCla=
+ss font, .ExternalClass td, .ExternalClass div {
+      line-height: 100%;
+      }
+      body {
+      -webkit-text-size-adjust:none;
+      -ms-text-size-adjust:none
+      }
+      body {
+      margin:0;
+      padding:0
+      }
+      table td {
+      border-collapse:collapse;
+      }
+      h1, h2, h3, h4, h5, h6 {
+      color: black;
+      line-height: 100%;
+      }
+      a, a:link {
+      color:#2387bc;
+      text-decoration: none;
+      }
+      img {
+      display: block;
+      }
+      span.yshortcuts { color:#29373e; background-color:none; border:none=
+;}
+      span.yshortcuts:hover,
+      span.yshortcuts:active,
+      span.yshortcuts:focus {color:#29373e; background-color:none; border=
+:none;}
+      a:visited { color: #2387bc; text-decoration: none}
+      a:focus   { color: #2387bc; text-decoration: none}
+      a:hover   { color: #2387bc; text-decoration: none}
+      .textlink { color: #29373e !important }
+      .textlink-large { color: #5C7B8A !important }
+      .textlink:hover { color: #000000 !important }
+      .textlink:focus { color: #000000 !important }
+      /* body background, basic font styling */
+      body, #body {
+      color:#29373e;
+      font-family:Arial, Helvetica, sans-serif;
+      font-size:14px;
+      color: #29373e;
+      }
+      /* body padding */
+      #body {
+      padding-top: 2%;
+      padding-right: 2%;
+      padding-bottom: 2%;
+      padding-left: 2%;
+      }
+      /* basic text */
+      #text {
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 16px;
+      color: #29373e;
+      color: rgba(41, 55, 62, 0.9);
+      line-height: 1.6em;
+      padding:0;
+      margin: 0;
+      }
+      /* lead text */
+      #large {
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 20px;
+      color: #5C7B8A;
+      line-height: 1.3em;
+      padding:0;
+      margin: 0;
+      }
+      /* h1 */
+      #h1 {
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 30px;
+      color: #2387bc;
+      line-height: 1.3em;
+      padding:0;
+      margin: 0;
+      }
+      /* foot text */
+      #text-foot {
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 12px;
+      color: #919191;
+      line-height: 1.6em;
+      padding:0;
+      margin: 0;
+      text-align: center;
+      }
+      /* foot imprint text */
+      #text-foot-imprint {
+      font-family:Arial, Helvetica, sans-serif;
+      font-size: 11px;
+      color: #919191;
+      line-height: 1.6em;
+      padding:0;
+      margin: 0;
+      text-align: center;
+      }
+      /* button wrapping div */
+      .button-wrap {
+      display: block;
+      border-radius: 3px;
+      color: #ffffff;
+      }
+      /* primary button style */
+      .button {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 16px;
+      font-weight: normal;
+      line-height: 36px;
+      text-decoration: none;
+      color: #ffffff !important;
+      width: 100%;
+      display:inline-block;
+      }
+      /* page container */
+      #page {
+      max-width: 600px;
+      text-align: left;
+      }
+      /* fixed with for outlook */
+      #page-table {
+      width: 100%;
+      }
+      /* page head */
+      #page-head {
+      padding-top: 4%;
+      padding-right: 8%;
+      padding-bottom: 4%;
+      padding-left: 8%;
+      }
+      /* page content */
+      #page-content {
+      padding-top: 4%;
+      padding-right: 8%;
+      padding-bottom: 4%;
+      padding-left: 8%;
+      }
+      /* head shadow */
+      #page-head-shadow1 {
+      width: 100%;
+      height: 1px;
+      font-size: 0;
+      line-height: 0;
+      border-bottom: 1px #DDE0E2 solid;
+      }
+      #page-head-shadow2 {
+      width: 100%;
+      height: 1px;
+      font-size: 0;
+      line-height: 0;
+      border-top: 1px #ececec solid;
+      }
+      #page-head-shadow3 {
+      width: 100%;
+      height: 1px;
+      font-size: 0;
+      line-height: 0;
+      border-top: 1px #fcfcfc solid;
+      }
+      /* spacing */
+      #page-space-vertical {
+      height: 20px;
+      font-size: 0;
+      line-height: 0
+      }
+      #page-space-foot-left {
+      width: 10px;
+      font-size: 0;
+      line-height: 0
+      }
+      #page-space-foot-right {
+      width: 10px;
+      font-size: 0;
+      line-height: 0
+      }
+      #logo {
+      max-height: 40px;
+      }
+      #support-contact-table {
+      height: 80px;
+      }
+      #support-space {
+      height: 10px;
+      font-size: 0;
+      line-height: 0;
+      }
+      /* classes =E2=80=A6 */
+      .zero {
+      margin: 0 !important;
+      padding: 0 !important;
+      font-size: 0 !important;
+      line-height: 0 !important;
+      }
+      /* mail box */
+      .box {
+      border-radius: 3px;
+      box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+      border: 1px #dde0e2 solid;
+      }
+      /* inline */
+      .inline {
+      display: inline-block !important;
+      }
+      @media screen and (max-width: 600px) {
+      *[style] #page-table {
+      width: 100% !important;
+      }
+      *[style] #support-person-table,
+      *[style] #support-contact-table {
+      width: 100% !important;
+      height: auto !important;
+      }
+      *[style] #support-person-td,
+      *[style] #support-contact-td,
+      *[style] #support-phone-td,
+      *[style] #support-mail-td {
+      text-align: center !important;
+      }
+      /* decrease support person image dimensions */
+      *[style] #support-person-image {
+      width: 60px !important;
+      height: 60px !important;
+      max-width: 100% !important;
+      }
+      /* increase spacing between support headline and image */
+      *[style] #support-contact-td {
+      padding-top: 5px !important;
+      }
+      }
+      @media screen and (min-width: 500px) and (max-width: 600px) {
+      *[style] #logo {
+      max-height: 30px !important;
+      }
+      *[style] #h1 {
+      font-size: 26px !important
+      }
+      *[style] #large {
+      font-size: 18px !important
+      }
+      *[style] #text {
+      font-size: 14px !important
+      }
+      }
+      @media screen and (max-width: 500px) {
+      *[style] #logo {
+      max-height: 24px !important;
+      }
+      *[style] #h1 {
+      font-size: 22px !important
+      }
+      *[style] #large {
+      font-size: 16px !important
+      }
+      *[style] #text {
+      font-size: 13px !important
+      }
+      *[style] #page-space-vertical {
+      height: 10px !important
+      }
+      /* display among themselfes */
+      *[style] #support-phone-table,
+      *[style] #support-mail-table {
+      width: 100% !important;
+      }
+      /* decrease support person image dimensions */
+      *[style] #support-person-image {
+      width: 40px !important;
+      height: 40px !important;
+      }
+      /* increase spacing between phone and mail */
+      *[style] #support-mail-td {
+      padding-top: 5px !important;
+      }
+      }
+      @media screen and (max-width: 600px) {
+      /* page container */
+      *[style] #page {
+      width: 100% !important;
+      min-width: 100% !important;
+      }
+      }
+    </style>
+    <!--[if lte mso 12]>
+    <style type=3D"text/css">
+      /* body padding */
+      #body {
+      padding-top: 20px !important;
+      padding-right: 20px !important;
+      padding-bottom: 20px !important;
+      padding-left: 20px !important;
+      }
+      /* page head */
+      #page-head {
+      padding-top: 20px !important;
+      padding-right: 20px !important;
+      padding-bottom: 20px !important;
+      padding-left: 20px !important;
+      }
+      /* page content */
+      #page-content {
+      padding-top: 20px !important;
+      padding-right: 20px !important;
+      padding-bottom: 20px !important,
+      padding-left: 20px !important;
+      }
+      #page-table {
+      width: 600px;
+      }
+    </style>
+    <![endif]-->
+  </head>
+  <body style=3D"-webkit-text-size-adjust: none;-ms-text-size-adjust: non=
+e;margin: 0;padding: 0;font-family: Arial, Helvetica, sans-serif;font-siz=
+e: 14px;color: #29373e">
+<div id=3D"body" style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size: 14px; color: #29373e; padding: 2%;">
+<table border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"100%">
+<tbody>
+<tr>
+<td align=3D"center" style=3D"border-collapse: collapse;">
+<div id=3D"page" style=3D"max-width: 600px; text-align: left;">
+<table id=3D"page-table" data-fix=3D"true" class=3D"page-table box" style=
+=3D"width: 100%; border-radius: 3px; box-shadow: 0 1px 2px rgba(0, 0, 0, =
+0.1); border: 1px #dde0e2 solid;" align=3D"center" bgcolor=3D"#ffffff" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"border-collapse: collapse; padding-top: 4%; padding-right: 8=
+%; padding-bottom: 4%; padding-left: 8%;" id=3D"page-head"><img id=3D"log=
+o" src=3D"http://jobmensa-mail.s3.amazonaws.com/devise/logo-title.png" cl=
+ass=3D"image_fix" alt=3D"Jobmensa" style=3D"display: block; max-height: 4=
+0px;"><img src=3D"http://1a6d.elaine-asp.de/action/view/88498/jhwaf11g" b=
+order=3D"0" width=3D"1" height=3D"1" alt=3D"" />&nbsp;</td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse; width: 100%; height: 1px; font-si=
+ze: 0; line-height: 0; border-bottom: 1px #DDE0E2 solid;" id=3D"page-head=
+-shadow1"></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse; width: 100%; height: 1px; font-si=
+ze: 0; line-height: 0; border-top: 1px #ececec solid;" id=3D"page-head-sh=
+adow2"></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse; width: 100%; height: 1px; font-si=
+ze: 0; line-height: 0; border-top: 1px #fcfcfc solid;" id=3D"page-head-sh=
+adow3"></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse; padding-top: 4%; padding-right: 8=
+%; padding-bottom: 4%; padding-left: 8%;" id=3D"page-content">
+<div id=3D"h1" style=3D"font-family: Arial, Helvetica, sans-serif; font-s=
+ize: 30px; color: #2387bc; line-height: 1.3em; padding: 0; margin: 0;">Ha=
+llo!</div>
+<div id=3D"large" style=3D"font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 20px; color: #5c7b8a; line-height: 1.3em; padding: 0; margin: 0;"=
+><br>Im Zuge des Relaunch haben wir unsere AGB angepasst. Die neuen AGB k=
+annst du dir <a href=3D"http://1a6d.elaine-asp.de/go/jhwaf11g/iud0giaz/28=
+73" target=3D"_blank" style=3D"color: #2387bc; text-decoration: none;" >h=
+ier</a> ansehen.<br><br></div>
+</td>
+</tr>
+</tbody>
+</table>
+<br>=20
+<table id=3D"page-table" data-fix=3D"true" class=3D"page-table box" style=
+=3D"width: 100%; border-radius: 3px; box-shadow: 0 1px 2px rgba(0, 0, 0, =
+0.1); border: 1px #dde0e2 solid;" align=3D"center" bgcolor=3D"#f3f4f5" bo=
+rder=3D"0" cellpadding=3D"0" cellspacing=3D"0">
+<tbody>
+<tr>
+<td style=3D"border-collapse: collapse; padding-top: 4%; padding-right: 8=
+%; padding-bottom: 4%; padding-left: 8%;" id=3D"page-content">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+<tbody>
+<tr>
+<td style=3D"border-collapse: collapse;">
+<table id=3D"support-person-table" align=3D"left" border=3D"0" cellpaddin=
+g=3D"0" cellspacing=3D"0" width=3D"20%">
+<tbody>
+<tr>
+<td style=3D"border-collapse: collapse;" id=3D"support-person-td"><img id=
+=3D"support-person-image" src=3D"http://jobmensa-mail.s3.amazonaws.com/de=
+vise/supporter-consumer.png" alt=3D"Jobmensa" class=3D"inline" style=3D"d=
+isplay: inline-block !important;"></td>
+</tr>
+</tbody>
+</table>
+<table id=3D"support-contact-table" style=3D"height: 80px;" align=3D"left=
+" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" width=3D"80%">
+<tbody>
+<tr>
+<td style=3D"border-collapse: collapse;">
+<table align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=3D"0" =
+width=3D"100%">
+<tbody>
+<tr>
+<td style=3D"border-collapse: collapse;" id=3D"support-contact-td">
+<div id=3D"large" style=3D"font-family: Arial, Helvetica, sans-serif; fon=
+t-size: 20px; color: #5c7b8a; line-height: 1.3em; padding: 0; margin: 0;"=
+>Du kommst nicht weiter? Frag einfach Anna!</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse; height: 10px; font-size: 0; line-=
+height: 0;" id=3D"support-space"></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse;">
+<table id=3D"support-phone-table" align=3D"left" border=3D"0" cellpadding=
+=3D"0" cellspacing=3D"0" width=3D"50%">
+<tbody>
+<tr>
+<td style=3D"border-collapse: collapse;" id=3D"support-phone-td">
+<div id=3D"text" style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size: 16px; color: rgba(41, 55, 62, 0.9); line-height: 1.6em; padding: 0=
+; margin: 0;"><img src=3D"http://jobmensa-mail.s3.amazonaws.com/devise/ic=
+on-phone.png" class=3D"inline" alt=3D"Jobmensa" style=3D"display: inline-=
+block !important;"> (+49) 221 / 677 76 139</div>
+</td>
+</tr>
+</tbody>
+</table>
+<table id=3D"support-mail-table" align=3D"left" border=3D"0" cellpadding=3D=
+"0" cellspacing=3D"0" width=3D"50%">
+<tbody>
+<tr>
+<td style=3D"border-collapse: collapse;" id=3D"support-mail-td">
+<div id=3D"text" style=3D"font-family: Arial, Helvetica, sans-serif; font=
+-size: 16px; color: rgba(41, 55, 62, 0.9); line-height: 1.6em; padding: 0=
+; margin: 0;"><img src=3D"http://jobmensa-mail.s3.amazonaws.com/devise/ic=
+on-mail.png" class=3D"inline" alt=3D"Jobmensa" style=3D"display: inline-b=
+lock !important;"> <a href=3D"mailto: anna@jobmensa.de">anna@jobmensa.de<=
+/a></div>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table id=3D"page-table" class=3D"page-table" data-fix=3D"true" style=3D"=
+width: 100%;" align=3D"center" border=3D"0" cellpadding=3D"0" cellspacing=
+=3D"0">
+<tbody>
+<tr>
+<td colspan=3D"3" style=3D"border-collapse: collapse; height: 20px; font-=
+size: 0; line-height: 0;" id=3D"page-space-vertical"></td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse; width: 10px; font-size: 0; line-h=
+eight: 0;" id=3D"page-space-foot-left"></td>
+<td style=3D"border-collapse: collapse;">
+<div id=3D"text-foot" style=3D"font-family: Arial, Helvetica, sans-serif;=
+ font-size: 12px; color: #919191; line-height: 1.6em; padding: 0; margin:=
+ 0; text-align: center;">Diese E-Mail wurde automatisch erstellt. Bitte a=
+ntworte nicht auf diese Mail. Bei Fragen kontaktiere uns einfach via E-Ma=
+il an feedback@jobmensa.de</div>
+</td>
+<td style=3D"border-collapse: collapse; width: 10px; font-size: 0; line-h=
+eight: 0;" id=3D"page-space-foot-right"></td>
+</tr>
+<tr>
+<td colspan=3D"3" style=3D"border-collapse: collapse; height: 20px; font-=
+size: 0; line-height: 0;" id=3D"page-space-vertical"></td>
+</tr>
+<tr>
+<td colspan=3D"3" style=3D"border-collapse: collapse;">
+<div id=3D"text-foot" style=3D"font-family: Arial, Helvetica, sans-serif;=
+ font-size: 12px; color: #919191; line-height: 1.6em; padding: 0; margin:=
+ 0; text-align: center;"><a href=3D"http://1a6d.elaine-asp.de/go/jhwaf11g=
+/pf0g22hp/2873" target=3D"_blank" style=3D"color: #2387bc; text-decoratio=
+n: none;" >AGB</a> &bull; <a href=3D"http://1a6d.elaine-asp.de/go/jhwaf11=
+g/syvoxj88/2873" target=3D"_blank" style=3D"color: #2387bc; text-decorati=
+on: none;" >Datenschutzerkl&auml;rung</a> &bull; <a href=3D"http://1a6d.e=
+laine-asp.de/go/jhwaf11g/qi1ry0xk/2873" target=3D"_blank" style=3D"color:=
+ #2387bc; text-decoration: none;" >Impressum</a> <br> =C2=97</div>
+</td>
+</tr>
+<tr>
+<td style=3D"border-collapse: collapse; width: 10px; font-size: 0; line-h=
+eight: 0;" id=3D"page-space-foot-left"></td>
+<td style=3D"border-collapse: collapse;">
+<div id=3D"text-foot-imprint" style=3D"font-family: Arial, Helvetica, san=
+s-serif; font-size: 11px; color: #919191; line-height: 1.6em; padding: 0;=
+ margin: 0; text-align: center;">STUDITEMPS GmbH, Friesenstrasse 20, 5067=
+0 K&ouml;ln, Deutschland<br> Handelsregister: Amtsgericht K&ouml;ln, HRB =
+63888<br> Gesch&auml;ftsf&uuml;hrer: Andreas Wels, Benjamin F. Roos, Eckh=
+ard K&ouml;hn<br><br> &copy; 2014 STUDITEMPS GmbH</div>
+</td>
+<td style=3D"border-collapse: collapse; width: 10px; font-size: 0; line-h=
+eight: 0;" id=3D"page-space-foot-right"></td>
+</tr>
+</tbody>
+</table>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+</body>
+</html>
+
+

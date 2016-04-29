@@ -1,0 +1,88 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp72799pdb;
+        Sun, 30 Mar 2014 13:03:42 -0700 (PDT)
+X-Received: by 10.180.188.169 with SMTP id gb9mr7231522wic.17.1396209821688;
+        Sun, 30 Mar 2014 13:03:41 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id 43si19425272eei.145.2014.03.30.13.03.41
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 30 Mar 2014 13:03:41 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@googlemail.com
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb009)
+ with ESMTPS (Nemesis) id 0LrGxw-1XBHRA2DBU-01338h for
+ <ingo.skupin@gmail.com>; Sun, 30 Mar 2014 22:03:40 +0200
+Received: from mail-wi0-f176.google.com ([209.85.212.176]) by mx-ha.web.de
+ (mxweb009) with ESMTPS (Nemesis) id 0MIBlm-1WTnik2CnG-003yLF for
+ <ingo.skupin@web.de>; Sun, 30 Mar 2014 22:03:40 +0200
+Received: by mail-wi0-f176.google.com with SMTP id r20so2340562wiv.9
+        for <multiple recipients>; Sun, 30 Mar 2014 13:03:40 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=from:to:subject:date:message-id:mime-version:content-type
+         :content-transfer-encoding:thread-index:content-language;
+        bh=wPhxxDonel8IjacHJHVPu3lJ936erPFyWTcINDBgdbk=;
+        b=MJazoBL+EkgX2hBZsIzk1cKRUAgq6ADoZczeFAIXMWwPbxW6nBGj/MA9bZp6azYJEk
+         lYAkKeMO1jpr3xiYQPNC+B1sLXhs2hFBa4C29/0M3stIbTQvU43opBKRhAc7FqDuwpm9
+         xEHVASiO+rOXg1JpC+qBBBoJXR6ePfIY7z3Ugy7v5LbhpqZDt8G2HVVnOqV75/F1gY9O
+         h0/eczgPd1xh7hI+wPgmqTSNc/FHgAYXoci1StZViaR5TedaeHMw8PdFMAJLBR/dVD4J
+         n388EDCkSecvZkx922UC9MYpOQ1yyANXiV3eA1nuA5q9hUNr8feh5y1Ac1PLMZ7BhvXN
+         lxtg==
+X-Received: by 10.180.19.130 with SMTP id f2mr7268989wie.6.1396209820253;
+        Sun, 30 Mar 2014 13:03:40 -0700 (PDT)
+Return-Path: <pfistersabine@googlemail.com>
+Received: from SabinePC (dslb-084-057-151-109.pools.arcor-ip.net. [84.57.151.109])
+        by mx.google.com with ESMTPSA id l42sm27941411eew.19.2014.03.30.13.03.38
+        for <multiple recipients>
+        (version=TLSv1 cipher=ECDHE-RSA-AES128-SHA bits=128/128);
+        Sun, 30 Mar 2014 13:03:39 -0700 (PDT)
+From: "Sabine Pfister" <pfistersabine@googlemail.com>
+To: "'Pfister, Stefan'" <S.Pfister@dkfz-heidelberg.de>,
+	"'Steffen Sautter'" <steffen.sautter@web.de>,
+	"'Yannick Frey'" <yannick.frey1994@web.de>,
+	"'Tizian Decker'" <tizian_decker@web.de>,
+	"'Lena Hahn'" <LenaHahn20@web.de>,
+	"'Florian Sebert'" <florian@floriansebert.de>,
+	<raphael@rothschink.de>,
+	"'Ingo Skupin'" <ingo.skupin@web.de>,
+	"'Lukas Fischer'" <l.fischer@3-1415.de>,
+	"'Julia Wollny'" <wollny.julia@me.com>,
+	"'Rainer Pfister'" <rainer.pfister@me.com>,
+	"'Dr. Stefan Wiehr'" <stefan@wiehr.de>,
+	"'Daniel Metzger'" <jandan@gmx.de>,
+	"'Pfister'" <kinderaerztin_susanne@t-online.de>,
+	<tkonwitschny@yahoo.de>,
+	<decker.mitat@onlinehome.de>,
+	<harryd.bath@t-online.de>,
+	<mpfister@geuder.de>,
+	<martina@pfister-heidelberg.de>
+Subject: Konzert Pfrondorf
+Date: Sun, 30 Mar 2014 22:03:36 +0200
+Message-ID: <000e01cf4c53$23818100$6a848300$@googlemail.com>
+MIME-Version: 1.0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac9MUsU2x3U3bH5JTviRnwqxas+v+w==
+Content-Language: de
+
+Hallo Ihr Lieben,
+
+bitte meldet euch bitte kurz, wer f=FCr das Konzert in Pfrondorf wie =
+viele
+Plakate welcher Gr=F6=DFe aufh=E4ngen kann (A3,A4)-damit wir die =
+passende
+St=FCckzahl kopieren und kleben k=F6nnen. =20
+Bitte macht kr=E4ftig Werbung: die Eckdaten: 12.4. 19 Uhr im =
+Musikzentrum in
+Pfrondorf-Eintritt frei-Spenden erbeten
+
+Danke !
+
+Viele Gr=FC=DFe, Sabine
+

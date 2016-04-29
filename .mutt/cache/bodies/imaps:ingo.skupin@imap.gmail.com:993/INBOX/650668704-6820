@@ -1,0 +1,207 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.64.28.97 with SMTP id a1csp123340ieh;
+        Fri, 6 Dec 2013 11:12:11 -0800 (PST)
+X-Received: by 10.14.37.131 with SMTP id y3mr2860070eea.1.1386357131087;
+        Fri, 06 Dec 2013 11:12:11 -0800 (PST)
+Return-Path: <stevekoch@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.17.21])
+        by mx.google.com with ESMTPS id i1si15856222eev.131.2013.12.06.11.12.10
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 06 Dec 2013 11:12:11 -0800 (PST)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 212.227.17.21 as permitted sender) client-ip=212.227.17.21;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of stevekoch@gmx.de designates 212.227.17.21 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: from Arbeitstier ([95.208.248.116]) by mail.gmx.com (mrgmx102) with
+ ESMTPA (Nemesis) id 0Mam2Q-1W8LBa1OnK-00KQMC for <ingo.skupin@gmail.com>;
+ Fri, 06 Dec 2013 20:12:10 +0100
+Message-ID: <616439DC748B42C38F6A4C2A01AB9BFE@Arbeitstier>
+From: <stevekoch@gmx.de>
+To: "Anja Rentz" <anjarentz@arcor.de>,
+	<rs@mut-anhaenger.de>,
+	<f.a.brodbeck@kabelbw.de>,
+	<luisa.schroth@web.de>,
+	<hennrich-paul@web.de>,
+	=?utf-8?Q?Sara_Ebersp=C3=A4cher?= <sara.eberspaecher@live.de>,
+	<sarah-petzoldt@freenet.de>,
+	<tanja.beichter@gmx.de>,
+	<anja-s96@web.de>,
+	<david.eisele@arcor.de>,
+	<ralf.krasselt@arcor.de>,
+	<annika.steib@hotmail.com>,
+	<christine.dieter.bayer@t-online.de>,
+	=?utf-8?Q?Sonja_M=C3=BCller?= <sonja.christiane@web.de>,
+	<uli.mueller@online.de>,
+	<luisa.frietsch@t-online.de>,
+	"Felix Wetzel" <felix@fam-wetzel.com>,
+	<benjamin@steiner.org>,
+	<vera.ringhoffer@web.de>,
+	<v.tomschi@web.de>,
+	"Lotta Zeiger" <lotta@zeiger-web.de>,
+	"Paul Jacot" <paul.jacot@gmx.net>,
+	"Th. Rotter" <T.Rotter@t-online.de>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	<ingo.skupin@gmail.com>,
+	"Vanessa Wuensch" <vanessa.wuensch@web.de>,
+	"Luisa Engel" <engel.luisa@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	<Baurlu@web.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	<nmachanek@web.de>,
+	<smachanek@web.de>,
+	<uli__kurz@t-online.de>,
+	"Christian Baur" <chrisbaur@hotmail.de>,
+	"Marian Basta" <m-basta@web.de>,
+	<jakob.krenn@t-online.de>,
+	"Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+	<felix.koschei@freenet.de>,
+	<oliiiiver@hotmail.de>,
+	<jonaskolibius@web.de>,
+	<janina_schott@web.de>,
+	"Philip Koschei" <koschi_99@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	=?utf-8?Q?Michael_Pf=C3=A4nder?= <Michi110793@aol.com>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Christoph Korschinek" <christoph@korschinek.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	"Annika Vesenmaier" <an.ve@arcor.de>,
+	=?utf-8?Q?David_K=C3=BCchle?= <D1V23@aol.com>,
+	"Lisa Richter" <lisarichter93@hotmail.de>,
+	=?utf-8?Q?Philipp_Gr=C3=B6ber?= <groeber_95@web.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	"Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Kristina Kraemer" <kristina.kraemer@akris.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	<nils.fischer98@gmx.de>,
+	<david@kuechle-salach.de>,
+	"Thorsten Schmidt" <Thorsten.Schmidt_Schmidt@web.de>,
+	"Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+	"Tobias Beichter" <tobias.beichter@gmx.de>,
+	"Christine Zeller" <chrisi.zeller@web.de>,
+	"Matthias Albrecht" <matze.albrecht@web.de>,
+	"Carolin Brodbeck" <carolin.brodbeck@freenet.de>,
+	<Piluep@gmx.de>,
+	<florian@r-k-r.de>,
+	<nina.fischer96@gmx.de>,
+	<miroll@arcor.de>,
+	<se.pree@web.de>,
+	<katja@landhaeusser.co>,
+	<bastian.otto@fnks.de>,
+	"Alexander Zweifel" <a.zweifel95@googlemail.com>,
+	<tobias.fath@googlemail.com>,
+	<ilona.borchardt@gmx.de>,
+	<s-haberkern@gmx.de>,
+	<luisa.heilemann@gmx.de>,
+	<bene.strambach@t-online.de>,
+	<fabi.lang@gmx.net>,
+	<richardg.xyz@gmail.com>,
+	"Theresa Siegler" <theresa.siegler@googlemail.com>,
+	"Lisa Speidel" <lisaspeidel@t-online.de>,
+	=?utf-8?Q?Sascha_Schr=C3=B6ter?= <schroeter1992@icloud.com>
+Subject: Jahresabschluss KJO auf dem Esslinger Weihnachtsmarkt
+Date: Fri, 6 Dec 2013 20:12:14 +0100
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0080_01CEF2BF.74A10CB0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+X-Provags-ID:  V03:K0:GuA1hpsymyMJ1+Q4TxW2yOzXtqo5k43LzFqCPznC5fZxkqOuTra
+ XXCJFmHZOZEArpJURl/eLqupAqqBUURTlGBCBfT1dmL2CwUEwoDS/JTw8j4fIRP7qKDpKCx
+ GzFi3hiWPeLeHafocWrDCGPThFAuVXC1U0ieT3iUgjUy3jlVY1sLCCy7PWBqDmsLaYKiAZM
+ hwsQ4Q7GaeBGZf136RwLA==
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_0080_01CEF2BF.74A10CB0
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+nach unserem hervorragenden Doppelkonzert in B=C3=B6blingen, steht nun =
+der letzte, inoffizielle Termin des Jahres an.
+Traditionell treffen sich alle die Lust und Zeit haben morgen um 15:00 =
+Uhr auf dem Weihnachtsmarkt in Esslingen. Treffpunkt am ersten =
+Gl=C3=BChwein-Stand rechts, nach dem Haupteingang an der Stadtkirche =
+(Richtung Neckarbr=C3=BCcke).
+Wir k=C3=B6nnen dann auch gleich live die Probe zum Auftritt unseres =
+KJO-Blechbl=C3=A4serensembles am Sonntag, in der Sondersendung =
+=E2=80=9CEsslinger Weihnachtsmarkt=E2=80=9D im SWR-Fernsehen von 16:00 =
+=E2=80=93 18:00 Uhr erleben.=20
+Wer sp=C3=A4ter dazu sto=C3=9Fen m=C3=B6chte, wir sind dann bestimmt am =
+=E2=80=9CDrehort=E2=80=9D Marktplatz zu finden. Wer uns gar nicht findet =
+darf mich nat=C3=BCrlich auch gern anrufen.
+Allen die morgen leider nicht dabei sein k=C3=B6nnen w=C3=BCnsche ich =
+schon jetzt ein sch=C3=B6nes Weihnachtsfest und einen guten Rutsch ins =
+neue Jahr in dem uns unser anderem unsere Reise nach Italien und der =
+Wettbewerb in Riva erwartet.
+
+
+Viele Gr=C3=BC=C3=9Fe
+Stefan=20
+
+0172/7297572
+
+
+------=_NextPart_000_0080_01CEF2BF.74A10CB0
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>Hallo zusammen,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>nach unserem hervorragenden Doppelkonzert in B=C3=B6blingen, steht =
+nun der=20
+letzte, inoffizielle Termin des Jahres an.</DIV>
+<DIV>Traditionell treffen sich alle die Lust und Zeit haben morgen um =
+15:00 Uhr=20
+auf dem Weihnachtsmarkt in Esslingen. Treffpunkt am ersten =
+Gl=C3=BChwein-Stand=20
+rechts, nach dem Haupteingang an der Stadtkirche (Richtung =
+Neckarbr=C3=BCcke).</DIV>
+<DIV>Wir k=C3=B6nnen dann auch gleich live die Probe zum Auftritt =
+unseres=20
+KJO-Blechbl=C3=A4serensembles am Sonntag, in der Sondersendung =
+=E2=80=9CEsslinger=20
+Weihnachtsmarkt=E2=80=9D im SWR-Fernsehen von 16:00 =E2=80=93 18:00 Uhr =
+erleben. </DIV>
+<DIV>Wer sp=C3=A4ter dazu sto=C3=9Fen m=C3=B6chte, wir sind dann =
+bestimmt am =E2=80=9CDrehort=E2=80=9D=20
+Marktplatz zu finden. Wer uns gar nicht findet darf mich nat=C3=BCrlich =
+auch gern=20
+anrufen.</DIV>
+<DIV>Allen die morgen leider nicht dabei sein k=C3=B6nnen w=C3=BCnsche =
+ich schon jetzt ein=20
+sch=C3=B6nes Weihnachtsfest und einen guten Rutsch ins neue Jahr in dem =
+uns unser=20
+anderem unsere Reise nach Italien und der Wettbewerb in Riva =
+erwartet.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Viele Gr=C3=BC=C3=9Fe</DIV>
+<DIV>Stefan </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>0172/7297572</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0080_01CEF2BF.74A10CB0--
+

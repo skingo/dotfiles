@@ -1,0 +1,59 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp310530pdt;
+        Tue, 29 Jul 2014 04:52:47 -0700 (PDT)
+X-Received: by 10.194.22.166 with SMTP id e6mr2555548wjf.88.1406634766707;
+        Tue, 29 Jul 2014 04:52:46 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id fr3si19354649wib.1.2014.07.29.04.52.45
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 29 Jul 2014 04:52:46 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb101)
+ with ESMTPS (Nemesis) id 0M1mfG-1WMryt1vrO-00tkW4 for
+ <ingo.skupin@gmail.com>; Tue, 29 Jul 2014 13:52:42 +0200
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.web.de (mxweb101) with
+ ESMTPS (Nemesis) id 0MCsTX-1XK6Je1vgR-009iJh for <ingo.skupin@web.de>; Tue,
+ 29 Jul 2014 13:52:41 +0200
+Received: from mout.gmx.net ([212.227.15.18]) by mx-ha.gmx.net (mxgmx010) with
+ ESMTPS (Nemesis) id 0Lmvl6-1WZTLN3Gd2-00hA4f; Tue, 29 Jul 2014 13:52:21 +0200
+Received: from [193.98.76.14] by 3capp-gmx-bs71.server.lan (via HTTP); Tue,
+ 29 Jul 2014 13:52:20 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-33be032e-0af6-482e-98b9-d67b984c1624-1406634740693@3capp-gmx-bs71>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de,
+ BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de
+Subject: MV Notzingen letzte Musikstunde vor den Sommerferien
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 29 Jul 2014 13:52:20 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:AgKjsWA5RtTf3OO8fIuXumobXXjcsUYQNiqXx74JZ9F
+ d3VyuuTdtmGIF+Yj0IkiH/Mwyb+vRRYjudItONxXuWorNPLBrp
+ eV1jsUKGwGigUTERuOU8xBI5ONFizkJY/d7a4LOYFv/NRZji84
+ zdF8bSP6stFYjjRaxMj2ME4/4nNP/wK+9HZ6xdoDLSXt+bITMX
+ 76EZIXXaPJshulxKTcm8ZARfVGk+V2fd35Wgfzh6lTIAWT+rQW
+ YmTmJjLRYQWoRoOu63/u7hWoEC6wUOfrmBvQdLpK7JhYx6Tjsb MJXLYs=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>heute Abend ist wie immer Dienstags Musikprobe,</div>
+
+<div>vor den Sommerferien wie immer nur eine halbe Probe,</div>
+
+<div>diesmal sind Getr&auml;nke und ein kleines Vepser frei.</div>
+
+<div>&nbsp;</div>
+
+<div>Hierzu sind ALLE ( krankheitsbedingte sowie andersartige Aussetzer, Umzieher, Verreisende usw.) eingeladen.</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig; J&uuml;rgen&nbsp;</div></div></body></html>

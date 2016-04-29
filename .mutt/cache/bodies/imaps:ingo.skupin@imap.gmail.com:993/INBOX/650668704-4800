@@ -1,0 +1,306 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.64.146.40 with SMTP id sz8csp34940ieb;
+        Wed, 23 Jan 2013 05:14:55 -0800 (PST)
+X-Received: by 10.14.225.72 with SMTP id y48mr3815529eep.46.1358946895156;
+        Wed, 23 Jan 2013 05:14:55 -0800 (PST)
+Return-Path: <Sandra.Rodemeister@uni-hohenheim.de>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id f4si35656431eep.81.2013.01.23.05.14.54
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Wed, 23 Jan 2013 05:14:55 -0800 (PST)
+Received-SPF: neutral (google.com: 5.35.244.247 is neither permitted nor denied by best guess record for domain of Sandra.Rodemeister@uni-hohenheim.de) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 5.35.244.247 is neither permitted nor denied by best guess record for domain of Sandra.Rodemeister@uni-hohenheim.de) smtp.mail=Sandra.Rodemeister@uni-hohenheim.de;
+       dkim=pass header.i=@uni-hohenheim.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 0E288AC8FC0; Wed, 23 Jan 2013 14:14:24 +0100 (CET)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	lvps5-35-244-247.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=-2.4 required=7.0 tests=DKIM_SIGNED,DKIM_VALID,
+	DKIM_VALID_AU,HTML_MESSAGE,RCVD_IN_DNSWL_MED,RP_MATCHES_RCVD autolearn=ham
+	version=3.3.1
+X-Original-To: saxophon@concertband.de
+Delivered-To: saxophon@concertband.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 3A8E1AC8FCF; Wed, 23 Jan 2013 14:14:09 +0100 (CET)
+X-Original-To: alle@concertband.de
+Delivered-To: alle@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from smtp2.rz.uni-hohenheim.de (smtp2.rz.uni-hohenheim.de [144.41.4.42])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTP id AF9EAAC8EAD
+	for <alle@concertband.de>; Wed, 23 Jan 2013 14:14:06 +0100 (CET)
+DKIM-Signature: v=1; a=rsa-sha256; d=uni-hohenheim.de; h=
+	content-language:x-mailer:content-type:content-type:mime-version
+	:message-id:date:date:subject:subject:from:from:received
+	:received; s=default; t=1358946835; x=1360761235; bh=dFKuDEMwlib
+	Lhj9pA2ov6hFoHlBgq/CcUv6mBnatByk=; b=ezIv2AUbHG2jgVvq85813m1NeM3
+	N5DgyGUS7O/c/QVjaEP4/QPKoZ/IrZFMEaxGh7+vjjvg8ri1L85BSLM9BNNEzv2s
+	uTtSZsqELKtrcdEys0jT2BmNbqzhA4nsf3g9xhzz0w+3ILkf/7vLUBeg4I53xICy
+	Gw6OAAMVawFGhhDc=
+X-Virus-Scanned: amavisd-new at uni-hohenheim.de
+Received: from mailserv.rz.uni-hohenheim.de (dovecot1.rz.uni-hohenheim.de [144.41.4.87])
+	by smtp2.rz.uni-hohenheim.de (Postfix) with ESMTP
+	for <alle@concertband.de>; Wed, 23 Jan 2013 14:13:55 +0100 (CET)
+Received: from C3PO (c3po.biochemie.uni-hohenheim.de [144.41.33.193])
+	by mailserv.rz.uni-hohenheim.de (Postfix) with ESMTP id 2177019009F
+	for <alle@concertband.de>; Wed, 23 Jan 2013 14:13:56 +0100 (CET)
+From: "Sandra Rodemeister" <Sandra.Rodemeister@uni-hohenheim.de>
+To: <alle@concertband.de>
+Subject: Infos Konzert
+Date: Wed, 23 Jan 2013 14:13:56 +0100
+Message-ID: <003601cdf96b$7fe01060$7fa03120$@uni-hohenheim.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0037_01CDF973.E1A6E960"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac35aMK+6fKbKiY5T7W+R+MIYHIUAA==
+Content-Language: de
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0037_01CDF973.E1A6E960
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+=20
+
+hier nochmal die Infos von gestern abend (und ein paar mehr) in =
+geb=FCndelter
+Form zum in Ruhe Nachlesen:
+
+=20
+
+1) Probe n=E4chsten Di
+
+F=FCr den Aufbau des Equipments f=FCr Ecstatic Waters brauchen wir =
+einige
+helfende H=E4nde. Gestern in der Probe hatten sich ja eigentlich genug =
+Leute
+gemeldet, das passt soweit (bitte kommt auch alle J ). Aufbau ist dann =
+ab
+ca. 17 Uhr, vllt. ein wenig fr=FCher. Das Euroforum ist f=FCr uns =
+reserviert, so
+dass wir dann auch schon reink=F6nnen.
+
+Ansonsten ist vielleicht noch wichtig, dass es gut w=E4re, wenn alle =
+p=FCnktlich
+da w=E4ren, da wir einerseits sicher wieder sehr eng sitzen werden und =
+zum
+anderen auch die gesamte Probenzeit brauchen werden =96 danke!
+
+=20
+
+Ich werde n=E4chsten Dienstag auch nochmal die Eintrittskarten f=FCrs =
+Konzert
+dabei haben. Das ist dann die letzte M=F6glichkeit zum Kartenkauf =
+(au=DFer an
+der Abendkasse). Eine Bitte noch an diejenigen, die noch nicht bezahlt
+haben: bringt bitte n=E4chsten Dienstag unbedingt das Geld mit (oder
+alternativ die Karten wieder zur=FCck, wobei mir die erste Variante =
+deutlich
+lieber w=E4re), da ich am Mi morgen die gesamte Abrechnung des VVK zur =
+Frau
+Schilling bringen muss und eigentlich keine Lust habe, das Geld aus =
+eigener
+Tasche vorstrecken zu m=FCssen. In diesem Zusammenhang auch nochmal die
+Aufforderung an diejenigen, die noch nicht f=FCr Weikersheim bezahlt =
+haben.
+Das Geld muss ich auch n=E4chsten Mi zur AStA bringen, also bitte zahlt
+sp=E4testens n=E4chsten Di bei der Cori.
+
+=20
+
+2) Generalprobe Fr
+
+Die Generalprobe am Fr findet von 19-22 Uhr im Konzertsaal in der
+Musikhochschule statt =96 bitte seid auch da wieder p=FCnktlich.=20
+
+Da es direkt an der MH keine Parkm=F6glichkeiten gibt, werden wir wohl =
+in den
+Parkh=E4usern der Umgebung  parken m=FCssen. Scheinbar gibt es auch in =
+einer
+Parallelstra=DFe sowie beim Gericht Parkm=F6glichkeiten, die kostenlos =
+sind. Da
+wei=DF ich aber selbst auch nichts genaueres.=20
+
+=20
+
+3) Anspielprobe Sa
+
+Anspielprobe ist am Samstag von 17.15-max. 18.30 in der MH.=20
+
+=20
+
+4) Konzert Sa
+
+Konzertbeginn ist 20 Uhr, f=FCr diejenigen, die das noch nicht wussten =
+;)
+
+Konzertkleidung ist: Frauen komplett schwarz (Schultern und Knie =
+bedeckt),
+Herren schwarzer Anzug, wei=DFes Hemd, schwarze Fliege
+
+Dauern wird das Konzert vermutlich bis ca. 22.30. Danach m=FCssen wir =
+noch
+alles abbauen =96 bitte helft da alle mit, dann sind wir umso schneller =
+fertig
+=96 bevor dann die After-Show-Party im Domenico startet.
+
+=20
+
+Bez=FCglich Sektbar steht momentan noch kein genauer Termin fest, da wir =
+da
+erst noch R=FCcksprache mit der MH halten m=FCssen. Geplant ist =
+allerdings, dass
+die Brezel-Schmier-Aktion am Sa noch vor der Anspielprobe stattfindet, =
+dann
+kommen wir nicht so in Stress. M=F6glicherweise geht das aber auch =
+nicht, das
+werden wir sehen. Sobald ich da genauere Infos habe, gebe ich euch =
+nochmal
+Bescheid.
+
+=20
+
+Ansonsten w=FCnsch ich euch noch viel Spa=DF beim =DCben und macht noch =
+flei=DFig
+Werbung f=FCrs Konzert =96 momentan haben wir noch ca. 150 Karten =
+=FCbrig.
+
+=20
+
+Viele Gr=FC=DFe,
+
+Sandra=20
+
+=20
+
+
+------=_NextPart_000_0037_01CDF973.E1A6E960
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Wingdings;
+	panose-1:5 0 0 0 0 0 0 0 0 0;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hallo =
+zusammen,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>hier nochmal die Infos von gestern abend (und ein paar =
+mehr) in geb=FCndelter Form zum in Ruhe Nachlesen:<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>1) Probe =
+n=E4chsten Di<o:p></o:p></p><p class=3DMsoNormal>F=FCr den Aufbau des =
+Equipments f=FCr Ecstatic Waters brauchen wir einige helfende H=E4nde. =
+Gestern in der Probe hatten sich ja eigentlich genug Leute gemeldet, das =
+passt soweit (bitte kommt auch alle <span =
+style=3D'font-family:Wingdings'>J</span> ). Aufbau ist dann ab ca. 17 =
+Uhr, vllt. ein wenig fr=FCher. Das Euroforum ist f=FCr uns reserviert, =
+so dass wir dann auch schon reink=F6nnen.<o:p></o:p></p><p =
+class=3DMsoNormal>Ansonsten ist vielleicht noch wichtig, dass es gut =
+w=E4re, wenn alle p=FCnktlich da w=E4ren, da wir einerseits sicher =
+wieder sehr eng sitzen werden und zum anderen auch die gesamte =
+Probenzeit brauchen werden &#8211; danke!<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Ich werde =
+n=E4chsten Dienstag auch nochmal die Eintrittskarten f=FCrs Konzert =
+dabei haben. Das ist dann die letzte M=F6glichkeit zum Kartenkauf =
+(au=DFer an der Abendkasse). Eine Bitte noch an diejenigen, die noch =
+nicht bezahlt haben: bringt bitte n=E4chsten Dienstag unbedingt das Geld =
+mit (oder alternativ die Karten wieder zur=FCck, wobei mir die erste =
+Variante deutlich lieber w=E4re), da ich am Mi morgen die gesamte =
+Abrechnung des VVK zur Frau Schilling bringen muss und eigentlich keine =
+Lust habe, das Geld aus eigener Tasche vorstrecken zu m=FCssen. In =
+diesem Zusammenhang auch nochmal die Aufforderung an diejenigen, die =
+noch nicht f=FCr Weikersheim bezahlt haben. Das Geld muss ich auch =
+n=E4chsten Mi zur AStA bringen, also bitte zahlt sp=E4testens n=E4chsten =
+Di bei der Cori.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>2) =
+Generalprobe Fr<o:p></o:p></p><p class=3DMsoNormal>Die Generalprobe am =
+Fr findet von 19-22 Uhr im Konzertsaal in der Musikhochschule statt =
+&#8211; bitte seid auch da wieder p=FCnktlich. <o:p></o:p></p><p =
+class=3DMsoNormal>Da es direkt an der MH keine Parkm=F6glichkeiten gibt, =
+werden wir wohl in den Parkh=E4usern der Umgebung=A0 parken m=FCssen. =
+Scheinbar gibt es auch in einer Parallelstra=DFe sowie beim Gericht =
+Parkm=F6glichkeiten, die kostenlos sind. Da wei=DF ich aber selbst auch =
+nichts genaueres. <o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>3) =
+Anspielprobe Sa<o:p></o:p></p><p class=3DMsoNormal>Anspielprobe ist am =
+Samstag von 17.15-max. 18.30 in der MH. <o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>4) Konzert =
+Sa<o:p></o:p></p><p class=3DMsoNormal>Konzertbeginn ist 20 Uhr, f=FCr =
+diejenigen, die das noch nicht wussten ;)<o:p></o:p></p><p =
+class=3DMsoNormal>Konzertkleidung ist: Frauen komplett schwarz =
+(Schultern und Knie bedeckt), Herren schwarzer Anzug, wei=DFes Hemd, =
+schwarze Fliege<o:p></o:p></p><p class=3DMsoNormal>Dauern wird das =
+Konzert vermutlich bis ca. 22.30. Danach m=FCssen wir noch alles abbauen =
+&#8211; bitte helft da alle mit, dann sind wir umso schneller fertig =
+&#8211; bevor dann die After-Show-Party im Domenico =
+startet.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Bez=FCglich Sektbar steht momentan noch kein genauer =
+Termin fest, da wir da erst noch R=FCcksprache mit der MH halten =
+m=FCssen. Geplant ist allerdings, dass die Brezel-Schmier-Aktion am Sa =
+noch vor der Anspielprobe stattfindet, dann kommen wir nicht so in =
+Stress. M=F6glicherweise geht das aber auch nicht, das werden wir sehen. =
+Sobald ich da genauere Infos habe, gebe ich euch nochmal =
+Bescheid.<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>Ansonsten w=FCnsch ich euch noch viel Spa=DF beim =
+=DCben und macht noch flei=DFig Werbung f=FCrs Konzert &#8211; momentan =
+haben wir noch ca. 150 Karten =FCbrig.<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Viele =
+Gr=FC=DFe,<o:p></o:p></p><p class=3DMsoNormal>Sandra <o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0037_01CDF973.E1A6E960--
+

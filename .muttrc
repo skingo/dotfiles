@@ -1,0 +1,161 @@
+# Process the password files first
+#-------------------------------------
+set my_tmpsecret  = `gpg --recipient Ingo -o ~/.secret/.tmp -d ~/.secret/.passwd.gpg`
+set my_pass_gmail = `awk '/GMail:/ {print $2}' ~/.secret/.tmp`
+set my_pass_kt    = `awk '/Kigerteks:/ {print $2}' ~/.secret/.tmp`
+set my_pass_uni   = `awk '/Uni:/ {print $2}' ~/.secret/.tmp`
+set my_pass_uni2  = `awk '/Uni2:/ {print $2}' ~/.secret/.tmp`
+set my_del        = `rm -f ~/.secret/.tmp`
+
+set my_muttdir    = "/home/skinge/.mutt"
+
+# gmail imap
+#-------------------------------------
+#set imap_user="ingo.skupin@gmail.com"
+#set imap_pass=$my_pass_gmail
+#set folder="imaps://ingo.skupin@imap.gmail.com:993/"
+#set spoolfile="+INBOX"
+#set postponed="+[Gmail]/Drafts"
+#set record=+[Gmail]/"Sent Mail"
+# hooks
+account-hook . 'unset imap_user imap_pass' # unset first!
+account-hook ingo.skupin@imap.gmail.com 'set imap_user="ingo.skupin@gmail.com" imap_pass=$my_pass_gmail'
+account-hook kigerteks@imap.gmail.com 'set imap_user="kigerteks@gmail.com" imap_pass=$my_pass_kt'
+account-hook zxmxu55.mail.uni-tuebingen.de 'set imap_user="ingo.skupin@student.uni-tuebingen.de" imap_pass=$my_pass_uni'
+account-hook mailserv.uni-tuebingen.de 'set imap_user="ingo.skupin@uni-tuebingen.de" imap_pass=$my_pass_uni2'
+#account-hook '^gmail$' 'set imap_user="ingo.skupin@gmail.com" imap_pass=$my_pass_gmail'
+
+folder-hook ingo.skupin@imap.gmail.com 'source $my_muttdir/accounts/gmail'
+folder-hook zxmxu55.mail.uni-tuebingen.de 'source $my_muttdir/accounts/uni'
+folder-hook kigerteks@imap.gmail.com 'source $my_muttdir/accounts/kigerteks'
+folder-hook iifsk01@mailserv.uni-tuebingen.de 'source $my_muttdir/accounts/uni2'
+#set folder      = gmail
+#folder-hook '^gmail$' 'source $my_muttdir/accounts/gmail2'
+
+source $my_muttdir/aliases
+
+# gmail smtp
+#-------------------------------------
+#set smtp_pass    = $my_pass_gmail
+#set smtp_url     = "smtp://ingo.skupin@smtp.gmail.com:587"  # using port 587 for TLS
+#set from        = "ingo.skupin@gmail.com"
+#set realname    = "Ingo Skupin"
+set pgp_autosign = yes
+#set pgp_autoencrypt
+
+
+# directories
+#-------------------------------------
+set header_cache     = $my_muttdir/cache/headers
+set message_cachedir = $my_muttdir/cache/bodies
+set certificate_file = $my_muttdir/certificates
+
+# misc config, see also https://bitbucket.org/Carpetsmoker/config/src/8423e304b426/modules/mutt/?at=default
+set timeout=10
+set abort_unmodified=ask-yes
+set recall=ask-no
+set mail_check=60
+unset imap_passive
+set mbox_type=Maildir
+set mailcap_path="/home/skinge/.mutt/mailcap"
+
+# Don't press key after we're done with external program
+set wait_key = no
+
+# set folders that can receive mail
+#mailboxes imaps://soziflip@imap.googlemail.com/ #siehe auch http://blog.mafr.de/2012/09/09/mutt-too-many-errors/
+mailboxes "imaps://ingo.skupin@imap.gmail.com:993/[Google Mail]/Drafts"
+mailboxes "imaps://ingo.skupin@imap.gmail.com:993/INBOX"
+mailboxes "imaps://ingo.skupin@imap.gmail.com:993/[Google Mail]/Sent Mail"
+mailboxes "imaps://zxmxu55@zxmxu55.mail.uni-tuebingen.de:993/INBOX"
+mailboxes "imaps://zxmxu55@zxmxu55.mail.uni-tuebingen.de:993/Mail/drafts"
+mailboxes "imaps://zxmxu55@zxmxu55.mail.uni-tuebingen.de:993/Mail/sent"
+mailboxes "imaps://kigerteks@imap.gmail.com:993/[Gmail]/Gesendet"
+mailboxes "imaps://kigerteks@imap.gmail.com:993/[Gmail]/Entwürfe"
+mailboxes "imaps://kigerteks@imap.gmail.com:993/INBOX"
+mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/Mail/sent"
+mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/Mail/drafts"
+mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/INBOX"
+#set folder      = "imaps://ingo.skupin@imap.gmail.com:993/"
+#mailboxes "+INBOX" "+[Google Mail]/Drafts" "+[Google Mail]/Sent Mail"
+#set folder      = "imaps://zxmxu55@zxmxu55.mail.uni-tuebingen.de:993/"
+#mailboxes "+INBOX" "+Mail/drafts" "+Mail/sent"
+#set folder      = "imaps://kigerteks@imap.gmail.com:993/"
+#mailboxes "+INBOX" "+[Gmail]/Entwürfe" "+[Gmail]/Gesendet"
+#set folder      =  "imaps://iifsk01@mailserv.uni-tuebingen.de:993/"
+#mailboxes "+INBOX" "+Mail/drafts" "+Mail/sent"
+#mailboxes imaps://gmail
+mailboxes /var/mail/skinge
+#mailboxes /var/mail/root
+
+# start inside gmail
+#source $my_muttdir/accounts/gmail
+#source $my_muttdir/accounts/uni
+
+set index_format = "%4C %Z %{%d.%b %Y, %H:%M} %-15.15L (%?l?%4l&%4c?) %s"
+set date_format  = "!%a, %d.%b, %Y at %H:%M:%S %Z"
+
+# display html mails correctly
+auto_view text/html
+
+#set editor="vim -c 'startinsert' -c 'set tw=70' -c 'set wrap' '+/^$'"
+# start vim in insert mode in (new) first line
+set editor="vim -c 'startinsert' -c 'normal O' -c 'set tw=70' -c 'set wrap'"
+
+# change keys
+bind   index,browser G        last-entry
+bind   index,browser gg       first-entry
+bind   index         gr       group-reply
+bind   index         *        imap-fetch-mail
+bind   index         <Esc>n   toggle-new
+macro index 'c' '<change-folder>?<change-dir>^U=<enter>'
+# alternative: macro index t "c=<tab><tab><tab>"
+bind   pager         <Esc>n   mark-as-new
+bind   index,pager   N        search-opposite
+bind   pager         gg       top
+bind   pager         G        bottom
+
+# follow links in emails
+macro index,pager <esc>f "<enter-command>set my_pipe_decode=$pipe_decode pipe_decode<enter><pipe-message>urlview<enter><enter-command>set pipe_decode=$my_pipe_decode<enter>" "Follow links with urlview"
+macro attach,compose <esc>f "<pipe-entry> urlview<Enter>" "Follow links with urlview"
+#macro attach,compose \cb "<pipe-entry> urlscan<Enter>" "call urlscan to extract URLs out of a message"
+
+#macro index <esc>1 "y6<enter><enter>"
+#macro index <esc>1 "<change-folder>imaps://ingo.skupin@imap.gmail.com:933/<enter>"
+macro index <esc>1 '<sync-mailbox><enter-command>source $my_muttdir/accounts/gmail<enter><change-folder>!<enter>' "switch to gmail"
+macro index <esc>2 '<sync-mailbox><enter-command>source $my_muttdir/accounts/uni<enter><change-folder>!<enter>' "switch to uni"
+macro index <esc>3 '<sync-mailbox><enter-command>source $my_muttdir/accounts/kigerteks<enter><change-folder>!<enter>' "switch to kigerteks"
+macro index <esc>4 '<sync-mailbox><enter-command>source $my_muttdir/accounts/uni2<enter><change-folder>!<enter>' "switch to uni2"
+macro browser <esc>1 '6<enter><enter>' "switch to gmail"
+macro browser <esc>2 '10<enter><enter>' "switch to uni"
+macro browser <esc>3 '9<enter><enter>' "switch to kigerteks"
+macro browser <esc>4 '1<enter><enter>' "switch to uni2"
+
+bind browser <esc>c check-new
+
+# Colors
+#-------------------------------------
+# color are:
+# white, black, green, magenta, blue, cyan, yellow,  red, default, color0-color255
+# default is color235
+
+source ~/.mutt/colors256-dark
+
+#color   body            brightyellow    black    '(((ht|f)tps?)|mailto):(//)?[^\ "\t]*|www\.[-a-z0-9.]+)[^\ .,;\t&gt;"&gt;]'
+#mono    body            bold                     '(((ht|f)tps?)|mailto):(//)?[^\ "\t]*|www\.[-a-z0-9.]+)[^\ .,;\t&gt;"&gt;]'
+color   body            brightmagenta   black   "[-a-z_0-9.]+@[-a-z_0-9.]+"
+mono    body            bold                    "[-a-z_0-9.]+@[-a-z_0-9.]+"
+color   body            yellow          black   "^gpg: Good signature"
+mono    body            bold                    "^gpg: Good signature"
+color   body            brightwhite     red     "^gpg: Bad signature from.*"
+mono    body            bold                    "^gpg: Bad signature from.*"
+
+#color   header          color229        default "^Subject: "
+
+
+color   index           white           default  .*
+color   index           white           red     "(Rainer|Sabine) Pfister|Pfister,( Stefan|Martina)|Lukas Fischer|[sS]ebert"
+color   index           brightgreen     blue    "Musikverein"
+color   index           magenta         white   "Andreas Krebs|Paperman|Schoener|lange@informatik"
+color   index           white           magenta "Merle Deutschmann"
+color   status          white           red

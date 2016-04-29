@@ -1,0 +1,370 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.141.6.198 with SMTP id i189csp231371qhd;
+        Tue, 9 Sep 2014 01:54:10 -0700 (PDT)
+X-Received: by 10.112.33.14 with SMTP id n14mr1309479lbi.99.1410252849606;
+        Tue, 09 Sep 2014 01:54:09 -0700 (PDT)
+Return-Path: <fmsebert@gmail.com>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id u14si16968636lal.70.2014.09.09.01.54.08
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 09 Sep 2014 01:54:09 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning fmsebert@gmail.com does not designate 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning fmsebert@gmail.com does not designate 212.227.15.3 as permitted sender) smtp.mail=fmsebert@gmail.com;
+       dkim=pass header.i=@gmail.com
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb003)
+ with ESMTPS (Nemesis) id 0MMTpW-1XRrHd1dtu-008GPd for
+ <ingo.skupin@gmail.com>; Tue, 09 Sep 2014 10:54:08 +0200
+Received: from mail-oa0-f47.google.com ([209.85.219.47]) by mx-ha.web.de
+ (mxweb003) with ESMTPS (Nemesis) id 0MN23k-1XTVB91dV2-006bid for
+ <ingo.skupin@web.de>; Tue, 09 Sep 2014 10:54:07 +0200
+Received: by mail-oa0-f47.google.com with SMTP id i7so11614047oag.6
+        for <multiple recipients>; Tue, 09 Sep 2014 01:54:05 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date:message-id:subject
+         :from:to:cc:content-type;
+        bh=HrwSfZcZ3U+zxzMP0od8jPpjV3imM2BqWu5d2OXxj24=;
+        b=JzKP6vcXljP/lC/y0dTD/ehbRSqUV7+8kyc1rvBwpOvVQtXWn5qD7yXy9d0yvbSiGL
+         IdME1vNy7mB4lxg8ggh/wjNamDG1Oog3wLpSdyTFihFNKEzKSFUr7d53NolRmYPVnZfw
+         3T/caaqWTxwLsA/xsGMQtIyWnoSW/T/1FLzlgQjE3bWPZN35qvyWGS1Vzx0L8NQZJAW7
+         +FChv2IS4zOP4F6ciK/GfeQbT2JqJHFyA8UxYpZ9AMzLyUPWCK1WUjMT/ZdQ4eRCRHFN
+         4jI8QvSMbXTSNHhy4FbQRfMYA5o9ke3aY7MJ95LHqPjhTUhbSpFp6KkZY584vT2yohp7
+         7PfA==
+MIME-Version: 1.0
+X-Received: by 10.60.161.71 with SMTP id xq7mr19901993oeb.1.1410252845844;
+ Tue, 09 Sep 2014 01:54:05 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.76.172.167 with HTTP; Tue, 9 Sep 2014 01:54:05 -0700 (PDT)
+In-Reply-To: <4F91222C659D5B4E8C89CE4D710BB08EFFDD050F2B@DKFZEX01.ad.dkfz-heidelberg.de>
+References: <359C8784E284224CAB196A0069F3EE79FFB29B0249@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A0F1C@DKFZEX01.ad.dkfz-heidelberg.de>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFD98A1090@DKFZEX01.ad.dkfz-heidelberg.de>
+	<0C123F09-61C6-45E2-8006-2E9523438D7D@dkfz.de>
+	<BB9A6616-01A2-4185-84F6-96CCA388D760@dkfz.de>
+	<3393DBA2-30CD-4CCC-931A-7986EC711584@dkfz.de>
+	<CAN1A5uCHt97NznZa3pnke9LNSFbywUZvuK9sgdNCHXbD5Z6a6Q@mail.gmail.com>
+	<4F91222C659D5B4E8C89CE4D710BB08EFFDD050F2B@DKFZEX01.ad.dkfz-heidelberg.de>
+Date: Tue, 9 Sep 2014 10:54:05 +0200
+X-Google-Sender-Auth: 6-b839I5c9pvroof-SllnM8qpFk
+Message-ID: <CAN1A5uCPNC6A9Vvrgjgw0VvX7rnAwTvvsyL=yMgj=hogJ0=9mA@mail.gmail.com>
+Subject: Re: Miami im November
+From: Florian Sebert <florian@floriansebert.de>
+To: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+Cc: Steffen Sautter <steffen.sautter@web.de>, Yannick Frey <yannick.frey1994@web.de>, 
+	Tizian Decker <tizian_decker@web.de>, Lena Hahn <LenaHahn20@web.de>, 
+	"raphael@rothschink.de" <raphael@rothschink.de>, Ingo Skupin <ingo.skupin@web.de>, 
+	Lukas Fischer <l.fischer@3-1415.de>, Julia Wollny <wollny.julia@me.com>, 
+	Rainer Pfister <rainer.pfister@me.com>, "Dr. Stefan Wiehr" <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>, 
+	"tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>, "harryd.bath@t-online.de" <harryd.bath@t-online.de>, 
+	"mpfister@geuder.de" <mpfister@geuder.de>, 
+	"martina@pfister-heidelberg.de" <martina@pfister-heidelberg.de>, "jonas.gawehn@gmx.de" <jonas.gawehn@gmx.de>, 
+	Hartmut Nagel <hnagel@bluewin.ch>, 
+	"sabine@pfister-tuebingen.de" <sabine@pfister-tuebingen.de>
+Content-Type: multipart/alternative; boundary=089e01227aaaeb8e9f05029e13e8
+X-UI-Out-Filterresults: notjunk:1;
+
+--089e01227aaaeb8e9f05029e13e8
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Stefan,
+
+ok, dann =C3=BCberweise ich mal =E2=82=AC3.500.
+
+Viele Gr=C3=BC=C3=9Fe
+Florian
+
+
+Viele Gr=C3=BC=C3=9Fe
+Florian
+
+2014-09-09 9:46 GMT+02:00 Pfister, Stefan <S.Pfister@dkfz-heidelberg.de>:
+
+> Hi Florian,
+>
+> das w=C3=BCrde ich, ehrlich gesagt, gerne trennen, weil es sonst in der
+> Jahresabrechnung total un=C3=BCbersichtlich wird...
+>
+> Einverstanden?
+>
+> Sobald alle die ausstehenden Nachzahlungen =C3=BCberwiesen haben, kann ic=
+h die
+> R=C3=BCckerstattung vornehmen.
+>
+> Viele Gr=C3=BC=C3=9Fe,
+>
+> Stefan
+>
+> ________________________________________
+> Von: fmsebert@gmail.com [fmsebert@gmail.com] im Auftrag von Florian
+> Sebert [florian@floriansebert.de]
+> Gesendet: Dienstag, 9. September 2014 09:11
+> An: Pfister, Stefan
+> Cc: Steffen Sautter; Yannick Frey; Tizian Decker; Lena Hahn;
+> raphael@rothschink.de; Ingo Skupin; Lukas Fischer; Julia Wollny; Rainer
+> Pfister; Dr. Stefan Wiehr; Daniel Metzger; tkonwitschny@yahoo.de;
+> harryd.bath@t-online.de; mpfister@geuder.de; martina@pfister-heidelberg.d=
+e;
+> jonas.gawehn@gmx.de; Hartmut Nagel; sabine@pfister-tuebingen.de
+> Betreff: Re: Miami im November
+>
+> Hi,
+>
+> man k=C3=B6nnte die noch ausstehende R=C3=BCckzahlung des =C3=BCberzahlte=
+n Betrages f=C3=BCr
+> die fr=C3=BChere USA-Reise als Anzahlung ansehen...
+>
+> Notfalls kann ich aber auch das Ticket vorschie=C3=9Fen.
+>
+> Viele Gr=C3=BC=C3=9Fe
+> Florian
+>
+>
+> Viele Gr=C3=BC=C3=9Fe
+> Florian
+>
+> 2014-09-09 7:57 GMT+02:00 Pfister, Stefan <S.Pfister@dkfz-heidelberg.de
+> <mailto:S.Pfister@dkfz-heidelberg.de>>:
+> Hallo zusammen, wir br=C3=A4uchten noch zwei Freiwillige f=C3=BCr die
+> Flugbestellungen!
+>
+> Danke,
+>
+> Stefan
+>
+> Prof. Dr. Stefan M. Pfister
+> Division of Pediatric Neurooncology
+> German Cancer Research Center (DKFZ)
+> Department of Pediatric Hematology and Oncology Heidelberg University
+> Hospital
+>
+> On 08 Sep 2014, at 06:14, "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de
+> <mailto:S.Pfister@dkfz-heidelberg.de><mailto:S.Pfister@dkfz-heidelberg.de
+> <mailto:S.Pfister@dkfz-heidelberg.de>>> wrote:
+>
+> Liebe Leute,
+>
+> Falls wir noch ein erstes Sopran finden (evtl. Thomas Giles aus
+> Tallahassee), wir das Unterfangen Miami wohl klappen. Wir w=C3=BCrden am
+> Donnerstag, den 13.11. hinfliegen und vorauss. am Montag, den 17.11. zur=
+=C3=BCck
+> (Ankunft 18.11.). Alternativ k=C3=B6nnte es auch sein, dass wir erst f=C3=
+=BCr
+> Dienstag einen erschwinglichen R=C3=BCckflug bekommen (Ankunft Mittwoch).
+>
+> Die Auftritte sind vorauss. am 15.11. im Perez Art Museum, sowie am 16.11=
+.
+> im Loews Hotel.
+>
+> =C3=9Cbernachten werden wir vorauss. im Redbury South Beach, Miami Beach.
+>
+> Nachdem die F=C3=B6rderorganisation Unkosten nur im Nachhinein erstatten =
+kann,
+> w=C3=A4re meine Bitte, ob sich vielleicht 4 Leute finden k=C3=B6nnen, die=
+ mit jeweils
+> 4 Flugtickets in Vorleistung gehen (ca. 3500 =E2=82=AC) und sie dann nach=
+ der Reise
+> zur=C3=BCckerstattet bekommen? Ich k=C3=B6nnte einer davon sein.
+>
+> Weitere Details hoffentlich schon beim n=C3=A4chsten Probewochenende.
+>
+> Viele Gr=C3=BCsse,
+>
+> Stefan
+>
+>
+> Prof. Dr. Stefan M. Pfister
+> Division of Pediatric Neurooncology
+> German Cancer Research Center (DKFZ)
+> Department of Pediatric Hematology and Oncology Heidelberg University
+> Hospital
+>
+> On 13 Aug 2014, at 13:36, "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de
+> <mailto:S.Pfister@dkfz-heidelberg.de><mailto:S.Pfister@dkfz-heidelberg.de
+> <mailto:S.Pfister@dkfz-heidelberg.de>>> wrote:
+>
+> Hallo zusammen,
+>
+> Wie in der letzten Probe bereits kurz angesprochen, scheint sich die
+> Einladung nach Miami vom 13.-18./19.11.  2014 tats=C3=A4chlich zu
+> konkretisieren. Alle =C3=9Cbernachtungen und (fast?) die kompletten Flugk=
+osten
+> w=C3=BCrden =C3=BCbernommen. Wir m=C3=BCssten lediglich die meisten Mahlz=
+eiten selbst
+> bezahlen und ggf. 100-200 =E2=82=AC pro Person, falls das Budget f=C3=BCr=
+ die Fl=C3=BCge
+> nicht ganz ausreicht (derzeit stehen daf=C3=BCr 12.000$ zur Verf=C3=BCgun=
+g). 2-3
+> Auftritte in dieser Zeit.
+>
+> Wer ist dabei? Wenn m=C3=B6glich bitte R=C3=BCckmeldung bis Freitag, den =
+15.08.!
+>
+> Danke und viele Gr=C3=BCsse,
+>
+> Stefan
+>
+> Prof. Dr. Stefan M. Pfister
+> Division of Pediatric Neurooncology
+> German Cancer Research Center (DKFZ)
+> Department of Pediatric Hematology and Oncology Heidelberg University
+> Hospital
+>
+>
+>
+
+--089e01227aaaeb8e9f05029e13e8
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hallo Stefan,<div><br></div><div>ok, dann =C3=BCberweise i=
+ch mal =E2=82=AC3.500.</div><div><br></div><div>Viele Gr=C3=BC=C3=9Fe</div>=
+<div>Florian</div></div><div class=3D"gmail_extra"><br clear=3D"all"><div><=
+div dir=3D"ltr"><div><br></div><div>Viele Gr=C3=BC=C3=9Fe</div><div>Florian=
+</div></div></div>
+<br><div class=3D"gmail_quote">2014-09-09 9:46 GMT+02:00 Pfister, Stefan <s=
+pan dir=3D"ltr">&lt;<a href=3D"mailto:S.Pfister@dkfz-heidelberg.de" target=
+=3D"_blank">S.Pfister@dkfz-heidelberg.de</a>&gt;</span>:<br><blockquote cla=
+ss=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;pa=
+dding-left:1ex">Hi Florian,<br>
+<br>
+das w=C3=BCrde ich, ehrlich gesagt, gerne trennen, weil es sonst in der Jah=
+resabrechnung total un=C3=BCbersichtlich wird...<br>
+<br>
+Einverstanden?<br>
+<br>
+Sobald alle die ausstehenden Nachzahlungen =C3=BCberwiesen haben, kann ich =
+die R=C3=BCckerstattung vornehmen.<br>
+<br>
+Viele Gr=C3=BC=C3=9Fe,<br>
+<br>
+Stefan<br>
+<br>
+________________________________________<br>
+Von: <a href=3D"mailto:fmsebert@gmail.com">fmsebert@gmail.com</a> [<a href=
+=3D"mailto:fmsebert@gmail.com">fmsebert@gmail.com</a>] im Auftrag von Flori=
+an Sebert [<a href=3D"mailto:florian@floriansebert.de">florian@florianseber=
+t.de</a>]<br>
+Gesendet: Dienstag, 9. September 2014 09:11<br>
+An: Pfister, Stefan<br>
+Cc: Steffen Sautter; Yannick Frey; Tizian Decker; Lena Hahn; <a href=3D"mai=
+lto:raphael@rothschink.de">raphael@rothschink.de</a>; Ingo Skupin; Lukas Fi=
+scher; Julia Wollny; Rainer Pfister; Dr. Stefan Wiehr; Daniel Metzger; <a h=
+ref=3D"mailto:tkonwitschny@yahoo.de">tkonwitschny@yahoo.de</a>; <a href=3D"=
+mailto:harryd.bath@t-online.de">harryd.bath@t-online.de</a>; <a href=3D"mai=
+lto:mpfister@geuder.de">mpfister@geuder.de</a>; <a href=3D"mailto:martina@p=
+fister-heidelberg.de">martina@pfister-heidelberg.de</a>; <a href=3D"mailto:=
+jonas.gawehn@gmx.de">jonas.gawehn@gmx.de</a>; Hartmut Nagel; <a href=3D"mai=
+lto:sabine@pfister-tuebingen.de">sabine@pfister-tuebingen.de</a><br>
+Betreff: Re: Miami im November<br>
+<span class=3D""><br>
+Hi,<br>
+<br>
+man k=C3=B6nnte die noch ausstehende R=C3=BCckzahlung des =C3=BCberzahlten =
+Betrages f=C3=BCr die fr=C3=BChere USA-Reise als Anzahlung ansehen...<br>
+<br>
+Notfalls kann ich aber auch das Ticket vorschie=C3=9Fen.<br>
+<br>
+Viele Gr=C3=BC=C3=9Fe<br>
+Florian<br>
+<br>
+<br>
+Viele Gr=C3=BC=C3=9Fe<br>
+Florian<br>
+<br>
+</span>2014-09-09 7:57 GMT+02:00 Pfister, Stefan &lt;<a href=3D"mailto:S.Pf=
+ister@dkfz-heidelberg.de">S.Pfister@dkfz-heidelberg.de</a>&lt;mailto:<a hre=
+f=3D"mailto:S.Pfister@dkfz-heidelberg.de">S.Pfister@dkfz-heidelberg.de</a>&=
+gt;&gt;:<br>
+<span class=3D"im HOEnZb">Hallo zusammen, wir br=C3=A4uchten noch zwei Frei=
+willige f=C3=BCr die Flugbestellungen!<br>
+<br>
+Danke,<br>
+<br>
+Stefan<br>
+<br>
+Prof. Dr. Stefan M. Pfister<br>
+Division of Pediatric Neurooncology<br>
+German Cancer Research Center (DKFZ)<br>
+Department of Pediatric Hematology and Oncology Heidelberg University Hospi=
+tal<br>
+<br>
+</span><span class=3D"im HOEnZb">On 08 Sep 2014, at 06:14, &quot;Pfister, S=
+tefan&quot; &lt;<a href=3D"mailto:S.Pfister@dkfz-heidelberg.de">S.Pfister@d=
+kfz-heidelberg.de</a>&lt;mailto:<a href=3D"mailto:S.Pfister@dkfz-heidelberg=
+.de">S.Pfister@dkfz-heidelberg.de</a>&gt;&lt;mailto:<a href=3D"mailto:S.Pfi=
+ster@dkfz-heidelberg.de">S.Pfister@dkfz-heidelberg.de</a>&lt;mailto:<a href=
+=3D"mailto:S.Pfister@dkfz-heidelberg.de">S.Pfister@dkfz-heidelberg.de</a>&g=
+t;&gt;&gt; wrote:<br>
+<br>
+Liebe Leute,<br>
+<br>
+Falls wir noch ein erstes Sopran finden (evtl. Thomas Giles aus Tallahassee=
+), wir das Unterfangen Miami wohl klappen. Wir w=C3=BCrden am Donnerstag, d=
+en 13.11. hinfliegen und vorauss. am Montag, den 17.11. zur=C3=BCck (Ankunf=
+t 18.11.). Alternativ k=C3=B6nnte es auch sein, dass wir erst f=C3=BCr Dien=
+stag einen erschwinglichen R=C3=BCckflug bekommen (Ankunft Mittwoch).<br>
+<br>
+Die Auftritte sind vorauss. am 15.11. im Perez Art Museum, sowie am 16.11. =
+im Loews Hotel.<br>
+<br>
+=C3=9Cbernachten werden wir vorauss. im Redbury South Beach, Miami Beach.<b=
+r>
+<br>
+Nachdem die F=C3=B6rderorganisation Unkosten nur im Nachhinein erstatten ka=
+nn, w=C3=A4re meine Bitte, ob sich vielleicht 4 Leute finden k=C3=B6nnen, d=
+ie mit jeweils 4 Flugtickets in Vorleistung gehen (ca. 3500 =E2=82=AC) und =
+sie dann nach der Reise zur=C3=BCckerstattet bekommen? Ich k=C3=B6nnte eine=
+r davon sein.<br>
+<br>
+Weitere Details hoffentlich schon beim n=C3=A4chsten Probewochenende.<br>
+<br>
+Viele Gr=C3=BCsse,<br>
+<br>
+Stefan<br>
+<br>
+<br>
+Prof. Dr. Stefan M. Pfister<br>
+Division of Pediatric Neurooncology<br>
+German Cancer Research Center (DKFZ)<br>
+Department of Pediatric Hematology and Oncology Heidelberg University Hospi=
+tal<br>
+<br>
+</span><div class=3D"HOEnZb"><div class=3D"h5">On 13 Aug 2014, at 13:36, &q=
+uot;Pfister, Stefan&quot; &lt;<a href=3D"mailto:S.Pfister@dkfz-heidelberg.d=
+e">S.Pfister@dkfz-heidelberg.de</a>&lt;mailto:<a href=3D"mailto:S.Pfister@d=
+kfz-heidelberg.de">S.Pfister@dkfz-heidelberg.de</a>&gt;&lt;mailto:<a href=
+=3D"mailto:S.Pfister@dkfz-heidelberg.de">S.Pfister@dkfz-heidelberg.de</a>&l=
+t;mailto:<a href=3D"mailto:S.Pfister@dkfz-heidelberg.de">S.Pfister@dkfz-hei=
+delberg.de</a>&gt;&gt;&gt; wrote:<br>
+<br>
+Hallo zusammen,<br>
+<br>
+Wie in der letzten Probe bereits kurz angesprochen, scheint sich die Einlad=
+ung nach Miami vom 13.-18./19.11.=C2=A0 2014 tats=C3=A4chlich zu konkretisi=
+eren. Alle =C3=9Cbernachtungen und (fast?) die kompletten Flugkosten w=C3=
+=BCrden =C3=BCbernommen. Wir m=C3=BCssten lediglich die meisten Mahlzeiten =
+selbst bezahlen und ggf. 100-200 =E2=82=AC pro Person, falls das Budget f=
+=C3=BCr die Fl=C3=BCge nicht ganz ausreicht (derzeit stehen daf=C3=BCr 12.0=
+00$ zur Verf=C3=BCgung). 2-3 Auftritte in dieser Zeit.<br>
+<br>
+Wer ist dabei? Wenn m=C3=B6glich bitte R=C3=BCckmeldung bis Freitag, den 15=
+.08.!<br>
+<br>
+Danke und viele Gr=C3=BCsse,<br>
+<br>
+Stefan<br>
+<br>
+Prof. Dr. Stefan M. Pfister<br>
+Division of Pediatric Neurooncology<br>
+German Cancer Research Center (DKFZ)<br>
+Department of Pediatric Hematology and Oncology Heidelberg University Hospi=
+tal<br>
+<br>
+<br>
+</div></div></blockquote></div><br></div>
+
+--089e01227aaaeb8e9f05029e13e8--

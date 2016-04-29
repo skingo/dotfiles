@@ -1,0 +1,121 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.140.217.202 with SMTP id n193csp91452qhb;
+        Sun, 5 Oct 2014 14:26:18 -0700 (PDT)
+X-Received: by 10.112.62.200 with SMTP id a8mr19532052lbs.34.1412544377778;
+        Sun, 05 Oct 2014 14:26:17 -0700 (PDT)
+Return-Path: <S.Pfister@dkfz-heidelberg.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id t8si21185349laa.112.2014.10.05.14.26.16
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 05 Oct 2014 14:26:17 -0700 (PDT)
+Received-SPF: softfail (google.com: domain of transitioning S.Pfister@dkfz-heidelberg.de does not designate 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=softfail (google.com: domain of transitioning S.Pfister@dkfz-heidelberg.de does not designate 212.227.17.11 as permitted sender) smtp.mail=S.Pfister@dkfz-heidelberg.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb101)
+ with ESMTPS (Nemesis) id 0MFdcn-1XOSZp1tUT-00EfxB for
+ <ingo.skupin@gmail.com>; Sun, 05 Oct 2014 23:26:16 +0200
+Received: from mailhost4.inet.dkfz-heidelberg.de ([193.174.53.139]) by
+ mx-ha.web.de (mxweb101) with ESMTPS (Nemesis) id 0Luers-1YIml61tGi-00zkAW for
+ <ingo.skupin@web.de>; Sun, 05 Oct 2014 23:26:16 +0200
+Received: from dkfzmh02.ad.dkfz-heidelberg.de (dkfzmh02.inet.dkfz-heidelberg.de [193.174.53.81])
+	by mailhost2.inet.dkfz-heidelberg.de (8.13.8/8.13.8) with ESMTP id s95LPu1P006345
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=FAIL);
+	Sun, 5 Oct 2014 23:25:56 +0200
+Received: from DKFZEX01.ad.dkfz-heidelberg.de ([193.174.53.79]) by
+ dkfzmh02.ad.dkfz-heidelberg.de ([193.174.56.4]) with mapi; Sun, 5 Oct 2014
+ 23:25:56 +0200
+From: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+To: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+CC: Steffen Sautter <steffen.sautter@web.de>,
+        Yannick Frey
+	<yannick.frey1994@web.de>,
+        Tizian Decker <tizian_decker@web.de>, Lena Hahn
+	<LenaHahn20@web.de>,
+        Florian Sebert <florian@floriansebert.de>,
+        "raphael@rothschink.de" <raphael@rothschink.de>,
+        Ingo Skupin
+	<ingo.skupin@web.de>, Lukas Fischer <l.fischer@3-1415.de>,
+        Julia Wollny
+	<wollny.julia@me.com>,
+        Rainer Pfister <rainer.pfister@me.com>,
+        "Dr. Stefan
+ Wiehr" <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>,
+        "tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>,
+        "harryd.bath@t-online.de"
+	<harryd.bath@t-online.de>,
+        "mpfister@geuder.de" <mpfister@geuder.de>,
+        "martina@pfister-heidelberg.de" <martina@pfister-heidelberg.de>,
+        "jonas.gawehn@gmx.de" <jonas.gawehn@gmx.de>,
+        "skjoni14@gmail.com"
+	<skjoni14@gmail.com>,
+        "sabine@pfister-tuebingen.de"
+	<sabine@pfister-tuebingen.de>
+Importance: high
+X-Priority: 1
+Date: Sun, 5 Oct 2014 23:23:55 +0200
+Subject: World Saxophone Congress 2015
+Thread-Topic: World Saxophone Congress 2015
+Thread-Index: AQHP4OKyftxBNh7jRUOZRQBlo2l+/g==
+Message-ID: <4F91222C659D5B4E8C89CE4D710BB08EFFDD051453@DKFZEX01.ad.dkfz-heidelberg.de>
+References: <359C8784E284224CAB196A0069F3EE79FFB29B0249@DKFZEX01.ad.dkfz-heidelberg.de>
+ <4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de>
+ <4F91222C659D5B4E8C89CE4D710BB08EFFD98A0F1C@DKFZEX01.ad.dkfz-heidelberg.de>
+ <4F91222C659D5B4E8C89CE4D710BB08EFFD98A1090@DKFZEX01.ad.dkfz-heidelberg.de>
+ <0C123F09-61C6-45E2-8006-2E9523438D7D@dkfz.de>,<BB9A6616-01A2-4185-84F6-96CCA388D760@dkfz.de>,<4F91222C659D5B4E8C89CE4D710BB08EFFDD05144F@DKFZEX01.ad.dkfz-heidelberg.de>
+In-Reply-To: <4F91222C659D5B4E8C89CE4D710BB08EFFDD05144F@DKFZEX01.ad.dkfz-heidelberg.de>
+Accept-Language: de-DE
+Content-Language: de-DE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: de-DE
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-UI-Out-Filterresults: notjunk:1;
+
+Sorry, hier noch eine kurze Erl=E4uterung:
+
+In der Woche 6.-12.7.2015 findet der World Saxophone Congress in Strassbour=
+g statt. Wenn wir eine spielf=E4hige Besetzung haben, melden wir uns an. Ob=
+ wir dann wirklich die ganze Woche gehen, k=F6nnen wir ja dann noch besprec=
+hen.
+
+Viele Gr=FC=DFe,
+
+Stefan
+
+________________________________________
+Von: Pfister, Stefan
+Gesendet: Sonntag, 5. Oktober 2014 23:11
+An: Pfister, Stefan
+Cc: Sabine Pfister; Steffen Sautter; Yannick Frey; Tizian Decker; Lena Hahn=
+; Florian Sebert; raphael@rothschink.de; Ingo Skupin; Lukas Fischer; Julia =
+Wollny; Rainer Pfister; Dr. Stefan Wiehr; Daniel Metzger; tkonwitschny@yaho=
+o.de; harryd.bath@t-online.de; mpfister@geuder.de; martina@pfister-heidelbe=
+rg.de; jonas.gawehn@gmx.de; skjoni14@gmail.com
+Betreff: Terminabfrage 2015
+
+Hallo zusammen,
+
+hier die Terminabfrage f=FCr n=E4chstes Jahr:
+http://doodle.com/nqkqmhqsnb8bt5fa
+
+Bitte beachtet die beiden folgenden wichtigen Punkte:
+1.) Bitte ALLE Termine eintragen, die Ihr k=F6nnt! Das bedeutet nicht, dass=
+ wir sie dann alle nehmen, sondern wir werden wieder (wie immer) die ca. 10=
+ Wochenenden ausw=E4hlen, an denen wir eine spielf=E4hige Besetzung haben.
+2.) Bitte tragt Euch bis sp=E4testens 12.10.2014 ein, aus R=FCcksichtnahme =
+auf all diejenigen, welche die Termine vorl=E4ufig blockieren.
+
+Vielen Dank f=FCr Eure Mithilfe!
+
+Stefan & Martina
+
+
+Prof. Dr. Stefan M. Pfister
+Division of Pediatric Neurooncology
+German Cancer Research Center (DKFZ)
+Department of Pediatric Hematology and Oncology Heidelberg University Hospi=
+tal
+

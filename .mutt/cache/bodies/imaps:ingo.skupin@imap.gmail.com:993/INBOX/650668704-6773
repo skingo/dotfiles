@@ -1,0 +1,155 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp144323pdb;
+        Mon, 25 Nov 2013 15:39:14 -0800 (PST)
+X-Received: by 10.14.4.200 with SMTP id 48mr5190632eej.38.1385422753176;
+        Mon, 25 Nov 2013 15:39:13 -0800 (PST)
+Return-Path: <L.Fischer@3-1415.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id f8si28143522eep.255.2013.11.25.15.39.12
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 25 Nov 2013 15:39:13 -0800 (PST)
+Received-SPF: neutral (google.com: 212.227.17.11 is neither permitted nor denied by best guess record for domain of L.Fischer@3-1415.de) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 212.227.17.11 is neither permitted nor denied by best guess record for domain of L.Fischer@3-1415.de) smtp.mail=L.Fischer@3-1415.de;
+       dkim=pass (test mode) header.i=@3-1415.de
+Received: from mo-p00-ob.rzone.de ([81.169.146.161]) by mx-ha.web.de
+ (mxweb101) with ESMTPS (Nemesis) id 0MaZBV-1W4XNJ1Efh-00KB8n for
+ <ingo.skupin@gmail.com>; Tue, 26 Nov 2013 00:39:12 +0100
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; t=1385422751; l=3661;
+	s=domk; d=3-1415.de;
+	h=Content-Transfer-Encoding:Content-Type:In-Reply-To:References:
+	Subject:To:MIME-Version:From:Date:X-RZG-CLASS-ID:X-RZG-AUTH;
+	bh=4Xkm9ljrLCygEHic2x27phzS94U=;
+	b=Ezxg2WTsQN9oDoWwinxHjTbW4Fvpfd5ywLIP6KTcWbWk4N05x2kmM08UHO7a6bya0uj
+	NRC/qFKH7k4BNuxEVsH3+j1mrsBeYWIJ54Ij0wh8HCF0ZEdEvK/4pm3WdYekPz5S4Ev4y
+	nxAFxNl2vvCFrRzOVUtDaUDbdgZgmqle0Nc=
+X-RZG-AUTH: :ICICfFOrc/oov7XdMPZS+An+TOwdMN9zM5SvLZSWyGxMPJ8ZOvwMlL9y9vzzn0Sn
+X-RZG-CLASS-ID: mo00
+Received: from [192.168.178.45]
+	(p4FF57F4D.dip0.t-ipconnect.de [79.245.127.77])
+	by smtp.strato.de (RZmta 32.16 DYNA|AUTH)
+	with (TLSv1.0:DHE-RSA-AES256-SHA encrypted) ESMTPSA id 602209pAPNd6nWO ;
+	Tue, 26 Nov 2013 00:39:06 +0100 (CET)
+Message-ID: <5293DF99.3000606@3-1415.de>
+Date: Tue, 26 Nov 2013 00:39:05 +0100
+From: Lukas Fischer <L.Fischer@3-1415.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.1.0
+MIME-Version: 1.0
+To: Martina Pfister <martina@pfister-heidelberg.de>, 
+ "Harry D. Bath" <harryd.bath@t-online.de>,
+ Sabine Pfister <pfistersabine@googlemail.com>, 
+ Steffen Sautter <steffen.sautter@web.de>,
+ Florian Sebert <florian@floriansebert.de>, Lena Hahn <LenaHahn20@web.de>, 
+ raphael@rothschink.de, Tizian Decker <tizian_decker@web.de>, 
+ Yannick Frey <yannick.frey1994@web.de>,
+ Ingo Skupin <ingo.skupin@web.de>, Julia Wollny <wollny.julia@me.com>, 
+ "Dr. Stefan Wiehr" <stefan@wiehr.de>,
+ Stefan Pfister <s.pfister@dkfz-heidelberg.de>, 
+ Rainer Pfister <rainer.pfister@me.com>,
+ Daniel Metzger <jandan@gmx.de>, Susi Ulmer <susi.ulmer@gmx.de>, 
+ Friedi Janz <conte@meinblick.eu>,
+ Noah Bedrin <kingsaxello@gmail.com>
+Subject: Re: Wochenende: Adventskonzert und Musikschulwerbung und Weihnachtsfeier
+References: <DCBAA5F8-7DE9-4021-8C2F-F9D455D7E212@pfister-heidelberg.de>
+In-Reply-To: <DCBAA5F8-7DE9-4021-8C2F-F9D455D7E212@pfister-heidelberg.de>
+X-Enigmail-Version: 1.6
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Sehr geehrte Damen und Herren,
+
+mir - dem Größten der Kleinen - obgleich dieser Zusatz nur im Sinne
+des Alters zu verstehen ist, und in keinen Fällen abwertend gegenüber
+den kleinen Kleinen, die in vielen, wenn nicht sogar den Meisten,
+Dingen größer sind als ich es je sein kann - wird die Ehre zuteil als
+Erster die jungfräuliche Blässe dieser Liste zu brechen und in
+vorfreudigster Erwartung und dem kontinuierlichen Studium der Selben,
+mich bezaubern lassen von Nasch- und Schlürfwerk das Dritte
+versprechen mitzubringen zu einem Feste, dass in die Annalen der
+Ensemble-, wenn nicht gar der Welt- Geschichten eingehen könnte.
+
+Die Liste ist zu finden hinter den sieben Meeren und den Grenzen des
+Internen Bereiches. Ihr sollt Sie passieren, wenn ein jeder von euch
+die Kennphrase kundig wisst:
+Name: ensemble
+Phrase: $B4N4L3N
+Es ist dann nur noch der Ritt auf der rechten Maus um dem Schild nach
+"Adventsfeier" zu folgen.
+
+Gerne biete ich mich auch als Führer und Unterstützer an - melde sich
+der, der es benötigt, einfach über diesem Wege bei meiner Wenigkeit.
+
+Mit hochachtungsvollsten Grüßen
+Lukas Fischer
+
+
+
+Am 26.11.2013 00:04, schrieb Martina Pfister:
+> Hallo alle zusammen, das kommende Wochenende naht.
+> 
+> Kurz zum Ablauf:
+> 
+> 1. 30.11. wir treffen uns um 11 Uhr, Harry würde gerne noch ein
+> paar Sachen durchspielen 2. 16:00 Uhr kommen die Besucher zum
+> Adventskonzert des TSE (Repertoire: Bunte aus den aktuellen
+> Programm) 3. Wir spielen ein bisschen, es gibt Glühwein und
+> Stollen, die hoffentlich in Strömen anreisenden Kinder bekommen
+> einen Kinderpunsch und können Instrumente ausprobieren Frage an
+> Noah: haben wir genug Instrumente da aktuell oder müssen wir was
+> mitbringen. 4. gegen 16:30 oder 17 Uhr kommt der Nikolaus für die
+> Kinder
+> 
+> ab 18 Uhr gehen wir fließend in unsere Weihnachtsfeier über. Wer
+> Lust hat Salat/Nachtisch mitzubringen, wir kümmern uns wieder um
+> das Hauptessen, das sonstige Equipment und die Deko und Getränke 
+> Lukas hast Du zufällig Lust im internen Bereich wieder eine "Was
+> bringe ich mit-Liste" zu erstellen, in die sich jeder eintragen
+> kann und wir nachher nicht alles doppelt haben. Ich komme da im
+> Backend nicht rein..?? Sagt ihr mir auch noch kurz Bescheid, wenn
+> ihr nicht kommen könnt, damit wir mit der Menge planen können. 
+> Ideen für abendliche Events sind immer gefragt! :-9
+> 
+> Sonntag ist dann nichts.
+> 
+> Liebe Grüße
+> 
+> Martina
+> 
+> Frage an Harry. Konntest Du die Terminliste mal sichten, ich bin
+> im Moment irgendwie blockiert, was das Organisieren anbetrifft,
+> weil ich faktisch an fast keinem der abgefragten Tage eine
+> sinnvolle Besetzung habe ...
+> 
+> 
+> Musikschule Tübinger Saxophon-Ensemble 
+> _________________________________
+> 
+> Martina Pfister Amselgasse 4/3 69121 Heidelberg
+> 
+> Tel  (06 22 1) 58 69 69 Fax (06 22 1) 58 69 70 
+> info@saxophon-ensemble.de <mailto:info@saxophon-ensemble.de> 
+> www.saxophon-ensemble.de <http://www.saxophon-ensemble.de>
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://www.enigmail.net/
+
+iQEcBAEBAgAGBQJSk9+ZAAoJEFOYM1E91uOD50QIAM7L9WBNJDWTYW5tI+wE8b6b
+NlJ0KCa5HdDCOBjcJfnrvbr4XTmsN6J+D11YIcWUFeOnj2wz6BtNUYqYj3B3hdlU
+0cnyAK4JtwmO5YeRfS7+es0JMU8d6Y4bLVhAHUnCD4iGe1S48OzAHdrNrorjTTIo
+9kvCpLn7LszD9/dL3joaB9SWigTY+pgf8xQa/EqhlCz7K2UBu+t0SxH+DAXTBugV
+QFydRdvOaEZcIbSyxc0ou3wV3ulvlJNrAMuyKfZSe+Rihj7eiIb2PTFMu07fQMEW
+SSD8htmFV03SRiupVQM+IBRtfMvsnmarjCj9eyyeyFMgKib/88dZx0KWtFIV5N0=
+=TchX
+-----END PGP SIGNATURE-----

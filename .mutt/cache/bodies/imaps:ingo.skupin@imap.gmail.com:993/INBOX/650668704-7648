@@ -1,0 +1,52 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.163 with SMTP id i3csp278284pdr;
+        Tue, 10 Jun 2014 05:08:35 -0700 (PDT)
+X-Received: by 10.180.228.39 with SMTP id sf7mr35598410wic.26.1402402114713;
+        Tue, 10 Jun 2014 05:08:34 -0700 (PDT)
+Return-Path: <silkeczarn@yahoo.de>
+Received: from nm38-vm8.bullet.mail.ir2.yahoo.com (nm38-vm8.bullet.mail.ir2.yahoo.com. [212.82.97.158])
+        by mx.google.com with ESMTPS id cg8si15511169wib.8.2014.06.10.05.08.34
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Tue, 10 Jun 2014 05:08:34 -0700 (PDT)
+Received-SPF: none (google.com: silkeczarn@yahoo.de does not designate permitted sender hosts) client-ip=212.82.97.158;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: silkeczarn@yahoo.de does not designate permitted sender hosts) smtp.mail=silkeczarn@yahoo.de;
+       dkim=pass header.i=@yahoo.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=yahoo.de
+Received: from [212.82.98.53] by nm38.bullet.mail.ir2.yahoo.com with NNFMP; 10 Jun 2014 12:08:33 -0000
+Received: from [46.228.39.95] by tm6.bullet.mail.ir2.yahoo.com with NNFMP; 10 Jun 2014 12:08:33 -0000
+Received: from [127.0.0.1] by smtp132.mail.ir2.yahoo.com with NNFMP; 10 Jun 2014 12:08:33 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.de; s=s1024; t=1402402113; bh=YFMMiNirdSUXPyaWwChDY0XlYheCi1WcyCJD778hq7I=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Message-ID:Date:From:User-Agent:MIME-Version:To:Subject:Content-Type:Content-Transfer-Encoding; b=l3lm/RmI/0qtXOimsLvPhgceq4vioZdKrbIPlPcM9gvG+x3CzXo20g67UKrayYtUVgYcRIKiyK02ni2tO9qrtFnhlElJetZjwcCCl6fyKDFFvpRmzwvHlLtLLaevLXAgdC7Eb/EsUw51aMozVHcfBLCXZs7UwWwJmRbFIfes/KU=
+X-Yahoo-Newman-Id: 879603.86591.bm@smtp132.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: VuK9J6AVM1mFIf.2TN.ODCJeFyZV4fqH4IxF2ss1.moyVOg
+ PW2ni21EnSDmsG8VMr8U5xK2lgFGX9ZSSxQF4rxtL8RN1IuKStrfm.GiswUI
+ tm.lVOnsgWR.X4OgAv4EwWTJA104yXYuyMiuoGC3GpNE7Yx8st_ESFjRtz3n
+ QqtDYrdIWU5P96SD02wUA3flG6wf26QWq_NapQy73XMLGgO7GgQWQzeqdpAy
+ xypCEMyL.tkYUsFCGGPL53iD7vaXJzgaRCx4UmTXCPFA..1yQZ.4S44gcr_e
+ 97C752NKubHcRfQjyJHylMjsM0CG2W_l.D465U3ryC03ZL2kbo12Ni4jXH_W
+ pxfw1B6XhU4EaIj.weFU5jTHFsbbK6EJ_tMhCVZJkOfA8sfoi0fmdL2uH1Uv
+ k5oZpv3gIiOXARDmdYzpz4rRREFtJyyLYMmS9.1mq8_yaW12QA0w3s2HmlM0
+ E5KZKuGxeSga4xS44yWrUQ8kitbaoW.8XW8G3rgHhg1K1Ss.CPjgvWo6yIjD
+ 1cpvC2iA0LMJ..GDvjHZSxWQ269uWHQM-
+X-Yahoo-SMTP: DpzBWgGswBBCrqc17gq8BnpqtJD1tMY-
+X-Rocket-Received: from [127.0.0.1] (silkeczarn@95.112.30.41 with plain [188.125.69.59])
+        by smtp132.mail.ir2.yahoo.com with SMTP; 10 Jun 2014 12:08:33 +0000 UTC
+Message-ID: <5396F535.7090905@yahoo.de>
+Date: Tue, 10 Jun 2014 14:08:21 +0200
+From: Silke Czarnetzki <silkeczarn@yahoo.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.5.0
+MIME-Version: 1.0
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Subject: Blatt 7
+Content-Type: text/plain; charset=ISO-8859-15; format=flowed
+Content-Transfer-Encoding: 7bit
+
+Hello Ingo,
+
+ich steh bei Blatt 7 bei Aufgabe 2 auf dem Schlauch. Hint, wie man das 
+bei LookupEnv machen soll?
+
+LG,
+Silke

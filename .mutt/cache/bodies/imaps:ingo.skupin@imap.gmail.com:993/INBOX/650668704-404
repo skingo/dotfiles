@@ -1,0 +1,132 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.179.12 with SMTP id bo12cs9660vcb;
+        Tue, 2 Aug 2011 08:15:03 -0700 (PDT)
+Received: by 10.223.70.197 with SMTP id e5mr7637718faj.94.1312298101872;
+        Tue, 02 Aug 2011 08:15:01 -0700 (PDT)
+Return-Path: <service@troika.de>
+Received: from linux.local (s15446232.onlinehome-server.info [82.165.153.177])
+        by mx.google.com with ESMTP id n8si6597809faa.178.2011.08.02.08.15.00;
+        Tue, 02 Aug 2011 08:15:00 -0700 (PDT)
+Received-SPF: neutral (google.com: 82.165.153.177 is neither permitted nor denied by best guess record for domain of service@troika.de) client-ip=82.165.153.177;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 82.165.153.177 is neither permitted nor denied by best guess record for domain of service@troika.de) smtp.mail=service@troika.de
+Received: by linux.local (Postfix, from userid 30)
+	id 5C35F16EB9; Tue,  2 Aug 2011 17:15:00 +0200 (CEST)
+To: Skupin Ingo <ingo.skupin@gmail.com>
+Subject: Ihr Kundenkonto wurde angelegt
+Date: Tue, 2 Aug 2011 15:15:00 +0000
+From: Troika Shop <service@troika.de>
+Reply-To: service@troika.de
+Message-ID: <81b878f89436feebc8b563429dfbf178@www.troika-onlineshop.de>
+X-Priority: 3
+X-Mailer: PHPMailer (phpmailer.sourceforge.net) [version 2.0.0 rc3]
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_81b878f89436feebc8b563429dfbf178"
+
+--b1_81b878f89436feebc8b563429dfbf178
+Content-Type: text/plain; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+Hallo Ingo Skupin,
+
+Soeben haben wir Ihr persönliches Kundenkonto angelegt. Dieses bietet
+Ihnen die folgenden Vorteile:
+
+Dauerhafter Warenkorb
+Sie können Artikel in Ihren Warenkorb legen und dieser wird bis zu Ihrem
+nächsten Besuch gespeichert.
+
+Adressbuch
+Sie können nun verschiedene Liefer- und Rechnungsadressen verwalten.
+
+Bestellhistorie
+Übersicht über getätigte und aktuelle Bestellungen.
+
+Wir freuen uns, Sie als neuen Kunden in unserem Onlineshop begrüßen zu
+dürfen. Sollten Sie Fragen zu unserem Angebot haben, zögern Sie bitte
+nicht uns zu kontaktieren. Gerne helfen wir Ihnen weiter.
+
+Wir wünschen viel Spaß beim einkaufen!
+Ihr TROIKA-Team
+
+------------------------------------------------------------------------------------------------------------
+troika.de
+Nisterfeld 11
+57629 Müschenbach
+
+E-Mail: service@troika.de
+Tel.: 02662 - 9511-0
+Fax: 02662 - 9511-92
+Mo.-Fr. 8.00-17.00h
+
+www.troika.de
+
+Verantwortlich
+TROIKA Germany GmbH
+Sitz: Müschenbach
+Handelsregister Montabaur HRB Nr. 20338
+
+Geschäftsführer:
+Dr. Frank Oehmke
+
+
+--b1_81b878f89436feebc8b563429dfbf178
+Content-Type: text/html; charset = "UTF-8"
+Content-Transfer-Encoding: 8bit
+
+<body bgcolor="#462e2e"  bottommargin="0" leftmargin="0" rightmargin="0" topmargin="0" style="background: #462e2e; font-family: Arial, Helvetica, sans-serif; color: #666; font-size: 12px; line-height: 150%;">
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#462e2e">
+<tr>
+    <td><img src="http://www.troika-onlineshop.de/shop/templates/xt_troikashop/img/email/head.gif" width="600" height="138" /></td>
+</tr>
+</table>
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" style="padding: 0 22px 22px 22px; background: #fff url(http://www.troika-onlineshop.de/shop/templates/xt_troikashop/img/email/create_account.gif) top center no-repeat;">
+  <tr>
+  <tr><td colspan="2" style="height: 60px;">&nbsp;</td></tr>
+    <td colspan="2"  style="padding-top: 10px; padding-bottom: 10px;"><span style="font-family: Arial, Helvetica, sans-serif; color: #462e2e; font-size: 12px; line-height: 150%;">
+    <strong>Hallo Ingo Skupin,</strong><br />
+      <br />
+      Soeben haben wir Ihr persönliches Kundenkonto angelegt. Dieses bietet Ihnen die folgenden Vorteile:<br>
+      <br>      
+      <strong>Dauerhafter Warenkorb</strong><br>
+      Sie können Artikel in Ihren Warenkorb legen und dieser wird bis zu Ihrem nächsten Besuch gespeichert.<br>
+      <br>
+      <strong>Adressbuch</strong><br>
+	  Sie können nun verschiedene Liefer- und Rechnungsadressen verwalten.<br>
+      <br>
+      <strong>Bestellhistorie</strong><br>
+	  Übersicht über getätigte und aktuelle Bestellungen.<br>
+      <br>
+      Wir freuen uns, Sie als neuen Kunden in unserem Onlineshop begrüßen zu dürfen. Sollten Sie Fragen zu unserem Angebot haben, zögern Sie bitte nicht uns zu kontaktieren. Gerne helfen wir Ihnen weiter.<br><br>
+	  Wir wünschen viel Spaß beim Einkaufen!<br>
+      Ihr TROIKA-Team 
+	  </span></td>
+  </tr>
+</table>
+<table width="600" border="0" align="center" cellpadding="0" cellspacing="0" style="padding: 22px; padding-top: 20px;">
+  <tr>
+    <td width="50%" style="vertical-align: top; padding-top: 15px;"><span style="font-family: Arial, Helvetica, sans-serif; color: #a39797; font-size: 12px; line-height: 150%;"> troika.de <br />
+      Nisterfeld 11<br />
+      57629 Müschenbach<br />
+      <br />
+      E-Mail: service@troika.de <br />
+      Tel.: 02662 - 9511-0 <br />
+      Fax: 02662 - 9511-92 <br />
+      Mo.-Fr. 8.00-17.00h
+      <br />
+      www.troika.de </span></td>
+    <td width="50%" style="vertical-align: top; padding-top: 15px;"><span style="font-family: Arial, Helvetica, sans-serif; color: #a39797; font-size: 12px; line-height: 150%;"> Verantwortlich<br />
+      TROIKA Germany GmbH <br />
+      Sitz: Müschenbach <br />
+      Handelsregister Montabaur HRB Nr. 20338<br />
+      <br />
+      Geschäftsführer: <br />
+      Dr. Frank Oehmke<br />
+      </span></td>
+  </tr>
+</body>
+
+
+
+--b1_81b878f89436feebc8b563429dfbf178--
+

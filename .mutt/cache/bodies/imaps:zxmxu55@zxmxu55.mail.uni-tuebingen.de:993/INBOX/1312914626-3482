@@ -1,0 +1,127 @@
+Return-Path: <luca.tranchini@gmail.com>
+Received: from lmtpproxyd (dmail03.mail.localhost [10.23.21.43])
+	 by ma03.mail.localhost (Cyrus v2.4.18) with LMTPSA
+	 (version=TLSv1/SSLv3 cipher=ECDHE-RSA-AES256-GCM-SHA384 bits=256/256 verify=YES);
+	 Fri, 15 Apr 2016 22:06:47 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mailserv03.uni-tuebingen.de ([unix socket])
+	 by mailserv03.uni-tuebingen.de (Cyrus v2.4.18) with LMTPA;
+	 Fri, 15 Apr 2016 22:06:47 +0200
+X-Sieve: CMU Sieve 2.4
+Received: from mx05.uni-tuebingen.de (mx05.uni-tuebingen.de [134.2.5.215])
+	by mailserv03.uni-tuebingen.de (Postfix) with ESMTPS id 14BEB3AA484;
+	Fri, 15 Apr 2016 22:06:47 +0200 (CEST)
+Received: from mfilter-154-1-3.mx.srv.dfn.de (mfilter-154-1-3.mx.srv.dfn.de [194.95.238.90])
+	by mx05.uni-tuebingen.de (Postfix) with ESMTPS id EA0E34004E65;
+	Fri, 15 Apr 2016 22:06:46 +0200 (CEST)
+Received: from localhost (localhost [127.0.0.1])
+	by mfilter-154-1-3.mx.srv.dfn.de (Postfix) with ESMTP id C50101400F3;
+	Fri, 15 Apr 2016 22:06:46 +0200 (CEST)
+X-Virus-Scanned: Debian amavisd-new at mgw2-erl.srv.dfn.de
+Received: from mfilter-154-1-3.mx.srv.dfn.de ([127.0.0.1])
+	by localhost (mgw2-erl.srv.dfn.de [127.0.0.1]) (amavisd-new, port 11540)
+	with ESMTP id 6BumBKvuf56K; Fri, 15 Apr 2016 22:06:45 +0200 (CEST)
+Received: from mail-yw0-f182.google.com (mail-yw0-f182.google.com [209.85.161.182])
+	by mfilter-154-1-3.mx.srv.dfn.de (Postfix) with ESMTPS;
+	Fri, 15 Apr 2016 22:06:27 +0200 (CEST)
+Received: by mail-yw0-f182.google.com with SMTP id t10so147909047ywa.0;
+        Fri, 15 Apr 2016 13:06:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:from:date:message-id:subject:to;
+        bh=qdflE+VhlJ969H3oKI9qJYL033+PfktR0zM9ZDRwCMQ=;
+        b=GO4PDyeDCB80kH59RU/0Tezmpi2hivDajxl43rDafH7N4ABnL0KV65LetxHNgfYGkY
+         qWTfQNLLLWCuuj3UhdvBOV3DthtqBJIpxSMBeGCO6ks8oW5JghiQy5lr4frTXWwSfw8Q
+         /WsBVy70rjXhAxb43SZFd6MCC433M9YsXxUZnQLU4uZAuQMO1INhprC5mGMgj/8AGavC
+         oOAwNwVTS0+Jb3jQiO2VnN79sz+WpVR6emiBa9udL5FIfEvgLMo8izL4/4gnyjbe26PR
+         S+Yyr2P3fsGwjOBtIRG6ZAyikcYF7Lpv7S6tTCdxhG9P2W9c6Gt4nGqOKyBUCYqLV82n
+         3JEw==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:from:date:message-id:subject:to;
+        bh=qdflE+VhlJ969H3oKI9qJYL033+PfktR0zM9ZDRwCMQ=;
+        b=BdYChH9ombcaIvJogBMlBMF+XoaYFgIjDtuwBiMd9vrSzOIuzDRYFFTOrg0BzbhlRQ
+         laNTWMoAoUS15QhQOHdFDXzqF83WVPeWlTwNpgubCuqCY0yCISaQXU2RbWX4qL/JHu9I
+         gmG+dvY3EggroHJtkab8gsHdxFdSGwNoL8IIOyngKs6Avsnm7d9Bp/DG0XqgBKiHS5EO
+         U7xyhwmazlg1saaAEqRlwYq5bUz3Qrs8NfdbQPXYGyu5C/HWkKYyUz11FnWmRpdGY+tm
+         hOtr2j3xN1cDdCIwXsqtkgvggyMsMZ746J6SQAnH7+3UsAbv6jwKNwd1A5QgZgeera1b
+         JqJQ==
+X-Gm-Message-State: AOPr4FX7DH3XtkKQ+2w2ixNjGn74veJrUHtEW/arYf5Egk96QQ49L1IAvaZDoTVAZ1ikt7qhP1ZXKwBhahibpQ==
+X-Received: by 10.37.103.2 with SMTP id b2mr12222088ybc.176.1460750786045;
+ Fri, 15 Apr 2016 13:06:26 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.37.29.3 with HTTP; Fri, 15 Apr 2016 13:05:46 -0700 (PDT)
+From: Luca Tranchini <luca.tranchini@gmail.com>
+Date: Fri, 15 Apr 2016 22:05:46 +0200
+Message-ID: <CAKPSo_N+QsVo6Vo3bZmPkBTzBNyFY__gbgxwZ1FUJvFYy+yosg@mail.gmail.com>
+Subject: Principia Mathematica
+To: Stefanie Mueller <stefanie.mueller@student.uni-tuebingen.de>, 
+	philipp.selzer@student.uni-tuebingen.de, sinh@gmx.de, 
+	David Binder <dbinder1989@googlemail.com>, katrin.kunz@student.uni-tuebingen.de, 
+	alphadas@hotmail.de, gabriel.hieber@student.uni-tuebingen.de, 
+	f.wanne@balja.org, ingo.skupin@student.uni-tuebingen.de, 
+	florian.engel@student.uni-tuebingen.de
+Content-Type: multipart/alternative; boundary=001a11c14a94b52cb605308b8ba7
+
+--001a11c14a94b52cb605308b8ba7
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Liebe TeilnehmerInnen,
+hier sind die Links zu den Materialien:
+
+Principia Band I: https://archive.org/details/PrincipiaMathematicaVolumeI
+
+Skriptum Mathematische Logik I:
+http://www.uni-tuebingen.de/index.php?eID=3Dtx_nawsecuredl&u=3D0&g=3D0&t=3D=
+1460840174&hash=3D612ff40496a09878cd9504b47da9058c8ce0911c&file=3Dfileadmin=
+/Uni_Tuebingen/Fakultaeten/InfoKogni/WSI/LS/arndt/lehre/ws1516/skriptum.pdf
+
+SEP Artikel zur Notation in Principia:
+http://plato.stanford.edu/entries/pm-notation/
+
+N=C3=A4chste Termine:
+Do 28. April 17h00, Sand 13, Raum B110 (f=C3=BCr alle, die eine Logik
+Auffrischung ben=C3=B6tigen)
+Fr 6. Mai 18h00 (f=C3=BCr alle)
+
+Viele Gr=C3=BC=C3=9Fe
+Luca Tranchini
+
+Dr. Luca Tranchini
+
+Eberhard Karls Universit=C3=A4t T=C3=BCbingen
+Wilhelm-Schickard-Institut
+Sand 13, D-72076, T=C3=BCbingen
+
+http://sites.google.com/site/lucatranchini/
+
+--001a11c14a94b52cb605308b8ba7
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div><div><div><div>Liebe TeilnehmerInnen,<br></div>hier s=
+ind die Links zu den Materialien:<br><br></div>Principia Band I: <a href=3D=
+"https://archive.org/details/PrincipiaMathematicaVolumeI">https://archive.o=
+rg/details/PrincipiaMathematicaVolumeI</a><br><br></div>Skriptum Mathematis=
+che Logik I: <a href=3D"http://www.uni-tuebingen.de/index.php?eID=3Dtx_naws=
+ecuredl&amp;u=3D0&amp;g=3D0&amp;t=3D1460840174&amp;hash=3D612ff40496a09878c=
+d9504b47da9058c8ce0911c&amp;file=3Dfileadmin/Uni_Tuebingen/Fakultaeten/Info=
+Kogni/WSI/LS/arndt/lehre/ws1516/skriptum.pdf">http://www.uni-tuebingen.de/i=
+ndex.php?eID=3Dtx_nawsecuredl&amp;u=3D0&amp;g=3D0&amp;t=3D1460840174&amp;ha=
+sh=3D612ff40496a09878cd9504b47da9058c8ce0911c&amp;file=3Dfileadmin/Uni_Tueb=
+ingen/Fakultaeten/InfoKogni/WSI/LS/arndt/lehre/ws1516/skriptum.pdf</a><br><=
+br></div>SEP Artikel zur Notation in Principia: <a href=3D"http://plato.sta=
+nford.edu/entries/pm-notation/">http://plato.stanford.edu/entries/pm-notati=
+on/</a><br><div><div><br></div><div>N=C3=A4chste Termine: <br>Do 28. April =
+17h00, Sand 13, Raum B110 (f=C3=BCr alle, die eine Logik Auffrischung ben=
+=C3=B6tigen)<br></div><div>Fr 6. Mai 18h00 (f=C3=BCr alle)<br><br></div><di=
+v>Viele Gr=C3=BC=C3=9Fe<br></div><div>Luca Tranchini<br></div><div><br clea=
+r=3D"all"><div><div><div><div><div class=3D"gmail_signature">Dr. Luca Tranc=
+hini<br><br>Eberhard Karls Universit=C3=A4t T=C3=BCbingen<br>Wilhelm-Schick=
+ard-Institut<br>Sand 13, D-72076, T=C3=BCbingen<br><br><a href=3D"http://si=
+tes.google.com/site/lucatranchini/" target=3D"_blank">http://sites.google.c=
+om/site/lucatranchini/</a></div></div>
+</div></div></div></div></div></div>
+
+--001a11c14a94b52cb605308b8ba7--

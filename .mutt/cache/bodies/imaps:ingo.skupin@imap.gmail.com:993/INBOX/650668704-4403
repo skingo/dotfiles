@@ -1,0 +1,48 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.161.73 with SMTP id q9csp1013914vcx;
+        Thu, 29 Nov 2012 09:45:40 -0800 (PST)
+Received: by 10.216.208.198 with SMTP id q48mr4848121weo.69.1354211139859;
+        Thu, 29 Nov 2012 09:45:39 -0800 (PST)
+Return-Path: <noreply@ubuntu.com>
+Received: from adelie.canonical.com (adelie.canonical.com. [91.189.90.139])
+        by mx.google.com with ESMTP id g58si1454644wea.40.2012.11.29.09.45.39;
+        Thu, 29 Nov 2012 09:45:39 -0800 (PST)
+Received-SPF: neutral (google.com: 91.189.90.139 is neither permitted nor denied by best guess record for domain of noreply@ubuntu.com) client-ip=91.189.90.139;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 91.189.90.139 is neither permitted nor denied by best guess record for domain of noreply@ubuntu.com) smtp.mail=noreply@ubuntu.com
+Received: from canistel.canonical.com ([91.189.89.39])
+	by adelie.canonical.com with esmtp (Exim 4.71 #1 (Debian))
+	id 1Te8B8-0003Dr-TL
+	for <ingo.skupin@gmail.com>; Thu, 29 Nov 2012 17:45:39 +0000
+Received: from canistel.canonical.com (localhost [127.0.0.1])
+	by canistel.canonical.com (Postfix) with ESMTP id CFBE01E204F
+	for <ingo.skupin@gmail.com>; Thu, 29 Nov 2012 17:45:38 +0000 (UTC)
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Subject: Ubuntu Single Sign On: Forgotten Password
+From: Ubuntu Single Sign On <noreply@ubuntu.com>
+To: ingo.skupin@gmail.com
+Date: Thu, 29 Nov 2012 17:45:38 -0000
+Message-ID: <20121129174538.4167.88251@canistel.canonical.com>
+
+
+Hello
+
+You have requested a new password for your Ubuntu Single Sign On account.
+
+Here is your confirmation code:
+
+xhM1Fq
+
+Enter this code into the password-reset form, or click the following link t=
+o automatically confirm your reset:
+
+https://login.ubuntu.com/token/xhM1Fq/?email=3Dingo.skupin%40gmail.com
+
+If you don't know what this is about, then someone else has entered your em=
+ail address at the Ubuntu Single Sign On service. Sorry about that. You don=
+'t need to do anything further, just delete this message.
+
+Regards,
+
+The Ubuntu Single Sign On team

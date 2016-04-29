@@ -1,0 +1,16 @@
+set from        = ingo.skupin@student.uni-tuebingen.de
+set realname    = "Ingo Skupin"
+set hostname    = mail.uni-tuebingen.de
+set imap_user   = "zxmxu55"
+#set imap_login = "ingo.skupin"
+set imap_pass   = '$my_pass_uni'
+set folder      = "imaps://zxmxu55@zxmxu55.mail.uni-tuebingen.de:993/"
+set spoolfile   = "+INBOX"
+set postponed   = "+Mail/sent"
+set record      = "+Mail/drafts"
+
+set smtp_pass    = $my_pass_uni
+set smtp_url     = "smtp://zxmxu55@smtpserv.uni-tuebingen.de:25"
+
+# differentiate mailboxes in statusline:
+color   status          black           blue

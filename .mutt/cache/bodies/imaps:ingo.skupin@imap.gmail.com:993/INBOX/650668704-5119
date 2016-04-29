@@ -1,0 +1,258 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.136.161 with SMTP id qb1csp104004lbb;
+        Wed, 10 Apr 2013 07:15:42 -0700 (PDT)
+X-Received: by 10.66.162.103 with SMTP id xz7mr3867856pab.2.1365603341940;
+        Wed, 10 Apr 2013 07:15:41 -0700 (PDT)
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+Received: from mx-out.facebook.com (outcampmail004.snc7.facebook.com. [69.171.232.163])
+        by mx.google.com with ESMTP id rr3si62925pbc.182.2013.04.10.07.15.40;
+        Wed, 10 Apr 2013 07:15:41 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+zj4oc2az_s26@facebookmail.com designates 69.171.232.163 as permitted sender) client-ip=69.171.232.163;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notification+zj4oc2az_s26@facebookmail.com designates 69.171.232.163 as permitted sender) smtp.mail=notification+zj4oc2az_s26@facebookmail.com;
+       dkim=pass header.i=@facebookmail.com;
+       dmarc=pass (p=REJECT dis=none) d=facebookmail.com
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2011-q2; t=1365603340;
+	bh=Rdl1j6fKfWRm0HCuiXiW2nwxnorGsNis1L5A+Q115Qw=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=tyGMrrMpyI7ZYSMYoae5Dm3Y/wfbCBmSBe64z4UbNKJITuaSHAt54/9Aap3y/zI2T
+	 hOY8woexe9T6iaZP2M2d38ehuqEdx8r5eEL4Rye1RzLAxbnPz1FxREvuVnmmw/8De8
+	 Pi9pHjI1JUT6LHrR7mhemhTl4I23RlGrPYDj9qGA=
+Received: from [10.79.32.95] ([10.79.32.95:56061])
+	by smout054.snc7.facebook.com (envelope-from <notification+zj4oc2az_s26@facebookmail.com>)
+	(ecelerity 3.5.1.37927 r(/root/Momo-dev:tip)) with ECSTREAM
+	id FA/18-30751-C0475615; Wed, 10 Apr 2013 07:15:40 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Wed, 10 Apr 2013 07:15:40 -0700
+To: Ingo Skupin <ingo.skupin@gmail.com>
+From: "Facebook" <notification+zj4oc2az_s26@facebookmail.com>
+Reply-to: Facebook <notification+zj4oc2az_s26@facebookmail.com>
+Subject: =?UTF-8?B?TXVzaWt2ZXJlaW4gTm90?=
+ =?UTF-8?B?emluZ2VuLVdlbGxpbmdl?=
+ =?UTF-8?B?biBlLlYuIGhhdCBEw6R0cw==?=
+ =?UTF-8?B?Y2hlcmZlc3QgMjAxMyBh?=
+ =?UTF-8?B?a3R1YWxpc2llcnQ=?=
+Message-ID: <2d44fa1d97a630aa5a8a94ea8031e762@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zj4oc2az_s26@facebookmail.com
+X-Facebook-Notify: plan_edited; mailid=7cf713aG5af31cfea1d0G674dee7Gcb
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2d44fa1d97a630aa5a8a94ea8031e762"
+
+
+--b1_2d44fa1d97a630aa5a8a94ea8031e762
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ingo,
+
+Musikverein Notzingen-Wellingen e.V. hat eine Veranstaltung aktualisiert:
+
+D=C3=A4tscherfest 2013
+Samstag, 11. Mai um 17:00 - Sonntag, 12. Mai um 22:00, Kelterplatz =
+Notzingen
+
+Leona Skupin, Simon Zimtstern und 3 weitere Personen sind G=C3=A4ste.
+
+Veranstaltung anzeigen:
+http://www.facebook.com/events/284820748300164/
+
+Gr=C3=BC=C3=9Fe,
+Das Facebook-Team
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Diese Nachricht wurde an ingo.skupin@gmail.com gesendet. Falls du diese =
+E-Mails in Zukunft nicht von Facebook erhalten m=C3=B6chtest, folge dem =
+Link unten, um sie abzubestellen.
+http://www.facebook.com/o.php?k=3DAS1qTR931sFyS1YD&u=3D100000210002384&mid=
+=3D7cf713aG5af31cfea1d0G674dee7Gcb
+Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303
+
+
+--b1_2d44fa1d97a630aa5a8a94ea8031e762
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional =
+//EN"><html><head><title>Facebook</title><meta http-equiv=3D"Content-Type" =
+content=3D"text/html; charset=3Dutf-8" /></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table cellspacing=3D"0" =
+cellpadding=3D"0" id=3D"email_table" =
+style=3D"border-collapse:collapse;width:98%;" border=3D"0"><tr><td =
+id=3D"email_content" style=3D"font-size:12px;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:16px;font-family:&#039;lucida grande&#039;,tahoma,verda=
+na,arial,sans-serif;background:#3b5998;color:#FFFFFF;font-weight:bold;vert=
+ical-align:baseline;letter-spacing:-0.03em;text-align:left;padding:10px =
+20px 4px;"><a style=3D"text-decoration: none;" href=3D"http://www.facebook=
+.com/n/?home.php&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.1=
+365603340.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com"><span =
+style=3D"background:#3b5998;color:#FFFFFF;font-weight:bold;font-family:&#0=
+39;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;vertical-align:middle; =
+font-size:16px;letter-spacing:-0.03em;text-align:left;vertical-align:basel=
+ine;">facebook</span></a></td></tr></table><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;width:100%;" border=3D"0"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;background-color:#fff;border-left:none;border-right:non=
+e;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:100%;=
+"><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" border=3D"0" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:10px;background=
+-color:#fff;border-left:none;border-right:none;border-top:none;border-bott=
+om:none;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;"><tr valign=3D"top"><td valign=3D"top" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding-right:10px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" style=3D"border-collapse:collapse;"><tr><td width=3D"100%" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:10px 5px 10px 10px;"><a href=3D"http://www.facebook.com/n/?=
+musikverein.notzingen&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=
+=3D1.1365603340.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img src=3D"http://profile.a=
+k.fbcdn.net/hprofile-ak-ash4/188187_178992628845147_942638886_q.jpg" =
+style=3D"border:0;" /></a></td></tr></table></td><td width=3D"100%" =
+valign=3D"top" style=3D"font-size:11px;font-family:LucidaGrande,tahoma,ver=
+dana,arial,sans-serif;"><table cellspacing=3D"0" cellpadding=3D"0" =
+width=3D"100%" border=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px;background-color:#fff;border-left:none;border-right:non=
+e;border-top:none;border-bottom:none;"><table cellspacing=3D"0" =
+cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"100%" =
+style=3D"font-size:13px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;font-weight:bold;padding:10px 0px 0px;"><a href=3D"http://www.faceb=
+ook.com/n/?musikverein.notzingen&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb=
+&amp;bcode=3D1.1365603340.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.c=
+om">Musikverein Notzingen-Wellingen e.V.</a> hat eine Veranstaltung =
+aktualisiert:</td></tr><tr><td width=3D"100%" style=3D"font-size:14px;font=
+-family:LucidaGrande,tahoma,verdana,arial,sans-serif;font-weight:bold;padd=
+ing:10px 0px 0px;"><a href=3D"http://www.facebook.com/n/?events%2F28482074=
+8300164%2F&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.1365603=
+340.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;">D=C3=A4tscherfest =
+2013</a></td></tr><tr><td width=3D"100%" style=3D"font-size:11px;font-fami=
+ly:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:5px 0px =
+0px;">Samstag, 11. Mai um 17:00 - Sonntag, 12. Mai um 22:00, Kelterplatz =
+Notzingen</td></tr></table></td></tr><tr><td style=3D"font-size:11px;font-=
+family:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:0px;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td width=3D"100%" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:5px 60px 0px 0px;"><div style=3D"border-bottom: 1px solid =
+#ccc; line-height:5px;">&nbsp;</div></td></tr><tr><td width=3D"100%" =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:8px 0px 0px 0px;"><a href=3D"http://www.facebook.com/n/?leo=
+na.skupin&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.13656033=
+40.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;">Leona Skupin</a>, <a =
+href=3D"http://www.facebook.com/n/?simon.zimtstern&amp;mid=3D7cf713aG5af31=
+cfea1d0G674dee7Gcb&amp;bcode=3D1.1365603340.AbmWWxNTQoP8gOyF&amp;n_m=3Ding=
+o.skupin%40gmail.com" style=3D"color:#3b5998;text-decoration:none;">Simon =
+Zimtstern</a> und 3 weitere Personen sind G=C3=A4ste.</td></tr><tr><td =
+width=3D"100%" style=3D"font-size:11px;font-family:LucidaGrande,tahoma,ver=
+dana,arial,sans-serif;padding:3px 0px 0px 0px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:0px;font-family:LucidaGrande,tahoma,verdana,arial,sans-=
+serif;padding:2px 2px 0px 0px;"><a href=3D"http://www.facebook.com/n/?leon=
+a.skupin&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.136560334=
+0.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img width=3D"32" =
+height=3D"32" src=3D"http://profile.ak.fbcdn.net/hprofile-ak-snc6/623541_1=
+00000327159398_593378146_q.jpg" style=3D"border:0;" /></a></td><td =
+style=3D"font-size:0px;font-family:LucidaGrande,tahoma,verdana,arial,sans-=
+serif;padding:2px 2px 0px 0px;"><a href=3D"http://www.facebook.com/n/?simo=
+n.zimtstern&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.136560=
+3340.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img width=3D"32" =
+height=3D"32" src=3D"http://profile.ak.fbcdn.net/hprofile-ak-snc6/275074_1=
+00000728963747_1479841939_q.jpg" style=3D"border:0;" /></a></td><td =
+style=3D"font-size:0px;font-family:LucidaGrande,tahoma,verdana,arial,sans-=
+serif;padding:2px 2px 0px 0px;"><a href=3D"http://www.facebook.com/n/?la.u=
+ra.1441810&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.1365603=
+340.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img width=3D"32" =
+height=3D"32" src=3D"http://profile.ak.fbcdn.net/hprofile-ak-prn1/623820_1=
+00002231961813_980075039_q.jpg" style=3D"border:0;" /></a></td><td =
+style=3D"font-size:0px;font-family:LucidaGrande,tahoma,verdana,arial,sans-=
+serif;padding:2px 2px 0px 0px;"><a href=3D"http://www.facebook.com/n/?pfei=
+ferjonas&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.136560334=
+0.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img width=3D"32" =
+height=3D"32" src=3D"http://profile.ak.fbcdn.net/hprofile-ak-prn1/161762_1=
+658559124_95636099_q.jpg" style=3D"border:0;" /></a></td><td =
+style=3D"font-size:0px;font-family:LucidaGrande,tahoma,verdana,arial,sans-=
+serif;padding:2px 2px 0px 0px;"><a href=3D"http://www.facebook.com/n/?sabr=
+ina.machanek&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.13656=
+03340.AbmWWxNTQoP8gOyF&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;"><img width=3D"32" =
+height=3D"32" src=3D"http://profile.ak.fbcdn.net/hprofile-ak-prn1/48665_10=
+0001216765748_733423044_q.jpg" style=3D"border:0;" /></a></td></tr></table=
+></td></tr></table></td></tr></table></td></tr></table></td></tr></table><=
+/td></tr></table></td></tr><tr><td style=3D"font-size:11px;font-family:Luc=
+idaGrande,tahoma,verdana,arial,sans-serif;padding:0px;width:100%;"><table =
+cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;margin:10px 0px 0px;" =
+border=3D"0"><tr><td style=3D"font-size:11px;font-family:LucidaGrande,taho=
+ma,verdana,arial,sans-serif;padding:5px 0px;background-color:#f2f2f2;borde=
+r-left:none;border-right:none;border-top:1px solid #ccc;border-bottom:1px =
+solid #ccc;"><table cellspacing=3D"0" cellpadding=3D"0" width=3D"100%" =
+style=3D"border-collapse:collapse;"><tr><td style=3D"font-size:11px;font-f=
+amily:LucidaGrande,tahoma,verdana,arial,sans-serif;padding:5px =
+0px;margin:10px 0px 0px;"><table cellspacing=3D"0" cellpadding=3D"0" =
+style=3D"border-collapse:collapse;margin:0px 0px 0px 85px;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:0px 10px 0px 0px;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"border-width: 1px;border-style: solid;border-color: #29447E =
+#29447E #1a356e;background-color: #5b74a8;"><table cellspacing=3D"0" =
+cellpadding=3D"0" style=3D"border-collapse:collapse;"><tr><td =
+style=3D"font-size:11px;font-family:LucidaGrande,tahoma,verdana,arial,sans=
+-serif;padding:2px 6px 4px;border-top:1px solid #8a9cc2;"><a =
+href=3D"http://www.facebook.com/n/?events%2F284820748300164%2F&amp;mid=3D7=
+cf713aG5af31cfea1d0G674dee7Gcb&amp;bcode=3D1.1365603340.AbmWWxNTQoP8gOyF&a=
+mp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:none;"><span =
+style=3D"font-weight:bold;white-space:nowrap;color: #fff;font-size: =
+13px;">Veranstaltung anzeigen</span></a></td></tr></table></td></tr></tabl=
+e></td></tr></table></td></tr></table></td></tr></table></td></tr></table>=
+</td></tr></table><table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" =
+style=3D"border-collapse:collapse;width:100%;"><tr><td =
+style=3D"font-size:11px;font-family:&#039;lucida grande&#039;, tahoma, =
+verdana, arial, sans-serif;padding:30px 20px 20px;background-color:#fff;bo=
+rder-left:none;border-right:none;border-top:none;border-bottom:none;color:=
+#999999;border:none;">Diese Nachricht wurde an <a =
+href=3D"mailto:ingo.skupin&#064;gmail.com" style=3D"color:#3b5998;text-dec=
+oration:none;">ingo.skupin&#064;gmail.com</a> gesendet. Falls du diese =
+E-Mails in Zukunft nicht von Facebook erhalten m=C3=B6chtest, <a =
+href=3D"http://www.facebook.com/o.php?k=3DAS1qTR931sFyS1YD&amp;u=3D1000002=
+10002384&amp;mid=3D7cf713aG5af31cfea1d0G674dee7Gcb" =
+style=3D"color:#3b5998;text-decoration:none;">deaktiviere sie</a>.<br =
+/>Facebook, Inc., Attention: Department 415, PO Box 10005, Palo Alto, CA =
+94303</td></tr></table><span style=3D"width:100%;"><img =
+src=3D"http://www.facebook.com/email_open_log_pic.php?c=3D1436453046&amp;m=
+id=3D7cf713aG5af31cfea1d0G674dee7Gcb" =
+style=3D"border:0;width:1px;height:1px;" =
+/></span></td></tr></table></body></html>
+
+
+
+--b1_2d44fa1d97a630aa5a8a94ea8031e762--
+

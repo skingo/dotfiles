@@ -1,0 +1,107 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.191.196 with SMTP id dn4csp32829vcb;
+        Tue, 20 Mar 2012 03:10:09 -0700 (PDT)
+Received: by 10.68.197.231 with SMTP id ix7mr17283952pbc.28.1332238208573;
+        Tue, 20 Mar 2012 03:10:08 -0700 (PDT)
+Return-Path: <no-reply@dropbox.com>
+Received: from sjc-smtp2.sjc.dropbox.com (sjc-smtp2.sjc.dropbox.com. [199.47.217.137])
+        by mx.google.com with ESMTPS id p3si1325328pbb.256.2012.03.20.03.10.08
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 20 Mar 2012 03:10:08 -0700 (PDT)
+Received-SPF: pass (google.com: domain of no-reply@dropbox.com designates 199.47.217.137 as permitted sender) client-ip=199.47.217.137;
+DomainKey-Status: good (test mode)
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of no-reply@dropbox.com designates 199.47.217.137 as permitted sender) smtp.mail=no-reply@dropbox.com; domainkeys=pass (test mode) header.From=no-reply@dropbox.com
+Received: from sjc-web187.sjc.dropbox.com (sjc-web187.sjc.dropbox.com [10.10.110.175])
+	by sjc-smtp2.sjc.dropbox.com (Postfix) with ESMTP id B42E676064A
+	for <ingo.skupin@gmail.com>; Tue, 20 Mar 2012 10:10:07 +0000 (UTC)
+DomainKey-Signature: a=rsa-sha1; s=m1; d=dropbox.com; c=simple; q=dns;
+	b=kVBqrBS8zW6v+xW32eznnhIo0GsI6adNLFSzGuDodiGCMh/2WtNd/CJIDRaRVlxS+
+	9BQdWC7gafD0aNE/802HrnyLPbnc3qncUScDmWb04BfYvDoCSdXBUIKD7oiQ8TcyHDD
+	H7EbTfvjdRIYpEf10nC3BLcYpBdOB6k4AwA6OgE=
+Received: from sjc-web187.sjc.dropbox.com (localhost [127.0.0.1])
+	by sjc-web187.sjc.dropbox.com (Postfix) with ESMTP id B27A47A00A5
+	for <ingo.skupin@gmail.com>; Tue, 20 Mar 2012 10:10:07 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============4230189260897472582=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@gmail.com
+Subject: Ingo Skupin ist deinem freigegebenen Ordner beigetreten
+Date: Tue, 20 Mar 2012 10:10:07 +0000
+Message-Id: <20120320101007.B27A47A00A5@sjc-web187.sjc.dropbox.com>
+
+--===============4230189260897472582==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+
+Hallo Ingo,
+
+Ingo Skupin ist deinem freigegebenen Ordner „Gmail“ beigetreten.
+
+Hier kannst du weitere Freunde zu diesem Ordner einladen: http://www.dropbox.com/link/26.GZfFvWpBow.778c2ea60abba500/c/share/Gmail
+
+Viel Spaß beim Austausch!
+- Das Dropbox-Team
+
+P.S. Hole dir zusätzlichen kostenlosen Speicherplatz: http://www.dropbox.com/link/21.oG-DiCLadW.778c2ea60abba500
+--===============4230189260897472582==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<table width="650" align="center" style="font-size: 14px;" cellpadding="0" cellspacing="0">
+        <tr id="topshadow">
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_tl.gif" bgcolor="#ffffff"></td>
+            <td height="10" background="https://www.dropbox.com/static/images/emails/shadow_top.gif" bgcolor="#ffffff"> </td>
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_tr.gif" bgcolor="#ffffff"> </td>
+        </tr>
+        
+        <tr id="header">
+            <td width="10" background="https://www.dropbox.com/static/images/emails/shadow_left.gif" bgcolor="#ffffff" rowspan="2"></td>
+            <td height="102" background="https://www.dropbox.com/static/images/emails/header_bg.gif" bgcolor="#e6f1fb" align="center">
+                <table width="95%"><tr>
+                    <td align="left">
+                        <img src="https://www.dropbox.com/static/images/emails/email_logo.gif"/>
+                    </td>
+                </tr></table>
+            </td>
+            <td width="10" background="https://www.dropbox.com/static/images/emails/shadow_right.gif" bgcolor="#ffffff" rowspan="2"> </td>
+        </tr>
+        
+        <tr id="content">
+            <td bgcolor="#f4faff" align="center">
+                <table width="95%" cellpadding="30">
+                    <tr>
+                        <td align="left">
+                            <font face="Lucida Grande, Segoe UI, Arial, Verdana, Lucida Sans Unicode, Tahoma, Sans Serif">
+    Hallo Ingo,<br/><br/>
+Ingo Skupin ist deinem freigegebenen Ordner „Gmail“ beigetreten. <br/><br/>
+Du kannst weitere Freunde <a href="http://www.dropbox.com/link/26.zJ575pY8Tq.778c2ea60abba500/c/share/Gmail">hier</a> zu diesem Ordner einladen.<br/><br/>
+Viel Spaß beim Austausch!<br/>
+- Das Dropbox-Team<br/><br/>
+P.S. <a href="http://www.dropbox.com/link/21.Diskppa9Fi.778c2ea60abba500">Hole dir zusätzlichen kostenlosen Speicherplatz</a>.<br/>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        
+        <tr id="bottomshadow">
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_bl.gif" bgcolor="#ffffff"></td>
+            <td height="10" background="https://www.dropbox.com/static/images/emails/shadow_bottom.gif" bgcolor="#ffffff"> </td>
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_br.gif" bgcolor="#ffffff"> </td>
+        </tr>
+        
+    <tr id="copyright">
+        <td></td>
+        <td align="right">
+            <img src="https://www.dropbox.com/static/images/emails/gray_logo.gif" alt="" align="absmiddle"/>
+            <span style="font-family: 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 11px; color: #888;">&copy;&nbsp;2012&nbsp;Dropbox</span>
+        </td>
+        <td></td>
+    </tr>
+
+    </table>
+--===============4230189260897472582==--

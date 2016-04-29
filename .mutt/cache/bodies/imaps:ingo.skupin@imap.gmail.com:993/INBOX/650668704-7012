@@ -1,0 +1,92 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp370377pdb;
+        Thu, 23 Jan 2014 07:45:27 -0800 (PST)
+X-Received: by 10.194.170.133 with SMTP id am5mr7152808wjc.42.1390491926890;
+        Thu, 23 Jan 2014 07:45:26 -0800 (PST)
+Return-Path: <comm-bounces+BBC-Message-A3RQOHZL8FTHW7@marketplace.amazon.de>
+Received: from smtp-out-127-108.amazon.com (smtp-out-127-108.amazon.com. [176.32.127.108])
+        by mx.google.com with ESMTP id 14si9265602wjq.73.2014.01.23.07.45.26
+        for <ingo.skupin@gmail.com>;
+        Thu, 23 Jan 2014 07:45:26 -0800 (PST)
+Received-SPF: pass (google.com: domain of comm-bounces+BBC-Message-A3RQOHZL8FTHW7@marketplace.amazon.de designates 176.32.127.108 as permitted sender) client-ip=176.32.127.108;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of comm-bounces+BBC-Message-A3RQOHZL8FTHW7@marketplace.amazon.de designates 176.32.127.108 as permitted sender) smtp.mail=comm-bounces+BBC-Message-A3RQOHZL8FTHW7@marketplace.amazon.de;
+       dkim=pass header.i=f5qwrz144fjpl5p@amazon.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=f5qwrz144fjpl5p@marketplace.amazon.de;
+  q=dns/txt; s=amazon201209; t=1390491932; x=1422027932;
+  h=date:from:reply-to:to:message-id:subject:mime-version;
+  bh=NMVWW7yjwleoa3/OwbP11ujrVXWZpZNBCipzNkIBRF4=;
+  b=ef49ct5PdQttxnDjTjDtNTpfYJF5Z4UuLEna8NQmjOiKc3cj0BeukEgv
+   wJUMtN8uOUaFQZQbYcYO4mFkfk4zvxtZzy9SPr5nxXXMK3FkSVj4ngy+L
+   tTgEY/3UfWH5bEbMhAtN6KlKPfLqXNCYrdr8a9nH3H9V3DyrVfuXzrgqq
+   A=;
+Date: Thu, 23 Jan 2014 15:45:25 +0000 (UTC)
+From: EliteDigital DE - Amazon Marketplace <f5qwrz144fjpl5p@marketplace.amazon.de>
+Reply-To: EliteDigital DE - Amazon Marketplace <f5qwrz144fjpl5p@marketplace.amazon.de>
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Message-ID: <urn.correios.msg.201401231545258f6decae871242ab9864627acd542b22@1390491925766.rte-svc-eu-1abig-i-6ba97424.eu-west-1.amazon.com>
+Subject: Ihr Artikel scheint unterwegs verloren gegangen zu sein: Finite
+ Automata, Formal Logic, and Circuit Complexity (Progress in Theoretica...
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_348003_2079213326.1390491925763"
+Bounces-to: comm-bounces+BBC-Message-A3RQOHZL8FTHW7@marketplace.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-AMAZON-CATEGORY: BBC-Message
+X-Original-MessageID: <urn.correios.msg.201401231545258f6decae871242ab9864627acd542b22@1390491925766.rte-svc-eu-1abig-i-6ba97424.eu-west-1.amazon.com>
+
+------=_Part_348003_2079213326.1390491925763
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Wichtiger Hinweis: Wenn Sie dieser E-Mail antworten, wird Amazon.de Ihre E-=
+Mail-Adresse mit einer von Amazon bereitgestellten Adresse ersetzen, um Ihr=
+e Identit=C3=A4t zu sch=C3=BCtzen, und die Nachricht in Ihrem Namen weiterl=
+eiten. Um einen m=C3=B6glichen Betrug zu verhindern, setzt Amazon.de Filter=
+techniken ein. Nachrichten, die diesen Filter nicht passieren, werden nicht=
+ weitergeleitet. Amazon.de beh=C3=A4lt Kopien aller =C3=BCber diesen Servic=
+e gesendeten und empfangenen E-Mails, einschlie=C3=9Flich der Nachricht, di=
+e Sie hier eingeben. Amazon.de wird diese Kopien insbesondere zur Kl=C3=A4r=
+ung von eingereichten A-bis-z-Garantie-Antr=C3=A4gen heranziehen. Indem Sie=
+ diesen Dienst nutzen, erkl=C3=A4ren Sie sich mit diesem Vorgehen einversta=
+nden.
+
+------------- Anfang der Nachricht -------------
+
+Sehr geehrte(r) Ingo Skupin
+=20
+Wir bedauern, dass Sie Ihren Artikel nicht erhalten haben. Normalerweise si=
+nd wir nicht veranwortlich f=C3=BCr Pakete, die auf dem Postweg verloren ge=
+gangen sind. Um Ihnen jedoch entgegezukommen und da wir Sie als unsere(n) K=
+unden(in) sch=C3=A4tzen, haben wir eine volle R=C3=BCckerstattung via Amazo=
+n veranlasst. Wir werden dies als Verlust auf unserer Seite abschreiben.
+
+Die volle R=C3=BCckerstattung wird Ihrem Konto w=C3=A4hrend der n=C3=A4chst=
+en 48 Stunden gutgeschrieben werden. Amazon wird Ihnen dann den Betrag auf =
+die selbe Weise verg=C3=BCten, wie Sie f=C3=BCr die Bestellung bezahlt habe=
+n (Kreditkarte, Bank=C3=BCberweisung, etc.). Bitte teilen Sie es uns mit, s=
+ollte die Bestellung sp=C3=A4ter doch nochbei Ihnen eintreffen.
+
+Wir hoffen, dass Sie mit dieser L=C3=B6sung zufrieden sind.
+
+Mit besten W=C3=BCnschen und freundlichen Gr=C3=BC=C3=9Fen,=20
+
+Mike - EliteDigital DE [E-Mail-Adresse entfernt]
+
+
+
+------------- Ende der Nachricht -------------
+
+Wir m=C3=B6chten, dass Sie stets mit Vertrauen einkaufen, wenn Sie Produkte=
+ auf Amazon.de erwerben. Hier finden Sie n=C3=A4here Informationen =C3=BCbe=
+r sichere Online-Eink=C3=A4ufe (http://www.amazon.de/gp/help/customer/displ=
+ay.html?nodeId=3D13023711) und unsere Garantie f=C3=BCr den sicheren Einkau=
+f (http://www.amazon.de/gp/help/customer/display.html?nodeId=3D886414).
+
+
+
+[commMgrTok:A3RQOHZL8FTHW7]
+------=_Part_348003_2079213326.1390491925763--

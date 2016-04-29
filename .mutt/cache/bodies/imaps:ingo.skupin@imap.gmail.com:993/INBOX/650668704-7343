@@ -1,0 +1,60 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp305412pdb;
+        Wed, 9 Apr 2014 10:47:27 -0700 (PDT)
+X-Received: by 10.14.9.195 with SMTP id 43mr222714eet.89.1397065646050;
+        Wed, 09 Apr 2014 10:47:26 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id v2si2548069eel.106.2014.04.09.10.47.25
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256/256);
+        Wed, 09 Apr 2014 10:47:26 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb108)
+ with ESMTPS (Nemesis) id 0MOxsh-1WbWpi2QBL-006SAT for
+ <ingo.skupin@gmail.com>; Wed, 09 Apr 2014 19:47:25 +0200
+Received: from mout.gmx.net ([212.227.17.21]) by mx-ha.web.de (mxweb108) with
+ ESMTPS (Nemesis) id 0M2sWo-1Wouwp2Q1m-00scwa for <ingo.skupin@web.de>; Wed,
+ 09 Apr 2014 19:47:21 +0200
+Received: from mout.gmx.net ([212.227.17.21]) by mx-ha.gmx.net (mxgmx006) with
+ ESMTPS (Nemesis) id 0MEKIS-1WnP3n3t60-00FQlY; Wed, 09 Apr 2014 19:47:11 +0200
+Received: from [217.252.191.8] by 3capp-gmx-bs30 with HTTP; Wed, 9 Apr 2014
+ 19:47:11 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-a36adc70-2539-402f-85b1-6150094214eb-1397065631438@3capp-gmx-bs30>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: Jugendaussschuss%Musikverein.Notzingen@gmx.de
+Subject: Jugendaussschusssitzung
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 9 Apr 2014 19:47:11 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:kHpZWWOM5EfVHVj+KtQDZh+Gg74Yqdabve0KwEiX6mt
+ MDgeYqn1XntTpHJiBL9ZxhK6dKTTEd5WeETXDuEpoXSrvZx+dd
+ b18aO8MHcBN249xzDCHAh02aMROR9CUvqVNOJQcEy+ti/xXeDu
+ tQBZPWqb+uTuggHhI3S4bH8lWpSWofj3OEbuVsmD/a2n3eg3gL
+ SlQEkycDRQC4IDZa/HpXyBDF438QG8pkCPbfc4Oql7kOIuO8Fc
+ NiStvs/gkguznMSQN27d61q0oxhTgPo73/ky4X7IX93+dTLale l36mes=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>&nbsp;</div>
+
+<div>wie sicher ein Paar von euch schon gesehen haben, hat der Benni einen Termin f&uuml;r die n&auml;chste Aussschusssitzung in den Musikverein-Kalender eigetragen.</div>
+
+<div>Die Sitzung findet am Sonntag, 13.04.2014 um 10 Uhr bei Thomas daheim statt.</div>
+
+<div>&nbsp;</div>
+
+<div>Themen sind vorallem D&auml;tscherfest und Jugendkonzert!!!</div>
+
+<div>&nbsp;</div>
+
+<div>Bitte gebt kurz Bescheid wenn ihr nicht kommen k&ouml;nnt.</div>
+
+<div>&nbsp;</div>
+
+<div>Gr&uuml;&szlig;e Paddie</div></div></body></html>

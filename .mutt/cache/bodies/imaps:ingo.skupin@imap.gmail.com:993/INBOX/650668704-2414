@@ -1,0 +1,89 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.4 with SMTP id b4csp212062vcj;
+        Thu, 19 Apr 2012 01:07:02 -0700 (PDT)
+Received: by 10.216.136.131 with SMTP id w3mr755146wei.15.1334822821067;
+        Thu, 19 Apr 2012 01:07:01 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTP id u4si16540232wif.22.2012.04.19.01.07.00;
+        Thu, 19 Apr 2012 01:07:01 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.12 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-vx0-f174.google.com ([209.85.220.174]) by mx-ha.web.de
+ (mxweb103) with ESMTP (Nemesis) id 0MXa7G-1Snu7h3DxG-00Vyqo for
+ <ingo.skupin@gmail.com>; Thu, 19 Apr 2012 10:07:00 +0200
+Received: by vcqp1 with SMTP id p1so5433953vcq.19
+        for <multiple recipients>; Thu, 19 Apr 2012 01:06:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=dAZJEYdHymluk250dRIWFzmKhZVVjzDdzfr8pW3Wgs8=;
+        b=rVxqZvfotlggn0NhxclsIuZUX3dshLzgRuJOa44+AIzdEfCMi5BlojmmegZXL5JGoU
+         IzBaoyki3XBX5G4IUFCCp1MflNKX5LPdBgVlA/egFW9Mtf1jvD2TUsqyWsu8fkE/7/CK
+         8h2UFleRRxai2e3L6j26OS1kj2plREruZFZ51Dm7OFtyWbycecXGhBylKLX9RpBqfCd7
+         69+gZnyvnUhCzB603zDhcYOc6zZhGvDhMz5JGmHnufekjb+DN4zaeEnpMZ+cIxDQq3+n
+         yfW1NnZ35VoaQVcQSCZBOngxeeHoUfmnNrHoZ2yjQ6c2Q5Mxds4gOhjETZsPZFOLZl1r
+         UtuQ==
+MIME-Version: 1.0
+Received: by 10.220.38.138 with SMTP id b10mr625800vce.23.1334822818955; Thu,
+ 19 Apr 2012 01:06:58 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.220.225.195 with HTTP; Thu, 19 Apr 2012 01:06:58 -0700 (PDT)
+In-Reply-To: <CAN1A5uCn0Vk59hTS=r1Mn9xEjZ6Od9twjaYc8ZYHPmiVWpAxcA@mail.gmail.com>
+References: <cfb06c6e-d612-4301-b34b-e1675bb71c39@email.android.com>
+	<3fab9348-11d0-465a-86df-7cf689d302b1@email.android.com>
+	<CAN1A5uCn0Vk59hTS=r1Mn9xEjZ6Od9twjaYc8ZYHPmiVWpAxcA@mail.gmail.com>
+Date: Thu, 19 Apr 2012 10:06:58 +0200
+X-Google-Sender-Auth: IV7TEYryuWA7LZB3PP0VlkV-DU8
+Message-ID: <CAN1A5uA+2wqUdasMCvx0xpHb__DuQN-Z49cygdorp-J3FVL9XQ@mail.gmail.com>
+Subject: Re: Bilder
+From: Florian Sebert <florian@floriansebert.de>
+To: "Dr. Stefan Wiehr" <stefan@wiehr.de>
+Cc: Martina Pfister <martina@pfister-heidelberg.de>, 
+	Sabine Pfister <pfistersabine@googlemail.com>, Valerie Bartel <valerie.bartel@gmx.de>, 
+	Bedrin Noah <kingsaxello@googlemail.com>, Steffen Sautter <steffen.sautter@web.de>, 
+	Tizian Decker <tizian_decker@web.de>, Yannick Frey <yannick.frey1994@web.de>, 
+	Ingo Skupin <ingo.skupin@web.de>, christine-erchinger@web.de, 
+	Rainer Pfister <rainerpfister@blackforestentertainment.org>, 
+	Stefan Pfister <s.pfister@dkfz-heidelberg.de>, "Harry D. Bath" <harryd.bath@t-online.de>, 
+	Daniel Metzger <jandan@gmx.de>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-UI-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+Hallo zusammen,
+
+es wurden Bedenken ge=E4u=DFert, dass der verf=FCgbare Speicherplatz von 1
+GB (ohne Ber=FCcksichtigung von Bildern und Videos unterhalb einer
+gewissen Gr=F6=DFe) nicht ausreichen k=F6nnte.
+
+Ich habe deshalb den Speicherplatz auf 21 GB (wieder ohne
+Ber=FCcksichtigung von Bildern und Videos unterhalb einer gewissen
+Gr=F6=DFe) erh=F6hen lassen. Das sollte eine Weile reichen...
+
+Viele Gr=FC=DFe
+Florian
+
+2012/4/18 Florian Sebert <florian@floriansebert.de>:
+> Hallo Stefan,
+>
+> vielen Dank auch dir f=FCr deine Bilder!
+>
+> Viele Gr=FC=DFe
+> Florian
+>
+> PS: H=F6here Aufl=F6sung gibt's nach dem WE.
+
+
+
+--=20
+Dr. Florian Sebert
+d-fine GmbH
+Munich Office
+Bavariafilmplatz 8, 82031 Gr=FCnwald
+Mobil +49 (0)162 2631334
+Tel =A0 =A0+49 (0)89 7908617 391
+Fax =A0 +49 (0)89 7908617 202
+www.d-fine.de

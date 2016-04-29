@@ -1,0 +1,107 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp365946pdt;
+        Thu, 24 Jul 2014 02:59:59 -0700 (PDT)
+Return-Path: <3HtnQUwsOC7cfkdl.phrmfkdlldibjXfi.Zljfkdl.phrmfkdjXfi.Zlj@calendar-server.bounces.google.com>
+Received-SPF: pass (google.com: domain of 3HtnQUwsOC7cfkdl.phrmfkdlldibjXfi.Zljfkdl.phrmfkdjXfi.Zlj@calendar-server.bounces.google.com designates 10.152.43.77 as permitted sender) client-ip=10.152.43.77
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of 3HtnQUwsOC7cfkdl.phrmfkdlldibjXfi.Zljfkdl.phrmfkdjXfi.Zlj@calendar-server.bounces.google.com designates 10.152.43.77 as permitted sender) smtp.mail=3HtnQUwsOC7cfkdl.phrmfkdlldibjXfi.Zljfkdl.phrmfkdjXfi.Zlj@calendar-server.bounces.google.com;
+       dkim=pass header.i=@google.com
+X-Received: from mr.google.com ([10.152.43.77])
+        by 10.152.43.77 with SMTP id u13mr650792lal.7.1406195999561 (num_hops = 1);
+        Thu, 24 Jul 2014 02:59:59 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=google.com; s=20120113;
+        h=mime-version:reply-to:auto-submitted:message-id:date:subject:from
+         :to:content-type;
+        bh=Fufl9ud4tH5+O3o6tgMk0Ev5+911WughNCVIPZ16Q/g=;
+        b=cUJVeZbjvODqT9tKvi2EFqzBt9wK6wBmwPD8rDAxFXQe5IZ8iGdNxE2tLPSH9M92P4
+         gagqaXyVYvS1AIXCK54Cg+/QYDUuqbeIqhOtDVdcS3SHivA5YEAicVO6qyotsGVTRsHf
+         0DxOF8D2WihQ/CN6CzsAZJdc/VV/jC0qd57rwMNPBwFd25mRXrQq+FGpgxBflfDjgkgm
+         0993wztLZUb9npOAzvhjK/143dTGBto0qdGmXy0vXelQ/4ThQYX1HlmSOglwbwkLhIlz
+         XV7h1RCG0PRxGvH9b/7VyhzUOn5iJYblgfm/d/bt/HnRMvyOpMMtXE3saTklUwQQbU50
+         cS0w==
+MIME-Version: 1.0
+X-Received: by 10.152.43.77 with SMTP id u13mr261672lal.7.1406195998963; Thu,
+ 24 Jul 2014 02:59:58 -0700 (PDT)
+Reply-To: Ingo Skupin <ingo.skupin@googlemail.com>
+Auto-Submitted: auto-generated
+Message-ID: <001a11c3647400bf2004feed8571@google.com>
+Date: Thu, 24 Jul 2014 09:59:58 +0000
+Subject: Erinnerung: treffen Michael am Fr 25. Jul. 2014 12:00 - 13:00 (ingo.skupin@googlemail.com)
+From: Google Kalender <calendar-notification@google.com>
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Content-Type: multipart/alternative; boundary=001a11c3647400beee04feed856e
+
+--001a11c3647400beee04feed856e
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed; delsp=yes
+Content-Transfer-Encoding: base64
+
+RGllcyBpc3QgZWluZSBFcmlubmVydW5nIGb8cjoNCg0KVGl0ZWw6IHRyZWZmZW4gTWljaGFlbA0K
+V2FubjogRnIgMjUuIEp1bC4gMjAxNCAxMjowMCAtIDEzOjAwIEFtc3RlcmRhbQ0KS2FsZW5kZXI6
+IGluZ28uc2t1cGluQGdvb2dsZW1haWwuY29tDQpXZXINCiAgICAgKiBJbmdvIFNrdXBpbiAtIE9y
+Z2FuaXNhdG9yDQoNClRlcm1pbmluZm9ybWF0aW9uZW46ICANCmh0dHBzOi8vd3d3Lmdvb2dsZS5j
+b20vY2FsZW5kYXIvZXZlbnQ/YWN0aW9uPVZJRVcmZWlkPU16YzNZamx4YnpVME0ySXpaakpsT0hC
+cmFqVnJZbkJ5YVRnZ2FXNW5ieTV6YTNWd2FXNUFaMjl2WjJ4bGJXRnBiQzVqYjIwJnRvaz1Nallq
+YVc1bmJ5NXphM1Z3YVc1QVoyOXZaMnhsYldGcGJDNWpiMjA1T1RCaE9HUXpNVEl3TlRoaU5tRTNP
+VEF6WkRGaE56azNZelE0TldSaVpHVTFPVFUxTkRBeCZjdHo9RXVyb3BlL0Ftc3RlcmRhbSZobD1k
+ZQ0KDQpFaW5sYWR1bmcgdm9uIEdvb2dsZSBLYWxlbmRlcjogaHR0cHM6Ly93d3cuZ29vZ2xlLmNv
+bS9jYWxlbmRhci8NCg0KU2llIGhhYmVuIGVpbmUgRS1NYWlsIGFuIGluZ28uc2t1cGluQGdvb2ds
+ZW1haWwuY29tIGVyaGFsdGVuLCB3ZWlsIFNpZSBlaW5lICANCkVyaW5uZXJ1bmcgZvxyIGRpZXNl
+biBUZXJtaW4gYXVmIGRlbSBLYWxlbmRlciBpbmdvLnNrdXBpbkBnb29nbGVtYWlsLmNvbSAgDQpl
+aW5nZXJpY2h0ZXQgaGFiZW4uDQoNClNpZSBr9m5uZW4gSWhyZSBFcmlubmVydW5nZW4gZvxyIGJl
+c3RpbW10ZSBUZXJtaW5lICBhdWYgZGVyIFNlaXRlIGb8ciAgDQpUZXJtaW5kZXRhaWxzIHVudGVy
+IGh0dHBzOi8vd3d3Lmdvb2dsZS5jb20vY2FsZW5kYXIvIORuZGVybi4NCg==
+--001a11c3647400beee04feed856e
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+<div style=3D""><table cellspacing=3D"0" cellpadding=3D"8" border=3D"0" sum=
+mary=3D"" style=3D"width:100%;font-family:Arial,Sans-serif;border:1px Solid=
+ #ccc;border-width:1px 2px 2px 1px;background-color:#fff;" itemscope itemty=
+pe=3D"http://schema.org/Event"><tr><td><meta itemprop=3D"eventStatus" conte=
+nt=3D"http://schema.org/EventScheduled"/><div style=3D"padding:2px"><span i=
+temprop=3D"publisher" itemscope itemtype=3D"http://schema.org/Organization"=
+><meta itemprop=3D"name" content=3D"Google Calendar"/></span><meta itemprop=
+=3D"eventId/googleCalendar" content=3D"377b9qo543b3f2e8pkj5kbpri8"/><div st=
+yle=3D"float:right;font-weight:bold;font-size:13px"> <a href=3D"https://www=
+.google.com/calendar/event?action=3DVIEW&amp;eid=3DMzc3YjlxbzU0M2IzZjJlOHBr=
+ajVrYnByaTggaW5nby5za3VwaW5AZ29vZ2xlbWFpbC5jb20&amp;tok=3DMjYjaW5nby5za3Vwa=
+W5AZ29vZ2xlbWFpbC5jb205OTBhOGQzMTIwNThiNmE3OTAzZDFhNzk3YzQ4NWRiZGU1OTU1NDAx=
+&amp;ctz=3DEurope/Amsterdam&amp;hl=3Dde" style=3D"color:#20c;white-space:no=
+wrap" itemprop=3D"url">Mehr Details &raquo;</a><br></div><h3 style=3D"paddi=
+ng:0 0 6px 0;margin:0;font-family:Arial,Sans-serif;font-size:16px;font-weig=
+ht:bold;color:#222"><span itemprop=3D"name">treffen Michael</span></h3><tab=
+le cellpadding=3D"0" cellspacing=3D"0" border=3D"0" summary=3D"Termindetail=
+s"><tr><td style=3D"padding:0 1em 10px 0;font-family:Arial,Sans-serif;font-=
+size:13px;color:#888;white-space:nowrap" valign=3D"top"><div><i style=3D"fo=
+nt-style:normal">Wann</i></div></td><td style=3D"padding-bottom:10px;font-f=
+amily:Arial,Sans-serif;font-size:13px;color:#222" valign=3D"top"><time item=
+prop=3D"startDate" datetime=3D"20140725T100000Z"></time><time itemprop=3D"e=
+ndDate" datetime=3D"20140725T110000Z"></time>Fr 25. Jul. 2014 12:00 &ndash;=
+ 13:00 <span style=3D"color:#888">Amsterdam</span></td></tr><tr><td style=
+=3D"padding:0 1em 10px 0;font-family:Arial,Sans-serif;font-size:13px;color:=
+#888;white-space:nowrap" valign=3D"top"><div><i style=3D"font-style:normal"=
+>Kalender</i></div></td><td style=3D"padding-bottom:10px;font-family:Arial,=
+Sans-serif;font-size:13px;color:#222" valign=3D"top">ingo.skupin@googlemail=
+.com</td></tr><tr><td style=3D"padding:0 1em 10px 0;font-family:Arial,Sans-=
+serif;font-size:13px;color:#888;white-space:nowrap" valign=3D"top"><div><i =
+style=3D"font-style:normal">Wer</i></div></td><td style=3D"padding-bottom:1=
+0px;font-family:Arial,Sans-serif;font-size:13px;color:#222" valign=3D"top">=
+<table cellspacing=3D"0" cellpadding=3D"0"><tr><td style=3D"padding-right:1=
+0px;font-family:Arial,Sans-serif;font-size:13px;color:#222"><span style=3D"=
+font-family:Courier New,monospace">&#x2022;</span></td><td style=3D"padding=
+-right:10px;font-family:Arial,Sans-serif;font-size:13px;color:#222"><div><d=
+iv style=3D"margin:0 0 0.3em 0"><span itemprop=3D"attendee" itemscope itemt=
+ype=3D"http://schema.org/Person"><span itemprop=3D"name">Ingo Skupin</span>=
+<meta itemprop=3D"email" content=3D"ingo.skupin@googlemail.com"/></span><sp=
+an style=3D"font-size:11px;color:#888"> - Organisator</span></div></div></t=
+d></tr></table></td></tr></table></div></td></tr><tr><td style=3D"backgroun=
+d-color:#f6f6f6;color:#888;border-top:1px Solid #ccc;font-family:Arial,Sans=
+-serif;font-size:11px"><p>Einladung von <a href=3D"https://www.google.com/c=
+alendar/" target=3D"_blank" style=3D"">Google Kalender</a></p><p>Sie haben =
+eine E-Mail an ingo.skupin@googlemail.com erhalten, weil Sie eine Erinnerun=
+g f=FCr diesen Termin auf dem Kalender ingo.skupin@googlemail.com eingerich=
+tet haben.</p><p>Sie k=F6nnen Ihre Erinnerungen f=FCr bestimmte Termine  au=
+f der Seite f=FCr Termindetails unter https://www.google.com/calendar/ =E4n=
+dern.</p></td></tr></table></div>
+--001a11c3647400beee04feed856e--

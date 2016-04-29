@@ -1,0 +1,126 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.170.115.140 with SMTP id h134csp104763ykb;
+        Sat, 10 May 2014 11:00:46 -0700 (PDT)
+X-Received: by 10.14.201.1 with SMTP id a1mr21035383eeo.71.1399744845937;
+        Sat, 10 May 2014 11:00:45 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTPS id d5si6751429eei.58.2014.05.10.11.00.45
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 10 May 2014 11:00:45 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb104)
+ with ESMTPS (Nemesis) id 0Lms6a-1XJdOC3Nkq-00h7YE for
+ <ingo.skupin@gmail.com>; Sat, 10 May 2014 20:00:45 +0200
+Received: from mailhost4.inet.dkfz-heidelberg.de ([193.174.53.139]) by
+ mx-ha.web.de (mxweb104) with ESMTPS (Nemesis) id 0MFeUT-1WdwnB3NSf-00Ehct for
+ <ingo.skupin@web.de>; Sat, 10 May 2014 20:00:44 +0200
+Received: from dkfzmh02.ad.dkfz-heidelberg.de (dkfzmh02.inet.dkfz-heidelberg.de [193.174.53.81])
+	by mailhost2.inet.dkfz-heidelberg.de (8.13.8/8.13.8) with ESMTP id s4AI0caX015710
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=FAIL);
+	Sat, 10 May 2014 20:00:38 +0200
+Received: from DKFZEX01.ad.dkfz-heidelberg.de ([193.174.53.79]) by
+ dkfzmh02.ad.dkfz-heidelberg.de ([193.174.56.4]) with mapi; Sat, 10 May 2014
+ 20:00:38 +0200
+From: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+To: Florian Sebert <florian@floriansebert.de>
+CC: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>,
+        Martina
+	<martina@pfister-heidelberg.de>,
+        "sabine@pfister-tuebingen.de"
+	<sabine@pfister-tuebingen.de>,
+        Yannick Frey <yannick.frey1994@web.de>,
+        Steffen Sautter <steffen.sautter@web.de>,
+        Tizian Decker
+	<tizian_decker@web.de>, Lena Hahn <LenaHahn20@web.de>,
+        "raphael@rothschink.de" <raphael@rothschink.de>,
+        Lukas Fischer
+	<l.fischer@3-1415.de>, Ingo Skupin <ingo.skupin@web.de>,
+        Julia Wollny
+	<wollny.julia@me.com>,
+        "tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>,
+        "Dr.
+ Stefan Wiehr" <stefan@wiehr.de>,
+        Rainer Pfister <rainer.pfister@me.com>, Daniel Metzger <jandan@gmx.de>,
+        "Harry D. Bath" <harryd.bath@t-online.de>,
+        "kinderaerztin_susanne@t-online.de" <kinderaerztin_susanne@t-online.de>,
+        Ruth
+	<ruth-1935@web.de>, Gerhard Nagel <grnagel@web.de>
+Date: Sat, 10 May 2014 20:00:36 +0200
+Subject: Re: Kommende Probentermine etc.
+Thread-Topic: Kommende Probentermine etc.
+Thread-Index: Ac9seb+7szDfEPPCT1G08O/o0GL2pg==
+Message-ID: <89D9D512-D361-4E21-8734-83EDCFA67ACF@dkfz.de>
+References: <001e01cf64c4$4cce4d70$e66ae850$@pfister-heidelberg.de>
+ <9C7CC248-AF81-4A44-8131-DF86C7D5C0D0@dkfz.de>
+ <CAN1A5uDbLs-e90PWCJfSZfgDN1qAgRLGDmnZBcMJTMcOa-hyxA@mail.gmail.com>
+In-Reply-To: <CAN1A5uDbLs-e90PWCJfSZfgDN1qAgRLGDmnZBcMJTMcOa-hyxA@mail.gmail.com>
+Accept-Language: de-DE
+Content-Language: de-DE
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: de-DE
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+
+UGVyZm9ybWFuY2Ugd2FyIHp1IGxhbmd3ZWlsaWcgLSBnYW56IG9obmUgS25pZW4gLSBkYXMgZ2Fi
+IEFiesO8Z2UgaW4gZGVyIEItTm90ZSAoLToNCg0KU3RlZmFuDQoNClByb2YuIERyLiBTdGVmYW4g
+TS4gUGZpc3Rlcg0KRGl2aXNpb24gb2YgUGVkaWF0cmljIE5ldXJvb25jb2xvZ3kNCkdlcm1hbiBD
+YW5jZXIgUmVzZWFyY2ggQ2VudGVyIChES0ZaKQ0KRGVwYXJ0bWVudCBvZiBQZWRpYXRyaWMgSGVt
+YXRvbG9neSBhbmQgT25jb2xvZ3kNCkhlaWRlbGJlcmcgVW5pdmVyc2l0eSBIb3NwaXRhbA0KDQoN
+Cg0KQW0gMTAuMDUuMjAxNCB1bSAxOTozNyBzY2hyaWViICJGbG9yaWFuIFNlYmVydCIgPGZsb3Jp
+YW5AZmxvcmlhbnNlYmVydC5kZTxtYWlsdG86ZmxvcmlhbkBmbG9yaWFuc2ViZXJ0LmRlPj46DQoN
+CkphIHNwaW5uZW4gZGllPz8/IFdvIHNvbGxlbiB3aXIgZGVubiBkaWUgMyBQdW5rdGUgZ2VsYXNz
+ZW4gaGFiZW4/Pz8NCg0KV29iZWkgLSB3YWhyc2NoZWlubGljaCBow6R0dGUgZWluIHJvdGVzIEhh
+bHN0dWNoIGRlbiBBdXNjaGxhZyBnZWdlYmVuLi4uDQoNCm9kZXIgaGFsdCBSZWJlbCwgVGFrdCAy
+MDZmZi4uLg0KDQoNCjIwMTQtMDUtMTAgMTg6NDUgR01UKzAyOjAwIFBmaXN0ZXIsIFN0ZWZhbiA8
+Uy5QZmlzdGVyQGRrZnotaGVpZGVsYmVyZy5kZTxtYWlsdG86Uy5QZmlzdGVyQGRrZnotaGVpZGVs
+YmVyZy5kZT4+Og0KSGFsbG8gYWxsZSENCg0KU2FiaW5lICYgUmFpbmVyIGhhYmVuIGdlcmFkZSBh
+bmdlcnVmZW4sIGRhc3Mgd2lyIDk3IHZvbiAxMDAgUHVua3RlIGJla29tbWVuIHVuZCBtaXQgaGVy
+dm9ycmFnZW5kZW0gRXJmb2xnIHRlaWxuZ2Vub21tZW4gaGFiZW4gKC06DQoNCkRpZSBGcmF1LCBk
+aWUgZGllIFVya3VuZGVuIMO8YmVyZ2ViZW4gaGF0LCBzcHJhY2ggdm9uIGVpbmVtICJsZWdlbmTD
+pHJlbiBBdWZ0cml0dCIgLSBkYSBtdXNzIEhhcnJ5IHdvaGwgc2Nob24gd2llZGVyIG1pdCB1bnMg
+enVmcmllZGVuIHNlaW4gKC06DQoNClZpZWxlbiBEYW5rIEV1Y2ggYWxsZW4gLSBJaHIgc2VpZCBl
+Y2h0IGVpbmUgdG9sbGUgTWFubnNjaGFmdCENCg0KVmllbGUgR3LDvHNzZSwNCg0KRXVyZSBIZWlk
+ZWxiZXJnZXINCg0KUHJvZi4gRHIuIFN0ZWZhbiBNLiBQZmlzdGVyDQpEaXZpc2lvbiBvZiBQZWRp
+YXRyaWMgTmV1cm9vbmNvbG9neQ0KR2VybWFuIENhbmNlciBSZXNlYXJjaCBDZW50ZXIgKERLRlop
+DQpEZXBhcnRtZW50IG9mIFBlZGlhdHJpYyBIZW1hdG9sb2d5IGFuZCBPbmNvbG9neQ0KSGVpZGVs
+YmVyZyBVbml2ZXJzaXR5IEhvc3BpdGFsDQoNCg0KDQpBbSAwMS4wNS4yMDE0IHVtIDAwOjUxIHNj
+aHJpZWIgIk1hcnRpbmEiIDxtYXJ0aW5hQHBmaXN0ZXItaGVpZGVsYmVyZy5kZTxtYWlsdG86bWFy
+dGluYUBwZmlzdGVyLWhlaWRlbGJlcmcuZGU+PG1haWx0bzptYXJ0aW5hQHBmaXN0ZXItaGVpZGVs
+YmVyZy5kZTxtYWlsdG86bWFydGluYUBwZmlzdGVyLWhlaWRlbGJlcmcuZGU+Pj46DQoNCkhhbGxv
+IElociBMaWViZW4sDQoNCmRpZXNtYWwga2VpbmUg4oCeQmlsZGVyLU1haWzigJwsIHNvbmRlcm4g
+bnVyIGxhbmd3ZWlsaWdlIEVuc2VtYmxlLVRlcm1pbmUg4pi6Lg0KV2lyIGhvZmZlbiBlcyBzaW5k
+IG1pdHRsZXJ3ZWlsZSBhbGxlIHdpZWRlciBhdXNnZXNjaGxhZmVuIDstKS4NCg0KS3VyemVyIMOc
+YmVyYmxpY2sgenUgZGVtIHdhcyBrb21tdCB1bmQgZWluZSBUZXJtaW5hbmZyYWdlIG1pdCBkZXIg
+Qml0dGUgdW0gYmFsZGlnZSBSw7xja21lbGR1bmcuDQoNCk1haQ0KDQoNCjEuICAgICAgQW0gMTAu
+MDUuIGltIEt1bHR1ci0gdW5kIEJpbGR1bmdzemVudHJ1bSDigJxLdWJpeuKAnCBkZXIgU3RhZHQg
+w5ZocmluZ2VuIGluIGRlciBIaW5kZW5idXJnc3RyYcOfZSA0NiwgIGlzdCAyMCBrbSB3ZWcgdm9u
+IFVudGVyZ3J1cHBlbmJhY2gsIFRyZWZmcHVua3QgOSBVaHIsIFdlZ2Jlc2NocmVpYnVuZyBmb2xn
+dCBpbiBnZXRyZW5udGVyIE1haWwNCg0KMi4gICAgICBBbSAxMS4wNS4ga2VpbmUgUHJvYmUNCg0K
+SnVuaQ0KDQoxNC4vMTUuMDYuIG1hbmdlbHMgS29uemVydCBhdWNoIGtlaW5lIFByb2JlIHVuZCBh
+bSAyMi4wNi4gbmFjaCBkZW0gRmVzdCBpbiBIRCBhdWNoIG5pY2h0DQoNCg0KSnVsaQ0KRGFmw7xy
+IGFiZXIgZGllIFByb2JlIGltIEp1bGksIGhpZXIgd2VyZGUgaWNoIGbDvHIgZWluZW4gZGVyIFRh
+Z2UgZWluIOKAnk1pdHRhZ3Nrb256ZXJ04oCcIGltIFJlc3RhdXJhbnQgQ2FzaW5vIGFtIE5lY2th
+ciBhbmZyYWdlbiwgZGFiZWkNCmvDtm5uZW4gd2lyIGdsZWljaCBkaWUga29tbWVuZGVuIEtvbnpl
+cnRlIGJld2VyYmVuLg0KDQoNClNlcHRlbWJlcg0KS8O2bm50ZXQgSWhyIGFtIDEzLi8xNC4wOS4g
+ZsO8ciBlaW5lIHp1c8OkdHpsaWNoZSBQcm9iZT8NCkVpbmUgc29sY2hlIFByb2JlIGRpcmVrdCB2
+b3IgQmVsZ2llbiBzY2hlaW50IHVucyBzaW5udm9sbGVyIGFscyBlaW5lIGltIEp1bmkgbWl0IGVp
+bmVyIGFuc2NobGllw59lbmRlbiB2aWVyIHfDtmNoaWdlbiBQYXVzZS4NCg0KDQpMaWViZSBHcsO8
+w59lDQpNYXJ0aW5hDQoNCg0KDQpfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXw0KW2h0
+dHA6Ly9zdGF0aWMuYXZhc3QuY29tL2VtYWlscy9hdmFzdC1tYWlsLXN0YW1wLnBuZ108aHR0cDov
+L3d3dy5hdmFzdC5jb20vPg0KDQoNCkRpZXNlIEUtTWFpbCBpc3QgZnJlaSB2b24gVmlyZW4gdW5k
+IE1hbHdhcmUsIGRlbm4gZGVyIGF2YXN0ISBBbnRpdmlydXM8aHR0cDovL3d3dy5hdmFzdC5jb20v
+PiBTY2h1dHogaXN0IGFrdGl2Lg0KDQoNCg0KDQpfX19fX19fX19fX19fX19fX19fX19fX19fX19f
+X19fXw0KW2h0dHA6Ly9zdGF0aWMuYXZhc3QuY29tL2VtYWlscy9hdmFzdC1tYWlsLXN0YW1wLnBu
+Z10gPGh0dHA6Ly93d3cuYXZhc3QuY29tLz4NCg0KRGllc2UgRS1NYWlsIGlzdCBmcmVpIHZvbiBW
+aXJlbiB1bmQgTWFsd2FyZSwgZGVubiBkZXIgYXZhc3QhIEFudGl2aXJ1czxodHRwOi8vd3d3LmF2
+YXN0LmNvbS8+IFNjaHV0eiBpc3QgYWt0aXYuDQoNCg0KDQoNCg0KLS0NCkRyLiBGbG9yaWFuIFNl
+YmVydA0KZC1maW5lIEdtYkgNCk11bmljaCBPZmZpY2UNCkJhdmFyaWFmaWxtcGxhdHogOCwgODIw
+MzEgR3LDvG53YWxkDQpNb2JpbCArNDkgKDApMTYyIDI2MzEzMzQNClRlbCAgICArNDkgKDApODkg
+NzkwODYxNyAzOTENCkZheCAgICs0OSAoMCk4OSA3OTA4NjE3IDIwMg0Kd3d3LmQtZmluZS5kZTxo
+dHRwOi8vd3d3LmQtZmluZS5kZT4NCg==

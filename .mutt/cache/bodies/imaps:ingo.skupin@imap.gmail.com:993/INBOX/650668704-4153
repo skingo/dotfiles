@@ -1,0 +1,97 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.241.141 with SMTP id le13csp35809vcb;
+        Sat, 3 Nov 2012 05:13:27 -0700 (PDT)
+Received: by 10.14.179.69 with SMTP id g45mr16616395eem.42.1351944807247;
+        Sat, 03 Nov 2012 05:13:27 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTP id z46si2710021eeo.28.2012.11.03.05.13.26;
+        Sat, 03 Nov 2012 05:13:27 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-ob0-f175.google.com ([209.85.214.175]) by mx-ha.web.de
+ (mxweb101) with ESMTP (Nemesis) id 0M2aoT-1TBrMW1AqD-00sG1Y for
+ <ingo.skupin@gmail.com>; Sat, 03 Nov 2012 13:13:26 +0100
+Received: by mail-ob0-f175.google.com with SMTP id eq6so4516056obc.20
+        for <multiple recipients>; Sat, 03 Nov 2012 05:13:24 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:date:x-google-sender-auth:message-id:subject
+         :from:to:content-type:content-transfer-encoding;
+        bh=5hnTKy4zi23IqkmsoUWONdAe6st3DG8BpeFh//i3vyE=;
+        b=Vq7sj9krPv+HB5O/4JNwUbFBT282NOys3zQRjh5OZVk/PjT/r7Urw6jOsSnKiyblpx
+         Qaqfy9KB2SRD0CzZ/kz5fin03409DYhgDHKPN2PC4wCJzrsEkawuKr/xUNJdp9pT5VhV
+         pNo6JMtGEKG9OJNSeildpUjdn96VJ6wiIs0Ta7LuZdsbYx7vHmZg1OELMMjhIxJCN+zc
+         Hdwnm3YuEfVCjKHvFu1EDLxjxu/XnOdLZFIjoE93QMbbLwjGc31mdUYGFxGhKzC1QaDU
+         lvT8Us6A7yND4YkUUI554NnW2X9ng5kbu7UI7xTQ/YXhe9MyPlKPnwkFVTFKn3TpwcKi
+         OETA==
+MIME-Version: 1.0
+Received: by 10.60.170.176 with SMTP id an16mr3589679oec.57.1351944803969;
+ Sat, 03 Nov 2012 05:13:23 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.76.12.199 with HTTP; Sat, 3 Nov 2012 05:13:23 -0700 (PDT)
+Date: Sat, 3 Nov 2012 13:13:23 +0100
+X-Google-Sender-Auth: eE65yFbPGWBpiSAdY-Ci_RrgxAk
+Message-ID: <CAN1A5uBBYosBw1oskAn1uiaTPGZEH+DpcPCMZZ9LVmV+Bj3tVQ@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?T=FCbinger_Saxophon_Ensemble_=2D_Besetzung?=
+From: Florian Sebert <florian@floriansebert.de>
+To: martina@pfister-heidelberg.de, 
+	Sabine Pfister <pfistersabine@googlemail.com>, 
+	Stefan Pfister <s.pfister@dkfz-heidelberg.de>, jandan@gmx.de, 
+	Florian Sebert <florian@floriansebert.de>, Steffen Sautter <steffen.sautter@web.de>, 
+	Yannick Frey <yannick.frey1994@web.de>, Tizian Decker <tizian_decker@web.de>, 
+	Anna-Nora zur Nieden <norazurnieden@googlemail.com>, Ingo Skupin <ingo.skupin@web.de>, 
+	christian.hofstaetter@onlinehome.de, Rainer Pfister <rainer.pfister@me.com>, 
+	"Dr. Stefan Wiehr" <stefan@wiehr.de>, Christine Erchinger <christine-erchinger@web.de>, 
+	Lukas Fischer <lukasfischer1@aol.com>, Hartmut Nagel <hartmut_nagel@web.de>, 
+	Christoph Neumann <mail.christoph.neumann@googlemail.com>, 
+	"Harry D. Bath" <harryd.bath@t-online.de>, 
+	"kinderaerztin_susanne@t-online.de Pfister" <kinderaerztin_susanne@t-online.de>, Gerhard Nagel <grnagel@web.de>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+aus gegebenem Anlass m=F6chte ich alle Mitglieder des Ensembles
+freundlich bitten und zugleich nachdr=FCcklich dazu aufrufen die unter
+dem unten angegebenen Link abgelegte Besetzungsliste um die jeweils
+eigenen Stimmen zu komplettieren.
+
+Die Struktur ist (zugunsten der Benutzerfreundlichkeit) denkbar
+einfach (flache Struktur) gew=E4hlt:
+
+- Datum: Datum, an dem das angegebene St=FCck in der angegebenen
+Bestzung zuletzt gespielt wurde (z.B. das letzte Konzert)
+- Komponist: Name des Komponisten (wenn schon Eintr=E4ge f=FCr einen
+Komponisten existieren bitte die selbe Schreibweise verwenden oder
+alle Eintr=E4ge korrigieren)
+- St=FCck: Titel des St=FCckes (wenn schon Eintr=E4ge f=FCr ein St=FCck
+existieren bitte die selbe Schreibweise verwenden oder alle Eintr=E4ge
+korrigieren)
+- Spieler: Vor- und Zunahme des Spielers
+- Instrument: Sopran / Alt / Tenor / Bariton / Bass
+- Stimme: 1 / 2 / 3 / 4 etc.
+
+Die Liste dient zum einen der =DCbersicht =FCber die aktuelle
+Stimmverteilung des derzeitigen Repertoires, zum anderen aber auch der
+effizienteren Stimmenvergabe wenn St=FCcke gespielt werden sollen, die
+in der Vergangenheit schon einstudiert wurden.
+
+Wenn sich also jemand erinnert, bei einem bestimmten St=FCck vormals
+eine andere als die aktuell zugeteilte Stimme gespielt zu haben, w=E4re
+es w=FCnschenswert, auch daf=FCr einen eigenen Eintrag vorzunehmen.
+Gleiches gilt f=FCr St=FCcke, die zur Zeit nicht im Programm sind. In
+diesen beiden F=E4llen als fiktives Datum dann bitte den 01.01.2012
+w=E4hlen.
+
+Noch Fragen? Nein? Gut! Falls doch, gerne per Mail.
+
+Und hier ist der Link:
+
+https://docs.google.com/spreadsheet/ccc?key=3D0Au6HpNesXPSSdGc4UmJXYk1YeWZP=
+R1d3Vk83MzFRMEE
+
+Sollte ich jemanden vergessen haben, bitte weiterleiten.
+
+Vielen Dank und viele Gr=FC=DFe,
+Florian

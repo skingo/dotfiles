@@ -1,0 +1,95 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.133.36 with SMTP id oz4csp69567lbb;
+        Mon, 29 Apr 2013 10:45:05 -0700 (PDT)
+X-Received: by 10.14.213.67 with SMTP id z43mr3807043eeo.16.1367257505009;
+        Mon, 29 Apr 2013 10:45:05 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id z5si10762889eee.250.2013.04.29.10.45.04
+        for <ingo.skupin@gmail.com>;
+        Mon, 29 Apr 2013 10:45:05 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass (test mode) header.i=@dropbox.com;
+       dmarc=pass (p=NONE dis=none) d=dropbox.com
+Received: from sjc-smtp10.sjc.dropbox.com ([199.47.218.208]) by mx-ha.web.de
+ (mxweb107) with ESMTP (Nemesis) id 0MVeyJ-1TyWy70Rw7-00Z9jz for
+ <ingo.skupin@gmail.com>; Mon, 29 Apr 2013 19:45:04 +0200
+Received: from snt-web1067.sjc.dropbox.com (snt-web1067.sjc.dropbox.com [10.12.68.160])
+	by sjc-smtp10.sjc.dropbox.com (Postfix) with ESMTP id 2E901321596
+	for <ingo.skupin@web.de>; Mon, 29 Apr 2013 17:45:03 +0000 (UTC)
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=dropbox.com; s=m1;
+	t=1367257503; bh=wEjMB6/NTzrWGvSnyCztlVfpCaBwKYBSKTvb3+0HWFk=;
+	h=Content-Type:MIME-Version:From:To:Subject:Date:Reply-To:
+	 Message-Id;
+	b=hUfVdFdNJi2uUE8M9pWoDY1XjoFymQ3zFlEkfkn/KTPgIXs47lkwMf4vkiYKtxHMb
+	 XKqrVjAbAikbuBBqoIof7ctYdUeJ1sYTd/EHdNhI0dkKOf1FAK1IUiPs3IkdAwRFUB
+	 lF25p8XGhuHTZoyqTLB9PF5Guhz9gu5obeHDeSWo=
+Received: from snt-web1067.sjc.dropbox.com (localhost [127.0.0.1])
+	by snt-web1067.sjc.dropbox.com (Postfix) with ESMTP id 281C913E0919
+	for <ingo.skupin@web.de>; Mon, 29 Apr 2013 17:45:03 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============2790925275992989557=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@web.de
+Subject: =?utf-8?q?Maximilian_Hanussek_hat_=E2=80=9EAlgo=E2=80=9C_f=C3=BCr_dich_fr?=
+ =?utf-8?q?eigegeben?=
+Date: Mon, 29 Apr 2013 17:45:03 +0000
+Reply-To: maxihanussek@gmx.de
+Message-Id: <20130429174503.281C913E0919@snt-web1067.sjc.dropbox.com>
+
+--===============2790925275992989557==
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+Hallo Ingo,
+
+Maximilian Hanussek hat dich mit der folgenden Nachricht zum freigegebenen =
+Dropbox-Ordner =E2=80=9EAlgo=E2=80=9C eingeladen:
+
+=E2=80=9EHier die Dropbox Einladung f=C3=BCr Algo.=E2=80=9C
+
+Sieh dir den Ordner unter https://www.dropbox.com/l/2Jj13whNRgHya6Sl16G6u9/=
+invite an
+--===============2790925275992989557==
+Content-Type: text/html; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+
+<center><table cellpadding=3D"8" cellspacing=3D"0" style=3D"background-colo=
+r: #ffffff; background: #ffffff; width: 100% !important; margin: 0; padding=
+: 0; *width:528px;" border=3D"0"><tr><td valign=3D"top">
+<table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0"><t=
+r><td bgcolor=3D"#b9e1fb" align=3D"center" style=3D"font-size: 0px;" height=
+=3D"1"><img src=3D"https://www.dropbox.com/static/images/emails/email_heade=
+r.jpg" alt=3D"" style=3D"width:100%; max-height:129px; *width:528px; *heigh=
+t:129px;"></td></tr><tr><td><table cellpadding=3D"0" cellspacing=3D"0" styl=
+e=3D"border-left: 1px #b9e1fb solid; border-right: 1px #b9e1fb solid; borde=
+r-bottom: 1px #b9e1fb solid; -webkit-border-radius: 0px 0px 4px 4px; border=
+-radius: 0px 0px 4px 4px; -moz-border-radius-bottomright: 4px; -moz-border-=
+radius-bottomleft: 4px;" border=3D"0" align=3D"center"><tr><td colspan=3D"3=
+" height=3D"36"></td></tr><tr><td width=3D"36"></td>
+<td width=3D"454" style=3D"font-size: 14px; color: #444444; font-family: 'O=
+pen Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicod=
+e', Tahoma, 'Sans Serif'; border-collapse: collapse;" align=3D"left" valign=
+=3D"top">   Hallo Ingo,<br><br>  Maximilian Hanussek hat dich mit der folge=
+nden Nachricht zum freigegebenen Dropbox-Ordner =E2=80=9EAlgo=E2=80=9C eing=
+eladen:<br><br><i>=E2=80=9EHier die Dropbox Einladung f=C3=BCr Algo.=E2=80=
+=9C</i><br><br><a href=3D"https://www.dropbox.com/l/ApjwEc0orWv8qt8tcrg5Lb/=
+invite">Schau dir  =E2=80=9EAlgo=E2=80=9C an</a>. </td>
+<td width=3D"36"></td>
+</tr><tr><td colspan=3D"3" height=3D"36"></td></tr></table></td></tr></tabl=
+e><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" border=3D"0">=
+<tr><td height=3D"10"></td></tr><tr><td style=3D"padding: 0; border-collaps=
+e: collapse;"><table cellpadding=3D"0" cellspacing=3D"0" align=3D"center" b=
+order=3D"0"><tr style=3D"font-size: 11px; color: #a8b9c6; font-family: 'Ope=
+n Sans', 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode'=
+, Tahoma, 'Sans Serif';" valign=3D"top"><td width=3D"400" align=3D"left"></=
+td>
+<td width=3D"128" align=3D"right">=C2=A9 2013 Dropbox</td>
+</tr></table></td></tr></table></td></tr></table></center><img width=3D"1" =
+src=3D"https://www.dropbox.com/l/XyjGIpaPAoNT1p44vS16na" height=3D"1" />
+--===============2790925275992989557==--

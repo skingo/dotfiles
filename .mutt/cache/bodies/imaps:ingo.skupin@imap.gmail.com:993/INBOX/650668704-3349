@@ -1,0 +1,107 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.13.225 with SMTP id d33csp128611vca;
+        Sat, 21 Jul 2012 15:33:47 -0700 (PDT)
+Received: by 10.216.93.81 with SMTP id k59mr4942044wef.144.1342910027285;
+        Sat, 21 Jul 2012 15:33:47 -0700 (PDT)
+Return-Path: <pfeifer.jonas@googlemail.com>
+Received: from mail-wi0-f177.google.com (mail-wi0-f177.google.com [209.85.212.177])
+        by mx.google.com with ESMTPS id a6si6362289wix.26.2012.07.21.15.33.46
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Sat, 21 Jul 2012 15:33:47 -0700 (PDT)
+Received-SPF: pass (google.com: domain of pfeifer.jonas@googlemail.com designates 209.85.212.177 as permitted sender) client-ip=209.85.212.177;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of pfeifer.jonas@googlemail.com designates 209.85.212.177 as permitted sender) smtp.mail=pfeifer.jonas@googlemail.com; dkim=pass header.i=@googlemail.com
+Received: by mail-wi0-f177.google.com with SMTP id hm11so1387260wib.12
+        for <ingo.skupin@gmail.com>; Sat, 21 Jul 2012 15:33:46 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=message-id:date:from:user-agent:mime-version:to:subject
+         :content-type;
+        bh=iBwEZbDoatxZEXHYt4Q6mSeYxFqjmRCGuOwtTG5DXY4=;
+        b=QmVknQVwchj6eM/E0IjsseZuZ1OohFLy3qOpqpGtFMJIKsenePzrDKFqpD63dCnl6K
+         dJjeyvqLodLWQcCkNgfAwhxezruTu9FwK8dScDgNzQk/YtHuBFpvXokEczSI20N7sa6o
+         h9KYxafFWbH4+3tUaKr/zRwM7r5bferlb3ZLoNOvF1IgjvaSpLnlWl1z0WKnPsD2lz4d
+         i40nEA1EYdLPQwcW8PXDXG06MdL6YlFuOD2YhHDS0pk+Yz2Kq7mj1lNpEOXrI43NQKoU
+         hg04ezlXC2pCs7ZKxrxt+/WcydLlIogn8kLJq2360oKSG+yG3Gp+k4XzLrVVtwlk0uIf
+         AbUw==
+Received: by 10.180.81.138 with SMTP id a10mr24744044wiy.7.1342910026467;
+        Sat, 21 Jul 2012 15:33:46 -0700 (PDT)
+Return-Path: <pfeifer.jonas@googlemail.com>
+Received: from [192.168.0.4] (p4FDE3DCD.dip.t-dialin.net. [79.222.61.205])
+        by mx.google.com with ESMTPS id h9sm7110671wiz.1.2012.07.21.15.33.44
+        (version=SSLv3 cipher=OTHER);
+        Sat, 21 Jul 2012 15:33:45 -0700 (PDT)
+Message-ID: <500B2E47.2060403@gmail.com>
+Date: Sun, 22 Jul 2012 00:33:43 +0200
+From: Jonas Pfeifer <pfeifer.jonas@googlemail.com>
+User-Agent: Mozilla/5.0 (X11; Linux i686; rv:13.0) Gecko/20120614 Thunderbird/13.0.1
+MIME-Version: 1.0
+To: Stefan Ringhoffer <stefan.ringhoffer@hotmail.de>, 
+ Ingo Skupin <ingo.skupin@gmail.com>,
+ "Ruff, Manuel " <manuel.ruff@student.uni-tuebingen.de>, 
+ Benjamin Deuschle <benjamin.deuschle@gmx.de>
+Subject: projekt bierdeckelapp, kick off meeting
+Content-Type: multipart/alternative;
+ boundary="------------000202040109040708020703"
+
+This is a multi-part message in MIME format.
+--------------000202040109040708020703
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+tach zusammen,
+
+wie am dienstag besprochen, wollen wir uns am mittwoch, den 26.7 bei mir 
+treffen, um mal allgemein über das projekt zu reden, ein paar eckpunkte 
+festlegen uvm.
+
+es soll so gegen 13h losgehn, und wir haben vor zu grillen.
+falls jemand erst später kann, darf er gerne dazustossen.
+
+hier ist mal ne wiki page auf der wir den rest besprechen könnnen.
+http://lowrin.de/redmine/projects/bier/wiki/KickOff
++ gleichzeitig mit dem projektmanagmenttool redmine, bissle vertraut 
+machen :)
+
+namen: jonas/manu/benni/ingo/stefan pw. jeweils das selbe.
+
+
+bis dann.
+jonas
+
+
+--------------000202040109040708020703
+Content-Type: text/html; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+  </head>
+  <body bgcolor="#FFFFFF" text="#000000">
+    tach zusammen,<br>
+    <br>
+    wie am dienstag besprochen, wollen wir uns am mittwoch, den 26.7 bei
+    mir treffen, um mal allgemein &uuml;ber das projekt zu reden, ein paar
+    eckpunkte festlegen uvm.<br>
+    <br>
+    es soll so gegen 13h losgehn, und wir haben vor zu grillen.<br>
+    falls jemand erst sp&auml;ter kann, darf er gerne dazustossen.<br>
+    <br>
+    hier ist mal ne wiki page auf der wir den rest besprechen k&ouml;nnnen.<br>
+    <meta http-equiv="content-type" content="text/html;
+      charset=ISO-8859-1">
+    <a href="http://lowrin.de/redmine/projects/bier/wiki/KickOff">http://lowrin.de/redmine/projects/bier/wiki/KickOff</a><br>
+    + gleichzeitig mit dem projektmanagmenttool redmine, bissle vertraut
+    machen :)<br>
+    <br>
+    namen: jonas/manu/benni/ingo/stefan pw. jeweils das selbe.<br>
+    <br>
+    <br>
+    bis dann.<br>
+    jonas<br>
+    <br>
+  </body>
+</html>
+
+--------------000202040109040708020703--

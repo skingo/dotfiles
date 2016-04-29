@@ -1,0 +1,114 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.191.196 with SMTP id dn4csp32770vcb;
+        Tue, 20 Mar 2012 03:06:52 -0700 (PDT)
+Received: by 10.68.192.36 with SMTP id hd4mr21682671pbc.54.1332238011575;
+        Tue, 20 Mar 2012 03:06:51 -0700 (PDT)
+Return-Path: <no-reply@dropbox.com>
+Received: from sjc-smtp2.sjc.dropbox.com (sjc-smtp2.sjc.dropbox.com. [199.47.217.137])
+        by mx.google.com with ESMTPS id o5si1337881pbd.148.2012.03.20.03.06.51
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Tue, 20 Mar 2012 03:06:51 -0700 (PDT)
+Received-SPF: pass (google.com: domain of no-reply@dropbox.com designates 199.47.217.137 as permitted sender) client-ip=199.47.217.137;
+DomainKey-Status: good (test mode)
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of no-reply@dropbox.com designates 199.47.217.137 as permitted sender) smtp.mail=no-reply@dropbox.com; domainkeys=pass (test mode) header.From=no-reply@dropbox.com
+Received: from sjc-web175.sjc.dropbox.com (sjc-web175.sjc.dropbox.com [10.10.110.163])
+	by sjc-smtp2.sjc.dropbox.com (Postfix) with ESMTP id EB5B476033C
+	for <ingo.skupin@gmail.com>; Tue, 20 Mar 2012 10:06:50 +0000 (UTC)
+DomainKey-Signature: a=rsa-sha1; s=m1; d=dropbox.com; c=simple; q=dns;
+	b=PA4TLXK113YKlEZm0s/0K91SIAtw4Rz1W8sF70Qek1D0jd4VGHHZTzmqq5Fxbhg4k
+	GvoesPkMor1ZyhHUVleXjCnEKFtg+2Bu69tKTZ3IawriTzOMPH6HHpin+6mRoOn8AK8
+	lkzGJF/zeNXlaoXmdEUgP6QliID7dc8nPSeWIvQ=
+Received: from sjc-web175.sjc.dropbox.com (localhost [127.0.0.1])
+	by sjc-web175.sjc.dropbox.com (Postfix) with ESMTP id EA16AD406C4
+	for <ingo.skupin@gmail.com>; Tue, 20 Mar 2012 10:06:50 +0000 (UTC)
+Content-Type: multipart/alternative;
+	boundary="===============7599014105762800313=="
+MIME-Version: 1.0
+From: Dropbox <no-reply@dropbox.com>
+To: ingo.skupin@gmail.com
+Subject: Willkommen bei Dropbox!
+Date: Tue, 20 Mar 2012 10:06:50 +0000
+Message-Id: <20120320100650.EA16AD406C4@sjc-web175.sjc.dropbox.com>
+
+--===============7599014105762800313==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain; charset="utf-8"
+
+Hallo Ingo,
+
+so holst du das Beste aus deiner Dropbox heraus:
+
+- Lade Dropbox herunter und installiere die Software: http://www.dropbox.com/link/22.7WmOU_Ybd_.778c2ea60abba500
+- Alle Dateien, die du in deiner Dropbox speicherst, werden auch automatisch auf allen deinen Computern, Handys und sogar auf der Dropbox-Website gespeichert.
+- Über Dropbox kannst du Dokumente und Fotos problemlos freigeben und mit Kollegen an Projekten zusammenarbeiten.
+
+Um mehr zu Dropbox zu erfahren, schau dir unsere Tour unter http://www.dropbox.com/link/19.vM2OfvQXUO.778c2ea60abba500 an.
+
+Willkommen bei Dropbox!
+- Das Dropbox-Team
+
+P.S. Hole dir zusätzlichen kostenlosen Speicherplatz: http://www.dropbox.com/link/21.SPk_PVX3vs.778c2ea60abba500
+--===============7599014105762800313==
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/html; charset="utf-8"
+
+<table width="650" align="center" style="font-size: 14px;" cellpadding="0" cellspacing="0">
+        <tr id="topshadow">
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_tl.gif" bgcolor="#ffffff"></td>
+            <td height="10" background="https://www.dropbox.com/static/images/emails/shadow_top.gif" bgcolor="#ffffff"> </td>
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_tr.gif" bgcolor="#ffffff"> </td>
+        </tr>
+        
+        <tr id="header">
+            <td width="10" background="https://www.dropbox.com/static/images/emails/shadow_left.gif" bgcolor="#ffffff" rowspan="2"></td>
+            <td height="102" background="https://www.dropbox.com/static/images/emails/header_bg.gif" bgcolor="#e6f1fb" align="center">
+                <table width="95%"><tr>
+                    <td align="left">
+                        <img src="https://www.dropbox.com/static/images/emails/email_logo.gif"/>
+                    </td>
+                </tr></table>
+            </td>
+            <td width="10" background="https://www.dropbox.com/static/images/emails/shadow_right.gif" bgcolor="#ffffff" rowspan="2"> </td>
+        </tr>
+        
+        <tr id="content">
+            <td bgcolor="#f4faff" align="center">
+                <table width="95%" cellpadding="30">
+                    <tr>
+                        <td align="left">
+                            <font face="Lucida Grande, Segoe UI, Arial, Verdana, Lucida Sans Unicode, Tahoma, Sans Serif">
+    Hallo Ingo,<br/><br/>
+so holst du das Beste aus deiner Dropbox heraus:<br/>
+<ul><li><a href="http://www.dropbox.com/link/22.7WmOU_Ybd_.778c2ea60abba500">Lade Dropbox herunter und installiere</a> die Software.</li><br/>
+<li>Alle Dateien, die du in deiner Dropbox speicherst, werden auch automatisch auf allen deinen Computern, Handys und sogar auf der Dropbox-Website gespeichert.</li><br/>
+<li>Über Dropbox kannst du Dokumente und Fotos problemlos freigeben und mit Kollegen an Projekten zusammenarbeiten.</li></ul>
+Um mehr zu Dropbox zu erfahren, schau dir <a href="http://www.dropbox.com/link/19.vM2OfvQXUO.778c2ea60abba500">unsere Tour</a> an.<br/><br/>
+Willkommen bei Dropbox!<br/>
+- Das Dropbox-Team<br/><br/>
+P.S. <a href="http://www.dropbox.com/link/21.SPk_PVX3vs.778c2ea60abba500">Hole dir zusätzlichen kostenlosen Speicherplatz</a>.<br/>
+                            </font>
+                        </td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+        
+        <tr id="bottomshadow">
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_bl.gif" bgcolor="#ffffff"></td>
+            <td height="10" background="https://www.dropbox.com/static/images/emails/shadow_bottom.gif" bgcolor="#ffffff"> </td>
+            <td height="10" width="10" background="https://www.dropbox.com/static/images/emails/shadow_br.gif" bgcolor="#ffffff"> </td>
+        </tr>
+        
+    <tr id="copyright">
+        <td></td>
+        <td align="right">
+            <img src="https://www.dropbox.com/static/images/emails/gray_logo.gif" alt="" align="absmiddle"/>
+            <span style="font-family: 'Lucida Grande', 'Segoe UI', Arial, Verdana, 'Lucida Sans Unicode', Tahoma, 'Sans Serif'; font-size: 11px; color: #888;">&copy;&nbsp;2012&nbsp;Dropbox</span>
+        </td>
+        <td></td>
+    </tr>
+
+    </table>
+--===============7599014105762800313==--

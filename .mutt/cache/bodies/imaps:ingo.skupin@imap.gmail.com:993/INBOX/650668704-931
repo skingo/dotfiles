@@ -1,0 +1,185 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.6.14 with SMTP id 14cs94358vcx;
+        Wed, 9 Nov 2011 15:35:03 -0800 (PST)
+Received: by 10.223.76.27 with SMTP id a27mr7987310fak.12.1320881701597;
+        Wed, 09 Nov 2011 15:35:01 -0800 (PST)
+Return-Path: <MPfister@geuder.de>
+Received: from fmmailgate04.web.de (fmmailgate04.web.de. [217.72.192.242])
+        by mx.google.com with ESMTP id c1si2835409faa.206.2011.11.09.15.35.01;
+        Wed, 09 Nov 2011 15:35:01 -0800 (PST)
+Received-SPF: fail (google.com: domain of MPfister@geuder.de does not designate 217.72.192.242 as permitted sender) client-ip=217.72.192.242;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of MPfister@geuder.de does not designate 217.72.192.242 as permitted sender) smtp.mail=MPfister@geuder.de
+Received:  from mx50.web.de  ( [172.20.1.135])
+	by fmmailgate04.web.de (Postfix) with ESMTP id 199CB6EDFA75
+	for <ingo.skupin@gmail.com>; Thu, 10 Nov 2011 00:35:01 +0100 (CET)
+Received: from [217.91.80.1] (helo=mail.geuder.de)
+	by mx50.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1ROHfX-0003UZ-00; Thu, 10 Nov 2011 00:35:00 +0100
+X-MimeOLE: Produced By Microsoft Exchange V6.5
+Content-class: urn:content-classes:calendarmessage
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----_=_NextPart_001_01CC9F38.31E5509C"
+Subject: Abgesagt: Probewochenende/evtl. Konzert
+Date: Thu, 10 Nov 2011 00:34:58 +0100
+Message-ID: <1AA994205155AD4A861C5853D563F59A03E8559D@exchange1.geuder.local>
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+Thread-Topic: Probewochenende/evtl. Konzert
+Thread-Index: Acveqkfo4b8uvDNrT02CXWHp62abAjAjemkQ
+X-Priority: 1
+Priority: Urgent
+Importance: high
+From: "Pfister, Martina" <MPfister@geuder.de>
+To: <pfistersabine@googlemail.com>,
+	<valerie.bartel@gmx.de>,
+	<kingsaxello@googlemail.com>,
+	<florian@floriansebert.de>,
+	<steffen.sautter@web.de>,
+	<lukasfischer1@aol.com>,
+	<yannick.frey1994@web.de>,
+	<tizian_decker@web.de>,
+	<christine-erchinger@web.de>,
+	<stefan@wiehr.de>,
+	<ingo.skupin@web.de>,
+	<rainerschwab@blackforestentertainment.org>,
+	<hartmut_nagel@web.de>,
+	<harryd.bath@t-online.de>
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+This is a multi-part message in MIME format.
+
+------_=_NextPart_001_01CC9F38.31E5509C
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Zeit: Sonntag, 20. November 2011 09:00-20:00 (GMT+01:00) Amsterdam, =
+Berlin, Bern, Rom, Stockholm, Wien.
+Ort: Derendinger Stra=DFe 43/?
+
+*~*~*~*~*~*~*~*~*~*
+
+Wie besprochen, gestern habe ich endlich die letzte R=FCckmeldung bzgl. =
+Terminen bekommen und melde mich am WE mit dem aktuellen Plan
+
+------_=_NextPart_001_01CC9F38.31E5509C
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+<META HTTP-EQUIV=3D"Content-Type" CONTENT=3D"text/html; =
+charset=3Diso-8859-1">
+<META NAME=3D"Generator" CONTENT=3D"MS Exchange Server version =
+6.5.7654.12">
+<TITLE>Abgesagt: Probewochenende/evtl. Konzert</TITLE>
+</HEAD>
+<BODY>
+<!-- Converted from text/rtf format -->
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Zeit: Sonntag, 20. November 2011 =
+09:00-20:00 (GMT+01:00) Amsterdam, Berlin, Bern, Rom, Stockholm, =
+Wien.</FONT>
+
+<BR><FONT SIZE=3D2 FACE=3D"Arial">Ort: Derendinger Stra=DFe 43/?</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">*~*~*~*~*~*~*~*~*~*</FONT>
+</P>
+
+<P><FONT SIZE=3D2 FACE=3D"Arial">Wie besprochen, gestern habe ich =
+endlich die letzte R=FCckmeldung bzgl. Terminen bekommen und melde mich =
+am WE mit dem aktuellen Plan</FONT></P>
+
+</BODY>
+</HTML>
+------_=_NextPart_001_01CC9F38.31E5509C
+Content-class: urn:content-classes:calendarmessage
+Content-Type: text/calendar;
+	method=CANCEL;
+	name="meeting.ics"
+Content-Transfer-Encoding: 8bit
+
+BEGIN:VCALENDAR
+METHOD:CANCEL
+PRODID:Microsoft CDO for Microsoft Exchange
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:(GMT+01.00) Sarajevo/Warsaw/Zagreb
+X-MICROSOFT-CDO-TZID:2
+BEGIN:STANDARD
+DTSTART:16010101T030000
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T020000
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+RRULE:FREQ=YEARLY;WKST=MO;INTERVAL=1;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTAMP:20111109T233458Z
+DTSTART;TZID="(GMT+01.00) Sarajevo/Warsaw/Zagreb":20111120T090000
+SUMMARY:Abgesagt: Probewochenende/evtl. Konzert
+UID:040000008200E00074C5B7101A82E00800000000F07DACA9B2DECB01000000000000000
+ 010000000ADD74E91F9C033458687856B3DD8D7C2
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="pfistersa
+ bine@googlemail.com":MAILTO:pfistersabine@googlemail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="valerie.b
+ artel@gmx.de":MAILTO:valerie.bartel@gmx.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="kingsaxel
+ lo@googlemail.com":MAILTO:kingsaxello@googlemail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="florian@f
+ loriansebert.de":MAILTO:florian@floriansebert.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="steffen.s
+ autter@web.de":MAILTO:steffen.sautter@web.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="lukasfisc
+ her1@aol.com":MAILTO:lukasfischer1@aol.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="yannick.f
+ rey1994@web.de":MAILTO:yannick.frey1994@web.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="tizian_de
+ cker@web.de":MAILTO:tizian_decker@web.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="christine
+ -erchinger@web.de":MAILTO:christine-erchinger@web.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="stefan@wi
+ ehr.de":MAILTO:stefan@wiehr.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="ingo.skup
+ in@web.de":MAILTO:ingo.skupin@web.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="rainersch
+ wab@blackforestentertainment.org":MAILTO:rainerschwab@blackforestentertain
+ ment.org
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="hartmut_n
+ agel@web.de":MAILTO:hartmut_nagel@web.de
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN="harryd.ba
+ th@t-online.de":MAILTO:harryd.bath@t-online.de
+ORGANIZER;CN="Pfister, Martina":MAILTO:MPfister@geuder.de
+LOCATION:Derendinger Straße 43/?
+DTEND;TZID="(GMT+01.00) Sarajevo/Warsaw/Zagreb":20111120T200000
+DESCRIPTION:Wie besprochen\, gestern habe ich endlich die letzte Rückmeldu
+ ng bzgl. Terminen bekommen und melde mich am WE mit dem aktuellen Plan\N
+SEQUENCE:1
+PRIORITY:1
+CLASS:
+CREATED:20111109T233458Z
+LAST-MODIFIED:20111109T233459Z
+STATUS:CANCELLED
+TRANSP:OPAQUE
+X-MICROSOFT-CDO-BUSYSTATUS:FREE
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-CDO-INTENDEDSTATUS:FREE
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:2
+X-MICROSOFT-CDO-OWNERAPPTID:283719643
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-ATTENDEE-CRITICAL-CHANGE:20111109T233458Z
+X-MICROSOFT-CDO-OWNER-CRITICAL-CHANGE:20111109T233458Z
+END:VEVENT
+END:VCALENDAR
+
+------_=_NextPart_001_01CC9F38.31E5509C--

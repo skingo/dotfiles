@@ -1,0 +1,16 @@
+set from        = ingo.skupin@uni-tuebingen.de
+set realname    = "Ingo Skupin"
+set hostname    = mailserv.uni-tuebingen.de
+set imap_user   = "iifsk01"
+#set imap_login = "ingo.skupin"
+set imap_pass   = '$my_pass_uni2'
+set folder      = "imaps://iifsk01@mailserv.uni-tuebingen.de:993/"
+set spoolfile   = "+INBOX"
+set postponed   = "+Mail/sent"
+set record      = "+Mail/drafts"
+
+set smtp_pass    = $my_pass_uni2
+set smtp_url     = "smtp://iifsk01@smtpserv.uni-tuebingen.de:25"
+
+# differentiate mailboxes in statusline:
+color   status          white           cyan

@@ -1,0 +1,56 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.26.4 with SMTP id a4csp431248iva;
+        Thu, 10 Dec 2015 04:19:45 -0800 (PST)
+X-Received: by 10.28.221.134 with SMTP id u128mr39392492wmg.70.1449749985906;
+        Thu, 10 Dec 2015 04:19:45 -0800 (PST)
+Return-Path: <jandan@gmx.net>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.17.21])
+        by mx.google.com with ESMTPS id j84si752679wma.50.2015.12.10.04.19.45
+        for <ingo.skupin@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 10 Dec 2015 04:19:45 -0800 (PST)
+Received-SPF: pass (google.com: domain of jandan@gmx.net designates 212.227.17.21 as permitted sender) client-ip=212.227.17.21;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of jandan@gmx.net designates 212.227.17.21 as permitted sender) smtp.mailfrom=jandan@gmx.net
+Received: from [194.161.217.29] by 3capp-gmx-bs27.server.lan (via HTTP);
+ Thu, 10 Dec 2015 13:19:45 +0100
+MIME-Version: 1.0
+Message-ID: <trinity-8e646254-6810-4e09-a658-7a8d5c7a41f0-1449749984774@3capp-gmx-bs27>
+From: "Daniel Metzger" <jandan@gmx.net>
+To: ingo.skupin@googlemail.com, Tizian_Decker@web.de
+Subject: Aufbau heute
+Content-Type: text/html; charset=UTF-8
+Date: Thu, 10 Dec 2015 13:19:45 +0100
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:uDt9E3wRN4/YVsKw8Lln6AG6+k2bDX846D2ZQ1JeV0A
+ HLVsoSxhJCepvfZTxUa/qaR1xKMMqNz1yuS48GOdjZQg0S98R9
+ C4S32ttmYto2Gv07EhWEvxnPLPx+o0OUvIAeOTBEZwTHA6htuJ
+ s0+JfDBjXPb3ofidQZN84C8b5EGGTQTjlEPSrDT261MUMnh/dH
+ KvWQ92jenSyTrXmkOuChUclJGwl/ijPQ5DA20jL2i1M1u6cTeI
+ StTikIQUGf0kCV2EjqmKIDromfGmaQLak/Ud4P7ooQCNWBOWpR 8RygkA=
+X-UI-Out-Filterresults: notjunk:1;V01:K0:KszEGAzAelw=:XDssIafkWZ7MXKQVZYtZ0r
+ U0JMfFoGAtYvilNEEyvD+uNs8yjNR2XDX3khW6QnHvDaVrN6IkjTjI6klG6MoaNrsXiBR5mLd
+ Vwt9CreHKWwQRp79ZH+Ax5Iqz4hvDMOV33xWqNuHR/ZtLjN1km/izMISyB+erZJrIVkzbXu3p
+ kCj8EC7l1MDDC33/DqQLXFBaXt+eTlUB6rPkUwSGuPmCqluj7p920XiKGFNweRHm1+55ES6r1
+ fIGVxW/gzT/Tfu+k/UuBBUpmbn0HryHfd9Apkf4nALKt2c771Ts/9kkXwdJ0DCPlcr9Fu+Lek
+ gUMzZU+1WcO10PjuuK8XAQPSn7XfvEdymNwQ17qICRF5kwaFJb/lw/o7HS9JXt8PyWD1KHbjn
+ UHXX0oy/uIcrNMOgjfIxftcZFLPz8RAJbyM8KCyO9G7DGf2Tjj6Shz9DBKdsNJj9JX3RLHRzK
+ 9bAKM8+fDrI2n+/hFz5t+YyF6qknmifI4gbY1Vr2vKwVpemAMoF4iM5k8LVzIg3hjaratheZ5
+ s2pfI9ErbSGJPir8yEVa9dUkZGZlYqBA4I9wNg4ZzZ5odP64B/gEB8NjU1GJhh/ACbG9K5w3+
+ jBKBN6IE75bgsb1dRXMkhyksR01OYX7+lp
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo Ingo und Tizian,</div>
+
+<div>&nbsp;</div>
+
+<div>ich treffe mich mit Lukas bei Gerhard Nagel ab ca. 17 Uhr zum einladen. Danach fahren wir zum Stand - im besten Fall ist das schon vor 18 Uhr.</div>
+
+<div>Falls ihr also fr&uuml;her k&ouml;nntet w&auml;re das kein Fehler (wir k&ouml;nnen das ja per Handy kommunizieren, wenn wir bei Gerhard los fahren).</div>
+
+<div>&nbsp;</div>
+
+<div>Gr&uuml;&szlig;e</div>
+
+<div>Daniel</div></div></body></html>

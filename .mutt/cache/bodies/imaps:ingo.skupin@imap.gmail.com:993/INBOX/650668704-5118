@@ -1,0 +1,155 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.136.161 with SMTP id qb1csp99011lbb;
+        Wed, 10 Apr 2013 05:10:56 -0700 (PDT)
+X-Received: by 10.68.43.35 with SMTP id t3mr2430074pbl.202.1365595855709;
+        Wed, 10 Apr 2013 05:10:55 -0700 (PDT)
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+Received: from mx-out.facebook.com (outcampmail001.snc4.facebook.com. [66.220.144.160])
+        by mx.google.com with ESMTP id ny1si451360pbb.11.2013.04.10.05.10.54;
+        Wed, 10 Apr 2013 05:10:55 -0700 (PDT)
+Received-SPF: pass (google.com: domain of notification+zj4oc2az_s26@facebookmail.com designates 66.220.144.160 as permitted sender) client-ip=66.220.144.160;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of notification+zj4oc2az_s26@facebookmail.com designates 66.220.144.160 as permitted sender) smtp.mail=notification+zj4oc2az_s26@facebookmail.com;
+       dkim=pass header.i=@facebookmail.com;
+       dmarc=pass (p=REJECT dis=none) d=facebookmail.com
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=facebookmail.com;
+	s=s1024-2011-q2; t=1365595854;
+	bh=pTUkZ7Z5K9C5Zn4HWuRhZrlRX7c32lj/5XxV6o3hEfw=;
+	h=Date:To:From:Subject:MIME-Version:Content-Type;
+	b=PcJnqaqmnOm/Y1wl4ciyx+XZnJgDNDVpjxF2Fz976B778+cKH74WgJGIsHmQp1Pps
+	 wZonEFOUnkBLUKWWPofpnKIykP+zCXl+OxbmvdJkqOvzFzmaVRQEnmEax49EJMhulb
+	 ZwW6QhhmDHXfKJvnKCBMomrMCmJzTzAstmI41jiM=
+Received: from [10.156.210.29] ([10.156.210.29:54720])
+	by smout044.snc6.facebook.com (envelope-from <notification+zj4oc2az_s26@facebookmail.com>)
+	(ecelerity 3.5.1.37927 r(/root/Momo-dev:tip)) with ECSTREAM
+	id 5B/9B-10778-EC655615; Wed, 10 Apr 2013 05:10:54 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by async.facebook.com with HTTP (ZuckMail);
+Date: Wed, 10 Apr 2013 05:10:54 -0700
+To: =?UTF-8?B?QWxnbyB1bmQgYWxsZXMg?=
+ =?UTF-8?B?YW5kZXJlIFVuaSBUw5wgUw==?=
+ =?UTF-8?B?UyAyMDEz?= <172899856127633@groups.facebook.com>
+From: "Johannes Reisser" <notification+zj4oc2az_s26@facebookmail.com>
+Reply-to: "Antworte, um einen Kommentar zu hinterlassen" <g+410vjj93000zg3gn3u1c004fd8lur7dk000zg3g8jby02bj46@groups.facebook.com>
+Subject: =?UTF-8?B?W0FsZ28gdW5kIGFsbGVz?=
+ =?UTF-8?B?IGFuZGVyZSBVbmkgVMOcIA==?=
+ =?UTF-8?B?U1MgMjAxM10gd2Vpw58gag==?=
+ =?UTF-8?B?ZW1hbmQgd2VsY2hlIHZl?=
+ =?UTF-8?B?cmFuc3RhbHR1bmdlbiBt?=
+ =?UTF-8?B?YW4gYWxzbyBpbmZvLi4u?=
+Message-ID: <2ff33c779002d6bb05723228bac9cc8e@async.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zj4oc2az_s26@facebookmail.com
+X-Facebook-Notify: group_activity; mailid=7cf53fbG5af31cfea1d0G6742994G96
+List-Id: <172899856127633.groups.facebook.com>
+In-Reply-To: <449593945124888-172899856127633@groups.facebook.com>
+References: <449593945124888-172899856127633@groups.facebook.com>
+X-FACEBOOK-PRIORITY: 0
+X-Auto-Response-Suppress: All
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="b1_2ff33c779002d6bb05723228bac9cc8e"
+
+
+--b1_2ff33c779002d6bb05723228bac9cc8e
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Johannes Reisser hat in Algo und alles andere Uni T=C3=9C SS 2013 gepostet
+
+wei=C3=9F jemand welche veranstaltungen man also info besuchen muss wenn =
+man biologie als schwerpunktfach will?
+
+Antworte auf diese E-Mail, um diesen Beitrag zu kommentieren.
+
+
+http://www.facebook.com/n/?groups%2F172899856127633%2Fpermalink%2F44959394=
+5124888%2F&mid=3D7cf53fbG5af31cfea1d0G6742994G96&bcode=3D1.1365595854.Abnh=
+x0NgGi05GGTU&n_m=3Dingo.skupin%40gmail.com
+
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=
+=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D=3D
+Antworte auf diese E-Mail, um einen Kommentar hinzuzuf=C3=BCgen. =
+=C3=84ndere deine Benachrichtigungs-Einstellungen:
+http://www.facebook.com/n/?settings&tab=3Dnotifications&section=3Dgroup_no=
+tification&mid=3D7cf53fbG5af31cfea1d0G6742994G96&bcode=3D1.1365595854.Abnh=
+x0NgGi05GGTU&n_m=3Dingo.skupin%40gmail.com
+
+
+--b1_2ff33c779002d6bb05723228bac9cc8e
+Content-Type: text/html; charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional //EN">
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; =
+charset=3Dutf-8"><style type=3D"text/css">a.thumb:link, a.thumb:visited =
+{border:1px #CCCCCC solid !important;}a.thumb:active, a.thumb:hover =
+{border:1px #3B5998 solid =
+!important;}</style><title>Facebook</title></head><body =
+style=3D"margin:0;padding:0;" dir=3D"ltr"><table width=3D"98%" =
+border=3D"0" cellspacing=3D"0" cellpadding=3D"8"><tr><td =
+bgcolor=3D"#FFFFFF" width=3D"100%" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" border=3D"0" width=3D"500"><tr><td colspan=3D"2" =
+style=3D"padding:10px 0 0 =
+10px;color:#000000;font-size:13px;font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;" valign=3D"top"><table =
+width=3D"100%" style=3D"color:#000000;font-size:13px;"><tr><td =
+width=3D"100%" valign=3D"top" align=3D"left" style=3D"font-family:'lucida =
+grande',tahoma,verdana,arial,sans-serif;color:#000000;font-size:13px;"><di=
+v style=3D"width:100%;color:#666666;padding:0 0 7px =
+0;border-bottom:#E9E9E9 1px solid;"><a href=3D"http://www.facebook.com/n/?=
+groups%2F172899856127633%2Fpermalink%2F449593945124888%2F&amp;mid=3D7cf53f=
+bG5af31cfea1d0G6742994G96&amp;bcode=3D1.1365595854.Abnhx0NgGi05GGTU&amp;n_=
+m=3Dingo.skupin%40gmail.com" =
+style=3D"color:#3b5998;text-decoration:underline;">Johannes Reisser hat in =
+Algo und alles andere Uni T=C3=9C SS 2013 gepostet</a></div><div =
+style=3D"margin-bottom:15px;"><table cellpadding=3D"0" cellspacing=3D"0" =
+style=3D"width:100%;padding-top:7px;"><tr><td valign=3D"top" =
+style=3D"padding:3px 5px 5px 0px;width:57px;"><a href=3D"http://www.facebo=
+ok.com/n/?profile.php&amp;id=3D100000185531192&amp;mid=3D7cf53fbG5af31cfea=
+1d0G6742994G96&amp;bcode=3D1.1365595854.Abnhx0NgGi05GGTU&amp;n_m=3Dingo.sk=
+upin%40gmail.com" style=3D"color:#3b5998;text-decoration:none;"><img =
+src=3D"http://profile.ak.fbcdn.net/static-ak/rsrc.php/v2/yo/r/UlIqmHJn-SK.=
+gif" alt=3D"wei&#xdf; jemand welche veranstaltungen man also..." =
+style=3D"border: 0; height:50px; width:50px; " /></a></td><td =
+valign=3D"top" align=3D"left" style=3D"padding:5px 5px 5px =
+0;font-family:&#039;lucida =
+grande&#039;,tahoma,verdana,arial,sans-serif;"><table cellpadding=3D"0" =
+cellspacing=3D"0" style=3D"width:100%;padding-bottom:5px;"><tr><td =
+style=3D"font-family:&#039;lucida grande&#039;,tahoma,verdana,arial,sans-s=
+erif;color:#000000;font-size:13px;"><a =
+style=3D"color:#3b5998;text-decoration:none;font-weight:bold;" =
+href=3D"http://www.facebook.com/n/?profile.php&amp;id=3D100000185531192&am=
+p;mid=3D7cf53fbG5af31cfea1d0G6742994G96&amp;bcode=3D1.1365595854.Abnhx0NgG=
+i05GGTU&amp;n_m=3Dingo.skupin%40gmail.com">Johannes Reisser</a></td><td =
+style=3D"text-align:right;color:#999999;padding-right:5px;font-family:&#03=
+9;lucida grande&#039;,tahoma,verdana,arial,sans-serif;font-size:11px;"> =
+10. April 14:10 </td></tr></table><div style=3D"width:458px;word-wrap:brea=
+k-word;padding-bottom:7px;color:#000000;font-size:13px;">wei=C3=9F jemand =
+welche veranstaltungen man also info besuchen muss wenn man biologie als =
+schwerpunktfach will?</div></td></tr></table></div></td></tr></table><span =
+style=3D""><img src=3D"http://www.facebook.com/email_open_log_pic.php?c=3D=
+1436453046&amp;mid=3D7cf53fbG5af31cfea1d0G6742994G96" =
+style=3D"border:0;width:1px;height:1px;" /></span><br /></td></tr><tr><td =
+colspan=3D"2" style=3D"color:#666666;padding:10px 5px 15px =
+10px;border-top:#E9E9E9 1px solid;line-height: 18px;font-size: =
+12px;font-family:'lucida grande',tahoma,verdana,arial,sans-serif;"><a =
+href=3D"http://www.facebook.com/n/?groups%2F172899856127633%2Fpermalink%2F=
+449593945124888%2F&amp;mid=3D7cf53fbG5af31cfea1d0G6742994G96&amp;bcode=3D1=
+.1365595854.Abnhx0NgGi05GGTU&amp;n_m=3Dingo.skupin%40gmail.com" =
+style=3D"color: #3b5998; text-decoration: none;">Beitrag auf Facebook =
+anzeigen</a> =C2=B7 <a href=3D"http://www.facebook.com/n/?settings&amp;tab=
+=3Dnotifications&amp;section=3Dgroup_notification&amp;mid=3D7cf53fbG5af31c=
+fea1d0G6742994G96&amp;bcode=3D1.1365595854.Abnhx0NgGi05GGTU&amp;n_m=3Dingo=
+.skupin%40gmail.com" style=3D"color: #3b5998; text-decoration: =
+none;">E-Mail-Einstellungen bearbeiten</a> =C2=B7 Antworte auf diese =
+E-Mail, um einen Kommentar hinzuzuf=C3=BCgen.<br =
+/></td></tr></table></td></tr></table></body></html>
+
+
+
+--b1_2ff33c779002d6bb05723228bac9cc8e--
+

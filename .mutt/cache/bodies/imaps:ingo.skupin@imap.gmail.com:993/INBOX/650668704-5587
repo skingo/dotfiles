@@ -1,0 +1,374 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.92.135 with SMTP id cm7csp18436pdb;
+        Sat, 25 May 2013 09:31:14 -0700 (PDT)
+X-Received: by 10.68.252.227 with SMTP id zv3mr23155707pbc.14.1369499474426;
+        Sat, 25 May 2013 09:31:14 -0700 (PDT)
+Return-Path: <service@paypal.de>
+Received: from mx2.slc.paypal.com (mx1.slc.paypal.com. [173.0.84.226])
+        by mx.google.com with ESMTP id pt5si16182933pac.98.2013.05.25.09.31.14
+        for <ingo.skupin@gmail.com>;
+        Sat, 25 May 2013 09:31:14 -0700 (PDT)
+Received-SPF: pass (google.com: domain of service@paypal.de designates 173.0.84.226 as permitted sender) client-ip=173.0.84.226;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of service@paypal.de designates 173.0.84.226 as permitted sender) smtp.mail=service@paypal.de;
+       dkim=pass header.i=@paypal.de;
+       dmarc=pass (p=REJECT dis=none) d=paypal.de
+DKIM-Signature: v=1; a=rsa-sha256; d=paypal.de; s=pp-dkim1; c=relaxed/relaxed;
+	q=dns/txt; i=@paypal.de; t=1369499473;
+	h=From:From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=vutF43YXmUojL/WIZJw5FiyqmEHB+CpvAeCFpFQh/PU=;
+	b=IgVV5/ecIiLBQGAS13fOiQ6ANma4OwYo/EVDx3kDAt5TUa7ZKDqPdex4Ps23H/ho
+	3PHZcspLuEauWbZxCLLkmSg8qmGNe1+aUOpetlNdRaDSdRzSbghaf38V2mWggynE
+	SiU2ePFpKrR7KjFWjGd2mXx9lubrD09c/vvk1Yct+J+leFlQ1k948zOCJbHuoMob
+	olAaHzFZr6UnT+gLiS2B62IgLNC7V8AajWfrhRTr6+nsN15zP4x9eUs59pE8BiSW
+	HjEx3V4Nu+Bxy5npTStnOlK/F8WJFtHXxikN2SziJGiAax58mSoFpRyGKRv1veFk
+	Mi+Ysvj9bZwLet/afVi5YA==;
+Received: (qmail 20079 invoked by uid 99); 25 May 2013 16:31:13 -0000
+Date: Sat, 25 May 2013 09:31:13 -0700
+Message-Id: <1369499473.20079@paypal.com>
+Subject: =?windows-1252?Q?Best=E4tigung_Ihrer_Zahlung_an_Fonpit_AG?=
+X-MaxCode-Template: email-receipt-xclick-payment
+To: Ingo Skupin <ingo.skupin@gmail.com>
+From: "service@paypal.de" <service@paypal.de>
+X-Email-Type-Id: PP120
+X-XPT-XSL-Name: email_pimp/DE/de_DE/xclick/ReceiptXClickPayment.xsl
+Content-Type: multipart/alternative;
+ boundary=--NextPart_048F8BC8A2197DE2036A
+MIME-Version: 1.0
+
+----NextPart_048F8BC8A2197DE2036A
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=windows-1252
+
+25. Mai 2013 18:31:13 MESZ =7C Transaktionscode: 37L955364G143550K
+
+
+Guten Tag, Ingo Skupin=21
+
+Sie haben eine Zahlung =FCber 5,00 EUR an Fonpit AG (info=40androidpit.de) =
+gesendet.=20
+
+
+Es kann einige Minuten dauern, bis die Transaktion in Ihrem Konto =
+angezeigt wird.
+
+----------------------------------------------------------------
+
+H=E4ndler:
+Fonpit AG
+info=40androidpit.de
++49 3060985754
+
+
+Mitteilung an H=E4ndler:
+Sie haben keine Mitteilung eingegeben.
+
+
+-----------------------------------
+Kaufdetails
+-----------------------------------
+<a =
+href=3Dhttps://www.paypal.com/cgi-bin/webscr?cmd=3D_mpi-click-email&uid=3DY=
+1VfVXYEWFBAQVhHHEBYUltteg&cid=3D26620193&oid=3D108301&cks=3DNjk2NjFEMDUxRDh=
+BRDUzNTdBMzgzMjlFRjdDQTNFQUU&indir=3DORAcFnkYQgcVBAsRXxhDBwsxIAs1PQs6WComAn=
+YpDkYODGhrbAp8eEBRYgBhRXpUZVdRS3IGUgIURFBBFUVLDgNgdFh1YF1yQnlwST0lXFRdOHcHa=
+QN-cxAKYgVhTiYWIwtVDjdDHRVDX0IHWgJDGg8sOQspfw0tG2YtCg><img =
+src=3D'https://www.paypalobjects.com/webstatic/de_DE/mktg/1376_buyer_receip=
+t_off_ebay_unconfirmed_bank_530x50.png' border=3D'0' alt=3D'Bitte =
+best=E4tigen Sie noch Ihr Bankkonto' /></a>
+Beschreibung: AndroidPIT Prepaid-Guthaben
+Einzelpreis: 5,00 EUR
+Anzahl: 1
+Betrag: 5,00 EUR
+
+
+Zwischensumme: 5,00 EUR
+
+
+
+
+
+
+Summe: 5.00 EUR
+
+Zahlung: 5.00 EUR
+Zahlung gesendet an: info=40androidpit.de
+
+
+
+----------------------------------------------------------------
+
+Probleme mit Ihrer Zahlung?
+Wenn Sie Ihren Artikel nicht erhalten oder dieser von der Beschreibung =
+abweicht, k=F6nnen Sie das Problem bei PayPal bis zu 45 Tage ab der =
+Zahlung melden. Klicken Sie dazu in Ihrem PayPal-Konto auf =
+=22Konfliktl=F6sungen=22.
+
+Haben Sie Fragen? Antworten finden Sie im Hilfe-Center unter =
+www.paypal.com/de/help.
+
+Verifizieren Sie Ihr PayPal-Konto =96 So wird das Bezahlen f=FCr Sie noch =
+sicherer. Loggen Sie sich einfach in Ihr PayPal-Konto ein und klicken Sie =
+auf den Link Jetzt verifizieren.
+
+
+Bitte antworten Sie nicht auf diese E-Mail. Diese Mailbox wird nicht =
+=FCberwacht. Wenn Sie Hilfe ben=F6tigen, loggen Sie sich in Ihr =
+PayPal-Konto ein und klicken Sie rechts oben auf Hilfe.
+
+Anstelle unserer HTML-E-Mails k=F6nnen wir Ihnen Benachrichtigungen auch =
+als Reintext zusenden. Wenn Sie Ihre Optionen f=FCr =
+E-Mail-Benachrichtigungen =E4ndern wollen, loggen Sie sich in Ihr Konto =
+ein und klicken Sie unter =22Mein Profil=22 auf Einstellungen.
+
+Copyright =A9 1999-2013 PayPal. Alle Rechte vorbehalten.
+
+PayPal (Europe) S.=E0 r.l. & Cie, S.C.A.
+Soci=E9t=E9 en Commandite par Actions
+Sitz: 22-24 Boulevard Royal, L-2449 Luxemburg
+RCS Luxemburg B 118 349
+
+PPID PP120 =20
+
+----NextPart_048F8BC8A2197DE2036A
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset=windows-1252
+
+<html><head title=3D=22PayPal=22/><body><div class=3D=22ppmail=22><style =
+type=3D=22text/css=22>
+=09=09=09=09=09=09=09=09body, td =7Bfont-size: 12px;font-family: =
+arial,helvetica,sans-serif;=7D
+                               .itemtbl =7Bmargin-top:20px;=7D
+=09=09=09=09=09=09      .itemtbl tr td =7Bpadding: 10px;color: =23333;=7D
+=09=09=09=09    =09=09=09tr.itemheading td=7Bborder:1px solid =
+=23ccc;border-right:none;border-left:none;padding:5px 10px 5px 10px =
+=21important;color: =23333333 =21important;=7D
+=09=09=09=09=09=09=09=09.padtoptwty =7Bpadding-top:20px =21important;=7D
+=09=09=09=09=09=09=09=09tr.last td =7Bborder-bottom:none;=7D
+=09=09=09=09=09=09=09=09tr.itemrepeat td =7Bborder-bottom:1px dashed =
+=23ccc;=7D
+=09=09=09=09=09=09=09=09 .itemtbl =7Bmargin-top:20px;=7D
+=09=09=09=09=09=09=09    .itemtbl tr td =7Bpadding: 10px;color: =
+=23333;=7D=09
+=09=09=09=09=09=09=09    .content =7Bmargin-top: 30px;color:=23333 =
+=21important; =7D
+=09=09=09=09=09=09=09=09.mainheading=7Bcolor:=23333333;font-weight:bold;=7D
+=09=09=09=09      =09=09=09.confirm =7Bcolor: =234c8f3a;=7D
+=09=09=09=09=09=09=09=09.greeting =7Bcolor:=23333333 =
+=21important;font-weight:bold;=7D
+=09=09=09=09=09=09=09=09.status =
+=7Bfont-size:14px;color:=23C88039;font-weight:bold;text-decoration:none;=7D=
+=09
+=09=09=09=09=09=09=09=09.strong =7Bfont-weight: bold;=7D
+=09=09=09=09=09=09=09=09.valign =7Bvertical-align: middle;=7D
+=09=09=09=09=09=09=09=09.purchasebox =7Bwidth: 598px;=7D
+=09=09=09=09=09=09=09=09.purchasetitle =7Bborder-bottom:1px solid =
+=23ccc;padding:5px 0 5px 10px;=7D
+=09=09=09=09=09=09=09=09.purchaseboxmul =7Bborder:1px solid =
+=23ccc;margin:10px 0 10px 0;padding-bottom:10px;=7D
+=09=09=09=09=09=09=09=09.purchasetotal =7Bborder-top: 1px solid =
+=23ccc;border-bottom: 1px solid =23ccc;=7D
+=09=09=09=09=09=09=09=09.purchasetotal =7Bmargin: 7px 0 20px 0;=7D
+=09=09=09=09=09=09=09=09.purchasetotal tr td=7Bpadding-bottom:20px;=7D
+=09=09=09=09=09=09=09=09.purchasetotalmul =7Bborder-top: 1px solid =
+=23ccc;width : 580px;=7D
+=09=09=09=09=09=09=09=09.purchasetotalmul img , .purchasetotal img =
+=7Bmargin-top: 20px;=7D
+=09=09=09=09=09=09=09=09.purchasedetails tr =
+td=7Bcolor:=23333;padding-top:15px;=7D
+=09=09=09=09=09=09=09=09.purchasedetailsmul tr =
+td=7Bcolor:=23333;padding:20px 0 0 10px;=7D
+=09=09=09=09=09=09=09    .headinfo =7Bcolor:=23333333;=7D
+=09=09=09=09=09=09=09     hr =7Bcolor: =23dedede =21important;height:1px;=7D
+=09=09=09=09=09=09=09     .totaltbl =7Bmargin-top: 20px; width: 100%;=7D
+=09=09=09=09=09=09=09     .totaltbl tr td =7Btext-align:right;color: =
+=23333;padding:0 5px 0 0;width: 90px;=7D
+=09=09=09=09=09=09=09    .totaltblmlt =7Bmargin: 10px 0 0 10px;=7D
+=09=09=09=09=09=09=09    .totaltblmlt tr td =7Btext-align:right;color: =
+=23333;width: 85px;=7D
+=09=09=09=09=09=09=09    .totaltblmlt tr td.subhd , .totaltbl tr td.subhd =
+=7Bwidth: 390px;padding-right: 10px;text-align:right;=7D
+=09=09=09=09=09=09=09     .clr =7Bclear:both;=7D
+=09=09=09=09=09=09=09     .airtbl =7Bmargin-top : 30px;width:320px;=7D
+=09=09=09=09=09=09=09    .emphasis =7Bcolor:=23333333 =
+=21important;font-weight:bold;=7D
+=09=09=09=09=09=09=09     .padleftten =7Bpadding-left: 10px;=7D
+=09=09=09=09=09=09=09     .option =7Bcolor: =23aaaaaa;=7D
+=09=09=09=09=09=09=09     .fmf =7Bcolor:red;=7D
+=09=09=09=09=09=09=09      .airtbl tr td=7Bpadding-right: 15px;color: =
+=23757575;padding-bottom: 5px;=7D
+=09=09=09=09=09=09=09      .tblfooter =7Bcolor: =
+=23757575;padding-left:10px;=7D
+=09=09=09=09=09=09=09      .help=7Bmargin-right: 5px;vertical-align: =
+middle;=7D
+=09=09=09=09=09=09=09      .footercontainer=7Bwidth:400px;=7D
+=09=09=09=09=09=09=09      .exchange=7Bwidth:100%;=7D
+=09=09=09=09=09=09=09     =20
+/*For 26568 spec */
+=2EheaderDetails =7Bcolor:=23000000 =21important;font-weight:bold;=7D
+=2Edescription =7Bcolor:=23333333;=7D
+=2EtopBorder=7Bborder-top:1px solid =23CCCCCC;=7D
+=2EbottomBorder=7Bborder-bottom:1px solid =23CCCCCC;=7D
+=2EbottomMargin=7Bmargin:7px 0 20px;=7D
+=2EredFmf=7Bcolor:=23ff0000;=7D
+=2EpadBottom =7Bpadding-bottom:20px =21important;=7D
+=2EcontentNew =7Bcolor:=23666666;=7D
+HR.dotted =7Bwidth: 100%; margin-top: 0px; margin-bottom: 0px; =
+border-left: =23fff; border-right: =23fff; border-top: =23fff; =
+border-bottom: 2px dotted =23ccc;=7D
+=2EuseNextBox =7B
+background:=23FFFFFF =
+url(http://www.paypal.com/en_US/i/scr/scr_table_bg_1x70.gif) repeat-x =
+scroll left bottom;
+border:1px solid =23CCCCCC;
+border-collapse:separate;
+padding:10px 10 20px 10px;
+width:530px;
+margin-left:20px;
+margin-top:20px;
+color:=23333333;
+font-family:arial,helvetica,sans-serif;
+font-size:11px;
+=7D
+=2EboxHead=7Bwidth:530px;padding-bottom:10px =
+=21important;border-bottom:1px solid =23CCCCCC;text-align:left;=7D
+=2EboxHeadingTxt=7Bfont-size:12px;font-weight:bold;=7D
+=2EpadBoxTop =7Bpadding-top:10px =21important;=7D
+=2ESignupLink=7Bcolor:=23084482 =21important;=7D
+=09=09=09=09=09=09=09     </style>
+
+<table align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 width=3D=22100%=22><tr><td/></tr></table><table =
+align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 width=3D=22600=22><tr valign=3D=22top=22><td =
+width=3D=22100%=22><table align=3D=22center=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22color:=23333333 =
+=21important;font-family: arial,helvetica,sans-serif;font-size:12px;=22 =
+width=3D=22600=22><tr valign=3D=22top=22><td><img =
+src=3D=22http://images.paypal.com/de_DE/DE/i/logo/paypal_logo.gif=22 =
+border=3D=220=22 alt=3D=22PayPal-Logo=22/></td><td valign=3D=22middle=22 =
+align=3D=22right=22>25. Mai 2013 18:31:13 MESZ<br/>Transaktionscode: <a =
+target=3D=22new=22 =
+href=3D=22https://www.paypal.com/de/cgi-bin/webscr?cmd=3D_view-a-trans&amp;=
+id=3D37L955364G143550K=22>37L955364G143550K</a></td></tr></table><div =
+style=3D=22margin-top: 30px;color:=23333 =21important;font-family: =
+arial,helvetica,sans-serif;font-size:12px;=22><span =
+style=3D=22color:=23333333 =21important;font-weight:bold;font-family: =
+arial,helvetica,sans-serif;=22>Guten Tag, Ingo =
+Skupin=21</span><br/><br/><table><tr><td valign=3D=22top=22><span =
+style=3D=22font-size:14px;color:=23C88039;font-weight:bold;text-decoration:=
+none;=22>Sie haben eine Zahlung =FCber 5,00 EUR an Fonpit AG =
+(info=40androidpit.de) gesendet. </span></td></tr></table><br/><br/>Es =
+kann einige Minuten dauern, bis die Transaktion in Ihrem Konto angezeigt =
+wird.<br/><div style=3D=22margin-top:5px;=22><hr size=3D=221=22/></div>
+<=21--=5Bif gte mso 9=5D><style>table.CartTable td =7Bpadding:5px 10px 5px =
+10px =21important;=7D</style><=21=5Bendif=5D-->
+<table border=3D=220=22 cellpadding=3D=220=22 cellspacing=3D=220=22 =
+style=3D=22color:=23666666 =21important;font-family: =
+arial,helvetica,sans-serif;font-size:11px;margin-bottom:20px;clear:both;=22=
+ width=3D=2298%=22 align=3D=22left=22><tr><td =
+style=3D=22padding-top:15px;=22 valign=3D=22top=22 width=3D=2250%=22 =
+align=3D=22left=22><span =
+style=3D=22color:=23333333;font-weight:bold;=22>H=E4ndler</span><br/>Fonpit=
+ AG<br/>info=40androidpit.de<br/>+49 3060985754</td><td =
+style=3D=22padding-top:15px;=22 valign=3D=22top=22><span =
+style=3D=22color:=23333333;font-weight:bold;=22>Mitteilung an =
+H=E4ndler</span><br/>Sie haben keine Mitteilung =
+eingegeben.</td></tr><tr><td style=3D=22padding-top:15px;=22 =
+valign=3D=22top=22 width=3D=2240%=22 align=3D=22left=22/><td =
+style=3D=22padding-top:15px;=22 valign=3D=22top=22/></tr></table><div =
+style=3D=22margin:auto; clear:both;=22><div class=3D=22MktMPI=22 =
+id=3D=22mpi920518=22><a =
+href=3Dhttps://www.paypal.com/cgi-bin/webscr?cmd=3D_mpi-click-email&uid=3DY=
+1VfVXYEWFBAQVhHHEBYUltteg&cid=3D26620193&oid=3D108301&cks=3DNjk2NjFEMDUxRDh=
+BRDUzNTdBMzgzMjlFRjdDQTNFQUU&indir=3DORAcFnkYQgcVBAsRXxhDBwsxIAs1PQs6WComAn=
+YpDkYODGhrbAp8eEBRYgBhRXpUZVdRS3IGUgIURFBBFUVLDgNgdFh1YF1yQnlwST0lXFRdOHcHa=
+QN-cxAKYgVhTiYWIwtVDjdDHRVDX0IHWgJDGg8sOQspfw0tG2YtCg><img =
+src=3D'https://www.paypalobjects.com/webstatic/de_DE/mktg/1376_buyer_receip=
+t_off_ebay_unconfirmed_bank_530x50.png' border=3D'0' alt=3D'Bitte =
+best=E4tigen Sie noch Ihr Bankkonto' /></a></div></div><table =
+align=3D=22center=22 border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 class=3D=22CartTable=22 =
+style=3D=22clear:both;color:=23666666 =21important;font-family: =
+arial,helvetica,sans-serif;font-size:11px;=22 width=3D=22100%=22><tr><td =
+style=3D=22border:1px solid =
+=23ccc;border-right:none;border-left:none;padding:5px 10px 5px 10px =
+=21important;color: =23333333 =21important;=22 width=3D=22350=22 =
+align=3D=22left=22>Beschreibung</td><td style=3D=22border:1px solid =
+=23ccc;border-right:none;border-left:none;padding:5px 10px 5px 10px =
+=21important;color: =23333333 =21important;=22 width=3D=22100=22 =
+align=3D=22right=22>Einzelpreis</td><td style=3D=22border:1px solid =
+=23ccc;border-right:none;border-left:none;padding:5px 10px 5px 10px =
+=21important;color: =23333333 =21important;=22 width=3D=2250=22 =
+align=3D=22right=22>Anzahl</td><td style=3D=22border:1px solid =
+=23ccc;border-right:none;border-left:none;padding:5px 10px 5px 10px =
+=21important;color: =23333333 =21important;=22 width=3D=2280=22 =
+align=3D=22right=22>Betrag</td></tr><tr><td style=3D=22padding: 10px;=22 =
+align=3D=22left=22>AndroidPIT Prepaid-Guthaben<br/></td><td =
+style=3D=22padding: 10px;=22 align=3D=22right=22>=805,00 EUR</td><td =
+style=3D=22padding: 10px;=22 align=3D=22right=22>1</td><td =
+style=3D=22padding: 10px;=22 align=3D=22right=22>=805,00 =
+EUR</td></tr></table><table align=3D=22left=22 border=3D=220=22 =
+cellpadding=3D=220=22 cellspacing=3D=220=22 style=3D=22border-top: 1px =
+solid =23ccc;border-bottom: 1px solid =23ccc;clear:both;color:=23666666 =
+=21important;font-family: arial,helvetica,sans-serif;font-size:11px;=22 =
+width=3D=22595=22><tr><td><table border=3D=220=22 cellpadding=3D=220=22 =
+cellspacing=3D=220=22 style=3D=22color:=23666666 =21important;font-family: =
+arial,helvetica,sans-serif;font-size:11px;margin-top: 20px;clear:both; =
+width:100%=22 align=3D=22right=22><tr><td =
+style=3D=22width:390px;text-align:right; padding:0 10px 0 =
+0;=22><strong>Zwischensumme</strong></td><td =
+style=3D=22width:90px;text-align:right; padding:0 5px 0 0;=22>=805,00 =
+EUR</td></tr><tr><td style=3D=22width:390px;text-align:right; padding:0 =
+10px 0 0;=22><span style=3D=22color:=23333333 =
+=21important;font-weight:bold;=22>Summe</span></td><td =
+style=3D=22width:90px;text-align:right; padding:0 5px 0 0;=22>=805,00 =
+EUR</td></tr><tr><td style=3D=22width:390px;text-align:right; padding: =
+20px 10px 0 0;=22><span style=3D=22color:=23333333 =
+=21important;font-weight:bold;=22>Zahlung</span></td><td =
+style=3D=22width:90px;text-align:right; padding:20px 5px 0 0;=22>=805,00 =
+EUR</td></tr><tr><td style=3D=22width:390px;text-align:right; padding:10px =
+10px 10px 0;=22>Zahlungsempf=E4nger info=40androidpit.de</td><td =
+style=3D=22width:90px;text-align:right; padding:20px 5px 0 =
+0;=22/></tr><tr><td/></tr></table></td></tr></table><br/><br/><span =
+style=3D=22font-weight:bold;color:=23333333;=22>Probleme mit Ihrer =
+Zahlung?</span><br/>Wenn Sie Ihren Artikel nicht erhalten oder dieser von =
+der Beschreibung abweicht, k=F6nnen Sie das Problem bei PayPal bis zu 45 =
+Tage ab der Zahlung melden. Klicken Sie dazu in Ihrem PayPal-Konto auf =
+=22Konfliktl=F6sungen=22.<br/><br/><img =
+src=3D=22http://images.paypal.com/en_US/i/icon/icon_help_16x16.gif=22 =
+border=3D=220=22 style=3D=22margin-right: 5px;vertical-align: middle;=22 =
+alt=3D=22=22/>Haben Sie Fragen? Antworten finden Sie im Hilfe-Center unter =
+www.paypal.com/de/help.<br/><br/><span class=3D=22strong=22>Verifizieren =
+Sie Ihr PayPal-Konto</span> =96 So wird das Bezahlen f=FCr Sie noch =
+sicherer. Loggen Sie sich einfach in Ihr PayPal-Konto ein und klicken Sie =
+auf den Link <span class=3D=22strong=22>Jetzt =
+verifizieren</span>.<br/><br/><br/><span =
+style=3D=22font-size:11px;color:=23333;=22>Bitte antworten Sie nicht auf =
+diese E-Mail. Diese Mailbox wird nicht =FCberwacht. Wenn Sie Hilfe =
+ben=F6tigen, loggen Sie sich in Ihr PayPal-Konto ein und klicken Sie =
+rechts oben auf <strong>Hilfe</strong>.</span><br/><br/><span =
+style=3D=22font-size:11px;color:=23333;=22>Anstelle unserer HTML-E-Mails =
+k=F6nnen wir Ihnen Benachrichtigungen auch als Reintext zusenden. Wenn Sie =
+Ihre Optionen f=FCr E-Mail-Benachrichtigungen =E4ndern wollen, loggen Sie =
+sich in Ihr Konto ein und klicken Sie unter =22Mein Profil=22 auf =
+<strong>Einstellungen</strong>.</span></div><br/><br/><span =
+class=3D=22xptFooter=22>Copyright =A9 1999-2013 PayPal. Alle Rechte =
+vorbehalten.<br/><br/>PayPal (Europe) S.=E0 r.l. &amp; Cie, =
+S.C.A.<br/>Soci=E9t=E9 en Commandite par Actions<br/>Sitz: 22-24 Boulevard =
+Royal, L-2449 Luxemburg<br/>RCS Luxemburg B 118 349</span><br/><br/><span =
+style=3D=22color: =23333333;font-family: =
+arial,helvetica,sans-serif;font-size:11px;=22><span class=3D=22xptFooter =
+ppid=22>PayPal E-Mail-ID PP120</span></span><img height=3D=221=22 =
+width=3D=221=22 =
+src=3D=22https://paypal.112.2o7.net/b/ss/paypalglobal/1/H.22--NS/1283559165=
+?c6=3D7G984962MM4569005&amp;v0=3DPP120_1_108301&amp;pe=3Dlnk_o&amp;pev1=3De=
+mail&amp;pev2=3DD=3Dv0&amp;events=3DscOpen=22 border=3D=220=22 =
+alt=3D=22=22/><img height=3D=221=22 width=3D=221=22 =
+src=3D=22https://t.paypal.com/ts?ppid=3D&amp;cust=3D7G984962MM4569005&amp;c=
+nac=3DDE&amp;rsta=3Dde_DE&amp;e=3Dop&amp;mchn=3Dem&amp;s=3Dci&amp;mail=3Dsy=
+s&amp;page=3Dmain:email::::::=22 border=3D=220=22 =
+alt=3D=22=22/></td></tr></table></div></body></html>=
+
+----NextPart_048F8BC8A2197DE2036A--
+

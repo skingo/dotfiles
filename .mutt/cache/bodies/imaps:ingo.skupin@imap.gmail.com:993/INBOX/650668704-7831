@@ -1,0 +1,219 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp283373pdt;
+        Wed, 23 Jul 2014 01:59:27 -0700 (PDT)
+Return-Path: <ml.deutschmann@gmail.com>
+Received-SPF: pass (google.com: domain of ml.deutschmann@gmail.com designates 10.224.55.202 as permitted sender) client-ip=10.224.55.202
+Authentication-Results: mr.google.com;
+       spf=pass (google.com: domain of ml.deutschmann@gmail.com designates 10.224.55.202 as permitted sender) smtp.mail=ml.deutschmann@gmail.com;
+       dkim=pass header.i=@gmail.com
+X-Received: from mr.google.com ([10.224.55.202])
+        by 10.224.55.202 with SMTP id v10mr67837062qag.10.1406105967201 (num_hops = 1);
+        Wed, 23 Jul 2014 01:59:27 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:from:date:message-id:subject:to
+         :content-type;
+        bh=r8HMYyCwSyTKsmQGigO83kPPH+jDb+dhtdoLUAAepRE=;
+        b=XnrX1fOCGESlRCRbe839V9qYG6pLASGdn0QyefHlKopxaniQG1DJBhL5RD0Bbnlwix
+         uPrObFXGg3q0wS0hOR36Psrx3CgAdKm7+/33mBchqNZTE0Bse7LzFjre+GAkOjb4Zpwp
+         ln/jXVInDA2qiEQNolyKBnrfVT8XgqcSg0EdyhsgVWgmOFwGWqBzNw8rw5DtOyT+DTmy
+         LVCKgV8zEhKDejtCAV06TXlXXeEdN3CKG0OtRydmpUzqpTZWlc48/PkNdYUBYrn65XvK
+         pkt/2Q7pd04qNXtageWBTDiTrQqaPpTGxvA3IJnuLxtCb1/+9yl2NN1rN7i8WCrnbA30
+         X7cA==
+X-Received: by 10.224.55.202 with SMTP id v10mr67837062qag.10.1406105967197;
+ Wed, 23 Jul 2014 01:59:27 -0700 (PDT)
+MIME-Version: 1.0
+Received: by 10.96.18.228 with HTTP; Wed, 23 Jul 2014 01:59:07 -0700 (PDT)
+In-Reply-To: <BLU436-SMTP217E6B6BDDA2518FE14B6958FF10@phx.gbl>
+References: <F9883D8C-65E8-4312-8A36-2B6C4261F2AA@gmail.com>
+ <97EDCD60-2310-4483-B470-939A4BD979F5@thomaskalb.de> <53B077F6.9090909@googlemail.com>
+ <53B96135.7010109@hotmail.com> <BLU436-SMTP217E6B6BDDA2518FE14B6958FF10@phx.gbl>
+From: Merle Deutschmann <ml.deutschmann@gmail.com>
+Date: Wed, 23 Jul 2014 10:59:07 +0200
+Message-ID: <CAO5o5Ejo2AL+uCSkYUeUSh5VSC+N+AL6hau6iVMhgoQ9V=Wynw@mail.gmail.com>
+Subject: Fwd: Sommerfest
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Content-Type: multipart/alternative; boundary=001a11c3029ab1011704fed88ec1
+
+--001a11c3029ab1011704fed88ec1
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+so, da m=C3=BCssten wir dann einfach mit meinen eltern wieder zur=C3=BCckfa=
+hren von
+der hochzeit meiner cousine. mein vater wollte glaub sowieso am selben tag
+wieder zur=C3=BCck, da k=C3=B6nnten wir uns einfach anschlie=C3=9Fen.
+wenn du magst ;)
+
+---------- Weitergeleitete Nachricht ----------
+Von: Sarah <sarah-kalb@hotmail.com>
+Datum: 22. Juli 2014 22:11
+Betreff: Re: Sommerfest
+An: Philipp Arras <philipp.arras@gmail.com>, Thomas Kalb <mail@thomaskalb.d=
+e>,
+Julia Gebest <julia_gebest@yahoo.de>, Avischag M=C3=BCller <avimueller@gmx.=
+de>,
+tabea.metzger@gmail.com, Caspar Kolster <casparkolster@web.de>, Bettina
+Kessler <bettina.kessler@web.de>, Anna Hennig <cellanna0403@arcor.de>,
+Caspar Kolster <casparkolster@googlemail.com>, Stefanie Rott <
+steffi.rott@hotmail.com>, Stefanie Prosek <julius.prosek@freenet.de>, Sven
+Muehleck <svenmuehleck@googlemail.com>, Michael Sattler <mich90@gmx.de>,
+Lilia Schopf <liliaschopf@gmx.net>, Ushma Issar <issar@mail.com>, Annemarie
+Leschinski <ami-violine@web.de>, Gidon Frischkorn <
+g.frischkorn@stud.uni-heidelberg.de>, Johanna Weng <johanna.weng@web.de>,
+Nicolai Sander <nicolaisander@hotmail.de>, Konrad Heimpel <
+konrad.heimpel@googlemail.com>, Jakob Park <park.jakob@googlemail.com>,
+Hakeem Holloway <sevenholloway@yahoo.com>, Stephen Shareski <
+s.shareski@web.de>, Josefa Dengler <j.dengler@gmx.de>
+Cc: Merle Deutschmann <ml.deutschmann@googlemail.com>, Maria Engel <
+mrengel@web.de>, Benedikt Friedrich <beni.friedrich@gmail.com>, Thea
+Gr=C3=BCtzner <gruetzner.thea@googlemail.com>, Katharina Jungwirt <
+katha04@rhein-neckar.netsurf.de>, Esther Kalb <estherkalb@hotmail.com>,
+Tabea Kalb <tabea.kalb@web.de>, Viola Kalb <viola.kalb@web.de>, Sebastian
+Kraus <s.kraus@thphys.uni-heidelberg.de>, Theresa Lechner <thesi95@gmx.net>=
+,
+Lin Ling <linling89@yahoo.de>, Johanna Ludwig <
+johannaludwig95@googlemail.com>, Sarah Mahmoud <sarah.mahmoud@hotmail.de>,
+Franziska Rust <franziska.rust@yahoo.com>, Lucienne Schl=C3=BCrmann <
+lucienne.schluermann@gmx.de>, Frederik Schmidt <freddischmidt@gmail.com>,
+Carolin von Harsdorf <carolin.vonharsdorf@gmail.com>, Fabian Weithoff <
+fabi.weithoff@t-online.de>, Julia Werner <joliewerner@gmx.de>, Matthias
+Werner <matzewerner@gmx.de>, Marlene Winker <marlene.winker@googlemail.com>=
+,
+Noemi Zimdahl <nono.z@web.de>, Clara Zschocke <czschocke90@googlemail.com>
+
+
+
+Hallo liebe JKPHler und ehemaligen JKPHler,
+
+der Termin f=C3=BCrs Sommerfest steht: Sonntag der 7. September!!
+Ab 16 Uhr bei uns Kalbs zu Hause.
+Hier nochmal unsere Adresse f=C3=BCr all diejenigen die vielleicht noch nie=
+ bei
+uns waren, oder sich nicht mehr exakt erinnern k=C3=B6nnen ;) : Neuer
+Friedhofweg 14, Waldhilsbach
+
+Wie in der letzten Mail schon gesagt d=C3=BCrft ihr gerne Freund/in und Fam=
+ilie
+mitbringen.
+Wenns geht einfach kurz Bescheid sagen, damit wir wegen Essensmengen planen
+k=C3=B6nnen.
+Wer was kleines zu Essen beisteuern will, darf dies =C3=BCberaus gerne tun =
+;)
+(und dann vielleicht kurz durchgeben was, damit wir nicht das gleiche
+machen^^)
+
+=C3=9Cbernachten darf auch wer will! Wenns geht Schlafsack mitbringen, wenn
+nicht...  finden wir auch hier bei uns was!
+
+Wer Lust auf Kammermusik hat.. Instrument nicht vergessen!  :)
+
+Die Kalbsche Mannschaft l=C3=A4sst Gr=C3=BC=C3=9Fen und wir freuen uns scho=
+n riesig auf
+euch und ein sch=C3=B6nes (hoffentlich sonniges) Sommerfest! :)
+
+--001a11c3029ab1011704fed88ec1
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr"><div>so, da m=C3=BCssten wir dann einfach mit meinen elter=
+n wieder zur=C3=BCckfahren von der hochzeit meiner cousine. mein vater woll=
+te glaub sowieso am selben tag wieder zur=C3=BCck, da k=C3=B6nnten wir uns =
+einfach anschlie=C3=9Fen. <br>
+
+</div>wenn du magst ;)<br><div><div><br><div class=3D"gmail_quote">--------=
+-- Weitergeleitete Nachricht ----------<br>Von: <b class=3D"gmail_sendernam=
+e">Sarah</b> <span dir=3D"ltr">&lt;<a href=3D"mailto:sarah-kalb@hotmail.com=
+">sarah-kalb@hotmail.com</a>&gt;</span><br>
+
+Datum: 22. Juli 2014 22:11<br>Betreff: Re: Sommerfest<br>An: Philipp Arras =
+&lt;<a href=3D"mailto:philipp.arras@gmail.com">philipp.arras@gmail.com</a>&=
+gt;, Thomas Kalb &lt;<a href=3D"mailto:mail@thomaskalb.de">mail@thomaskalb.=
+de</a>&gt;, Julia Gebest &lt;<a href=3D"mailto:julia_gebest@yahoo.de">julia=
+_gebest@yahoo.de</a>&gt;, Avischag M=C3=BCller &lt;<a href=3D"mailto:avimue=
+ller@gmx.de">avimueller@gmx.de</a>&gt;, <a href=3D"mailto:tabea.metzger@gma=
+il.com">tabea.metzger@gmail.com</a>, Caspar Kolster &lt;<a href=3D"mailto:c=
+asparkolster@web.de">casparkolster@web.de</a>&gt;, Bettina Kessler &lt;<a h=
+ref=3D"mailto:bettina.kessler@web.de">bettina.kessler@web.de</a>&gt;, Anna =
+Hennig &lt;<a href=3D"mailto:cellanna0403@arcor.de">cellanna0403@arcor.de</=
+a>&gt;, Caspar Kolster &lt;<a href=3D"mailto:casparkolster@googlemail.com">=
+casparkolster@googlemail.com</a>&gt;, Stefanie Rott &lt;<a href=3D"mailto:s=
+teffi.rott@hotmail.com">steffi.rott@hotmail.com</a>&gt;, Stefanie Prosek &l=
+t;<a href=3D"mailto:julius.prosek@freenet.de">julius.prosek@freenet.de</a>&=
+gt;, Sven Muehleck &lt;<a href=3D"mailto:svenmuehleck@googlemail.com">svenm=
+uehleck@googlemail.com</a>&gt;, Michael Sattler &lt;<a href=3D"mailto:mich9=
+0@gmx.de">mich90@gmx.de</a>&gt;, Lilia Schopf &lt;<a href=3D"mailto:liliasc=
+hopf@gmx.net">liliaschopf@gmx.net</a>&gt;, Ushma Issar &lt;<a href=3D"mailt=
+o:issar@mail.com">issar@mail.com</a>&gt;, Annemarie Leschinski &lt;<a href=
+=3D"mailto:ami-violine@web.de">ami-violine@web.de</a>&gt;, Gidon Frischkorn=
+ &lt;<a href=3D"mailto:g.frischkorn@stud.uni-heidelberg.de">g.frischkorn@st=
+ud.uni-heidelberg.de</a>&gt;, Johanna Weng &lt;<a href=3D"mailto:johanna.we=
+ng@web.de">johanna.weng@web.de</a>&gt;, Nicolai Sander &lt;<a href=3D"mailt=
+o:nicolaisander@hotmail.de">nicolaisander@hotmail.de</a>&gt;, Konrad Heimpe=
+l &lt;<a href=3D"mailto:konrad.heimpel@googlemail.com">konrad.heimpel@googl=
+email.com</a>&gt;, Jakob Park &lt;<a href=3D"mailto:park.jakob@googlemail.c=
+om">park.jakob@googlemail.com</a>&gt;, Hakeem Holloway &lt;<a href=3D"mailt=
+o:sevenholloway@yahoo.com">sevenholloway@yahoo.com</a>&gt;, Stephen Sharesk=
+i &lt;<a href=3D"mailto:s.shareski@web.de">s.shareski@web.de</a>&gt;, Josef=
+a Dengler &lt;<a href=3D"mailto:j.dengler@gmx.de">j.dengler@gmx.de</a>&gt;<=
+br>
+
+Cc: Merle Deutschmann &lt;<a href=3D"mailto:ml.deutschmann@googlemail.com">=
+ml.deutschmann@googlemail.com</a>&gt;, Maria Engel &lt;<a href=3D"mailto:mr=
+engel@web.de">mrengel@web.de</a>&gt;, Benedikt Friedrich &lt;<a href=3D"mai=
+lto:beni.friedrich@gmail.com">beni.friedrich@gmail.com</a>&gt;, Thea Gr=C3=
+=BCtzner &lt;<a href=3D"mailto:gruetzner.thea@googlemail.com">gruetzner.the=
+a@googlemail.com</a>&gt;, Katharina Jungwirt &lt;<a href=3D"mailto:katha04@=
+rhein-neckar.netsurf.de">katha04@rhein-neckar.netsurf.de</a>&gt;, Esther Ka=
+lb &lt;<a href=3D"mailto:estherkalb@hotmail.com">estherkalb@hotmail.com</a>=
+&gt;, Tabea Kalb &lt;<a href=3D"mailto:tabea.kalb@web.de">tabea.kalb@web.de=
+</a>&gt;, Viola Kalb &lt;<a href=3D"mailto:viola.kalb@web.de">viola.kalb@we=
+b.de</a>&gt;, Sebastian Kraus &lt;<a href=3D"mailto:s.kraus@thphys.uni-heid=
+elberg.de">s.kraus@thphys.uni-heidelberg.de</a>&gt;, Theresa Lechner &lt;<a=
+ href=3D"mailto:thesi95@gmx.net">thesi95@gmx.net</a>&gt;, Lin Ling &lt;<a h=
+ref=3D"mailto:linling89@yahoo.de">linling89@yahoo.de</a>&gt;, Johanna Ludwi=
+g &lt;<a href=3D"mailto:johannaludwig95@googlemail.com">johannaludwig95@goo=
+glemail.com</a>&gt;, Sarah Mahmoud &lt;<a href=3D"mailto:sarah.mahmoud@hotm=
+ail.de">sarah.mahmoud@hotmail.de</a>&gt;, Franziska Rust &lt;<a href=3D"mai=
+lto:franziska.rust@yahoo.com">franziska.rust@yahoo.com</a>&gt;, Lucienne Sc=
+hl=C3=BCrmann &lt;<a href=3D"mailto:lucienne.schluermann@gmx.de">lucienne.s=
+chluermann@gmx.de</a>&gt;, Frederik Schmidt &lt;<a href=3D"mailto:freddisch=
+midt@gmail.com">freddischmidt@gmail.com</a>&gt;, Carolin von Harsdorf &lt;<=
+a href=3D"mailto:carolin.vonharsdorf@gmail.com">carolin.vonharsdorf@gmail.c=
+om</a>&gt;, Fabian Weithoff &lt;<a href=3D"mailto:fabi.weithoff@t-online.de=
+">fabi.weithoff@t-online.de</a>&gt;, Julia Werner &lt;<a href=3D"mailto:jol=
+iewerner@gmx.de">joliewerner@gmx.de</a>&gt;, Matthias Werner &lt;<a href=3D=
+"mailto:matzewerner@gmx.de">matzewerner@gmx.de</a>&gt;, Marlene Winker &lt;=
+<a href=3D"mailto:marlene.winker@googlemail.com">marlene.winker@googlemail.=
+com</a>&gt;, Noemi Zimdahl &lt;<a href=3D"mailto:nono.z@web.de">nono.z@web.=
+de</a>&gt;, Clara Zschocke &lt;<a href=3D"mailto:czschocke90@googlemail.com=
+">czschocke90@googlemail.com</a>&gt;<br>
+
+<br><br><div class=3D""><br>
+Hallo liebe JKPHler und ehemaligen JKPHler,<br>
+<br></div>
+der Termin f=C3=BCrs Sommerfest steht: Sonntag der 7. September!!<br>
+Ab 16 Uhr bei uns Kalbs zu Hause.<br>
+Hier nochmal unsere Adresse f=C3=BCr all diejenigen die vielleicht noch nie=
+ bei uns waren, oder sich nicht mehr exakt erinnern k=C3=B6nnen ;) : Neuer =
+Friedhofweg 14, Waldhilsbach<br>
+<br>
+Wie in der letzten Mail schon gesagt d=C3=BCrft ihr gerne Freund/in und Fam=
+ilie mitbringen.<br>
+Wenns geht einfach kurz Bescheid sagen, damit wir wegen Essensmengen planen=
+ k=C3=B6nnen.<br>
+Wer was kleines zu Essen beisteuern will, darf dies =C3=BCberaus gerne tun =
+;) (und dann vielleicht kurz durchgeben was, damit wir nicht das gleiche ma=
+chen^^)<br>
+<br>
+=C3=9Cbernachten darf auch wer will! Wenns geht Schlafsack mitbringen, wenn=
+ nicht... =C2=A0finden wir auch hier bei uns was!<br>
+<br>
+Wer Lust auf Kammermusik hat.. Instrument nicht vergessen! =C2=A0:)<br>
+<br>
+Die Kalbsche Mannschaft l=C3=A4sst Gr=C3=BC=C3=9Fen und wir freuen uns scho=
+n riesig auf euch und ein sch=C3=B6nes (hoffentlich sonniges) Sommerfest! :=
+)<br>
+</div><br></div></div></div>
+
+--001a11c3029ab1011704fed88ec1--

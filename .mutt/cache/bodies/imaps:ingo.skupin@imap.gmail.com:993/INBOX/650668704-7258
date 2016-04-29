@@ -1,0 +1,141 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp31984pdb;
+        Tue, 25 Mar 2014 05:27:24 -0700 (PDT)
+X-Received: by 10.180.91.114 with SMTP id cd18mr7045668wib.28.1395750443037;
+        Tue, 25 Mar 2014 05:27:23 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id fy2si4000849wib.56.2014.03.25.05.27.20
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES256-SHA bits=256/256);
+        Tue, 25 Mar 2014 05:27:22 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de;
+       dkim=pass (test mode) header.i=@3-1415.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb107)
+ with ESMTPS (Nemesis) id 0MQ3sV-1WOHaP0Nud-005KdN for
+ <ingo.skupin@gmail.com>; Tue, 25 Mar 2014 13:27:18 +0100
+Received: from mo4-p00-ob.smtp.rzone.de ([81.169.146.218]) by mx-ha.web.de
+ (mxweb107) with ESMTPS (Nemesis) id 0MC3f2-1WJakA0Nma-008tOM for
+ <ingo.skupin@web.de>; Tue, 25 Mar 2014 13:27:18 +0100
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; t=1395750407; l=3582;
+	s=domk; d=3-1415.de;
+	h=Content-Transfer-Encoding:Content-Type:In-Reply-To:References:
+	Subject:To:MIME-Version:From:Date:X-RZG-CLASS-ID:X-RZG-AUTH;
+	bh=/cW/9iy0hQceL3oncfzyatGJ+DE=;
+	b=Dvd8cW35quS8mecJqcUdie/2yxW6gZ+vFpR2yR9C0ElGsOT/Thguof+1HCD5NwZLhz9
+	qdv3pc9ToE+0hWzBy330HL+s6HK7++iGm4Aci3znSPu5yS2zK9h3jBLBv0ztlszZehBZ7
+	3mMMIx8BphWKD2BL2gmEHOvnJJhfUQRJC7U=
+X-RZG-AUTH: :ICICfFOrc/oov7XdMPZS+An+TOwdMN9zM5SvLZSWyGxMPJEVOv8JkionGQDcu+ct
+X-RZG-CLASS-ID: mo00
+Received: from [192.168.178.51] (stgt-5f715b97.pool.mediaWays.net [95.113.91.151])
+	by smtp.strato.de (RZmta 32.31 DYNA|AUTH)
+	with ESMTPSA id a00bb9q2PCQV3Rv
+	(using TLSv1 with cipher DHE-RSA-AES256-SHA (256/256 bits))
+	(Client did not present a certificate);
+	Tue, 25 Mar 2014 13:26:31 +0100 (CET)
+Message-ID: <533175F7.7010200@3-1415.de>
+Date: Tue, 25 Mar 2014 13:26:31 +0100
+From: Lukas Fischer <L.Fischer@3-1415.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.2.0
+MIME-Version: 1.0
+To: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>, 
+ Sabine Pfister <pfistersabine@googlemail.com>,
+ Steffen Sautter <steffen.sautter@web.de>, 
+ Yannick Frey <yannick.frey1994@web.de>,
+ Tizian Decker <tizian_decker@web.de>, Lena Hahn <LenaHahn20@web.de>, 
+ Florian Sebert <florian@floriansebert.de>,
+ "raphael@rothschink.de" <raphael@rothschink.de>, 
+ Ingo Skupin <ingo.skupin@web.de>,
+ Julia Wollny <wollny.julia@me.com>, 
+ Rainer Pfister <rainer.pfister@me.com>,
+ "Dr. Stefan Wiehr" <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>, 
+ Pfister <kinderaerztin_susanne@t-online.de>,
+ "tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>, 
+ "decker.mitat@onlinehome.de" <decker.mitat@onlinehome.de>,
+ "harryd.bath@t-online.de" <harryd.bath@t-online.de>, 
+ "mpfister@geuder.de" <mpfister@geuder.de>,
+ "martina@pfister-heidelberg.de" <martina@pfister-heidelberg.de>
+Subject: Re: USA-Reise Update III
+References: <359C8784E284224CAB196A0069F3EE79FFB29B0249@DKFZEX01.ad.dkfz-heidelberg.de> <4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de>
+In-Reply-To: <4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de>
+X-Enigmail-Version: 1.6
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+Hallo zusammen,
+
+
+sind TShirts denn erwünscht? Wenn ja: Wäre schwarzes TShirt mit rotem
+Aufdruck in Ordnung (analog zum Cover der Australien CD nur invertiert)?
+Preislich könnte man die TShirts mit Brust und Rückenaufdruck für
+ungefähr 13? bekommen. Besser fände ich Polo Hemden, welche sich
+geschätzt bei 18? einpegeln müssten.
+
+
+Grüße
+Lukas
+
+Am 24.03.2014 00:17, schrieb Pfister, Stefan:
+> Ihr Lieben,
+> 
+> heute wieder ein kleines Update zu unserer Reise: 1.) Am 12.4. um
+> 19 Uhr haben wir noch ein Abschiedskonzert im Musikzentrum in
+> Pfrondorf (auf Spendenbasis) mit em Repertoire der Reise - bitte
+> macht dafür kräftig Werbung (@Lukas: Könntest Du es auch
+> baldmöglichst auf die Homepage stellen?) 2.) Treffen ist in
+> Stuttgart am 13.4. um 8:30 3.) WICHTIG: Alle brauchen ein gültiges
+> ESTA (Visums-Ersatz, muss vorher beantragt sein, s. meine früheren
+> Emails!) UND einen noch für mindestens 6 Monate über die Reise
+> hinaus gültigen Reisepass (beides müssten nach meinen Informationen
+> unterdessen alle haben, muss aber auch MITGEBRACHT werden). 4.)
+> Jeder darf 18 kg Gepäck aufgeben (den Rest brauchen wir für die
+> großen Instrumente), die "kleineren" Instumente (Sopran bis Tenor)
+> sollten als Handgepäck mitgenommen werden. Zusätzlich geht dann nur
+> noch ein kleines Handgepäckstück, z.B. eine kleine Tasche. 5.) Wir
+> sind insgesamt in 3 Gastfamilien. Neben den obligatorischen
+> TSE-CDs, die das Ensemble zur Verfügung stellen wird, wäre es
+> super, wenn jeder von Euch sich noch was Kleines einfallen lassen
+> könnte, z.B. als Erinnerung an Tübingen oder so? 6.) Die
+> Zusatz-Ausflüge in Washington und New York sind noch in Planung,
+> bis jetzt sind Monuments in the Dark, Arlington und Spy Museum in
+> Washington, sowie Empire State Building und State of Liberty/Ellis
+> Island in NYC die Favoriten. 7.) WICHTIG: Für die
+> Musikinstrumentenversicherung bräuchte ich, möglichst im Laufe der
+> kommenden Woche, von ALLEN den Hersteller, Baujahr und Wert (incl.
+> Koffer) Eures Instrumentes. Wir prüfen gerade, ob es nicht
+> günstiger ist, über den Blasmusikverband eine Versicherung für das
+> ganze Jahr abzuschließen, da hätte ja sicher niemand was dagegen.
+> Hat jemand bereits eine Musikinstrumentenversicherung? Wenn ja,
+> würde diese Konzertreisen ins außer-europäische Ausland umfassen? 
+> 8.) Brauchen wir noch ein Tour-T-Shirt? Wenn ja, Freiwillige vor,
+> die das in die Hand nehmen und einen Vorschlag erarbeiten! 9.)
+> Dasselbe gilt für unsere neu zu gestaltenden Ensemble-Krawatten
+> (bzw Halstücher für die Mädels)! 10.) Diejenigen, die bereit sind,
+> einen Teil der Strecke Atlanta - Talahassee - Atanta mit einem der
+> Minivans zu fahren, sollten bitte einen gültigen Führerschein
+> mitbringen. 11.) Das (fast) endgültige Programm schicken wir Euch
+> dann in den nächsten Tagen?
+> 
+> Gibt es weitere Fragen?
+> 
+> Wir freuen uns sehr auf die Reise!
+> 
+> Euer Orga-Team
+> 
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1.4.14 (GNU/Linux)
+Comment: Using GnuPG with Thunderbird - http://www.enigmail.net/
+
+iQEcBAEBAgAGBQJTMXX3AAoJEFOYM1E91uODJc0H/0Gn48M8hZoZrDGBELicm1UC
+TttXAGhd+ZMKmkjMQjQYZSrqP7UVOtsVYi9V47S+eYgu69pU08TERhFrFScjojNw
+s0PTWRBUnHvAPu2rLzLeSy1nQAoltQqEyhimwUWg9f0myQ7KvmP4k9Km5p0vduiU
+qCLosxToAXAKLwjLZpKmVEEP8BUnp/uilNp7eeXmYmBkwmsG/L1iRxztu3L4jYJa
+pw7uxh/HuiyyrUGAP3rLsMCAy7Wy5Xwms/wvymKz2laPbKdI2WTkM5UKri2LZ90p
+yTyE2tW09S32KjK0DVJ/W9vsmqoC8QiXU5pvPOUUxCIfcXf/dc4T4yGq8COsDRs=
+=iIjq
+-----END PGP SIGNATURE-----

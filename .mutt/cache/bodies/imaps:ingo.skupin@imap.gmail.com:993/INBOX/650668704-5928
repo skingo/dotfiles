@@ -1,0 +1,163 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp19044pdd;
+        Tue, 2 Jul 2013 06:33:42 -0700 (PDT)
+X-Received: by 10.15.109.200 with SMTP id cf48mr26312331eeb.46.1372772022003;
+        Tue, 02 Jul 2013 06:33:42 -0700 (PDT)
+Return-Path: <stevekoch@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.17.21])
+        by mx.google.com with ESMTP id a41si14306310eew.206.2013.07.02.06.33.41
+        for <ingo.skupin@gmail.com>;
+        Tue, 02 Jul 2013 06:33:42 -0700 (PDT)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 212.227.17.21 as permitted sender) client-ip=212.227.17.21;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of stevekoch@gmx.de designates 212.227.17.21 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: from Arbeitstier ([91.44.101.182]) by mail.gmx.com (mrgmx103) with
+ ESMTPA (Nemesis) id 0M7H2Y-1Tz8Mt2gwo-00x5tE; Tue, 02 Jul 2013 15:33:27 +0200
+Message-ID: <76DAAF23D80A40D1B33EE429C331404D@Arbeitstier>
+From: <stevekoch@gmx.de>
+To: "Anja Rentz" <anjarentz@arcor.de>,
+	<rs@mut-anhaenger.de>,
+	<f.a.brodbeck@kabelbw.de>,
+	<luisa.schroth@web.de>,
+	<hennrich-paul@web.de>,
+	<sara.eberspaecher@live.de>,
+	<sarah-petzoldt@freenet.de>,
+	<tanja.beichter@gmx.de>,
+	<anja-s96@web.de>,
+	<david.eisele@arcor.de>,
+	<ralf.krasselt@arcor.de>,
+	<annika.steib@hotmail.com>,
+	<christine.dieter.bayer@t-online.de>,
+	<sonja.christiane@web.de>,
+	<uli.mueller@online.de>,
+	<luisa.frietsch@t-online.de>,
+	"Felix Wetzel" <felix@fam-wetzel.com>,
+	<benjamin@steiner.org>,
+	<vera.ringhoffer@web.de>,
+	<v.tomschi@web.de>,
+	"Lotta Zeiger" <lotta@zeiger-web.de>,
+	"Paul Jacot" <paul.jacot@gmx.net>,
+	"Th. Rotter" <T.Rotter@t-online.de>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	<ingo.skupin@gmail.com>,
+	"Vanessa Wuensch" <vanessa.wuensch@web.de>,
+	"Luisa Engel" <engel.luisa@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	<Baurlu@web.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	<nmachanek@web.de>,
+	<smachanek@web.de>,
+	<uli__kurz@t-online.de>,
+	"Christian Baur" <chrisbaur@hotmail.de>,
+	"Marvin Schaich" <Marvin.Schaich@t-online.de>,
+	"Marian Basta" <m-basta@web.de>,
+	<jakob.krenn@t-online.de>,
+	"Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+	<felix.koschei@freenet.de>,
+	<nico.felbinger@web.de>,
+	<florian-floriaus@web.de>,
+	<oliiiiver@hotmail.de>,
+	<jonaskolibius@web.de>,
+	<janina_schott@web.de>,
+	"Philip Koschei" <koschi_99@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	=?iso-8859-1?Q?Florian_Strau=DF?= <strauss-florian@web.de>,
+	=?iso-8859-1?Q?Michael_Pf=E4nder?= <Michi110793@aol.com>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Christoph Korschinek" <christoph@korschinek.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Fanny Rothe" <fanny@wolber-rothe.de>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	"Annika Vesenmaier" <an.ve@arcor.de>,
+	=?iso-8859-1?Q?David_K=FCchle?= <D1V23@aol.com>,
+	"Lisa Richter" <lisarichter93@hotmail.de>,
+	=?iso-8859-1?Q?Philipp_Gr=F6ber?= <groeber_95@web.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	"Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Marco Diez" <marcodiez@gmx.de>,
+	"Kristina Kraemer" <kristina.kraemer@akris.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	<nils.fischer98@gmx.de>,
+	<annabelnannt@gmx.de>,
+	<david@kuechle-salach.de>,
+	"Thorsten Schmidt" <Thorsten.Schmidt_Schmidt@web.de>,
+	"Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+	"Tobias Beichter" <tobias.beichter@gmx.de>,
+	"Christine Zeller" <chrisi.zeller@web.de>,
+	"Matthias Albrecht" <matze.albrecht@web.de>,
+	"Carolin Brodbeck" <carolin.brodbeck@freenet.de>
+Subject: Probe am Samstag 6 Juli
+Date: Tue, 2 Jul 2013 15:33:23 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005C_01CE7739.7CD99AC0"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+X-Provags-ID:  V03:K0:17iAGghUp6VRwHrGLZITAqyx7n2kCeCoE5D5bL53C1ONXUcZnDs
+ 6JhDXa88NVDG9ubxD/2XeLBNIyJZDIzMZr7U6Xl69DcdY1yon3sHIhc2T7sPit0eIqkh97p
+ b+glveaqVKTJ/KERknLaVkanddH1yU2P29DsRsSGhDXeaa9QlhQ/sbmMT/PePeEzBaXibgY
+ /Osze23HRmjuLUzHw2X5w==
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_005C_01CE7739.7CD99AC0
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+zun=E4chst einmal danke an alle die vergangenen Freitag beim Landratsamt =
+dabei waren.
+Am Samstag 6. Juli findet schon die n=E4chste Probe statt, auch diese =
+findet entgegen des Plans nur morgens statt. Das Problem ist mal wieder =
+die Anwesenheit mittags.
+Wir proben von 9:00 Uhr (p=FCnktlich!) bis 13:30 Uhr. In der Zeit =
+sollten wir einigerma=DFen vollz=E4hlig sein.=20
+
+Bis Samstag,
+
+Viele Gr=FC=DFe
+Stefan
+------=_NextPart_000_005C_01CE7739.7CD99AC0
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>Hallo zusammen,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>zun=E4chst einmal danke an alle die vergangenen Freitag beim =
+Landratsamt=20
+dabei waren.</DIV>
+<DIV>Am Samstag 6. Juli findet schon die n=E4chste Probe statt, auch =
+diese findet=20
+entgegen des Plans nur morgens statt. Das Problem ist mal wieder die =
+Anwesenheit=20
+mittags.</DIV>
+<DIV><STRONG>Wir proben von 9:00 Uhr (p=FCnktlich!) bis 13:30 =
+Uhr.</STRONG> In der=20
+Zeit sollten wir einigerma=DFen vollz=E4hlig sein. </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Bis Samstag,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Viele Gr=FC=DFe</DIV>
+<DIV>Stefan</DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_005C_01CE7739.7CD99AC0--
+

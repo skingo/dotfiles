@@ -1,0 +1,68 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.134.225 with SMTP id pn1csp10768pdb;
+        Sat, 9 Aug 2014 03:11:06 -0700 (PDT)
+X-Received: by 10.180.9.38 with SMTP id w6mr4793605wia.61.1407579065756;
+        Sat, 09 Aug 2014 03:11:05 -0700 (PDT)
+Return-Path: <tobias.gruber@posteo.de>
+Received: from posteo.de (mx02.posteo.de. [89.146.194.165])
+        by mx.google.com with ESMTPS id h7si7023908wiz.90.2014.08.09.03.11.04
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 09 Aug 2014 03:11:05 -0700 (PDT)
+Received-SPF: pass (google.com: domain of tobias.gruber@posteo.de designates 89.146.194.165 as permitted sender) client-ip=89.146.194.165;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of tobias.gruber@posteo.de designates 89.146.194.165 as permitted sender) smtp.mail=tobias.gruber@posteo.de
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.posteo.de (Postfix) with ESMTP id BE8AF258D248;
+	Sat,  9 Aug 2014 12:11:04 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at posteo.de
+Received: from posteo.de ([10.125.125.178]) (using TLS)
+	by localhost (amavis1.posteo.de [10.125.125.165]) (amavisd-new, port 10026)
+	with ESMTPS id Xonr0iNSgWY6; Sat,  9 Aug 2014 12:11:03 +0200 (CEST)
+Received: from mail.posteo.de (localhost [127.0.0.1])
+	by mail.posteo.de (Postfix) with ESMTPSA id A04CE2C133E;
+	Sat,  9 Aug 2014 12:11:03 +0200 (CEST)
+Message-ID: <53E5F3B7.4040204@posteo.de>
+Date: Sat, 09 Aug 2014 12:11:03 +0200
+From: Tobias Gruber <tobias.gruber@posteo.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:31.0) Gecko/20100101 Thunderbird/31.0
+MIME-Version: 1.0
+To: Ingo Skupin <ingo.skupin@googlemail.com>, 
+ Yvonne Gretzinger <yvonne.gretzinger@gmx.de>,
+ Nicolas Allgaier <n.allgaier@gmx.de>, 
+ Tobias Gruber <tobias.gruber@posteo.de>,
+ Orpheo Saxophone Quartett <orpheo-sax-quartett@gmx.de>
+Subject: =?UTF-8?B?U3RyYcOfZW5tdXNpaw==?=
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+das Wetter sieht für morgen ganz ordentlich aus! Das heißt, wir können
+endlich mal auf der Straße spielen.
+
+Da in Friedrichshafen allerdings die Uferpromenade von einer
+Veranstaltung belegt ist, würden wir nach Lindau fahren.
+
+Passen die folgenden Uhrzeiten für euch?
+
+7:32 Tübingen  +Ingo +Tobi
+8:11 Plochingen
+
+8:16 Plochingen Abfahrt
+9:25 Laupheim West +Yvonne +Nico
+10:55 Lindau
+
+17:02/18:06 Lindau
+18:29/19:28 Laupheim West
+19:39/20:39 Plochingen
+20:23/21:23 Tübingen
+
+Ich würde das BaWü-Ticket für uns vier kaufen.
+
+Yvonne, Nico: Fahrt ihr am Sonntag dann noch nach Stuttgart? Falls ja,
+wollt ihr im Zug sitzen bleiben, damit wir das BaWü-Ticket gemeinsam
+weiternutzen können oder wie sollen wir das am Besten machen?
+
+Viele Grüße und bis morgen,
+Tobi

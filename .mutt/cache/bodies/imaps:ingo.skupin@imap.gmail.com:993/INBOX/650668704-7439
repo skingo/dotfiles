@@ -1,0 +1,194 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp31901pdb;
+        Fri, 25 Apr 2014 02:47:27 -0700 (PDT)
+X-Received: by 10.15.102.74 with SMTP id bq50mr9474505eeb.21.1398419247172;
+        Fri, 25 Apr 2014 02:47:27 -0700 (PDT)
+Return-Path: <Sandra.Rodemeister@uni-hohenheim.de>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id t3si12370293eeg.181.2014.04.25.02.47.26
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Fri, 25 Apr 2014 02:47:27 -0700 (PDT)
+Received-SPF: none (google.com: Sandra.Rodemeister@uni-hohenheim.de does not designate permitted sender hosts) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: Sandra.Rodemeister@uni-hohenheim.de does not designate permitted sender hosts) smtp.mail=Sandra.Rodemeister@uni-hohenheim.de;
+       dkim=pass header.i=@uni-hohenheim.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 5150AAC8A07; Fri, 25 Apr 2014 11:46:56 +0200 (CEST)
+X-Original-To: pause@concertband.de
+Delivered-To: pause@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from smtp2.rz.uni-hohenheim.de (smtp2.rz.uni-hohenheim.de [144.41.4.42])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTP id DFFA7AC81B2;
+	Fri, 25 Apr 2014 11:46:55 +0200 (CEST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/simple; d=uni-hohenheim.de;
+	 h=content-language:x-mailer:content-type:content-type
+	:mime-version:message-id:date:date:subject:subject:from:from; s=
+	main; t=1398418243; x=1400232644; bh=uUg3RqEt6m4nYn0YkGgyXsmIQrs
+	dvc56b1poYcLY49E=; b=AnThe2YyCdPh+dD8SSXFJiBTw85UiVT7DyThEU+KW6l
+	CelenfP5K2fGFxQxpI/YOWIhgjdMbQ+/MH7rkdYvHidAZ1KE1hujM/rMOoRbi40o
+	dtAyq9QXkvBvaWD1zAWCoOmV2aKmdsXpJALl1GAa+sKvMvoUgMPRbnRKuY5dp46E
+	=
+X-Virus-Scanned: amavisd-new at uni-hohenheim.de
+Received: from mailserv.rz.uni-hohenheim.de (dovecot1.rz.uni-hohenheim.de [144.41.4.87])
+	by smtp2.rz.uni-hohenheim.de (Postfix) with ESMTP;
+	Fri, 25 Apr 2014 11:30:43 +0200 (CEST)
+Received: from C3PO (c3po.biochemie.uni-hohenheim.de [144.41.33.193])
+	by mailserv.rz.uni-hohenheim.de (Postfix) with ESMTP id 79B921900D9;
+	Fri, 25 Apr 2014 11:30:44 +0200 (CEST)
+From: "Sandra Rodemeister" <Sandra.Rodemeister@uni-hohenheim.de>
+To: <alle@concertband.de>,
+	<pause@concertband.de>
+Subject: =?iso-8859-1?Q?R=FCckmeldung_Orchesterprojekt_Oktober?=
+Date: Fri, 25 Apr 2014 11:30:42 +0200
+Message-ID: <001501cf6069$07527230$15f75690$@uni-hohenheim.de>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0016_01CF6079.CADE4F70"
+X-Mailer: Microsoft Outlook 14.0
+Thread-Index: Ac9gaDqbAH7iDqppSaOqtejiQIZtVw==
+Content-Language: de
+
+This is a multipart message in MIME format.
+
+------=_NextPart_000_0016_01CF6079.CADE4F70
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+=20
+
+hier noch einmal eine kleine Erinnerungsmail f=FCr die R=FCckmeldung zu =
+unserem
+diesj=E4hrigen Sonderprojekt im Oktober 2014.
+
+Bislang haben sich ca. 60% der Angeschriebenen zur=FCckgemeldet =96 die =
+Frist
+endet am Sonntag, 27.04.2014.
+
+Es w=E4re sch=F6n, wenn sich m=F6glichst viele zur=FCckmelden w=FCrden =
+(notfalls auch
+in negativer Form=85), damit wir planen k=F6nnen, wie wir weiter =
+vorgehen
+wollen.
+
+Hier nochmal der Link zum Eintragen: http://doodle.com/n49a5rgpregkemtg
+
+Alle Infos zum Projekt (inkl. Termine) findet ihr entweder in meiner =
+ersten
+Mail vom 06.04. oder auf unserer Homepage im internen Bereich.
+
+Es w=E4re toll, wenn wir noch m=F6glichst viele positive R=FCckmeldungen =
+bekommen
+w=FCrden (v.a. im Holz und im Schlagwerk sieht es noch recht mager aus, =
+aber
+Blechbl=E4ser sind nat=FCrlich auch noch herzlich willkommen!), damit =
+wir das
+Projekt spielen k=F6nnen und somit einen Konzertsaal f=FCr unser =
+n=E4chstes
+Winterkonzert haben. Vielen Dank!
+
+=20
+
+Viele Gr=FC=DFe,
+
+Sandra=20
+
+=20
+
+
+------=_NextPart_000_0016_01CF6079.CADE4F70
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1"><meta name=3DGenerator content=3D"Microsoft Word =
+14 (filtered medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{mso-style-priority:99;
+	mso-style-link:"Nur Text Zchn";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:"Calibri","sans-serif";
+	color:windowtext;}
+span.NurTextZchn
+	{mso-style-name:"Nur Text Zchn";
+	mso-style-priority:99;
+	mso-style-link:"Nur Text";
+	font-family:"Calibri","sans-serif";}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-family:"Calibri","sans-serif";
+	mso-fareast-language:EN-US;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal>Hallo =
+zusammen,<o:p></o:p></p><p class=3DMsoNormal><o:p>&nbsp;</o:p></p><p =
+class=3DMsoNormal>hier noch einmal eine kleine Erinnerungsmail f=FCr die =
+R=FCckmeldung zu unserem diesj=E4hrigen Sonderprojekt im Oktober =
+2014.<o:p></o:p></p><p class=3DMsoNormal>Bislang haben sich ca. 60% der =
+Angeschriebenen zur=FCckgemeldet &#8211; die Frist endet am Sonntag, =
+27.04.2014.<o:p></o:p></p><p class=3DMsoNormal>Es w=E4re sch=F6n, wenn =
+sich m=F6glichst viele zur=FCckmelden w=FCrden (notfalls auch in =
+negativer Form&#8230;), damit wir planen k=F6nnen, wie wir weiter =
+vorgehen wollen.<o:p></o:p></p><p class=3DMsoPlainText>Hier nochmal der =
+Link zum Eintragen: <a =
+href=3D"http://doodle.com/n49a5rgpregkemtg">http://doodle.com/n49a5rgpreg=
+kemtg</a><o:p></o:p></p><p class=3DMsoNormal>Alle Infos zum Projekt =
+(inkl. Termine) findet ihr entweder in meiner ersten Mail vom 06.04. =
+oder auf unserer Homepage im internen Bereich.<o:p></o:p></p><p =
+class=3DMsoNormal>Es w=E4re toll, wenn wir noch m=F6glichst viele =
+positive R=FCckmeldungen bekommen w=FCrden (v.a. im Holz und im =
+Schlagwerk sieht es noch recht mager aus, aber Blechbl=E4ser sind =
+nat=FCrlich auch noch herzlich willkommen!), damit wir das Projekt =
+spielen k=F6nnen und somit einen Konzertsaal f=FCr unser n=E4chstes =
+Winterkonzert haben. Vielen Dank!<o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><p class=3DMsoNormal>Viele =
+Gr=FC=DFe,<o:p></o:p></p><p class=3DMsoNormal>Sandra <o:p></o:p></p><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p></div></body></html>
+------=_NextPart_000_0016_01CF6079.CADE4F70--
+

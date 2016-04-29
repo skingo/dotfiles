@@ -1,0 +1,67 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.124.193 with SMTP id mk1csp308pdb;
+        Sat, 3 May 2014 04:42:56 -0700 (PDT)
+X-Received: by 10.14.175.200 with SMTP id z48mr20216729eel.66.1399116970371;
+        Sat, 03 May 2014 04:36:10 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id r9si4387432eew.78.2014.05.03.04.35.40
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sat, 03 May 2014 04:36:10 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb008)
+ with ESMTPS (Nemesis) id 0Lom6d-1XN1v740Rn-00goT3 for
+ <ingo.skupin@gmail.com>; Sat, 03 May 2014 13:35:40 +0200
+Received: from mout.gmx.net ([212.227.15.19]) by mx-ha.web.de (mxweb008) with
+ ESMTPS (Nemesis) id 0LuPMV-1Wou0z40CV-011k57 for <ingo.skupin@web.de>; Sat,
+ 03 May 2014 13:35:38 +0200
+Received: from mout.gmx.net ([212.227.17.20]) by mx-ha.gmx.net (mxgmx005) with
+ ESMTPS (Nemesis) id 0M2oD8-1WxOK42ewg-00sf84; Sat, 03 May 2014 13:35:30 +0200
+Received: from [217.252.182.93] by 3capp-gmx-bs35 with HTTP; Sat, 3 May 2014
+ 13:35:30 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-c824e3ed-5807-44b6-88ae-40c08617df88-1399116930257@3capp-gmx-bs35>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_Holz+Dirigent Blasorchester"
+ <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>,
+ "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>
+Subject: =?UTF-8?Q?St=C3=A4ndle_am_Montag?=
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 3 May 2014 13:35:30 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:wB1R9vUTu1dBFLQQf+4gjtbbS5JqOWlTQaXmLLzYALd
+ 1szY9NagXOl4T+ig3GSB90a2tsY4njR84l7X3UZLn/01z8fLlb
+ sYt/FaN2zg0KBJbYD0Yahr53CuMp8jxjlLvws4IUyX2EhbwMZZ
+ t544eWgLUqfoY/v0Rbh1FoG0ET9y/emxE8FJ2tghgN5IK13clv
+ UVUf1z11VNbQB9ktzxa+FUxI//bc8Wg+4vYeXiOjGxViVgk4Ma
+ SwCW3J7WbZjty70n2nwD8zKC523snh1yNxAuKzKfmseq9BkiuH Ira67U=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo zusammen,</div>
+
+<div>auch am Montag 5. Mai&nbsp;haben wir ein St&auml;ndle zu spielen!</div>
+
+<div>Herdfeldstr. 75&nbsp; gegen&uuml;ber der Gemeindehalle bei Eugen K&auml;lberer</div>
+
+<div>19.30 Uhr!&nbsp; es gibt was zu Essen!</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div>
+
+<div>und denkt drann 16.30 Uhr heute Gemeindehalle abfahrt nach Wernau!</div>
+
+<div>&nbsp;</div>
+
+<div>und Donnerstag 8.Mai&nbsp; 19 Uhr St&auml;ndle bei Reinhold Steik&nbsp; in der Bergstra&szlig;e</div>
+
+<div>&nbsp;</div>
+
+<div>Gru&szlig; Timo</div>
+
+<div>&nbsp;</div></div></body></html>

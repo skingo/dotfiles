@@ -1,0 +1,81 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.137 with SMTP id ps9csp29681pdb;
+        Thu, 23 Jan 2014 23:30:21 -0800 (PST)
+X-Received: by 10.180.38.11 with SMTP id c11mr2029137wik.60.1390548621244;
+        Thu, 23 Jan 2014 23:30:21 -0800 (PST)
+Return-Path: <2014012407302073092cdb114f4e1081aad5e35a20bc4c@bounces.amazon.com>
+Received: from smtp-out-127-103.amazon.com (smtp-out-127-103.amazon.com. [176.32.127.103])
+        by mx.google.com with ESMTP id fu4si1084008wib.30.2014.01.23.23.30.20
+        for <ingo.skupin@gmail.com>;
+        Thu, 23 Jan 2014 23:30:21 -0800 (PST)
+Received-SPF: pass (google.com: domain of 2014012407302073092cdb114f4e1081aad5e35a20bc4c@bounces.amazon.com designates 176.32.127.103 as permitted sender) client-ip=176.32.127.103;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 2014012407302073092cdb114f4e1081aad5e35a20bc4c@bounces.amazon.com designates 176.32.127.103 as permitted sender) smtp.mail=2014012407302073092cdb114f4e1081aad5e35a20bc4c@bounces.amazon.com;
+       dkim=pass header.i=payments-messages@amazon.com;
+       dmarc=pass (p=QUARANTINE dis=NONE) header.from=amazon.com
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.com; i=payments-messages@amazon.com; q=dns/txt;
+  s=amazon201209; t=1390548664; x=1422084664;
+  h=date:from:reply-to:to:message-id:subject:mime-version;
+  bh=Rb6fiwm3d2q0zErdlzESlhoveZE1f+4uUWqvGeRTEqY=;
+  b=l5T1HZVVEGRFDYrn8T7YI9ITfAQH54ID2gmikUYhjqe5ZPJnP/HZ+Wdj
+   udNaer4LPLTdLqVUVv37yl+xXFJpzp76J6pAQ3oymrTHITAE7plZ0mDdA
+   eovhNXVTaxfjXZAG7z7mBB+AA6UmNiPjGf0NO7Y01yBjhjOBavD78Mmrx
+   s=;
+Date: Fri, 24 Jan 2014 07:30:20 +0000 (UTC)
+From: "Amazon.de" <payments-messages@amazon.com>
+Reply-To: "Amazon.de" <payments-messages@amazon.com>
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Message-ID: <urn.correios.msg.2014012407302073092cdb114f4e1081aad5e35a20bc4c@1390548620357.rte-svc-eu-1abig-i-6ca97423.eu-west-1.amazon.com>
+Subject: =?UTF-8?Q?Gutschriftbest=C3=A4tigung_f=C3=BCr_Be?=
+ =?UTF-8?Q?stellung_304-0558961-0005909?=
+MIME-Version: 1.0
+Content-Type: multipart/mixed; 
+	boundary="----=_Part_98492_1697976315.1390548620355"
+Bounces-to: 2014012407302073092cdb114f4e1081aad5e35a20bc4c@bounces.amazon.com
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.2014012407302073092cdb114f4e1081aad5e35a20bc4c@1390548620357.rte-svc-eu-1abig-i-6ca97423.eu-west-1.amazon.com>
+
+------=_Part_98492_1697976315.1390548620355
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Guten Tag,
+
+Amazon.de informiert zu Ihrer Gutschrift.
+
+Wir bestaetigen die Erstattung von 40,43 =E2=82=AC fuer Ihre Bestellung 304=
+-0558961-0005909 bei EliteDigital DE.
+
+Die Erstattung bezieht sich auf folgende(n) Artikel :
+
+    Artikel : Finite Automata, Formal Logic, and Circuit Complexity (Progre=
+ss in Theoretical Computer Science)
+    Menge : 1
+    ASIN : 0817637192
+    Grund der Erstattung : Kontoberichtigung
+
+    Und so setzt sich die Erstattung zusammen:
+ =20
+        Artikel Erstattung : 37,43 =E2=82=AC
+        Versand Erstattung : 3,00 =E2=82=AC
+
+Die Erstattung erfolgt wie im Folgenden aufgefuehrt:
+
+* auf Ihr Bankkonto: 40,43 =E2=82=AC
+
+Der Betrag wird innerhalb der naechsten 10 Werktage ueberwiesen.
+
+Bei Fragen besuchen Sie bitte unsere Hilfeseiten :
+http://www.amazon.de/gp/help/customer/display.html?nodeId=3D504874
+
+Vielen Dank fuer Ihren Einkauf bei Amazon.de.
+
+Freundliche Gruesse
+
+Amazon.de Kundenservice
+http://www.amazon.de
+
+
+------=_Part_98492_1697976315.1390548620355--

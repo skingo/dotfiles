@@ -1,0 +1,500 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.199.140 with SMTP id es12csp181628vcb;
+        Thu, 21 Jun 2012 13:57:55 -0700 (PDT)
+Received: by 10.181.11.137 with SMTP id ei9mr23177242wid.21.1340312273526;
+        Thu, 21 Jun 2012 13:57:53 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id cj2si8313599wib.10.2012.06.21.13.57.53;
+        Thu, 21 Jun 2012 13:57:53 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@googlemail.com
+Received: from mail-bk0-f41.google.com ([209.85.214.41]) by mx-ha.web.de
+ (mxweb102) with ESMTP (Nemesis) id 0LiEU3-1S3Ioh3w3f-00mkqZ for
+ <ingo.skupin@gmail.com>; Thu, 21 Jun 2012 22:57:52 +0200
+Received: by mail-bk0-f41.google.com with SMTP id jm19so964164bkc.28
+        for <multiple recipients>; Thu, 21 Jun 2012 13:56:23 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=googlemail.com; s=20120113;
+        h=from:to:references:in-reply-to:subject:date:message-id:mime-version
+         :content-type:x-mailer:thread-index:content-language;
+        bh=sCWD0z5g57T+PUcVQ2w7iuhlPJNlsQLgKI+tHYO9QKk=;
+        b=h7pu6X+nQB2o64bEIh+cNAk7XGakabDNN860zDLmrlQeOEzBwZ0Po3rOyVPnDBva6C
+         clOFhOxgArGxH5p40NC/SeRaYKYXUbHMv+phx3dEpB70IDCxmDE/8wyjXGBoG2b6Z0ld
+         7aIPsDHSSytFS0ikIux5jrabQcMMHYDDZ2ZjAEDUzH+vYMa80+5NYgmpLgf/vO8vN6MZ
+         BXHuQ/HTT3nYVDW3ql46yE+liEPEawibceil43fJfQ5vvMC18P3rDRfr5gwjvsX/qj8x
+         eslAsWtVd+PdOURnCjK3IPhZrAO8ElgsqUF+YY2bFunyrj12yawOmCrQiBezgV6CLe72
+         wuGQ==
+Received: by 10.204.156.137 with SMTP id x9mr12434661bkw.135.1340312183407;
+        Thu, 21 Jun 2012 13:56:23 -0700 (PDT)
+Return-Path: <pfistersabine@googlemail.com>
+Received: from pfistersabinPC (dslb-088-065-008-185.pools.arcor-ip.net. [88.65.8.185])
+        by mx.google.com with ESMTPS id ig1sm33515220bkc.4.2012.06.21.13.56.18
+        (version=TLSv1/SSLv3 cipher=OTHER);
+        Thu, 21 Jun 2012 13:56:20 -0700 (PDT)
+From: "Sabine Pfister" <pfistersabine@googlemail.com>
+To: "'Tizian Decker'" <tizian_decker@web.de>,
+	"'Christine Erchinger'" <christine-erchinger@web.de>,
+	"'Florian Sebert'" <florian@floriansebert.de>,
+	"'Martina Pfister'" <martina@pfister-heidelberg.de>,
+	"'Valerie Bartel'" <valerie.bartel@gmx.de>,
+	"'Anna-Nora zur Nieden'" <norazurnieden@googlemail.com>,
+	"'Rainer Pfister'" <rainerpfister@blackforestentertainment.org>,
+	"'Stefan Pfister'" <s.pfister@dkfz-heidelberg.de>,
+	"'Daniel Metzger'" <jandan@gmx.de>,
+	"'Harry D. Bath'" <harryd.bath@t-online.de>,
+	"'Ingo Skupin'" <ingo.skupin@web.de>,
+	"'Lukas Fischer'" <lukasfischer1@aol.com>,
+	<christine-erchinger@web.de>,
+	"'Dr. Stefan Wiehr'" <stefan@wiehr.de>,
+	"'Yannick Frey'" <yannick.frey1994@web.de>,
+	"'Steffen Sautter'" <steffen.sautter@web.de>,
+	"'Bedrin Noah'" <kingsaxello@googlemail.com>,
+	<kinderaerztin_susanne@t-online.de>,
+	"'Gerhard Nagel'" <grnagel@web.de>
+References: <CAN1A5uA7z3h+0Ds-L=2HSVyK5Df06u0CCY2Dfk05KJXJEvJFWw@mail.gmail.com>, <001f01cd4dde$30a153d0$91e3fb70$@com>, <trinity-98cbff94-7c66-425a-8011-a025f9fb7ece-1340185168073@3capp-webde-bs42.dlan.cinetic.de> <trinity-819b1b8b-8c4b-49c0-9043-d21a3b8e75b5-1340282413570@3capp-webde-bs36.dlan.cinetic.de>
+In-Reply-To: <trinity-819b1b8b-8c4b-49c0-9043-d21a3b8e75b5-1340282413570@3capp-webde-bs36.dlan.cinetic.de>
+Subject: AW: Plakatierung
+Date: Thu, 21 Jun 2012 22:56:19 +0200
+Message-ID: <000001cd4ff0$502bde50$f0839af0$@com>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0001_01CD5001.13B4AE50"
+X-Mailer: Microsoft Office Outlook 12.0
+Thread-Index: Ac1PqwGxYpIjB5k6SluU1ZVO3YnAqAARFMKw
+Content-Language: de
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0001_01CD5001.13B4AE50
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+=20
+
+=20
+
+Danke f=C3=BCr eure R=C3=BCckmeldungen.
+
+Da man wirklich Licht braucht um die richtigen Laternen zu finden macht =
+es keinen Sinn um 21 Uhr mit Plakatieren zu beginnen. Da br=C3=A4uchten =
+wir Baustellenleuchten, sonst findet ihr die H=C3=A4ngepl=C3=A4tze =
+nicht.
+
+Deshalb w=C3=BCrde ich vorschlagen, dass sich Christine, Tizian, =
+Christines Auto und Tizians Leiter zusammentun, um morgens zu =
+Plakatieren. K=C3=B6nnt ihr die Plakate bei meinem Vater holen??? =
+K=C3=B6nnt ihr 2 euch direkt kurzschlie=C3=9Fen, wer wann wo ist????
+
+Die 2. Tour k=C3=B6nnten dann Noah und mein Vater =C3=BCbernehmen. Noah, =
+bist du in Lustnau, oder wo k=C3=B6nnte dich mein Vater mit dem Auto =
+aufschnappen??? Ihr w=C3=BCrdet dann die 2. Tour von 12-14 Uhr machen.
+
+=20
+
+Vielen Dank f=C3=BCr Eure Hilfe!!!!
+
+=20
+
+Bitte geht nochmal alle in euch, wer Karten f=C3=BCrs Bebenhausenkonzert =
+braucht. R=C3=BChrt nochmal kr=C3=A4ftig die Werbetrommel!!!! Mailt mir =
+einfach wer wie viele Karten braucht.
+
+=20
+
+Liebe Gr=C3=BC=C3=9Fe, Sabine
+
+=20
+
+=20
+
+=20
+
+Von: Tizian Decker [mailto:tizian_decker@web.de]=20
+Gesendet: Donnerstag, 21. Juni 2012 14:40
+An: Christine Erchinger; Sabine Pfister; 'Florian Sebert'; 'Martina =
+Pfister'; 'Valerie Bartel'; 'Anna-Nora zur Nieden'; 'Rainer Pfister'; =
+'Stefan Pfister'; 'Daniel Metzger'; 'Harry D. Bath'; 'Ingo Skupin'; =
+'Lukas Fischer'; christine-erchinger@web.de; 'Dr. Stefan Wiehr'; 'Tizian =
+Decker'; 'Yannick Frey'; 'Steffen Sautter'; 'Bedrin Noah'; =
+kinderaerztin_susanne@t-online.de; 'Gerhard Nagel'
+Betreff: Aw: Plakatierung
+
+=20
+
+Zur Not m=C3=BCssten wir zwei halt ins kalte Wasser springen - soo =
+schwer kann das ja auch nicht sein...
+
+Gesendet: Mittwoch, 20. Juni 2012 um 11:39 Uhr
+Von: "Christine Erchinger" <christine-erchinger@web.de>
+An: "Sabine Pfister" <pfistersabine@googlemail.com>, "'Florian Sebert'" =
+<florian@floriansebert.de>, "'Martina Pfister'" =
+<martina@pfister-heidelberg.de>, "'Valerie Bartel'" =
+<valerie.bartel@gmx.de>, "'Anna-Nora zur Nieden'" =
+<norazurnieden@googlemail.com>, "'Rainer Pfister'" =
+<rainerpfister@blackforestentertainment.org>, "'Stefan Pfister'" =
+<s.pfister@dkfz-heidelberg.de>, "'Daniel Metzger'" <jandan@gmx.de>, =
+"'Harry D. Bath'" <harryd.bath@t-online.de>, "'Ingo Skupin'" =
+<ingo.skupin@web.de>, "'Lukas Fischer'" <lukasfischer1@aol.com>, =
+christine-erchinger@web.de, "'Dr. Stefan Wiehr'" <stefan@wiehr.de>, =
+"'Tizian Decker'" <tizian_decker@web.de>, "'Yannick Frey'" =
+<yannick.frey1994@web.de>, "'Steffen Sautter'" <steffen.sautter@web.de>, =
+"'Bedrin Noah'" <kingsaxello@googlemail.com>, =
+kinderaerztin_susanne@t-online.de, "'Gerhard Nagel'" <grnagel@web.de>
+Betreff: Aw: Plakatierung=20
+
+=20
+
+Gesendet: Dienstag, 19. Juni 2012 um 07:41 Uhr
+Von: "Sabine Pfister" <pfistersabine@googlemail.com>
+An: "'Florian Sebert'" <florian@floriansebert.de>, "'Martina Pfister'" =
+<martina@pfister-heidelberg.de>, "'Valerie Bartel'" =
+<valerie.bartel@gmx.de>, "'Anna-Nora zur Nieden'" =
+<norazurnieden@googlemail.com>, "'Rainer Pfister'" =
+<rainerpfister@blackforestentertainment.org>, "'Stefan Pfister'" =
+<s.pfister@dkfz-heidelberg.de>, "'Daniel Metzger'" <jandan@gmx.de>, =
+"'Harry D. Bath'" <harryd.bath@t-online.de>, "'Ingo Skupin'" =
+<ingo.skupin@web.de>, "'Lukas Fischer'" <lukasfischer1@aol.com>, =
+christine-erchinger@web.de, "'Dr. Stefan Wiehr'" <stefan@wiehr.de>, =
+"'Tizian Decker'" <tizian_decker@web.de>, "'Yannick Frey'" =
+<yannick.frey1994@web.de>, "'Steffen Sautter'" <steffen.sautter@web.de>, =
+"'Bedrin Noah'" <kingsaxello@googlemail.com>, =
+kinderaerztin_susanne@t-online.de, "'Gerhard Nagel'" <grnagel@web.de>
+Betreff: Plakatierung=20
+
+Hallo zusammen,
+
+
+Wie bereits in der Probe besprochen ben=C3=B6tigen wir f=C3=BCr Montag =
+25.6. einige
+helfende H=C3=A4nde f=C3=BCrs Plakatieren.
+
+Bitte sagt nochmal Bescheid
+Wer um welche Uhrzeit kann
+Wer eine Leiter hat (wir haben eine, br=C3=A4uchten also wenn es 2 =
+Touren gibt
+noch eine)
+Wer ein Auto hat.
+
+Ich werde morgen die Plakate in die entsprechenden H=C3=BCllen rein =
+machen und
+bringe die Dinge dann zu meinen Eltern in den Herwigweg.
+Am geschicktesten w=C3=A4rs nat=C3=BCrlich, ihr k=C3=B6nntet die Sachen =
+dann dort holen,
+ansonsten kann ich es auch vorbei bringen.
+
+Bitte meldet euch zeitnah, damit wir koordinieren k=C3=B6nnen, wer mit =
+wem f=C3=A4hrt.
+
+Vielen Dank im Voraus!
+
+
+Viele Gr=C3=BC=C3=9Fe, Sabine
+
+
+Hallo,
+
+=20
+
+bisher hab ich aus Versehen nur an Sabine allein meine Antwort =
+geschickt, jetzt noch mal an alle: ich kann Montag vormittags und =
+zwischen 17.00 h und 19.30h (MV kann ich diese Woche leider nicht =
+ausfallen lassen, weil wir am Samstag darauf Konzert haben). Eine =
+geeignete Leiter habe ich nicht, aber ein gro=C3=9Fes Auto. Soweit ich =
+die R=C3=BCckmeldungen =C3=BCberblicke, bietet sich zeitlich gesehen nur =
+Tizian als Team f=C3=BCr mich an. Nachteil: zwei Neulinge am Start.
+
+=20
+
+=20
+
+ =20
+
+
+Ihr WEB.DE Postfach immer dabei: die kostenlose WEB.DE Mail App f=C3=BCr =
+iPhone und Android.  =20
+ <https://produkte.web.de/freemail_mobile_startseite/> =
+https://produkte.web.de/freemail_mobile_startseite/
+
+=20
+
+
+------=_NextPart_000_0001_01CD5001.13B4AE50
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml" =
+xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml" =
+xmlns=3D"http://www.w3.org/TR/REC-html40"><head><meta =
+http-equiv=3DContent-Type content=3D"text/html; charset=3Dutf-8"><meta =
+name=3DGenerator content=3D"Microsoft Word 12 (filtered =
+medium)"><style><!--
+/* Font Definitions */
+@font-face
+	{font-family:"Cambria Math";
+	panose-1:2 4 5 3 5 4 6 3 2 4;}
+@font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+/* Style Definitions */
+p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";}
+a:link, span.MsoHyperlink
+	{mso-style-priority:99;
+	color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-priority:99;
+	color:purple;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-reply;
+	font-family:"Calibri","sans-serif";
+	color:#1F497D;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	font-size:10.0pt;}
+@page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.WordSection1
+	{page:WordSection1;}
+--></style><!--[if gte mso 9]><xml>
+<o:shapedefaults v:ext=3D"edit" spidmax=3D"1026" />
+</xml><![endif]--><!--[if gte mso 9]><xml>
+<o:shapelayout v:ext=3D"edit">
+<o:idmap v:ext=3D"edit" data=3D"1" />
+</o:shapelayout></xml><![endif]--></head><body lang=3DDE link=3Dblue =
+vlink=3Dpurple><div class=3DWordSection1><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Hallo zusammen,<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Danke f=C3=BCr eure R=C3=BCckmeldungen.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Da man wirklich Licht braucht um die richtigen Laternen zu finden =
+macht es keinen Sinn um 21 Uhr mit Plakatieren zu beginnen. Da =
+br=C3=A4uchten wir Baustellenleuchten, sonst findet ihr die =
+H=C3=A4ngepl=C3=A4tze nicht.<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Deshalb w=C3=BCrde ich vorschlagen, dass sich Christine, Tizian, =
+Christines Auto und Tizians Leiter zusammentun, um morgens zu =
+Plakatieren. K=C3=B6nnt ihr die Plakate bei meinem Vater holen??? =
+K=C3=B6nnt ihr 2 euch direkt kurzschlie=C3=9Fen, wer wann wo =
+ist????<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Die 2. Tour k=C3=B6nnten dann Noah und mein Vater =C3=BCbernehmen. =
+Noah, bist du in Lustnau, oder wo k=C3=B6nnte dich mein Vater mit dem =
+Auto aufschnappen??? Ihr w=C3=BCrdet dann die 2. Tour von 12-14 Uhr =
+machen.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Vielen Dank f=C3=BCr Eure Hilfe!!!!<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Bitte geht nochmal alle in euch, wer Karten f=C3=BCrs =
+Bebenhausenkonzert braucht. R=C3=BChrt nochmal kr=C3=A4ftig die =
+Werbetrommel!!!! Mailt mir einfach wer wie viele Karten =
+braucht.<o:p></o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'>Liebe Gr=C3=BC=C3=9Fe, Sabine<o:p></o:p></span></p><p =
+class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><p class=3DMsoNormal><span =
+style=3D'font-size:11.0pt;font-family:"Calibri","sans-serif";color:#1F497=
+D'><o:p>&nbsp;</o:p></span></p><div><div =
+style=3D'border:none;border-top:solid #B5C4DF 1.0pt;padding:3.0pt 0cm =
+0cm 0cm'><p class=3DMsoNormal><b><span =
+style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'>Von:</span><=
+/b><span style=3D'font-size:10.0pt;font-family:"Tahoma","sans-serif"'> =
+Tizian Decker [mailto:tizian_decker@web.de] <br><b>Gesendet:</b> =
+Donnerstag, 21. Juni 2012 14:40<br><b>An:</b> Christine Erchinger; =
+Sabine Pfister; 'Florian Sebert'; 'Martina Pfister'; 'Valerie Bartel'; =
+'Anna-Nora zur Nieden'; 'Rainer Pfister'; 'Stefan Pfister'; 'Daniel =
+Metzger'; 'Harry D. Bath'; 'Ingo Skupin'; 'Lukas Fischer'; =
+christine-erchinger@web.de; 'Dr. Stefan Wiehr'; 'Tizian Decker'; =
+'Yannick Frey'; 'Steffen Sautter'; 'Bedrin Noah'; =
+kinderaerztin_susanne@t-online.de; 'Gerhard Nagel'<br><b>Betreff:</b> =
+Aw: Plakatierung<o:p></o:p></span></p></div></div><p =
+class=3DMsoNormal><o:p>&nbsp;</o:p></p><div><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Zur Not =
+m=C3=BCssten wir zwei halt ins kalte Wasser springen - soo schwer kann =
+das ja auch nicht sein...<o:p></o:p></span></p></div><div =
+style=3D'border:none;border-left:solid #C3D9E5 1.5pt;padding:0cm 0cm 0cm =
+8.0pt;margin-left:7.5pt;margin-top:7.5pt;margin-right:3.75pt;margin-botto=
+m:3.75pt;word-wrap: break-word;-webkit-nbsp-mode: =
+space;-webkit-line-break: after-white-space' name=3Dquote><div =
+style=3D'margin-bottom:7.5pt'><p class=3DMsoNormal><b><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Gesendet:</s=
+pan></b><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>&nbsp;Mittwo=
+ch, 20. Juni 2012 um 11:39 Uhr<br><b>Von:</b>&nbsp;&quot;Christine =
+Erchinger&quot; &lt;<a =
+href=3D"mailto:christine-erchinger@web.de">christine-erchinger@web.de</a>=
+&gt;<br><b>An:</b>&nbsp;&quot;Sabine Pfister&quot; &lt;<a =
+href=3D"mailto:pfistersabine@googlemail.com">pfistersabine@googlemail.com=
+</a>&gt;, &quot;'Florian Sebert'&quot; &lt;<a =
+href=3D"mailto:florian@floriansebert.de">florian@floriansebert.de</a>&gt;=
+, &quot;'Martina Pfister'&quot; &lt;<a =
+href=3D"mailto:martina@pfister-heidelberg.de">martina@pfister-heidelberg.=
+de</a>&gt;, &quot;'Valerie Bartel'&quot; &lt;<a =
+href=3D"mailto:valerie.bartel@gmx.de">valerie.bartel@gmx.de</a>&gt;, =
+&quot;'Anna-Nora zur Nieden'&quot; &lt;<a =
+href=3D"mailto:norazurnieden@googlemail.com">norazurnieden@googlemail.com=
+</a>&gt;, &quot;'Rainer Pfister'&quot; &lt;<a =
+href=3D"mailto:rainerpfister@blackforestentertainment.org">rainerpfister@=
+blackforestentertainment.org</a>&gt;, &quot;'Stefan Pfister'&quot; =
+&lt;<a =
+href=3D"mailto:s.pfister@dkfz-heidelberg.de">s.pfister@dkfz-heidelberg.de=
+</a>&gt;, &quot;'Daniel Metzger'&quot; &lt;<a =
+href=3D"mailto:jandan@gmx.de">jandan@gmx.de</a>&gt;, &quot;'Harry D. =
+Bath'&quot; &lt;<a =
+href=3D"mailto:harryd.bath@t-online.de">harryd.bath@t-online.de</a>&gt;, =
+&quot;'Ingo Skupin'&quot; &lt;<a =
+href=3D"mailto:ingo.skupin@web.de">ingo.skupin@web.de</a>&gt;, =
+&quot;'Lukas Fischer'&quot; &lt;<a =
+href=3D"mailto:lukasfischer1@aol.com">lukasfischer1@aol.com</a>&gt;, <a =
+href=3D"mailto:christine-erchinger@web.de">christine-erchinger@web.de</a>=
+, &quot;'Dr. Stefan Wiehr'&quot; &lt;<a =
+href=3D"mailto:stefan@wiehr.de">stefan@wiehr.de</a>&gt;, &quot;'Tizian =
+Decker'&quot; &lt;<a =
+href=3D"mailto:tizian_decker@web.de">tizian_decker@web.de</a>&gt;, =
+&quot;'Yannick Frey'&quot; &lt;<a =
+href=3D"mailto:yannick.frey1994@web.de">yannick.frey1994@web.de</a>&gt;, =
+&quot;'Steffen Sautter'&quot; &lt;<a =
+href=3D"mailto:steffen.sautter@web.de">steffen.sautter@web.de</a>&gt;, =
+&quot;'Bedrin Noah'&quot; &lt;<a =
+href=3D"mailto:kingsaxello@googlemail.com">kingsaxello@googlemail.com</a>=
+&gt;, <a =
+href=3D"mailto:kinderaerztin_susanne@t-online.de">kinderaerztin_susanne@t=
+-online.de</a>, &quot;'Gerhard Nagel'&quot; &lt;<a =
+href=3D"mailto:grnagel@web.de">grnagel@web.de</a>&gt;<br><b>Betreff:</b>&=
+nbsp;Aw: Plakatierung <o:p></o:p></span></p></div><div =
+name=3Dquoted-content><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;<=
+/o:p></span></p><div style=3D'border:none;border-left:solid #C3D9E5 =
+1.5pt;padding:0cm 0cm 0cm =
+8.0pt;margin-left:7.5pt;margin-top:7.5pt;margin-right:3.75pt;margin-botto=
+m:3.75pt'><div style=3D'margin-bottom:7.5pt'><p =
+class=3DMsoNormal><b><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Gesendet:</s=
+pan></b><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>&nbsp;Dienst=
+ag, 19. Juni 2012 um 07:41 Uhr<br><b>Von:</b>&nbsp;&quot;Sabine =
+Pfister&quot; &lt;<a =
+href=3D"mailto:pfistersabine@googlemail.com">pfistersabine@googlemail.com=
+</a>&gt;<br><b>An:</b>&nbsp;&quot;'Florian Sebert'&quot; &lt;<a =
+href=3D"mailto:florian@floriansebert.de">florian@floriansebert.de</a>&gt;=
+, &quot;'Martina Pfister'&quot; &lt;<a =
+href=3D"mailto:martina@pfister-heidelberg.de">martina@pfister-heidelberg.=
+de</a>&gt;, &quot;'Valerie Bartel'&quot; &lt;<a =
+href=3D"mailto:valerie.bartel@gmx.de">valerie.bartel@gmx.de</a>&gt;, =
+&quot;'Anna-Nora zur Nieden'&quot; &lt;<a =
+href=3D"mailto:norazurnieden@googlemail.com">norazurnieden@googlemail.com=
+</a>&gt;, &quot;'Rainer Pfister'&quot; &lt;<a =
+href=3D"mailto:rainerpfister@blackforestentertainment.org">rainerpfister@=
+blackforestentertainment.org</a>&gt;, &quot;'Stefan Pfister'&quot; =
+&lt;<a =
+href=3D"mailto:s.pfister@dkfz-heidelberg.de">s.pfister@dkfz-heidelberg.de=
+</a>&gt;, &quot;'Daniel Metzger'&quot; &lt;<a =
+href=3D"mailto:jandan@gmx.de">jandan@gmx.de</a>&gt;, &quot;'Harry D. =
+Bath'&quot; &lt;<a =
+href=3D"mailto:harryd.bath@t-online.de">harryd.bath@t-online.de</a>&gt;, =
+&quot;'Ingo Skupin'&quot; &lt;<a =
+href=3D"mailto:ingo.skupin@web.de">ingo.skupin@web.de</a>&gt;, =
+&quot;'Lukas Fischer'&quot; &lt;<a =
+href=3D"mailto:lukasfischer1@aol.com">lukasfischer1@aol.com</a>&gt;, <a =
+href=3D"mailto:christine-erchinger@web.de">christine-erchinger@web.de</a>=
+, &quot;'Dr. Stefan Wiehr'&quot; &lt;<a =
+href=3D"mailto:stefan@wiehr.de">stefan@wiehr.de</a>&gt;, &quot;'Tizian =
+Decker'&quot; &lt;<a =
+href=3D"mailto:tizian_decker@web.de">tizian_decker@web.de</a>&gt;, =
+&quot;'Yannick Frey'&quot; &lt;<a =
+href=3D"mailto:yannick.frey1994@web.de">yannick.frey1994@web.de</a>&gt;, =
+&quot;'Steffen Sautter'&quot; &lt;<a =
+href=3D"mailto:steffen.sautter@web.de">steffen.sautter@web.de</a>&gt;, =
+&quot;'Bedrin Noah'&quot; &lt;<a =
+href=3D"mailto:kingsaxello@googlemail.com">kingsaxello@googlemail.com</a>=
+&gt;, <a =
+href=3D"mailto:kinderaerztin_susanne@t-online.de">kinderaerztin_susanne@t=
+-online.de</a>, &quot;'Gerhard Nagel'&quot; &lt;<a =
+href=3D"mailto:grnagel@web.de">grnagel@web.de</a>&gt;<br><b>Betreff:</b>&=
+nbsp;Plakatierung <o:p></o:p></span></p></div><div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Hallo =
+zusammen,<br><br><br>Wie bereits in der Probe besprochen ben=C3=B6tigen =
+wir f=C3=BCr Montag 25.6. einige<br>helfende H=C3=A4nde f=C3=BCrs =
+Plakatieren.<br><br>Bitte sagt nochmal Bescheid<br>Wer um welche Uhrzeit =
+kann<br>Wer eine Leiter hat (wir haben eine, br=C3=A4uchten also wenn es =
+2 Touren gibt<br>noch eine)<br>Wer ein Auto hat.<br><br>Ich werde morgen =
+die Plakate in die entsprechenden H=C3=BCllen rein machen und<br>bringe =
+die Dinge dann zu meinen Eltern in den Herwigweg.<br>Am geschicktesten =
+w=C3=A4rs nat=C3=BCrlich, ihr k=C3=B6nntet die Sachen dann dort =
+holen,<br>ansonsten kann ich es auch vorbei bringen.<br><br>Bitte meldet =
+euch zeitnah, damit wir koordinieren k=C3=B6nnen, wer mit wem =
+f=C3=A4hrt.<br><br>Vielen Dank im Voraus!<br><br><br>Viele =
+Gr=C3=BC=C3=9Fe, Sabine<o:p></o:p></span></p></div></div><div><p =
+class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><br>Hallo,<o=
+:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;<=
+/o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>bisher hab =
+ich aus Versehen nur an Sabine allein meine Antwort geschickt, jetzt =
+noch mal an alle: ich kann Montag vormittags und zwischen 17.00 h und =
+19.30h (MV kann ich diese Woche leider nicht ausfallen lassen, weil wir =
+am Samstag darauf Konzert haben). Eine geeignete Leiter habe ich nicht, =
+aber ein gro=C3=9Fes Auto. Soweit ich die R=C3=BCckmeldungen =
+=C3=BCberblicke, bietet sich zeitlich gesehen nur Tizian als Team =
+f=C3=BCr mich an. Nachteil: zwei Neulinge am =
+Start.<o:p></o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;<=
+/o:p></span></p></div><div><p class=3DMsoNormal><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;<=
+/o:p></span></p></div></div><p class=3DMsoNormal =
+style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>&nbsp;&nbsp;=
+<o:p></o:p></span></p><table class=3DMsoNormalTable border=3D0 =
+cellspacing=3D0 cellpadding=3D0><tr><td =
+style=3D'border:none;border-top:solid black 1.0pt;padding:0cm 0cm 0cm =
+0cm'><p class=3DMsoNormal style=3D'line-height:12.75pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'>Ihr WEB.DE =
+Postfach immer dabei: die kostenlose WEB.DE Mail App f=C3=BCr iPhone und =
+Android.&nbsp;&nbsp;&nbsp;<br><a =
+href=3D"https://produkte.web.de/freemail_mobile_startseite/" =
+target=3D"_blank"><b>https://produkte.web.de/freemail_mobile_startseite/<=
+/b></a><o:p></o:p></span></p></td></tr></table></div></div><div><p =
+class=3DMsoNormal style=3D'margin-bottom:12.0pt'><span =
+style=3D'font-size:9.0pt;font-family:"Verdana","sans-serif"'><o:p>&nbsp;<=
+/o:p></span></p></div></div></div></body></html>
+------=_NextPart_000_0001_01CD5001.13B4AE50--
+

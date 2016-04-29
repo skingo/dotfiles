@@ -1,0 +1,75 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.170 with SMTP id i10csp226604pdr;
+        Sun, 29 Jun 2014 11:55:30 -0700 (PDT)
+X-Received: by 10.180.21.200 with SMTP id x8mr24408518wie.70.1404068129138;
+        Sun, 29 Jun 2014 11:55:29 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id z2si21258908wjz.98.2014.06.29.11.55.28
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Sun, 29 Jun 2014 11:55:29 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb105)
+ with ESMTPS (Nemesis) id 0MDzjH-1WsFRg39g7-00HNUD for
+ <ingo.skupin@gmail.com>; Sun, 29 Jun 2014 20:55:28 +0200
+Received: from mout.gmx.net ([212.227.15.18]) by mx-ha.web.de (mxweb105) with
+ ESMTPS (Nemesis) id 0LaF8M-1WNITx39NG-00m1LQ for <ingo.skupin@web.de>; Sun,
+ 29 Jun 2014 20:55:27 +0200
+Received: from [46.223.221.143] by 3capp-gmx-bs10.server.lan (via HTTP);
+ Sun, 29 Jun 2014 20:55:16 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-da11e698-204e-498d-a5f4-c32f5e426ab1-1404068116320@3capp-gmx-bs10>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: brittabraun@ymail.com, no.samt@t-online.de, GWeiler@t-online.de,
+ jule.hk@googlemail.com, laura.henzler@kabelbw.de, cmachanek@web.de,
+ sharilouisa@gmx.de, GWeiler@t-online.de, melanie.hauser@gmx.net,
+ heikebesenfelder@gmx.de, julian-sparrer@web.de, tamara-schweizer@gmx.de,
+ jens.ringhoffer@gmx.de, maximilian.scherbaum@web.de,
+ sarahmagdalena_keck@web.de, mayer-fertigungstechnik@t-online.de,
+ MarvinBombis@web.de, no.samt@t-online.de, 23louis05@gmx.de,
+ dagmar.koeber@gmx.de, elisa.lottig@web.de, KML.Ma@web.de,
+ rebecca.sonn@web.de, skas@gmx.de, dalegrill@googlemail.com,
+ ingo.skupin@web.de, pfeifer.jonas@gmail.com, thomas.ringhoffer@gmx.de,
+ joergruff@web.de, kerstin.hummel@kabelbw.de, kay.kirchmann@gmx.de,
+ simon.keck92@googlemail.com, guenther_class@gmx.de,
+ stefan.ringhoffer@hotmail.de, benjamin.deuschle@gmx.de,
+ lisaensminger@gmx.de, vera.ringhoffer@web.de, paddie-vollmer@web.de,
+ helenakiltz@web.de, beck.notzingen@t-online.de, leona.skupin@web.de,
+ smachanek@web.de, tobias.lauster@gmx.de, nmachanek@web.de,
+ ulrikejost97@gmx.de, sarah.ringhoffer@gmx.de, ele.gross@gmx.de,
+ a.zweifel95@gmail.com, martini.andrea@arcor.de, familie.scherbaum@web.de,
+ anita.errica@gmail.com, lena.grundmann@t-online.de, jadorf@gmx.de,
+ alex.sebastian-k@web.de, teresa.pleger@web.de, D-Pleger@web.de,
+ A.Pleger@foni.net
+Content-Type: text/html; charset=UTF-8
+Date: Sun, 29 Jun 2014 20:55:16 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:HKNCIFpa0aZW38uXKzZJWq74MU0JjH8rnnIl8MpkrvM
+ z0mGzFLCGs7xEb0uAAGCbpAxVLhIs1LqnEsP/aYqGFm36Fz1yC
+ bueCo4qePS4iZkxsggQTtoR2Ln3CozV8WJqgrR5PVO1pPURiMB
+ TddcNfpQK/Ukci0tTWhCefmbLfsJMplNTOFIh8aSrgBk/O1qDc
+ G24aADD3ewocm8Y/ljT81Dey7Ve6bz/gwZPsX8oeL1kL5qxQfg
+ pQRZ1S3xGTpxhKBeE7ZlXfYKEQPcCHWqSxG5YLlS2XH/2RWGA7 /5Hxec=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo,</div>
+
+<div>&nbsp;</div>
+
+<div>nochmals dringende Bitte an Alle am Dienstag in die Probe zu kommen.</div>
+
+<div>Wir m&uuml;ssen f&uuml;rs Jugendkonzert noch einiges tun.</div>
+
+<div>&nbsp;</div>
+
+<div>Herzlichen Gru&szlig;</div>
+
+<div>Thomas</div>
+
+<div>&nbsp;</div>
+
+<div>&nbsp;</div></div></body></html>

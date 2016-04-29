@@ -1,0 +1,224 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp6330pdd;
+        Thu, 4 Jul 2013 02:56:39 -0700 (PDT)
+X-Received: by 10.68.17.169 with SMTP id p9mr4893869pbd.17.1372931799543;
+        Thu, 04 Jul 2013 02:56:39 -0700 (PDT)
+Return-Path: <smtp-errors@mailbox.evernote.com>
+Received: from ms-out.evernote.com (ms-out.evernote.com. [204.154.94.85])
+        by mx.google.com with ESMTPS id ib1si1480578pbc.160.2013.07.04.02.56.39
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Thu, 04 Jul 2013 02:56:39 -0700 (PDT)
+Received-SPF: pass (google.com: domain of smtp-errors@mailbox.evernote.com designates 204.154.94.85 as permitted sender) client-ip=204.154.94.85;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of smtp-errors@mailbox.evernote.com designates 204.154.94.85 as permitted sender) smtp.mail=smtp-errors@mailbox.evernote.com;
+       dkim=pass header.i=@evernote.com;
+       dmarc=pass (p=NONE dis=NONE) d=evernote.com
+Received: from ns215v.ba1.enops.net (ns215v.ba1.enops.net [10.8.87.8])
+	by ms-out.evernote.com (Postfix) with ESMTP id 17675EF6A22
+	for <ingo.skupin@googlemail.com>; Thu,  4 Jul 2013 02:56:39 -0700 (PDT)
+X-DKIM: OpenDKIM Filter v2.0.1 ms-out.evernote.com 17675EF6A22
+DKIM-Signature: v=1; a=rsa-sha256; c=simple/simple; d=evernote.com;
+	s=ms-out; t=1372931799;
+	bh=DiMs9kt5tWqecuJ/KKo/7Q+3ha2fnfYr+gQ/eKFXhBI=;
+	h=Date:From:Reply-To:To:Message-ID:Subject:MIME-Version:
+	 Content-Type;
+	b=ZXVhiaILUT1xUpVDQIl3T4tZ+86DBBqw63l6HYp6oVuMLCDIGj5g3tAEedSYsByRx
+	 +fubCOlYJ9xJPWG26qYM+QLLqXpaHHZOn3ZBxmCdsMNtGARu3a3wAWlA3eO94vVwZH
+	 K0Qy+7LU+Wfo/02q8XxNsrAf5zr+eoWZdJWDjIJo=
+Received: internal
+Date: Thu, 4 Jul 2013 09:56:39 +0000 (GMT)
+From: Evernote <no-reply@evernote.com>
+Reply-To: Evernote <no-reply@evernote.com>
+To: ingo.skupin@googlemail.com
+Message-ID: <171667755.4441372931799045.JavaMail.tomcat@ns215v>
+Subject: Erste Schritte mit Evernote
+MIME-Version: 1.0
+Content-Type: multipart/alternative; 
+	boundary="----=_Part_454_1855915490.1372931799044"
+
+------=_Part_454_1855915490.1372931799044
+Content-Type: text/plain;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+Ihr Evernote Konto ist fast fertig!
+
+Installieren Sie Evernote auf allen Ger=C3=A4ten, die Sie privat, im B=C3=
+=BCro oder unterwegs nutzen; so k=C3=B6nnen Sie die App optimal nutzen.
+
+=C3=96ffnen Sie diese E-Mail auf Ihrem Desktop-PC, Telefon oder Tablet und =
+klicken Sie auf den Link unten. Wir senden Ihnen die passende Evernote-Vers=
+ion f=C3=BCr alle Ger=C3=A4te.
+
+https://www.evernote.com/getit?email_name=3DregistrationNoConfirmation&emai=
+l_guid=3Df2a5db5c-46b1-43b6-afdc-2c7eb8bb7096&email_link=3Ddownload_button
+
+Wir haben auch eine individuelle Evernote-E-Mail-Adresse f=C3=BCr Sie erste=
+llt:
+
+skinge6.341899@m.evernote.com
+
+Sie k=C3=B6nnen Notizen, Schnappsch=C3=BCsse und Audio-Clips zu dieser Adre=
+sse von Ihrem Mobiltelefon oder Desktop-PC schicken und sie umgehend in Eve=
+rnote speichern.
+
+In unserer Anleitung =E2=80=9EErste Schritte" finden Sie Hinweise, wie Sie =
+Evernote optimal nutzen k=C3=B6nnen:
+
+http://evernote.com/about/getting_started/?email_name=3DregistrationNoConfi=
+rmation&email_guid=3Df2a5db5c-46b1-43b6-afdc-2c7eb8bb7096&email_link=3Dgett=
+ing_started
+
+Viel Spa=C3=9F w=C3=BCnscht
+- Das Evernote-Team
+
+------=_Part_454_1855915490.1372931799044
+Content-Type: text/html;charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/xhtml">
+<head>
+  <meta charset=3D"utf-8">
+  <meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge,chrome=3D1">
+  <meta name=3D"viewport" content=3D"width=3Ddevice-width,initial-scale=3D1=
+">
+ =20
+</head>
+<body style=3D"background: #E6E6E6;color: #4D4B48;font-family: Helvetica, A=
+rial, Verdana, sans-serif;font-size: 13px;line-height: 18px;margin-top: 20p=
+x;margin-right: 20px;margin-bottom: 20px;">
+  <table class=3D"email-container" width=3D"584" style=3D"margin-top: 0;mar=
+gin-right: auto;margin-bottom: 0;margin-left: auto;max-width: 584px;">
+    <tr>
+      <td>
+        <table class=3D"header" width=3D"584" style=3D"background: url(http=
+s://www.evernote.com/redesign/global/img/mail-header-background.png) 0 0 tr=
+ansparent scroll no-repeat;">
+          <tr>
+            <td><a href=3D"#" class=3D"logo" style=3D"color: #5FB336;text-d=
+ecoration: none;background: url(https://www.evernote.com/redesign/global/im=
+g/mail-evernote-logo-white.png) 0 0 transparent scroll no-repeat;display: b=
+lock;height: 85px;text-indent: -9999px;width: 271px;">&nbsp;</a></td>
+          </tr>
+        </table>
+        <table class=3D"email-content" cellpadding=3D"24" style=3D"margin: =
+0 auto; max-width: 584px; background: #FFF; border: 1px solid #A8ADAD; widt=
+h: 584px;">
+  <tr>
+    <td>
+      <div class=3D"leading" style=3D"color: #5B5B5B; font-size: 16px; line=
+-height: 21px;">
+        <h2 style=3D"margin-top: 0; margin-bottom: 4px; line-height: 24px; =
+color: #5FB336; font-size: 17px; font-weight: bold;">Ihr Evernote Konto ist=
+ fast fertig!</h2>
+
+        <p style=3D"margin-top: 0; margin-bottom: 12px;">Installieren Sie E=
+vernote auf allen Ger=C3=A4ten, die Sie privat, im B=C3=BCro oder unterwegs=
+ nutzen; so k=C3=B6nnen Sie die App optimal nutzen.</p>
+      </div>
+
+      <p style=3D"margin-top: 0; margin-bottom: 12px;">=C3=96ffnen Sie dies=
+e E-Mail auf Ihrem Desktop-PC, Telefon oder Tablet und klicken Sie auf den =
+Link unten. Wir senden Ihnen die passende Evernote-Version f=C3=BCr alle Ge=
+r=C3=A4te.</p>
+
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"butt=
+on" style=3D"margin: 18px 0;">
+        <tr>
+          <td height=3D"44" align=3D"center" background=3D"/redesign/global=
+/img/mail-premium-button-background.png" style=3D"background-repeat:repeat-=
+x; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3=
+px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius:3px; b=
+ackground-position:top left; background-color:#45a32f; border:1px solid #3e=
+7a52; color:#FFFFFF; font-weight:normal; white-space:nowrap; height:44px;">
+            <a href=3D"https://www.evernote.com/getit?email_name=3Dregistra=
+tionNoConfirmation&amp;email_guid=3Df2a5db5c-46b1-43b6-afdc-2c7eb8bb7096&am=
+p;email_link=3Ddownload_button" style=3D"color:#FFFFFF; cursor:pointer; fon=
+t-size:16px; text-align:center; text-decoration:none; vertical-align:baseli=
+ne; font-weight:normal;">
+              <!--[if gte mso 9]>&nbsp;&nbsp;<![endif]-->
+              <span style=3D"padding: 16px 40px; color: #FFF">Evernote heru=
+nterladen</span>
+              <!--[if gte mso 9]>&nbsp;&nbsp;<![endif]-->
+            </a>
+          </td>
+        </tr>
+      </table>
+
+      <h3 style=3D"color: #545454; margin-top: 0; margin-bottom: 1px; font-=
+size: 14px; line-height: 18px;">Wir haben auch eine individuelle Evernote-E=
+-Mail-Adresse f=C3=BCr Sie erstellt:</h3>
+
+      <p lang=3D"" style=3D"margin-top: 0; margin-bottom: 12px;"><a href=3D=
+"mailto:skinge6.341899@m.evernote.com" style=3D"color: #4A8DB8; text-decora=
+tion: none;">skinge6.341899@m.evernote.com</a></p>
+
+      <p style=3D"margin-top: 0; margin-bottom: 12px;">Sie k=C3=B6nnen Noti=
+zen, Schnappsch=C3=BCsse und Audio-Clips zu dieser Adresse von Ihrem Mobilt=
+elefon oder Desktop-PC schicken und sie umgehend in Evernote speichern.</p>
+
+      <p style=3D"margin-top: 0; margin-bottom: 12px;">In unserer Anleitung=
+ =E2=80=9EErste Schritte&quot; finden Sie Hinweise, wie Sie Evernote optima=
+l nutzen k=C3=B6nnen:</p>
+
+      <table cellspacing=3D"0" cellpadding=3D"0" border=3D"0" class=3D"butt=
+on" style=3D"margin: 18px 0;">
+        <tr>
+          <td height=3D"44" align=3D"center" background=3D"/redesign/global=
+/img/mail-premium-button-background.png" style=3D"background-repeat:repeat-=
+x; -moz-border-radius: 3px; -webkit-border-radius: 3px; -o-border-radius: 3=
+px; -ms-border-radius: 3px; -khtml-border-radius: 3px; border-radius:3px; b=
+ackground-position:top left; background-color:#45a32f; border:1px solid #3e=
+7a52; color:#FFFFFF; font-weight:normal; white-space:nowrap; height:44px;">
+            <a href=3D"http://evernote.com/about/getting_started/?email_nam=
+e=3DregistrationNoConfirmation&amp;email_guid=3Df2a5db5c-46b1-43b6-afdc-2c7=
+eb8bb7096&amp;email_link=3Dgetting_started" style=3D"color:#FFFFFF; cursor:=
+pointer; font-size:16px; text-align:center; text-decoration:none; vertical-=
+align:baseline; font-weight:normal;">
+              <!--[if gte mso 9]>&nbsp;&nbsp;<![endif]-->
+              <span style=3D"padding: 16px 40px; color: #FFF">Anleitung: Er=
+ste Schritte</span>
+              <!--[if gte mso 9]>&nbsp;&nbsp;<![endif]--></a></td>
+        </tr>
+      </table>
+
+      <p style=3D"margin-top: 0; margin-bottom: 12px;">Viel Spa=C3=9F w=C3=
+=BCnscht</p>
+
+      <p style=3D"margin-top: 0; margin-bottom: 12px;">- Das Evernote-Team<=
+/p>
+    </td>
+  </tr>
+</table>
+
+        <table class=3D"footer" width=3D"584" cellpadding=3D"20" style=3D"b=
+ackground: url(https://www.evernote.com/redesign/global/img/mail-drop-shado=
+w.png) 50% -2px transparent scroll no-repeat;color: #747778;font-size: 11px=
+;line-height: 15px;margin-bottom: 20px;text-align: center;">
+          <tr>
+            <td>
+              <p style=3D"margin-top: 0;margin-bottom: 0;margin-right: 0;ma=
+rgin-left: 0;padding-top: 0px;padding-right: 0px;padding-bottom: 0px;paddin=
+g-left: 0px;">Bei technischen Problemen kontaktieren Sie uns =C3=BCber unse=
+re <a href=3D'http://evernote.com/contact/support/?email_name=3Dregistratio=
+nNoConfirmation&email_guid=3Df2a5db5c-46b1-43b6-afdc-2c7eb8bb7096&email_lin=
+k=3Dfooter_support_link' target=3D'_blank' style=3D'color: #4A8DB8; text-de=
+coration: none;'>Support-Seite</a>.</p>
+
+              <p lang=3D"" style=3D"margin-top: 0;margin-bottom: 0;margin-r=
+ight: 0;margin-left: 0;padding-top: 0px;padding-right: 0px;padding-bottom: =
+0px;padding-left: 0px;">Evernote Corp., 305 Walnut Street, Redwood City, CA=
+ 94063, USA</p>
+            </td>
+          </tr>
+        </table><!--end .footer-->
+      </td>
+    </tr>
+  </table><!--end .email-container-->
+</body>
+</html>
+
+------=_Part_454_1855915490.1372931799044--
+

@@ -1,0 +1,88 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.125.39 with SMTP id mn7csp130121lbb;
+        Fri, 15 Mar 2013 13:27:59 -0700 (PDT)
+X-Received: by 10.14.1.130 with SMTP id 2mr21759314eed.15.1363379279158;
+        Fri, 15 Mar 2013 13:27:59 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.4])
+        by mx.google.com with ESMTP id r44si13757859eeo.173.2013.03.15.13.27.58;
+        Fri, 15 Mar 2013 13:27:59 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) client-ip=212.227.15.4;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.4 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.web.de (mxweb105) with
+ ESMTP (Nemesis) id 0M5MlH-1Uf1s22pPL-00zQL4 for <ingo.skupin@gmail.com>; Fri,
+ 15 Mar 2013 21:27:58 +0100
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.gmx.net (mxgmx002) with
+ ESMTP (Nemesis) id 0MVM58-1UF4mw2Qfu-00YlYJ; Fri, 15 Mar 2013 21:27:56 +0100
+Received: from mailout-de.gmx.net ([10.1.76.33]) by mrigmx.server.lan
+ (mrigmx001) with ESMTP (Nemesis) id 0MEphU-1UVVkE1pta-00Fyn2 for
+ =?utf-8?q?<BO=5fHolz+Dirigent%Musikverein.Notzingen@gmx.de>;?= Fri, 15 Mar
+ 2013 21:27:56 +0100
+Received: (qmail 22016 invoked by uid 0); 15 Mar 2013 20:27:56 -0000
+Received: from 78.43.54.152 by www004.gmx.net with HTTP;
+ Fri, 15 Mar 2013 21:27:55 +0100 (CET)
+Content-Type: multipart/alternative;
+ boundary="========GMXBoundary282731363379275283327"
+Date: Fri, 15 Mar 2013 21:27:55 +0100
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+Message-ID: <20130315202755.282730@gmx.net>
+MIME-Version: 1.0
+Subject: =?iso-8859-1?Q?Geburtstagsst=E4ndchen_Samstag_16=2E03=2E13_um_17=3A30Uhr?=
+To: BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de,
+ BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de
+X-Flags: 0001
+X-Mailer: WWW-Mail 6100 (Global Message Exchange)
+X-Priority: 3
+X-Provags-ID: V01U2FsdGVkX1+GYQ4R5sSGyYmTwET9RWAtdOSUPvs8g4maIumtkf
+ 295Rx4Uqdrg9fBFNPGMgasFL00Q2Gz9MzWLg== 
+X-GMX-UID: HOExcRUPeSEqVTkWYXQh9n9+IGRvb8Dd
+
+--========GMXBoundary282731363379275283327
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hallo,
+
+morgen, Samstag 16.03.13, spielen wir ein Geburtstagsständchen bei
+Otto Deuschle 
+in der Herdfeldstr. 23
+um 17:30Uhr
+
+Gruß 
+Jürgen    
+-- 
+Musikverein Notzingen-Wellingen e.V.
+eMail: musikverein.notzingen@gmx.de
+Internet: http://www.musikverein-notzingen.de
+
+
+--========GMXBoundary282731363379275283327
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+    <head>
+        <title></title>
+        <link href=3D"/de/FCKeditor/editor/css/fck_editorarea.css" rel=3D"s=
+tylesheet" type=3D"text/css" /><style media=3D"screen" type=3D"text/css">
+body {font-family: verdana, arial, helvetica, sans-serif;font-size: 12px;pa=
+dding: 5px;margin: 0;background-color: #FFF;}
+p, ul, li {margin-top: 0;margin-bottom: 0;}
+blockquote {margin-left: 5px;}
+div.signature {color: #666;font-size: 0.9em;}
+</style>
+    </head>
+    <body>
+        Hallo,<br /><br />morgen, Samstag 16.03.13, spielen wir ein Geburts=
+tagsst&auml;ndchen bei<br />Otto Deuschle <br />in der Herdfeldstr. 23<br /=
+>um 17:30Uhr<br /><br />Gru&szlig; <br />J&uuml;rgen
+    <div class=3D"signature"><br /><br /><br />-- <br />Musikverein=C2=A0No=
+tzingen-Wellingen=C2=A0e.V.=0D<br />
+eMail:=C2=A0musikverein.notzingen@gmx.de=0D<br />
+Internet:=C2=A0http://www.musikverein-notzingen.de<br />
+<br />
+</div></body>
+</html>
+
+--========GMXBoundary282731363379275283327--

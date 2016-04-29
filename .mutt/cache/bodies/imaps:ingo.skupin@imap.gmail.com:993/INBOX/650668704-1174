@@ -1,0 +1,77 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.5.198 with SMTP id 6cs28207vcw;
+        Fri, 25 Nov 2011 00:48:43 -0800 (PST)
+Received: by 10.204.41.66 with SMTP id n2mr33129745bke.77.1322210921105;
+        Fri, 25 Nov 2011 00:48:41 -0800 (PST)
+Return-Path: <fmsebert@gmail.com>
+Received: from fmmailgate05.web.de (fmmailgate05.web.de. [217.72.192.243])
+        by mx.google.com with ESMTP id a23si11244626fak.178.2011.11.25.00.48.40;
+        Fri, 25 Nov 2011 00:48:41 -0800 (PST)
+Received-SPF: neutral (google.com: 217.72.192.243 is neither permitted nor denied by domain of fmsebert@gmail.com) client-ip=217.72.192.243;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 217.72.192.243 is neither permitted nor denied by domain of fmsebert@gmail.com) smtp.mail=fmsebert@gmail.com; dkim=pass (test mode) header.i=@gmail.com
+Received:  from mx32.web.de  ( [172.20.6.245])
+	by fmmailgate05.web.de (Postfix) with ESMTP id ABF0B67A7BDC
+	for <ingo.skupin@gmail.com>; Fri, 25 Nov 2011 09:48:40 +0100 (CET)
+Received: from [209.85.213.180] (helo=mail-yx0-f180.google.com)
+	by mx32.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1RTrSZ-0002KZ-00; Fri, 25 Nov 2011 09:48:40 +0100
+Received: by yenl7 with SMTP id l7so3104181yen.11
+        for <multiple recipients>; Fri, 25 Nov 2011 00:48:38 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=gamma;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:cc:content-type
+         :content-transfer-encoding;
+        bh=AuIcczAlM+8ALRsm7Mi7YGazmWU87glbue4Xs3owPRU=;
+        b=sqX21CwxSAH5OG8OvYa1WE2xk0hcEG+zPQTE9ZZs7HU4LZnwDyAAiK8iv6OKloW3QZ
+         eWCU7nMcDbmDHDLJrZG/q5RsgfChKL97opqMDhUuV6hk0hghF3YCf7J4zJcKQ72f95Pv
+         d55K+s76qxVwe+YArhaBXprFjsAm7qSvfSkk0=
+MIME-Version: 1.0
+Received: by 10.68.72.168 with SMTP id e8mr25292947pbv.127.1322210918737; Fri,
+ 25 Nov 2011 00:48:38 -0800 (PST)
+Sender: fmsebert@gmail.com
+Received: by 10.68.190.6 with HTTP; Fri, 25 Nov 2011 00:48:38 -0800 (PST)
+In-Reply-To: <3C053F45-BCE9-4E27-9C31-667C6D3D1E27@wiehr.de>
+References: <4F91222C659D5B4E8C89CE4D710BB08E8F3BC1BAC5@DKFZEX01.ad.dkfz-heidelberg.de>
+	<3C053F45-BCE9-4E27-9C31-667C6D3D1E27@wiehr.de>
+Date: Fri, 25 Nov 2011 09:48:38 +0100
+X-Google-Sender-Auth: oQ9EMxLUqN8z1vfl_h0MdQ8hDPg
+Message-ID: <CAN1A5uCPjjxCgdi0w3R1xpMp72tXC6N2mUqr3hHMy0ZeO0zuLA@mail.gmail.com>
+Subject: Re: Weihnachtsfeier Saxophon-Ensemble
+From: Florian Sebert <florian@floriansebert.de>
+To: "Dr. Stefan Wiehr" <stefan@wiehr.de>
+Cc: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>, 
+	"pfistersabine@googlemail.com" <pfistersabine@googlemail.com>, 
+	"norazurnieden@googlemail.com" <norazurnieden@googlemail.com>, 
+	"steffen.sautter@web.de" <steffen.sautter@web.de>, 
+	"kingsaxello@googlemail.com" <kingsaxello@googlemail.com>, "tizian_decker@web.de" <tizian_decker@web.de>, 
+	"lukasfischer1@aol.com" <lukasfischer1@aol.com>, 
+	"christine-erchinger@web.de" <christine-erchinger@web.de>, "ingo.skupin@web.de" <ingo.skupin@web.de>, 
+	"harryd.bath@t-online.de" <harryd.bath@t-online.de>, "jandan@gmx.de" <jandan@gmx.de>, 
+	"valerie.bartel@gmx.de" <valerie.bartel@gmx.de>, 
+	"rainerpfister@blackforestentertainment.org" <rainerpfister@blackforestentertainment.org>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+Hallo zusammen,
+
+falls die Gesch=E4fte heute Abend noch offen haben sollten, wenn ich
+ankomme, bringe ich nat=FCrlich auch gerne etwas mit - wei=DF aber noch
+nicht was :-)
+
+Gru=DF,
+Florian
+
+--
+Sent via K-9 for Android Ice Cream Sandwich.
+
+--=20
+Dr. Florian Sebert
+d-fine GmbH
+Munich Office
+Zugspitzstra=DFe 3a, D-82049 Pullach
+Mobil +49 (0)162 2631334
+Tel    +49 (0)89 7908617 391
+Fax   +49 (0)89 7908617 202
+www.d-fine.de

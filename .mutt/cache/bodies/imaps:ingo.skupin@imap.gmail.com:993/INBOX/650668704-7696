@@ -1,0 +1,59 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.170 with SMTP id i10csp217011pdr;
+        Wed, 25 Jun 2014 04:49:12 -0700 (PDT)
+X-Received: by 10.180.36.66 with SMTP id o2mr5007626wij.70.1403696952151;
+        Wed, 25 Jun 2014 04:49:12 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id gt4si6313094wib.64.2014.06.25.04.49.11
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 25 Jun 2014 04:49:12 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb102)
+ with ESMTPS (Nemesis) id 0LyFQn-1Wf1H62pPh-015dft for
+ <ingo.skupin@gmail.com>; Wed, 25 Jun 2014 13:49:10 +0200
+Received: from mout.gmx.net ([212.227.17.20]) by mx-ha.web.de (mxweb102) with
+ ESMTPS (Nemesis) id 0M0x7L-1WgjBC2pCh-00v7wp for <ingo.skupin@web.de>; Wed,
+ 25 Jun 2014 13:49:09 +0200
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.gmx.net (mxgmx104) with
+ ESMTPS (Nemesis) id 0MJEJy-1Wx1bh10Go-002kwU; Wed, 25 Jun 2014 13:48:55 +0200
+Received: from [84.133.241.160] by 3capp-gmx-bs58.server.lan (via HTTP);
+ Wed, 25 Jun 2014 13:48:54 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-4038765d-d1f9-4b04-93ff-2eba993488ae-1403696934631@3capp-gmx-bs58>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: "_Verteiler_Holz+Dirigent Blasorchester"
+ <BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de>,
+ "_Verteiler_Blech+Schlagzeug Blasorchester"
+ <BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de>
+Subject: Auftritt Bissingen
+Content-Type: text/html; charset=UTF-8
+Date: Wed, 25 Jun 2014 13:48:54 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:KvXecYxwbC4YUKSGR5JWkTVdKq7rs0F6yz5HgeXjGAp
+ lKp47moprpeIrHxtmoFuoNJ5lwpp8M6rJcBZiXybFdaPIqgFwl
+ DeOPxGaTNdowfmB454dGrtfobXwTyMnbvXPiYhhznbR49lNOMv
+ INHf/NNsrJjPMKhzxJwe9jTe4BKjrzMZJAe81eR7mSpoXls+HJ
+ DEx4wZlTtYBCXyN4As/izKYqafPcrUHHCpfHRgncRVGjB57HTj
+ 30Z1u1AlHl4lGd7NoS7OQpjseP6JSnP2UF73p3bz36mDBd4wmn mtWFDc=
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Ich wollte nochmals auf den Termin 7.September hinweisen!</div>
+
+<div>an alle die sich noch nicht gemeldet haben&nbsp;&nbsp; Uhrzeit 18 Uhr bis Schlu&szlig;</div>
+
+<div>auf der Kelterhocketse in Bissingen Sonntag 7.September</div>
+
+<div>&nbsp;</div>
+
+<div>Stand der Dinge jetzt muss ich es wieder absagen, da wir mit 14 Musikern</div>
+
+<div>nicht spielf&auml;hig sind&#39;!</div>
+
+<div>Kommenden Montag brauch ich eine entg&uuml;ltige Entscheidung!</div>
+
+<div>Gru&szlig; Timo</div></div></body></html>

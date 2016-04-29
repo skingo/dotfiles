@@ -1,0 +1,136 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.79.110.12 with SMTP id j12csp1386732ivc;
+        Mon, 11 Apr 2016 10:18:13 -0700 (PDT)
+X-Received: by 10.28.60.134 with SMTP id j128mr20031058wma.71.1460395093801;
+        Mon, 11 Apr 2016 10:18:13 -0700 (PDT)
+Return-Path: <charles.paperman@gmail.com>
+Received: from mail-wm0-x230.google.com (mail-wm0-x230.google.com. [2a00:1450:400c:c09::230])
+        by mx.google.com with ESMTPS id j9si14177063wma.95.2016.04.11.10.18.13
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Mon, 11 Apr 2016 10:18:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of charles.paperman@gmail.com designates 2a00:1450:400c:c09::230 as permitted sender) client-ip=2a00:1450:400c:c09::230;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@gmail.com;
+       spf=pass (google.com: domain of charles.paperman@gmail.com designates 2a00:1450:400c:c09::230 as permitted sender) smtp.mailfrom=charles.paperman@gmail.com;
+       dmarc=pass (p=NONE dis=NONE) header.from=gmail.com
+Received: by mail-wm0-x230.google.com with SMTP id l6so119712204wml.1;
+        Mon, 11 Apr 2016 10:18:13 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:in-reply-to:references:date:message-id:subject:from:to
+         :cc;
+        bh=IjZgEwlyxjF0G6hyNWJiMle++05MBI8U98qfWcH5Bp0=;
+        b=KbUQX44CJaslXqFAwu5tEJ5zu5tf+oO6fR7UU/oL6tZcR5JDyHfcV+Czts2AHVh4LI
+         8Cu5LfMQkKSiuy50oZ/yBfeGzYPobqrVYE2RqAZFTDvygwOcAa4qOK51qa5XGpJwHV+l
+         M+KeXJv0tFVGt2FVrhEiPRIrZd8Pg5DcRm1qErPKOJHaUjX+5oQh1eOS5efClVocpqx4
+         K19C7wbi4SX2Q8MeWLZ0DzeMJc6otFPL4KmbLKMbNfaVUVjq6NqY0lMV0CSP3letDzg1
+         2Kiw6fzVXf3fRnU3TbsIIU1/wxRdgDlWsiEVzEqmXdLZU+krztx1PesYt6gtx95tinh9
+         Tjpg==
+X-Google-DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=1e100.net; s=20130820;
+        h=x-gm-message-state:mime-version:in-reply-to:references:date
+         :message-id:subject:from:to:cc;
+        bh=IjZgEwlyxjF0G6hyNWJiMle++05MBI8U98qfWcH5Bp0=;
+        b=MtAK+F6F2B4C5tOYKlgCKHi3UEWxT+qZxOBrDMN2LpbcKHiPbgDVFtntpS0WY3QfLA
+         MBEG1TwTBpWhEzTK/L8tuMT+xVlavXUL1ukybyerS4wibV9y3eiKbBRgXmOyaYECKfpd
+         1Lu03siYuJE0B8odD/qveQIK6nLkd8jln3lCkpoD+zuQzR56ZHKAZPVE19rdx7+WIyI8
+         A5H5Ki430jGPGsxQfO2ryqKBu2IEeGfEPw2hVo/OaStShZYhaxdYt4Tgx3Vnj0ouqQlF
+         XuNf2uohqEZN6rwOwNMdGXSNZo4ec6sYvgbw5JYRF/Vn/5ooUAhZhTnO3MUjX2PPdtuE
+         SanQ==
+X-Gm-Message-State: AD7BkJL7N8G9sJ3OGxbC6qlHXWu33MjmovjvNc7U97JvFpTHImE0TQ9YgG9+Fnm6EbRl0mWu3PywnL5DEN/4sw==
+MIME-Version: 1.0
+X-Received: by 10.194.2.225 with SMTP id 1mr28090696wjx.29.1460395093413; Mon,
+ 11 Apr 2016 10:18:13 -0700 (PDT)
+Received: by 10.194.54.4 with HTTP; Mon, 11 Apr 2016 10:18:13 -0700 (PDT)
+In-Reply-To: <20160411170738.GA28725@gmail.com>
+References: <CAHEmHdSDC_Cx7_gGyjJbFDMnz1WDTDW_ZDZ1k7W6VroPV403zA@mail.gmail.com>
+	<570BAD24.3000607@googlemail.com>
+	<20160411170738.GA28725@gmail.com>
+Date: Mon, 11 Apr 2016 19:18:13 +0200
+Message-ID: <CAHEmHdRvYS2yf04kewwFRyoQNO3r5J-8gaAY_MacVinHmhs+-A@mail.gmail.com>
+Subject: Re: Monad stuff meeting
+From: Charles Paperman <charles.paperman@gmail.com>
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Cc: Sebastian Schoener <sebastianschoener@googlemail.com>, 
+	Andreas Krebs <akrebs2111@googlemail.com>
+Content-Type: multipart/alternative; boundary=047d7b343ca4c65ecc053038ba93
+
+--047d7b343ca4c65ecc053038ba93
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Sebastian, if you prefer to focus on the writing of you thesis, we can do a
+session just with Ingo and you will catch up later with Andr=C3=A9.
+
+Do as you please.
+
+
+
+2016-04-11 19:07 GMT+02:00 Ingo Skupin <ingo.skupin@googlemail.com>:
+
+> Hi,
+>
+> I think a new meeting might be beneficial, since at least I myself lost
+> track about the whole topic after the long break.
+>
+> Greetings,
+> Ingo
+>
+> On Mon, Apr 11, 2016 at 03:56:52PM +0200, Sebastian Schoener wrote:
+> > Hi,
+> >
+> > On 11.04.2016 08:44, Charles Paperman wrote:
+> > >what about resume our weekly meeting this week ? We can try to move on
+> > >to "wreath product" for monad with the extra axiom. It seems reasonabl=
+e
+> > >to me now.
+> >
+> > in principle, that is possible. Since I want to finish my thesis until
+> > the end of April, I may not really have the time to prepare anything...
+> >
+> > --
+> > Regards,
+> > Sebastian Schoener
+>
+
+--047d7b343ca4c65ecc053038ba93
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Sebastian, if you prefer to focus on the writing of you th=
+esis, we can do a session just with Ingo and you will catch up later with A=
+ndr=C3=A9.=C2=A0<div><br></div><div>Do as you please.=C2=A0<br></div><div><=
+div><br></div><div><br></div></div></div><div class=3D"gmail_extra"><br><di=
+v class=3D"gmail_quote">2016-04-11 19:07 GMT+02:00 Ingo Skupin <span dir=3D=
+"ltr">&lt;<a href=3D"mailto:ingo.skupin@googlemail.com" target=3D"_blank">i=
+ngo.skupin@googlemail.com</a>&gt;</span>:<br><blockquote class=3D"gmail_quo=
+te" style=3D"margin:0 0 0 .8ex;border-left:1px #ccc solid;padding-left:1ex"=
+>Hi,<br>
+<br>
+I think a new meeting might be beneficial, since at least I myself lost<br>
+track about the whole topic after the long break.<br>
+<br>
+Greetings,<br>
+Ingo<br>
+<div class=3D"HOEnZb"><div class=3D"h5"><br>
+On Mon, Apr 11, 2016 at 03:56:52PM +0200, Sebastian Schoener wrote:<br>
+&gt; Hi,<br>
+&gt;<br>
+&gt; On 11.04.2016 08:44, Charles Paperman wrote:<br>
+&gt; &gt;what about resume our weekly meeting this week ? We can try to mov=
+e on<br>
+&gt; &gt;to &quot;wreath product&quot; for monad with the extra axiom. It s=
+eems reasonable<br>
+&gt; &gt;to me now.<br>
+&gt;<br>
+&gt; in principle, that is possible. Since I want to finish my thesis until=
+<br>
+&gt; the end of April, I may not really have the time to prepare anything..=
+.<br>
+&gt;<br>
+&gt; --<br>
+&gt; Regards,<br>
+&gt; Sebastian Schoener<br>
+</div></div></blockquote></div><br></div>
+
+--047d7b343ca4c65ecc053038ba93--

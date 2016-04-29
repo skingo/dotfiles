@@ -1,0 +1,215 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.161.73 with SMTP id q9csp231840vcx;
+        Sat, 8 Dec 2012 12:08:14 -0800 (PST)
+Received: by 10.14.223.135 with SMTP id v7mr31202270eep.41.1354997293737;
+        Sat, 08 Dec 2012 12:08:13 -0800 (PST)
+Return-Path: <thomas.ringhoffer@gmx.de>
+Received: from mailout-de.gmx.net (mailout-de.gmx.net. [213.165.64.23])
+        by mx.google.com with SMTP id k48si33793345een.98.2012.12.08.12.08.13;
+        Sat, 08 Dec 2012 12:08:13 -0800 (PST)
+Received-SPF: pass (google.com: domain of thomas.ringhoffer@gmx.de designates 213.165.64.23 as permitted sender) client-ip=213.165.64.23;
+Authentication-Results: mx.google.com; spf=pass (google.com: domain of thomas.ringhoffer@gmx.de designates 213.165.64.23 as permitted sender) smtp.mail=thomas.ringhoffer@gmx.de
+Received: (qmail invoked by alias); 08 Dec 2012 20:08:12 -0000
+Received: from dslb-088-067-091-217.pools.arcor-ip.net (EHLO MUSIKZIMMER) [88.67.91.217]
+  by mail.gmx.net (mp039) with SMTP; 08 Dec 2012 21:08:12 +0100
+X-Authenticated: #764207
+X-Provags-ID: V01U2FsdGVkX1/3WDR4+0z3pLTzkMNjhW2uZ7dRW+DlqcRlUylX6k
+	7WQzDK5Az9ZJH6
+From: "Thomas gmx" <thomas.ringhoffer@gmx.de>
+To: <thomas.ringhoffer@swr.de>,
+	"Alina Bosch" <alina_bosch@hotmail.de>,
+	"'Alina Bosch'" <marion.bosch@hotmail.de>,
+	"Heike Besenfelder" <heikebesenfelder@gmx.de>,
+	=?iso-8859-1?Q?Julia_Hangkamer-K=FChnen?= <jule.hk@googlemail.com>,
+	"Katharina Gotthardt" <kathi.cmgotthardt@arcor.de>,
+	"Katharina Gotthardt" <kathi.gotthardt@gmx.de>,
+	"Kerstin Hummel" <kerstin.hummel@kabelbw.de>,
+	"Laura Henzler" <laura.henzler@kabelbw.de>,
+	"'Leona Skupin'" <leona.skupin@t-online.de>,
+	"Leona Skupin" <leona.skupin@web.de>,
+	"Mirjam Hemberger" <mirjam-hemberger@t-online.de>,
+	"Nora Walz" <nora7487@t-online.de>,
+	"Vera Ringhoffer" <vera.ringhoffer@web.de>,
+	"Anika Umhey" <zupu2005@arcor.de>,
+	"Caroline Jasmin Machanek" <cmachanek@web.de>,
+	=?iso-8859-1?Q?Elena_Gro=DF?= <ele.gross@gmx.de>,
+	"Helena Kiltz" <helenakiltz@web.de>,
+	"Jasmina Andorf" <jadorf@gmx.de>,
+	"Lisa Ensminger \(lisaensminger@gmx.de\)" <no-enzes@web.de>,
+	"Marina Guber" <marina_guber@web.de>,
+	"Melanie Hauser" <melanie.hauser@gmx.net>,
+	"Natalie Machanek" <nmachanek@web.de>,
+	"Sabrina Machanek" <smachanek@web.de>,
+	"Sarah Ringhoffer" <sarah.ringhoffer@gmx.de>,
+	"Shari Huber" <sharilouisa@gmx.de>,
+	"Sofia Gommel" <sofia-gommel@web.de>,
+	"Tamara Schweizer" <tamara-schweizer@gmx.de>,
+	"Ulrike Jost \(ulrikejost97@gmx.de\)" <umaajost@t-online.de>,
+	"Andreas Pleger" <A.Pleger@foni.net>,
+	"Andreas Welzl" <no.samt@t-online.de>,
+	"Dale Grill \(dalegrill@googlemail.com\)" <dalegrill@gmail.com>,
+	"Ingo Skupin \(ingo.skupin@web.de\)" <ingo.skupin@gmail.com>,
+	"Katharina Maier" <KML.Ma@web.de>,
+	"Rebecca Sonn" <rebecca.sonn@web.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	"Alexander Beck" <beck.notzingen@t-online.de>,
+	"Benjamin Deuschle" <benjamin.deuschle@gmx.de>,
+	"Benjamin Deuschle" <benjamin.deuschle@web.de>,
+	"Stefan Ringhoffer \(stefan.ringhoffer@hotmail.de\)" <stefan.ringhoffer@gmx.net>,
+	=?iso-8859-1?Q?Dagmar_K=F6ber?= <dagmar.koeber@gmx.de>,
+	"Jens Ringhoffer" <jens.ringhoffer@gmx.de>,
+	"Jonas Pfeifer \(jonas.pfeifer@web.de\)" <pfeifer.jonas@gmail.com>,
+	"Julian Sparrer" <julian.sparrer@web.de>,
+	"Philipp Mayer" <mayer-fertigungstechnik@t-online.de>,
+	"Sarah Keck" <beate_keck@web.de>,
+	"Sarah Keck" <sarahmagdalena_keck@web.de>,
+	"Teresa Pleger" <teresa.pleger@web.de>,
+	"Dominik Pleger" <D-Pleger@web.de>,
+	=?iso-8859-1?Q?J=F6rg_Ruff?= <joergruff@web.de>,
+	=?iso-8859-1?Q?Klaus_J=FCrgen_Weiler?= <GWeiler@t-online.de>,
+	<familie.scherbaum@kabelbw.de>,
+	"'Maximilian Scherbaum'" <familie.scherbaum@web.de>,
+	"Maximilian Scherbaum \(max_vom_haldenberg@gmx.de\)" <maximilian.scherbaum@web.de>,
+	"Sebastian Kasputtis" <skas@gmx.de>,
+	"Simon Keck" <simon.keck92@googlemail.com>,
+	"Edmund Deuschle" <edmund.deuschle@gmx.de>,
+	=?iso-8859-1?Q?G=FCnther_Cla=DF?= <guenther_class@gmx.de>,
+	"Kay Kirchmann" <Kay.Kirchmann@gmx.de>,
+	"'Alexander Klon'" <alex.sebastian-k@web.de>,
+	"Alexander Zweifel" <a.zweifel95@gmail.com>,
+	"Marvin Bombis \(MarvinBombis@web.de\)" <marvin.bombis@web.de>,
+	"Patrick Vollmer" <paddie-vollmer@web.de>
+Subject: Weihnachtsmarkt
+Date: Sat, 8 Dec 2012 21:08:10 +0100
+Message-ID: <6626999B08FF49F0BF6DE542FFD05FC8@MUSIKZIMMER>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_005B_01CDD588.22A3EF90"
+X-Priority: 1 (Highest)
+X-MSMail-Priority: High
+X-Mailer: Microsoft Office Outlook 11
+Importance: High
+Thread-Index: Ac3Vf77HdNi6U3JhRPCo1N7gG1hQqQ==
+X-MimeOLE: Produced By Microsoft MimeOLE V6.1.7601.17609
+X-Y-GMX-Trusted: 0
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_005B_01CDD588.22A3EF90
+Content-Type: text/plain;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo,
+
+wir treffen uns am Sonntag um 16:15 Uhr am Pavillon am Kelterplatz.
+
+Ihr braucht:
+Instrument & Notenst=E4nder
+Heft 27 Weihnachtslieder
+Macht hoch die T=FCr
+
+und warme Kleidung
+
+Bitte kommt ALLE!!!
+
+
+Bis Sonntag
+
+Herzlichen Gru=DF
+
+Thomas=20
+
+=20
+
+=20
+
+
+------=_NextPart_000_005B_01CDD588.22A3EF90
+Content-Type: text/html;
+	charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+
+<html xmlns:o=3D"urn:schemas-microsoft-com:office:office" =
+xmlns:w=3D"urn:schemas-microsoft-com:office:word" =
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Diso-8859-1">
+<meta name=3DGenerator content=3D"Microsoft Word 11 (filtered medium)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Verdana;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";}
+a:link, span.MsoHyperlink
+	{color:blue;
+	text-decoration:underline;}
+a:visited, span.MsoHyperlinkFollowed
+	{color:purple;
+	text-decoration:underline;}
+span.E-MailFormatvorlage17
+	{mso-style-type:personal-compose;
+	font-family:Arial;
+	color:windowtext;}
+@page Section1
+	{size:595.3pt 841.9pt;
+	margin:70.85pt 70.85pt 2.0cm 70.85pt;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+
+</head>
+
+<body lang=3DDE link=3Dblue vlink=3Dpurple>
+
+<div class=3DSection1>
+
+<p class=3DMsoNormal><font size=3D1 face=3DVerdana><span =
+style=3D'font-size:9.0pt;
+font-family:Verdana'>Hallo,<br>
+<br>
+wir treffen uns am Sonntag um 16:15 Uhr am Pavillon am Kelterplatz.<br>
+<br>
+Ihr braucht:<br>
+Instrument &amp; Notenst=E4nder<br>
+Heft 27 Weihnachtslieder<br>
+Macht hoch die T=FCr<br>
+<br>
+und warme Kleidung<br>
+<br>
+Bitte kommt ALLE!!!<br>
+<br>
+<br>
+Bis Sonntag<br>
+<br>
+Herzlichen Gru=DF<br>
+<br>
+Thomas <o:p></o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D1 color=3D"#666666" =
+face=3DVerdana><span
+style=3D'font-size:8.0pt;font-family:Verdana;color:#666666'><o:p>&nbsp;</=
+o:p></span></font></p>
+
+<p class=3DMsoNormal><font size=3D2 face=3DArial><span =
+style=3D'font-size:10.0pt;
+font-family:Arial'><o:p>&nbsp;</o:p></span></font></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_000_005B_01CDD588.22A3EF90--
+

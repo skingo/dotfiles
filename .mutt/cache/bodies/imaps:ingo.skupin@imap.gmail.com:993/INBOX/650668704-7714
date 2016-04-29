@@ -1,0 +1,32 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.60.170 with SMTP id i10csp209520pdr;
+        Sun, 29 Jun 2014 05:35:15 -0700 (PDT)
+X-Received: by 10.194.20.230 with SMTP id q6mr38144505wje.43.1404045315226;
+        Sun, 29 Jun 2014 05:35:15 -0700 (PDT)
+Return-Path: <ingo.skupin@student.uni-tuebingen.de>
+Received: from mx08.uni-tuebingen.de (mx08.uni-tuebingen.de. [134.2.5.218])
+        by mx.google.com with ESMTPS id t11si6101221wib.5.2014.06.29.05.35.14
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Sun, 29 Jun 2014 05:35:15 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@student.uni-tuebingen.de does not designate permitted sender hosts) client-ip=134.2.5.218;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@student.uni-tuebingen.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@student.uni-tuebingen.de
+Received: from [192.168.1.2] (HSI-KBW-149-172-179-109.hsi13.kabel-badenwuerttemberg.de [149.172.179.109])
+	(authenticated bits=0)
+	by mx08.uni-tuebingen.de (8.14.3/8.14.3) with ESMTP id s5TCZ8Ad018366
+	(version=TLSv1/SSLv3 cipher=DHE-RSA-AES256-SHA bits=256 verify=NO)
+	for <ingo.skupin@gmail.com>; Sun, 29 Jun 2014 14:35:14 +0200
+User-Agent: K-9 Mail for Android
+MIME-Version: 1.0
+Content-Transfer-Encoding: 8bit
+Content-Type: text/plain;
+ charset=UTF-8
+Subject: Foobar
+From: Ingo Skupin <ingo.skupin@student.uni-tuebingen.de>
+Date: Sun, 29 Jun 2014 14:35:09 +0200
+To: Ingo Skupin <ingo.skupin@gmail.com>
+Message-ID: <b018b3a5-565f-4ea6-8fb0-66c09bb30b54@email.android.com>
+X-AntiVirus: checked by Avira MailGate (version: 3.2.1.26; AVE: 8.3.20.22; VDF: 7.11.157.146; host: mx08); id=22014-5yJNf8
+
+

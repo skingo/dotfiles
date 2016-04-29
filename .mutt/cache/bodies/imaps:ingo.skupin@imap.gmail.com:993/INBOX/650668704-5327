@@ -1,0 +1,415 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.64.245.177 with SMTP id xp17csp10647iec;
+        Tue, 30 Apr 2013 02:56:14 -0700 (PDT)
+X-Received: by 10.14.182.72 with SMTP id n48mr134174824eem.3.1367315773953;
+        Tue, 30 Apr 2013 02:56:13 -0700 (PDT)
+Return-Path: <stevekoch@gmx.de>
+Received: from mout.gmx.net (mout.gmx.net. [212.227.15.18])
+        by mx.google.com with ESMTP id f3si37098935eev.105.2013.04.30.02.56.13
+        for <ingo.skupin@gmail.com>;
+        Tue, 30 Apr 2013 02:56:13 -0700 (PDT)
+Received-SPF: pass (google.com: domain of stevekoch@gmx.de designates 212.227.15.18 as permitted sender) client-ip=212.227.15.18;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of stevekoch@gmx.de designates 212.227.15.18 as permitted sender) smtp.mail=stevekoch@gmx.de
+Received: from mailout-de.gmx.net ([10.1.76.35]) by mrigmx.server.lan
+ (mrigmx001) with ESMTP (Nemesis) id 0MdY5y-1U7sGX1816-00PL9D for
+ <ingo.skupin@gmail.com>; Tue, 30 Apr 2013 11:56:13 +0200
+Received: (qmail invoked by alias); 30 Apr 2013 09:56:12 -0000
+Received: from p57B42DB6.dip0.t-ipconnect.de (EHLO Arbeitstier) [87.180.45.182]
+  by mail.gmx.net (mp035) with SMTP; 30 Apr 2013 11:56:12 +0200
+X-Authenticated: #10157959
+X-Provags-ID: V01U2FsdGVkX18cujMzS7sc1qzOFFgj5MnaZJit0QLxzgS+QU1Jik
+	8swN+8ZZ94lk7w
+Message-ID: <F647D97DAAAB494F8878CD13F4D853F5@Arbeitstier>
+From: <stevekoch@gmx.de>
+To: <anjarentz@arcor.de>,
+	<rs@mut-anhaenger.de>,
+	<f.a.brodbeck@kabelbw.de>,
+	<luisa.schroth@web.de>,
+	<hennrich-paul@web.de>,
+	<sara.eberspaecher@live.de>,
+	<sarah-petzoldt@freenet.de>,
+	<tanja.beichter@gmx.de>,
+	<anja-s96@web.de>,
+	<david.eisele@arcor.de>,
+	<ralf.krasselt@arcor.de>,
+	<annika.steib@hotmail.com>,
+	<christine.dieter.bayer@t-online.de>,
+	<sonja.christiane@web.de>,
+	<uli.mueller@online.de>,
+	<luisa.frietsch@t-online.de>,
+	<felix@fam-wetzel.com>,
+	<benjamin@steiner.org>,
+	<vera.ringhoffer@web.de>,
+	<v.tomschi@web.de>,
+	<lotta@zeiger-web.de>,
+	"Paul Jacot" <paul.jacot@gmx.net>,
+	"Th. Rotter" <T.Rotter@t-online.de>,
+	"Tobias Geiger" <tobias.geiger1995@gmx.de>,
+	<ingo.skupin@gmail.com>,
+	"Vanessa Wuensch" <vanessa.wuensch@web.de>,
+	"Luisa Engel" <engel.luisa@web.de>,
+	<kaltenecker.jan@googlemail.com>,
+	<Baurlu@web.de>,
+	"Tobias Lauster" <tobias.lauster@gmx.de>,
+	<nmachanek@web.de>,
+	<smachanek@web.de>,
+	<uli__kurz@t-online.de>,
+	"Matthias Albrecht" <matze.albrecht@web.de>,
+	"Christian Baur" <chrisbaur@hotmail.de>,
+	"Marvin Schaich" <Marvin.Schaich@t-online.de>,
+	"Marian Basta" <m-basta@web.de>,
+	<jakob.krenn@t-online.de>,
+	"Sarah Lena Neuburger" <pinkapple11@gmx.de>,
+	<felix.koschei@freenet.de>,
+	<nico.felbinger@web.de>,
+	<florian-floriaus@web.de>,
+	<oliiiiver@hotmail.de>,
+	<jonaskolibius@web.de>,
+	<janina_schott@web.de>,
+	"Christoph Koschei" <koschi_99@web.de>,
+	"Anja Michel" <anja_michel91@web.de>,
+	"Viktor Hahnemann" <viktor_hahnemann@web.de>,
+	"Marius Gawehn" <marius_gawehn@arcor.de>,
+	"Christian Schweizer" <Christian.Schweizer@t-online.de>,
+	=?UTF-8?Q?Florian_Strau=C3=9F?= <strauss-florian@web.de>,
+	"Steffen Sigmund" <j.sigmund@t-online.de>,
+	=?UTF-8?Q?Michael_Pf=C3=A4nder?= <Michi110793@aol.com>,
+	"Sinja Wernz" <sinja_wernz@web.de>,
+	"Ingo Skupin" <ingo.skupin@t-online.de>,
+	"Christoph Korschinek" <christoph@korschinek.de>,
+	"Jonas Gawehn" <jonas.gawehn@gmx.de>,
+	"Fanny Rothe" <fanny@wolber-rothe.de>,
+	"Florian Schneider" <schneider.florian1@gmx.de>,
+	"Robin Kiebele" <r.kiebele@gmx.net>,
+	"Julian Linsenmayer" <j.linsenmayer@gmx.de>,
+	"Lisa Speidel" <lisaspeidel@t-online.de>,
+	"Theresa Siegler" <theresa.siegler@googlemail.com>,
+	"Annika Vesenmaier" <an.ve@arcor.de>,
+	=?UTF-8?Q?David_K=C3=BCchle?= <D1V23@aol.com>,
+	"Lisa Richter" <lisarichter93@hotmail.de>,
+	=?UTF-8?Q?Philipp_Gr=C3=B6ber?= <groeber_95@web.de>,
+	"Pia Weber" <weberpia@arcor.de>,
+	"Kerstin Halbgebauer" <K.Halbgebauer@gmx.de>,
+	"Anna Hofmann" <anna-maria.hofmann@online.de>,
+	"Lena Schneider" <lena-schneider@t-online.de>,
+	"Lena Schroth" <lena-schroth@web.de>,
+	"Alexandra Gress" <alexandra_gress@web.de>,
+	"Marco Diez" <marcodiez@gmx.de>,
+	"Kristina Kraemer" <kristina.kraemer@akris.de>,
+	"Denis Trautwein" <denis.trautwein@gmx.de>,
+	<carolin_michel92@web.de>,
+	"Erik Gebauer" <gebauer.erik@web.de>,
+	<nils.fischer98@gmx.de>,
+	<annabelnannt@gmx.de>,
+	<david@kuechle-salach.de>,
+	"Thorsten Schmidt" <Thorsten.Schmidt_Schmidt@web.de>,
+	"Benjamin Schmitz" <schmitzbenni@googlemail.com>,
+	"Tobias Beichter" <tobias.beichter@gmx.de>,
+	"Christine Zeller" <chrisi.zeller@web.de>,
+	"Matthias Albrecht" <matze.albrecht@web.de>
+Subject: KJO Konzert
+Date: Tue, 30 Apr 2013 11:55:51 +0200
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+	boundary="----=_NextPart_000_0034_01CE4599.A9B3D190"
+X-Priority: 3
+X-MSMail-Priority: Normal
+Importance: Normal
+X-Mailer: Microsoft Windows Live Mail 16.4.3505.912
+X-MimeOLE: Produced By Microsoft MimeOLE V16.4.3505.912
+X-Y-GMX-Trusted: 0
+
+Dies ist eine mehrteilige Nachricht im MIME-Format.
+
+------=_NextPart_000_0034_01CE4599.A9B3D190
+Content-Type: text/plain;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+unser Konzert r=C3=BCckt n=C3=A4her, deswegen nochmal schnell die Daten =
+f=C3=BCrs Wochenende.
+Das Aufbauteam trifft sich am Freitag Abend um 18:15 Uhr an der =
+Fritz-Ruoff-Schule in N=C3=BCrtingen (Schlagzeugeingang direkt an der =
+Stra=C3=9Fe unten), ein paar die erst sp=C3=A4ter k=C3=B6nnen, kommen =
+auch direkt nach Plochingen um 19:00 Uhr. Falls es der ein oder andere =
+doch noch m=C3=B6glich machen kann am Freitag zu kommen w=C3=A4re es =
+super, je mehr wir sind desto schneller klappt der Aufbau.
+Alle:
+Samstag Generalprobe von 9:00 Uhr bis 14:30 Uhr in der Stadthalle =
+Plochingen. Danach stuhlen wir den Saal, also plant noch etwas Zeit ein.
+
+Sonntag 14:30 Uhr Anspielprobe (ca. 2h) in der Stadthalle Plochingen.
+Sonntag 17:30 Uhr Saal=C3=B6ffnung
+Sonntag 18:00 Uhr Konzertbeginn
+
+Sonntag nach Konzertende Abbau f=C3=BCr alle.=20
+Wenn alle mit anpacken schaffen wir es schnell die Halle besenrein zu =
+bekommen. Als allererstes laden wir das Schlagzeug ein, damit die =
+Schlagzeugfahrer auch schnell zum gem=C3=BCtlichen Teil kommen.=20
+Die Einteilung : Alle Herren helfen auf der B=C3=BChne (Schlagzeug, =
+Podeste, St=C3=BChle) und die Damen stuhlen die Halle ab. 2-3 Herren =
+bedienen dann die Stuhlwagen im Saal.=20
+
+Nach dem Aufr=C3=A4umen gehen wir f=C3=BCr den der noch Lust hat zum =
+gem=C3=BCtlichen Teil =C3=BCber in der Pizzeria =
+=E2=80=9CGargano=E2=80=9D in Wernau.
+
+Die Probe Samstags geht l=C3=A4nger als auf der R=C3=BCckmeldung =
+vermerkt, wir brauchen diese Zeit dringend mit dem KOMPLETTEN Orchester, =
+schaut also bitte das ihr alle noch eine Stunde l=C3=A4nger da sein =
+k=C3=B6nnt.
+
+Konzertkleidung:  F=C3=BCr die Herren, schwarzer Anzug mit wei=C3=9Fem =
+Hemd und schwarzer Stoffhose f=C3=BCr die Herren. Um den Hals tragen wir =
+die schwarze KJO-Krawatte, am Revers die Kreissparkassennadel (wer noch =
+keine hat bekommt am Sonntag eine), au=C3=9Ferdem schwarze Socken und =
+Schuhe (keine Turnschuhe/Sneakers etc.). Die Damen komplett gedeckt in =
+schwarz.=20
+
+Danke nochmal an alle die letzten Sonntag bei der Umrahmung der =
+Ergebnisbekanntgabe dabei waren, die Halle war voll und wir haben uns =
+toll pr=C3=A4sentiert und auch gut gespielt. Lasst uns am Sonntag da =
+noch etwas draufpacken,=20
+
+Bis Freitag/Samstag,
+
+Viele Gr=C3=BC=C3=9Fe
+Stefan
+
+
+
+
+
+------=_NextPart_000_0034_01CE4599.A9B3D190
+Content-Type: text/html;
+	charset="UTF-8"
+Content-Transfer-Encoding: quoted-printable
+
+<HTML><HEAD></HEAD>
+<BODY dir=3Dltr>
+<DIV dir=3Dltr>
+<DIV style=3D"FONT-SIZE: 12pt; FONT-FAMILY: 'Calibri'; COLOR: #000000">
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Hallo=20
+zusammen,</DIV></DIV></DIV></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV></DIV></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">unser=20
+Konzert r=C3=BCckt n=C3=A4her, deswegen nochmal schnell die Daten =
+f=C3=BCrs=20
+Wochenende.</DIV></DIV></DIV></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV></DIV></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Das=20
+Aufbauteam trifft sich am Freitag Abend um 18:15 Uhr an der =
+Fritz-Ruoff-Schule=20
+in N=C3=BCrtingen (Schlagzeugeingang direkt an der Stra=C3=9Fe unten), =
+ein paar die erst=20
+sp=C3=A4ter k=C3=B6nnen, kommen auch direkt nach Plochingen um 19:00 =
+Uhr. Falls es der ein=20
+oder andere doch noch m=C3=B6glich machen kann am Freitag zu kommen =
+w=C3=A4re es super, je=20
+mehr wir sind desto schneller klappt der =
+Aufbau.</DIV></DIV></DIV></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV></DIV></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">Alle:</DIV></DIV></DIV></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">&nbsp;</DIV></DIV></DIV></DIV></DIV>
+<DIV>
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV=20
+style=3D"FONT-SIZE: small; FONT-FAMILY: 'Calibri'; FONT-WEIGHT: normal; =
+COLOR: #000000; FONT-STYLE: normal; TEXT-DECORATION: none; DISPLAY: =
+inline">
+<DIV>Samstag Generalprobe von 9:00 Uhr bis 14:30 Uhr in der Stadthalle=20
+Plochingen. Danach stuhlen wir den Saal, also plant noch etwas Zeit =
+ein.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Sonntag 14:30 Uhr Anspielprobe (ca. 2h) in der Stadthalle =
+Plochingen.</DIV>
+<DIV>Sonntag 17:30 Uhr Saal=C3=B6ffnung</DIV>
+<DIV>Sonntag 18:00 Uhr Konzertbeginn</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Sonntag nach Konzertende Abbau f=C3=BCr alle. </DIV>
+<DIV>Wenn alle mit anpacken schaffen wir es schnell die Halle besenrein =
+zu=20
+bekommen. Als allererstes laden wir das Schlagzeug ein, damit die=20
+Schlagzeugfahrer auch schnell zum gem=C3=BCtlichen Teil kommen. </DIV>
+<DIV>Die Einteilung : Alle Herren helfen auf der B=C3=BChne (Schlagzeug, =
+Podeste,=20
+St=C3=BChle) und die Damen stuhlen die Halle ab. 2-3 Herren bedienen =
+dann die=20
+Stuhlwagen im Saal. </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Nach dem Aufr=C3=A4umen gehen wir f=C3=BCr den der noch Lust hat =
+zum gem=C3=BCtlichen Teil=20
+=C3=BCber in der Pizzeria =E2=80=9CGargano=E2=80=9D in Wernau.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Die Probe Samstags geht l=C3=A4nger als auf der R=C3=BCckmeldung =
+vermerkt, wir=20
+brauchen diese Zeit dringend mit dem KOMPLETTEN Orchester, schaut also =
+bitte das=20
+ihr alle noch eine Stunde l=C3=A4nger da sein k=C3=B6nnt.</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Konzertkleidung:&nbsp; F=C3=BCr die Herren, schwarzer Anzug mit =
+wei=C3=9Fem Hemd und=20
+schwarzer Stoffhose f=C3=BCr die Herren. Um den Hals tragen wir die =
+schwarze=20
+KJO-Krawatte, am Revers die Kreissparkassennadel (wer noch keine hat =
+bekommt am=20
+Sonntag eine), au=C3=9Ferdem schwarze Socken und Schuhe (keine =
+Turnschuhe/Sneakers=20
+etc.). Die Damen komplett gedeckt in schwarz. </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Danke nochmal an alle die letzten Sonntag bei der Umrahmung der=20
+Ergebnisbekanntgabe dabei waren, die Halle war voll und wir haben uns =
+toll=20
+pr=C3=A4sentiert und auch gut gespielt. Lasst uns am Sonntag da noch =
+etwas=20
+draufpacken, </DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Bis Freitag/Samstag,</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>Viele Gr=C3=BC=C3=9Fe</DIV>
+<DIV>Stefan</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV>
+<DIV>&nbsp;</DIV></DIV></DIV></DIV></DIV></DIV></DIV></BODY></HTML>
+
+------=_NextPart_000_0034_01CE4599.A9B3D190--
+

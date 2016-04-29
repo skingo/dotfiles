@@ -1,0 +1,415 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.170.115.140 with SMTP id h134csp269596ykb;
+        Tue, 6 May 2014 23:51:13 -0700 (PDT)
+X-Received: by 10.14.176.193 with SMTP id b41mr14610645eem.55.1399445473027;
+        Tue, 06 May 2014 23:51:13 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.12])
+        by mx.google.com with ESMTPS id r9si15369121eew.318.2014.05.06.23.51.12
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 06 May 2014 23:51:12 -0700 (PDT)
+Received-SPF: none (google.com: ingo.skupin@web.de does not designate permitted sender hosts) client-ip=212.227.17.12;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: ingo.skupin@web.de does not designate permitted sender hosts) smtp.mail=ingo.skupin@web.de;
+       dkim=pass header.i=@gmail.com
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb105)
+ with ESMTPS (Nemesis) id 0MQ40l-1WmaFw1cpf-005GZ5 for
+ <ingo.skupin@gmail.com>; Wed, 07 May 2014 08:51:11 +0200
+Received: from mail-oa0-f50.google.com ([209.85.219.50]) by mx-ha.web.de
+ (mxweb105) with ESMTPS (Nemesis) id 0MX2oi-1WMyV91ceq-00Vxzs for
+ <ingo.skupin@web.de>; Wed, 07 May 2014 08:51:11 +0200
+Received: by mail-oa0-f50.google.com with SMTP id i7so677210oag.37
+        for <multiple recipients>; Tue, 06 May 2014 23:51:10 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date:message-id:subject
+         :from:to:cc:content-type;
+        bh=681t4/D2zHEPVG1xuoBkCYfXz5UmkLJvn6Dcu3WDoJ8=;
+        b=HUGCL0zSfKl42QQQ/x9uUJ9EC2ux+dXR3nitR5dktKxtXgd4R8geK9MfTP6IxU17ii
+         NvsM9C0sJksdUxEX0IdjueiIbipJKu6G1gVTnl+0SYGOG21h4EVv/Zr5tIWWalSZ9aMt
+         WxQK7gO3LbeQjSSW52yhbkLiF3LeIqV6rnshto7ldlBXy2nHOO7xBiY3SlzFQKGgeE3q
+         mwOQ+Ap5lc2yfYidks5ijyBbntf6txumaRaPUvKG4heLjvED6Hy7cc2LOekydz1B8CRZ
+         tFSmRgDTt3Bd7rHTlukZY8ZIoQd8iKEP/Z34PFsBs9U7AqWIMtXyTW5AeqYRqrtJoolT
+         CmVg==
+MIME-Version: 1.0
+X-Received: by 10.182.231.138 with SMTP id tg10mr42910065obc.44.1399445469733;
+ Tue, 06 May 2014 23:51:09 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.76.69.134 with HTTP; Tue, 6 May 2014 23:51:09 -0700 (PDT)
+In-Reply-To: <0A811E8F-3018-4805-821D-0400579A854D@wiehr.de>
+References: <CAN1A5uDA6EZ1JHPpNE5vR+jY-qBmKu+gRhEW+kSfUXV6xi0-Qw@mail.gmail.com>
+	<trinity-b7ac7c5b-e1cf-48c1-b94a-676a82feb750-1399293445806@3capp-webde-bs37>
+	<CAN1A5uDT0q1Qoommrh44qRAhZL4OBcVeFh9K7Sqi4AuZ1VPxNw@mail.gmail.com>
+	<trinity-781e85bd-8856-4989-9137-0891d12f04a3-1399324547123@3capp-webde-bs32>
+	<CAN1A5uAz9jZsq5=Tb5rvzeX1MkLP+5aQ6U5QG3LhbdwPmObrow@mail.gmail.com>
+	<0A811E8F-3018-4805-821D-0400579A854D@wiehr.de>
+Date: Wed, 7 May 2014 08:51:09 +0200
+X-Google-Sender-Auth: b_mseJibO6ZxwATjn-TiabVBOqM
+Message-ID: <CAN1A5uDujr0ixpUxZnzgmHwg57SPOYYM+wqkrPbFPuOnPfJi3w@mail.gmail.com>
+Subject: Re: Samstag
+From: Florian Sebert <florian@floriansebert.de>
+To: Stefan Wiehr <stefan@wiehr.de>, Ingo Skupin <ingo.skupin@web.de>
+Cc: Lena Hahn <lenahahn20@web.de>
+Content-Type: multipart/alternative; boundary=001a11c32a961b3cb004f8c9ca41
+
+--001a11c32a961b3cb004f8c9ca41
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+das klingt doch sinnvoll, machen wir es so.
+
+Ich schlage vor, wir treffen uns gegen 8 Uhr am "Aichtalbr=C3=BCckenrasthof=
+".
+
+@Ingo: Meldest du dich bitte bei Stefan zwex Vereinbarung deines
+Zustiegszeitpunkts?
+
+Dank und Gru=C3=9F
+Florian
+
+
+2014-05-06 22:35 GMT+02:00 Stefan Wiehr <stefan@wiehr.de>:
+
+> Hallo zusammen,
+>
+> es tut mir wirklich unendlich Leid, dass ich auch noch die gro=C3=9Fe
+> Bass-Tr=C3=B6te mitnehmen mu=C3=9F und diese auch noch die ganze R=C3=BCc=
+kbank in Beschlag
+> nimmt. ABER ich k=C3=B6nnte Ingo-Bingo irgendwo in T=C3=BC-Town aufsammel=
+n und und
+> wir uns dann wie vorgeschlagen an dem "Aichtalbr=C3=BCckenrasthof " treff=
+en und
+> entweder Bingo-Ingo oder Lena zu Florian ins "richtige" ;-) Auto wechseln=
+.
+> Die ganze Fahrt hingegen mit Bass-Sax auf dem Scho=C3=9F m=C3=B6chte ich =
+nur ungern
+> jemanden zumuten.
+>
+> Allerliebste Gr=C3=BC=C3=9Fe,
+>
+> Stefan
+>
+>
+> Am 06.05.2014 um 08:59 schrieb Florian Sebert:
+>
+> Guten Morgen Frau Hahn,
+>
+> ich bedauere sehr und es trifft mich zutiefst, dass Herr Wiehr und Sie so
+> ohne Weiteres auf meine Gesellschaft verzichten k=C3=B6nnen und mich
+> erbarmungslos meinem Schicksal einer nicht (nur) =C3=A4u=C3=9Ferlich weit
+> unattraktiveren Reisebegleitung =C3=BCberlassen wollen.
+>
+> Gleichwohl erkenne ich den sich aus dem Transport des Bariton-Saxophons
+> ergebenden Sachzwang zweier getrennter Fahrzeuge und Reisegruppen an und
+> akzeptiere mithin die ungeliebte Konsequenz einer hinsichtlich
+> zwischenmenschlicher verbaler Kommunikation herausfordernden Autofahrt.
+>
+> Nichtsdestotrotz stelle ich eine weitere elektronische Nachricht an einen
+> erweiterten Empf=C3=A4ngerkreis in Aussicht, mit dem Ziel, eine m=C3=B6gl=
+ichst
+> effiziente (auch zeitliche) Allokation der Reisenden auf die beiden
+> Fahrzeuge zu erreichen.
+>
+> Ich verbleibe mit herzlichsten Gr=C3=BC=C3=9Fen
+> Florian Sebert
+>
+>
+> 2014-05-05 23:15 GMT+02:00 Lena Hahn <lenahahn20@web.de>:
+>
+>> Guten Abend Herr Sebert,
+>>
+>> ich habe mich eben mit Stefan kurzgeschlossen und er meinte, es sei
+>> ausgeschlossen, dass wir zu viert mit Bari-Sax in ein Auto passen. Das
+>> bedeutet, er w=C3=BCrde mich mitnehmen und du k=C3=B6nntest dich dann mi=
+t Ingo-Bingo
+>> kurzschlie=C3=9Fen. Ich wei=C3=9F, dass die Krux an dieser Sache ist, da=
+ss du evtl.
+>> einen Mitfahrer hast, den du nicht verstehst, k=C3=B6nnte dir aber eine
+>> Telefonkonferenz anbieten, falls du dich doch richtig unterhalten willst=
+ ;-)
+>>
+>> Ich hoffe, das ist so ok f=C3=BCr dich!
+>>
+>> Bis Saaaamstag! :-)
+>>
+>>  *Gesendet:* Montag, 05. Mai 2014 um 15:17 Uhr
+>> *Von:* "Florian Sebert" <florian@floriansebert.de>
+>> *An:* "Lena Hahn" <lenahahn20@web.de>
+>> *Betreff:* Re: Samstag
+>>  So machst's. Vielleicht k=C3=B6nntet ihr ja mit dem Herrn Skupin (der h=
+at
+>> Interesse angemeldet) bis nach RT fahren und mich dort aufgabeln bzw. in
+>> mein Auto umsteigen und wir fahren zu viert? Dann versteht man halt 1/4
+>> aller im Auto gesprochenen Worte nicht ;-)
+>>
+>> Gru=C3=9F zur=C3=BCck
+>> Florian
+>>
+>>
+>> 2014-05-05 14:37 GMT+02:00 Lena Hahn <lenahahn20@web.de>:
+>>
+>>> Guckguck! W=C3=A4re ja schon gut, wenn nicht jeder da mit nem Auto hing=
+urkt.
+>>> Ich sprech heute Abend mal mit dem Herrn Wiehr und w=C3=BCrde mich dann=
+ nochmal
+>>> bei dir melden!
+>>>
+>>> Viele Gr=C3=BC=C3=9Fe :-)
+>>>
+>>>  *Gesendet:* Montag, 05. Mai 2014 um 08:35 Uhr
+>>> *Von:* "Florian Sebert" <florian@floriansebert.de>
+>>> *An:* "Florian Sebert" <florian@floriansebert.de>,
+>>> sabine@pfister-tuebingen.de, "Steffen Sautter" <steffen.sautter@web.de>=
+,
+>>> "Yannick Frey" <yannick.frey1994@web.de>, "Tizian Decker" <
+>>> tizian_decker@web.de>, "Lena Hahn" <LenaHahn20@web.de>, "
+>>> raphael@rothschink.de" <raphael@rothschink.de>, "Ingo Skupin" <
+>>> ingo.skupin@web.de>, "Lukas Fischer" <l.fischer@3-1415.de>, "Julia
+>>> Wollny" <wollny.julia@me.com>, "Dr. Stefan Wiehr" <stefan@wiehr.de>,
+>>> "Rainer Pfister" <rainer.pfister@me.com>, "s.pfister@dkfz.de" <
+>>> s.pfister@dkfz.de>, "Daniel Metzger" <jandan@gmx.de>, "Harry D. Bath" <
+>>> harryd.bath@t-online.de>
+>>> *Betreff:* Samstag
+>>>  Hallo zusammen,
+>>>
+>>> falls irgendjemand f=C3=BCr Samstag Interesse an einer Fahrgemeinschaft=
+ aus
+>>> der T=C3=9C/RT Region haben sollte, bitte melden.
+>>>
+>>> Dank und Gru=C3=9F
+>>> Florian
+>>>
+>>>
+>>
+>>
+>> --
+>> Dr. Florian Sebert
+>> d-fine GmbH
+>> Munich Office
+>> Bavariafilmplatz 8, 82031 Gr=C3=BCnwald
+>> Mobil +49 (0)162 2631334
+>> Tel    +49 (0)89 7908617 391
+>> Fax   +49 (0)89 7908617 202
+>> www.d-fine.de
+>>
+>>
+>
+>
+> --
+> Dr. Florian Sebert
+> d-fine GmbH
+> Munich Office
+> Bavariafilmplatz 8, 82031 Gr=C3=BCnwald
+> Mobil +49 (0)162 2631334
+> Tel    +49 (0)89 7908617 391
+> Fax   +49 (0)89 7908617 202
+> www.d-fine.de
+>
+>
+>
+
+
+--=20
+Dr. Florian Sebert
+d-fine GmbH
+Munich Office
+Bavariafilmplatz 8, 82031 Gr=C3=BCnwald
+Mobil +49 (0)162 2631334
+Tel    +49 (0)89 7908617 391
+Fax   +49 (0)89 7908617 202
+www.d-fine.de
+
+--001a11c32a961b3cb004f8c9ca41
+Content-Type: text/html; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+
+<div dir=3D"ltr">Hallo zusammen,<div><br></div><div>das klingt doch sinnvol=
+l, machen wir es so.</div><div><br></div><div>Ich schlage vor, wir treffen =
+uns gegen 8 Uhr am &quot;Aichtalbr=C3=BCckenrasthof&quot;.=C2=A0</div><div>=
+<br></div>
+<div>@Ingo: Meldest du dich bitte bei Stefan zwex Vereinbarung deines Zusti=
+egszeitpunkts?</div><div><br></div><div>Dank und Gru=C3=9F</div><div>Floria=
+n</div></div><div class=3D"gmail_extra"><br><br><div class=3D"gmail_quote">=
+2014-05-06 22:35 GMT+02:00 Stefan Wiehr <span dir=3D"ltr">&lt;<a href=3D"ma=
+ilto:stefan@wiehr.de" target=3D"_blank">stefan@wiehr.de</a>&gt;</span>:<br>
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex"><div style=3D"word-wrap:break-word">Hallo zu=
+sammen,<div><br></div><div>es tut mir wirklich unendlich Leid, dass ich auc=
+h noch die gro=C3=9Fe Bass-Tr=C3=B6te mitnehmen mu=C3=9F und diese auch noc=
+h die ganze R=C3=BCckbank in Beschlag nimmt. ABER ich k=C3=B6nnte Ingo-Bing=
+o irgendwo in T=C3=BC-Town aufsammeln und und wir uns dann wie vorgeschlage=
+n an dem &quot;Aichtalbr=C3=BCckenrasthof &quot; treffen und entweder Bingo=
+-Ingo oder Lena zu Florian ins &quot;richtige&quot; ;-) Auto wechseln. Die =
+ganze Fahrt hingegen mit Bass-Sax auf dem Scho=C3=9F m=C3=B6chte ich nur un=
+gern jemanden zumuten.</div>
+<div><br></div><div>Allerliebste Gr=C3=BC=C3=9Fe,</div><div><br></div><div>=
+Stefan</div><div><br></div><div><br><div><div>Am 06.05.2014 um 08:59 schrie=
+b Florian Sebert:</div><div><div class=3D"h5"><br><blockquote type=3D"cite"=
+><div dir=3D"ltr">
+Guten Morgen Frau Hahn,<div><br></div><div>ich bedauere sehr und es trifft =
+mich zutiefst, dass Herr Wiehr und Sie so ohne Weiteres auf meine Gesellsch=
+aft verzichten k=C3=B6nnen und mich erbarmungslos meinem Schicksal einer ni=
+cht (nur) =C3=A4u=C3=9Ferlich weit unattraktiveren Reisebegleitung =C3=BCbe=
+rlassen wollen.</div>
+
+<div><br></div><div>Gleichwohl erkenne ich den sich aus dem Transport des B=
+ariton-Saxophons ergebenden Sachzwang zweier getrennter Fahrzeuge und Reise=
+gruppen an und akzeptiere mithin die ungeliebte Konsequenz einer hinsichtli=
+ch zwischenmenschlicher verbaler Kommunikation herausfordernden Autofahrt.<=
+/div>
+
+<div><br></div><div>Nichtsdestotrotz stelle ich eine weitere elektronische =
+Nachricht an einen erweiterten Empf=C3=A4ngerkreis in Aussicht, mit dem Zie=
+l, eine m=C3=B6glichst effiziente (auch zeitliche) Allokation der Reisenden=
+ auf die beiden Fahrzeuge zu erreichen.</div>
+
+<div><br></div><div>Ich verbleibe mit herzlichsten Gr=C3=BC=C3=9Fen</div><d=
+iv>Florian Sebert</div></div><div class=3D"gmail_extra"><br><br><div class=
+=3D"gmail_quote">2014-05-05 23:15 GMT+02:00 Lena Hahn <span dir=3D"ltr">&lt=
+;<a href=3D"mailto:lenahahn20@web.de" target=3D"_blank">lenahahn20@web.de</=
+a>&gt;</span>:<br>
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 .8ex;border-left:1p=
+x #ccc solid;padding-left:1ex">Guten Abend Herr Sebert,<br>
+<br>
+ich habe mich eben mit Stefan kurzgeschlossen und er meinte, es sei ausgesc=
+hlossen, dass wir zu viert mit Bari-Sax in ein Auto passen. Das bedeutet, e=
+r w=C3=BCrde mich mitnehmen und du k=C3=B6nntest dich dann mit Ingo-Bingo k=
+urzschlie=C3=9Fen. Ich wei=C3=9F, dass die Krux an dieser Sache ist, dass d=
+u evtl. einen Mitfahrer hast, den du nicht verstehst, k=C3=B6nnte dir aber =
+eine Telefonkonferenz anbieten, falls du dich doch richtig unterhalten will=
+st ;-)<br>
+
+
+<br>
+Ich hoffe, das ist so ok f=C3=BCr dich!<br>
+<br>
+Bis Saaaamstag! :-)<br>
+<br>
+<div name=3D"quote" style=3D"margin:10px 5px 5px 10px;padding:10px 0 10px 1=
+0px;border-left:2px solid #c3d9e5;word-wrap:break-word">
+    <div style=3D"margin:0 0 10px 0">
+        <b>Gesendet:</b>=C2=A0Montag, 05. Mai 2014 um 15:17 Uhr<br>
+        <b>Von:</b>=C2=A0&quot;Florian Sebert&quot; &lt;<a href=3D"mailto:f=
+lorian@floriansebert.de" target=3D"_blank">florian@floriansebert.de</a>&gt;=
+<br>
+        <b>An:</b>=C2=A0&quot;Lena Hahn&quot; &lt;<a href=3D"mailto:lenahah=
+n20@web.de" target=3D"_blank">lenahahn20@web.de</a>&gt;<br>
+       =20
+        <b>Betreff:</b>=C2=A0Re: Samstag
+    </div><div><div>
+    <div name=3D"quoted-content">
+        <div>So machst&#39;s. Vielleicht k=C3=B6nntet ihr ja mit dem Herrn =
+Skupin (der hat Interesse angemeldet) bis nach RT fahren und mich dort aufg=
+abeln bzw. in mein Auto umsteigen und wir fahren zu viert? Dann versteht ma=
+n halt 1/4 aller im Auto gesprochenen Worte nicht ;-)<div>
+
+
+<br></div><div>Gru=C3=9F zur=C3=BCck</div><div>Florian</div></div><div clas=
+s=3D"gmail_extra"><br><br><div class=3D"gmail_quote">2014-05-05 14:37 GMT+0=
+2:00 Lena Hahn <span>&lt;<a href=3D"http://lenahahn20@web.de/" target=3D"_b=
+lank">lenahahn20@web.de</a>&gt;</span>:<br>
+
+
+<blockquote class=3D"gmail_quote" style=3D"margin:0 0 0 0.8ex;border-left:1=
+.0px rgb(204,204,204) solid;padding-left:1.0ex">Guckguck! W=C3=A4re ja scho=
+n gut, wenn nicht jeder da mit nem Auto hingurkt. Ich sprech heute Abend ma=
+l mit dem Herrn Wiehr und w=C3=BCrde mich dann nochmal bei dir melden!<br>
+
+
+
+<br>
+Viele Gr=C3=BC=C3=9Fe :-)<br>
+<br>
+<div style=3D"margin:10.0px 5.0px 5.0px 10.0px;padding:10.0px 0 10.0px 10.0=
+px;border-left:2.0px solid rgb(195,217,229)">
+    <div style=3D"margin:0 0 10.0px 0">
+        <b>Gesendet:</b>=C2=A0Montag, 05. Mai 2014 um 08:35 Uhr<br>
+        <b>Von:</b>=C2=A0&quot;Florian Sebert&quot; &lt;<a href=3D"http://f=
+lorian@floriansebert.de/" target=3D"_blank">florian@floriansebert.de</a>&gt=
+;<br>
+        <b>An:</b>=C2=A0&quot;Florian Sebert&quot; &lt;<a href=3D"http://fl=
+orian@floriansebert.de/" target=3D"_blank">florian@floriansebert.de</a>&gt;=
+, <a href=3D"http://sabine@pfister-tuebingen.de/" target=3D"_blank">sabine@=
+pfister-tuebingen.de</a>, &quot;Steffen Sautter&quot; &lt;<a href=3D"http:/=
+/steffen.sautter@web.de/" target=3D"_blank">steffen.sautter@web.de</a>&gt;,=
+ &quot;Yannick Frey&quot; &lt;<a href=3D"http://yannick.frey1994@web.de/" t=
+arget=3D"_blank">yannick.frey1994@web.de</a>&gt;, &quot;Tizian Decker&quot;=
+ &lt;<a href=3D"http://tizian_decker@web.de/" target=3D"_blank">tizian_deck=
+er@web.de</a>&gt;, &quot;Lena Hahn&quot; &lt;<a href=3D"http://LenaHahn20@w=
+eb.de/" target=3D"_blank">LenaHahn20@web.de</a>&gt;, &quot;<a href=3D"http:=
+//raphael@rothschink.de/" target=3D"_blank">raphael@rothschink.de</a>&quot;=
+ &lt;<a href=3D"http://raphael@rothschink.de/" target=3D"_blank">raphael@ro=
+thschink.de</a>&gt;, &quot;Ingo Skupin&quot; &lt;<a href=3D"http://ingo.sku=
+pin@web.de/" target=3D"_blank">ingo.skupin@web.de</a>&gt;, &quot;Lukas Fisc=
+her&quot; &lt;<a href=3D"http://l.fischer@3-1415.de/" target=3D"_blank">l.f=
+ischer@3-1415.de</a>&gt;, &quot;Julia Wollny&quot; &lt;<a href=3D"http://wo=
+llny.julia@me.com/" target=3D"_blank">wollny.julia@me.com</a>&gt;, &quot;Dr=
+. Stefan Wiehr&quot; &lt;<a href=3D"http://stefan@wiehr.de/" target=3D"_bla=
+nk">stefan@wiehr.de</a>&gt;, &quot;Rainer Pfister&quot; &lt;<a href=3D"http=
+://rainer.pfister@me.com/" target=3D"_blank">rainer.pfister@me.com</a>&gt;,=
+ &quot;<a href=3D"http://s.pfister@dkfz.de/" target=3D"_blank">s.pfister@dk=
+fz.de</a>&quot; &lt;<a href=3D"http://s.pfister@dkfz.de/" target=3D"_blank"=
+>s.pfister@dkfz.de</a>&gt;, &quot;Daniel Metzger&quot; &lt;<a href=3D"http:=
+//jandan@gmx.de/" target=3D"_blank">jandan@gmx.de</a>&gt;, &quot;Harry D. B=
+ath&quot; &lt;<a href=3D"http://harryd.bath@t-online.de/" target=3D"_blank"=
+>harryd.bath@t-online.de</a>&gt;<br>
+
+
+
+       =20
+        <b>Betreff:</b>=C2=A0Samstag
+    </div><div><div>
+    <div>
+        <div>Hallo zusammen,<div><br></div><div>falls irgendjemand f=C3=BCr=
+ Samstag Interesse an einer Fahrgemeinschaft aus der T=C3=9C/RT Region habe=
+n sollte, bitte melden.</div><div><br></div><div>Dank und Gru=C3=9F</div><d=
+iv>Florian</div>
+
+
+
+</div>
+
+    </div>
+</div></div></div>
+<br>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>Dr. Florian =
+Sebert<br>d-fine GmbH<br>Munich Office<br>Bavariafilmplatz 8, 82031 Gr=C3=
+=BCnwald<br>Mobil <a href=3D"tel:%2B49%20%280%29162%202631334" value=3D"+49=
+1622631334" target=3D"_blank">+49 (0)162 2631334</a><br>
+
+Tel =C2=A0 =C2=A0<a href=3D"tel:%2B49%20%280%2989%207908617%20391" value=3D=
+"+49897908617391" target=3D"_blank">+49 (0)89 7908617 391</a><br>Fax =C2=A0=
+ <a href=3D"tel:%2B49%20%280%2989%207908617%20202" value=3D"+49897908617202=
+" target=3D"_blank">+49 (0)89 7908617 202</a><br>
+
+
+<a href=3D"http://www.d-fine.de/" target=3D"_blank">www.d-fine.de</a>
+</div>
+
+    </div>
+</div></div></div>
+<br>
+</blockquote></div><br><br clear=3D"all"><div><br></div>-- <br>Dr. Florian =
+Sebert<br>d-fine GmbH<br>Munich Office<br>Bavariafilmplatz 8, 82031 Gr=C3=
+=BCnwald<br>Mobil <a href=3D"tel:%2B49%20%280%29162%202631334" value=3D"+49=
+1622631334" target=3D"_blank">+49 (0)162 2631334</a><br>
+Tel =C2=A0 =C2=A0<a href=3D"tel:%2B49%20%280%2989%207908617%20391" value=3D=
+"+49897908617391" target=3D"_blank">+49 (0)89 7908617 391</a><br>Fax =C2=A0=
+ <a href=3D"tel:%2B49%20%280%2989%207908617%20202" value=3D"+49897908617202=
+" target=3D"_blank">+49 (0)89 7908617 202</a><br>
+
+<a href=3D"http://www.d-fine.de/" target=3D"_blank">www.d-fine.de</a>
+</div>
+</blockquote></div></div></div><br></div></div></blockquote></div><br><br c=
+lear=3D"all"><div><br></div>-- <br>Dr. Florian Sebert<br>d-fine GmbH<br>Mun=
+ich Office<br>Bavariafilmplatz 8, 82031 Gr=C3=BCnwald<br>Mobil +49 (0)162 2=
+631334<br>
+Tel =C2=A0 =C2=A0+49 (0)89 7908617 391<br>Fax =C2=A0 +49 (0)89 7908617 202<=
+br><a href=3D"http://www.d-fine.de" target=3D"_blank">www.d-fine.de</a>
+</div>
+
+--001a11c32a961b3cb004f8c9ca41--

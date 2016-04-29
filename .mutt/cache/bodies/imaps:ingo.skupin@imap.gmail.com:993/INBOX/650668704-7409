@@ -1,0 +1,66 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.135.129 with SMTP id ps1csp272615pdb;
+        Wed, 16 Apr 2014 03:22:29 -0700 (PDT)
+X-Received: by 10.194.5.5 with SMTP id o5mr6247339wjo.16.1397643748995;
+        Wed, 16 Apr 2014 03:22:28 -0700 (PDT)
+Return-Path: <silkeczarn@yahoo.de>
+Received: from nm25-vm2.bullet.mail.ir2.yahoo.com (nm25-vm2.bullet.mail.ir2.yahoo.com. [212.82.97.35])
+        by mx.google.com with ESMTPS id lz10si7276694wjb.75.2014.04.16.03.22.28
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Wed, 16 Apr 2014 03:22:28 -0700 (PDT)
+Received-SPF: neutral (google.com: 212.82.97.35 is neither permitted nor denied by best guess record for domain of silkeczarn@yahoo.de) client-ip=212.82.97.35;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 212.82.97.35 is neither permitted nor denied by best guess record for domain of silkeczarn@yahoo.de) smtp.mail=silkeczarn@yahoo.de;
+       dkim=pass header.i=@yahoo.de;
+       dmarc=pass (p=NONE dis=NONE) header.from=yahoo.de
+Received: from [212.82.98.49] by nm25.bullet.mail.ir2.yahoo.com with NNFMP; 16 Apr 2014 10:22:28 -0000
+Received: from [46.228.39.67] by tm2.bullet.mail.ir2.yahoo.com with NNFMP; 16 Apr 2014 10:22:28 -0000
+Received: from [127.0.0.1] by smtp104.mail.ir2.yahoo.com with NNFMP; 16 Apr 2014 10:22:28 -0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=yahoo.de; s=s1024; t=1397643748; bh=sUoVJjCUf14sNRR/IwN0/GRiQOMHHOYaC2/qrqzsYBE=; h=X-Yahoo-Newman-Id:X-Yahoo-Newman-Property:X-YMail-OSG:X-Yahoo-SMTP:X-Rocket-Received:Message-ID:Date:From:User-Agent:MIME-Version:To:Subject:References:In-Reply-To:Content-Type:Content-Transfer-Encoding; b=Hax1Lic5YTuE96p+LNoJ6ryJewgGUu5xl1cX25A8trzq3wg0fED1z/DBJ2qqdxNBgzHx1fbd8tEk6emW6MFJvhHcexBQMYqNpOCB/jgWWHckHZqrO9IRCT43H6JJKTFjAbCoaVn6+l2CZzBE6miSbC9Hj+TUR7+fpGIwdOtsvng=
+X-Yahoo-Newman-Id: 185178.20723.bm@smtp104.mail.ir2.yahoo.com
+X-Yahoo-Newman-Property: ymail-3
+X-YMail-OSG: qMTjowcVM1lO88x2bErqZ0.IW9XgnENrT7oo3gNd5ZavYOi
+ 00j_4WL6Z.vP5OBss5yAs8h02QYotUyfOz9a9Wo1g0e0skWzgBzzkFdkFAD3
+ S1lg25Kh8tWMyTKbhtBfe4EjMsVZdguiidJWHggkb3bNLqXEnhjgfY87BiPG
+ WIWPrEusCoNN8VIF4K.iy7HvwTFup7rWJJJgg9.Bsx.2qJ0sIR9Ie1WtMoUH
+ rbfSim1QGGJaNQ1hPtsup02Q6FHGt5febIJY4xoJkgvB62OrChqQtG2HAnu6
+ t8ioRst43Bz82_Z5FpaMw9ujwEcryhCKfhOLCu1Cpktw8.VoqGisMjjG6cHg
+ qzNtQb46qFvoFyNm3mFFcZW0xTQD0w.ePqONmlXcI4IwoMwIdgrVNFPwK7YA
+ SgjxRFDumfUK0JbZ8Doa_W7NjSSfi5S3jPWnvN5Epsdo0IEZNIwA2Uk_DXfV
+ CZmRsvbSIr4iwiWi1XHRoItOgvM8mszytgNlTh7ZK5OI3Z98T4YnQzrZpmW3
+ cqpR80OYplP1KL1w4.31dFIUAPg--
+X-Yahoo-SMTP: DpzBWgGswBBCrqc17gq8BnpqtJD1tMY-
+X-Rocket-Received: from [127.0.0.1] (silkeczarn@77.2.218.95 with plain [188.125.69.59])
+        by smtp104.mail.ir2.yahoo.com with SMTP; 16 Apr 2014 10:22:28 +0000 UTC
+Message-ID: <534E59DD.6060204@yahoo.de>
+Date: Wed, 16 Apr 2014 12:22:21 +0200
+From: Silke Czarnetzki <silkeczarn@yahoo.de>
+User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:24.0) Gecko/20100101 Thunderbird/24.4.0
+MIME-Version: 1.0
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Subject: Re: Functional Programming
+References: <534E02CB.40202@gmail.com>
+In-Reply-To: <534E02CB.40202@gmail.com>
+Content-Type: text/plain; charset=ISO-8859-1; format=flowed
+Content-Transfer-Encoding: 8bit
+
+Toll Ingo, was soll ich jetzt noch machen? :D
+Spaß - ich kanns noch ein bisschen "refactorn". :P Ist ja noch bis 
+Dienstag Zeit. Ich schicks dir vorher nochmal - es sei denn, du willst's 
+selber noch hübsch machen. Thorsten vonner Fachschaft korrigiert 
+übrigens. Den kann ich mit Keksen bestechen, vielleicht...
+
+Grüße,
+Silke
+
+Am 16.04.2014 06:10, schrieb Ingo Skupin:
+> Hi,
+>
+> ich hab doch schon Zeit gefunden, mir das Übungsblatt mal anzuschauen 
+> und weils leicht war, hab ichs auch gleich teilweise gemacht, so 
+> siehts bisher aus (in rohester Textform...)
+>
+> Gruß,
+> Ingo
+

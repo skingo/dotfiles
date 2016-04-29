@@ -1,0 +1,86 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.134.225 with SMTP id pn1csp295078pdb;
+        Wed, 13 Aug 2014 04:36:24 -0700 (PDT)
+X-Received: by 10.112.235.199 with SMTP id uo7mr3932696lbc.50.1407929783882;
+        Wed, 13 Aug 2014 04:36:23 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTPS id j2si2454588lam.97.2014.08.13.04.36.23
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 13 Aug 2014 04:36:23 -0700 (PDT)
+Received-SPF: pass (google.com: domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.104] ([213.165.67.104]) by mx-ha.web.de (mxweb004)
+ with ESMTP (Nemesis) id 0MAg3v-1X5jPJ23HH-00Bt9P for <ingo.skupin@gmail.com>;
+ Wed, 13 Aug 2014 13:36:22 +0200
+Received: from mailhost4.inet.dkfz-heidelberg.de ([193.174.53.139]) by
+ mx-ha.web.de (mxweb004) with ESMTP (Nemesis) id 0MXanm-1Ww3qC2366-00WYGk for
+ <ingo.skupin@web.de>; Wed, 13 Aug 2014 13:36:22 +0200
+Received: from dkfzmh01.ad.dkfz-heidelberg.de (dkfzmh01.inet.dkfz-heidelberg.de [193.174.53.80])
+	by mailhost2.inet.dkfz-heidelberg.de (8.13.8/8.13.8) with ESMTP id s7DBa5gC022209
+	(version=TLSv1/SSLv3 cipher=RC4-MD5 bits=128 verify=FAIL);
+	Wed, 13 Aug 2014 13:36:06 +0200
+Received: from dkfzmh03.ad.dkfz-heidelberg.de (193.174.53.54) by dkfzmh01
+ (193.174.53.80) with Microsoft SMTP Server (TLS) id 8.3.327.1; Wed, 13 Aug
+ 2014 13:36:05 +0200
+Received: from DKFZEX01.ad.dkfz-heidelberg.de ([193.174.53.79]) by
+ dkfzmh03.ad.dkfz-heidelberg.de ([193.174.53.54]) with mapi; Wed, 13 Aug 2014
+ 13:36:05 +0200
+From: "Pfister, Stefan" <S.Pfister@dkfz-heidelberg.de>
+CC: Sabine Pfister <pfistersabine@googlemail.com>,
+        Steffen Sautter
+	<steffen.sautter@web.de>,
+        Yannick Frey <yannick.frey1994@web.de>,
+        Tizian
+ Decker <tizian_decker@web.de>, Lena Hahn <LenaHahn20@web.de>,
+        Florian Sebert
+	<florian@floriansebert.de>,
+        "raphael@rothschink.de" <raphael@rothschink.de>,
+        Ingo Skupin <ingo.skupin@web.de>, Lukas Fischer <l.fischer@3-1415.de>,
+        Julia
+ Wollny <wollny.julia@me.com>,
+        Rainer Pfister <rainer.pfister@me.com>,
+        "Dr.
+ Stefan Wiehr" <stefan@wiehr.de>, Daniel Metzger <jandan@gmx.de>,
+        "tkonwitschny@yahoo.de" <tkonwitschny@yahoo.de>,
+        "harryd.bath@t-online.de"
+	<harryd.bath@t-online.de>,
+        "mpfister@geuder.de" <mpfister@geuder.de>,
+        "martina@pfister-heidelberg.de" <martina@pfister-heidelberg.de>,
+        "jonas.gawehn@gmx.de" <jonas.gawehn@gmx.de>
+Date: Wed, 13 Aug 2014 13:35:48 +0200
+Subject: Miami im November?
+Thread-Topic: Miami im November?
+Thread-Index: Ac+26sR+fBGYl83tTImJjMKlk6O/fA==
+Message-ID: <0C123F09-61C6-45E2-8006-2E9523438D7D@dkfz.de>
+References: <359C8784E284224CAB196A0069F3EE79FFB29B0249@DKFZEX01.ad.dkfz-heidelberg.de>
+ <4F91222C659D5B4E8C89CE4D710BB08EFFD98A0E80@DKFZEX01.ad.dkfz-heidelberg.de>
+ <4F91222C659D5B4E8C89CE4D710BB08EFFD98A0F1C@DKFZEX01.ad.dkfz-heidelberg.de>
+ <4F91222C659D5B4E8C89CE4D710BB08EFFD98A1090@DKFZEX01.ad.dkfz-heidelberg.de>
+In-Reply-To: <4F91222C659D5B4E8C89CE4D710BB08EFFD98A1090@DKFZEX01.ad.dkfz-heidelberg.de>
+Accept-Language: de-DE
+Content-Language: en-US
+X-MS-Has-Attach: 
+X-MS-TNEF-Correlator: 
+acceptlanguage: de-DE
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+X-UI-Out-Filterresults: notjunk:1;
+
+SGFsbG8genVzYW1tZW4sDQoNCldpZSBpbiBkZXIgbGV0enRlbiBQcm9iZSBiZXJlaXRzIGt1cnog
+YW5nZXNwcm9jaGVuLCBzY2hlaW50IHNpY2ggZGllIEVpbmxhZHVuZyBuYWNoIE1pYW1pIHZvbSAx
+My4tMTguLzE5LjExLiAgMjAxNCB0YXRzw6RjaGxpY2ggenUga29ua3JldGlzaWVyZW4uIEFsbGUg
+w5xiZXJuYWNodHVuZ2VuIHVuZCAoZmFzdD8pIGRpZSBrb21wbGV0dGVuIEZsdWdrb3N0ZW4gd8O8
+cmRlbiDDvGJlcm5vbW1lbi4gV2lyIG3DvHNzdGVuIGxlZGlnbGljaCBkaWUgbWVpc3RlbiBNYWhs
+emVpdGVuIHNlbGJzdCBiZXphaGxlbiB1bmQgZ2dmLiAxMDAtMjAwIOKCrCBwcm8gUGVyc29uLCBm
+YWxscyBkYXMgQnVkZ2V0IGbDvHIgZGllIEZsw7xnZSBuaWNodCBnYW56IGF1c3JlaWNodCAoZGVy
+emVpdCBzdGVoZW4gZGFmw7xyIDEyLjAwMCQgenVyIFZlcmbDvGd1bmcpLiAyLTMgQXVmdHJpdHRl
+IGluIGRpZXNlciBaZWl0Lg0KDQpXZXIgaXN0IGRhYmVpPyBXZW5uIG3DtmdsaWNoIGJpdHRlIFLD
+vGNrbWVsZHVuZyBiaXMgRnJlaXRhZywgZGVuIDE1LjA4LiENCg0KRGFua2UgdW5kIHZpZWxlIEdy
+w7xzc2UsDQoNClN0ZWZhbg0KDQpQcm9mLiBEci4gU3RlZmFuIE0uIFBmaXN0ZXINCkRpdmlzaW9u
+IG9mIFBlZGlhdHJpYyBOZXVyb29uY29sb2d5DQpHZXJtYW4gQ2FuY2VyIFJlc2VhcmNoIENlbnRl
+ciAoREtGWikNCkRlcGFydG1lbnQgb2YgUGVkaWF0cmljIEhlbWF0b2xvZ3kgYW5kIE9uY29sb2d5
+IEhlaWRlbGJlcmcgVW5pdmVyc2l0eSBIb3NwaXRhbA0KDQo=

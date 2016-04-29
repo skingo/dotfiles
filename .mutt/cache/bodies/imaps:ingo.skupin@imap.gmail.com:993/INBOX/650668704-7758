@@ -1,0 +1,45 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.66.39 with SMTP id c7csp38169pdt;
+        Thu, 10 Jul 2014 07:52:35 -0700 (PDT)
+X-Received: by 10.194.191.131 with SMTP id gy3mr21247370wjc.108.1405003954812;
+        Thu, 10 Jul 2014 07:52:34 -0700 (PDT)
+Return-Path: <tobias.gruber@posteo.de>
+Received: from posteo.de (mx02.posteo.de. [89.146.194.165])
+        by mx.google.com with ESMTPS id pu5si16976548wjc.161.2014.07.10.07.52.34
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Thu, 10 Jul 2014 07:52:34 -0700 (PDT)
+Received-SPF: none (google.com: tobias.gruber@posteo.de does not designate permitted sender hosts) client-ip=89.146.194.165;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: tobias.gruber@posteo.de does not designate permitted sender hosts) smtp.mail=tobias.gruber@posteo.de
+Received: from localhost (localhost.localdomain [127.0.0.1])
+	by mail.posteo.de (Postfix) with ESMTP id DD1F8258D25C
+	for <ingo.skupin@googlemail.com>; Thu, 10 Jul 2014 16:52:33 +0200 (CEST)
+X-Virus-Scanned: amavisd-new at posteo.de
+Received: from posteo.de ([10.125.125.178])
+	by localhost (amavis1.posteo.de [10.125.125.165]) (amavisd-new, port 10026)
+	with ESMTP id 0Ru9eoB9_Rko for <ingo.skupin@googlemail.com>;
+	Thu, 10 Jul 2014 16:52:31 +0200 (CEST)
+Received: from mail.posteo.de (localhost [127.0.0.1])
+	by mail.posteo.de (Postfix) with ESMTPSA id C13A32C011F
+	for <ingo.skupin@googlemail.com>; Thu, 10 Jul 2014 16:52:31 +0200 (CEST)
+Message-ID: <53BEA8AF.9090907@posteo.de>
+Date: Thu, 10 Jul 2014 16:52:31 +0200
+From: Tobias Gruber <tobias.gruber@posteo.de>
+User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:24.0) Gecko/20100101 Thunderbird/24.6.0
+MIME-Version: 1.0
+To: Ingo Skupin <ingo.skupin@googlemail.com>
+Subject: Handynummer
+X-Enigmail-Version: 1.5.2
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+
+Hey Ingo,
+
+könntest du mir bitte deine Handynummer geben, falls ich dich wegen
+Sonntag kurzfristig erreichen muss. Danke!
+
+Meine Handynummer lautet: 01577 9081753
+
+Viele Grüße,
+Tobi

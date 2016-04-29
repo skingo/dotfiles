@@ -1,0 +1,55 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.92.135 with SMTP id cm7csp36781pdb;
+        Thu, 23 May 2013 08:02:21 -0700 (PDT)
+X-Received: by 10.180.187.234 with SMTP id fv10mr25698712wic.29.1369321340754;
+        Thu, 23 May 2013 08:02:20 -0700 (PDT)
+Return-Path: <201305231502192538d3f92f0b49478c32d995eebfcd6a@bounces.amazon.de>
+Received: from retail-smtp-out-22001.amazon.com (retail-smtp-out-22001.amazon.com. [212.123.28.40])
+        by mx.google.com with ESMTP id d19si14633185wiw.58.2013.05.23.08.02.19
+        for <ingo.skupin@gmail.com>;
+        Thu, 23 May 2013 08:02:20 -0700 (PDT)
+Received-SPF: pass (google.com: domain of 201305231502192538d3f92f0b49478c32d995eebfcd6a@bounces.amazon.de designates 212.123.28.40 as permitted sender) client-ip=212.123.28.40;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 201305231502192538d3f92f0b49478c32d995eebfcd6a@bounces.amazon.de designates 212.123.28.40 as permitted sender) smtp.mail=201305231502192538d3f92f0b49478c32d995eebfcd6a@bounces.amazon.de;
+       dkim=pass header.i=bestellung-aktuell@amazon.de;
+       dmarc=pass (p=NONE dis=none) d=amazon.de
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=amazon.de; i=bestellung-aktuell@amazon.de; q=dns/txt;
+  s=amazon201209; t=1369321340; x=1400857340;
+  h=date:from:reply-to:to:message-id:subject:mime-version:
+   content-transfer-encoding;
+  bh=wrlr/WftNWsQyUFUhameC40Ag6WIKAvC3Tf2QkKOBlk=;
+  b=VzQAMYdu0RQk3xqXlv/1zkQNHOy/j5aVW+YNKvPIwL1ky7eqbTrgsAaN
+   XOkqU04gpw0IwCP3RhtTSwjlqa2droYewga3kAJVe2rasVI2Niuxcn6Ml
+   diMqgRZX9L5lUrZ937XZdo02XMjmuaoOGB6s2wfPyl6TyTphnqbAiCnZ8
+   0=;
+Date: Thu, 23 May 2013 15:02:19 +0000
+From: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+Reply-To: "bestellung-aktuell@amazon.de" <bestellung-aktuell@amazon.de>
+To: "ingo.skupin@googlemail.com" <ingo.skupin@googlemail.com>
+Message-ID: <urn.correios.msg.201305231502192538d3f92f0b49478c32d995eebfcd6a@1369321339515.rte-svc-eu-1c-i-10f0675b.eu-west-1.amazon.com>
+Subject: Amazon.de -- Bestellungsaenderung (028-8560743-2073130)
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: quoted-printable
+Bounces-to: 201305231502192538d3f92f0b49478c32d995eebfcd6a@bounces.amazon.de
+X-AMAZON-MAIL-RELAY-TYPE: notification
+X-AMAZON-RTE-VERSION: 2.0
+X-Original-MessageID: <urn.correios.msg.201305231502192538d3f92f0b49478c32d995eebfcd6a@1369321339515.rte-svc-eu-1c-i-10f0675b.eu-west-1.amazon.com>
+
+Hallo Ingo Skupin,
+
+Sie haben die Versandart f=C3=BCr Ihre Bestellung 028-8560743-2073130 bei E=
+asynotebooks erfolgreich ge=C3=A4ndert:
+
+Standardversand
+
+Sobald Ihre Bestellung verschickt wurde, senden wir Ihnen eine Best=C3=A4ti=
+gung per E-Mail.
+
+Vielen Dank f=C3=BCr Ihren Besuch bei Amazon.de!
+
+---------------------------------------------------------------------
+Amazon.de
+http://www.amazon.de
+---------------------------------------------------------------------

@@ -1,0 +1,70 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.54.134 with SMTP id q6csp246330vcg;
+        Sat, 7 Jul 2012 09:35:33 -0700 (PDT)
+Received: by 10.216.166.197 with SMTP id g47mr11506106wel.179.1341678932477;
+        Sat, 07 Jul 2012 09:35:32 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.3])
+        by mx.google.com with ESMTP id ct8si14298097wib.46.2012.07.07.09.35.31;
+        Sat, 07 Jul 2012 09:35:32 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) client-ip=212.227.15.3;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.3 as permitted sender) smtp.mail=ingo.skupin@web.de; dkim=pass header.i=@gmail.com
+Received: from mail-vb0-f52.google.com ([209.85.212.52]) by mx-ha.web.de
+ (mxweb103) with ESMTP (Nemesis) id 0MDAum-1SZEdy1uI8-00GX8k for
+ <ingo.skupin@gmail.com>; Sat, 07 Jul 2012 18:35:31 +0200
+Received: by vbzb23 with SMTP id b23so7211119vbz.11
+        for <multiple recipients>; Sat, 07 Jul 2012 09:35:29 -0700 (PDT)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=mime-version:sender:in-reply-to:references:date
+         :x-google-sender-auth:message-id:subject:from:to:content-type
+         :content-transfer-encoding;
+        bh=PEBNHkwemHHtTaLwbp3OJ37nrlA/BYRczpt2vu1cFS4=;
+        b=lix4Qqmq0jSTmWGU8MELgsdAg+MitotM9gtd+dVRXW3d1VRHOTQIIZPDc2GmyeDxnn
+         Ba8R9BV/XeoDZpK9PDf1O+C6LhSy22qvE5j1P6f+CrBgwWi2yJH/PHpofBldcw19MIt6
+         rPwTI9y4+FSLkf8eJ0wOFcNVXgrvCyihwOgUWH2YKoeRk/a7NsDUO2BcJTecjl/E4zEy
+         BSdsKJyMRjotyfGIeiCghgnE5gGHoHSMi/tnsUNIz4BjViC+xHpPMLEFLArvWP92Yas6
+         NjdPJw5dTJB2PK7PZERE7iJaiJklQMAfyJcppuAiv0JGDw6oD39f+7GS290L7hNEPOBd
+         54NA==
+MIME-Version: 1.0
+Received: by 10.52.173.39 with SMTP id bh7mr13351723vdc.101.1341678929643;
+ Sat, 07 Jul 2012 09:35:29 -0700 (PDT)
+Sender: fmsebert@gmail.com
+Received: by 10.220.101.69 with HTTP; Sat, 7 Jul 2012 09:35:29 -0700 (PDT)
+In-Reply-To: <8ED615EC-D461-4D12-A302-D2C242CB57DF@pfister-heidelberg.de>
+References: <8ED615EC-D461-4D12-A302-D2C242CB57DF@pfister-heidelberg.de>
+Date: Sat, 7 Jul 2012 18:35:29 +0200
+X-Google-Sender-Auth: RB9LPCM5wKmgdM02eVfnt1qpViY
+Message-ID: <CAN1A5uDxg765LSnrCUxF4nk7a+uyK7q93os-OZLP2uytcd3vog@mail.gmail.com>
+Subject: =?ISO-8859-1?Q?Re=3A_So_meine_Lieben=2C_ab_jetzt_nur_noch_Antworten_auf?=
+	=?ISO-8859-1?Q?_mpfister=40geuder=2Ede=2C_fahr_den_Rechner_hier_jetzt_runter=2E_Dan?=
+	=?ISO-8859-1?Q?ke_und_liebe_Gr=FC=DFe_und_bis_morgen_=28zumindest_teilweise=29?=
+From: Florian Sebert <florian@floriansebert.de>
+To: Martina Pfister <martina@pfister-heidelberg.de>, 
+	Sabine Pfister <pfistersabine@googlemail.com>, Valerie Bartel <valerie.bartel@gmx.de>, 
+	Anna-Nora zur Nieden <norazurnieden@googlemail.com>, Bedrin Noah <kingsaxello@googlemail.com>, 
+	Steffen Sautter <steffen.sautter@web.de>, Yannick Frey <yannick.frey1994@web.de>, 
+	Tizian Decker <tizian_decker@web.de>, christine-erchinger@web.de, 
+	Ingo Skupin <ingo.skupin@web.de>, Lukas Fischer <lukasfischer1@aol.com>, 
+	"Dr. Stefan Wiehr" <stefan@wiehr.de>, 
+	Rainer Pfister <rainerpfister@blackforestentertainment.org>, 
+	Stefan Pfister <s.pfister@dkfz-heidelberg.de>, =?ISO-8859-1?Q?Stefan_He=DF?= <drumsteve@web.de>, 
+	Albert Braeuning <albert.braeuning@gmx.de>, Daniel Metzger <jandan@gmx.de>, 
+	"Harry D. Bath" <harryd.bath@t-online.de>, Gerhard Nagel <grnagel@web.de>, 
+	"kinderaerztin_susanne@t-online.de Pfister" <kinderaerztin_susanne@t-online.de>
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: quoted-printable
+
+Hallo zusammen,
+
+bitte einmal alle auf
+
+https://www.facebook.com/TuebingerSaxophonEnsemble
+
+gehen und Like dr=FCcken.
+
+Dann Freunden davon erz=E4hlen, sie zum liken zwingen und n=F6tigenfalls
+kontrollieren :-)
+
+Gr=FC=DFle
+Florian

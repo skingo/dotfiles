@@ -1,0 +1,37 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.103.72 with SMTP id fu8csp284741pdb;
+        Wed, 6 Nov 2013 10:55:17 -0800 (PST)
+X-Received: by 10.49.94.226 with SMTP id df2mr6732077qeb.76.1383764116159;
+        Wed, 06 Nov 2013 10:55:16 -0800 (PST)
+Return-Path: <000001422ec4bec8-a721f76d-b171-4d6e-b5ee-64c3b6d1db6a-000000@amazonses.com>
+Received: from a8-57.smtp-out.amazonses.com (a8-57.smtp-out.amazonses.com. [54.240.8.57])
+        by mx.google.com with ESMTP id kz6si15646624qeb.32.2013.11.06.10.55.15
+        for <ingo.skupin@gmail.com>;
+        Wed, 06 Nov 2013 10:55:16 -0800 (PST)
+Received-SPF: pass (google.com: domain of 000001422ec4bec8-a721f76d-b171-4d6e-b5ee-64c3b6d1db6a-000000@amazonses.com designates 54.240.8.57 as permitted sender) client-ip=54.240.8.57;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of 000001422ec4bec8-a721f76d-b171-4d6e-b5ee-64c3b6d1db6a-000000@amazonses.com designates 54.240.8.57 as permitted sender) smtp.mail=000001422ec4bec8-a721f76d-b171-4d6e-b5ee-64c3b6d1db6a-000000@amazonses.com
+Return-Path: 000001422ec4bec8-a721f76d-b171-4d6e-b5ee-64c3b6d1db6a-000000@amazonses.com
+From: AirDroid Support <no-reply@airdroid.com>
+To: ingo.skupin@googlemail.com
+Subject: AirDroid Verify Email
+MIME-Version: 1.0
+Content-Type: text/plain; charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Date: Wed, 6 Nov 2013 18:55:15 +0000
+Message-ID: <000001422ec4bec8-a721f76d-b171-4d6e-b5ee-64c3b6d1db6a-000000@email.amazonses.com>
+X-SES-Outgoing: 2013.11.06-54.240.8.57
+
+Hi ingo.skupin@googlemail.com,
+
+Welcome to AirDroid! Please click the link below to verify your email address:
+https://id.airdroid.com/p4/user/emailVerify/?code=Mjc0MDk1MywxMzg0MzY4OTE1&sign=c91540483457a4cbad2c71fce9e9cb5d&hash=90fde88d90bb6393a18ec5403477bc99
+
+(This link will expire in 7 days.)
+
+After verification, you can:
+1. Reset AirDroid password with this email address.
+2. Get important notification from the Find Phone feature to better protect your device.
+
+Sincerely,
+AirDroid Team

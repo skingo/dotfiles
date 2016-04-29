@@ -1,0 +1,77 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.112.38.225 with SMTP id j1csp61837lbk;
+        Mon, 14 Jan 2013 06:38:00 -0800 (PST)
+X-Received: by 10.204.149.86 with SMTP id s22mr39891648bkv.57.1358174280292;
+        Mon, 14 Jan 2013 06:38:00 -0800 (PST)
+Return-Path: <juliaschlag@googlemail.com>
+Received: from lvps5-35-244-247.dedicated.hosteurope.de (lvps5-35-244-247.dedicated.hosteurope.de. [5.35.244.247])
+        by mx.google.com with ESMTPS id gu16si22526600bkc.70.2013.01.14.06.37.59
+        (version=TLSv1 cipher=RC4-SHA bits=128/128);
+        Mon, 14 Jan 2013 06:38:00 -0800 (PST)
+Received-SPF: neutral (google.com: 5.35.244.247 is neither permitted nor denied by domain of juliaschlag@googlemail.com) client-ip=5.35.244.247;
+Authentication-Results: mx.google.com;
+       spf=neutral (google.com: 5.35.244.247 is neither permitted nor denied by domain of juliaschlag@googlemail.com) smtp.mail=juliaschlag@googlemail.com;
+       dkim=pass header.i=@gmail.com
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id 97BB8AC8FBC; Mon, 14 Jan 2013 15:37:29 +0100 (CET)
+X-Spam-Checker-Version: SpamAssassin 3.3.1 (2010-03-16) on
+	lvps5-35-244-247.dedicated.hosteurope.de
+X-Spam-Level: 
+X-Spam-Status: No, score=0.5 required=7.0 tests=DKIM_ADSP_CUSTOM_MED,
+	DKIM_SIGNED,DKIM_VALID,FREEMAIL_FROM,NML_ADSP_CUSTOM_MED,RCVD_IN_DNSWL_LOW
+	autolearn=no version=3.3.1
+X-Original-To: saxophon@concertband.de
+Delivered-To: saxophon@concertband.de
+Received: by lvps5-35-244-247.dedicated.hosteurope.de (Postfix, from userid 110)
+	id CE4B3AC8FBC; Mon, 14 Jan 2013 15:37:26 +0100 (CET)
+X-Original-To: alle@concertband.de
+Delivered-To: alle@concertband.de
+X-No-Auth: unauthenticated sender
+X-No-Relay: not in my network
+Received: from mail-bk0-f47.google.com (mail-bk0-f47.google.com [209.85.214.47])
+	by lvps5-35-244-247.dedicated.hosteurope.de (Postfix) with ESMTPS id D5E39AC8EAF
+	for <alle@concertband.de>; Mon, 14 Jan 2013 15:37:25 +0100 (CET)
+Received: by mail-bk0-f47.google.com with SMTP id j4so2002965bkw.34
+        for <alle@concertband.de>; Mon, 14 Jan 2013 06:37:25 -0800 (PST)
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+        d=gmail.com; s=20120113;
+        h=x-received:subject:from:content-type:x-mailer:message-id:date:to
+         :content-transfer-encoding:mime-version;
+        bh=9KiHYxEoIeKubLi5ss8ZziGOyBVFD+dPVw4ltc3cOYo=;
+        b=F3DGNj12Y2wBxiPgPCNFT/LM1FDIJxJU9SMpzsnhfq1mubKOxfkVxaGM3o7lf7x0Ke
+         NzBS8qf9AYUBelyNLCZA092HUn6HwWE89UXuBnJZhcPoX7UsUj3buigPxaXfWJh8wzoP
+         eIuudgsIR9Fa2aSfTr6C48kzD86jgwcszgf5MR1gIJCeKO3e82kYCQB0xDPY7TBpJvC8
+         NwU8MWixu8YYBUwDB2CwBqexEC8Z1rQmuRR7rdpajtjZXQp013WffFNuxWdqJGfO8gwR
+         oDJ+JdtYvDnaQHd9on0Ahcqd3ewdHXbW0MMGJe1uewZfhr25RpZi6zzpPYaT7urZbuyj
+         dXxQ==
+X-Received: by 10.204.149.12 with SMTP id r12mr38977820bkv.30.1358174245489;
+        Mon, 14 Jan 2013 06:37:25 -0800 (PST)
+Received: from [192.168.2.104] (p57B4A7AA.dip.t-dialin.net. [87.180.167.170])
+        by mx.google.com with ESMTPS id e22sm9976564bke.14.2013.01.14.06.37.24
+        (version=TLSv1 cipher=ECDHE-RSA-RC4-SHA bits=128/128);
+        Mon, 14 Jan 2013 06:37:24 -0800 (PST)
+Subject: Probezeiten Weikersheim
+From: Julia Schlag <juliaschlag@googlemail.com>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPhone Mail (10A523)
+Message-Id: <2471B7F3-83C1-4A25-8800-38DBCD82C225@googlemail.com>
+Date: Mon, 14 Jan 2013 15:37:21 +0100
+To: alle@concertband.de
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+
+Fr. Tutti 19 - 21 Uhr
+
+Sa. Satzproben 09 - 12.30 Uhr, 13.30 - 15.30 Uhr, Tutti 19 - 22 Uhr
+
+So. Tutti 9.30 - 12.30 Uhr.=20
+
+Viele Gr=C3=BC=C3=9Fe,=20
+Julia
+
+
+
+Geigersbergstr. 11
+74343 Sachsenheim
+0173-9710018=

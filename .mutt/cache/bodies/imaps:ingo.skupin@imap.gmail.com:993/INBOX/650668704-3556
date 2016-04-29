@@ -1,0 +1,46 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.154.203 with SMTP id p11csp183318vcw;
+        Mon, 20 Aug 2012 06:31:24 -0700 (PDT)
+Received: by 10.14.220.70 with SMTP id n46mr8870612eep.42.1345469484355;
+        Mon, 20 Aug 2012 06:31:24 -0700 (PDT)
+Return-Path: <kontakt@thai-kratom.de>
+Received: from smtpq4.gn.mail.iss.as9143.net (smtpq4.gn.mail.iss.as9143.net. [212.54.34.167])
+        by mx.google.com with ESMTP id j48si10858690eeo.6.2012.08.20.06.31.23;
+        Mon, 20 Aug 2012 06:31:24 -0700 (PDT)
+Received-SPF: neutral (google.com: 212.54.34.167 is neither permitted nor denied by best guess record for domain of kontakt@thai-kratom.de) client-ip=212.54.34.167;
+Authentication-Results: mx.google.com; spf=neutral (google.com: 212.54.34.167 is neither permitted nor denied by best guess record for domain of kontakt@thai-kratom.de) smtp.mail=kontakt@thai-kratom.de
+Message-Id: <50323c2c.c8cd0e0a.1537.ffff95ddSMTPIN_ADDED@mx.google.com>
+Received: from [212.54.34.136] (helo=smtp5.gn.mail.iss.as9143.net)
+	by smtpq4.gn.mail.iss.as9143.net with esmtp (Exim 4.71)
+	(envelope-from <kontakt@thai-kratom.de>)
+	id 1T3S4h-0000YJ-OH
+	for ingo.skupin@gmail.com; Mon, 20 Aug 2012 15:31:23 +0200
+Received: from 541953e1.cm-5-2b.dynamic.ziggo.nl ([84.25.83.225] helo=versand2-PC)
+	by smtp5.gn.mail.iss.as9143.net with esmtpsa (TLS1.0:RSA_AES_128_CBC_SHA1:16)
+	(Exim 4.71)
+	(envelope-from <kontakt@thai-kratom.de>)
+	id 1T3S4h-00054b-J0
+	for ingo.skupin@gmail.com; Mon, 20 Aug 2012 15:31:23 +0200
+MIME-Version: 1.0
+From: =?utf-8?B?a29udGFrdEB0aGFpLWtyYXRvbS5kZQ==?= <kontakt@thai-kratom.de>
+To: =?utf-8?B?aW5nby5za3VwaW5AZ21haWwuY29t?= <ingo.skupin@gmail.com>
+Date: 20 Aug 2012 15:31:19 +0200
+Subject: =?utf-8?B?VHJhY2tpbmcgTnVtbWVyIElocmVyIEJlc3RlbGx1bmc6IDExMDEwMDkwIGJlaSBUaGFpLUtyYXRvbS5kZQ==?=
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: base64
+X-Authenticated-Sender: ewilbv@ziggo.nl (via SMTP)
+X-Ziggo-spambar: -
+X-Ziggo-spamscore: -1.0
+X-Ziggo-spamreport: ALL_TRUSTED=-1,BAYES_00=-1.9,FROM_EXCESS_BASE64=0.979,HTML_MESSAGE=0.001,HTML_MIME_NO_HTML_TAG=0.377,MIME_HTML_ONLY=0.001,MISSING_MID=0.497
+X-Ziggo-Spam-Status: No
+X-Spam-Status: No
+X-Spam-Flag: No
+
+SWhyIEF1ZnRyYWcgd3VyZGUgc29lYmVuIGJlYXJiZWl0ZXQ8YnI+PGJyPklocmUgVHJhY2tp
+bmdudW1tZXIgZsO8ciBkaWUgU2VuZHVuZ3N2ZXJmb2xndW5nIGxhdXRldDxicj48YnI+MDAz
+NDA0MzQxMjUxNTgxMDAwMzQ8YnI+PGJyPmFiIGhldXRlIEFiZW5kIC8gYnp3LiBtb3JnZW4g
+RnLDvGggdW50ZXIgREhMLmRlIHp1IHZlcmZvbGdlbi48YnI+V2lyIGhvZmZlbiBhdWYgc2No
+bmVsbGUgQXVzbGllZmVydW5nIHVuZCBJaHJlIFp1ZnJpZWRlbmhlaXQuPGJyPjxicj5NaXQg
+ZnJldW5kbGljaGVuIEdyw7zDn2VuPGJyPjxicj5Ccml0dGEgRcOfZXI8YnI+PGJyPldpciBX
+w7xuc2NoZW4gSWhuZW4gdW5kIElocmVyIEZhbWlsaWUgZWluZSBzY2jDtm5lIFdvY2hlLg==
+

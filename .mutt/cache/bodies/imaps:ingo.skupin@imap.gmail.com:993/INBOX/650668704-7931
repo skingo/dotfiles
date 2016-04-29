@@ -1,0 +1,52 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.134.225 with SMTP id pn1csp230899pdb;
+        Tue, 19 Aug 2014 08:10:57 -0700 (PDT)
+X-Received: by 10.112.166.139 with SMTP id zg11mr35249267lbb.62.1408461056513;
+        Tue, 19 Aug 2014 08:10:56 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTPS id q6si8580140lag.61.2014.08.19.08.10.55
+        for <ingo.skupin@gmail.com>
+        (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 19 Aug 2014 08:10:56 -0700 (PDT)
+Received-SPF: pass (google.com: domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from [213.165.67.120] ([213.165.67.120]) by mx-ha.web.de (mxweb101)
+ with ESMTPS (Nemesis) id 0LiEYB-1WWeuz2Ysd-00nNRL for
+ <ingo.skupin@gmail.com>; Tue, 19 Aug 2014 17:10:55 +0200
+Received: from mout.gmx.net ([212.227.15.19]) by mx-ha.web.de (mxweb101) with
+ ESMTPS (Nemesis) id 0MfGHG-1WzLoy2Yeo-00OsQs for <ingo.skupin@web.de>; Tue,
+ 19 Aug 2014 17:10:54 +0200
+Received: from mout.gmx.net ([212.227.15.15]) by mx-ha.gmx.net (mxgmx005) with
+ ESMTPS (Nemesis) id 0LswKA-1WLq410Jdi-012WEX; Tue, 19 Aug 2014 17:10:35 +0200
+Received: from [84.133.229.23] by 3capp-gmx-bs35.server.lan (via HTTP); Tue,
+ 19 Aug 2014 17:10:34 +0200
+MIME-Version: 1.0
+Message-ID: <trinity-69e2d185-ea5f-4149-b81c-c53b6392bf25-1408461034547@3capp-gmx-bs35>
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+To: BO_Blech+Schlagzeug%Musikverein.Notzingen@gmx.de,
+ BO_Holz+Dirigent%Musikverein.Notzingen@gmx.de
+Subject: Glarus
+Content-Type: text/html; charset=UTF-8
+Date: Tue, 19 Aug 2014 17:10:34 +0200
+Importance: normal
+Sensitivity: Normal
+X-Priority: 3
+X-Provags-ID: V03:K0:iPNxGha04WKczxsHIwobjVCwUA8paXodwIpOfGQTuUS
+ xgdTIqaypGwhPcxrpznDJl2a7uVot3My4rrrtd/CWqz5Sfx3dw
+ 92Qipop/dDcts1ULEa3Cyhc68ypkaqIGLNknaZj+l0CtfTnJtl
+ Nmi55Sne/WGjUF5dtNirnuI/zxiviYH0aLk4ufBWYqEOPDArA9
+ FfgJE37ol0jDS2l0qLYI+VtCBgJPVoBnKeG4LTuFYpfBvJCBCb
+ I/Aqxn+Ah6bzkNt13TAYTOJtkR/63dLpMB9gWc29Y+iaeOcwF2 e96kow=
+X-UI-Out-Filterresults: notjunk:1;
+
+<html><head></head><body><div style="font-family: Verdana;font-size: 12.0px;"><div>Hallo,</div>
+
+<div>habe heute die best&auml;tigung seitens Glarus bekommen.</div>
+
+<div>Wir sind hiermit dort Angemeldet!</div>
+
+<div>Gru&szlig; Timo</div>
+
+<div>&nbsp;</div></div></body></html>

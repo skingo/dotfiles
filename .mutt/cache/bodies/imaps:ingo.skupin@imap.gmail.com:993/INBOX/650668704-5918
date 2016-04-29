@@ -1,0 +1,107 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.70.15.227 with SMTP id a3csp376074pdd;
+        Sun, 30 Jun 2013 22:53:17 -0700 (PDT)
+X-Received: by 10.15.73.197 with SMTP id h45mr19209562eey.146.1372657996641;
+        Sun, 30 Jun 2013 22:53:16 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.15.14])
+        by mx.google.com with ESMTP id o46si10488527eef.275.2013.06.30.22.53.15
+        for <ingo.skupin@gmail.com>;
+        Sun, 30 Jun 2013 22:53:16 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.14 as permitted sender) client-ip=212.227.15.14;
+Authentication-Results: mx.google.com;
+       spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.15.14 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from mout.gmx.net ([212.227.15.18]) by mx-ha.web.de (mxweb104) with
+ ESMTP (Nemesis) id 0LgJbc-1UPzfb2fXY-00nebs for <ingo.skupin@gmail.com>; Mon,
+ 01 Jul 2013 07:53:15 +0200
+Received: from mailout-de.gmx.net ([10.1.76.16]) by mrigmx.server.lan
+ (mrigmx002) with ESMTP (Nemesis) id 0MXCV1-1UhFN81XWv-00WGhT for
+ <ingo.skupin@web.de>; Mon, 01 Jul 2013 07:53:15 +0200
+Received: (qmail invoked by alias); 01 Jul 2013 05:53:15 -0000
+Received: from HSI-KBW-109-192-215-010.hsi6.kabel-badenwuerttemberg.de (EHLO [192.168.178.35]) [109.192.215.10]
+  by mail.gmx.net (mp016) with SMTP; 01 Jul 2013 07:53:15 +0200
+X-Authenticated: #764207
+X-Provags-ID: V01U2FsdGVkX18NMO1r5h0N6NmSWc2pP7sIB5EEm8qI4fXendW12b
+	Td9bto0r4IQwHI
+Subject: JBO-Probe
+From: Thomas <thomas.ringhoffer@gmx.de>
+Content-Type: text/plain;
+	charset=utf-8
+X-Mailer: iPad Mail (10B329)
+Message-Id: <509F672E-F5FC-4DF3-B209-1DC7F83F4E45@gmx.de>
+Date: Mon, 1 Jul 2013 07:53:12 +0200
+To: #20 JBO <thomas.ringhoffer@gmx.de>,
+ Kerstin Hummel<kerstin.hummel@kabelbw.de>,
+ Leona Skupin<leona.skupin@web.de>,
+ Vera Ringhoffer<vera.ringhoffer@web.de>,
+ Alina Bosch<alina.bosch@hotmail.de>,
+ Mirjam Hemberger<mirjam-hemberger@t-online.de>,
+ Laura Henzler<laura.henzler@kabelbw.de>,
+ Katharina Gotthardt<kathi.gotthardt@gmx.de>,
+ Julia Hangkamer-Kühnen<jule.hk@googlemail.com>,
+ Heike Besenfelder<heikebesenfelder@gmx.de>,
+ Anika Umhey<anika.umhey@gmx.de>,
+ Lisa Ensminger<lisaensminger@gmx.de>,
+ Natalie Machanek<nmachanek@web.de>,
+ Sabrina Machanek<smachanek@web.de>,
+ Ulrike Jost<ulrikejost97@gmx.de>,
+ Ulrike Jost<umaajost@t-online.de>,
+ Sofia Gommel<sofia-gommel@web.de>,
+ Helena Kiltz<helenakiltz@web.de>,
+ Tamara Schweizer<tamara-schweizer@gmx.de>,
+ Sarah Ringhoffer<sarah.ringhoffer@gmx.de>,
+ Elena Groß<ele.gross@gmx.de>,
+ Caroline Machanek<cmachanek@web.de>,
+ Jasmina Andorf<jadorf@gmx.de>,
+ Melanie Hauser<melanie.hauser@gmx.net>,
+ Elisa Lottig<elisa.lottig@kabelbw.de>,
+ Shari Huber<sharilouisa@gmx.de>,
+ Tobias Lauster<tobias.lauster@gmx.de>,
+ Tim Welzl<tim.tja@t-online.de>,
+ Tim Welzl<no.samt@t-online.de>,
+ Rebecca Sonn<rebecca.sonn@web.de>,
+ Katharina Maier<KML.Ma@web.de>,
+ Ingo Skupin<ingo.skupin@gmail.com>,
+ Ingo Skupin<ingo.skupin@web.de>,
+ Dale Grill<dalegrill@googlemail.com>,
+ Dale Grill<dalegrill@gmail.com>,
+ Andreas Pleger<A.Pleger@foni.net>,
+ Jonas Pfeifer<pfeifer.jonas@googlemail.com>,
+ Jonas Pfeifer<pfeifer.jonas@gmail.com>,
+ Jens Ringhoffer<jens.ringhoffer@gmx.de>,
+ Sarah Keck<sarahmagdalena_keck@web.de>,
+ Philipp Mayer<mayer-fertigungstechnik@t-online.de>,
+ Louis Groß<23louis05@gmx.de>,
+ Louis Groß<dagmar.koeber@gmx.de>,
+ Teresa Pleger<teresa.pleger@web.de>,
+ Julian Sparrer<julian-sparrer@web.de>,
+ Benjamin Deuschle<benjamin.deuschle@gmx.de>,
+ Alexander Beck<beck.notzingen@t-online.de>,
+ Jörg Ruff<joergruff@web.de>,
+ Klaus Jürgen Weiler<GWeiler@t-online.de>,
+ Dominik Pleger<D-Pleger@web.de>,
+ Simon Keck<simon.keck92@googlemail.com>,
+ Maximilian Scherbaum<max_vom_haldenberg@gmx.de>,
+ Maximilian Scherbaum<maximilian.scherbaum@web.de>,
+ Sebastian Kasputtis<skas@gmx.de>,
+ Günther Claß<guenther_class@gmx.de>,
+ Kay Kirchmann<kay.kirchmann@gmx.de>,
+ Kay Kirchmann<master.killer@gmx.de>,
+ Patrick Vollmer<paddie-vollmer@web.de>,
+ Alexander Zweifel<a.zweifel95@gmail.com>,
+ Marvin Bombis<MarvinBombis@web.de>,
+ Alexander Klon<alex.sebastian-k@web.de>
+Content-Transfer-Encoding: quoted-printable
+Mime-Version: 1.0 (1.0)
+X-Y-GMX-Trusted: 0
+
+Hallo
+
+es sind noch 2 Proben bis zum Sommer Open Air.
+Bitte kommt alle in die Probe.
+Bitte die Tapaz-Zettel in der Probe abgeben. Danke.
+
+Bis Morgen
+
+Herzlichen Gru=C3=9F
+Thomas=

@@ -1,0 +1,76 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.199.77 with SMTP id er13cs10647vcb;
+        Sun, 9 Oct 2011 07:38:36 -0700 (PDT)
+Received: by 10.223.65.76 with SMTP id h12mr25497480fai.7.1318171115215;
+        Sun, 09 Oct 2011 07:38:35 -0700 (PDT)
+Return-Path: <notification+zj4oc2az_s26@facebookmail.com>
+Received: from fmmailgate02.web.de (fmmailgate02.web.de. [217.72.192.227])
+        by mx.google.com with ESMTP id r27si7200772fam.41.2011.10.09.07.38.34;
+        Sun, 09 Oct 2011 07:38:35 -0700 (PDT)
+Received-SPF: fail (google.com: domain of notification+zj4oc2az_s26@facebookmail.com does not designate 217.72.192.227 as permitted sender) client-ip=217.72.192.227;
+Authentication-Results: mx.google.com; spf=hardfail (google.com: domain of notification+zj4oc2az_s26@facebookmail.com does not designate 217.72.192.227 as permitted sender) smtp.mail=notification+zj4oc2az_s26@facebookmail.com; dkim=pass header.i=@facebookmail.com
+Received:  from mx24.web.de  ( [172.20.3.97])
+	by fmmailgate02.web.de (Postfix) with ESMTP id C98361B041A25
+	for <ingo.skupin@gmail.com>; Sun,  9 Oct 2011 16:38:34 +0200 (CEST)
+Received: from [66.220.144.152] (helo=mx-out.facebook.com)
+	by mx24.web.de with esmtp (WEB.DE 4.110 #2)
+	id 1RCuWQ-0004uz-00
+	for ingo.skupin@web.de; Sun, 09 Oct 2011 16:38:34 +0200
+DKIM-Signature: v=1; a=rsa-sha256; d=facebookmail.com; s=s1024-2011-q2; c=relaxed/simple;
+	q=dns/txt; i=@facebookmail.com; t=1318171114;
+	h=From:Subject:Date:To:MIME-Version:Content-Type;
+	bh=E4Z09qfvHCNNc8scPXE/ge3t0bOJS5TebmRjqmkU5F0=;
+	b=XiUYJB4JFErNiFGK/Hd2RqlGlA6NCg0zFvSf7rLHIBS5xCyzui7AqYjAVzeM/oNS
+	A1cuzOhioq9LBjgXa8aCt52cz6KVnkEmS5yv1EShYToMrpYrvhMhTLx574WrWGxL
+	0su8iip6voybPyV0tBR22/PzTqDjSUr3kNrIQhNUTsM=;
+Received: from [10.54.238.49] ([10.54.238.49:45895])
+	by smout044.snc4.facebook.com (envelope-from <notification+zj4oc2az_s26@facebookmail.com>)
+	(ecelerity 2.2.2.45 r(34222M)) with ECSTREAM
+	id DF/67-31662-AE1B19E4; Sun, 09 Oct 2011 07:38:34 -0700
+X-Facebook: from zuckmail ([MTI3LjAuMC4x]) 
+	by www.facebook.com with HTTP (ZuckMail);
+Date: Sun, 9 Oct 2011 07:38:34 -0700
+To: Ingo Skupin <ingo.skupin@web.de>
+From: "Facebook" <notification+zj4oc2az_s26@facebookmail.com>
+Reply-to: Facebook <notification+zj4oc2az_s26@facebookmail.com>
+Subject: =?UTF-8?B?QmVuYWNocmljaHRpZ3Vu?=
+ =?UTF-8?B?ZyDDvGJlciBkaWUgw4RuZGU=?=
+ =?UTF-8?B?cnVuZyBkZXIgS29udGFr?=
+ =?UTF-8?B?dC1FLU1haWwgYXVmIEZh?=
+ =?UTF-8?B?Y2Vib29r?=
+Message-ID: <201987463e95e52cbfc3823526e0725c@www.facebook.com>
+X-Priority: 3
+X-Mailer: ZuckMail [version 1.00]
+Errors-To: notification+zj4oc2az_s26@facebookmail.com
+X-Facebook-Notify: ; mailid=
+X-FACEBOOK-PRIORITY: 0
+MIME-Version: 1.0
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset="UTF-8"
+X-WEBDE-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+Hallo Ingo,
+
+Wir haben deine Anfrage darauf erhalten, dein Konto mit der E-Mail-Adresse =
+ingo.skupin@gmail.com zu assoziieren.
+
+Eine E-Mail wurde an ingo.skupin@gmail.com versendet, um die Anfrage und =
+den Inhaber des Kontos zu best=C3=A4tigen. Um die Adresse zu =
+best=C3=A4tigen, klicke einfach auf den Best=C3=A4tigungslink in der =
+E-Mail.
+
+Falls du diese Adresse jedoch nicht kennen solltest oder keine =
+=C3=84nderung deiner Kontakt-E-Mail-Adresse beantragt hast, folge bitte =
+diesem Link, um die Anfrage zur=C3=BCckzuziehen: https://www.facebook.com/=
+checkpoint/checkpointme?u=3D100000210002384&n=3Dl0Rb92Uh
+(Falls das Anklicken des Links nicht funktioniert, kopiere den Link und =
+f=C3=BCge ihn dann in die Adressleiste deines Browsers ein.)
+
+Wenn du die Anfrage auf =C3=84nderung deiner Kontakt-E-Mail-Adresse =
+zur=C3=BCckziehst, wird f=C3=BCr dein Konto auch weiterhin deine aktuelle =
+E-Mail-Adresse (ingo.skupin@web.de) verwendet. Zudem wirst du dann gebeten =
+dein Passwort aus Sicherheitsgr=C3=BCnden zur=C3=BCckzusetzen.
+
+Gr=C3=BC=C3=9Fe,
+Das Facebook-Team
+

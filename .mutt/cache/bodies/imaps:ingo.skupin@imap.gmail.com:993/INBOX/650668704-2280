@@ -1,0 +1,85 @@
+Delivered-To: ingo.skupin@gmail.com
+Received: by 10.220.70.4 with SMTP id b4csp78007vcj;
+        Mon, 2 Apr 2012 13:42:21 -0700 (PDT)
+Received: by 10.180.94.161 with SMTP id dd1mr28523285wib.16.1333399339815;
+        Mon, 02 Apr 2012 13:42:19 -0700 (PDT)
+Return-Path: <ingo.skupin@web.de>
+Received: from mout.web.de (mout.web.de. [212.227.17.11])
+        by mx.google.com with ESMTP id x8si19905921weq.7.2012.04.02.13.42.17;
+        Mon, 02 Apr 2012 13:42:19 -0700 (PDT)
+Received-SPF: pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) client-ip=212.227.17.11;
+Authentication-Results: mx.google.com; spf=pass (google.com: best guess record for domain of ingo.skupin@web.de designates 212.227.17.11 as permitted sender) smtp.mail=ingo.skupin@web.de
+Received: from mailout-de.gmx.net ([213.165.64.22]) by mx-ha.web.de (mxweb105)
+ with ESMTP (Nemesis) id 0MfoF6-1RtzRd2a7Y-00N6je for <ingo.skupin@gmail.com>;
+ Mon, 02 Apr 2012 22:42:17 +0200
+Received: (qmail 25509 invoked by alias); 2 Apr 2012 20:42:17 -0000
+Delivered-To: GMX delivery to jbo%musikverein.notzingen@gmx.de
+Received: (qmail 25456 invoked by uid 0); 2 Apr 2012 20:42:17 -0000
+Received: from 109.193.122.195 by www044.gmx.net with HTTP;
+ Mon, 02 Apr 2012 22:42:15 +0200 (CEST)
+Content-Type: multipart/alternative;
+ boundary="========GMXBoundary183301333399335168449"
+Date: Mon, 02 Apr 2012 22:42:15 +0200
+From: "Musikverein Notzingen" <Musikverein.Notzingen@gmx.de>
+Message-ID: <20120402204215.183300@gmx.net>
+MIME-Version: 1.0
+Subject: Kuchenspende
+To: JBO%Musikverein.Notzingen@gmx.de
+X-Authenticated: #685400
+X-Mailer: WWW-Mail 6100 (Global Message Exchange)
+X-Priority: 3
+X-Provags-ID: V01U2FsdGVkX1983QpscoJ8Yc+09u1SxXD3/BUFd7qcdw8yTrzxQB
+ SmJ33k8IS/6GNg+bawA1kYS945ya/gyxMHzg== 
+X-GMX-UID: cGoIb/4meSEqWTkWYXQhxFJ+IGRvb8Cx
+X-UI-FORWARD: ingo.skupin@web.de -> ingo.skupin@gmail.com
+
+--========GMXBoundary183301333399335168449
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 8bit
+
+Hallo zusammen,
+
+da Vera in den Ferien nicht da ist, bitte ich euch ihr per Mail 
+mitzuteilen, wenn ihr für das Jugendkonzert einen Kuchen spendet. Ihr 
+könnt den Zettel aber auch morgen bei mir abgeben.
+
+Gruß, Kerstin    
+-- 
+Musikverein Notzingen-Wellingen e.V.
+eMail: musikverein.notzingen@gmx.de
+Internet: http://www.musikverein-notzingen.de
+
+Ihr GMX Postfach immer dabei: die kostenlose GMX Mail App für Android.
+Komfortabel, sicher und schnell: www.gmx.de/android
+
+--========GMXBoundary183301333399335168449
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+    <head>
+        <title></title>
+        <link href=3D"/de/FCKeditor/editor/css/fck_editorarea.css" rel=3D"s=
+tylesheet" type=3D"text/css" /><style media=3D"screen" type=3D"text/css">
+body {font-family: verdana, arial, helvetica, sans-serif;font-size: 12px;pa=
+dding: 5px;margin: 0;background-color: #FFF;}
+p, ul, li {margin-top: 0;margin-bottom: 0;}
+blockquote {margin-left: 5px;}
+div.signature {color: #666;font-size: 0.9em;}
+</style>
+    </head>
+    <body>
+        Hallo zusammen,<br /><br />da Vera in den Ferien nicht da ist, bitt=
+e ich euch ihr per Mail mitzuteilen, wenn ihr f&uuml;r das Jugendkonzert ei=
+nen Kuchen spendet. Ihr k&ouml;nnt den Zettel aber auch morgen bei mir abge=
+ben.<br /><br />Gru&szlig;, Kerstin
+    <div class=3D"signature"><br /><br /><br />-- <br />Musikverein=C2=A0No=
+tzingen-Wellingen=C2=A0e.V.=0D<br />
+eMail:=C2=A0musikverein.notzingen@gmx.de=0D<br />
+Internet:=C2=A0http://www.musikverein-notzingen.de<br />
+<br />
+Ihr GMX Postfach immer dabei: die kostenlose GMX Mail App f=C3=BCr Android.=
+<br />Komfortabel, sicher und schnell: www.gmx.de/android</div></body>
+</html>
+
+--========GMXBoundary183301333399335168449--
