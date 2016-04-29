@@ -15,6 +15,7 @@ blather/*
 .xmonad
 .gitignore
 .gitadd
-.mutt
+.mutt/
 .muttrc
-.tmux
+.tmux/
+.emacs.d/

@@ -13,7 +13,15 @@ fish/fish_history
 .vim/bundle/vim-multiple-cursors/
 .vim/bundle/vim-tbone/
 .vim/bundle/vim-fish/
+.vim/bundle/Vim-R-plugin/
+.vim/bundle/agda-vim/
+.vim/bundle/scratch.vim/
+.vim/bundle/vim-devicons/
+.vim/bundle/vim-textobj-latex/
+.vim/bundle/vim-textobj-user/
 
 *.swp
 
 blather/blather.history
+
+.mutt/cache/
