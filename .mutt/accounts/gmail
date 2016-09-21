@@ -14,5 +14,10 @@ set record      = "+[Google Mail]/Sent Mail"
 set smtp_pass    = $my_pass_gmail
 set smtp_url     = "smtp://ingo.skupin@smtp.gmail.com:587"  # using port 587 for TLS
 
+set ssl_starttls = yes
+set ssl_force_tls = yes
+
+exec collapse-all
+
 # differentiate mailboxes in statusline:
 color   status          black            yellow

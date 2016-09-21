@@ -106,10 +106,10 @@ function! Tex_CompileLatex()
 	" all! Therefore for the moment, do not attempt to handle spaces in the
 	" file name.
 	if exists('b:fragmentFile')
-		let mainfname = expand('%:p:t')
+		let mainfname = fnameescape(expand('%:p:t'))
 		call Tex_CD(expand('%:p:h'))
 	else
-		let mainfname = Tex_GetMainFileName(':p:t')
+		let mainfname = fnameescape(Tex_GetMainFileName(':p:t'))
 		call Tex_CD(Tex_GetMainFileName(':p:h'))
 	end
 

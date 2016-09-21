@@ -1,7 +1,16 @@
 text/html; elinks -dump %s ; copiousoutput
-image/jpg; eog %s
-image/jpeg; eog %s
-image/gif; eog %s
-image/png; eog %s
+#image/jpg; eog %s 2>/dev/null
+#image/jpeg; eog %s 2>/dev/null
+#image/gif; eog %s 2>/dev/null
+#image/png; eog %s 2>/dev/null
+ 
+image/*; mkdir -p /tmp/mutt \; cp %s /tmp/mutt \; xdg-open /tmp/mutt/$(basename %s) &
+application/*; mkdir -p /tmp/mutt \; cp %s /tmp/mutt \; xdg-open /tmp/mutt/$(basename %s) &
+#application/pdf; zathura %s
 
-application/pdf; zathura %s
+#application/vnd.ms-excel; libreoffice %s
+#application/vnd.ms-word; libreoffice %s
+#application/vnd.ms-powerpoint; libreoffice %s
+#application/msexcel; libreoffice %s
+#application/msword; libreoffice %s
+#application/mspowerpoint; libreoffice %s

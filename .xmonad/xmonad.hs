@@ -92,9 +92,15 @@ bashRound = "awk '{printf(\"%d\\n\",$1 + 0.5)}'"
 bashDzen :: String
 bashDzen = "dzen2 -p 2 -x 700 -y 500 -w 520 -fn '-*-helvetica-*-r-*-*-44-*-*-*-*-*-*-*'"
 
-additionalKeyMaps :: [((ButtonMask, KeySym), X ())]
-additionalKeyMaps =
-        -- enables audio keys
+type KeyList = [((ButtonMask, KeySym), X ())]
+layoutKeys,       audioKeys,            brightnessKeys,      touchKeys    ::   KeyList
+screenshotKeys,   miscKeys,             workspaceMoveKeys,   cursorKeys   ::   KeyList
+subtabbedKeys,    capslockToggleKeys,   moveWinKeys,         utilsKeys    ::   KeyList
+layoutKeys =
+        [ ((modm, xK_space), sendMessage NextLayout)
+        -- , ((modm .|. shiftMask, xK_space), setLayout myLayoutHook)
+        ]
+audioKeys=
         [ ((0 , xF86XK_AudioMute), spawn "amixer -D pulse sset Master toggle" >>
                                    getMuteChannels ["Master"] >>=
                                    displayMuteState)
@@ -114,15 +120,17 @@ additionalKeyMaps =
                                                         spawn "pactl set-sink-volume $(pactl list short sinks | tr \"\t\" ' ' | cut -d' ' -f 1) 160%" >>
                                                         return 160 >>=
                                                         displayVolume)
-        -- display brightness
-        , ((0, xF86XK_MonBrightnessDown), spawn $ "xbacklight -20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
+        ]
+brightnessKeys =
+        [ ((0, xF86XK_MonBrightnessDown), spawn $ "xbacklight -20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((0, xF86XK_MonBrightnessUp), spawn $ "xbacklight +20 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((modm, xF86XK_MonBrightnessDown), spawn $ "xbacklight -5 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((modm, xF86XK_MonBrightnessUp), spawn $ "xbacklight +5 ; xbacklight | " ++ bashRound ++ " | " ++ bashDzen)
         , ((0, xF86XK_KbdBrightnessDown), spawn $ "export SUDO_ASKPASS=/home/skinge/.xmonad/dpass.sh; sudo -A /home/skinge/.xmonad/kbd_brightness.sh dec 2>&1 | " ++ bashDzen)
         , ((0, xF86XK_KbdBrightnessUp), spawn $ "export SUDO_ASKPASS=/home/skinge/.xmonad/dpass.sh; sudo -A /home/skinge/.xmonad/kbd_brightness.sh inc 2>&1 | " ++ bashDzen)
-        -- touchpad toggle
-        , ((0, 0x1008ffa9), spawn $ concat  [ "a=$(synclient | grep Touch | sed -E 's/^[^0-9]*//');"
+        ]
+touchKeys=
+        [ ((0, 0x1008ffa9), spawn $ concat  [ "a=$(synclient | grep Touch | sed -E 's/^[^0-9]*//');"
                                             , "if [ 0 = $a ] ; then "
                                             ,   "synclient TouchpadOff=1;"
                                             ,   "echo 'touchpad off' | " ++ bashDzen ++ ";"
@@ -132,14 +140,38 @@ additionalKeyMaps =
                                             , "fi"
                                             ]
           )
-
-        --  , ((modm .|. shiftMask, xK_0), windows $ W.shift "xmonad:0")
-
-        , ((0 , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png")
+        -- touchscreen toggle
+        , ((modm, 0x1008ffa9), spawn $ concat [ "a=$(xinput list 9 | grep disabled);"
+                                              , "if [ -n \"$a\" ] ; then "
+                                              ,   "xinput enable 9;"
+                                              ,   "echo 'touchscreen on' | " ++ bashDzen ++ ";"
+                                              , "else "
+                                              ,   "xinput disable 9;"
+                                              ,   "echo 'touchscreen off' | " ++ bashDzen ++ ";"
+                                              , "fi"
+                                              ]
+          )
+        -- odiaeresis is ö (ü and ä similar)
+        , ((modm, xK_odiaeresis               ) , spawn "synclient HorizTwoFingerScroll=0"
+                                                     >> displayStringLine "horizontal scrolling off" 800 66)
+        , ((modm .|. shiftMask, xK_odiaeresis ) , spawn "synclient HorizTwoFingerScroll=1"
+                                                     >> displayStringLine "horizontal scrolling on" 800 66)
+        -- touchpad toggle is already in place using the given 'touchpad toggle' key
+        --  , ((modm, xK_adiaeresis               ) , spawn "synclient TouchpadOff=0"
+                                                     --  >> displayStringLine "touchpad on" 500 66)
+        --  , ((modm .|. shiftMask, xK_adiaeresis ) , spawn "synclient TouchpadOff=1"
+                                                     --  >> displayStringLine "touchpad off" 500 66)
+        ]
+screenshotKeys =
+        [
+          ((0 , xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png")
         , ((modm, xK_Print), spawn $ "scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -u")
         , ((modm .|. shiftMask , xK_Print), spawn $ "sleep 0.2; scrot " ++ picDir ++ "screen_%Y-%m-%d_%H-%M-%S.png -s")
+        ]
+miscKeys=
+        [
         --  , ((modm, xK_b), setWMName "LGD3." >> spawn "echo done | dzen2 -p 2")
-        , ((modm, xK_b), spawn "blather")
+          ((modm, xK_b), spawn "blather")
 
         , ((modm .|. shiftMask, xK_i),  spawn "sudo poweroff")
         , ((modm .|. controlMask, xK_i),  spawn "sudo reboot")
@@ -152,9 +184,11 @@ additionalKeyMaps =
 
         -- change dmenu font and make case insensitive
         , ((modm, xK_p), spawn "dmenu_run -i -fn '10x20'")
-
+        ]
+workspaceMoveKeys=
+        [
         -- cycle through workspaces:
-        , ((modm .|. shiftMask, xK_l),  shiftToNext >>
+          ((modm .|. shiftMask, xK_l),  shiftToNext >>
                                             nextWS)
         , ((modm .|. shiftMask, xK_h),  shiftToPrev >>
                                             prevWS)
@@ -165,39 +199,33 @@ additionalKeyMaps =
         , ((modm, xK_a                 ), currentTopicAction myTopicConfig)
         , ((modm, xK_g                 ), promptedGoto)
         , ((modm .|. shiftMask, xK_g   ), promptedShift)
-        , ((modm, xK_w                 ), muxPrompt myXPConfig)
-        , ((modm .|. shiftMask, xK_w   ), shellPrompt myXPConfig)
-        , ((modm .|. controlMask, xK_w ), xmonadPrompt myXPConfig)
+        , ((modm, xK_z                 ), muxPrompt myXPConfig)
+        , ((modm .|. shiftMask, xK_z   ), shellPrompt myXPConfig)
+        , ((modm .|. controlMask, xK_z ), xmonadPrompt myXPConfig)
         , ((modm, xK_i                 ), goToSelected defaultGSConfig)
         , ((modm, xK_o                 ), gridSelectTopics)
 
-        -- switch screens with mod-{e,r} instead of {w,e,r} (w is used already), shift-mod-{e,r} to move workspace to screen
-        , ((modm, xK_e                 ), screenWorkspace 0 >>= flip whenJust (windows . W.view))
-        , ((modm, xK_r                 ), screenWorkspace 1 >>= flip whenJust (windows . W.view))
-        , ((modm .|. shiftMask, xK_e   ), screenWorkspace 0 >>= flip whenJust (windows . W.shift))
-        , ((modm .|. shiftMask, xK_r   ), screenWorkspace 1 >>= flip whenJust (windows . W.shift))
-        -- mod-{w,e,r} %! Switch to physical/Xinerama screens 1, 2, or 3
-        -- mod-shift-{w,e,r} %! Move client to screen 1, 2, or 3
-         --  [((m .|. modMask, key), screenWorkspace sc >>= flip whenJust (windows . f))
-         --     | (key, sc) <- zip [xK_w, xK_e, xK_r] [0..]
-         --     , (f, m) <- [(W.view, 0), (W.shift, shiftMask)]]
-
-        -- odiaeresis is ö (ü and ä similar)
-        , ((modm, xK_odiaeresis               ) , spawn "synclient HorizTwoFingerScroll=0"
-                                                     >> displayStringLine "horizontal scrolling off" 800 66)
-        , ((modm .|. shiftMask, xK_odiaeresis ) , spawn "synclient HorizTwoFingerScroll=1"
-                                                     >> displayStringLine "horizontal scrolling on" 800 66)
-        -- touchpad toggle is already in place using the given 'touchpad toggle' key
-        --  , ((modm, xK_adiaeresis               ) , spawn "synclient TouchpadOff=0"
-                                                     --  >> displayStringLine "touchpad on" 500 66)
-        --  , ((modm .|. shiftMask, xK_adiaeresis ) , spawn "synclient TouchpadOff=1"
-                                                     --  >> displayStringLine "touchpad off" 500 66)
-        , ((modm, xK_adiaeresis               ), warpToWindow 0.5 0.5)
+        -- w is no longer used, keep this for reference
+        --  -- switch screens with mod-{e,r} instead of {w,e,r} (w is used already), shift-mod-{e,r} to move workspace to screen
+        --  , ((modm, xK_e                 ), screenWorkspace 0 >>= flip whenJust (windows . W.view))
+        --  , ((modm, xK_r                 ), screenWorkspace 1 >>= flip whenJust (windows . W.view))
+        --  , ((modm .|. shiftMask, xK_e   ), screenWorkspace 0 >>= flip whenJust (windows . W.shift))
+        --  , ((modm .|. shiftMask, xK_r   ), screenWorkspace 1 >>= flip whenJust (windows . W.shift))
+        --  -- mod-{w,e,r} %! Switch to physical/Xinerama screens 1, 2, or 3
+        --  -- mod-shift-{w,e,r} %! Move client to screen 1, 2, or 3
+        --  --  [((m .|. modMask, key), screenWorkspace sc >>= flip whenJust (windows . f))
+        --  --     | (key, sc) <- zip [xK_w, xK_e, xK_r] [0..]
+        --  --     , (f, m) <- [(W.view, 0), (W.shift, shiftMask)]]
+        ]
+cursorKeys =
+        [
+          ((modm, xK_adiaeresis               ), warpToWindow 0.5 0.5)
         , ((modm .|. shiftMask, xK_adiaeresis ), banish UpperLeft)
-
-         -------- used in subtabbed layout --------
+        ]
+subtabbedKeys =
+        [
          -- don't yet know what these do:
-        , ((modm .|. controlMask .|. shiftMask , xK_h), sendMessage $ pullGroup L)
+          ((modm .|. controlMask .|. shiftMask , xK_h), sendMessage $ pullGroup L)
         , ((modm .|. controlMask .|. shiftMask , xK_l), sendMessage $ pullGroup R)
         , ((modm .|. controlMask .|. shiftMask , xK_k), sendMessage $ pullGroup U)
         , ((modm .|. controlMask .|. shiftMask , xK_j), sendMessage $ pullGroup D)
@@ -210,13 +238,15 @@ additionalKeyMaps =
         -- switch windows outside group
         , ((modm, xK_k), B.focusUp)
         , ((modm, xK_j), B.focusDown)
-
-        , ((modm, xK_c), commands >>= runCommand)
-
-        , ((modm .|. shiftMask, xK_o), windowMenu)
-
+        ]
+capslockToggleKeys =
+        [ ((modm, xK_Escape), spawn "xdotool key Caps_Lock")
+        , ((modm, xK_Caps_Lock), spawn "xdotool key Caps_lock")
+        ]
+moveWinKeys =
+        [
         -- move floating windows around
-        , ((modm, xK_n), withFocused (keysMoveWindow (-20, 0)))
+          ((modm, xK_n), withFocused (keysMoveWindow (-20, 0)))
         , ((modm, xK_m), withFocused (keysMoveWindow (20, 0)))
         , ((modm .|. shiftMask, xK_n), withFocused (keysMoveWindow (0, -20)))
         , ((modm .|. shiftMask, xK_m), withFocused (keysMoveWindow (0, 20)))
@@ -226,16 +256,58 @@ additionalKeyMaps =
         , ((modm .|. controlMask .|. shiftMask, xK_n), withFocused (keysResizeWindow (0, -30) (0.5, 0.5)))
         , ((modm .|. controlMask .|. shiftMask, xK_m), withFocused (keysResizeWindow (0, 30) (0.5, 0.5)))
 
+        ]
+utilsKeys =
+        [
+
+          ((modm, xK_c), commands >>= runCommand)
+
+        , ((modm .|. shiftMask, xK_o), windowMenu)
+
         -- restart xcompmgr
         , ((modm, xK_F5), spawn "killall xcompmgr; sleep 1; xcompmgr -D 5 -cCfF &")
 
         -- show cursor position
         , ((modm, xK_udiaeresis), spawn "find-cursor -s 200 -l 2 -p 800 -c green")
         ]
+
+additionalKeyMaps :: [((ButtonMask, KeySym), X ())]
+additionalKeyMaps =
+        --  layoutKeys
+        --  ++
+        -- enables audio keys
+        audioKeys
+        ++
+        -- display brightness and other function keys
+        brightnessKeys
+        ++
+        -- touchpad toggle
+        touchKeys
+        --  , ((modm .|. shiftMask, xK_0), windows $ W.shift "xmonad:0")
+        ++
+        -- screenshots
+        screenshotKeys
+        ++
+        miscKeys
+        ++
+        -- move around workspaces
+        workspaceMoveKeys
+        ++
+        cursorKeys
+        ++
+         -------- used in subtabbed layout --------
+        subtabbedKeys
+        ++
+        moveWinKeys
+        ++
+        utilsKeys
         ++
         -- use 'toggle' instead of going to a workspace using modm + number of workspace, add workspace 0
         --  [ ((modm, k), toggleOrView t) | (k, t) <- zip ([xK_1..xK_9] ++ [xK_0]) myTopics ]
-        [ ((modm, k), toggleOrView t) | (k, t) <- zip ([xK_1..xK_7]) myTopics ]
+        [ ((modm, k), toggleOrView t) | (k, t) <- zip [xK_1..xK_7] myTopics ]
+        ++
+        -- caps lock using mod+(escape/capslock)
+        capslockToggleKeys
 
 ------------------------------ dzen utils --------------------------------------
 
@@ -314,7 +386,13 @@ myStartupHook = do
                 spawn "touchegg"
                     --  spawn "skype"
                 spawn "xcompmgr -D 5 -cCfF"
-                spawn "nm-applet"
+                spawn $ unlines [ "if pgrep 'nm-applet' >/dev/null"
+                                , "then"
+                                ,     "echo ''"
+                                , "else"
+                                ,     "nm-applet"
+                                , "fi"
+                                ]
                 spawn "dropbox start -i"
                 spawn "mail-notification"
 
@@ -507,6 +585,7 @@ muxPrompt c = do
                         , "galois"
                         , "telegram"
                         , "mutt"
+                        , "master"
                         ]
         P.mkXPrompt Mux c (getMuxCompletion templates) spawnMuxShell
 

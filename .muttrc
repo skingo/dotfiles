@@ -4,7 +4,7 @@ set my_tmpsecret  = `gpg --recipient Ingo -o ~/.secret/.tmp -d ~/.secret/.passwd
 set my_pass_gmail = `awk '/GMail:/ {print $2}' ~/.secret/.tmp`
 set my_pass_kt    = `awk '/Kigerteks:/ {print $2}' ~/.secret/.tmp`
 set my_pass_uni   = `awk '/Uni:/ {print $2}' ~/.secret/.tmp`
-set my_pass_uni2  = `awk '/Uni2:/ {print $2}' ~/.secret/.tmp`
+#set my_pass_uni2  = `awk '/Uni2:/ {print $2}' ~/.secret/.tmp`
 set my_del        = `rm -f ~/.secret/.tmp`
 
 set my_muttdir    = "/home/skinge/.mutt"
@@ -22,15 +22,16 @@ account-hook . 'unset imap_user imap_pass' # unset first!
 account-hook ingo.skupin@imap.gmail.com 'set imap_user="ingo.skupin@gmail.com" imap_pass=$my_pass_gmail'
 account-hook kigerteks@imap.gmail.com 'set imap_user="kigerteks@gmail.com" imap_pass=$my_pass_kt'
 account-hook zxmxu55.mail.uni-tuebingen.de 'set imap_user="ingo.skupin@student.uni-tuebingen.de" imap_pass=$my_pass_uni'
-account-hook mailserv.uni-tuebingen.de 'set imap_user="ingo.skupin@uni-tuebingen.de" imap_pass=$my_pass_uni2'
+#account-hook mailserv.uni-tuebingen.de 'set imap_user="ingo.skupin@uni-tuebingen.de" imap_pass=$my_pass_uni2'
 #account-hook '^gmail$' 'set imap_user="ingo.skupin@gmail.com" imap_pass=$my_pass_gmail'
 
 folder-hook ingo.skupin@imap.gmail.com 'source $my_muttdir/accounts/gmail'
 folder-hook zxmxu55.mail.uni-tuebingen.de 'source $my_muttdir/accounts/uni'
 folder-hook kigerteks@imap.gmail.com 'source $my_muttdir/accounts/kigerteks'
-folder-hook iifsk01@mailserv.uni-tuebingen.de 'source $my_muttdir/accounts/uni2'
+#folder-hook iifsk01@mailserv.uni-tuebingen.de 'source $my_muttdir/accounts/uni2'
 #set folder      = gmail
 #folder-hook '^gmail$' 'source $my_muttdir/accounts/gmail2'
+#folder-hook . <collapse-all>
 
 source $my_muttdir/aliases
 
@@ -58,6 +59,14 @@ set mail_check=60
 unset imap_passive
 set mbox_type=Maildir
 set mailcap_path="/home/skinge/.mutt/mailcap"
+# sort threads using last mail in thread
+set sort=reverse-threads
+set sort_aux=last-date
+# attach whole mail when forwarding (i.e. include attachments)
+set mime_forward=ask-yes
+
+# clean up tmp files generated using current mailcap...
+folder-hook . `rm -f /tmp/mutt/*`
 
 # Don't press key after we're done with external program
 set wait_key = no
@@ -73,9 +82,9 @@ mailboxes "imaps://zxmxu55@zxmxu55.mail.uni-tuebingen.de:993/Mail/sent"
 mailboxes "imaps://kigerteks@imap.gmail.com:993/[Gmail]/Gesendet"
 mailboxes "imaps://kigerteks@imap.gmail.com:993/[Gmail]/Entwürfe"
 mailboxes "imaps://kigerteks@imap.gmail.com:993/INBOX"
-mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/Mail/sent"
-mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/Mail/drafts"
-mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/INBOX"
+#mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/Mail/sent"
+#mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/Mail/drafts"
+#mailboxes "imaps://iifsk01@mailserv.uni-tuebingen.de:993/INBOX"
 #set folder      = "imaps://ingo.skupin@imap.gmail.com:993/"
 #mailboxes "+INBOX" "+[Google Mail]/Drafts" "+[Google Mail]/Sent Mail"
 #set folder      = "imaps://zxmxu55@zxmxu55.mail.uni-tuebingen.de:993/"
@@ -92,7 +101,7 @@ mailboxes /var/mail/skinge
 #source $my_muttdir/accounts/gmail
 #source $my_muttdir/accounts/uni
 
-set index_format = "%4C %Z %{%d.%b %Y, %H:%M} %-15.15L (%?l?%4l&%4c?) %s"
+set index_format = "%4C %M %Z %{%d.%b %Y, %H:%M} %-15.15L (%?l?%4l&%4c?) %s"
 set date_format  = "!%a, %d.%b, %Y at %H:%M:%S %Z"
 
 # display html mails correctly
@@ -115,6 +124,12 @@ bind   index,pager   N        search-opposite
 bind   pager         gg       top
 bind   pager         G        bottom
 
+bind   pager         i        exit
+
+bind   index,pager   \Co      sidebar-open
+bind   index,pager   \Cn      sidebar-next
+bind   index,pager   \Cp      sidebar-prev
+
 # follow links in emails
 macro index,pager <esc>f "<enter-command>set my_pipe_decode=$pipe_decode pipe_decode<enter><pipe-message>urlview<enter><enter-command>set pipe_decode=$my_pipe_decode<enter>" "Follow links with urlview"
 macro attach,compose <esc>f "<pipe-entry> urlview<Enter>" "Follow links with urlview"
@@ -125,11 +140,11 @@ macro attach,compose <esc>f "<pipe-entry> urlview<Enter>" "Follow links with url
 macro index <esc>1 '<sync-mailbox><enter-command>source $my_muttdir/accounts/gmail<enter><change-folder>!<enter>' "switch to gmail"
 macro index <esc>2 '<sync-mailbox><enter-command>source $my_muttdir/accounts/uni<enter><change-folder>!<enter>' "switch to uni"
 macro index <esc>3 '<sync-mailbox><enter-command>source $my_muttdir/accounts/kigerteks<enter><change-folder>!<enter>' "switch to kigerteks"
-macro index <esc>4 '<sync-mailbox><enter-command>source $my_muttdir/accounts/uni2<enter><change-folder>!<enter>' "switch to uni2"
-macro browser <esc>1 '6<enter><enter>' "switch to gmail"
-macro browser <esc>2 '10<enter><enter>' "switch to uni"
-macro browser <esc>3 '9<enter><enter>' "switch to kigerteks"
-macro browser <esc>4 '1<enter><enter>' "switch to uni2"
+#macro index <esc>4 '<sync-mailbox><enter-command>source $my_muttdir/accounts/uni2<enter><change-folder>!<enter>' "switch to uni2"
+macro browser <esc>1 '3<enter><enter>' "switch to gmail"
+macro browser <esc>2 '7<enter><enter>' "switch to uni"
+macro browser <esc>3 '6<enter><enter>' "switch to kigerteks"
+#macro browser <esc>4 '1<enter><enter>' "switch to uni2"
 
 bind browser <esc>c check-new
 
@@ -152,10 +167,13 @@ mono    body            bold                    "^gpg: Bad signature from.*"
 
 #color   header          color229        default "^Subject: "
 
-
 color   index           white           default  .*
-color   index           white           red     "(Rainer|Sabine) Pfister|Pfister,( Stefan|Martina)|Lukas Fischer|[sS]ebert"
+color   index           white           red     "(Rainer|Sabine) Pfister|Pfister,( Stefan|Martina)|Lukas Fischer|[sS]ebert|Daniel Metzger"
 color   index           brightgreen     blue    "Musikverein"
-color   index           magenta         white   "Andreas Krebs|Paperman|Schoener|lange@informatik"
-color   index           white           magenta "Merle Deutschmann"
+color   index           magenta         white   "Andreas Krebs|Paperman|Sch(oe|ö)ner|lange@informatik|Demen"
+color   index           white           magenta "Merle Deutschmann|Kaktus Stachel"
 color   status          white           red
+
+# must be last to work
+color   index           blue            default "~v!(~(~O|~N))"
+color   index           red             default "~v~(~O|~N)"

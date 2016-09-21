@@ -2,6 +2,11 @@
 " numbers displayed in tab bar
 set tabnumbers
 
+" disable navigation bar on top
+set gui=nonavigation
+
+set editor="gnome-terminal --disable-factory -x vim"
+
 " faster scrolling
 noremap j 5j
 noremap k 5k
@@ -31,12 +36,18 @@ cnoremap <C-H> <Left>
 cnoremap <C-L> <Right>
 cnoremap <C-J> <Down>
 cnoremap <C-K> <Up>
+cabbrev wcwd window.content.window.document
+cabbrev wcwa window.content.window.alert
 
 " the same goes for insert mode
 inoremap <C-H> <Left>
 inoremap <C-L> <Right>
 inoremap <C-J> <Down>
 inoremap <C-K> <Up>
+
+source ~/.vimperator/newtabright.vimperator
+source ~/.vimperator/grab_and_drag_toggle.vimperator
+
 
 
 

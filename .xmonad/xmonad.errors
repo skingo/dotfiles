@@ -1,0 +1,25 @@
+
+xmonad.hs:205:56: Warning:
+    In the use of ‘defaultGSConfig’
+    (imported from XMonad.Actions.GridSelect):
+    Deprecated: "Use def (from Data.Default, and re-exported from XMonad.Actions.GridSelect) instead."
+
+xmonad.hs:377:18: Warning:
+    In the use of ‘defaultConfig’
+    (imported from XMonad, but defined in XMonad.Config):
+    Deprecated: "Use def (from Data.Default, and re-exported by XMonad and XMonad.Config) instead."
+
+xmonad.hs:609:17: Warning:
+    In the use of ‘defaultTopicConfig’
+    (imported from XMonad.Actions.TopicSpace):
+    Deprecated: "Use def (from Data.Default, and re-exported by XMonad.Actions.TopicSpace) instead."
+
+xmonad.hs:642:25: Warning:
+    In the use of ‘defaultGSConfig’
+    (imported from XMonad.Actions.GridSelect):
+    Deprecated: "Use def (from Data.Default, and re-exported from XMonad.Actions.GridSelect) instead."
+
+xmonad.hs:653:19: Warning:
+    In the use of ‘defaultConfig’
+    (imported from XMonad, but defined in XMonad.Config):
+    Deprecated: "Use def (from Data.Default, and re-exported by XMonad and XMonad.Config) instead."

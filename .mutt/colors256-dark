@@ -15,7 +15,7 @@ color markers      color138     default
 #mono underline     reverse
 #color underline    color48  color191
 
-color quoted        color107     default             # quoted text
+color quoted        color100     default             # quoted text
 color quoted1       color66      default
 color quoted2       color32      default
 color quoted3       color30      default

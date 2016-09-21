@@ -1,6 +1,7 @@
 " used for complection with neco-ghc
 let g:haskellmode_completion_ghc=0
 setlocal omnifunc=necoghc#omnifunc
+let g:ycm_semantic_triggers = {'haskell' : ['.']}
 
 
 " used to set up haskellmode

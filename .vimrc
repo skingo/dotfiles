@@ -7,7 +7,9 @@ nnoremap <C-Q> ,
 
 let g:agda_extraincpaths = ["/home/skinge/Downloads/agda-stdlib-0.10/src/"]
 
+let g:ycm_semantic_triggers = {'haskell' : ['.']}
 " testing stuff for SE -------{{{
+"autocmd VimEnter * if !argc() && bufnr('$') == 1 && line('$') == 1 && getline(1) == '' | NERDTree | se nu  | se rnu | endif
 "" --------- get project head in specific project setup
 "function! Foo()
   "if expand("%:p:h:t") == "tex"
@@ -59,15 +61,18 @@ function! CmdOutput(cmd,bang,line1,line2)
     if (a:line1 != "")
         let l:command= join([a:line1 , "," , a:line2 , l:command], "")
     endif
+    let l:oldMore=&more
+    set nomore
     redir =>> l:output
     execute l:command
     redir END
+    let &more=l:oldMore
     execute "Scratch" . a:bang
     call append(line("."), split(l:output, "\n"))
 endfunction
 
-command! -nargs=+ -bang -range CmdOutputRanged call CmdOutput("<args>","<bang>","<line1>","<line2>")
-command! -nargs=+ -bang CmdOutput call CmdOutput("<args>","<bang>","","")
+command! -nargs=+ -complete=command -bang -range CmdOutputRanged call CmdOutput("<args>","<bang>","<line1>","<line2>")
+command! -nargs=+ -complete=command -bang CmdOutput call CmdOutput("<args>","<bang>","","")
 " }}}
 
 " avoid function key problems when using tmux -----------{{{
@@ -89,50 +94,52 @@ if !exists("g:colors_set")
   " enable pathogen
   runtime bundle/vim-pathogen/autoload/pathogen.vim
   execute pathogen#infect()
-  " remove annoying :Vsplit (defined in pathogen.vim)
-  command! -nargs=? -complete=file Vsplit execute "vsplit <args>"
-
-  filetype indent on
-  syntax enable
-  " opens new split on right/bottom instead of left/top
-  set splitbelow
-  set splitright
-  set nocompatible " no vi compatibility
-  " search treats capital letters as capital, small case as either small or capital
-  set ignorecase
-  set smartcase
-  set smarttab
-  set expandtab
-  set mouse=nvi "mouse active in normal, visual and insert-mode, alternative: a for 'all'
-  set number "line numbering
-  set ruler "show position
-  set display=lastline
-  set scrolloff=2 "scroll when reaching 2 lines before end
-  set sidescrolloff=5
-  set foldmethod=syntax
-  " folds are displayed on margin of width 'foldcolumn'
-  set foldcolumn=4
-  "set nofoldenable "deactivate folding on startup
-  set cmdheight=2 "set height of cmd line to 2
-  set cursorline "show cursor position
-  set cursorcolumn "set highlighting of cursor column
-  set hlsearch "highlight matches of search
-  set incsearch "search incrementally while typing
-  set backspace=indent,eol,start "mightier backspace
-  set laststatus=2 "always show statusline
-  set showmatch "hightlight matching parens
-  set matchtime=2 "flash for 2 tenths of a second
-  set tabstop=4
-  set showcmd
-  set background=dark
-  set wildmenu
-  set fileformats+=mac
-  set history=1000
-  set shiftwidth=4 " sets width for shifting with << or >>
-  "and change highlight color
-  "highlight CursorColumn ctermbg=Green
-  set breakindent " indented lines are wrapped wrt their indentation
 endif
+
+" remove annoying :Vsplit (defined in pathogen.vim)
+command! -nargs=? -complete=file Vsplit execute "vsplit <args>"
+filetype indent on
+syntax enable
+" opens new split on right/bottom instead of left/top
+set splitbelow
+set splitright
+set nocompatible " no vi compatibility
+" search treats capital letters as capital, small case as either small or capital
+set ignorecase
+set smartcase
+set smarttab
+set expandtab
+" set mouse=nvi "mouse active in normal, visual and insert-mode, alternative: a for 'all'
+set mouse=nv "mouse active in normal, visual and insert-mode, alternative: a for 'all'
+set number "line numbering
+set ruler "show position
+set display=lastline
+set scrolloff=2 "scroll when reaching 2 lines before end
+set sidescrolloff=5
+set foldmethod=syntax
+" folds are displayed on margin of width 'foldcolumn'
+set foldcolumn=4
+"set nofoldenable "deactivate folding on startup
+set cmdheight=2 "set height of cmd line to 2
+set cursorline "show cursor position
+set cursorcolumn "set highlighting of cursor column
+set hlsearch "highlight matches of search
+set incsearch "search incrementally while typing
+set backspace=indent,eol,start "mightier backspace
+set laststatus=2 "always show statusline
+set showmatch "hightlight matching parens
+set matchtime=2 "flash for 2 tenths of a second
+set tabstop=4
+set showcmd
+set background=dark
+set wildmenu
+set wildmode=longest:full,full
+set fileformats+=mac
+set history=1000
+set shiftwidth=4 " sets width for shifting with << or >>
+"and change highlight color
+"highlight CursorColumn ctermbg=Green
+set breakindent " indented lines are wrapped wrt their indentation
 " }}}
 
 " git ------------------{{{
@@ -156,6 +163,8 @@ let g:airline_powerline_fonts=1
 "let g:airline_left_sep = ''
 "let g:airline_left_sep='▶'
 "let g:airline_right_sep='◀'
+let s:oldairline_x="%{airline#util#prepend(airline#extensions#tagbar#currenttag(),0)}%{airline#util#wrap(airline#parts#filetype(),0)}"
+let g:airline_section_x=join([s:oldairline_x, "%{fnamemodify(&shell, \":t\")}"], " ")
 "" }}}
 
 "" NerdCommenter customization ----------{{{
@@ -263,7 +272,24 @@ onoremap il] :<c-u>normal! F]vi[<cr>
 " moved to ~/.vim/plugin/grep-operator.vim with additional functionality
 "nnoremap <leader>g :silent execute "grep! -R " . shellescape(expand("<cWORD>")) . " ."<cr>:copen<cr>:redraw!<CR>
 
+" allows combination of cmds based on current cmd
+cnoremap <expr> <CR> <SID>InteractiveCmd()
+function! s:InteractiveCmd()
+  if getcmdtype() == ":"
+    let cmdline = getcmdline()
+    if     cmdline =~ '\C^ls' | return "\<CR>:b "
+    elseif cmdline =~ '^g.*/#$' | return "\<CR>:"
+    else | return "\<CR>"
+    endif
+  else | return "\<CR>"
+  endif
+endfunction
+
+command! CdToCurFile execute "cd " . expand("%:p:h")
+
 set nrformats-=octal
+
+set shiftround
 
 " change visual mode to not include EOL (default is 'inclusive')
 set selection=old
@@ -291,8 +317,8 @@ let g:bufferline_echo=0
 set wildignore=*.o,*.pdf,*.exe,*.png
 
 " make minibufexpl appear on top instead of bottom (bottom is induced by splitbelow option)
-let g:miniBufExplBRSplit=0
-nnoremap <F8> :MBEToggle<CR>:MBEFocus<CR>
+"let g:miniBufExplBRSplit=0
+"nnoremap <F8> :MBEToggle<CR>:MBEFocus<CR>
 
 "nnoremap <Leader>vv :!clear<CR>
 " redraw screen
@@ -473,26 +499,26 @@ let g:WebDevIconsUnicodeDecorateFileNodesExtensionSymbols['tex']=''
 
 " adapt vim-detach to fish ---{{{
 function! s:GGpush(bang, args)
-    let shelltmp=&shell
+    let l:shelltmp=&shell
     set shell=/bin/bash
     execute "Gpush" . a:bang . " " . a:args
-    execute "set shell=" . &shell
+    execute "set shell=" . l:shelltmp
 endfunction
 command! -bang -nargs=* GGpush call s:GGpush("<bang>", "<args>")
 
 function! s:CCopen(bang, args)
-    let shelltmp=&shell
+    let l:shelltmp=&shell
     set shell=/bin/bash
     execute "Copen" . a:bang . " " . a:args
-    execute "set shell=" . &shell
+    execute "set shell=" . l:shelltmp
 endfunction
 command! -bang -nargs=* CCopen call s:CCopen("<bang>", "<args>")
 
 function! s:MMake(bang, args)
-    let shelltmp=&shell
+    let l:shelltmp=&shell
     set shell=/bin/bash
     execute "Make" . a:bang . " " . a:args
-    execute "set shell=" . &shell
+    execute "set shell=" . l:shelltmp
 endfunction
 command! -bang -nargs=* -complete=custom,s:MMake_complete MMake call s:MMake("<bang>", "<args>")
 
@@ -507,34 +533,34 @@ function! s:MMake_complete(ArgLead, CmdLine, CurserPos)
 endfunction
 
 function! s:DDispatch(bang, args)
-    let shelltmp=&shell
+    let l:shelltmp=&shell
     set shell=/bin/bash
     execute "Dispatch" . a:bang . " " . a:args
-    execute "set shell=" . &shell
+    execute "set shell=" . l:shelltmp
 endfunction
 command! -bang -nargs=* DDispatch call s:DDispatch("<bang>", "<args>")
 
 function! s:FFocusDispatch(bang, args)
-    let shelltmp=&shell
+    let l:shelltmp=&shell
     set shell=/bin/bash
     execute "FocusDispatch" . a:bang . " " . a:args
-    execute "set shell=" . &shell
+    execute "set shell=" . l:shelltmp
 endfunction
 command! -bang -nargs=* FFocusDispatch call s:FFocusDispatch("<bang>", "<args>")
 
 function! s:SStart(bang, args)
-    let shelltmp=&shell
+    let l:shelltmp=&shell
     set shell=/bin/bash
     execute "Start" . a:bang . " " . a:args
-    execute "set shell=" . &shell
+    execute "set shell=" . l:shelltmp
 endfunction
 command! -bang -nargs=* SStart call s:SStart("<bang>", "<args>")
 
 function! s:SSpawn(bang, args)
-    let shelltmp=&shell
+    let l:shelltmp=&shell
     set shell=/bin/bash
     execute "Spawn" . a:bang . " " . a:args
-    execute "set shell=" . &shell
+    execute "set shell=" . l:shelltmp
 endfunction
 command! -bang -nargs=* SSpawn call s:SSpawn("<bang>", "<args>")
 "}}}
@@ -643,179 +669,179 @@ let g:tex_flavor='latex'
 
 " }}}
 
-"================NeoComplCache===============================================
-"" NeoComplete ---------------------{{{
-"Note: This option must set it in .vimrc(_vimrc).  NOT IN .gvimrc(_gvimrc)!
-" Disable AutoComplPop.
-let g:acp_enableAtStartup = 0
-" Use neocomplete.
-let g:neocomplete#enable_at_startup = 1
-" Use smartcase.
-let g:neocomplete#enable_smart_case = 1
-" Set minimum syntax keyword length.
-let g:neocomplete#sources#syntax#min_keyword_length = 3
-let g:neocomplete#lock_buffer_name_pattern = '\*ku\*'
-
-" Define dictionary.
-let g:neocomplete#sources#dictionary#dictionaries = {
-    \ 'default' : '',
-    \ 'vimshell' : $HOME.'/.vimshell_hist',
-    \ 'scheme' : $HOME.'/.gosh_completions'
-        \ }
-
-" Define keyword.
-if !exists('g:neocomplete#keyword_patterns')
-    let g:neocomplete#keyword_patterns = {}
-endif
-let g:neocomplete#keyword_patterns['default'] = '\h\w*'
-
-" Plugin key-mappings.
-inoremap <expr><C-g>     neocomplete#undo_completion()
-inoremap <expr><C-l>     neocomplete#complete_common_string()
-
-" Recommended key-mappings.
-" <CR>: close popup and save indent.
-inoremap <silent> <CR> <C-r>=<SID>my_cr_function()<CR>
-function! s:my_cr_function()
-  return (pumvisible() ? "\<C-y>" : "" ) . "\<CR>"
-  " For no inserting <CR> key.
-  "return pumvisible() ? "\<C-y>" : "\<CR>"
-endfunction
-" <TAB>: completion.
-inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
-" <C-h>, <BS>: close popup and delete backword char.
-inoremap <expr><C-h> neocomplete#smart_close_popup()."\<C-h>"
-inoremap <expr><BS> neocomplete#smart_close_popup()."\<C-h>"
-" Close popup by <Space>.
-"inoremap <expr><Space> pumvisible() ? "\<C-y>" : "\<Space>"
-
-" AutoComplPop like behavior.
-"let g:neocomplete#enable_auto_select = 1
-
-" Shell like behavior(not recommended).
-"set completeopt+=longest
-"let g:neocomplete#enable_auto_select = 1
-"let g:neocomplete#disable_auto_complete = 1
-"inoremap <expr><TAB>  pumvisible() ? "\<Down>" : "\<C-x>\<C-u>"
-
-" Enable omni completion.
-autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
-autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
-autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
-autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
-autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
-
-" Enable heavy omni completion.
-if !exists('g:neocomplete#sources#omni#input_patterns')
-  let g:neocomplete#sources#omni#input_patterns = {}
-endif
-"let g:neocomplete#sources#omni#input_patterns.php = '[^. \t]->\h\w*\|\h\w*::'
-"let g:neocomplete#sources#omni#input_patterns.c = '[^.[:digit:] *\t]\%(\.\|->\)'
-"let g:neocomplete#sources#omni#input_patterns.cpp = '[^.[:digit:] *\t]\%(\.\|->\)\|\h\w*::'
-
-" For perlomni.vim setting.
-" https://github.com/c9s/perlomni.vim
-let g:neocomplete#sources#omni#input_patterns.perl = '\h\w*->\h\w*\|\h\w*::'
-" }}}
-
-"" NeoComplCache ---------------------{{{
+""================NeoComplCache===============================================
+""" NeoComplete ---------------------{{{
 ""Note: This option must set it in .vimrc(_vimrc).  NOT IN .gvimrc(_gvimrc)!
-""" Disable AutoComplPop.
+"" Disable AutoComplPop.
 "let g:acp_enableAtStartup = 0
-"" Use neocomplcache.
-"let g:neocomplcache_enable_at_startup = 1
+"" Use neocomplete.
+"let g:neocomplete#enable_at_startup = 1
 "" Use smartcase.
-"let g:neocomplcache_enable_smart_case = 1
+"let g:neocomplete#enable_smart_case = 1
 "" Set minimum syntax keyword length.
-"let g:neocomplcache_min_syntax_length = 3
-"let g:neocomplcache_lock_buffer_name_pattern = '\*ku\*'
-
-"" Enable heavy features.
-"" Use camel case completion.
-""let g:neocomplcache_enable_camel_case_completion = 1
-"" Use underbar completion.
-""let g:neocomplcache_enable_underbar_completion = 1
+"let g:neocomplete#sources#syntax#min_keyword_length = 3
+"let g:neocomplete#lock_buffer_name_pattern = '\*ku\*'
 
 "" Define dictionary.
-"let g:neocomplcache_dictionary_filetype_lists = {
-            "\ 'default' : '',
-            "\ 'vimshell' : $HOME.'/.vimshell_hist',
-            "\ 'scheme' : $HOME.'/.gosh_completions'
-            "\ }
+"let g:neocomplete#sources#dictionary#dictionaries = {
+    "\ 'default' : '',
+    "\ 'vimshell' : $HOME.'/.vimshell_hist',
+    "\ 'scheme' : $HOME.'/.gosh_completions'
+        "\ }
 
 "" Define keyword.
-"if !exists('g:neocomplcache_keyword_patterns')
-    "let g:neocomplcache_keyword_patterns = {}
+"if !exists('g:neocomplete#keyword_patterns')
+    "let g:neocomplete#keyword_patterns = {}
 "endif
-"let g:neocomplcache_keyword_patterns['default'] = '\h\w*'
+"let g:neocomplete#keyword_patterns['default'] = '\h\w*'
 
 "" Plugin key-mappings.
-"inoremap <expr><C-g> neocomplcache#undo_completion()
-"inoremap <expr><C-l> neocomplcache#complete_common_string()
+"inoremap <expr><C-g>     neocomplete#undo_completion()
+"inoremap <expr><C-l>     neocomplete#complete_common_string()
 
 "" Recommended key-mappings.
 "" <CR>: close popup and save indent.
 "inoremap <silent> <CR> <C-r>=<SID>my_cr_function()<CR>
 "function! s:my_cr_function()
-    "return neocomplcache#smart_close_popup() . "\<CR>"
-    "" For no inserting <CR> key.
-    ""return pumvisible() ?
-    "neocomplcache#close_popup() : "\<CR>"
+  "return (pumvisible() ? "\<C-y>" : "" ) . "\<CR>"
+  "" For no inserting <CR> key.
+  ""return pumvisible() ? "\<C-y>" : "\<CR>"
 "endfunction
 "" <TAB>: completion.
 "inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
 "" <C-h>, <BS>: close popup and delete backword char.
-"inoremap <expr><C-h> neocomplcache#smart_close_popup()."\<C-h>"
-"inoremap <expr><BS> neocomplcache#smart_close_popup()."\<C-h>"
-"inoremap <expr><C-y> neocomplcache#close_popup()
-"inoremap <expr><C-e> neocomplcache#cancel_popup()
+"inoremap <expr><C-h> neocomplete#smart_close_popup()."\<C-h>"
+"inoremap <expr><BS> neocomplete#smart_close_popup()."\<C-h>"
 "" Close popup by <Space>.
-""inoremap <expr><Space> pumvisible() ? neocomplcache#close_popup() : "\<Space>"
-
-"" For cursor moving in insert mode(Not recommended)
-""inoremap <expr><g> neocomplcache#close_popup() . "\<Left>"
-""inoremap <expr><Right> neocomplcache#close_popup() . "\<Right>"
-""inoremap <expr><Up> neocomplcache#close_popup() . "\<Up>"
-""inoremap <expr><Down> neocomplcache#close_popup() . "\<Down>"
-"" Or set this.
-""let g:neocomplcache_enable_cursor_hold_i = 1
-"" Or set this.
-""let g:neocomplcache_enable_insert_char_pre =
-"1
+""inoremap <expr><Space> pumvisible() ? "\<C-y>" : "\<Space>"
 
 "" AutoComplPop like behavior.
-""let g:neocomplcache_enable_auto_select = 1
+""let g:neocomplete#enable_auto_select = 1
 
 "" Shell like behavior(not recommended).
 ""set completeopt+=longest
-""let g:neocomplcache_enable_auto_select = 1
-""let g:neocomplcache_disable_auto_complete = 1
+""let g:neocomplete#enable_auto_select = 1
+""let g:neocomplete#disable_auto_complete = 1
 ""inoremap <expr><TAB>  pumvisible() ? "\<Down>" : "\<C-x>\<C-u>"
 
 "" Enable omni completion.
-"augroup neocompl
-    "autocmd!
-    "autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
-    "autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
-    "autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
-    "autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
-    "autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
-"augroup END
+"autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
+"autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
+"autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
+"autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
+"autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
 
 "" Enable heavy omni completion.
-"if !exists('g:neocomplcache_omni_patterns')
-    "let g:neocomplcache_omni_patterns = {}
+"if !exists('g:neocomplete#sources#omni#input_patterns')
+  "let g:neocomplete#sources#omni#input_patterns = {}
 "endif
-"let g:neocomplcache_omni_patterns.php = '[^.
-            "\t]->\h\w*\|\h\w*::'
-"let g:neocomplcache_omni_patterns.c = '[^.[:digit:] *\t]\%(\.\|->\)'
-"let g:neocomplcache_omni_patterns.cpp = '[^.[:digit:] *\t]\%(\.\|->\)\|\h\w*::'
+""let g:neocomplete#sources#omni#input_patterns.php = '[^. \t]->\h\w*\|\h\w*::'
+""let g:neocomplete#sources#omni#input_patterns.c = '[^.[:digit:] *\t]\%(\.\|->\)'
+""let g:neocomplete#sources#omni#input_patterns.cpp = '[^.[:digit:] *\t]\%(\.\|->\)\|\h\w*::'
 
 "" For perlomni.vim setting.
 "" https://github.com/c9s/perlomni.vim
-"let g:neocomplcache_omni_patterns.perl = '\h\w*->\h\w*\|\h\w*::'
-
+"let g:neocomplete#sources#omni#input_patterns.perl = '\h\w*->\h\w*\|\h\w*::'
 "" }}}
+
+""" NeoComplCache ---------------------{{{
+"""Note: This option must set it in .vimrc(_vimrc).  NOT IN .gvimrc(_gvimrc)!
+"""" Disable AutoComplPop.
+""let g:acp_enableAtStartup = 0
+""" Use neocomplcache.
+""let g:neocomplcache_enable_at_startup = 1
+""" Use smartcase.
+""let g:neocomplcache_enable_smart_case = 1
+""" Set minimum syntax keyword length.
+""let g:neocomplcache_min_syntax_length = 3
+""let g:neocomplcache_lock_buffer_name_pattern = '\*ku\*'
+
+""" Enable heavy features.
+""" Use camel case completion.
+"""let g:neocomplcache_enable_camel_case_completion = 1
+""" Use underbar completion.
+"""let g:neocomplcache_enable_underbar_completion = 1
+
+""" Define dictionary.
+""let g:neocomplcache_dictionary_filetype_lists = {
+            ""\ 'default' : '',
+            ""\ 'vimshell' : $HOME.'/.vimshell_hist',
+            ""\ 'scheme' : $HOME.'/.gosh_completions'
+            ""\ }
+
+""" Define keyword.
+""if !exists('g:neocomplcache_keyword_patterns')
+    ""let g:neocomplcache_keyword_patterns = {}
+""endif
+""let g:neocomplcache_keyword_patterns['default'] = '\h\w*'
+
+""" Plugin key-mappings.
+""inoremap <expr><C-g> neocomplcache#undo_completion()
+""inoremap <expr><C-l> neocomplcache#complete_common_string()
+
+""" Recommended key-mappings.
+""" <CR>: close popup and save indent.
+""inoremap <silent> <CR> <C-r>=<SID>my_cr_function()<CR>
+""function! s:my_cr_function()
+    ""return neocomplcache#smart_close_popup() . "\<CR>"
+    """ For no inserting <CR> key.
+    """return pumvisible() ?
+    ""neocomplcache#close_popup() : "\<CR>"
+""endfunction
+""" <TAB>: completion.
+""inoremap <expr><TAB>  pumvisible() ? "\<C-n>" : "\<TAB>"
+""" <C-h>, <BS>: close popup and delete backword char.
+""inoremap <expr><C-h> neocomplcache#smart_close_popup()."\<C-h>"
+""inoremap <expr><BS> neocomplcache#smart_close_popup()."\<C-h>"
+""inoremap <expr><C-y> neocomplcache#close_popup()
+""inoremap <expr><C-e> neocomplcache#cancel_popup()
+""" Close popup by <Space>.
+"""inoremap <expr><Space> pumvisible() ? neocomplcache#close_popup() : "\<Space>"
+
+""" For cursor moving in insert mode(Not recommended)
+"""inoremap <expr><g> neocomplcache#close_popup() . "\<Left>"
+"""inoremap <expr><Right> neocomplcache#close_popup() . "\<Right>"
+"""inoremap <expr><Up> neocomplcache#close_popup() . "\<Up>"
+"""inoremap <expr><Down> neocomplcache#close_popup() . "\<Down>"
+""" Or set this.
+"""let g:neocomplcache_enable_cursor_hold_i = 1
+""" Or set this.
+"""let g:neocomplcache_enable_insert_char_pre =
+""1
+
+""" AutoComplPop like behavior.
+"""let g:neocomplcache_enable_auto_select = 1
+
+""" Shell like behavior(not recommended).
+"""set completeopt+=longest
+"""let g:neocomplcache_enable_auto_select = 1
+"""let g:neocomplcache_disable_auto_complete = 1
+"""inoremap <expr><TAB>  pumvisible() ? "\<Down>" : "\<C-x>\<C-u>"
+
+""" Enable omni completion.
+""augroup neocompl
+    ""autocmd!
+    ""autocmd FileType css setlocal omnifunc=csscomplete#CompleteCSS
+    ""autocmd FileType html,markdown setlocal omnifunc=htmlcomplete#CompleteTags
+    ""autocmd FileType javascript setlocal omnifunc=javascriptcomplete#CompleteJS
+    ""autocmd FileType python setlocal omnifunc=pythoncomplete#Complete
+    ""autocmd FileType xml setlocal omnifunc=xmlcomplete#CompleteTags
+""augroup END
+
+""" Enable heavy omni completion.
+""if !exists('g:neocomplcache_omni_patterns')
+    ""let g:neocomplcache_omni_patterns = {}
+""endif
+""let g:neocomplcache_omni_patterns.php = '[^.
+            ""\t]->\h\w*\|\h\w*::'
+""let g:neocomplcache_omni_patterns.c = '[^.[:digit:] *\t]\%(\.\|->\)'
+""let g:neocomplcache_omni_patterns.cpp = '[^.[:digit:] *\t]\%(\.\|->\)\|\h\w*::'
+
+""" For perlomni.vim setting.
+""" https://github.com/c9s/perlomni.vim
+""let g:neocomplcache_omni_patterns.perl = '\h\w*->\h\w*\|\h\w*::'
+
+""" }}}
 
 ""============================================================================
 

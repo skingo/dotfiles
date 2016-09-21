@@ -6,8 +6,8 @@ set imap_user   = "iifsk01"
 set imap_pass   = '$my_pass_uni2'
 set folder      = "imaps://iifsk01@mailserv.uni-tuebingen.de:993/"
 set spoolfile   = "+INBOX"
-set postponed   = "+Mail/sent"
-set record      = "+Mail/drafts"
+set postponed   = "+Mail/drafts"
+set record      = "+Mail/sent"
 
 set smtp_pass    = $my_pass_uni2
 set smtp_url     = "smtp://iifsk01@smtpserv.uni-tuebingen.de:25"

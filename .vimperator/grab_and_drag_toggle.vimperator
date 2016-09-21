@@ -1,0 +1,9 @@
+
+command! -description "Toggle grab and drag extension" grabAndDragToggle :js gad_toggle();
+
+javascript <<EOF
+function gad_toggle(){
+    window.gadGrabAndDragExtension.gadToggle()
+}
+EOF
+

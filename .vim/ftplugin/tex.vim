@@ -9,7 +9,8 @@ set tabstop=2
 set iskeyword+=:,\
 
 " hightlight todos in tex code
-match ErrorMsg /\\todo/
+match ErrorMsg /\v\c(\\)?todo/
+2match pandocDefinitionTerm /\\todo\(\[[^]]*]\)\?{\zs[^}]*\ze}/
 
 " use K to access Tex documentations
 "set keywordprg=tex-keywordprg
@@ -17,10 +18,10 @@ set keywordprg=texdoc
 
 "let g:neocomplcache_keyword_patterns.tex='\\\a{\a\{1,2}}\|\\[[:alpha:]äöüÜÄÖß@][[:alnum:]äöüÜÄÖß@]*\%({\%([[:alnum:]äöüÜÄÖß:_]\+\*\?}\?\)\?\)\?\|\a[[:alnum:]äöüÜÄÖß:_]*\*\?'
 "let g:neocomplcache_keyword_patterns.tex='\\\a{\a\{1,2}}\|\\[[:alpha:]äöüÜÄÖß@][[:alnum:]äöüÜÄÖß@]*\%({\%([[:alnum:]äöüÜÄÖß:_]\+\*\?}\?\)\?\)\?\|[[:alpha:]äöüÜÖÄß][[:alnum:]äöüÜÄÖß:_]*\*\?'
-let g:neocomplete#keyword_patterns.tex='\\\a{\a\{1,2}}\|\\[[:alpha:]äöüÜÄÖß@][[:alnum:]äöüÜÄÖß@]*\%({\%([[:alnum:]äöüÜÄÖß:_]\+\*\?}\?\)\?\)\?\|[[:alpha:]äöüÜÖÄß][[:alnum:]äöüÜÄÖß:_]*\*\?'
+"let g:neocomplete#keyword_patterns.tex='\\\a{\a\{1,2}}\|\\[[:alpha:]äöüÜÄÖß@][[:alnum:]äöüÜÄÖß@]*\%({\%([[:alnum:]äöüÜÄÖß:_]\+\*\?}\?\)\?\)\?\|[[:alpha:]äöüÜÖÄß][[:alnum:]äöüÜÄÖß:_]*\*\?'
 
-" stop miniBufExpl from opening while editing
-let g:miniBufExplAutoStart=0
+"" stop miniBufExpl from opening while editing
+"let g:miniBufExplAutoStart=0
 
 "removes ] and } from indentkeys (set by "indent/tex.vim") to get rid of
 "annoying reindenting after using } or ]

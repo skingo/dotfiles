@@ -460,8 +460,18 @@ endfunction
 " the user wants to map some other key to jump forward, he can do for
 " instance:
 "   nmap ,f   <plug>IMAP_JumpForward
-nmap <C-F> <plug>IMAP_JumpForward
+nmap <C-G> <plug>IMAP_JumpForward
+imap <C-G> <plug>IMAP_JumpForward
 imap <C-F> <plug>IMAP_JumpForward
+if exists('g:Imap_StickyPlaceHolders') && g:Imap_StickyPlaceHolders
+	if !hasmapto('<Plug>IMAP_JumpForward', 'v')
+		vmap <C-G> <Plug>IMAP_JumpForward
+	endif
+else
+	if !hasmapto('<Plug>IMAP_DeleteAndJumpForward', 'v')
+		vmap <C-G> <Plug>IMAP_DeleteAndJumpForward
+	endif
+endif
 " etc.
 
 " jumping forward and back in insert mode.

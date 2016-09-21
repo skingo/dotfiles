@@ -1,0 +1,1 @@
+/home/skinge/Downloads/dev_stuff/fzf/plugin/fzf.vim

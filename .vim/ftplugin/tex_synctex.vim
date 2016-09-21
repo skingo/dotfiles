@@ -19,7 +19,7 @@ let g:Tex_CompileRule_pdf = 'pdflatex -synctex=1 -interaction=nonstopmode $*'
 let theuniqueserv = v:servername
 
 " Working!!!, when we run vim appropriately
-let g:Tex_ViewRuleComplete_pdf = 'zathura -x "vim --servername '.theuniqueserv.' --remote +\%{line} \%{input}" $*.pdf 2>/dev/null &'
+let g:Tex_ViewRuleComplete_pdf = 'zathura -x "vim --servername '.theuniqueserv.' --remote +\%{line} \%{input}" "$*".pdf 2>/dev/null &'
 "let g:Tex_ViewRuleComplete_pdf = 'zathura -x "vim --remote +\%{line} \%{input}" $*.pdf 2>/dev/null &'
 
 " I like my sums and limits to have placeholders

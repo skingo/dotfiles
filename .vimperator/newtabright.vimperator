@@ -1,0 +1,20 @@
+" Defines commands to open new tab to right of current tab
+
+" Example keybinding: xt
+nmap <silent> xt :newtabrightleft<SPACE>
+nmap <silent> xlt :newtabrightleft!<SPACE>
+
+command! newtabrightleft -bang -nargs=+ -complete url -description "Open new tab to right of current tab" :js newTabRightLeft("<args>","<bang>");
+
+javascript <<EOF
+function newTabRightLeft(args,bang) {
+    var origOrd = gBrowser.selectedTab._tPos;
+    var numTabs = tabs.count;
+    liberator.open(args, liberator.NEW_TAB)
+    var newTab = tabs.getTab();
+    if (bang == "!")
+        tabs.move(newTab, origOrd);
+    else
+        tabs.move(newTab, origOrd+1);
+}
+EOF

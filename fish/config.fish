@@ -28,6 +28,14 @@ set -x GNOME_DESKTOP_SESSION_ID 42
 # use dmenu to ask for sudo password (use sudo -A cmd)
 set -x SUDO_ASKPASS /home/skinge/.xmonad/dpass.sh
 
+# fzf setup
+# make fzf work
+#set TMPDIR /home/skinge/tmp
+# additional options for alt+c command
+set -x FZF_ALT_C_OPTS "--preview 'ls {}'"
+#set -x FZF_ALT_C_OPTS "--bind \"ctrl-o:execute(.; echo pushd {})\""
+#set -x FZF_ALT_C_OPTS $FZF_ALT_C_OPTS "--bind \"ctrl-o:execute(echo {})\""
+#set -x FZF_ALT_C_OPTS $FZF_ALT_C_OPTS "--bind 'ctrl-o:execute(ls . | less)'"
 
 # colorize man and less pager
 set -x LESS_TERMCAP_mb \e\[01\x3b31m; 
@@ -39,15 +47,17 @@ set -x LESS_TERMCAP_so \e\[38\x3b5\x3b46\x3b01m;
 set -x LESS_TERMCAP_ue \e\[0m; 
 set -x LESS_TERMCAP_us \e\[04\x3b38\x3b5\x3b146m 
 
-. /home/skinge/.config/fish/vi-mode.fish
+#fish_vi_mode
+fish_vi_key_bindings
+#. /home/skinge/.config/fish/vi-mode.fish
 
 # set additional colors for ls
 set -gx LS_COLORS (dircolors /home/skinge/.dir_colors | grep -v 'export' | cut -d"'" -f2)
 
 # use vi mode for fish
-function fish_user_key_bindings
-        vi_mode_insert
-end
+#function fish_user_key_bindings
+        #vi_mode_insert
+#end
 
 # start tmux session (-2 is used for color support for vim solarized (though it does not seem to help))
 #tmux

@@ -1,42 +1,64 @@
 - cmd: efiejf
-   when: 1425759560
-- cmd: bar
-   when: 1425759594
-   paths:
-    - bar
+  when: 1425759560
 - cmd: C
-   when: 1425761579
+  when: 1425761579
 - cmd: toprint
-   when: 1425761587
-- cmd: foo
-   when: 1425780372
-   paths:
-    - foo
-- cmd: baz
-   when: 1425780447
+  when: 1425761587
 - cmd: foobar
-   when: 1425780520
-   paths:
-    - foobar
-- cmd: baz
-   when: 1425780522
-- cmd: baz
-   when: 1425843080
-- cmd: foobar
-   when: 1425843095
-   paths:
+  when: 1425843095
+  paths:
     - foobar
 - cmd: fe
-   when: 1425843380
+  when: 1425843380
 - cmd: baaaar
-   when: 1425843395
+  when: 1425843395
 - cmd: ls
-   when: 1426515741
+  when: 1426515741
 - cmd: n
-   when: 1428602306
+  when: 1428602306
 - cmd: y
-   when: 1428602319
-- cmd: y
-   when: 1429316175
-- cmd: y
-   when: 1429316181
+  when: 1429316181
+- cmd: fo
+  when: 1466027958
+- cmd: foo
+  when: 1466028904
+  paths:
+    - foo
+- cmd: quux
+  when: 1466028907
+- cmd: bar
+  when: 1466028914
+  paths:
+    - bar
+- cmd: baz
+  when: 1466028928
+- cmd: b
+  when: 1466029520
+- cmd: 0
+  when: 1466029523
+- cmd: 3
+  when: 1466029524
+- cmd: 2
+  when: 1466029526
+- cmd: 1
+  when: 1466029529
+- cmd: a
+  when: 1466029612
+- cmd: 3
+  when: 1466029615
+- cmd: 1
+  when: 1466029616
+- cmd: 2
+  when: 1466029641
+- cmd: 1
+  when: 1466029694
+- cmd: 2
+  when: 1466030660
+- cmd: 1
+  when: 1466030688
+- cmd: 1
+  when: 1466030888
+- cmd: foo
+  when: 1466447165
+- cmd: 1
+  when: 1471525721
