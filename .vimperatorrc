@@ -47,6 +47,7 @@ inoremap <C-K> <Up>
 
 source ~/.vimperator/newtabright.vimperator
 source ~/.vimperator/grab_and_drag_toggle.vimperator
+source ~/.vimperator/appearance.css
 
 
 

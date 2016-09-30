@@ -498,6 +498,8 @@ let g:WebDevIconsUnicodeDecorateFileNodesExtensionSymbols['tex']=''
 "}}}
 
 " adapt vim-detach to fish ---{{{
+command! SshAdd call system("ssh-add")
+
 function! s:GGpush(bang, args)
     let l:shelltmp=&shell
     set shell=/bin/bash
