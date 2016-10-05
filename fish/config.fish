@@ -62,4 +62,7 @@ set -gx LS_COLORS (dircolors /home/skinge/.dir_colors | grep -v 'export' | cut -
 # start tmux session (-2 is used for color support for vim solarized (though it does not seem to help))
 #tmux
 # opens tmux and creates session 1 if it does not exists, else it copies session 1
-if begin; tmux has-session -t 1; end; tmux new-session -t 1; else; tmux new-session -s 1; end
+if set -q TMUX;
+else;
+	if begin; tmux has-session -t 1; end; tmux new-session -t 1; else; tmux new-session -s 1; end
+end;

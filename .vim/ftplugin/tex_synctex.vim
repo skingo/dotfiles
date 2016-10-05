@@ -31,8 +31,19 @@ let g:Tex_ViewRuleComplete_pdf = 'zathura -x "vim --servername '.theuniqueserv.'
 " Forward search
 " syntax for zathura: zathura --synctex-forward 193:1:paper.tex paper.pdf
 function! SyncTexForward()
-        let execstr = 'silent! !zathura --synctex-forward '.line('.').':1:"'.expand('%').'" "'.expand("%:p:h").'"/main.pdf 2>/dev/null'
-        execute execstr
+        if exists("g:tex_main_file")
+            "echom "exists:"
+            "echom g:tex_main_file
+        else
+            "echom "does not exist:"
+            "echom Tex_GetMainFileName()
+            let g:tex_main_file=fnamemodify(Tex_GetMainFileName(),":p:r").".pdf"
+        endif
+        "let execstr = 'silent! !zathura --synctex-forward '.line('.').':1:"'.expand('%').'" "'.expand("%:p:h").'"/main.pdf 2>/dev/null'
+        let execstr = 'silent! !zathura --synctex-forward '.line('.').':1:"'.expand('%').'" "'.g:tex_main_file.'" 2>/dev/null'
+        "echom execstr
+        silent! execute execstr
+        redraw!
 endfunction
 nmap <silent> <Leader>f :call SyncTexForward()<CR>:redraw!<CR>
 

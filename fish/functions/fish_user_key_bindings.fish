@@ -1,6 +1,7 @@
 
 #vi_mode_insert
-fish_vi_mode
+#fish_vi_mode
+fish_vi_key_bindings
 bind -M insert \cg end-of-line
 bind -M insert \ce end-of-line
 bind -M insert \cx beginning-of-line
