@@ -40,12 +40,22 @@ function! SyncTexForward()
             let g:tex_main_file=fnamemodify(Tex_GetMainFileName(),":p:r").".pdf"
         endif
         "let execstr = 'silent! !zathura --synctex-forward '.line('.').':1:"'.expand('%').'" "'.expand("%:p:h").'"/main.pdf 2>/dev/null'
-        let execstr = 'silent! !zathura --synctex-forward '.line('.').':1:"'.expand('%').'" "'.g:tex_main_file.'" 2>/dev/null'
-        "echom execstr
+        let execstr = 'silent! !zathura --synctex-forward '.line('.').':1:"'.expand('%').'" "'.g:tex_main_file.'" 2>/dev/null &'
+        "let execstr = 'zathura --synctex-forward '.line('.').':1:"'.expand('%').'" "'.g:tex_main_file.'" 2>/dev/null'
+        "if has("job")
+            "let g:sync_job = job_start(execstr)
+            "echom "started job"
+        "else
+            "let execstr = 'silent! !'.execstr
+            "silent! execute execstr
+            "redraw!
+        "endif
         silent! execute execstr
         redraw!
+        "echom execstr
 endfunction
-nmap <silent> <Leader>f :call SyncTexForward()<CR>:redraw!<CR>
+"nmap <silent> <Leader>f :call SyncTexForward()<CR>:redraw!<CR>
+nmap <silent> <Leader>f :call SyncTexForward()<CR>
 
 " To save and compile with one command \k (k=kompile) :)
 " no need to launch the pdf along with this because zathura can refresh
