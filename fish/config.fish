@@ -1,20 +1,7 @@
 set -x EDITOR vim
-set uni /home/skinge/uni
-set -x ws {$uni}/ws_14-15
-set -x ss {$uni}/ss_15
-set epc_v {$ws}/enterprise_computing_vl/
-set epc_p {$ws}/enterprise_computing_praktikum/enterprise-computing/
-set info3 {$ws}/info_3-tutorium/
-set leist {$ws}/leistungsbewertung/
-set top {$ws}/topologie/
-set param {$ws}/parametrisierte_algorithmen/parametrisierte_algorithmen/
-set kompl {$ws}/komplexitaetstheorie/komplexitaetstheorie_poster/
-set mpc {$ss}/massively_parallel_computing/
-set algeo {$ss}/algebraische_geometrie/
 
 set toprint {$HOME}/Desktop/toprint/
 
-set krypt {$ws}/kryptologie/
 set -x PYTHONSTARTUP ~/.pythonrc
 set -gx PATH {$HOME}/.cabal/bin {$HOME}/.local/bin $PATH
 #set -x TERM "screen-256color-bce"
