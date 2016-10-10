@@ -304,6 +304,8 @@ cnoremap <C-J> <Down>
 cnoremap <C-L> <Right>
 cnoremap <C-H> <Left>
 
+cnoremap <C-G> <C-A>
+
 " use Y to yank text of line instead of whole line
 "noremap Y ^y$
 noremap <expr> Y '^"'.v:register.v:count1.'y$'
