@@ -41,6 +41,10 @@ fish_vi_key_bindings
 # set additional colors for ls
 set -gx LS_COLORS (dircolors /home/skinge/.dir_colors | grep -v 'export' | cut -d"'" -f2)
 
+# prevent budspencer theme from staring in bookmark, thus ruining tmux
+# new-window etc shortcuts
+set -x LOGIN $USER
+
 # use vi mode for fish
 #function fish_user_key_bindings
         #vi_mode_insert
