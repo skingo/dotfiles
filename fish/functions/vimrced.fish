@@ -1,3 +1,3 @@
-function vimrced -d 'edit .vimrc file'
-	vim {$HOME}/.vimrc
+function vimrced --description 'edit .vimrc file'
+	vim {$HOME}/dotfiles/.vimrc
 end
