@@ -1,3 +1,3 @@
 function conf --description 'edit fish config file'
-	vim {$HOME}/dotfiles/fish/config.fish
+	vim (realpath {$HOME}/.config/fish/config.fish)
 end
