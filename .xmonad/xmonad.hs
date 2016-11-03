@@ -269,6 +269,16 @@ utilsKeys =
 
         -- show cursor position
         , ((modm, xK_udiaeresis), spawn "find-cursor -s 200 -l 2 -p 800 -c green")
+
+        -- lock screen
+        --  , ((modm, xK_plus), spawn "xdg-screensaver lock")
+        , ((modm, xK_plus), spawn "slock")
+
+        -- calendar
+        , ((modm, xK_numbersign), spawn "gsimplecal")
+
+        -- restart wifi
+        , ((modm .|. shiftMask, xK_F5), spawn "export SUDO_ASKPASS=/home/skinge/.xmonad/dpass.sh; sudo -A systemctl restart network-manager.service")
         ]
 
 additionalKeyMaps :: [((ButtonMask, KeySym), X ())]
