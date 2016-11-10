@@ -54,8 +54,13 @@ set -x LOGIN $USER
 #tmux
 # opens tmux and creates session 1 if it does not exists, else it copies session 1
 if tmux info >/dev/null ^&1
-	if not set -q TMUX
-		if begin; tmux has-session -t 1; end; tmux new-session -t 1; else; tmux new-session -s 1; end
+	if begin
+			not set -q TMUX
+			and status --is-login
+			and [ $TERM != "linux" ]
+		end
+		#if begin; tmux has-session -t 1; end; tmux new-session -t 1; else; tmux new-session -s 1; end
+		if begin; tmux has-session -t 1; end; tmux new-session else; tmux new-session -s 1; end
 	end
 else
 	tmux new-session -s 1;
