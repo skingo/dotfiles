@@ -389,12 +389,12 @@ nnoremap <C-S> <C-A>
 
 
 "highlight parentheses etc
-nnoremap <C-Y>9 m[va(:sleep 450m<CR>`[
-inoremap <C-Y>9 <Esc>m[va(:sleep 450m<CR>`[a
-nnoremap <C-Y>0 m[va{:sleep 450m<CR>`[
-inoremap <C-Y>0 <Esc>m[va{:sleep 450m<CR>`[a
-nnoremap <C-Y>[ m[va[:sleep 450m<CR>`[
-inoremap <C-Y>[ <Esc>m[va[:sleep 450m<CR>`[a
+"nnoremap <C-Y>9 m[va(:sleep 450m<CR>`[
+"inoremap <C-Y>9 <Esc>m[va(:sleep 450m<CR>`[a
+"nnoremap <C-Y>0 m[va{:sleep 450m<CR>`[
+"inoremap <C-Y>0 <Esc>m[va{:sleep 450m<CR>`[a
+"nnoremap <C-Y>[ m[va[:sleep 450m<CR>`[
+"inoremap <C-Y>[ <Esc>m[va[:sleep 450m<CR>`[a
 
 "make ![cmd] work (doesn't work with fish)
 "set shell=bash

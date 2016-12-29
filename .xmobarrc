@@ -2,8 +2,7 @@ Config { font = "-*-Fixed-Bold-R-Normal-*-13-*-*-*-*-*-*-*"
        , bgColor = "#0C0C38"
        , fgColor = "grey"
        , position = TopSize L 90 24
-       , commands = [ Run Weather "EDDS" ["-t"," <tempC>°C","-L","15","-H","28","--normal","green","--high","red","--low","lightblue"] 36000
-                    , Run Cpu ["-L","3","-H","50","--normal","green","--high","red"] 10
+       , commands = [ Run Cpu ["-L","3","-H","50","--normal","green","--high","red"] 10
                     , Run Memory ["-t","Mem: <usedratio>%"] 10
                     , Run Swap [] 10
                     , Run Date "%a,%_d.%b %H:%M:%S" "date" 10
@@ -26,5 +25,5 @@ Config { font = "-*-Fixed-Bold-R-Normal-*-13-*-*-*-*-*-*-*"
                     ]
        , sepChar = "%"
        , alignSep = "}{"
-       , template = "%StdinReader% }{%cpu% %memory% * %swap% | %battery% | %wlan0wi%  <fc=#8efa00>%myTouch%</fc>  <fc=#8efab0>%myVolume%</fc>  <fc=#ee9a00>%date%</fc> | %EDDS%"
+       , template = "%StdinReader% }{%cpu% %memory% * %swap% | %battery% | %wlan0wi%  <fc=#8efa00>%myTouch%</fc>  <fc=#8efab0>%myVolume%</fc>  <fc=#ee9a00>%date%</fc>"
        }
