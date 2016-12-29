@@ -273,12 +273,14 @@ utilsKeys =
         -- lock screen
         --  , ((modm, xK_plus), spawn "xdg-screensaver lock")
         , ((modm, xK_plus), spawn "slock")
+        , ((modm .|. shiftMask, xK_plus), spawn "sflock -f 10x20 -c '*'")
 
         -- calendar
         , ((modm, xK_numbersign), spawn "gsimplecal")
 
         -- restart wifi
         , ((modm .|. shiftMask, xK_F5), spawn "export SUDO_ASKPASS=/home/skinge/.xmonad/dpass.sh; sudo -A systemctl restart network-manager.service")
+        , ((modm, xK_y), spawn "mpv $(xsel -b)")
         ]
 
 additionalKeyMaps :: [((ButtonMask, KeySym), X ())]
