@@ -1,8 +1,12 @@
 function to_vim
 	if in_vim_session 
-		echo "exiting session"
+		if not count $argv >/dev/null
+			echo "exiting session"
+		end
 		exit
 	else
-		echo "not in a vim session"
+		if not count $argv >/dev/null
+			echo "not in a vim session"
+		end
 	end
 end
