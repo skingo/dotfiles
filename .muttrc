@@ -8,7 +8,7 @@ set my_pass_uni2  = `awk '/Uni2:/ {print $2}' ~/.secret/.tmp`
 set my_pass_wsi   = `awk '/WSI:/ {print $2}' ~/.secret/.tmp`
 set my_del        = `rm -f ~/.secret/.tmp`
 
-set my_muttdir    = "/home/skinge/.mutt"
+set my_muttdir    = "$HOME/.mutt"
 
 # gmail imap
 #-------------------------------------
@@ -61,18 +61,25 @@ set recall=ask-no
 set mail_check=60
 unset imap_passive
 set mbox_type=Maildir
-set mailcap_path="/home/skinge/.mutt/mailcap"
+set mailcap_path="$HOME/.mutt/mailcap"
 # sort threads using last mail in thread
 set sort=reverse-threads
 set sort_aux=last-date
 # attach whole mail when forwarding (i.e. include attachments)
-set mime_forward=ask-yes
+set mime_forward=ask-no
+# do not put messages into threads if only subject field matches
+set strict_threads=yes
 
 # clean up tmp files generated using current mailcap...
 folder-hook . `rm -f /tmp/mutt/*`
 
 # Don't press key after we're done with external program
 set wait_key = no
+
+# do not fill out the "user-agent" header field
+set user_agent=no
+
+subscribe fom@cs.nyu.edu
 
 # set folders that can receive mail
 #mailboxes imaps://soziflip@imap.googlemail.com/ #siehe auch http://blog.mafr.de/2012/09/09/mutt-too-many-errors/
@@ -113,6 +120,8 @@ set date_format  = "!%a, %d.%b, %Y at %H:%M:%S %Z"
 # display html mails correctly
 auto_view text/html
 
+alternates "ingo.skupin@(g(oogle)?mail.com|(student.)?uni-tuebingen.de)|skupin@informatik.uni-tuebingen.de"
+
 #set editor="vim -c 'startinsert' -c 'set tw=70' -c 'set wrap' '+/^$'"
 # start vim in insert mode in (new) first line
 set editor="vim -c 'startinsert' -c 'normal O' -c 'set tw=70' -c 'set wrap'"
@@ -135,6 +144,11 @@ bind   pager         i        exit
 bind   index,pager   \Co      sidebar-open
 bind   index,pager   \Cn      sidebar-next
 bind   index,pager   \Cp      sidebar-prev
+
+bind   attach        G        last-entry
+bind   attach        gg       first-entry
+
+macro  generic       <ESC>w   "<enter-command>source /home/skupin/.mutt/accounts/wsi<enter>"
 
 # follow links in emails
 macro index,pager <esc>f "<enter-command>set my_pipe_decode=$pipe_decode pipe_decode<enter><pipe-message>urlview<enter><enter-command>set pipe_decode=$my_pipe_decode<enter>" "Follow links with urlview"
