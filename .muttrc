@@ -150,7 +150,7 @@ bind   index,pager   \Cp      sidebar-prev
 bind   attach        G        last-entry
 bind   attach        gg       first-entry
 
-macro  generic       <ESC>w   "<enter-command>source /home/skupin/.mutt/accounts/wsi<enter>"
+macro  generic       <ESC>w   "<enter-command>source $HOME/.mutt/accounts/wsi<enter>"
 
 # follow links in emails
 macro index,pager <esc>f "<enter-command>set my_pipe_decode=$pipe_decode pipe_decode<enter><pipe-message>urlview<enter><enter-command>set pipe_decode=$my_pipe_decode<enter>" "Follow links with urlview"
