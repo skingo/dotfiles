@@ -141,6 +141,8 @@ bind   pager         G        bottom
 
 bind   pager         i        exit
 
+bind   pager         <Esc>g   group-reply
+
 bind   index,pager   \Co      sidebar-open
 bind   index,pager   \Cn      sidebar-next
 bind   index,pager   \Cp      sidebar-prev

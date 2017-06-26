@@ -72,7 +72,7 @@ call IMAP('II', '\item<++>', 'tex')
 
 " easy align* environment
 call IMAP('EAG', "\\begin{align*}\n<++>\n\\end{align*}", 'tex')
-call IMAP('todo', "\\todo{<++>}", 'tex')
+call IMAP('todo', "\\todo[<++>]{<++>}", 'tex')
 
 call IMAP('~~', '\approx', 'tex')
 call IMAP('`°', '^\circ', 'tex')
@@ -80,7 +80,7 @@ call IMAP('`E', '\exists ', 'tex')
 call IMAP('`A', '\forall ', 'tex')
 call IMAP('=>', '\implies ', 'tex')
 call IMAP('<=>', '\iff ', 'tex')
-call IMAP('->', '\to ', 'tex')
+"call IMAP('->', '\to ', 'tex')
 call IMAP('-->', '\mapsto ', 'tex')
 call IMAP('<->', '\leftrightarrow ', 'tex')
 

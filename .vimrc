@@ -303,6 +303,8 @@ cnoremap <C-K> <Up>
 cnoremap <C-J> <Down>
 cnoremap <C-L> <Right>
 cnoremap <C-H> <Left>
+cnoremap <C-Y> <S-Left>
+cnoremap <C-X> <S-Right>
 
 cnoremap <C-G> <C-A>
 
