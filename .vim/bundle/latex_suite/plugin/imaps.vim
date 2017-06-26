@@ -244,7 +244,7 @@ function! s:LookupCharacter(char)
 				" abbreviations.
 				let _a = @a
 				exec "redir @a | silent! iab ".lastword." | redir END"
-				let abbreviationRHS = matchstr(@a."\n", "\n".'i\s\+'.lastword.'\s\+@\?\zs.*\ze'."\n")
+				let abbreviationRHS = matchstr(@a."\n", "\n".'i\s\+'.escape(lastword,'\').'\s\+@\?\zs.*\ze'."\n")
 
 				call IMAP_Debug('getting abbreviationRHS = ['.abbreviationRHS.']', 'imap')
 

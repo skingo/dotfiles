@@ -16,6 +16,7 @@ call IMAP('`)', '\supseteq ', 'tex')
 call IMAP('`0', '\emptyset', 'tex')
 
 nunmap <buffer> ,ll
-nnoremap <leader>ll :MMake<CR>
+nnoremap <buffer> <leader>ll :execute 'MMake '.expand('%:r')<CR>
+nnoremap <buffer> <leader>lt :call system('xdg-open '.expand('%:r').'.pdf')<CR>
 
 set makeprg=make
