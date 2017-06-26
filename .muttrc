@@ -124,7 +124,7 @@ alternates "ingo.skupin@(g(oogle)?mail.com|(student.)?uni-tuebingen.de)|skupin@i
 
 #set editor="vim -c 'startinsert' -c 'set tw=70' -c 'set wrap' '+/^$'"
 # start vim in insert mode in (new) first line
-set editor="vim -c 'startinsert' -c 'normal O' -c 'set tw=70' -c 'set wrap'"
+set editor="vim -c 'startinsert' -c 'set tw=70' -c 'set wrap'"
 
 # change keys
 bind   index,browser G        last-entry
@@ -174,6 +174,9 @@ macro browser <esc>5 '7<enter><enter>' "switch to wsi"
 # copy "to" or "cc" field to clipboard
 macro pager <esc>t "<pipe-message> sed -rn '/\^To:/,/\^[\^ \\t]/{/\^To:|\^[ \\t]/{s/\^To://;H;b};x; s/\^\\n*\\s*|\\n*\\s*\$//g;s/(\\s*\\n\\s*|,)+/, /g;p;q}' | xsel -b -i<enter>"
 macro pager <esc>c "<pipe-message> sed -rn '/\^Cc:/,/\^[\^ \\t]/{/\^Cc:|\^[ \\t]/{s/\^Cc://;H;b};x; s/\^\\n*\\s*|\\n*\\s*\$//g;s/(\\s*\\n\\s*|,)+/, /g;p;q}' | xsel -b -i<enter>"
+
+# add "[Risk]" tag to subject when contacting risk group (hacky) 
+source $HOME/.mutt/risk_hook.mutt
 
 bind browser <esc>c check-new
 
