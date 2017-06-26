@@ -168,7 +168,12 @@ macro browser <esc>1 '6<enter><enter>' "switch to gmail"
 macro browser <esc>2 '13<enter><enter>' "switch to uni"
 macro browser <esc>3 '9<enter><enter>' "switch to kigerteks"
 macro browser <esc>4 '1<enter><enter>' "switch to uni2"
-macro browser <esc>5 '10<enter><enter>' "switch to wsi"
+macro browser <esc>5 '7<enter><enter>' "switch to wsi"
+
+
+# copy "to" or "cc" field to clipboard
+macro pager <esc>t "<pipe-message> sed -rn '/\^To:/,/\^[\^ \\t]/{/\^To:|\^[ \\t]/{s/\^To://;H;b};x; s/\^\\n*\\s*|\\n*\\s*\$//g;s/(\\s*\\n\\s*|,)+/, /g;p;q}' | xsel -b -i<enter>"
+macro pager <esc>c "<pipe-message> sed -rn '/\^Cc:/,/\^[\^ \\t]/{/\^Cc:|\^[ \\t]/{s/\^Cc://;H;b};x; s/\^\\n*\\s*|\\n*\\s*\$//g;s/(\\s*\\n\\s*|,)+/, /g;p;q}' | xsel -b -i<enter>"
 
 bind browser <esc>c check-new
 
